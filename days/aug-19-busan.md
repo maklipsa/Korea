@@ -1,0 +1,23 @@
+# Aug 19 (Wed) — BUSAN FULL DAY
+
+**Activate Visit Busan Pass 24h today.**
+
+Wednesday: Jagalchi open (closed 1st/3rd Tue). Gukje open (closed 1st/3rd Sun). Oryukdo closed Mon only. All clear.
+
+## Route Map
+[View walking route on Google Maps](https://www.google.com/maps/dir/Haedong+Yonggungsa+Temple+Busan/Haeundae+Blueline+Park+Busan/Gamcheon+Culture+Village+Busan/Jagalchi+Fish+Market+Busan/BIFF+Square+Busan/Busan+Tower+Yongdusan+Park/Bupyeong+Kkangtong+Night+Market+Busan)
+
+## Schedule
+
+| Time | Activity | Price |
+|------|----------|-------|
+| 7:00 | **[Haedong Yonggungsa Temple](https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan)** — Oceanside temple, 108 stone steps, spectacular at dawn. Go early before tour buses! Bus #181 from Haeundae. | Free |
+| 9:00 | **[Haeundae Blueline Park — Sky Capsule](https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan)** — Colorful pods on elevated rail along the coast. Mipo → Cheongsapo → Songjeong. **BOOK 14 DAYS AHEAD.** Beach Train is on the Busan Pass. | Pass (Beach Train) / 35,000-44,000 KRW (Sky Capsule) |
+| 11:00 | **[Gamcheon Culture Village](https://www.google.com/maps/search/Gamcheon+Culture+Village+Busan)** — "Machu Picchu of Korea." Get the **Stamp Tour map** (2,000 KRW) = scavenger hunt through colorful alleys for kids. Little Prince statue, BTS mural. Allow 2-3 hours. | Free (map 2,000 KRW) |
+| 11:30 | Cafe: [Coffee It House](https://www.google.com/maps/search/Coffee+It+House+Gamcheon+Busan) rooftop (best panoramic view). |  |
+| 13:30 | Head to **Nampo-dong** area (subway or taxi). |  |
+| 14:00 | **[Jagalchi Fish Market](https://www.google.com/maps/search/Jagalchi+Fish+Market+Busan)** — Korea's largest seafood market. Buy fish on first floor, have it cooked upstairs (~3,000-5,000 KRW prep fee). Live octopus, crabs, abalone — kids will be fascinated. |  |
+| 15:30 | **BIFF Square** — Ssiat Hotteok (Busan's signature: fried pancakes with seeds, nuts, cinnamon, ~1,000-2,000 KRW). Celebrity handprints. |  |
+| 16:00 | **[Gukje Market](https://www.google.com/maps/search/Gukje+Market+Busan)** — Massive market. Souvenirs, food, Korean goods. |  |
+| 17:00 | **[Busan Tower (Yongdusan Park)](https://www.google.com/maps/search/Busan+Tower+Yongdusan+Park)** — Sunset views over harbor from 120m. Ride outdoor escalators up. | Pass or ~12,000 KRW |
+| 19:00 | Dinner: **[Bupyeong Kkangtong Night Market](https://www.google.com/maps/search/Bupyeong+Kkangtong+Night+Market+Busan)** — Opens 7:30pm. Korea's first permanent night market. Bibim dangmyeon, egg hotteok, grilled pork belly. | ~10,000-20,000 KRW |

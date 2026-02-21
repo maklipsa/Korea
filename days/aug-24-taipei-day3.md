@@ -1,0 +1,17 @@
+# Aug 24 (Mon) — TAIPEI DAY 3: Kids' Science Day + Shilin Night Market
+
+Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But Shilin science complex is open (summer vacation = open Mondays).
+
+## Route Map
+[View walking route on Google Maps](https://www.google.com/maps/dir/Taipei+Childrens+Amusement+Park/National+Taiwan+Science+Education+Center+Taipei/Taipei+Astronomical+Museum/Shilin+Night+Market+Taipei)
+
+## Schedule
+
+| Time | Activity | Price |
+|------|----------|-------|
+| 9:00 | **[Taipei Children's Amusement Park](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park)** — Drop tower, roller coaster, pirate ship, bumper cars, arcades. Incredibly cheap! Entry NT$30, rides NT$20-30 each, or all-day pass NT$200. | NT$200 day pass |
+| 12:00 | Lunch nearby. |  |
+| 13:00 | **[National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei)** — Interactive exhibits (life/physical/earth sciences). Great for 9-year-olds. Right next door to amusement park. | NT$100 |
+| 15:00 | **[Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum)** — Planetarium shows, IMAX theater, space exhibits. Also next door. | NT$40 + IMAX NT$100 |
+| 17:00 | Explore Shilin area. [Pokemon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) or [Donguri Republic (Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Huge Totoro cat bus kids can enter. |  |
+| 18:30 | **[Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei)** — Taiwan's largest (since 1909). 500+ vendors. Large sausages, chicken cutlets, salt-crisp fried chicken with basil. Giant portions. | ~NT$200-400/person |

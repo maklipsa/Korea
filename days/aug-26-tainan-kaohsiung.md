@@ -1,0 +1,26 @@
+# Aug 26 (Wed) — TAINAN MORNING → KAOHSIUNG
+
+## Route Map
+
+**Tainan morning:**
+[View walking route on Google Maps](https://www.google.com/maps/dir/Six+Thousand+Beef+Soup+Tainan/Guohua+Street+Tainan/Chihkan+Tower+Tainan/Hayashi+Department+Store+Tainan)
+
+**Kaohsiung afternoon/evening:**
+[View walking route on Google Maps](https://www.google.com/maps/dir/Formosa+Boulevard+MRT+Kaohsiung/Pier-2+Art+Center+Kaohsiung/Cijin+Island+Kaohsiung/Liuhe+Night+Market+Kaohsiung)
+
+## Schedule
+
+| Time | Activity | Price |
+|------|----------|-------|
+| 7:00 | **[Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan)** — Go early morning. This is a Tainan BREAKFAST food. No-frills, incredible. |  |
+| 8:30 | **[Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan)** food crawl — Tainan's main food artery. Stall after stall. Try minced pork rice. |  |
+| 9:30 | **[Chihkan Tower](https://www.google.com/maps/search/Chihkan+Tower+Tainan)** — Dutch-built 1653. Opens 8:30am. | NT$70 |
+| 10:30 | **[Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan)** — Danzai noodles since 1895. Broth pot allegedly never fully cleaned in 130+ years. Opens 11am. | ~NT$100 |
+| 11:30 | **[Hayashi Department Store](https://www.google.com/maps/search/Hayashi+Department+Store+Tainan)** — 1932 building restored to 1930s glory. Teas, vintage souvenirs. Rooftop Shinto shrine (only one in Taiwan). | Free entry |
+| 12:30 | **Snail Alley** — Hidden neighborhood with snail statues everywhere. Scavenger hunt for kids! |  |
+| 13:30 | **HSR Tainan → Kaohsiung** (~15-20 min) or TRA (~30-45 min). |  |
+| 15:00 | **[Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung)** — World's largest glass art. 4,000+ pieces. Light show at 3pm. | Free |
+| 15:30 | **[Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** — Harbor warehouses turned galleries. Outdoor murals, quirky sculptures. | Free (outdoor) |
+| 17:00 | **Ferry to [Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** (5 min). Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast. | Ferry ~NT$40 |
+| 19:00 | Ferry back. |  |
+| 19:30 | **[Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung)** dinner — Tourist-friendly, strong on seafood. (Ruifeng is closed Wed.) | ~NT$200-400/person |
