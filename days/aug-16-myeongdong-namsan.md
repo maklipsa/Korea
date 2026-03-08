@@ -18,3 +18,26 @@
 | 17:00 | Walk to **Euljiro** — [Coffee Hanyakbang](https://www.google.com/maps/search/Coffee+Hanyakbang+Euljiro+Seoul) (herbal medicine-themed hidden cafe), [Sewoon Sangga](https://www.google.com/maps/search/Sewoon+Sangga+Seoul) rooftop garden views. |  |
 | 19:00 | **Myeongdong Night Market** dinner (4pm-11pm) — 100+ stalls. Cheesy lobster tail, grilled squid, egg bread. |  |
 | 20:00 | Desserts: [SOFTREE](https://www.google.com/maps/search/SOFTREE+Myeongdong+Seoul) (honeycomb ice cream), tanghulu (candied fruit), Dragon's Beard Candy. |  |
+
+---
+
+## Also Nearby
+
+### More Landmarks
+- [Namdaemun Gate (Sungnyemun)](https://www.google.com/maps/search/Namdaemun+Gate+Seoul) — National Treasure No. 1; the Great South Gate (1398)
+- [Myeongdong Cathedral](https://www.google.com/maps/search/Myeongdong+Cathedral+Seoul) — Gothic cathedral (1898); Seoul's oldest parish church
+- [Seoullo 7017](https://www.google.com/maps/search/Seoullo+7017+Seoul) — Elevated walkway/park on former highway overpass
+
+### More Cafes
+- [Gonggan Gab](https://www.google.com/maps/search/Gonggan+Gab+Euljiro+Seoul) — Euljiro; Vanilla Custard Pudding Bingsu; Mint Chocolate Basque Cheesecake
+
+### More Food
+- [Woo Lae Oak](https://www.google.com/maps/search/Woo+Lae+Oak+Seoul) — Since 1946; Pyongyang naengmyeon (cold buckwheat noodles)
+- [Hadongkwan](https://www.google.com/maps/search/Hadongkwan+Seoul) — Since 1930s; gomtang (beef bone soup) and suyuk
+- [Euljiro Nogari Alley](https://www.google.com/maps/search/Euljiro+Nogari+Alley+Seoul) — Retro pub alley; dried pollock with cheap beer
+
+### More Shopping
+- [Dongdaemun Shopping Complex](https://www.google.com/maps/search/Dongdaemun+Shopping+Complex+Seoul) — Fabric, silk, beads, buttons; 24-hour shopping culture
+
+### More Kid-Friendly
+- [Alive Museum Myeongdong](https://www.google.com/maps/search/Alive+Museum+Myeongdong+Seoul) — Trick-eye museum

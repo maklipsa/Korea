@@ -18,3 +18,18 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
 | 18:00 | **Songnidan-gil** — Trendy food street south of the lake. |  |
 | 18:30 | Cafe: [Mountain Nook](https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul) (forest-themed mega-cafe) or [Bontemps](https://www.google.com/maps/search/Bontemps+Songnidan+Seoul) (Korean twisted donuts). |  |
 | 19:30 | Dinner: [Motor City](https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul) (Detroit-style pizza) or [Pizzeria Lago](https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul) (wood-fired). |  |
+
+---
+
+## Also Nearby
+
+### More to See
+- [Olympic Park](https://www.google.com/maps/search/Olympic+Park+Seoul) — 1988 Seoul Olympics site; massive green space, art sculptures, Peace Gate
+- [KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) — 90+ career role-plays for ages 4-14
+- Seokchon Lake pedal boats — Seasonal
+
+### More Cafes
+- [Lala Bread](https://www.google.com/maps/search/Lala+Bread+Songnidan+Seoul) — Watch fresh bread being baked; famous pastries
+
+### More Food
+- [Bangimatol Food Alley](https://www.google.com/maps/search/Bangimatol+Bangi+Seoul) — "Gourmet street" packed with top restaurants

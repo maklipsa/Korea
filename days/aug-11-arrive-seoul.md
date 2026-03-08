@@ -19,3 +19,22 @@ Gyeongbokgung closed Tuesdays — no conflict. Half day: settled by noon, explor
 | 17:00 | Walk to **[Ikseon-dong](https://www.google.com/maps/search/Ikseon-dong+Seoul)** (10 min from DDP) — Seoul's oldest hanok village turned hip cafe/restaurant district. Wander narrow alleys, browse boutique shops. | |
 | 17:30 | Cafe: **[Cheong Su Dang](https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul)** (stepping stones over water inside the cafe) or **[Seoul Coffee](https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong)** (squid-ink butter bread). | |
 | 19:00 | Dinner in Ikseon-dong hanok restaurants — Fusion dishes in renovated hanoks. Try the swirl omelet rice or tteokbokki carbonara. | |
+
+---
+
+## Also Nearby
+
+### More Cafes
+- [Cheese Industry](https://www.google.com/maps/search/Cheese+Industry+Ikseon-dong+Seoul) — Ikseon-dong; artisan cheese cafe
+- [Miik Flo Kaymak](https://www.google.com/maps/search/Miik+Flo+Dongdaemun+Seoul) — Near DDP; pastel cafe; kaymak cream desserts from 3,900 KRW
+
+### More Food
+- [Kkangtong Mandu](https://www.google.com/maps/search/Kkangtong+Mandu+Seoul) — Hidden alley dumplings and cold noodles
+- [Sindang-dong Tteokbokki Town](https://www.google.com/maps/search/Sindang+Tteokbokki+Town+Seoul) — Legendary tteokbokki with sundae (blood sausage); near DDP
+
+### More to See
+- [Heunginjimun (Dongdaemun Gate)](https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul) — Original Seoul Fortress gate (1398), next to DDP
+- [Seoullo 7017](https://www.google.com/maps/search/Seoullo+7017+Seoul) — Elevated walkway/park on former highway overpass
+
+### Workshops
+- [Ikseon Gongbang](https://www.google.com/maps/search/Ikseon+Gongbang+Seoul) — Make herbariums, sand candles, plaster fresheners, diffusers

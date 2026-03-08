@@ -18,3 +18,12 @@ NPM closed (Sun) — perfect day for the coast.
 | 17:00 | **[A-Mei Tea House](https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen)** — 3 floors, sweeping views over Keelung Bay. Red lanterns glow at dusk. Tea set + snacks. | ~NT$300/person for tea set |
 | 19:00 | Return to Taipei. |  |
 | 20:30 | Light dinner near hotel or convenience store. |  |
+
+---
+
+## Also Nearby
+
+### Jinguashi (near Jiufen)
+- [Gold Museum](https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan) — Open-air, mostly free; gold rush era exhibits
+- [Golden Waterfall](https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan) — Orange-tinted waterfall from mineral deposits; very photogenic
+- Teapot Mountain Hike — 2-3 hours; 360-degree views; doable for active 9-year-olds

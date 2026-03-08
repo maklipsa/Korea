@@ -18,3 +18,28 @@ Animal cafes, weird ice cream, escape rooms, street performers.
 | 17:30 | **[KEYESCAPE](https://www.google.com/maps/search/KEYESCAPE+Hongdae+Seoul)** escape room — Award-winning, English-friendly. Book ahead! | ~20,000-30,000 KRW/person |
 | 19:00 | Dinner: [Pungcheon Eel](https://www.google.com/maps/search/Pungcheon+Eel+Hongdae+Seoul) (grilled eel over charcoal) or [Honkaz](https://www.google.com/maps/search/Honkaz+Hongdae+Seoul) (cheese-stuffed tonkatsu). |  |
 | 20:00 | **Hongdae street busking** — Free performances on weekend evenings (Fri = yes!). |  |
+
+---
+
+## Also Nearby
+
+### More Cafes & Animals
+- [Meerkat Friends](https://www.google.com/maps/search/Meerkat+Friends+Hongdae+Seoul) — Meerkats, genets, wallabies, Arctic fox, raccoons
+- [ehbd](https://www.google.com/maps/search/ehbd+cafe+Hongdae+Seoul) — Pastel pink and mint "birthday party" themed
+- [TEESSERT](https://www.google.com/maps/search/TEESSERT+cafe+Hongdae+Seoul) — Retro 1980s Seoul-themed cafe
+
+### More Gelato
+- [Gelateria Eta](https://www.google.com/maps/search/Gelateria+Eta+Hongdae+Seoul) — Mugwort fig cream cheese, Jack Daniel's chocolate
+- [Melted](https://www.google.com/maps/search/Melted+gelato+Hongdae+Seoul) — Sweetcorn mocha, roasted brown rice, knafeh chocolate
+- Tanghulu (candied fruit skewers) vendors along the shopping street
+
+### More Food
+- [Ildeung Sikdang](https://www.google.com/maps/search/Ildeung+Sikdang+Mangwon+Seoul) — Ox bone soup since 1986; one signature dish
+- [Oshi](https://www.google.com/maps/search/Oshi+Mangwon+Seoul) — Osaka-style okonomiyaki
+
+### More to See
+- [Hongdae Children's Playground](https://www.google.com/maps/search/Hongdae+Playground+Seoul) — Weekend flea market; street performers
+- [Mangwon Hangang Park](https://www.google.com/maps/search/Mangwon+Hangang+Park+Seoul) — Riverside cycling and picnics
+- [Hongdae Free Market](https://www.google.com/maps/search/Hongdae+Free+Market+Seoul) — Weekend handmade goods
+- Self-photo studios — Retro black-and-white photo booths throughout Hongdae
+- Acorn Caricature Studios — Get a cartoon drawn (~5,000 KRW)

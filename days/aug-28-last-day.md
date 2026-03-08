@@ -26,3 +26,16 @@ No fixed route — pick a morning activity:
 | 16:00 | **Taoyuan Airport MRT** from Taipei Main Station → TPE Airport (~40 min, NT$160). |  |
 | 17:00 | Check into **airport hotel** (recommended: Novotel Taipei Taoyuan Airport, or similar). |  |
 | Evening | Relax, pack, explore airport terminal shops. |  |
+
+---
+
+## Also Nearby
+
+### More Activities
+- [Alice is Coming Cafe](https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei) — Wonderland-themed
+- [Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei) — Capybara cafe; plus rabbits, ducks
+- [Nice Cream](https://www.google.com/maps/search/Nice+Cream+Taipei) — Vegan gelato; Earl Grey waffle
+
+### Pineapple Cake Shops (essential Taiwan souvenir)
+- [Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) — Most popular pineapple cake bakery
+- [SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei) — 100% pineapple filling; free tasting with tea

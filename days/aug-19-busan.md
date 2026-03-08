@@ -21,3 +21,33 @@ Wednesday: Jagalchi open (closed 1st/3rd Tue). Gukje open (closed 1st/3rd Sun). 
 | 16:00 | **[Gukje Market](https://www.google.com/maps/search/Gukje+Market+Busan)** — Massive market. Souvenirs, food, Korean goods. |  |
 | 17:00 | **[Busan Tower (Yongdusan Park)](https://www.google.com/maps/search/Busan+Tower+Yongdusan+Park)** — Sunset views over harbor from 120m. Ride outdoor escalators up. | Pass or ~12,000 KRW |
 | 19:00 | Dinner: **[Bupyeong Kkangtong Night Market](https://www.google.com/maps/search/Bupyeong+Kkangtong+Night+Market+Busan)** — Opens 7:30pm. Korea's first permanent night market. Bibim dangmyeon, egg hotteok, grilled pork belly. | ~10,000-20,000 KRW |
+
+---
+
+## Also Nearby
+
+### Gamcheon Extras
+- [Cafe Avant Garde](https://www.google.com/maps/search/Cafe+Avant+Garde+Gamcheon+Busan) — Retro/vintage records and radios; also a gallery
+- BTS Mural (Jungkook and Jimin) — Popular photo spot
+- The Little Prince & the Fox statue — Most photographed spot
+
+### Nampo Extras
+- [K-POP FRIENDS Nampo](https://www.google.com/maps/search/KPOP+FRIENDS+Nampo+Busan) — K-pop merch, albums, photo cards
+
+### Gwangalli (evening option)
+- [Gwangalli Beach](https://www.google.com/maps/search/Gwangalli+Beach+Busan) — Nighttime bridge views; Sat drone shows
+- [Millak Raw Fish Center](https://www.google.com/maps/search/Millak+Raw+Fish+Center+Busan) — Buy fresh fish downstairs, eat upstairs
+
+### Seomyeon (if passing through)
+- [Seomyeon Dwaeji Gukbap Street](https://www.google.com/maps/search/Seomyeon+Dwaeji+Gukbap+Busan) — 24h pork bone soup street
+- [Jeonpo Cafe Street](https://www.google.com/maps/search/Jeonpo+Cafe+Street+Busan) — Neighborhood of indie cafes
+- [ARTBOX Seomyeon](https://www.google.com/maps/search/ARTBOX+Seomyeon+Busan) — Korean stationery, gifts, quirky novelties
+
+### Desserts
+- [Yonghodong Halme Patbingsu](https://www.google.com/maps/search/Yonghodong+Halme+Patbingsu+Busan) — Since 1983; traditional shaved ice
+- [Dongnae Halmae Pajeon](https://www.google.com/maps/search/Dongnae+Halmae+Pajeon+Busan) — Four generations; crispy green onion pancake with squid
+
+### Coastal Walks
+- [Igidae Coastal Walk](https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan) — 4.7km trail; volcanic rock, sea caves; 2.5 hours
+- [Oryukdo Skywalk](https://www.google.com/maps/search/Oryukdo+Skywalk+Busan) — Glass bridge 35m over a cliff; free (closed Mon)
+- [Beomeosa Temple](https://www.google.com/maps/search/Beomeosa+Temple+Busan) — Built 678 AD; ancient forests; far less touristy

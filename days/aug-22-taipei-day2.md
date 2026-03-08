@@ -19,3 +19,31 @@
 | 16:00 | **[Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei)** — Short steep hike (10-20 min). THE iconic Taipei 101 photo from "Six Boulders" viewpoint. 9-year-olds handle it fine. | Free |
 | 17:30 | **[Taipei 101 Observatory](https://www.google.com/maps/search/Taipei+101)** — Floors 88-89 + outdoor deck floor 91. Go for golden hour → sunset → night views. | Pass or NT$600 |
 | 19:30 | MRT to Songshan. **[Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei)** — Taipei's best for foodies. 6 Michelin-awarded stalls. **Fuzhou Black Pepper Buns** at entrance (always a line — worth it). | ~NT$200-400/person |
+
+---
+
+## Also Nearby
+
+### More in Beitou
+- [Beitou Park](https://www.google.com/maps/search/Beitou+Park+Taipei) — Hot spring education center, children's hot spring play area
+
+### Near Taipei 101
+- [Songshan Cultural and Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei) — Former tobacco factory; pop-up galleries
+- [44 South Military Village](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Retro village; cafes, handmade goods
+- [Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) — Taipei's "Central Park"; 26 hectares, pond, playgrounds
+- [Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Grand colorful Mazu temple beside Raohe
+
+### Yongkang Street Extras
+- [Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Since 1963; famous pot-stickers
+- [Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Original location (takeout only); grab xiao long bao
+- Mango shaved ice shops along Yongkang Street (seasonal)
+
+### Shopping
+- [Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — 1960s apartments turned indie boutiques
+- [Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Garment district; teen clothing at wholesale prices
+
+### More Night Markets
+- [Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei) — Most "sophisticated" night market; innovative bubble tea
+
+### Bubble Tea
+- [50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — One of Taiwan's most iconic local boba chains

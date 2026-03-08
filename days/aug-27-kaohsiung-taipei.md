@@ -26,3 +26,20 @@
 | 18:30 | MRT to Da'an area. |  |
 | 19:00 | Farewell dinner: **[Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei)** — [Yongkang Beef Noodles](https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei) (since 1963) or [Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) (pot-stickers). |  |
 | 20:30 | **[Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei)** — Most "sophisticated" night market. Last night market of the trip! |  |
+
+---
+
+## Also Nearby
+
+### More in Kaohsiung
+- [Weiwuying](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — World's largest performing arts center; family workshops
+- Papaya milk from street vendors — Kaohsiung specialty!
+
+### Maokong Extras
+- [Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) — At gondola base; one of Asia's largest (NT$60; closes 5pm weekdays)
+- Specific teahouses: Mountain Tea House, Found Your Tea, The Big Tea Pot
+
+### Yongkang Street Extras
+- [Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Since 1963; famous pot-stickers
+- [Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Original location (takeout only); xiao long bao
+- Mango shaved ice shops (seasonal)

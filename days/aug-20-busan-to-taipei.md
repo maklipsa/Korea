@@ -20,3 +20,13 @@
 | ~17:00-18:00 | **Flight PUS → TPE** (~2.5 hours). | Booked ahead |
 | ~20:00 | Arrive **Taipei Taoyuan Airport**. Airport MRT to Taipei Main Station (~40 min, NT$160). |  |
 | 21:00 | Check in hotel. Grab late dinner from a convenience store or nearby night market. |  |
+
+---
+
+## Also Nearby
+
+### Busan Morning Extras
+- [Taejongdae Resort Park](https://www.google.com/maps/search/Taejongdae+Busan) — Sea cliffs, Yeongdo Lighthouse, Danubi Train; 2.2 miles trail
+- [Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) — Observatory floors 98-100; also world's highest Starbucks
+- [Busan National Science Museum](https://www.google.com/maps/search/Busan+National+Science+Museum) — Interactive exhibits, space simulations, robotics; great for age 9+
+- [Trick Eye Museum Haeundae](https://www.google.com/maps/search/Trick+Eye+Museum+Haeundae+Busan) — Immersive optical illusions

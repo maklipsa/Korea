@@ -16,3 +16,9 @@ National holiday. Get out of the city — nature day with kid-friendly activitie
 | 16:30 | **[Garden of Morning Calm](https://www.google.com/maps/search/Garden+of+Morning+Calm+Gapyeong)** — Beautiful botanical garden. Peaceful end to an active day. | ~11,000 KRW |
 | 18:00 | Train back to Seoul. |  |
 | 19:30 | Light dinner near hotel. |  |
+
+---
+
+## Also Nearby
+
+- [Petite France](https://www.google.com/maps/search/Petite+France+Gapyeong) — French-themed cultural village; marionettes, music boxes; kitschy but fun for kids

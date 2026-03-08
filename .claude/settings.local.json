@@ -4,7 +4,10 @@
       "Bash(pip show:*)",
       "Bash(git -C /c/src/Korea log --oneline -5)",
       "Bash(python gmaps_saver.py:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(python3:*)",
+      "Bash(node -c:*)",
+      "Bash(node -e:*)"
     ]
   }
 }

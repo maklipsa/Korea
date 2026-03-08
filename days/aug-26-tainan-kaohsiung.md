@@ -24,3 +24,20 @@
 | 17:00 | **Ferry to [Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** (5 min). Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast. | Ferry ~NT$40 |
 | 19:00 | Ferry back. |  |
 | 19:30 | **[Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung)** dinner — Tourist-friendly, strong on seafood. (Ruifeng is closed Wed.) | ~NT$200-400/person |
+
+---
+
+## Also Nearby
+
+### More in Tainan
+- [Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) — Originally a Southern Ming prince's palace (1664)
+- [Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Art installations in former dormitory
+- [Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Food stalls, shrimp crackers near Fort Zeelandia
+
+### More in Kaohsiung
+- [Weiwuying](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — World's largest performing arts center under one roof; family workshops
+- [Fo Guang Shan Monastery](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — Taiwan's largest Buddhist monastery; largest Buddha statue; FREE (closed Tue)
+- [Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — Evening cruise; lit up at night
+
+### Kaohsiung Night Markets
+- [Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung) — Kaohsiung's largest and best; 500+ stalls (closed Mon & Wed — skip today, open other days)
