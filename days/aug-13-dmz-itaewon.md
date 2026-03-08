@@ -1,7 +1,8 @@
 # Aug 13 (Thu) — DMZ MORNING + WAR MEMORIAL + ITAEWON/HANNAM
 
 ## Route Map
-[View walking route on Google Maps](https://www.google.com/maps/dir/War+Memorial+of+Korea+Seoul/National+Museum+of+Korea+Seoul/Itaewon+Seoul)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/-/transit)
+[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Itaewon+Seoul&waypoints=National+Museum+Korea+Seoul&travelmode=transit)
 
 (DMZ is a guided tour with pickup/dropoff — not shown on map.)
 

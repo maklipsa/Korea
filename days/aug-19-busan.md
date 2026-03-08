@@ -5,7 +5,8 @@
 Wednesday: Jagalchi open (closed 1st/3rd Tue). Gukje open (closed 1st/3rd Sun). Oryukdo closed Mon only. All clear.
 
 ## Route Map
-[View walking route on Google Maps](https://www.google.com/maps/dir/Haedong+Yonggungsa+Temple+Busan/Haeundae+Blueline+Park+Busan/Gamcheon+Culture+Village+Busan/Jagalchi+Fish+Market+Busan/BIFF+Square+Busan/Busan+Tower+Yongdusan+Park/Bupyeong+Kkangtong+Night+Market+Busan)
+[View route on Naver Map](https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Night+Market/-/transit)
+[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Haedong+Yonggungsa+Temple+Busan&destination=Bupyeong+Kkangtong+Night+Market+Busan&waypoints=Haeundae+Blueline+Park+Busan|Gamcheon+Culture+Village+Busan|Jagalchi+Fish+Market+Busan|Gukje+Market+Busan|Busan+Tower+Yongdusan+Park&travelmode=transit)
 
 ## Schedule
 

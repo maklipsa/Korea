@@ -10,7 +10,7 @@ No fixed route — pick a morning activity:
 - Option C: [Kuo Yuan Ye — Pineapple Cake Baking Class](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei)
 
 **Afternoon:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/Chifeng+Street+Taipei/Taipei+Main+Station)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Chifeng+Street+Taipei&destination=Taipei+Main+Station&travelmode=walking)
 
 ## Schedule
 

@@ -3,7 +3,8 @@
 National holiday. Get out of the city — nature day with kid-friendly activities.
 
 ## Route Map
-[View route on Google Maps](https://www.google.com/maps/dir/Nami+Island+Gapyeong/Gangchon+Rail+Bike+Gapyeong/Garden+of+Morning+Calm+Gapyeong)
+[View route on Naver Map](https://map.naver.com/p/directions/127.5256,37.7918,Nami+Island/127.3522,37.7440,Garden+of+Morning+Calm/-/transit)
+[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Nami+Island+Gapyeong&destination=Garden+of+Morning+Calm+Gapyeong&waypoints=Gangchon+Rail+Bike+Gapyeong&travelmode=transit)
 
 ## Schedule
 

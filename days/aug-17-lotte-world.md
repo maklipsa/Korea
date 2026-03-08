@@ -5,7 +5,8 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
 **Discover Seoul Pass still active** (covers Lotte World!).
 
 ## Route Map
-[View walking route on Google Maps](https://www.google.com/maps/dir/Lotte+World+Adventure+Seoul/Lotte+World+Tower+Seoul/Seokchon+Lake+Seoul/Songnidan-gil+Seoul)
+[View route on Naver Map](https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/-/transit)
+[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotte+World+Adventure+Seoul&destination=Songnidan-gil+Seoul&waypoints=Lotte+World+Tower+Seoul|Seokchon+Lake+Seoul&travelmode=transit)
 
 ## Schedule
 

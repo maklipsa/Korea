@@ -3,7 +3,7 @@
 NPM closed (Sun) — perfect day for the coast.
 
 ## Route Map
-[View route on Google Maps](https://www.google.com/maps/dir/Yehliu+Geopark+Taiwan/Shifen+Old+Street+Taiwan/Shifen+Waterfall+Taiwan/Jiufen+Old+Street+Taiwan)
+[View route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Yehliu+Geopark+Taiwan&destination=Jiufen+Old+Street+Taiwan&waypoints=Shifen+Old+Street+Taiwan|Shifen+Waterfall+Taiwan&travelmode=walking)
 
 ## Schedule
 

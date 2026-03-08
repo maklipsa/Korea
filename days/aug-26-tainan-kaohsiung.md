@@ -3,10 +3,10 @@
 ## Route Map
 
 **Tainan morning:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/Six+Thousand+Beef+Soup+Tainan/Guohua+Street+Tainan/Chihkan+Tower+Tainan/Hayashi+Department+Store+Tainan)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Six+Thousand+Beef+Soup+Tainan&destination=Hayashi+Department+Store+Tainan&waypoints=Guohua+Street+Tainan|Chihkan+Tower+Tainan&travelmode=walking)
 
 **Kaohsiung afternoon/evening:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/Formosa+Boulevard+MRT+Kaohsiung/Pier-2+Art+Center+Kaohsiung/Cijin+Island+Kaohsiung/Liuhe+Night+Market+Kaohsiung)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Formosa+Boulevard+MRT+Kaohsiung&destination=Liuhe+Night+Market+Kaohsiung&waypoints=Pier-2+Art+Center+Kaohsiung|Cijin+Island+Kaohsiung&travelmode=walking)
 
 ## Schedule
 

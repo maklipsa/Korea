@@ -3,7 +3,8 @@
 **Activate Discover Seoul Pass 48h today** (covers Namsan Tower + Lotte World tomorrow).
 
 ## Route Map
-[View walking route on Google Maps](https://www.google.com/maps/dir/Namsan+Cable+Car+Seoul/N+Seoul+Tower/Myeongdong+Kyoja+Seoul/Namdaemun+Market+Seoul/Coffee+Hanyakbang+Euljiro+Seoul/Myeongdong+Seoul)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/-/transit)
+[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Namsan+Cable+Car+Seoul&destination=Myeongdong+Seoul&waypoints=Namsan+Tower+Seoul|Myeongdong+Kyoja+Seoul|Namdaemun+Market+Seoul|Coffee+Hanyakbang+Euljiro+Seoul&travelmode=transit)
 
 ## Schedule
 

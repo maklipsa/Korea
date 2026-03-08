@@ -5,10 +5,10 @@
 ## Route Map
 
 **Taichung:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/Rainbow+Village+Taichung/Miyahara+Ice+Cream+Taichung/National+Taichung+Theater/Taichung+Second+Market)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Rainbow+Village+Taichung&destination=Taichung+Second+Market&waypoints=Miyahara+Ice+Cream+Taichung|National+Taichung+Theater&travelmode=walking)
 
 **Tainan (Anping area):**
-[View walking route on Google Maps](https://www.google.com/maps/dir/Fort+Zeelandia+Tainan/Anping+Treehouse+Tainan/Shennong+Street+Tainan/Dadong+Night+Market+Tainan)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Fort+Zeelandia+Tainan&destination=Dadong+Night+Market+Tainan&waypoints=Anping+Treehouse+Tainan|Shennong+Street+Tainan&travelmode=walking)
 
 ## Schedule
 

@@ -3,7 +3,7 @@
 **Activate Taipei Fun Pass Unlimited 2-day today** (covers today + tomorrow).
 
 ## Route Map
-[View walking route on Google Maps](https://www.google.com/maps/dir/Longshan+Temple+Taipei/Bopiliao+Historic+Block+Taipei/Chiang+Kai-shek+Memorial+Hall+Taipei/Snow+King+Ice+Cream+Taipei/Ximending+Taipei/Dihua+Street+Taipei/Ningxia+Night+Market+Taipei)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|Snow+King+Ice+Cream+Taipei|Ximending+Taipei|Dihua+Street+Taipei&travelmode=walking)
 
 ## Schedule
 

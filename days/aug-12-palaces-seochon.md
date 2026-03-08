@@ -3,7 +3,8 @@
 The big traditional Seoul day. Everything open on Wednesdays.
 
 ## Route Map
-[View walking route on Google Maps](https://www.google.com/maps/dir/Gyeongbokgung+Palace+Seoul/Tongin+Market+Seoul/Changdeokgung+Palace+Seoul/Bukchon+Hanok+Village+Seoul/Insadong-gil+Seoul/Gwangjang+Market+Seoul)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/-/transit)
+[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Gyeongbokgung+Palace+Seoul&destination=Gwangjang+Market+Seoul&waypoints=Tongin+Market+Seoul|Changdeokgung+Palace+Seoul|Bukchon+Hanok+Village+Seoul|Insadong-gil+Seoul&travelmode=transit)
 
 ## Schedule
 

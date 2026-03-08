@@ -3,7 +3,7 @@
 **Taipei Fun Pass still active** (day 2 of 2).
 
 ## Route Map
-[View route on Google Maps](https://www.google.com/maps/dir/National+Palace+Museum+Taipei/Beitou+Hot+Spring+Museum+Taipei/Thermal+Valley+Beitou+Taipei/Elephant+Mountain+Taipei/Taipei+101/Raohe+Night+Market+Taipei)
+[View route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Beitou+Hot+Spring+Museum+Taipei|Thermal+Valley+Beitou+Taipei|Elephant+Mountain+Taipei|Taipei+101&travelmode=walking)
 
 ## Schedule
 

@@ -3,7 +3,7 @@
 Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But Shilin science complex is open (summer vacation = open Mondays).
 
 ## Route Map
-[View walking route on Google Maps](https://www.google.com/maps/dir/Taipei+Childrens+Amusement+Park/National+Taiwan+Science+Education+Center+Taipei/Taipei+Astronomical+Museum/Shilin+Night+Market+Taipei)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Taipei+Childrens+Amusement+Park&destination=Shilin+Night+Market+Taipei&waypoints=National+Taiwan+Science+Education+Center+Taipei|Taipei+Astronomical+Museum&travelmode=walking)
 
 ## Schedule
 

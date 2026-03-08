@@ -11,7 +11,8 @@ const DAYS = [
     notes: 'Gyeongbokgung closed Tuesdays \u2014 no conflict. Half day: settled by noon, explore 12:30\u201320:00.',
     badges: [],
     maps: [
-      { label: 'Walking route', url: 'https://www.google.com/maps/dir/Tosokchon+Samgyetang+Seoul/Cheonggyecheon+Stream+Plaza+Seoul/Dongdaemun+Design+Plaza+Seoul/Ikseon-dong+Seoul' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/-/transit' },
+      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Tosokchon+Samgyetang+Seoul&destination=Ikseon-dong+Seoul&waypoints=Cheonggyecheon+Stream+Seoul|Dongdaemun+Design+Plaza+Seoul&travelmode=transit' }
     ],
     schedule: [
       { time: '9:00', activity: 'Land at Incheon (ICN). Buy <strong>T-money card</strong> at convenience store, load ~50,000 KRW.', price: '' },
@@ -53,7 +54,8 @@ const DAYS = [
     notes: 'The big traditional Seoul day. Everything open on Wednesdays.',
     badges: [],
     maps: [
-      { label: 'Walking route', url: 'https://www.google.com/maps/dir/Gyeongbokgung+Palace+Seoul/Tongin+Market+Seoul/Changdeokgung+Palace+Seoul/Bukchon+Hanok+Village+Seoul/Insadong-gil+Seoul/Gwangjang+Market+Seoul' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/-/transit' },
+      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Gyeongbokgung+Palace+Seoul&destination=Gwangjang+Market+Seoul&waypoints=Tongin+Market+Seoul|Changdeokgung+Palace+Seoul|Bukchon+Hanok+Village+Seoul|Insadong-gil+Seoul&travelmode=transit' }
     ],
     schedule: [
       { time: '9:00', activity: '<strong><a href="https://www.google.com/maps/search/Gyeongbokgung+Palace+Seoul" target="_blank">Gyeongbokgung Palace</a></strong> \u2014 Rent hanbok nearby (~15,000\u201320,000 KRW) = FREE palace entry. Guard ceremony at 10:00 & 14:00.', price: 'Free w/hanbok' },
@@ -115,7 +117,8 @@ const DAYS = [
     notes: '',
     badges: [],
     maps: [
-      { label: 'Afternoon route', url: 'https://www.google.com/maps/dir/War+Memorial+of+Korea+Seoul/National+Museum+of+Korea+Seoul/Itaewon+Seoul' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/-/transit' },
+      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Itaewon+Seoul&waypoints=National+Museum+Korea+Seoul&travelmode=transit' }
     ],
     schedule: [
       { time: '7:30', activity: '<strong>DMZ Tour pickup</strong> from hotel. Half-day tour (returns ~14:00). Imjingak Peace Park, 3rd Infiltration Tunnel, Dora Observatory, Dorasan Station. <strong>Passports required.</strong>', price: '~65\u201380k KRW' },
@@ -159,7 +162,8 @@ const DAYS = [
     notes: '',
     badges: [],
     maps: [
-      { label: 'Walking route', url: 'https://www.google.com/maps/dir/Mangwon+Market+Seoul/Gyeongui+Line+Forest+Park+Seoul/943+Kings+Cross+Hongdae+Seoul/Hongdae+Street+Seoul/KEYESCAPE+Hongdae+Seoul' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/-/transit' },
+      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Mangwon+Market+Seoul&destination=KEYESCAPE+Hongdae+Seoul&waypoints=Gyeongui+Line+Forest+Park+Seoul|943+Kings+Cross+Hongdae+Seoul&travelmode=transit' }
     ],
     schedule: [
       { time: '10:00', activity: '<strong><a href="https://www.google.com/maps/search/Mangwon+Market+Seoul" target="_blank">Mangwon Market</a></strong> breakfast \u2014 Tteokbokki, hotteok, dakgangjeong. Less touristy than Gwangjang.', price: '~5\u201310k KRW' },
@@ -203,7 +207,8 @@ const DAYS = [
     notes: 'National holiday (Gwangbokjeol). Get out of the city \u2014 nature day with kid-friendly activities.',
     badges: [{ type: 'holiday', text: 'Liberation Day' }],
     maps: [
-      { label: 'Route', url: 'https://www.google.com/maps/dir/Nami+Island+Gapyeong/Gangchon+Rail+Bike+Gapyeong/Garden+of+Morning+Calm+Gapyeong' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/127.5256,37.7918,Nami+Island/127.3522,37.7440,Garden+of+Morning+Calm/-/transit' },
+      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Nami+Island+Gapyeong&destination=Garden+of+Morning+Calm+Gapyeong&waypoints=Gangchon+Rail+Bike+Gapyeong&travelmode=transit' }
     ],
     schedule: [
       { time: '8:00', activity: '<strong>ITX train</strong> from Yongsan Station \u2192 Gapyeong (~50 min).', price: '~6,000 KRW' },
@@ -230,7 +235,8 @@ const DAYS = [
     notes: '',
     badges: [{ type: 'pass', text: 'Activate Seoul Pass 48h' }],
     maps: [
-      { label: 'Walking route', url: 'https://www.google.com/maps/dir/Namsan+Cable+Car+Seoul/N+Seoul+Tower/Myeongdong+Kyoja+Seoul/Namdaemun+Market+Seoul/Coffee+Hanyakbang+Euljiro+Seoul/Myeongdong+Seoul' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/-/transit' },
+      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Namsan+Cable+Car+Seoul&destination=Myeongdong+Seoul&waypoints=Namsan+Tower+Seoul|Myeongdong+Kyoja+Seoul|Namdaemun+Market+Seoul|Coffee+Hanyakbang+Euljiro+Seoul&travelmode=transit' }
     ],
     schedule: [
       { time: '9:30', activity: 'Hike up <strong>Namsan Mountain</strong> or take <strong><a href="https://www.google.com/maps/search/Namsan+Cable+Car+Seoul" target="_blank">Namsan Cable Car</a></strong>.', price: 'Pass or ~15k KRW' },
@@ -274,7 +280,8 @@ const DAYS = [
     notes: 'Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays \u2014 perfect day for the theme park.',
     badges: [{ type: 'pass', text: 'Seoul Pass still active' }, { type: 'closed', text: 'Museums closed Mon' }],
     maps: [
-      { label: 'Walking route', url: 'https://www.google.com/maps/dir/Lotte+World+Adventure+Seoul/Lotte+World+Tower+Seoul/Seokchon+Lake+Seoul/Songnidan-gil+Seoul' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/-/transit' },
+      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Lotte+World+Adventure+Seoul&destination=Songnidan-gil+Seoul&waypoints=Lotte+World+Tower+Seoul|Seokchon+Lake+Seoul&travelmode=transit' }
     ],
     schedule: [
       { time: '10:00', activity: '<strong><a href="https://www.google.com/maps/search/Lotte+World+Adventure+Seoul" target="_blank">Lotte World Adventure</a></strong> \u2014 World\u2019s largest indoor park! Great for August heat. Then outdoor rides.', price: 'Pass or ~55k KRW' },
@@ -307,8 +314,9 @@ const DAYS = [
     notes: 'Gyeongbokgung closed Tuesdays \u2014 no conflict.',
     badges: [],
     maps: [
-      { label: 'Seoul morning', url: 'https://www.google.com/maps/dir/Seoul+Forest+Seoul/Common+Ground+Seoul/Starfield+Library+COEX+Seoul' },
-      { label: 'Busan evening', url: 'https://www.google.com/maps/dir/Haeundae+Beach+Busan/Haeundae+Pojangmacha+Busan' }
+      { label: 'Seoul morning', url: 'https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/-/transit' },
+      { label: 'Busan evening', url: 'https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1615,35.1587,Haeundae+Pojangmacha/-/transit' },
+      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Seoul+Forest+Seoul&destination=Haeundae+Beach+Busan&waypoints=Common+Ground+Seoul|Olive+Young+Seongsu+Seoul|Starfield+Library+COEX+Seoul&travelmode=transit' }
     ],
     schedule: [
       { time: '9:00', activity: '<strong><a href="https://www.google.com/maps/search/Seoul+Forest+Seoul" target="_blank">Seoul Forest Park</a></strong> \u2014 Deer feeding, butterfly garden. Then <strong><a href="https://www.google.com/maps/search/Common+Ground+Seoul" target="_blank">Common Ground</a></strong> shipping container mall.', price: 'Free' },
@@ -356,7 +364,8 @@ const DAYS = [
     notes: 'Wednesday: Jagalchi open, Gukje open, Oryukdo open. All clear.',
     badges: [{ type: 'pass', text: 'Activate Busan Pass 24h' }],
     maps: [
-      { label: 'Full day route', url: 'https://www.google.com/maps/dir/Haedong+Yonggungsa+Temple+Busan/Haeundae+Blueline+Park+Busan/Gamcheon+Culture+Village+Busan/Jagalchi+Fish+Market+Busan/BIFF+Square+Busan/Busan+Tower+Yongdusan+Park/Bupyeong+Kkangtong+Night+Market+Busan' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Night+Market/-/transit' },
+      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Haedong+Yonggungsa+Temple+Busan&destination=Bupyeong+Kkangtong+Night+Market+Busan&waypoints=Haeundae+Blueline+Park+Busan|Gamcheon+Culture+Village+Busan|Jagalchi+Fish+Market+Busan|Gukje+Market+Busan|Busan+Tower+Yongdusan+Park&travelmode=transit' }
     ],
     schedule: [
       { time: '7:00', activity: '<strong><a href="https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan" target="_blank">Haedong Yonggungsa Temple</a></strong> \u2014 Oceanside temple, 108 stone steps. Go early before tour buses!', price: 'Free' },
@@ -405,7 +414,9 @@ const DAYS = [
     summary: 'Songdo Cable Car or Aquarium, fly PUS\u2192TPE',
     notes: '',
     badges: [],
-    maps: [],
+    maps: [
+      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Songdo+Marine+Cable+Car+Busan&destination=Gimhae+Airport+Busan&waypoints=SEA+LIFE+Busan+Aquarium|Shinsegae+Centum+City+Busan&travelmode=transit' }
+    ],
     schedule: [
       { time: '9:00', activity: 'Pick one: <strong><a href="https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan" target="_blank">Songdo Cable Car</a></strong> (1.62km over ocean, glass floor!) or <strong><a href="https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium" target="_blank">SEA LIFE Aquarium</a></strong> (250 species) or <strong><a href="https://www.google.com/maps/search/Shinsegae+Centum+City+Busan" target="_blank">Spa Land</a></strong> (22 themed saunas).', price: '~20\u201329k KRW' },
       { time: '12:00', activity: 'Lunch in Busan.', price: '' },
@@ -433,7 +444,7 @@ const DAYS = [
     notes: '',
     badges: [{ type: 'pass', text: 'Activate Taipei Fun Pass 2-day' }],
     maps: [
-      { label: 'Walking route', url: 'https://www.google.com/maps/dir/Longshan+Temple+Taipei/Bopiliao+Historic+Block+Taipei/Chiang+Kai-shek+Memorial+Hall+Taipei/Snow+King+Ice+Cream+Taipei/Ximending+Taipei/Dihua+Street+Taipei/Ningxia+Night+Market+Taipei' }
+      { label: 'Walking route', url: 'https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|Snow+King+Ice+Cream+Taipei|Ximending+Taipei|Dihua+Street+Taipei&travelmode=walking' }
     ],
     schedule: [
       { time: '9:00', activity: '<strong><a href="https://www.google.com/maps/search/Longshan+Temple+Taipei" target="_blank">Longshan Temple</a></strong> \u2014 Taipei\u2019s oldest (1738). Ornately carved, alive with incense.', price: 'Free' },
@@ -484,7 +495,7 @@ const DAYS = [
     notes: '',
     badges: [{ type: 'pass', text: 'Taipei Fun Pass day 2' }],
     maps: [
-      { label: 'Route', url: 'https://www.google.com/maps/dir/National+Palace+Museum+Taipei/Beitou+Hot+Spring+Museum+Taipei/Thermal+Valley+Beitou+Taipei/Elephant+Mountain+Taipei/Taipei+101/Raohe+Night+Market+Taipei' }
+      { label: 'Route', url: 'https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Beitou+Hot+Spring+Museum+Taipei|Thermal+Valley+Beitou+Taipei|Elephant+Mountain+Taipei|Taipei+101&travelmode=walking' }
     ],
     schedule: [
       { time: '9:00', activity: '<strong><a href="https://www.google.com/maps/search/National+Palace+Museum+Taipei" target="_blank">National Palace Museum</a></strong> \u2014 World\u2019s greatest Chinese art. Children\u2019s Gallery. Free for under 17.', price: 'Pass or NT$350' },
@@ -531,7 +542,7 @@ const DAYS = [
     notes: 'NPM closed (Sun) \u2014 perfect day for the coast.',
     badges: [{ type: 'closed', text: 'NPM closed Sun' }],
     maps: [
-      { label: 'Route', url: 'https://www.google.com/maps/dir/Yehliu+Geopark+Taiwan/Shifen+Old+Street+Taiwan/Shifen+Waterfall+Taiwan/Jiufen+Old+Street+Taiwan' }
+      { label: 'Route', url: 'https://www.google.com/maps/dir/?api=1&origin=Yehliu+Geopark+Taiwan&destination=Jiufen+Old+Street+Taiwan&waypoints=Shifen+Old+Street+Taiwan|Shifen+Waterfall+Taiwan&travelmode=walking' }
     ],
     schedule: [
       { time: '8:00', activity: 'Depart Taipei. Book a tour (Klook/KKday ~NT$1,500\u20132,000) or go independently.', price: '' },
@@ -560,7 +571,7 @@ const DAYS = [
     notes: 'Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But Shilin science complex is open (summer vacation).',
     badges: [{ type: 'closed', text: 'Maokong & NPM closed Mon' }],
     maps: [
-      { label: 'Walking route', url: 'https://www.google.com/maps/dir/Taipei+Childrens+Amusement+Park/National+Taiwan+Science+Education+Center+Taipei/Taipei+Astronomical+Museum/Shilin+Night+Market+Taipei' }
+      { label: 'Walking route', url: 'https://www.google.com/maps/dir/?api=1&origin=Taipei+Childrens+Amusement+Park&destination=Shilin+Night+Market+Taipei&waypoints=National+Taiwan+Science+Education+Center+Taipei|Taipei+Astronomical+Museum&travelmode=walking' }
     ],
     schedule: [
       { time: '9:00', activity: '<strong><a href="https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park" target="_blank">Taipei Children\u2019s Amusement Park</a></strong> \u2014 Roller coaster, drop tower, pirate ship, bumper cars. All-day pass NT$200!', price: 'NT$200' },
@@ -596,8 +607,8 @@ const DAYS = [
     notes: '',
     badges: [{ type: 'pass', text: 'HSR Pass day 1 of 2' }],
     maps: [
-      { label: 'Taichung', url: 'https://www.google.com/maps/dir/Rainbow+Village+Taichung/Miyahara+Ice+Cream+Taichung/National+Taichung+Theater/Taichung+Second+Market' },
-      { label: 'Tainan', url: 'https://www.google.com/maps/dir/Fort+Zeelandia+Tainan/Anping+Treehouse+Tainan/Shennong+Street+Tainan/Dadong+Night+Market+Tainan' }
+      { label: 'Taichung', url: 'https://www.google.com/maps/dir/?api=1&origin=Rainbow+Village+Taichung&destination=Taichung+Second+Market&waypoints=Miyahara+Ice+Cream+Taichung|National+Taichung+Theater&travelmode=walking' },
+      { label: 'Tainan', url: 'https://www.google.com/maps/dir/?api=1&origin=Fort+Zeelandia+Tainan&destination=Dadong+Night+Market+Tainan&waypoints=Anping+Treehouse+Tainan|Shennong+Street+Tainan&travelmode=walking' }
     ],
     schedule: [
       { time: '8:00', activity: '<strong>HSR Taipei \u2192 Taichung</strong> (47 min).', price: 'HSR Pass' },
@@ -640,8 +651,8 @@ const DAYS = [
     notes: '',
     badges: [],
     maps: [
-      { label: 'Tainan morning', url: 'https://www.google.com/maps/dir/Six+Thousand+Beef+Soup+Tainan/Guohua+Street+Tainan/Chihkan+Tower+Tainan/Hayashi+Department+Store+Tainan' },
-      { label: 'Kaohsiung', url: 'https://www.google.com/maps/dir/Formosa+Boulevard+MRT+Kaohsiung/Pier-2+Art+Center+Kaohsiung/Cijin+Island+Kaohsiung/Liuhe+Night+Market+Kaohsiung' }
+      { label: 'Tainan morning', url: 'https://www.google.com/maps/dir/?api=1&origin=Six+Thousand+Beef+Soup+Tainan&destination=Hayashi+Department+Store+Tainan&waypoints=Guohua+Street+Tainan|Chihkan+Tower+Tainan&travelmode=walking' },
+      { label: 'Kaohsiung', url: 'https://www.google.com/maps/dir/?api=1&origin=Formosa+Boulevard+MRT+Kaohsiung&destination=Liuhe+Night+Market+Kaohsiung&waypoints=Pier-2+Art+Center+Kaohsiung|Cijin+Island+Kaohsiung&travelmode=walking' }
     ],
     schedule: [
       { time: '7:00', activity: '<strong><a href="https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan" target="_blank">Six Thousand Beef Soup</a></strong> \u2014 Tainan BREAKFAST food. Go early morning. Incredible.', price: '' },
@@ -681,8 +692,8 @@ const DAYS = [
     notes: '',
     badges: [{ type: 'pass', text: 'HSR Pass day 2 of 2' }],
     maps: [
-      { label: 'Kaohsiung', url: 'https://www.google.com/maps/dir/Lotus+Pond+Kaohsiung/British+Consulate+Takow+Kaohsiung/Love+River+Kaohsiung' },
-      { label: 'Taipei evening', url: 'https://www.google.com/maps/dir/Maokong+Gondola+Taipei/Yongkang+Street+Taipei/Tonghua+Night+Market+Taipei' }
+      { label: 'Kaohsiung', url: 'https://www.google.com/maps/dir/?api=1&origin=Lotus+Pond+Kaohsiung&destination=Love+River+Kaohsiung&waypoints=British+Consulate+Takow+Kaohsiung&travelmode=walking' },
+      { label: 'Taipei evening', url: 'https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Tonghua+Night+Market+Taipei&waypoints=Yongkang+Street+Taipei&travelmode=walking' }
     ],
     schedule: [
       { time: '7:30', activity: '<strong><a href="https://www.google.com/maps/search/Lotus+Pond+Kaohsiung" target="_blank">Lotus Pond</a></strong> \u2014 Enter <strong>Dragon & Tiger Pagodas</strong> (dragon\u2019s mouth in, tiger\u2019s out = good luck!).', price: 'Free' },
@@ -993,7 +1004,7 @@ function renderDay(day) {
 
   let mapsHTML = '';
   if (day.maps.length === 1) {
-    mapsHTML = `<a href="${day.maps[0].url}" target="_blank" class="map-btn">${MAP_ICON} Open route in Google Maps</a>`;
+    mapsHTML = `<a href="${day.maps[0].url}" target="_blank" class="map-btn">${MAP_ICON} Open route</a>`;
   } else if (day.maps.length > 1) {
     mapsHTML = '<div class="map-buttons">' + day.maps.map(m => `<a href="${m.url}" target="_blank" class="map-btn">${MAP_ICON} ${m.label}</a>`).join('') + '</div>';
   }

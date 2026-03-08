@@ -5,10 +5,10 @@
 ## Route Map
 
 **Kaohsiung morning:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/Lotus+Pond+Kaohsiung/British+Consulate+Takow+Kaohsiung/Love+River+Kaohsiung)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotus+Pond+Kaohsiung&destination=Love+River+Kaohsiung&waypoints=British+Consulate+Takow+Kaohsiung&travelmode=walking)
 
 **Taipei evening:**
-[View route on Google Maps](https://www.google.com/maps/dir/Maokong+Gondola+Taipei/Yongkang+Street+Taipei/Tonghua+Night+Market+Taipei)
+[View route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Tonghua+Night+Market+Taipei&waypoints=Yongkang+Street+Taipei&travelmode=walking)
 
 ## Schedule
 
