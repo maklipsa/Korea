@@ -3,7 +3,7 @@
 Gyeongbokgung closed Tuesdays — no conflict. Half day: settled by noon, explore 12:30-20:00.
 
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/-/transit)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/-/walk)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Tosokchon+Samgyetang+Seoul&destination=Ikseon-dong+Seoul&waypoints=Cheonggyecheon+Stream+Seoul|Dongdaemun+Design+Plaza+Seoul&travelmode=transit)
 
 ## Schedule

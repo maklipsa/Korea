@@ -3,7 +3,7 @@
 Animal cafes, weird ice cream, escape rooms, street performers.
 
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/-/transit)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/-/walk)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Mangwon+Market+Seoul&destination=KEYESCAPE+Hongdae+Seoul&waypoints=Gyeongui+Line+Forest+Park+Seoul|943+Kings+Cross+Hongdae+Seoul&travelmode=transit)
 
 ## Schedule

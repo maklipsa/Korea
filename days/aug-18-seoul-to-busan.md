@@ -5,10 +5,10 @@ Gyeongbokgung closed Tuesdays — no conflict.
 ## Route Map
 
 **Seoul morning:**
-[View route on Naver Map](https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/-/transit)
+[View route on Naver Map](https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/-/walk)
 
 **Busan evening:**
-[View route on Naver Map](https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1615,35.1587,Haeundae+Pojangmacha/-/transit)
+[View route on Naver Map](https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1615,35.1587,Haeundae+Pojangmacha/-/walk)
 
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Seoul+Forest+Seoul&destination=Haeundae+Beach+Busan&waypoints=Common+Ground+Seoul|Olive+Young+Seongsu+Seoul|Starfield+Library+COEX+Seoul&travelmode=transit)
 

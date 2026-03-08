@@ -11,7 +11,7 @@ const DAYS = [
     notes: 'Gyeongbokgung closed Tuesdays \u2014 no conflict. Half day: settled by noon, explore 12:30\u201320:00.',
     badges: [],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/-/transit' },
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/-/walk' },
       { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Tosokchon+Samgyetang+Seoul&destination=Ikseon-dong+Seoul&waypoints=Cheonggyecheon+Stream+Seoul|Dongdaemun+Design+Plaza+Seoul&travelmode=transit' }
     ],
     schedule: [
@@ -54,7 +54,7 @@ const DAYS = [
     notes: 'The big traditional Seoul day. Everything open on Wednesdays.',
     badges: [],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/-/transit' },
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/-/walk' },
       { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Gyeongbokgung+Palace+Seoul&destination=Gwangjang+Market+Seoul&waypoints=Tongin+Market+Seoul|Changdeokgung+Palace+Seoul|Bukchon+Hanok+Village+Seoul|Insadong-gil+Seoul&travelmode=transit' }
     ],
     schedule: [
@@ -117,7 +117,7 @@ const DAYS = [
     notes: '',
     badges: [],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/-/transit' },
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/-/walk' },
       { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Itaewon+Seoul&waypoints=National+Museum+Korea+Seoul&travelmode=transit' }
     ],
     schedule: [
@@ -162,7 +162,7 @@ const DAYS = [
     notes: '',
     badges: [],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/-/transit' },
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/-/walk' },
       { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Mangwon+Market+Seoul&destination=KEYESCAPE+Hongdae+Seoul&waypoints=Gyeongui+Line+Forest+Park+Seoul|943+Kings+Cross+Hongdae+Seoul&travelmode=transit' }
     ],
     schedule: [
@@ -207,7 +207,7 @@ const DAYS = [
     notes: 'National holiday (Gwangbokjeol). Get out of the city \u2014 nature day with kid-friendly activities.',
     badges: [{ type: 'holiday', text: 'Liberation Day' }],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/127.5256,37.7918,Nami+Island/127.3522,37.7440,Garden+of+Morning+Calm/-/transit' },
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/127.5256,37.7918,Nami+Island/127.3522,37.7440,Garden+of+Morning+Calm/-/walk' },
       { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Nami+Island+Gapyeong&destination=Garden+of+Morning+Calm+Gapyeong&waypoints=Gangchon+Rail+Bike+Gapyeong&travelmode=transit' }
     ],
     schedule: [
@@ -235,7 +235,7 @@ const DAYS = [
     notes: '',
     badges: [{ type: 'pass', text: 'Activate Seoul Pass 48h' }],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/-/transit' },
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/-/walk' },
       { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Namsan+Cable+Car+Seoul&destination=Myeongdong+Seoul&waypoints=Namsan+Tower+Seoul|Myeongdong+Kyoja+Seoul|Namdaemun+Market+Seoul|Coffee+Hanyakbang+Euljiro+Seoul&travelmode=transit' }
     ],
     schedule: [
@@ -280,7 +280,7 @@ const DAYS = [
     notes: 'Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays \u2014 perfect day for the theme park.',
     badges: [{ type: 'pass', text: 'Seoul Pass still active' }, { type: 'closed', text: 'Museums closed Mon' }],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/-/transit' },
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/-/walk' },
       { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Lotte+World+Adventure+Seoul&destination=Songnidan-gil+Seoul&waypoints=Lotte+World+Tower+Seoul|Seokchon+Lake+Seoul&travelmode=transit' }
     ],
     schedule: [
@@ -314,8 +314,8 @@ const DAYS = [
     notes: 'Gyeongbokgung closed Tuesdays \u2014 no conflict.',
     badges: [],
     maps: [
-      { label: 'Seoul morning', url: 'https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/-/transit' },
-      { label: 'Busan evening', url: 'https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1615,35.1587,Haeundae+Pojangmacha/-/transit' },
+      { label: 'Seoul morning', url: 'https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/-/walk' },
+      { label: 'Busan evening', url: 'https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1615,35.1587,Haeundae+Pojangmacha/-/walk' },
       { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Seoul+Forest+Seoul&destination=Haeundae+Beach+Busan&waypoints=Common+Ground+Seoul|Olive+Young+Seongsu+Seoul|Starfield+Library+COEX+Seoul&travelmode=transit' }
     ],
     schedule: [
@@ -364,7 +364,7 @@ const DAYS = [
     notes: 'Wednesday: Jagalchi open, Gukje open, Oryukdo open. All clear.',
     badges: [{ type: 'pass', text: 'Activate Busan Pass 24h' }],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Night+Market/-/transit' },
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Night+Market/-/walk' },
       { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Haedong+Yonggungsa+Temple+Busan&destination=Bupyeong+Kkangtong+Night+Market+Busan&waypoints=Haeundae+Blueline+Park+Busan|Gamcheon+Culture+Village+Busan|Jagalchi+Fish+Market+Busan|Gukje+Market+Busan|Busan+Tower+Yongdusan+Park&travelmode=transit' }
     ],
     schedule: [
