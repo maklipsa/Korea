@@ -11,8 +11,7 @@ const DAYS = [
     notes: 'Gyeongbokgung closed Tuesdays \u2014 no conflict. Half day: settled by noon, explore 12:30\u201320:00.',
     badges: [],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/-/walk' },
-      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Tosokchon+Samgyetang+Seoul&destination=Ikseon-dong+Seoul&waypoints=Cheonggyecheon+Stream+Seoul|Dongdaemun+Design+Plaza+Seoul&travelmode=transit' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/-/walk' }
     ],
     schedule: [
       { time: '9:00', activity: 'Land at Incheon (ICN). Buy <strong>T-money card</strong> at convenience store, load ~50,000 KRW.', price: '' },
@@ -54,8 +53,7 @@ const DAYS = [
     notes: 'The big traditional Seoul day. Everything open on Wednesdays.',
     badges: [],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/-/walk' },
-      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Gyeongbokgung+Palace+Seoul&destination=Gwangjang+Market+Seoul&waypoints=Tongin+Market+Seoul|Changdeokgung+Palace+Seoul|Bukchon+Hanok+Village+Seoul|Insadong-gil+Seoul&travelmode=transit' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/-/walk' }
     ],
     schedule: [
       { time: '9:00', activity: '<strong><a href="https://www.google.com/maps/search/Gyeongbokgung+Palace+Seoul" target="_blank">Gyeongbokgung Palace</a></strong> \u2014 Rent hanbok nearby (~15,000\u201320,000 KRW) = FREE palace entry. Guard ceremony at 10:00 & 14:00.', price: 'Free w/hanbok' },
@@ -117,8 +115,7 @@ const DAYS = [
     notes: '',
     badges: [],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/-/walk' },
-      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Itaewon+Seoul&waypoints=National+Museum+Korea+Seoul&travelmode=transit' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/-/walk' }
     ],
     schedule: [
       { time: '7:30', activity: '<strong>DMZ Tour pickup</strong> from hotel. Half-day tour (returns ~14:00). Imjingak Peace Park, 3rd Infiltration Tunnel, Dora Observatory, Dorasan Station. <strong>Passports required.</strong>', price: '~65\u201380k KRW' },
@@ -162,8 +159,7 @@ const DAYS = [
     notes: '',
     badges: [],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/-/walk' },
-      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Mangwon+Market+Seoul&destination=KEYESCAPE+Hongdae+Seoul&waypoints=Gyeongui+Line+Forest+Park+Seoul|943+Kings+Cross+Hongdae+Seoul&travelmode=transit' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/-/walk' }
     ],
     schedule: [
       { time: '10:00', activity: '<strong><a href="https://www.google.com/maps/search/Mangwon+Market+Seoul" target="_blank">Mangwon Market</a></strong> breakfast \u2014 Tteokbokki, hotteok, dakgangjeong. Less touristy than Gwangjang.', price: '~5\u201310k KRW' },
@@ -207,8 +203,7 @@ const DAYS = [
     notes: 'National holiday (Gwangbokjeol). Get out of the city \u2014 nature day with kid-friendly activities.',
     badges: [{ type: 'holiday', text: 'Liberation Day' }],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/127.5256,37.7918,Nami+Island/127.3522,37.7440,Garden+of+Morning+Calm/-/walk' },
-      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Nami+Island+Gapyeong&destination=Garden+of+Morning+Calm+Gapyeong&waypoints=Gangchon+Rail+Bike+Gapyeong&travelmode=transit' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/127.5256,37.7918,Nami+Island/127.3522,37.7440,Garden+of+Morning+Calm/-/walk' }
     ],
     schedule: [
       { time: '8:00', activity: '<strong>ITX train</strong> from Yongsan Station \u2192 Gapyeong (~50 min).', price: '~6,000 KRW' },
@@ -235,8 +230,7 @@ const DAYS = [
     notes: '',
     badges: [{ type: 'pass', text: 'Activate Seoul Pass 48h' }],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/-/walk' },
-      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Namsan+Cable+Car+Seoul&destination=Myeongdong+Seoul&waypoints=Namsan+Tower+Seoul|Myeongdong+Kyoja+Seoul|Namdaemun+Market+Seoul|Coffee+Hanyakbang+Euljiro+Seoul&travelmode=transit' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/-/walk' }
     ],
     schedule: [
       { time: '9:30', activity: 'Hike up <strong>Namsan Mountain</strong> or take <strong><a href="https://www.google.com/maps/search/Namsan+Cable+Car+Seoul" target="_blank">Namsan Cable Car</a></strong>.', price: 'Pass or ~15k KRW' },
@@ -280,8 +274,7 @@ const DAYS = [
     notes: 'Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays \u2014 perfect day for the theme park.',
     badges: [{ type: 'pass', text: 'Seoul Pass still active' }, { type: 'closed', text: 'Museums closed Mon' }],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/-/walk' },
-      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Lotte+World+Adventure+Seoul&destination=Songnidan-gil+Seoul&waypoints=Lotte+World+Tower+Seoul|Seokchon+Lake+Seoul&travelmode=transit' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/-/walk' }
     ],
     schedule: [
       { time: '10:00', activity: '<strong><a href="https://www.google.com/maps/search/Lotte+World+Adventure+Seoul" target="_blank">Lotte World Adventure</a></strong> \u2014 World\u2019s largest indoor park! Great for August heat. Then outdoor rides.', price: 'Pass or ~55k KRW' },
@@ -315,8 +308,7 @@ const DAYS = [
     badges: [],
     maps: [
       { label: 'Seoul morning', url: 'https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/-/walk' },
-      { label: 'Busan evening', url: 'https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1615,35.1587,Haeundae+Pojangmacha/-/walk' },
-      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Seoul+Forest+Seoul&destination=Haeundae+Beach+Busan&waypoints=Common+Ground+Seoul|Olive+Young+Seongsu+Seoul|Starfield+Library+COEX+Seoul&travelmode=transit' }
+      { label: 'Busan evening', url: 'https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1615,35.1587,Haeundae+Pojangmacha/-/walk' }
     ],
     schedule: [
       { time: '9:00', activity: '<strong><a href="https://www.google.com/maps/search/Seoul+Forest+Seoul" target="_blank">Seoul Forest Park</a></strong> \u2014 Deer feeding, butterfly garden. Then <strong><a href="https://www.google.com/maps/search/Common+Ground+Seoul" target="_blank">Common Ground</a></strong> shipping container mall.', price: 'Free' },
@@ -364,8 +356,7 @@ const DAYS = [
     notes: 'Wednesday: Jagalchi open, Gukje open, Oryukdo open. All clear.',
     badges: [{ type: 'pass', text: 'Activate Busan Pass 24h' }],
     maps: [
-      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Night+Market/-/walk' },
-      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Haedong+Yonggungsa+Temple+Busan&destination=Bupyeong+Kkangtong+Night+Market+Busan&waypoints=Haeundae+Blueline+Park+Busan|Gamcheon+Culture+Village+Busan|Jagalchi+Fish+Market+Busan|Gukje+Market+Busan|Busan+Tower+Yongdusan+Park&travelmode=transit' }
+      { label: 'Naver Map route', url: 'https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Night+Market/-/walk' }
     ],
     schedule: [
       { time: '7:00', activity: '<strong><a href="https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan" target="_blank">Haedong Yonggungsa Temple</a></strong> \u2014 Oceanside temple, 108 stone steps. Go early before tour buses!', price: 'Free' },
@@ -414,9 +405,7 @@ const DAYS = [
     summary: 'Songdo Cable Car or Aquarium, fly PUS\u2192TPE',
     notes: '',
     badges: [],
-    maps: [
-      { label: 'Google Maps pins', url: 'https://www.google.com/maps/dir/?api=1&origin=Songdo+Marine+Cable+Car+Busan&destination=Gimhae+Airport+Busan&waypoints=SEA+LIFE+Busan+Aquarium|Shinsegae+Centum+City+Busan&travelmode=transit' }
-    ],
+    maps: [],
     schedule: [
       { time: '9:00', activity: 'Pick one: <strong><a href="https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan" target="_blank">Songdo Cable Car</a></strong> (1.62km over ocean, glass floor!) or <strong><a href="https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium" target="_blank">SEA LIFE Aquarium</a></strong> (250 species) or <strong><a href="https://www.google.com/maps/search/Shinsegae+Centum+City+Busan" target="_blank">Spa Land</a></strong> (22 themed saunas).', price: '~20\u201329k KRW' },
       { time: '12:00', activity: 'Lunch in Busan.', price: '' },
@@ -998,15 +987,54 @@ function renderOverview() {
     </div>`;
 }
 
+function buildGoogleMapsPinsUrl(day) {
+  // Extract place names from google maps search URLs in schedule HTML
+  const searchPattern = /google\.com\/maps\/search\/([^"'\s]+)/g;
+  const places = [];
+  day.schedule.forEach(s => {
+    let match;
+    while ((match = searchPattern.exec(s.activity)) !== null) {
+      places.push(match[1].replace(/\+/g, ' ').replace(/\btarget$/i, '').trim());
+    }
+    searchPattern.lastIndex = 0;
+  });
+  // Extract place names from extras URLs
+  if (day.extras) {
+    day.extras.forEach(cat => {
+      cat.items.forEach(item => {
+        if (item.url) {
+          const m = item.url.match(/google\.com\/maps\/search\/([^"'\s]+)/);
+          if (m) places.push(m[1].replace(/\+/g, ' ').trim());
+        }
+      });
+    });
+  }
+  if (places.length < 2) return null;
+  const origin = encodeURIComponent(places[0]);
+  const destination = encodeURIComponent(places[places.length - 1]);
+  const waypoints = places.slice(1, -1).map(p => encodeURIComponent(p)).join('|');
+  const mode = day.country === 'korea' ? 'transit' : 'walking';
+  let url = `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${destination}`;
+  if (waypoints) url += `&waypoints=${waypoints}`;
+  url += `&travelmode=${mode}`;
+  return url;
+}
+
 function renderDay(day) {
   let badgesHTML = day.badges.map(b => `<span class="badge badge-${b.type}">${b.text}</span>`).join('');
   badgesHTML += `<span class="badge badge-${day.country}">${day.country === 'korea' ? 'Korea' : 'Taiwan'}</span>`;
 
+  // Build maps buttons: use data maps (Naver etc) + auto-generated Google Maps pins
+  const nonGoogleMaps = day.maps.filter(m => !m.url.includes('google.com/maps/dir'));
+  const gmapUrl = buildGoogleMapsPinsUrl(day);
+  const allMaps = [...nonGoogleMaps];
+  if (gmapUrl) allMaps.push({ label: 'Google Maps (all pins)', url: gmapUrl });
+
   let mapsHTML = '';
-  if (day.maps.length === 1) {
-    mapsHTML = `<a href="${day.maps[0].url}" target="_blank" class="map-btn">${MAP_ICON} Open route</a>`;
-  } else if (day.maps.length > 1) {
-    mapsHTML = '<div class="map-buttons">' + day.maps.map(m => `<a href="${m.url}" target="_blank" class="map-btn">${MAP_ICON} ${m.label}</a>`).join('') + '</div>';
+  if (allMaps.length === 1) {
+    mapsHTML = `<a href="${allMaps[0].url}" target="_blank" class="map-btn">${MAP_ICON} ${allMaps[0].label || 'Open route'}</a>`;
+  } else if (allMaps.length > 1) {
+    mapsHTML = '<div class="map-buttons">' + allMaps.map(m => `<a href="${m.url}" target="_blank" class="map-btn">${MAP_ICON} ${m.label}</a>`).join('') + '</div>';
   }
 
   const notesHTML = day.notes ? `<div class="day-note">${day.notes}</div>` : '';
