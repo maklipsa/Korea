@@ -34,13 +34,13 @@
 
 ### More in Kaohsiung
 - [🎭🎨 Weiwuying](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — World's largest performing arts center; family workshops
-- Papaya milk from street vendors — Kaohsiung specialty!
+- ☕ Papaya milk from street vendors — Kaohsiung specialty!
 
 ### Maokong Extras
 - [🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) — At gondola base; one of Asia's largest (NT$60; closes 5pm weekdays)
-- Specific teahouses: Mountain Tea House, Found Your Tea, The Big Tea Pot
+- 🍵 Specific teahouses: Mountain Tea House, Found Your Tea, The Big Tea Pot
 
 ### Yongkang Street Extras
 - [🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Since 1963; famous pot-stickers
 - [🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Original location (takeout only); xiao long bao
-- Mango shaved ice shops (seasonal)
+- ☕ Mango shaved ice shops (seasonal)

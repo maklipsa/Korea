@@ -65,24 +65,24 @@ All walkable together — the historic heart of Seoul.
 
 #### Desserts & Ice Cream
 - [☕ Scooper Gelato Jongno](https://www.google.com/maps/search/Scooper+Gelato+Jongno+Seoul) — Ham gelato croissant sandwich with parma ham, vanilla gelato, and black pepper
-- Dragon's Beard Candy vendors (Insadong) — Watch artisans pull 16,000 threads of honey candy
-- Bungeoppang (fish-shaped waffles) — Red bean or custard filled; from street vendors
-- Hotteok vendors — Sweet pancakes with brown sugar, cinnamon, and nuts
+- ☕ Dragon's Beard Candy vendors (Insadong) — Watch artisans pull 16,000 threads of honey candy
+- ☕ Bungeoppang (fish-shaped waffles) — Red bean or custard filled; from street vendors
+- ☕ Hotteok vendors — Sweet pancakes with brown sugar, cinnamon, and nuts
 
 #### Shopping & Stores
 - [🛍️🎨 Ssamziegil Complex](https://www.google.com/maps/search/Ssamziegil+Insadong+Seoul) — Spiraling outdoor walkway with independent artisan shops, craft workshops, rooftop views
 - [🛍️ Insadong-gil](https://www.google.com/maps/search/Insadong-gil+Seoul) — Car-free on weekends; traditional art, calligraphy, and craft shops
-- Traditional stationery shops (Insadong) — 90% of Korea's traditional stationery is here
-- Name stamp carving shops (Insadong) — Get your name carved in a traditional Korean seal
+- 🛍️ Traditional stationery shops (Insadong) — 90% of Korea's traditional stationery is here
+- 🛍️ Name stamp carving shops (Insadong) — Get your name carved in a traditional Korean seal
 - [🎨 Ikseon Gongbang](https://www.google.com/maps/search/Ikseon+Gongbang+Seoul) — Workshop: make herbariums, sand candles, plaster fresheners, diffusers
 
 #### Kid-Friendly
-- Hanbok rental near Gyeongbokgung — Wear traditional Korean clothing; free palace entry (Flowery Hanbok and others)
+- 🎨 Hanbok rental near Gyeongbokgung — Wear traditional Korean clothing; free palace entry (Flowery Hanbok and others)
 - [🏛️ National Folk Museum of Korea](https://www.google.com/maps/search/National+Folk+Museum+Korea+Seoul) — Inside Gyeongbokgung grounds; interactive exhibits; FREE
 - [🏛️ Seoul Museum of Craft Art (SeMoCa)](https://www.google.com/maps/search/Seoul+Museum+Craft+Art+Seoul) — Off Anguk Station; 20,000+ items; FREE
 - [🏛️🧒 Alive Museum Insadong](https://www.google.com/maps/search/Alive+Museum+Insadong+Seoul) — Interactive optical illusion/trick-eye museum
-- Ssamziegil craft workshops — DIY traditional Korean crafts
-- Weekend street performers on Insadong-gil
+- 🎨 Ssamziegil craft workshops — DIY traditional Korean crafts
+- 🎭 Weekend street performers on Insadong-gil
 
 ---
 
@@ -100,7 +100,7 @@ Shopping, street food, city views, and hidden retro bars.
 - [🛍️ Sewoon Sangga](https://www.google.com/maps/search/Sewoon+Sangga+Seoul) — Massive 1960s electronics/maker mall; rooftop garden with city views
 
 #### Parks & Walks
-- Namsan Mountain trails — Walk up to N Seoul Tower through forested paths from Myeongdong side
+- 🌳 Namsan Mountain trails — Walk up to N Seoul Tower through forested paths from Myeongdong side
 - [🚶🌳 Seoullo 7017](https://www.google.com/maps/search/Seoullo+7017+Seoul) — Elevated walkway/park on former highway overpass; gardens and views
 
 #### Cafes
@@ -118,7 +118,7 @@ Shopping, street food, city views, and hidden retro bars.
 
 #### Desserts & Ice Cream
 - [☕ SOFTREE](https://www.google.com/maps/search/SOFTREE+Myeongdong+Seoul) — Milk ice cream topped with real honeycomb; expect 40-min queues
-- Myeongdong street stalls — Candied fruit skewers (tanghulu), nutella churros, strawberry mochi, Dragon's Beard Candy
+- ☕ Myeongdong street stalls — Candied fruit skewers (tanghulu), nutella churros, strawberry mochi, Dragon's Beard Candy
 
 #### Shopping & Stores
 - [🛍️ Myeongdong Shopping Street](https://www.google.com/maps/search/Myeongdong+Shopping+Street+Seoul) — K-beauty mecca (Innisfree, Laneige, Olive Young flagship)
@@ -126,14 +126,14 @@ Shopping, street food, city views, and hidden retro bars.
 - [🛍️ Dongdaemun Shopping Complex](https://www.google.com/maps/search/Dongdaemun+Shopping+Complex+Seoul) — Fabric, silk, beads, buttons, embroidery; 24-hour shopping culture
 
 #### Night Markets
-- Myeongdong Night Market — 100-150+ food stalls nightly 4pm-11pm; cheesy lobster tail, grilled squid, egg bread
+- 🏮 Myeongdong Night Market — 100-150+ food stalls nightly 4pm-11pm; cheesy lobster tail, grilled squid, egg bread
 - [🍜🛍️ Gwangjang Market](https://www.google.com/maps/search/Gwangjang+Market+Seoul) — See above (borders Dongdaemun)
 
 #### Kid-Friendly
-- N Seoul Tower — Digital observatory, love lock terrace
-- Namsan Cable Car ride
+- 🗼 N Seoul Tower — Digital observatory, love lock terrace
+- 🚡 Namsan Cable Car ride
 - [🏛️🧒 Alive Museum Myeongdong](https://www.google.com/maps/search/Alive+Museum+Myeongdong+Seoul) — Trick-eye museum
-- DDP exhibitions — Rotating design/art; many are interactive
+- 🏛️ DDP exhibitions — Rotating design/art; many are interactive
 
 ---
 
@@ -168,21 +168,21 @@ Connected via Gyeongui Line Forest Park — indie culture, animal cafes, weird i
 - [☕ Melted](https://www.google.com/maps/search/Melted+gelato+Hongdae+Seoul) — Sweetcorn mocha, roasted brown rice, knafeh chocolate
 - [☕ Molly's Pops](https://www.google.com/maps/search/Mollys+Pops+Hongdae+Seoul) — Artisanal popsicles: Pina Colada, Wasabi, Strawberries & Wine
 - [☕ SOBOK](https://www.google.com/maps/search/SOBOK+Hongdae+Seoul) — Natural rice-based soft serve; signature injeolmi ice balls
-- Candied fruit skewer (tanghulu) vendors along the shopping street
+- ☕ Candied fruit skewer (tanghulu) vendors along the shopping street
 
 #### Shopping & Stores
-- Hongdae Shopping Street — Pedestrian-only Fri-Sun noon-11pm
+- 🛍️ Hongdae Shopping Street — Pedestrian-only Fri-Sun noon-11pm
 - [🛍️ Hongdae Free Market / Hope Market](https://www.google.com/maps/search/Hongdae+Free+Market+Seoul) — Weekend handmade goods at Children's Playground
-- Acorn Caricature Studios — Get a cartoon caricature drawn (~5,000 won)
-- Indie record shops and vintage clothing stores along back streets
-- K-pop merchandise stores throughout
+- 🎨 Acorn Caricature Studios — Get a cartoon caricature drawn (~5,000 won)
+- 🛍️ Indie record shops and vintage clothing stores along back streets
+- 🎁 K-pop merchandise stores throughout
 
 #### Kid-Friendly
-- 943 Kings Cross Harry Potter Cafe — 7 floors of wizarding world
-- Animal cafes (Table A, Meerkat Friends, Blind Alley, Thanks Nature)
+- ☕🧒 943 Kings Cross Harry Potter Cafe — 7 floors of wizarding world
+- ☕🐾🧒 Animal cafes (Table A, Meerkat Friends, Blind Alley, Thanks Nature)
 - [🎡🧒 KEYESCAPE (Escape Room)](https://www.google.com/maps/search/KEYESCAPE+Hongdae+Seoul) — Award-winning escape rooms; English-friendly; ~20,000-30,000 won/person
-- Street busking performances — Free entertainment weekend evenings
-- Self-photo studios — Retro black-and-white photo booths throughout Hongdae
+- 🎭 Street busking performances — Free entertainment weekend evenings
+- 🎨 Self-photo studios — Retro black-and-white photo booths throughout Hongdae
 
 ---
 
@@ -197,7 +197,7 @@ International vibe, world-class free museums, cool hillside alleys.
 - [🏛️ MMCA National Museum of Modern and Contemporary Art](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul)
 
 #### Parks & Walks
-- Namsan Mountain trails (accessible from Itaewon side)
+- 🌳 Namsan Mountain trails (accessible from Itaewon side)
 - [🌳 Ichon Hangang Park](https://www.google.com/maps/search/Ichon+Hangang+Park+Seoul) — Riverside park; cycling, picnics
 
 #### Cafes
@@ -219,15 +219,15 @@ International vibe, world-class free museums, cool hillside alleys.
 - [🛍️ Sounds Hannam](https://www.google.com/maps/search/Sounds+Hannam+Seoul) — Trendy complex; Saint Laurent to Aesop
 - [🛍️☕ Elves and Espresso](https://www.google.com/maps/search/Elves+Espresso+Itaewon+Seoul) — Board game/card game store and cafe (Magic: The Gathering, D&D)
 - [🛍️ Storage Book and Film HBC](https://www.google.com/maps/search/Storage+Book+Film+Haebangchon+Seoul) — Independent bookshop; photography and art books
-- Gyeongnidan-gil — Bohemian street with international restaurants and vintage shops
-- Yongridan-gil — Trendy indie shops and restaurants
+- 🚶🛍️ Gyeongnidan-gil — Bohemian street with international restaurants and vintage shops
+- 🚶🛍️ Yongridan-gil — Trendy indie shops and restaurants
 
 #### Kid-Friendly
-- War Memorial of Korea — Outdoor tanks, planes, ships to climb; FREE
-- Children's Museum at National Museum of Korea — Interactive; FREE
-- Leeum Samsung Museum — World-class art; FREE
+- 🏛️🧒 War Memorial of Korea — Outdoor tanks, planes, ships to climb; FREE
+- 🏛️🧒 Children's Museum at National Museum of Korea — Interactive; FREE
+- 🏛️ Leeum Samsung Museum — World-class art; FREE
 - [🛍️ Book Park Blue Square](https://www.google.com/maps/search/Blue+Square+Seoul) — Children's zone; 50,000 books
-- Ichon Hangang Park — Bike riding along the Han River
+- 🌳 Ichon Hangang Park — Bike riding along the Han River
 
 ---
 
@@ -249,8 +249,8 @@ Modern Seoul, container malls, weird cheesecake, and converted warehouses.
 - [☕ C27 Garosugil](https://www.google.com/maps/search/C27+Garosugil+Seoul) — 27 different kinds of cheesecake
 - [☕ Mr. Holmes Bakehouse Korea](https://www.google.com/maps/search/Mr+Holmes+Bakehouse+Garosugil+Seoul) — Famous cruffins (croissant-muffin hybrid)
 - [☕ Maman Gateau](https://www.google.com/maps/search/Maman+Gateau+Garosugil+Seoul) — Famous since 2011; handmade caramel desserts
-- Warehouse-converted cafes in Seongsu — Dozens of industrial-chic cafes in former factories
-- Brand pop-up cafes in Seongsu — Fashion/beauty brands open temporary themed cafes
+- ☕ Warehouse-converted cafes in Seongsu — Dozens of industrial-chic cafes in former factories
+- ☕ Brand pop-up cafes in Seongsu — Fashion/beauty brands open temporary themed cafes
 
 #### Food (no chains)
 - [🍜 Samwon Garden](https://www.google.com/maps/search/Samwon+Garden+Seoul) — Legendary Korean BBQ since 1976; beautiful garden setting
@@ -270,9 +270,9 @@ Modern Seoul, container malls, weird cheesecake, and converted warehouses.
 #### Kid-Friendly
 - [🐾🧒 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) — Seoul's largest aquarium; sharks, rays, themed zones
 - [🎡🧒 Vaunce Trampoline Park](https://www.google.com/maps/search/Vaunce+Trampoline+Park+Samseong+Seoul) — Korea's first trampoline park; 2-hour sessions
-- Seoul Forest Park — Deer feeding, insect house, butterfly garden, playgrounds
-- Retro self-photo studios in Seongsu (Eternalog etc.) — B&W portrait booths ~4,000-6,000 won
-- Starfield Library — Free; stunning; books in multiple languages
+- 🌳🧒 Seoul Forest Park — Deer feeding, insect house, butterfly garden, playgrounds
+- 🎨 Retro self-photo studios in Seongsu (Eternalog etc.) — B&W portrait booths ~4,000-6,000 won
+- 📸 Starfield Library — Free; stunning; books in multiple languages
 
 ---
 
@@ -297,11 +297,11 @@ Theme park day + trendy food street + lakeside stroll.
 - [🍜 Bangi-dong Food Alley (Bangimatol)](https://www.google.com/maps/search/Bangimatol+Bangi+Seoul) — "Gourmet street" packed with top restaurants
 
 #### Kid-Friendly
-- Lotte World Adventure — Theme park rides for all ages; indoor portion is weather-proof
-- Seoul Sky — Glass-floor observation deck at 500m; highest in Korea
+- 🎡🧒 Lotte World Adventure — Theme park rides for all ages; indoor portion is weather-proof
+- 🗼 Seoul Sky — Glass-floor observation deck at 500m; highest in Korea
 - [🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) — 90+ career role-plays for ages 4-14
-- Seokchon Lake pedal boats — Seasonal
-- Olympic Park cycling
+- 🌳 Seokchon Lake pedal boats — Seasonal
+- 🌳 Olympic Park cycling
 
 ---
 
@@ -316,12 +316,12 @@ Riverside park, cherry blossoms, and edible aquarium experience.
 
 #### Food
 - [🍜🛍️ Noryangjin Fish Market](https://www.google.com/maps/search/Noryangjin+Fish+Market+Seoul) — 24/7; pick live seafood downstairs, have it cooked upstairs; kids find the live tanks fascinating (like an edible aquarium); wear closed-toe shoes
-- Floating dock convenience stores at Yeouido Hangang Park — Cook your own ramyeon by the river
+- 🍜 Floating dock convenience stores at Yeouido Hangang Park — Cook your own ramyeon by the river
 
 #### Kid-Friendly
-- Aqua Planet 63 — Aquarium inside 63 Building
-- Bike riding along Yeouido Hangang Park — Rent family bikes
-- Noryangjin Fish Market — Live octopus, giant crabs, sea creatures
+- 🐾🧒 Aqua Planet 63 — Aquarium inside 63 Building
+- 🌳 Bike riding along Yeouido Hangang Park — Rent family bikes
+- 🍜🛍️ Noryangjin Fish Market — Live octopus, giant crabs, sea creatures
 
 ---
 
@@ -340,7 +340,7 @@ Quiet, charming neighborhood west of Gyeongbokgung — old bookstores, coin lunc
 - [☕ Hyoja Bakery](https://www.google.com/maps/search/Hyoja+Bakery+Seochon+Seoul) — Supplied the Blue House for 26 years; fresh donuts, chestnut pastries
 
 #### Kid-Friendly
-- Tongin Market coin lunchbox — Kids love picking their own dishes with brass coins
+- 🍜🧒 Tongin Market coin lunchbox — Kids love picking their own dishes with brass coins
 
 ---
 
@@ -361,17 +361,17 @@ Quiet, charming neighborhood west of Gyeongbokgung — old bookstores, coin lunc
 
 ### Strange/Unusual Korean Foods to Seek Out
 
-- **Yukhoe** — Raw beef tartare with egg yolk (Gwangjang Market)
-- **Sundae** — Blood sausage stuffed with glass noodles (NOT the ice cream dessert)
-- **Beondegi** — Silkworm pupae snack (street vendors)
-- **Live octopus (sannakji)** — Still wriggling on the plate (Noryangjin)
-- **Gaebul** — Spoon worm / "penis fish"; eaten raw (Noryangjin)
-- **Dak-bal** — Spicy chicken feet
-- **Gopchang** — Grilled intestines
-- **Hongeo** — Fermented skate; one of Korea's most pungent dishes
-- **Yakgwa** — Deep-fried honey cookies (traditional sweet)
-- **Injeolmi** — Chewy rice cake coated in roasted soybean powder
-- **Songpyeon** — Half-moon rice cakes with sesame or red bean filling
+- 🍜 **Yukhoe** — Raw beef tartare with egg yolk (Gwangjang Market)
+- 🍜 **Sundae** — Blood sausage stuffed with glass noodles (NOT the ice cream dessert)
+- 🍜 **Beondegi** — Silkworm pupae snack (street vendors)
+- 🍜 **Live octopus (sannakji)** — Still wriggling on the plate (Noryangjin)
+- 🍜 **Gaebul** — Spoon worm / "penis fish"; eaten raw (Noryangjin)
+- 🍜 **Dak-bal** — Spicy chicken feet
+- 🍜 **Gopchang** — Grilled intestines
+- 🍜 **Hongeo** — Fermented skate; one of Korea's most pungent dishes
+- ☕ **Yakgwa** — Deep-fried honey cookies (traditional sweet)
+- ☕ **Injeolmi** — Chewy rice cake coated in roasted soybean powder
+- ☕ **Songpyeon** — Half-moon rice cakes with sesame or red bean filling
 
 ---
 
@@ -402,7 +402,7 @@ Grouped by district.
 
 #### Food (no chains)
 - [🍜 Haeundae Milmyeon](https://www.google.com/maps/search/Haeundae+Milmyeon+Busan) — Famous milmyeon (cold wheat noodles in chilled broth); Busan signature dish
-- Haeundae Pojangmacha-chon — Orange-tented seafood stalls on the beach at night; grilled fish, shellfish, soju
+- 🍜🍺 Haeundae Pojangmacha-chon — Orange-tented seafood stalls on the beach at night; grilled fish, shellfish, soju
 - [🛍️🍜 Haeundae Traditional Market](https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan) — Small charming market; best after 8pm for eomuk, tteokbokki, hotteok
 
 #### Desserts
@@ -428,7 +428,7 @@ Grouped by district.
 - [🍜🛍️ Jagalchi Fish Market](https://www.google.com/maps/search/Jagalchi+Fish+Market+Busan) — Korea's largest seafood market; live octopus, crabs, abalone; buy downstairs, cook upstairs
 - [🛍️🍜 Gukje Market (International Market)](https://www.google.com/maps/search/Gukje+Market+Busan) — Massive warren of stalls; Gukje Market Food Street has kalguksu, mandu, pajeon (50+ years running)
 - [🏮 Bupyeong Kkangtong Night Market](https://www.google.com/maps/search/Bupyeong+Kkangtong+Night+Market+Busan) — Korea's first permanent night market; opens ~7:30pm; bibim dangmyeon, egg hotteok, grilled pork belly
-- BIFF Square Ssiat Hotteok — Busan's signature: fried pancakes stuffed with seeds, nuts, cinnamon, brown sugar syrup; ~1,000-2,000 KRW
+- ☕ BIFF Square Ssiat Hotteok — Busan's signature: fried pancakes stuffed with seeds, nuts, cinnamon, brown sugar syrup; ~1,000-2,000 KRW
 
 #### Stores
 - [🎁 K-POP FRIENDS Nampo](https://www.google.com/maps/search/KPOP+FRIENDS+Nampo+Busan) — K-pop merchandise, albums, photo cards; open 10:30-22:30
@@ -438,9 +438,9 @@ Grouped by district.
 ### Gamcheon Culture Village
 
 - [🚶📸 Gamcheon Culture Village](https://www.google.com/maps/search/Gamcheon+Culture+Village+Busan) — "Machu Picchu of Korea"; colorful houses on hillside with murals, sculptures, installations
-- The Little Prince & the Fox statue — Most photographed spot
-- BTS Mural (Jungkook and Jimin)
-- **Stamp Tour** — Pick up stamp map at entrance; collect stamps through alleys; great for kids (scavenger hunt!); earns postcard reward
+- 📸 The Little Prince & the Fox statue — Most photographed spot
+- 📸 BTS Mural (Jungkook and Jimin)
+- 🎨🧒 **Stamp Tour** — Pick up stamp map at entrance; collect stamps through alleys; great for kids (scavenger hunt!); earns postcard reward
 - [☕ Coffee It House](https://www.google.com/maps/search/Coffee+It+House+Gamcheon+Busan) — Rooftop with best panoramic view
 - [☕ Cafe Avant Garde](https://www.google.com/maps/search/Cafe+Avant+Garde+Gamcheon+Busan) — Retro/vintage; records, radios; also gallery
 - Free entry; open 9am-6pm (residential area); allow 2-3 hours
@@ -502,7 +502,7 @@ Grouped by district.
 #### Food
 - [🍜 Hwangnidan-gil](https://www.google.com/maps/search/Hwangnidan-gil+Gyeongju) — Trendiest food street; hanok cafes, restaurants, craft beer
 - [🛍️🍜 Jungang Market](https://www.google.com/maps/search/Jungang+Market+Gyeongju) — Affordable market meals; kalguksu, tteokbokki
-- Gyeongju Bread (Hwangnam-ppang) — Thin dough with sweet red bean paste; sold everywhere, original shop near the tombs
+- ☕ Gyeongju Bread (Hwangnam-ppang) — Thin dough with sweet red bean paste; sold everywhere, original shop near the tombs
 
 ---
 
@@ -527,9 +527,9 @@ Grouped by district.
 Must book through authorized tour company. Bring passports.
 
 - [🏛️ Imjingak Peace Park](https://www.google.com/maps/search/Imjingak+Peace+Park) — Exhibits, Peace Bell, Freedom Bridge, bullet-riddled trains
-- 3rd Infiltration Tunnel — Walk 73m underground into a North Korean tunnel; helmets provided; fine for age 9+
-- Dora Observatory — Binoculars looking into North Korea
-- Dorasan Station — Last train station before North Korea; eerily empty
+- 🏯 3rd Infiltration Tunnel — Walk 73m underground into a North Korean tunnel; helmets provided; fine for age 9+
+- 🗼 Dora Observatory — Binoculars looking into North Korea
+- 📸 Dorasan Station — Last train station before North Korea; eerily empty
 - NOTE: **JSA/Panmunjom tours are suspended for general tourists since July 2023** (UNC restrictions); only standard DMZ tours (3rd Tunnel + Dora + Dorasan + Imjingak) are currently bookable. All ages OK on standard tour.
 
 ---
@@ -539,7 +539,7 @@ Must book through authorized tour company. Bring passports.
 - [🏯 Hwaseong Fortress](https://www.google.com/maps/search/Hwaseong+Fortress+Suwon) — UNESCO; 5.74km complete wall loop; most photogenic: Banghwasuryujeong Pavilion overlooking Yongyeon Pond
 - [🏯 Hwaseong Haenggung](https://www.google.com/maps/search/Hwaseong+Haenggung+Suwon) — Royal palace inside fortress
 - [🗼🧒 Flying Suwon](https://www.google.com/maps/search/Flying+Suwon) — Helium balloon lifting you 70-150m; fun for kids
-- Korean Archery Experience near fortress walls
+- 🎨 Korean Archery Experience near fortress walls
 - [🍜 Chicken Street (Tongdak Golmok)](https://www.google.com/maps/search/Tongdak+Golmok+Suwon) — Whole street dedicated to Korean fried chicken
 - [🍜 Suwon Galbi restaurants](https://www.google.com/maps/search/Suwon+Galbi) — Nationally famous grilled beef short ribs
 
@@ -582,11 +582,11 @@ Old Taipei — oldest temple, historic blocks, weird ice cream, youth culture.
 - [📸🛍️ Ximen Red House](https://www.google.com/maps/search/Ximen+Red+House+Taipei) — 1908 public market; now artisan crafts, pop-up shops, cafes
 - [📸🏛️ Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei) — 76m marble hall; guard-changing ceremony hourly from 9am; tai chi on grounds at dawn
 - [🌳🏛️ 228 Peace Memorial Park](https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei) — Green oasis with National Taiwan Museum
-- Ximending pedestrian area — Youth culture hub; street performers, graffiti, 24-hour Don Don Donki
+- 🚶 Ximending pedestrian area — Youth culture hub; street performers, graffiti, 24-hour Don Don Donki
 
 #### Desserts & Ice Cream (WEIRD STUFF!)
 - [☕🤪 Snow King Ice Cream](https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei) — Since 1947; flavors: PORK FLOSS, pig's knuckle, sesame oil chicken, wasabi, curry, beer, chili pepper, kidney bean; kids will go wild
-- Star Fruit Ice (Chengdu Yangto Bing) in Ximending — Star fruit ice topped with peanut candy and cilantro
+- ☕ Star Fruit Ice (Chengdu Yangto Bing) in Ximending — Star fruit ice topped with peanut candy and cilantro
 
 #### Night Market
 - [🏮 Huaxi Street Night Market (Snake Alley)](https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei) — Oldest night market; herbal soups, eel dishes; atmospheric, less crowded
@@ -619,7 +619,7 @@ Taipei's oldest streets, best local night market, thrift shopping.
 - [🏮 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei) — Most local feeling; specific stalls: Piaoxiang Beef Noodle, Liu Yu Zi (fried taro balls), Yuen Huan Pien (oyster omelette), Fang Chia Shredded Chicken Rice
 
 #### Shopping
-- Zhongshan side streets — Top destination for vintage/thrift stores; every alley has boutiques and indie designers
+- 🛍️ Zhongshan side streets — Top destination for vintage/thrift stores; every alley has boutiques and indie designers
 
 ---
 
@@ -648,7 +648,7 @@ Modern Taipei, the iconic tower, best food street in Asia, night markets.
 - [🏮 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei) — Most "sophisticated" night market; innovative bubble tea, gourmet sausages
 
 #### Desserts
-- Mango shaved ice shops along Yongkang Street (seasonal)
+- ☕ Mango shaved ice shops along Yongkang Street (seasonal)
 
 #### Shopping
 - [🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — 1960s apartments now hosting indie boutiques and roaster cafes
@@ -685,7 +685,7 @@ Natural hot springs in the morning, tea plantations and gondola in the afternoon
 
 #### Maokong
 - [🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei) — 30-min ride over tea plantations and valleys; glass-floor cabin available (NT$50 extra); kids love it; NT$180/ride or NT$300 day pass
-- Teahouses at the top — Mountain Tea House, Found Your Tea, The Big Tea Pot
+- 🍵 Teahouses at the top — Mountain Tea House, Found Your Tea, The Big Tea Pot
 - Combine with [🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) at gondola base — One of Asia's largest
 
 ---
@@ -695,7 +695,7 @@ Natural hot springs in the morning, tea plantations and gondola in the afternoon
 #### Unique Experiences
 - [🎨🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei) — Abandoned settlement turned artists' colony; robot workshops, neon installations, outdoor sculptures
 - [🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) — Former coal-mining town; hundreds of friendly cats; cat-shaped bridges; easy train from Taipei
-- Airport Alley (Songshan Airport) — Watch planes land just meters away; free, thrilling for kids
+- 📸🧒 Airport Alley (Songshan Airport) — Watch planes land just meters away; free, thrilling for kids
 - [🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) — Taiwan's biggest; exclusive merchandise
 - [🎁🧒 Donguri Republic (Studio Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Top floor Shin Kong Mitsukoshi A8; huge Totoro cat bus kids can enter
 - [🎨🧒 Kuo Yuan Ye Museum of Cake and Pastry](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei) — 2-hour pineapple cake baking class; make iconic Taiwanese pineapple cakes from scratch
@@ -720,19 +720,19 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 
 ### Shifen
 - [🚶📸 Shifen Old Street](https://www.google.com/maps/search/Shifen+Old+Street+Taiwan) — Train tracks run through the middle of the market street; watch trains pass inches from stalls
-- Sky Lantern Release — Write wishes on a lantern and release into the sky; magical for kids
+- 🎨🧒 Sky Lantern Release — Write wishes on a lantern and release into the sky; magical for kids
 - [🌊 Shifen Waterfall](https://www.google.com/maps/search/Shifen+Waterfall+Taiwan) — Taiwan's widest; "Little Niagara"; short walk from old street
 
 ### Jiufen
 - [🚶📸 Jiufen Old Street](https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan) — Mountaintop ex-gold mining town; narrow alleys, red lanterns, Spirited Away vibes
 - [🍵📸 A-Mei Tea House](https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen) — Most iconic teahouse; 3 floors; sweeping views over Keelung Bay; red lanterns at dusk
-- Lai Ah Po Taro Balls — The original taro ball shop
-- Ah Zhu Peanut Ice Cream Roll — Shaved peanut candy, cilantro, ice cream in thin crepe; strange and delicious
+- ☕ Lai Ah Po Taro Balls — The original taro ball shop
+- ☕ Ah Zhu Peanut Ice Cream Roll — Shaved peanut candy, cilantro, ice cream in thin crepe; strange and delicious
 - Arrive early (before 9am) or go in evening; holiday traffic controls enforced
 
 ### Jinguashi
 - [🏛️ Gold Museum](https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan) — Open-air, mostly free; gold rush era exhibits
-- Teapot Mountain Hike — 2-3 hours; 360-degree views; doable for active 9-year-olds
+- 🌳 Teapot Mountain Hike — 2-3 hours; 360-degree views; doable for active 9-year-olds
 
 ### Yehliu
 - [🌊🧒 Yehliu Geopark](https://www.google.com/maps/search/Yehliu+Geopark+Taiwan) — Otherworldly rock formations; the Queen's Head; kids love the alien-landscape quality; 1-2 hours
@@ -756,14 +756,14 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 - [🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan) — Danzai noodles since 1895; broth pot allegedly never fully cleaned in 130+ years; daily 11am-8pm
 - [🍜 Yi Wei Pin at Yongle Market](https://www.google.com/maps/search/Yi+Wei+Pin+Yongle+Market+Tainan) — Michelin Bib Gourmand; bowl rice cake + milkfish thick soup; 5am-5pm
 - [🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan) — Go early morning; this is a breakfast food
-- Coffin Bread (Guan Cai Ban) — Thick toast hollowed out, filled with seafood chowder, deep-fried
+- 🍜 Coffin Bread (Guan Cai Ban) — Thick toast hollowed out, filled with seafood chowder, deep-fried
 - [🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan) — Famous on Anping Old Street
 - [☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan) — Silky douhua on Anping Old Street
 - [🍜 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan) — Main food artery; stall after stall
 
 ### Historic Streets
 - [🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan) — Qing Dynasty-era; trendy cafes in old buildings; annual lantern festival; beautiful day and night
-- Snail Alley — Hidden neighborhood; snail statues everywhere; turn it into scavenger hunt with kids
+- 🚶🤪 Snail Alley — Hidden neighborhood; snail statues everywhere; turn it into scavenger hunt with kids
 - [🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Near Fort Zeelandia; food stalls, shrimp crackers
 
 ### Landmarks
@@ -792,7 +792,7 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 ### Landmarks
 - [🌳🏯 Lotus Pond (Lianchihtan)](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung) — 1.4km lake with temple after temple
   - [🏯📸 Dragon and Tiger Pagodas](https://www.google.com/maps/search/Dragon+Tiger+Pagodas+Kaohsiung) — Enter dragon's mouth, exit tiger's for good luck
-  - Spring and Autumn Pavilions — Dragon statue you walk through
+  - 🏯 Spring and Autumn Pavilions — Dragon statue you walk through
 - [📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung) — World's largest glass art installation; 4,000+ glass pieces; light shows at 10am, 11am, 1pm, 3pm, 6pm, 7pm, 8pm, 9pm; FREE
 - [🎨🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung) — Harbor warehouses turned galleries; outdoor murals, quirky sculptures
 - [🌳🚶 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung) — 5-min ferry; Cijin Old Street (seafood!), Black Sand Beach, Lighthouse, Rainbow Church; rent bikes and cycle
@@ -828,13 +828,13 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 ### Hualien & Taroko Gorge (East Coast)
 - [🌳🌊 Taroko Gorge National Park](https://www.google.com/maps/search/Taroko+Gorge+Taiwan) — Marble-walled canyon; partially reopened after 2024 earthquake; guided tours recommended (groups of 8 max)
 - [🌳 Qixingtan Beach](https://www.google.com/maps/search/Qixingtan+Beach+Hualien) — Stunning pebble beach with mountain views; bike from Hualien
-- Whale watching (April-October) — ~2.5 hour tours; amazing for 9-year-olds
+- 🐾🧒 Whale watching (April-October) — ~2.5 hour tours; amazing for 9-year-olds
 - [🏮 Dongdamen Night Market](https://www.google.com/maps/search/Dongdamen+Night+Market+Hualien) — Long, excellent night market
 
 ### Sun Moon Lake (Nantou County)
 - [🌳🚡 Sun Moon Lake](https://www.google.com/maps/search/Sun+Moon+Lake+Taiwan) — Taiwan's largest lake; world-class cycling path; cable car to Formosan Aboriginal Culture Village (theme park + indigenous culture)
 - [🏯 Wenwu Temple](https://www.google.com/maps/search/Wenwu+Temple+Sun+Moon+Lake) — Grand lakeside temple
-- Local black tea — Sun Moon Lake specialty
+- ☕ Local black tea — Sun Moon Lake specialty
 
 ### Alishan (Chiayi County)
 - [🌳🚡 Alishan](https://www.google.com/maps/search/Alishan+Taiwan) — Ancient forests, cherry blossoms, narrow-gauge forest railway, sunrise from Zhushan Observation Deck, 2,000-year-old cypress forests
@@ -851,17 +851,17 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 
 ## Taiwan Must-Try Dishes Checklist
 
-- **Xiao Long Bao** — Soup dumplings (Din Tai Fung)
-- **Beef Noodle Soup** — Unofficial national dish
-- **Stinky Tofu** — Deep-fried or braised
-- **Oyster Omelette** — Gooey savory classic
-- **Gua Bao** — Pork belly bun
-- **Salt-Crisp Fried Chicken** — With basil and five-spice
-- **Bubble Tea** — Try at 50 Lan or Chun Shui Tang
-- **Shaved Ice** — With mango, taro balls, red beans
-- **Pineapple Cake** — Taiwan's signature pastry souvenir
-- **Coffin Bread** — Tainan specialty
-- **Danzai Noodles** — Tainan signature
-- **Milkfish** — Tainan; prepared every way imaginable
-- **Taro Balls** — Jiufen specialty
-- **Black Pepper Buns** — Raohe Night Market
+- 🍜 **Xiao Long Bao** — Soup dumplings (Din Tai Fung)
+- 🍜 **Beef Noodle Soup** — Unofficial national dish
+- 🍜 **Stinky Tofu** — Deep-fried or braised
+- 🍜 **Oyster Omelette** — Gooey savory classic
+- 🍜 **Gua Bao** — Pork belly bun
+- 🍜 **Salt-Crisp Fried Chicken** — With basil and five-spice
+- 🧋 **Bubble Tea** — Try at 50 Lan or Chun Shui Tang
+- ☕ **Shaved Ice** — With mango, taro balls, red beans
+- ☕ **Pineapple Cake** — Taiwan's signature pastry souvenir
+- 🍜 **Coffin Bread** — Tainan specialty
+- 🍜 **Danzai Noodles** — Tainan signature
+- 🍜 **Milkfish** — Tainan; prepared every way imaginable
+- ☕ **Taro Balls** — Jiufen specialty
+- 🍜 **Black Pepper Buns** — Raohe Night Market

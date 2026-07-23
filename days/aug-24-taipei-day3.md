@@ -22,7 +22,7 @@ Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But Shilin sci
 ## Also Nearby
 
 ### More Taipei Activities
-- Airport Alley (Songshan Airport) — Watch planes land just meters away; free, thrilling for kids
+- 📸🧒 Airport Alley (Songshan Airport) — Watch planes land just meters away; free, thrilling for kids
 - [🎡🗼 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — 95-meter Ferris wheel; great sunset views
 
 ### Themed Cafes

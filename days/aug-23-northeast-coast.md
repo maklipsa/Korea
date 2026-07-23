@@ -27,4 +27,4 @@ Sunday: northeast coast tour buses run daily, Jiufen and Shifen are at peak buzz
 ### Jinguashi (near Jiufen)
 - [🏛️ Gold Museum](https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan) — Open-air, mostly free; gold rush era exhibits
 - [🌊 Golden Waterfall](https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan) — Orange-tinted waterfall from mineral deposits; very photogenic
-- Teapot Mountain Hike — 2-3 hours; 360-degree views; doable for active 9-year-olds
+- 🌳🗼 Teapot Mountain Hike — 2-3 hours; 360-degree views; doable for active 9-year-olds

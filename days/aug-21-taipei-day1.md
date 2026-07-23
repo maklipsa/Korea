@@ -35,7 +35,7 @@
 - [📸🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei) — Container bars, street food, sunset views
 
 ### More Desserts
-- Star Fruit Ice (Chengdu Yangto Bing) in Ximending — Star fruit ice with peanut candy and cilantro
+- ☕ Star Fruit Ice (Chengdu Yangto Bing) in Ximending — Star fruit ice with peanut candy and cilantro
 
 ### More Cafes
 - [☕ ABCD](https://www.google.com/maps/search/ABCD+cafe+Taipei) — Giant doughnut entrance; creative doughnuts

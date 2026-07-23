@@ -42,7 +42,7 @@
 - [🏯 Koxinga Shrine](https://www.google.com/maps/search/Koxinga+Shrine+Tainan) — Red-and-gold shrine to the hero who expelled the Dutch
 - [🎨🚶 Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Former judicial dormitory; art installations
 - [🍜 Yi Wei Pin at Yongle Market](https://www.google.com/maps/search/Yi+Wei+Pin+Yongle+Market+Tainan) — Michelin Bib Gourmand; bowl rice cake + milkfish thick soup
-- Coffin Bread (Guan Cai Ban) — Thick toast hollowed out, filled with seafood chowder, deep-fried
+- 🍜 Coffin Bread (Guan Cai Ban) — Thick toast hollowed out, filled with seafood chowder, deep-fried
 
 ### Tainan Cafes
 - [☕ Kokoni Cafe](https://www.google.com/maps/search/Kokoni+Cafe+Tainan) — Near Chihkan Tower; boba milk pancakes, mango sticky rice shaved ice

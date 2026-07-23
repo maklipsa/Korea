@@ -28,7 +28,7 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
 ### More to See
 - [🌳 Olympic Park](https://www.google.com/maps/search/Olympic+Park+Seoul) — 1988 Seoul Olympics site; massive green space, art sculptures, Peace Gate
 - [🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) — 90+ career role-plays for ages 4-14
-- Seokchon Lake pedal boats — Seasonal
+- 🌳🧒 Seokchon Lake pedal boats — Seasonal
 
 ### More Cafes
 - [☕ Lala Bread](https://www.google.com/maps/search/Lala+Bread+Songnidan+Seoul) — Watch fresh bread being baked; famous pastries
