@@ -30,8 +30,8 @@ Wednesday: Jagalchi open (closed 1st/3rd Tue). Gukje open (closed 1st/3rd Sun). 
 
 ### Gamcheon Extras
 - [☕🏛️ Cafe Avant Garde](https://www.google.com/maps/search/Cafe+Avant+Garde+Gamcheon+Busan) — Retro/vintage records and radios; also a gallery
-- BTS Mural (Jungkook and Jimin) — Popular photo spot
-- The Little Prince & the Fox statue — Most photographed spot
+- 📸 BTS Mural (Jungkook and Jimin) — Popular photo spot
+- 📸 The Little Prince & the Fox statue — Most photographed spot
 
 ### Nampo Extras
 - [🎁 K-POP FRIENDS Nampo](https://www.google.com/maps/search/KPOP+FRIENDS+Nampo+Busan) — K-pop merch, albums, photo cards

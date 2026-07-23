@@ -40,8 +40,8 @@
 ### Shopping & Stores
 - [🛍️ Sounds Hannam](https://www.google.com/maps/search/Sounds+Hannam+Seoul) — Trendy complex; Saint Laurent to Aesop
 - [🛍️☕ Elves and Espresso](https://www.google.com/maps/search/Elves+Espresso+Itaewon+Seoul) — Board game/card game store and cafe (MTG, D&D)
-- Gyeongnidan-gil — Bohemian street with vintage shops
-- Yongridan-gil — Trendy indie shops
+- 🚶🛍️ Gyeongnidan-gil — Bohemian street with vintage shops
+- 🚶🛍️ Yongridan-gil — Trendy indie shops
 
 ### Walks
 - [🌳 Ichon Hangang Park](https://www.google.com/maps/search/Ichon+Hangang+Park+Seoul) — Riverside cycling and picnics

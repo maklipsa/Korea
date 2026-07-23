@@ -280,12 +280,12 @@ const DAYS = [
             "desc": "Ham gelato croissant sandwich with parma ham and black pepper"
           },
           {
-            "name": "Dragon's Beard Candy vendors (Insadong)",
+            "name": "☕ Dragon's Beard Candy vendors (Insadong)",
             "url": "",
             "desc": "Watch artisans pull 16,000 threads of honey candy"
           },
           {
-            "name": "Bungeoppang (fish-shaped waffles)",
+            "name": "☕ Bungeoppang (fish-shaped waffles)",
             "url": "",
             "desc": "Red bean or custard filled; from street vendors"
           }
@@ -470,12 +470,12 @@ const DAYS = [
             "desc": "Board game/card game store and cafe (MTG, D&D)"
           },
           {
-            "name": "Gyeongnidan-gil",
+            "name": "🚶🛍️ Gyeongnidan-gil",
             "url": "",
             "desc": "Bohemian street with vintage shops"
           },
           {
-            "name": "Yongridan-gil",
+            "name": "🚶🛍️ Yongridan-gil",
             "url": "",
             "desc": "Trendy indie shops"
           }
@@ -590,7 +590,7 @@ const DAYS = [
             "desc": "Sweetcorn mocha, roasted brown rice, knafeh chocolate"
           },
           {
-            "name": "Tanghulu (candied fruit skewers) vendors along the shopping street",
+            "name": "☕ Tanghulu (candied fruit skewers) vendors along the shopping street",
             "url": "",
             "desc": ""
           }
@@ -630,12 +630,12 @@ const DAYS = [
             "desc": "Weekend handmade goods"
           },
           {
-            "name": "Self-photo studios",
+            "name": "📸 Self-photo studios",
             "url": "",
             "desc": "Retro black-and-white photo booths throughout Hongdae"
           },
           {
-            "name": "Acorn Caricature Studios",
+            "name": "🎨 Acorn Caricature Studios",
             "url": "",
             "desc": "Get a cartoon drawn (~5,000 KRW)"
           }
@@ -918,7 +918,7 @@ const DAYS = [
             "desc": "90+ career role-plays for ages 4-14"
           },
           {
-            "name": "Seokchon Lake pedal boats",
+            "name": "🌳🧒 Seokchon Lake pedal boats",
             "url": "",
             "desc": "Seasonal"
           }
@@ -1188,12 +1188,12 @@ const DAYS = [
             "desc": "Retro/vintage records and radios; also a gallery"
           },
           {
-            "name": "BTS Mural (Jungkook and Jimin)",
+            "name": "📸 BTS Mural (Jungkook and Jimin)",
             "url": "",
             "desc": "Popular photo spot"
           },
           {
-            "name": "The Little Prince & the Fox statue",
+            "name": "📸 The Little Prince & the Fox statue",
             "url": "",
             "desc": "Most photographed spot"
           }
@@ -1473,7 +1473,7 @@ const DAYS = [
         "category": "More Desserts",
         "items": [
           {
-            "name": "Star Fruit Ice (Chengdu Yangto Bing) in Ximending",
+            "name": "☕ Star Fruit Ice (Chengdu Yangto Bing) in Ximending",
             "url": "",
             "desc": "Star fruit ice with peanut candy and cilantro"
           }
@@ -1643,7 +1643,7 @@ const DAYS = [
             "desc": "Original location (takeout only); grab xiao long bao"
           },
           {
-            "name": "Mango shaved ice shops along Yongkang Street (seasonal)",
+            "name": "☕ Mango shaved ice shops along Yongkang Street (seasonal)",
             "url": "",
             "desc": ""
           }
@@ -1763,7 +1763,7 @@ const DAYS = [
             "desc": "Orange-tinted waterfall from mineral deposits; very photogenic"
           },
           {
-            "name": "Teapot Mountain Hike",
+            "name": "🌳🗼 Teapot Mountain Hike",
             "url": "",
             "desc": "2-3 hours; 360-degree views; doable for active 9-year-olds"
           }
@@ -1823,7 +1823,7 @@ const DAYS = [
         "category": "More Taipei Activities",
         "items": [
           {
-            "name": "Airport Alley (Songshan Airport)",
+            "name": "📸🧒 Airport Alley (Songshan Airport)",
             "url": "",
             "desc": "Watch planes land just meters away; free, thrilling for kids"
           },
@@ -1993,7 +1993,7 @@ const DAYS = [
             "desc": "Michelin Bib Gourmand; bowl rice cake + milkfish thick soup"
           },
           {
-            "name": "Coffin Bread (Guan Cai Ban)",
+            "name": "🍜 Coffin Bread (Guan Cai Ban)",
             "url": "",
             "desc": "Thick toast hollowed out, filled with seafood chowder, deep-fried"
           }
@@ -2228,7 +2228,7 @@ const DAYS = [
             "desc": "World's largest performing arts center; family workshops"
           },
           {
-            "name": "Papaya milk from street vendors",
+            "name": "☕ Papaya milk from street vendors",
             "url": "",
             "desc": "Kaohsiung specialty!"
           }
@@ -2243,7 +2243,7 @@ const DAYS = [
             "desc": "At gondola base; one of Asia's largest (NT$60; closes 5pm weekdays)"
           },
           {
-            "name": "Specific teahouses: Mountain Tea House, Found Your Tea, The Big Tea Pot",
+            "name": "🍵 Specific teahouses: Mountain Tea House, Found Your Tea, The Big Tea Pot",
             "url": "",
             "desc": ""
           }
@@ -2263,7 +2263,7 @@ const DAYS = [
             "desc": "Original location (takeout only); xiao long bao"
           },
           {
-            "name": "Mango shaved ice shops (seasonal)",
+            "name": "☕ Mango shaved ice shops (seasonal)",
             "url": "",
             "desc": ""
           }

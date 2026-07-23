@@ -45,8 +45,8 @@ The big traditional Seoul day. Everything open on Wednesdays.
 
 ### Desserts
 - [☕ Scooper Gelato Jongno](https://www.google.com/maps/search/Scooper+Gelato+Jongno+Seoul) — Ham gelato croissant sandwich with parma ham and black pepper
-- Dragon's Beard Candy vendors (Insadong) — Watch artisans pull 16,000 threads of honey candy
-- Bungeoppang (fish-shaped waffles) — Red bean or custard filled; from street vendors
+- ☕ Dragon's Beard Candy vendors (Insadong) — Watch artisans pull 16,000 threads of honey candy
+- ☕ Bungeoppang (fish-shaped waffles) — Red bean or custard filled; from street vendors
 
 ### Walks & Hikes
 - [🌳 Samcheong Park](https://www.google.com/maps/search/Samcheong+Park+Seoul) — Gateway to Bugaksan trail and Seoul City Wall

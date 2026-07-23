@@ -32,7 +32,7 @@ Animal cafes, weird ice cream, escape rooms, street performers.
 ### More Gelato
 - [☕ Gelateria Eta](https://www.google.com/maps/search/Gelateria+Eta+Hongdae+Seoul) — Mugwort fig cream cheese, Jack Daniel's chocolate
 - [☕ Melted](https://www.google.com/maps/search/Melted+gelato+Hongdae+Seoul) — Sweetcorn mocha, roasted brown rice, knafeh chocolate
-- Tanghulu (candied fruit skewers) vendors along the shopping street
+- ☕ Tanghulu (candied fruit skewers) vendors along the shopping street
 
 ### More Food
 - [🍜 Ildeung Sikdang](https://www.google.com/maps/search/Ildeung+Sikdang+Mangwon+Seoul) — Ox bone soup since 1986; one signature dish
@@ -42,5 +42,5 @@ Animal cafes, weird ice cream, escape rooms, street performers.
 - [🛍️🧒 Hongdae Children's Playground](https://www.google.com/maps/search/Hongdae+Playground+Seoul) — Weekend flea market; street performers
 - [🌳 Mangwon Hangang Park](https://www.google.com/maps/search/Mangwon+Hangang+Park+Seoul) — Riverside cycling and picnics
 - [🛍️ Hongdae Free Market](https://www.google.com/maps/search/Hongdae+Free+Market+Seoul) — Weekend handmade goods
-- Self-photo studios — Retro black-and-white photo booths throughout Hongdae
-- Acorn Caricature Studios — Get a cartoon drawn (~5,000 KRW)
+- 📸 Self-photo studios — Retro black-and-white photo booths throughout Hongdae
+- 🎨 Acorn Caricature Studios — Get a cartoon drawn (~5,000 KRW)

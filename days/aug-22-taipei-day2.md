@@ -39,7 +39,7 @@
 ### Yongkang Street Extras
 - [🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Since 1963; famous pot-stickers
 - [🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Original location (takeout only); grab xiao long bao
-- Mango shaved ice shops along Yongkang Street (seasonal)
+- ☕ Mango shaved ice shops along Yongkang Street (seasonal)
 
 ### Shopping
 - [🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — 1960s apartments turned indie boutiques
