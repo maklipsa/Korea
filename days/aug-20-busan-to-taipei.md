@@ -3,18 +3,18 @@
 ## Route Map
 
 **Busan morning** (pick one option — no fixed route):
-- Option A: [🚡🧒 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan)
-- Option B: [🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium)
-- Option C: [♨️ Spa Land at Shinsegae](https://www.google.com/maps/search/Shinsegae+Centum+City+Busan)
+- Option A: [★★★☆☆ 🚡🧒 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan)
+- Option B: [★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium)
+- Option C: [★★★☆☆ ♨️ Spa Land at Shinsegae](https://www.google.com/maps/search/Shinsegae+Centum+City+Busan)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
 | 9:00 | Pick one morning activity: |  |
-|  | **Option A:** [🚡🧒 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan) — 1.62km over the ocean, Crystal Cabin (glass floor!). 15-20 min ride. | 22,000 KRW (crystal) |
-|  | **Option B:** [🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium) — 250 species, ocean tunnel, LEGO landmarks. Book online for 20-30% off. | ~22,000-29,000 KRW |
-|  | **Option C:** [♨️ Spa Land](https://www.google.com/maps/search/Shinsegae+Centum+City+Busan) at Shinsegae (world's largest dept store) — Jjimjilbang with 22 themed saunas. Rest before flight. | ~20,000 KRW |
+|  | **Option A:** [★★★☆☆ 🚡🧒 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan) — 1.62km over the ocean, Crystal Cabin (glass floor!). 15-20 min ride. | 22,000 KRW (crystal) |
+|  | **Option B:** [★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium) — 250 species, ocean tunnel, LEGO landmarks. Book online for 20-30% off. | ~22,000-29,000 KRW |
+|  | **Option C:** [★★★☆☆ ♨️ Spa Land](https://www.google.com/maps/search/Shinsegae+Centum+City+Busan) at Shinsegae (world's largest dept store) — Jjimjilbang with 22 themed saunas. Rest before flight. | ~20,000 KRW |
 | 12:00 | Lunch in Busan. |  |
 | 13:30 | Head to **Gimhae Airport** (Busan Air Light Rail from Haeundae, or taxi ~40 min). |  |
 | ~17:00-18:00 | **Flight PUS → TPE** (~2h50). Departs Gimhae **T2 (International)**. Korea is +1h vs Taiwan. | Booked ahead |
@@ -26,7 +26,7 @@
 ## Also Nearby
 
 ### Busan Morning Extras
-- [🌳🚶 Taejongdae Resort Park](https://www.google.com/maps/search/Taejongdae+Busan) — Sea cliffs, Yeongdo Lighthouse, Danubi Train; 2.2 miles trail
-- [🗼☕ Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) — Observatory floors 98-100; also world's highest Starbucks
-- [🏛️🧒 Busan National Science Museum](https://www.google.com/maps/search/Busan+National+Science+Museum) — Interactive exhibits, space simulations, robotics; great for age 9+
-- [📸🧒 Trick Eye Museum Haeundae](https://www.google.com/maps/search/Trick+Eye+Museum+Haeundae+Busan) — Immersive optical illusions
+- [★★★☆☆ 🌳🚶 Taejongdae Resort Park](https://www.google.com/maps/search/Taejongdae+Busan) — Sea cliffs, Yeongdo Lighthouse, Danubi Train; 2.2 miles trail
+- [★★★★☆ 🗼☕ Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) — Observatory floors 98-100; also world's highest Starbucks
+- [★★★☆☆ 🏛️🧒 Busan National Science Museum](https://www.google.com/maps/search/Busan+National+Science+Museum) — Interactive exhibits, space simulations, robotics; great for age 9+
+- [★★☆☆☆ 📸🧒 Trick Eye Museum Haeundae](https://www.google.com/maps/search/Trick+Eye+Museum+Haeundae+Busan) — Immersive optical illusions

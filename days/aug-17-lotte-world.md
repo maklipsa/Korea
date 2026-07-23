@@ -13,25 +13,25 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 10:00 | **[🎡🧒 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul)** — Start with the indoor section (world's largest indoor park — great for August heat!). Then outdoor rides. | Pass or ~55,000 KRW |
+| 10:00 | **[★★★★★ 🎡🧒 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul)** — Start with the indoor section (world's largest indoor park — great for August heat!). Then outdoor rides. | Pass or ~55,000 KRW |
 | 13:00 | Lunch inside Lotte World. |  |
-| 15:00 | **[🗼🧒 Seoul Sky](https://www.google.com/maps/search/Lotte+World+Tower+Seoul)** — Glass-floor observation deck at 500m on Lotte World Tower (floors 117-123). Highest in Korea. | ~29,000 KRW |
-| 17:00 | Walk around **[🌳🚶 Seokchon Lake](https://www.google.com/maps/search/Seokchon+Lake+Seoul)** — Scenic lake surrounding Lotte World. |  |
+| 15:00 | **[★★★★☆ 🗼🧒 Seoul Sky](https://www.google.com/maps/search/Lotte+World+Tower+Seoul)** — Glass-floor observation deck at 500m on Lotte World Tower (floors 117-123). Highest in Korea. | ~29,000 KRW |
+| 17:00 | Walk around **[★★☆☆☆ 🌳🚶 Seokchon Lake](https://www.google.com/maps/search/Seokchon+Lake+Seoul)** — Scenic lake surrounding Lotte World. |  |
 | 18:00 | **Songnidan-gil** — Trendy food street south of the lake. |  |
-| 18:30 | Cafe: [☕ Mountain Nook](https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul) (forest-themed mega-cafe) or [☕ Bontemps](https://www.google.com/maps/search/Bontemps+Songnidan+Seoul) (Korean twisted donuts). |  |
-| 19:30 | Dinner: [🍜 Motor City](https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul) (Detroit-style pizza) or [🍜 Pizzeria Lago](https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul) (wood-fired). |  |
+| 18:30 | Cafe: [★★☆☆☆ ☕ Mountain Nook](https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul) (forest-themed mega-cafe) or [★★☆☆☆ ☕ Bontemps](https://www.google.com/maps/search/Bontemps+Songnidan+Seoul) (Korean twisted donuts). |  |
+| 19:30 | Dinner: [★★☆☆☆ 🍜 Motor City](https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul) (Detroit-style pizza) or [★★☆☆☆ 🍜 Pizzeria Lago](https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul) (wood-fired). |  |
 
 ---
 
 ## Also Nearby
 
 ### More to See
-- [🌳 Olympic Park](https://www.google.com/maps/search/Olympic+Park+Seoul) — 1988 Seoul Olympics site; massive green space, art sculptures, Peace Gate
-- [🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) — 90+ career role-plays for ages 4-14
+- [★★☆☆☆ 🌳 Olympic Park](https://www.google.com/maps/search/Olympic+Park+Seoul) — 1988 Seoul Olympics site; massive green space, art sculptures, Peace Gate
+- [★★★☆☆ 🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) — 90+ career role-plays for ages 4-14
 - 🌳🧒 Seokchon Lake pedal boats — Seasonal
 
 ### More Cafes
-- [☕ Lala Bread](https://www.google.com/maps/search/Lala+Bread+Songnidan+Seoul) — Watch fresh bread being baked; famous pastries
+- [★★☆☆☆ ☕ Lala Bread](https://www.google.com/maps/search/Lala+Bread+Songnidan+Seoul) — Watch fresh bread being baked; famous pastries
 
 ### More Food
-- [🍜🚶 Bangimatol Food Alley](https://www.google.com/maps/search/Bangimatol+Bangi+Seoul) — "Gourmet street" packed with top restaurants
+- [★★☆☆☆ 🍜🚶 Bangimatol Food Alley](https://www.google.com/maps/search/Bangimatol+Bangi+Seoul) — "Gourmet street" packed with top restaurants

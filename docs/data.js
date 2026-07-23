@@ -36,17 +36,17 @@ const DAYS = [
       },
       {
         "time": "12:30",
-        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Tosokchon+Samgyetang+Seoul\" target=\"_blank\">🍜 Tosokchon Samgyetang</a></strong> — Famous ginseng chicken soup (whole young chicken stuffed with rice, ginseng, jujubes). Restorative after a long flight. Always a queue but moves fast. Near Gyeongbokgung.",
+        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Tosokchon+Samgyetang+Seoul\" target=\"_blank\">★★★☆☆ 🍜 Tosokchon Samgyetang</a></strong> — Famous ginseng chicken soup (whole young chicken stuffed with rice, ginseng, jujubes). Restorative after a long flight. Always a queue but moves fast. Near Gyeongbokgung.",
         "price": "~16,000 KRW"
       },
       {
         "time": "14:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Cheonggyecheon+Stream+Seoul\" target=\"_blank\">🌳🚶 Cheonggyecheon Stream</a></strong> — 10.9km restored urban stream running through central Seoul. Shaded, a few degrees cooler than street level. Start at Cheonggye Plaza waterfall and walk east.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Cheonggyecheon+Stream+Seoul\" target=\"_blank\">★★★☆☆ 🌳🚶 Cheonggyecheon Stream</a></strong> — 10.9km restored urban stream running through central Seoul. Shaded, a few degrees cooler than street level. Start at Cheonggye Plaza waterfall and walk east.",
         "price": "Free"
       },
       {
         "time": "15:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul\" target=\"_blank\">📸🧒 Dongdaemun Design Plaza (DDP)</a></strong> — Zaha Hadid's silver spaceship building. LED Rose Garden (25,550 LED roses — one for each day in 70 years of liberation; lights up at sunset). Free to explore the flowing outdoor terraces. Kids love the futuristic architecture.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul\" target=\"_blank\">★★★☆☆ 📸🧒 Dongdaemun Design Plaza (DDP)</a></strong> — Zaha Hadid's silver spaceship building. LED Rose Garden (25,550 LED roses — one for each day in 70 years of liberation; lights up at sunset). Free to explore the flowing outdoor terraces. Kids love the futuristic architecture.",
         "price": "Free (outdoor)"
       },
       {
@@ -56,12 +56,12 @@ const DAYS = [
       },
       {
         "time": "17:00",
-        "activity": "Walk to <strong><a href=\"https://www.google.com/maps/search/Ikseon-dong+Seoul\" target=\"_blank\">🚶 Ikseon-dong</a></strong> (10 min from DDP) — Seoul's oldest hanok village turned hip cafe/restaurant district. Wander narrow alleys, browse boutique shops.",
+        "activity": "Walk to <strong><a href=\"https://www.google.com/maps/search/Ikseon-dong+Seoul\" target=\"_blank\">★★★★☆ 🚶 Ikseon-dong</a></strong> (10 min from DDP) — Seoul's oldest hanok village turned hip cafe/restaurant district. Wander narrow alleys, browse boutique shops.",
         "price": ""
       },
       {
         "time": "17:30",
-        "activity": "Cafe: <strong><a href=\"https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul\" target=\"_blank\">☕ Cheong Su Dang</a></strong> (stepping stones over water inside the cafe) or <strong><a href=\"https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong\" target=\"_blank\">☕ Seoul Coffee</a></strong> (squid-ink butter bread).",
+        "activity": "Cafe: <strong><a href=\"https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Cheong Su Dang</a></strong> (stepping stones over water inside the cafe) or <strong><a href=\"https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong\" target=\"_blank\">★★☆☆☆ ☕ Seoul Coffee</a></strong> (squid-ink butter bread).",
         "price": ""
       },
       {
@@ -75,12 +75,12 @@ const DAYS = [
         "category": "More Cafes",
         "items": [
           {
-            "name": "☕ Cheese Industry",
+            "name": "★☆☆☆☆ ☕ Cheese Industry",
             "url": "https://www.google.com/maps/search/Cheese+Industry+Ikseon-dong+Seoul",
             "desc": "Ikseon-dong; artisan cheese cafe"
           },
           {
-            "name": "☕ Miik Flo Kaymak",
+            "name": "★★☆☆☆ ☕ Miik Flo Kaymak",
             "url": "https://www.google.com/maps/search/Miik+Flo+Dongdaemun+Seoul",
             "desc": "Near DDP; pastel cafe; kaymak cream desserts from 3,900 KRW"
           }
@@ -90,12 +90,12 @@ const DAYS = [
         "category": "More Food",
         "items": [
           {
-            "name": "🍜 Kkangtong Mandu",
+            "name": "★★☆☆☆ 🍜 Kkangtong Mandu",
             "url": "https://www.google.com/maps/search/Kkangtong+Mandu+Seoul",
             "desc": "Hidden alley dumplings and cold noodles"
           },
           {
-            "name": "🍜 Sindang-dong Tteokbokki Town",
+            "name": "★★★☆☆ 🍜 Sindang-dong Tteokbokki Town",
             "url": "https://www.google.com/maps/search/Sindang+Tteokbokki+Town+Seoul",
             "desc": "Legendary tteokbokki with sundae (blood sausage); near DDP"
           }
@@ -105,12 +105,12 @@ const DAYS = [
         "category": "More to See",
         "items": [
           {
-            "name": "🏯 Heunginjimun (Dongdaemun Gate)",
+            "name": "★★☆☆☆ 🏯 Heunginjimun (Dongdaemun Gate)",
             "url": "https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul",
             "desc": "Original Seoul Fortress gate (1398), next to DDP"
           },
           {
-            "name": "🌳🚶 Seoullo 7017",
+            "name": "★★☆☆☆ 🌳🚶 Seoullo 7017",
             "url": "https://www.google.com/maps/search/Seoullo+7017+Seoul",
             "desc": "Elevated walkway/park on former highway overpass"
           }
@@ -120,7 +120,7 @@ const DAYS = [
         "category": "Workshops",
         "items": [
           {
-            "name": "🎨 Ikseon Gongbang",
+            "name": "★★☆☆☆ 🎨 Ikseon Gongbang",
             "url": "https://www.google.com/maps/search/Ikseon+Gongbang+Seoul",
             "desc": "Make herbariums, sand candles, plaster fresheners, diffusers"
           }
@@ -146,12 +146,12 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gyeongbokgung+Palace+Seoul\" target=\"_blank\">🏯🎨 Gyeongbokgung Palace</a></strong> — Rent hanbok nearby (~15,000-20,000 KRW/2-4h) = FREE palace entry. Royal guard ceremony at 10:00 and 14:00.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gyeongbokgung+Palace+Seoul\" target=\"_blank\">★★★★★ 🏯🎨 Gyeongbokgung Palace</a></strong> — Rent hanbok nearby (~15,000-20,000 KRW/2-4h) = FREE palace entry. Royal guard ceremony at 10:00 and 14:00.",
         "price": "Free w/hanbok"
       },
       {
         "time": "11:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Folk+Museum+Korea+Seoul\" target=\"_blank\">🏛️ National Folk Museum</a></strong> — Inside Gyeongbokgung grounds. Interactive daily life exhibits.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Folk+Museum+Korea+Seoul\" target=\"_blank\">★★★☆☆ 🏛️ National Folk Museum</a></strong> — Inside Gyeongbokgung grounds. Interactive daily life exhibits.",
         "price": "Free"
       },
       {
@@ -161,37 +161,37 @@ const DAYS = [
       },
       {
         "time": "12:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Tongin+Market+Seoul\" target=\"_blank\">🍜🧒 Tongin Market coin lunchbox</a></strong> — Pay 5,000 KRW, get brass coins, pick side dishes from market stalls to build your own lunch. Kids love this! Best 11am-1pm.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Tongin+Market+Seoul\" target=\"_blank\">★★★☆☆ 🍜🧒 Tongin Market coin lunchbox</a></strong> — Pay 5,000 KRW, get brass coins, pick side dishes from market stalls to build your own lunch. Kids love this! Best 11am-1pm.",
         "price": "5,000 KRW"
       },
       {
         "time": "13:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Hyoja+Bakery+Seochon+Seoul\" target=\"_blank\">☕ Hyoja Bakery</a></strong> — Supplied the Blue House for 26 years. Donuts, chestnut pastries.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Hyoja+Bakery+Seochon+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Hyoja Bakery</a></strong> — Supplied the Blue House for 26 years. Donuts, chestnut pastries.",
         "price": ""
       },
       {
         "time": "13:30",
-        "activity": "Walk east to <strong><a href=\"https://www.google.com/maps/search/Changdeokgung+Palace+Seoul\" target=\"_blank\">🏯🌳 Changdeokgung Palace + Secret Garden</a></strong> — UNESCO World Heritage. Book a guided Secret Garden tour.",
+        "activity": "Walk east to <strong><a href=\"https://www.google.com/maps/search/Changdeokgung+Palace+Seoul\" target=\"_blank\">★★★★★ 🏯🌳 Changdeokgung Palace + Secret Garden</a></strong> — UNESCO World Heritage. Book a guided Secret Garden tour.",
         "price": "3,000 KRW (palace) + 5,000 KRW (garden)"
       },
       {
         "time": "15:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul\" target=\"_blank\">🚶📸 Bukchon Hanok Village</a></strong> — 600+ traditional houses. Photo-friendly hillside streets. <strong>Tourist curfew in the Red Zone (Bukchon-ro 11-gil): 17:00–10:00, 100,000 KRW fine.</strong> Stay quiet, leave the famous photo street by 17:00.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul\" target=\"_blank\">★★★★★ 🚶📸 Bukchon Hanok Village</a></strong> — 600+ traditional houses. Photo-friendly hillside streets. <strong>Tourist curfew in the Red Zone (Bukchon-ro 11-gil): 17:00–10:00, 100,000 KRW fine.</strong> Stay quiet, leave the famous photo street by 17:00.",
         "price": "Free"
       },
       {
         "time": "16:30",
-        "activity": "<strong>Samcheong-dong</strong> — <a href=\"https://www.google.com/maps/search/Cafe+Onion+Anguk+Seoul\" target=\"_blank\">☕ Cafe Onion Anguk</a> (100-year-old hanok, salt bread). Browse galleries.",
+        "activity": "<strong>Samcheong-dong</strong> — <a href=\"https://www.google.com/maps/search/Cafe+Onion+Anguk+Seoul\" target=\"_blank\">★★★☆☆ ☕ Cafe Onion Anguk</a> (100-year-old hanok, salt bread). Browse galleries.",
         "price": ""
       },
       {
         "time": "17:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Insadong-gil+Seoul\" target=\"_blank\">🚶🛍️ Insadong</a></strong> — Ssamziegil spiral complex, name stamp carving (get kids their own Korean seal), craft shops.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Insadong-gil+Seoul\" target=\"_blank\">★★★★☆ 🚶🛍️ Insadong</a></strong> — Ssamziegil spiral complex, name stamp carving (get kids their own Korean seal), craft shops.",
         "price": "Stamp ~10,000-20,000 KRW"
       },
       {
         "time": "19:00",
-        "activity": "Dinner: <strong><a href=\"https://www.google.com/maps/search/Gwangjang+Market+Seoul\" target=\"_blank\">🍜 Gwangjang Market</a></strong> — Bindaetteok (mung bean pancakes ~5,000), mayak gimbap (~3,000), yukhoe (raw beef tartare), Netflix Knife-Cut Noodle Lady. <strong>BRING CASH.</strong>",
+        "activity": "Dinner: <strong><a href=\"https://www.google.com/maps/search/Gwangjang+Market+Seoul\" target=\"_blank\">★★★★★ 🍜 Gwangjang Market</a></strong> — Bindaetteok (mung bean pancakes ~5,000), mayak gimbap (~3,000), yukhoe (raw beef tartare), Netflix Knife-Cut Noodle Lady. <strong>BRING CASH.</strong>",
         "price": "~15,000 KRW/person"
       }
     ],
@@ -200,27 +200,27 @@ const DAYS = [
         "category": "More Temples & Landmarks",
         "items": [
           {
-            "name": "🏯 Jogyesa Temple",
+            "name": "★★★☆☆ 🏯 Jogyesa Temple",
             "url": "https://www.google.com/maps/search/Jogyesa+Temple+Seoul",
             "desc": "Main Zen Buddhist temple; giant ancient trees and ornate lanterns"
           },
           {
-            "name": "🏯 Jongmyo Shrine",
+            "name": "★★★★☆ 🏯 Jongmyo Shrine",
             "url": "https://www.google.com/maps/search/Jongmyo+Shrine+Seoul",
             "desc": "UNESCO Confucian royal shrine (open Wed!)"
           },
           {
-            "name": "🏯 Cheongwadae (former Blue House)",
+            "name": "★★★☆☆ 🏯 Cheongwadae (former Blue House)",
             "url": "https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul",
             "desc": "Recently opened presidential grounds; free"
           },
           {
-            "name": "🏯 Changgyeonggung Palace",
+            "name": "★★★☆☆ 🏯 Changgyeonggung Palace",
             "url": "https://www.google.com/maps/search/Changgyeonggung+Palace+Seoul",
             "desc": "Less crowded palace, beautiful at night"
           },
           {
-            "name": "🌳🏯 Tapgol Park",
+            "name": "★★☆☆☆ 🌳🏯 Tapgol Park",
             "url": "https://www.google.com/maps/search/Tapgol+Park+Seoul",
             "desc": "Historic park with 10-tier marble pagoda"
           }
@@ -230,22 +230,22 @@ const DAYS = [
         "category": "More Cafes",
         "items": [
           {
-            "name": "☕ Newmix Coffee Bukchon",
+            "name": "★★☆☆☆ ☕ Newmix Coffee Bukchon",
             "url": "https://www.google.com/maps/search/Newmix+Coffee+Bukchon+Seoul",
             "desc": "Inside hanok village; cinnamon yakgwa flavor"
           },
           {
-            "name": "☕🤪 Ddong Cafe (Poop Cafe)",
+            "name": "★★☆☆☆ ☕🤪 Ddong Cafe (Poop Cafe)",
             "url": "https://www.google.com/maps/search/Ddong+Cafe+Ssamziegil+Seoul",
             "desc": "Top floor of Ssamziegil; drinks in toilet bowl cups"
           },
           {
-            "name": "🍵🏛️ Beautiful Tea Museum",
+            "name": "★★☆☆☆ 🍵🏛️ Beautiful Tea Museum",
             "url": "https://www.google.com/maps/search/Beautiful+Tea+Museum+Insadong+Seoul",
             "desc": "130+ teas from across Asia"
           },
           {
-            "name": "🍵 Shin Old Tea House",
+            "name": "★★☆☆☆ 🍵 Shin Old Tea House",
             "url": "https://www.google.com/maps/search/Shin+Old+Tea+House+Insadong+Seoul",
             "desc": "Hidden alley traditional tea house"
           }
@@ -255,17 +255,17 @@ const DAYS = [
         "category": "More Food",
         "items": [
           {
-            "name": "🍜 Samcheongdong Sujebi",
+            "name": "★★★☆☆ 🍜 Samcheongdong Sujebi",
             "url": "https://www.google.com/maps/search/Samcheongdong+Sujebi+Seoul",
             "desc": "Michelin Guide; famous hand-torn noodle soup"
           },
           {
-            "name": "🍜 Hwangsaengga Kalguksu",
+            "name": "★★★☆☆ 🍜 Hwangsaengga Kalguksu",
             "url": "https://www.google.com/maps/search/Hwangsaengga+Kalguksu+Seoul",
             "desc": "Michelin Bib Gourmand; knife-cut noodles near Gyeongbokgung"
           },
           {
-            "name": "☕ Jilsiru Tteok Cafe",
+            "name": "★★☆☆☆ ☕ Jilsiru Tteok Cafe",
             "url": "https://www.google.com/maps/search/Jilsiru+Tteok+Cafe+Insadong+Seoul",
             "desc": "Traditional Korean rice cake cafe; dozens of tteok varieties"
           }
@@ -275,12 +275,12 @@ const DAYS = [
         "category": "Desserts",
         "items": [
           {
-            "name": "☕ Scooper Gelato Jongno",
+            "name": "★☆☆☆☆ ☕ Scooper Gelato Jongno",
             "url": "https://www.google.com/maps/search/Scooper+Gelato+Jongno+Seoul",
             "desc": "Ham gelato croissant sandwich with parma ham and black pepper"
           },
           {
-            "name": "☕ Dragon's Beard Candy vendors (Insadong)",
+            "name": "★★☆☆☆ ☕ Dragon's Beard Candy vendors (Insadong)",
             "url": "",
             "desc": "Watch artisans pull 16,000 threads of honey candy"
           },
@@ -295,12 +295,12 @@ const DAYS = [
         "category": "Walks & Hikes",
         "items": [
           {
-            "name": "🌳 Samcheong Park",
+            "name": "★★☆☆☆ 🌳 Samcheong Park",
             "url": "https://www.google.com/maps/search/Samcheong+Park+Seoul",
             "desc": "Gateway to Bugaksan trail and Seoul City Wall"
           },
           {
-            "name": "🌳🗼 Bugaksan Mountain Trail",
+            "name": "★★★☆☆ 🌳🗼 Bugaksan Mountain Trail",
             "url": "https://www.google.com/maps/search/Bugaksan+Seoul",
             "desc": "Hike along Seoul Fortress Wall with panoramic views"
           }
@@ -310,12 +310,12 @@ const DAYS = [
         "category": "More Kid-Friendly",
         "items": [
           {
-            "name": "🏛️ Seoul Museum of Craft Art (SeMoCa)",
+            "name": "★★☆☆☆ 🏛️ Seoul Museum of Craft Art (SeMoCa)",
             "url": "https://www.google.com/maps/search/Seoul+Museum+Craft+Art+Seoul",
             "desc": "Off Anguk Station; 20,000+ items; FREE"
           },
           {
-            "name": "🏛️🧒 Alive Museum Insadong",
+            "name": "★★☆☆☆ 🏛️🧒 Alive Museum Insadong",
             "url": "https://www.google.com/maps/search/Alive+Museum+Insadong+Seoul",
             "desc": "Interactive optical illusion museum"
           }
@@ -325,17 +325,17 @@ const DAYS = [
         "category": "Seochon Extras",
         "items": [
           {
-            "name": "☕ Dae-o Bookstore",
+            "name": "★★☆☆☆ ☕ Dae-o Bookstore",
             "url": "https://www.google.com/maps/search/Dae-o+Bookstore+Seochon+Seoul",
             "desc": "Seoul's oldest bookstore; now a cafe"
           },
           {
-            "name": "☕ Aux Petits Verres",
+            "name": "★★☆☆☆ ☕ Aux Petits Verres",
             "url": "https://www.google.com/maps/search/Aux+Petits+Verres+Seochon+Seoul",
             "desc": "Beautiful tarts; MasterChef Korea semifinalist"
           },
           {
-            "name": "🌳 Suseongdong Valley",
+            "name": "★★☆☆☆ 🌳 Suseongdong Valley",
             "url": "https://www.google.com/maps/search/Suseongdong+Valley+Seoul",
             "desc": "Hidden valley with traditional stone bridges"
           }
@@ -366,17 +366,17 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "Imjingak Peace Park, 3rd Infiltration Tunnel (73m underground, helmets provided), Dora Observatory (binoculars into North Korea), Dorasan Station (last stop before Pyongyang). <strong>Passports required.</strong> Fine for age 9+. <strong>JSA/Panmunjom is currently closed to general tourists</strong> (UNC suspended since 2023) — standard DMZ tour is what's bookable.",
+        "activity": "★★★★☆ Imjingak Peace Park, ★★★★★ 3rd Infiltration Tunnel (73m underground, helmets provided), ★★★★☆ Dora Observatory (binoculars into North Korea), ★★★☆☆ Dorasan Station (last stop before Pyongyang). <strong>Passports required.</strong> Fine for age 9+. <strong>JSA/Panmunjom is currently closed to general tourists</strong> (UNC suspended since 2023) — standard DMZ tour is what's bookable.",
         "price": ""
       },
       {
         "time": "14:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/War+Memorial+Korea+Seoul\" target=\"_blank\">🏛️🧒 War Memorial of Korea</a></strong> — Kids climb on real tanks, planes, ships outdoors. Indoor exhibits on Korean War history. Closes 18:00 (last entry 17:00).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/War+Memorial+Korea+Seoul\" target=\"_blank\">★★★★☆ 🏛️🧒 War Memorial of Korea</a></strong> — Kids climb on real tanks, planes, ships outdoors. Indoor exhibits on Korean War history. Closes 18:00 (last entry 17:00).",
         "price": "Free"
       },
       {
         "time": "16:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Museum+Korea+Seoul\" target=\"_blank\">🏛️🧒 National Museum of Korea</a></strong> — Massive collection. Children's Museum is excellent for 9-year-olds. Beautiful grounds. Thu closes 17:30 (last entry 17:00) — tight 90 min, focus on Children's Museum + Ten-Storey Pagoda.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Museum+Korea+Seoul\" target=\"_blank\">★★★★☆ 🏛️🧒 National Museum of Korea</a></strong> — Massive collection. Children's Museum is excellent for 9-year-olds. Beautiful grounds. Thu closes 17:30 (last entry 17:00) — tight 90 min, focus on Children's Museum + Ten-Storey Pagoda.",
         "price": "Free"
       },
       {
@@ -386,12 +386,12 @@ const DAYS = [
       },
       {
         "time": "18:00",
-        "activity": "Cafe: <a href=\"https://www.google.com/maps/search/Dotori+cafe+Haebangchon+Seoul\" target=\"_blank\">☕ Dotori</a> (Studio Ghibli vibes) or <a href=\"https://www.google.com/maps/search/Anthracite+Hannam+Seoul\" target=\"_blank\">☕ Anthracite</a> (industrial-chic roastery).",
+        "activity": "Cafe: <a href=\"https://www.google.com/maps/search/Dotori+cafe+Haebangchon+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Dotori</a> (Studio Ghibli vibes) or <a href=\"https://www.google.com/maps/search/Anthracite+Hannam+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Anthracite</a> (industrial-chic roastery).",
         "price": ""
       },
       {
         "time": "19:00",
-        "activity": "Dinner: <a href=\"https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul\" target=\"_blank\">🍜 Vatos Urban Tacos</a> (Korean-Mexican fusion) or <a href=\"https://www.google.com/maps/search/Chompi+Hannam+Seoul\" target=\"_blank\">🍜 Chompi</a> (poke bowls, BTS SUGA's brother's place).",
+        "activity": "Dinner: <a href=\"https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Vatos Urban Tacos</a> (Korean-Mexican fusion) or <a href=\"https://www.google.com/maps/search/Chompi+Hannam+Seoul\" target=\"_blank\">★☆☆☆☆ 🍜 Chompi</a> (poke bowls, BTS SUGA's brother's place).",
         "price": ""
       }
     ],
@@ -400,27 +400,27 @@ const DAYS = [
         "category": "More Cafes",
         "items": [
           {
-            "name": "☕🤪 Le Montblanc HBC",
+            "name": "★★☆☆☆ ☕🤪 Le Montblanc HBC",
             "url": "https://www.google.com/maps/search/Le+Montblanc+Haebangchon+Seoul",
             "desc": "Yarn-themed cafe; desserts shaped like yarn balls; rooftop"
           },
           {
-            "name": "☕ Cafe MOONEE HBC",
+            "name": "★★☆☆☆ ☕ Cafe MOONEE HBC",
             "url": "https://www.google.com/maps/search/Cafe+MOONEE+Haebangchon+Seoul",
             "desc": "3-story rooftop with sunset views and Namsan Tower panorama"
           },
           {
-            "name": "🍵 OSULLOC Tea House Hannam",
+            "name": "★★★☆☆ 🍵 OSULLOC Tea House Hannam",
             "url": "https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul",
             "desc": "Green tea specialty; black lava rock walls"
           },
           {
-            "name": "☕ Hyundai Card Music Library",
+            "name": "★★☆☆☆ ☕ Hyundai Card Music Library",
             "url": "https://www.google.com/maps/search/Hyundai+Card+Music+Library+Hannam+Seoul",
             "desc": "Vinyl/cassette/CD listening cafe with headphones"
           },
           {
-            "name": "☕🧒 Book Park Blue Square",
+            "name": "★★☆☆☆ ☕🧒 Book Park Blue Square",
             "url": "https://www.google.com/maps/search/Blue+Square+Seoul",
             "desc": "50,000+ books, cafe, children's zone"
           }
@@ -430,12 +430,12 @@ const DAYS = [
         "category": "More Food",
         "items": [
           {
-            "name": "🍜 Linus' BBQ",
+            "name": "★★☆☆☆ 🍜 Linus' BBQ",
             "url": "https://www.google.com/maps/search/Linus+BBQ+Haebangchon+Seoul",
             "desc": "American-style BBQ on the HBC hill"
           },
           {
-            "name": "🍜 Maple Tree House",
+            "name": "★★★☆☆ 🍜 Maple Tree House",
             "url": "https://www.google.com/maps/search/Maple+Tree+House+Seoul",
             "desc": "Upscale Korean BBQ"
           }
@@ -445,12 +445,12 @@ const DAYS = [
         "category": "More Museums (all FREE)",
         "items": [
           {
-            "name": "🏛️ Leeum Museum of Art",
+            "name": "★★★☆☆ 🏛️ Leeum Museum of Art",
             "url": "https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul",
             "desc": "World-class art (closed Mon)"
           },
           {
-            "name": "🏛️ MMCA",
+            "name": "★★★☆☆ 🏛️ MMCA",
             "url": "https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul",
             "desc": "National Museum of Modern Art (closed Mon)"
           }
@@ -460,22 +460,22 @@ const DAYS = [
         "category": "Shopping & Stores",
         "items": [
           {
-            "name": "🛍️ Sounds Hannam",
+            "name": "★★☆☆☆ 🛍️ Sounds Hannam",
             "url": "https://www.google.com/maps/search/Sounds+Hannam+Seoul",
             "desc": "Trendy complex; Saint Laurent to Aesop"
           },
           {
-            "name": "🛍️☕ Elves and Espresso",
+            "name": "★☆☆☆☆ 🛍️☕ Elves and Espresso",
             "url": "https://www.google.com/maps/search/Elves+Espresso+Itaewon+Seoul",
             "desc": "Board game/card game store and cafe (MTG, D&D)"
           },
           {
-            "name": "🚶🛍️ Gyeongnidan-gil",
+            "name": "★★☆☆☆ 🚶🛍️ Gyeongnidan-gil",
             "url": "",
             "desc": "Bohemian street with vintage shops"
           },
           {
-            "name": "🚶🛍️ Yongridan-gil",
+            "name": "★★☆☆☆ 🚶🛍️ Yongridan-gil",
             "url": "",
             "desc": "Trendy indie shops"
           }
@@ -485,7 +485,7 @@ const DAYS = [
         "category": "Walks",
         "items": [
           {
-            "name": "🌳 Ichon Hangang Park",
+            "name": "★★☆☆☆ 🌳 Ichon Hangang Park",
             "url": "https://www.google.com/maps/search/Ichon+Hangang+Park+Seoul",
             "desc": "Riverside cycling and picnics"
           }
@@ -511,27 +511,27 @@ const DAYS = [
     "schedule": [
       {
         "time": "10:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Mangwon+Market+Seoul\" target=\"_blank\">🛍️🍜 Mangwon Market</a></strong> breakfast — Tteokbokki, hotteok, dakgangjeong (sweet crispy chicken). Less touristy than Gwangjang.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Mangwon+Market+Seoul\" target=\"_blank\">★★★☆☆ 🛍️🍜 Mangwon Market</a></strong> breakfast — Tteokbokki, hotteok, dakgangjeong (sweet crispy chicken). Less touristy than Gwangjang.",
         "price": "~5,000-10,000 KRW"
       },
       {
         "time": "11:00",
-        "activity": "Walk <strong><a href=\"https://www.google.com/maps/search/Gyeongui+Line+Forest+Park+Seoul\" target=\"_blank\">🌳🚶 Gyeongui Line Forest Park</a></strong> — Beautiful linear park, old railway.",
+        "activity": "Walk <strong><a href=\"https://www.google.com/maps/search/Gyeongui+Line+Forest+Park+Seoul\" target=\"_blank\">★★★☆☆ 🌳🚶 Gyeongui Line Forest Park</a></strong> — Beautiful linear park, old railway.",
         "price": ""
       },
       {
         "time": "12:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/943+Kings+Cross+Hongdae+Seoul\" target=\"_blank\">☕🧒 943 Kings Cross (Harry Potter Cafe)</a></strong> — 7 floors of Hogwarts! Butterbeer and themed drinks.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/943+Kings+Cross+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🧒 943 Kings Cross (Harry Potter Cafe)</a></strong> — 7 floors of Hogwarts! Butterbeer and themed drinks.",
         "price": "~10,000-15,000 KRW/person"
       },
       {
         "time": "13:30",
-        "activity": "<strong>Animal cafe</strong> — Pick one: <a href=\"https://www.google.com/maps/search/Table+A+Animal+Cafe+Hongdae+Seoul\" target=\"_blank\">☕🐾 Table A</a> (raccoons + meerkats, 3 floors, 10,000 KRW), <a href=\"https://www.google.com/maps/search/Blind+Alley+Raccoon+Cafe+Seoul\" target=\"_blank\">☕🐾 Blind Alley</a> (raccoons, free with drink order), or <a href=\"https://www.google.com/maps/search/Thanks+Nature+Sheep+Cafe+Seoul\" target=\"_blank\">☕🐾 Thanks Nature</a> (sheep on patio).",
+        "activity": "<strong>Animal cafe</strong> — Pick one: <a href=\"https://www.google.com/maps/search/Table+A+Animal+Cafe+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🐾 Table A</a> (raccoons + meerkats, 3 floors, 10,000 KRW), <a href=\"https://www.google.com/maps/search/Blind+Alley+Raccoon+Cafe+Seoul\" target=\"_blank\">★★☆☆☆ ☕🐾 Blind Alley</a> (raccoons, free with drink order), or <a href=\"https://www.google.com/maps/search/Thanks+Nature+Sheep+Cafe+Seoul\" target=\"_blank\">★★☆☆☆ ☕🐾 Thanks Nature</a> (sheep on patio).",
         "price": "10,000 KRW"
       },
       {
         "time": "15:00",
-        "activity": "<strong>Ice cream crawl</strong> — Pick 2-3: <a href=\"https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul\" target=\"_blank\">☕ Fell + Cole</a> (makgeolli, miso vanilla, perilla leaf), <a href=\"https://www.google.com/maps/search/Mollys+Pops+Hongdae+Seoul\" target=\"_blank\">☕ Molly's Pops</a> (wasabi popsicle!), <a href=\"https://www.google.com/maps/search/SOBOK+Hongdae+Seoul\" target=\"_blank\">☕ SOBOK</a> (rice-based injeolmi soft serve).",
+        "activity": "<strong>Ice cream crawl</strong> — Pick 2-3: <a href=\"https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Fell + Cole</a> (makgeolli, miso vanilla, perilla leaf), <a href=\"https://www.google.com/maps/search/Mollys+Pops+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Molly's Pops</a> (wasabi popsicle!), <a href=\"https://www.google.com/maps/search/SOBOK+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ SOBOK</a> (rice-based injeolmi soft serve).",
         "price": "~5,000-8,000 KRW each"
       },
       {
@@ -541,12 +541,12 @@ const DAYS = [
       },
       {
         "time": "17:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/KEYESCAPE+Hongdae+Seoul\" target=\"_blank\">🎡🧒 KEYESCAPE</a></strong> escape room — Award-winning, English-friendly. Book ahead!",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/KEYESCAPE+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ 🎡🧒 KEYESCAPE</a></strong> escape room — Award-winning, English-friendly. Book ahead!",
         "price": "~20,000-30,000 KRW/person"
       },
       {
         "time": "19:00",
-        "activity": "Dinner: <a href=\"https://www.google.com/maps/search/Pungcheon+Eel+Hongdae+Seoul\" target=\"_blank\">🍜 Pungcheon Eel</a> (grilled eel over charcoal) or <a href=\"https://www.google.com/maps/search/Honkaz+Hongdae+Seoul\" target=\"_blank\">🍜 Honkaz</a> (cheese-stuffed tonkatsu).",
+        "activity": "Dinner: <a href=\"https://www.google.com/maps/search/Pungcheon+Eel+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Pungcheon Eel</a> (grilled eel over charcoal) or <a href=\"https://www.google.com/maps/search/Honkaz+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Honkaz</a> (cheese-stuffed tonkatsu).",
         "price": ""
       },
       {
@@ -560,17 +560,17 @@ const DAYS = [
         "category": "More Cafes & Animals",
         "items": [
           {
-            "name": "☕🐾 Meerkat Friends",
+            "name": "★★★☆☆ ☕🐾 Meerkat Friends",
             "url": "https://www.google.com/maps/search/Meerkat+Friends+Hongdae+Seoul",
             "desc": "Meerkats, genets, wallabies, Arctic fox, raccoons"
           },
           {
-            "name": "☕ ehbd",
+            "name": "★☆☆☆☆ ☕ ehbd",
             "url": "https://www.google.com/maps/search/ehbd+cafe+Hongdae+Seoul",
             "desc": "Pastel pink and mint \"birthday party\" themed"
           },
           {
-            "name": "☕ TEESSERT",
+            "name": "★☆☆☆☆ ☕ TEESSERT",
             "url": "https://www.google.com/maps/search/TEESSERT+cafe+Hongdae+Seoul",
             "desc": "Retro 1980s Seoul-themed cafe"
           }
@@ -580,12 +580,12 @@ const DAYS = [
         "category": "More Gelato",
         "items": [
           {
-            "name": "☕ Gelateria Eta",
+            "name": "★★☆☆☆ ☕ Gelateria Eta",
             "url": "https://www.google.com/maps/search/Gelateria+Eta+Hongdae+Seoul",
             "desc": "Mugwort fig cream cheese, Jack Daniel's chocolate"
           },
           {
-            "name": "☕ Melted",
+            "name": "★★☆☆☆ ☕ Melted",
             "url": "https://www.google.com/maps/search/Melted+gelato+Hongdae+Seoul",
             "desc": "Sweetcorn mocha, roasted brown rice, knafeh chocolate"
           },
@@ -600,12 +600,12 @@ const DAYS = [
         "category": "More Food",
         "items": [
           {
-            "name": "🍜 Ildeung Sikdang",
+            "name": "★★☆☆☆ 🍜 Ildeung Sikdang",
             "url": "https://www.google.com/maps/search/Ildeung+Sikdang+Mangwon+Seoul",
             "desc": "Ox bone soup since 1986; one signature dish"
           },
           {
-            "name": "🍜 Oshi",
+            "name": "★☆☆☆☆ 🍜 Oshi",
             "url": "https://www.google.com/maps/search/Oshi+Mangwon+Seoul",
             "desc": "Osaka-style okonomiyaki"
           }
@@ -615,17 +615,17 @@ const DAYS = [
         "category": "More to See",
         "items": [
           {
-            "name": "🛍️🧒 Hongdae Children's Playground",
+            "name": "★★☆☆☆ 🛍️🧒 Hongdae Children's Playground",
             "url": "https://www.google.com/maps/search/Hongdae+Playground+Seoul",
             "desc": "Weekend flea market; street performers"
           },
           {
-            "name": "🌳 Mangwon Hangang Park",
+            "name": "★★☆☆☆ 🌳 Mangwon Hangang Park",
             "url": "https://www.google.com/maps/search/Mangwon+Hangang+Park+Seoul",
             "desc": "Riverside cycling and picnics"
           },
           {
-            "name": "🛍️ Hongdae Free Market",
+            "name": "★★☆☆☆ 🛍️ Hongdae Free Market",
             "url": "https://www.google.com/maps/search/Hongdae+Free+Market+Seoul",
             "desc": "Weekend handmade goods"
           },
@@ -635,7 +635,7 @@ const DAYS = [
             "desc": "Retro black-and-white photo booths throughout Hongdae"
           },
           {
-            "name": "🎨 Acorn Caricature Studios",
+            "name": "★★☆☆☆ 🎨 Acorn Caricature Studios",
             "url": "",
             "desc": "Get a cartoon drawn (~5,000 KRW)"
           }
@@ -671,7 +671,7 @@ const DAYS = [
       },
       {
         "time": "8:45",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Nami+Island+Gapyeong\" target=\"_blank\">🌳🧒🚡 Nami Island</a></strong> — Enter by <strong>ZIP-LINE across the river</strong> (thrilling for kids 9+!). Metasequoia Alley photos, bike rental, Sky Bikes (elevated pedal cars), craft workshops (glass blowing ~30,000 KRW, ceramic painting ~20,000 KRW). Free-roaming ostriches, peacocks, rabbits. Allow ~3.5h with the zipline + a workshop.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Nami+Island+Gapyeong\" target=\"_blank\">★★★★★ 🌳🧒🚡 Nami Island</a></strong> — Enter by <strong>ZIP-LINE across the river</strong> (thrilling for kids 9+!). Metasequoia Alley photos, bike rental, Sky Bikes (elevated pedal cars), craft workshops (glass blowing ~30,000 KRW, ceramic painting ~20,000 KRW). Free-roaming ostriches, peacocks, rabbits. Allow ~3.5h with the zipline + a workshop.",
         "price": "Entry ~16,000 KRW + zip ~44,000 KRW"
       },
       {
@@ -681,12 +681,12 @@ const DAYS = [
       },
       {
         "time": "13:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gangchon+Rail+Bike+Gapyeong\" target=\"_blank\">🚡🧒 Gangchon Rail Bike</a></strong> — 8km pedal-powered rail cars through scenic river valleys and tunnels. ~30 min taxi from Nami. <strong>Book a 14:00 slot</strong> in advance. ~1h ride + shuttle back.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gangchon+Rail+Bike+Gapyeong\" target=\"_blank\">★★★★☆ 🚡🧒 Gangchon Rail Bike</a></strong> — 8km pedal-powered rail cars through scenic river valleys and tunnels. ~30 min taxi from Nami. <strong>Book a 14:00 slot</strong> in advance. ~1h ride + shuttle back.",
         "price": "~35,000 KRW/2-person car"
       },
       {
         "time": "15:30",
-        "activity": "Bus to <strong><a href=\"https://www.google.com/maps/search/Garden+of+Morning+Calm+Gapyeong\" target=\"_blank\">🌳 Garden of Morning Calm</a></strong> (~40 min from Gapyeong; combo shuttle bus runs from Cheongpyeong). Botanical garden, peaceful end to active day. <strong>Heads-up:</strong> the lighting festival that makes it world-famous runs Dec–Mar; in summer it's \"just\" a pretty garden, not the postcard version.",
+        "activity": "Bus to <strong><a href=\"https://www.google.com/maps/search/Garden+of+Morning+Calm+Gapyeong\" target=\"_blank\">★★★☆☆ 🌳 Garden of Morning Calm</a></strong> (~40 min from Gapyeong; combo shuttle bus runs from Cheongpyeong). Botanical garden, peaceful end to active day. <strong>Heads-up:</strong> the lighting festival that makes it world-famous runs Dec–Mar; in summer it's \"just\" a pretty garden, not the postcard version.",
         "price": "~11,000 KRW"
       },
       {
@@ -725,12 +725,12 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:30",
-        "activity": "Hike up <strong>Namsan Mountain</strong> to N Seoul Tower (or take <strong><a href=\"https://www.google.com/maps/search/Namsan+Cable+Car+Seoul\" target=\"_blank\">🚡🗼 Namsan Cable Car</a></strong>, ~15,000 KRW round-trip).",
+        "activity": "Hike up <strong>Namsan Mountain</strong> to N Seoul Tower (or take <strong><a href=\"https://www.google.com/maps/search/Namsan+Cable+Car+Seoul\" target=\"_blank\">★★★☆☆ 🚡🗼 Namsan Cable Car</a></strong>, ~15,000 KRW round-trip).",
         "price": "Pass or ~15,000 KRW"
       },
       {
         "time": "10:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Namsan+Tower+Seoul\" target=\"_blank\">🗼🧒 N Seoul Tower</a></strong> — Digital observatory, love lock terrace, gift shop. Views over all of Seoul.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Namsan+Tower+Seoul\" target=\"_blank\">★★★★★ 🗼🧒 N Seoul Tower</a></strong> — Digital observatory, love lock terrace, gift shop. Views over all of Seoul.",
         "price": "Pass or 16,000 KRW"
       },
       {
@@ -740,7 +740,7 @@ const DAYS = [
       },
       {
         "time": "12:30",
-        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Myeongdong+Kyoja+Seoul\" target=\"_blank\">🍜 Myeongdong Kyoja</a></strong> — Since 1966. Legendary dumplings and noodle soup. Michelin Bib Gourmand.",
+        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Myeongdong+Kyoja+Seoul\" target=\"_blank\">★★★☆☆ 🍜 Myeongdong Kyoja</a></strong> — Since 1966. Legendary dumplings and noodle soup. Michelin Bib Gourmand.",
         "price": "~10,000 KRW"
       },
       {
@@ -750,22 +750,22 @@ const DAYS = [
       },
       {
         "time": "15:30",
-        "activity": "Walk to <strong><a href=\"https://www.google.com/maps/search/Namdaemun+Market+Seoul\" target=\"_blank\">🛍️ Namdaemun Market</a></strong> — Korea's largest traditional market (since 1400s). Souvenirs, fabrics, Namdaemun Specialty Hotteok (honey, japchae, kimchi varieties).",
+        "activity": "Walk to <strong><a href=\"https://www.google.com/maps/search/Namdaemun+Market+Seoul\" target=\"_blank\">★★★☆☆ 🛍️ Namdaemun Market</a></strong> — Korea's largest traditional market (since 1400s). Souvenirs, fabrics, Namdaemun Specialty Hotteok (honey, japchae, kimchi varieties).",
         "price": ""
       },
       {
         "time": "17:00",
-        "activity": "Walk to <strong>Euljiro</strong> — <a href=\"https://www.google.com/maps/search/Coffee+Hanyakbang+Euljiro+Seoul\" target=\"_blank\">☕🤪 Coffee Hanyakbang</a> (herbal medicine-themed hidden cafe), <a href=\"https://www.google.com/maps/search/Sewoon+Sangga+Seoul\" target=\"_blank\">🗼 Sewoon Sangga</a> rooftop garden views.",
+        "activity": "Walk to <strong>Euljiro</strong> — <a href=\"https://www.google.com/maps/search/Coffee+Hanyakbang+Euljiro+Seoul\" target=\"_blank\">★★★☆☆ ☕🤪 Coffee Hanyakbang</a> (herbal medicine-themed hidden cafe), <a href=\"https://www.google.com/maps/search/Sewoon+Sangga+Seoul\" target=\"_blank\">★★☆☆☆ 🗼 Sewoon Sangga</a> rooftop garden views.",
         "price": ""
       },
       {
         "time": "19:00",
-        "activity": "<strong>Myeongdong Night Market</strong> dinner (4pm-11pm) — 100+ stalls. Cheesy lobster tail, grilled squid, egg bread.",
+        "activity": "<strong>★★★☆☆ Myeongdong Night Market</strong> dinner (4pm-11pm) — 100+ stalls. Cheesy lobster tail, grilled squid, egg bread.",
         "price": ""
       },
       {
         "time": "20:00",
-        "activity": "Desserts: <a href=\"https://www.google.com/maps/search/SOFTREE+Myeongdong+Seoul\" target=\"_blank\">☕ SOFTREE</a> (honeycomb ice cream), tanghulu (candied fruit), Dragon's Beard Candy.",
+        "activity": "Desserts: <a href=\"https://www.google.com/maps/search/SOFTREE+Myeongdong+Seoul\" target=\"_blank\">★★☆☆☆ ☕ SOFTREE</a> (honeycomb ice cream), tanghulu (candied fruit), Dragon's Beard Candy.",
         "price": ""
       }
     ],
@@ -774,17 +774,17 @@ const DAYS = [
         "category": "More Landmarks",
         "items": [
           {
-            "name": "🏯📸 Namdaemun Gate (Sungnyemun)",
+            "name": "★★★☆☆ 🏯📸 Namdaemun Gate (Sungnyemun)",
             "url": "https://www.google.com/maps/search/Namdaemun+Gate+Seoul",
             "desc": "National Treasure No. 1; the Great South Gate (1398)"
           },
           {
-            "name": "⛪ Myeongdong Cathedral",
+            "name": "★★☆☆☆ ⛪ Myeongdong Cathedral",
             "url": "https://www.google.com/maps/search/Myeongdong+Cathedral+Seoul",
             "desc": "Gothic cathedral (1898); Seoul's oldest parish church"
           },
           {
-            "name": "🌳🚶 Seoullo 7017",
+            "name": "★★☆☆☆ 🌳🚶 Seoullo 7017",
             "url": "https://www.google.com/maps/search/Seoullo+7017+Seoul",
             "desc": "Elevated walkway/park on former highway overpass"
           }
@@ -794,7 +794,7 @@ const DAYS = [
         "category": "More Cafes",
         "items": [
           {
-            "name": "☕ Gonggan Gab",
+            "name": "★★☆☆☆ ☕ Gonggan Gab",
             "url": "https://www.google.com/maps/search/Gonggan+Gab+Euljiro+Seoul",
             "desc": "Euljiro; Vanilla Custard Pudding Bingsu; Mint Chocolate Basque Cheesecake"
           }
@@ -804,17 +804,17 @@ const DAYS = [
         "category": "More Food",
         "items": [
           {
-            "name": "🍜 Woo Lae Oak",
+            "name": "★★★☆☆ 🍜 Woo Lae Oak",
             "url": "https://www.google.com/maps/search/Woo+Lae+Oak+Seoul",
             "desc": "Since 1946; Pyongyang naengmyeon (cold buckwheat noodles)"
           },
           {
-            "name": "🍜 Hadongkwan",
+            "name": "★★☆☆☆ 🍜 Hadongkwan",
             "url": "https://www.google.com/maps/search/Hadongkwan+Seoul",
             "desc": "Since 1930s; gomtang (beef bone soup) and suyuk"
           },
           {
-            "name": "🚶🍺 Euljiro Nogari Alley",
+            "name": "★★☆☆☆ 🚶🍺 Euljiro Nogari Alley",
             "url": "https://www.google.com/maps/search/Euljiro+Nogari+Alley+Seoul",
             "desc": "Retro pub alley; dried pollock with cheap beer"
           }
@@ -824,7 +824,7 @@ const DAYS = [
         "category": "More Shopping",
         "items": [
           {
-            "name": "🛍️ Dongdaemun Shopping Complex",
+            "name": "★★☆☆☆ 🛍️ Dongdaemun Shopping Complex",
             "url": "https://www.google.com/maps/search/Dongdaemun+Shopping+Complex+Seoul",
             "desc": "Fabric, silk, beads, buttons; 24-hour shopping culture"
           }
@@ -834,7 +834,7 @@ const DAYS = [
         "category": "More Kid-Friendly",
         "items": [
           {
-            "name": "🏛️🧒📸 Alive Museum Myeongdong",
+            "name": "★★☆☆☆ 🏛️🧒📸 Alive Museum Myeongdong",
             "url": "https://www.google.com/maps/search/Alive+Museum+Myeongdong+Seoul",
             "desc": "Trick-eye museum"
           }
@@ -869,7 +869,7 @@ const DAYS = [
     "schedule": [
       {
         "time": "10:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotte+World+Adventure+Seoul\" target=\"_blank\">🎡🧒 Lotte World Adventure</a></strong> — Start with the indoor section (world's largest indoor park — great for August heat!). Then outdoor rides.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotte+World+Adventure+Seoul\" target=\"_blank\">★★★★★ 🎡🧒 Lotte World Adventure</a></strong> — Start with the indoor section (world's largest indoor park — great for August heat!). Then outdoor rides.",
         "price": "Pass or ~55,000 KRW"
       },
       {
@@ -879,12 +879,12 @@ const DAYS = [
       },
       {
         "time": "15:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotte+World+Tower+Seoul\" target=\"_blank\">🗼🧒 Seoul Sky</a></strong> — Glass-floor observation deck at 500m on Lotte World Tower (floors 117-123). Highest in Korea.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotte+World+Tower+Seoul\" target=\"_blank\">★★★★☆ 🗼🧒 Seoul Sky</a></strong> — Glass-floor observation deck at 500m on Lotte World Tower (floors 117-123). Highest in Korea.",
         "price": "~29,000 KRW"
       },
       {
         "time": "17:00",
-        "activity": "Walk around <strong><a href=\"https://www.google.com/maps/search/Seokchon+Lake+Seoul\" target=\"_blank\">🌳🚶 Seokchon Lake</a></strong> — Scenic lake surrounding Lotte World.",
+        "activity": "Walk around <strong><a href=\"https://www.google.com/maps/search/Seokchon+Lake+Seoul\" target=\"_blank\">★★☆☆☆ 🌳🚶 Seokchon Lake</a></strong> — Scenic lake surrounding Lotte World.",
         "price": ""
       },
       {
@@ -894,12 +894,12 @@ const DAYS = [
       },
       {
         "time": "18:30",
-        "activity": "Cafe: <a href=\"https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul\" target=\"_blank\">☕ Mountain Nook</a> (forest-themed mega-cafe) or <a href=\"https://www.google.com/maps/search/Bontemps+Songnidan+Seoul\" target=\"_blank\">☕ Bontemps</a> (Korean twisted donuts).",
+        "activity": "Cafe: <a href=\"https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Mountain Nook</a> (forest-themed mega-cafe) or <a href=\"https://www.google.com/maps/search/Bontemps+Songnidan+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Bontemps</a> (Korean twisted donuts).",
         "price": ""
       },
       {
         "time": "19:30",
-        "activity": "Dinner: <a href=\"https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul\" target=\"_blank\">🍜 Motor City</a> (Detroit-style pizza) or <a href=\"https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul\" target=\"_blank\">🍜 Pizzeria Lago</a> (wood-fired).",
+        "activity": "Dinner: <a href=\"https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Motor City</a> (Detroit-style pizza) or <a href=\"https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Pizzeria Lago</a> (wood-fired).",
         "price": ""
       }
     ],
@@ -908,12 +908,12 @@ const DAYS = [
         "category": "More to See",
         "items": [
           {
-            "name": "🌳 Olympic Park",
+            "name": "★★☆☆☆ 🌳 Olympic Park",
             "url": "https://www.google.com/maps/search/Olympic+Park+Seoul",
             "desc": "1988 Seoul Olympics site; massive green space, art sculptures, Peace Gate"
           },
           {
-            "name": "🎡🧒 KidZania Seoul",
+            "name": "★★★☆☆ 🎡🧒 KidZania Seoul",
             "url": "https://www.google.com/maps/search/KidZania+Seoul+Jamsil",
             "desc": "90+ career role-plays for ages 4-14"
           },
@@ -928,7 +928,7 @@ const DAYS = [
         "category": "More Cafes",
         "items": [
           {
-            "name": "☕ Lala Bread",
+            "name": "★★☆☆☆ ☕ Lala Bread",
             "url": "https://www.google.com/maps/search/Lala+Bread+Songnidan+Seoul",
             "desc": "Watch fresh bread being baked; famous pastries"
           }
@@ -938,7 +938,7 @@ const DAYS = [
         "category": "More Food",
         "items": [
           {
-            "name": "🍜🚶 Bangimatol Food Alley",
+            "name": "★★☆☆☆ 🍜🚶 Bangimatol Food Alley",
             "url": "https://www.google.com/maps/search/Bangimatol+Bangi+Seoul",
             "desc": "\"Gourmet street\" packed with top restaurants"
           }
@@ -964,17 +964,17 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Seoul+Forest+Seoul\" target=\"_blank\">🌳🧒 Seoul Forest Park</a></strong> in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Free. Then: <strong><a href=\"https://www.google.com/maps/search/Common+Ground+Seoul\" target=\"_blank\">🛍️ Common Ground</a></strong> shipping container mall.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Seoul+Forest+Seoul\" target=\"_blank\">★★★☆☆ 🌳🧒 Seoul Forest Park</a></strong> in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Free. Then: <strong><a href=\"https://www.google.com/maps/search/Common+Ground+Seoul\" target=\"_blank\">★★☆☆☆ 🛍️ Common Ground</a></strong> shipping container mall.",
         "price": "Free"
       },
       {
         "time": "10:30",
-        "activity": "<strong>Seongsu warehouse cafes</strong> — Dozens of industrial-chic cafes in converted factories. Or: <a href=\"https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul\" target=\"_blank\">🛍️ Olive Young N Seongsu</a> 5-floor K-beauty flagship.",
+        "activity": "<strong>Seongsu warehouse cafes</strong> — Dozens of industrial-chic cafes in converted factories. Or: <a href=\"https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul\" target=\"_blank\">★★☆☆☆ 🛍️ Olive Young N Seongsu</a> 5-floor K-beauty flagship.",
         "price": ""
       },
       {
         "time": "11:30",
-        "activity": "Quick stop: <strong><a href=\"https://www.google.com/maps/search/Starfield+Library+COEX+Seoul\" target=\"_blank\">📸 Starfield Library (COEX)</a></strong> — Stunning towering bookshelves. Free.",
+        "activity": "Quick stop: <strong><a href=\"https://www.google.com/maps/search/Starfield+Library+COEX+Seoul\" target=\"_blank\">★★★☆☆ 📸 Starfield Library (COEX)</a></strong> — Stunning towering bookshelves. Free.",
         "price": ""
       },
       {
@@ -999,12 +999,12 @@ const DAYS = [
       },
       {
         "time": "17:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Haeundae+Beach+Busan\" target=\"_blank\">🌳🧒 Haeundae Beach</a></strong> — Swim! Water is 24-26°C in August. Official swimming zone with lifeguards until ~6pm.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Haeundae+Beach+Busan\" target=\"_blank\">★★★★☆ 🌳🧒 Haeundae Beach</a></strong> — Swim! Water is 24-26°C in August. Official swimming zone with lifeguards until ~6pm.",
         "price": "Free"
       },
       {
         "time": "19:00",
-        "activity": "Dinner: <strong>Haeundae Pojangmacha-chon</strong> — Orange-tented seafood stalls right on the beach at night. Grilled fish, shellfish, soju. Or: <a href=\"https://www.google.com/maps/search/Haeundae+Milmyeon+Busan\" target=\"_blank\">🍜 Haeundae Milmyeon</a> (cold wheat noodles — Busan signature dish).",
+        "activity": "Dinner: <strong>★★★☆☆ Haeundae Pojangmacha-chon</strong> — Orange-tented seafood stalls right on the beach at night. Grilled fish, shellfish, soju. Or: <a href=\"https://www.google.com/maps/search/Haeundae+Milmyeon+Busan\" target=\"_blank\">★★★☆☆ 🍜 Haeundae Milmyeon</a> (cold wheat noodles — Busan signature dish).",
         "price": ""
       }
     ],
@@ -1013,27 +1013,27 @@ const DAYS = [
         "category": "Seoul Morning Extras",
         "items": [
           {
-            "name": "🏯 Bongeunsa Temple",
+            "name": "★★★☆☆ 🏯 Bongeunsa Temple",
             "url": "https://www.google.com/maps/search/Bongeunsa+Temple+Seoul",
             "desc": "Large Buddhist temple across from COEX; peaceful amidst skyscrapers"
           },
           {
-            "name": "🏯 Seonjeongneung Royal Tombs",
+            "name": "★★★☆☆ 🏯 Seonjeongneung Royal Tombs",
             "url": "https://www.google.com/maps/search/Seonjeongneung+Royal+Tombs+Seoul",
             "desc": "UNESCO Joseon royal tombs in middle of Gangnam"
           },
           {
-            "name": "🌳🧒 Ttukseom Hangang Park",
+            "name": "★★☆☆☆ 🌳🧒 Ttukseom Hangang Park",
             "url": "https://www.google.com/maps/search/Ttukseom+Hangang+Park+Seoul",
             "desc": "Playground, rock wall, skate park; summer swimming pool"
           },
           {
-            "name": "🐾🧒 COEX Aquarium",
+            "name": "★★★☆☆ 🐾🧒 COEX Aquarium",
             "url": "https://www.google.com/maps/search/COEX+Aquarium+Seoul",
             "desc": "Seoul's largest; sharks, rays, themed zones"
           },
           {
-            "name": "🎡🧒 Vaunce Trampoline Park",
+            "name": "★★☆☆☆ 🎡🧒 Vaunce Trampoline Park",
             "url": "https://www.google.com/maps/search/Vaunce+Trampoline+Park+Samseong+Seoul",
             "desc": "Korea's first trampoline park; 2-hour sessions"
           }
@@ -1043,17 +1043,17 @@ const DAYS = [
         "category": "Seongsu/Garosugil Cafes",
         "items": [
           {
-            "name": "☕ C27 Garosugil",
+            "name": "★★☆☆☆ ☕ C27 Garosugil",
             "url": "https://www.google.com/maps/search/C27+Garosugil+Seoul",
             "desc": "27 different kinds of cheesecake"
           },
           {
-            "name": "☕ Mr. Holmes Bakehouse",
+            "name": "★★☆☆☆ ☕ Mr. Holmes Bakehouse",
             "url": "https://www.google.com/maps/search/Mr+Holmes+Bakehouse+Garosugil+Seoul",
             "desc": "Famous cruffins (croissant-muffin hybrid)"
           },
           {
-            "name": "☕ Maman Gateau",
+            "name": "★★☆☆☆ ☕ Maman Gateau",
             "url": "https://www.google.com/maps/search/Maman+Gateau+Garosugil+Seoul",
             "desc": "Handmade caramel desserts since 2011"
           }
@@ -1063,17 +1063,17 @@ const DAYS = [
         "category": "Seongsu/Garosugil Gelato",
         "items": [
           {
-            "name": "☕ Ichi Seoul",
+            "name": "★★☆☆☆ ☕ Ichi Seoul",
             "url": "https://www.google.com/maps/search/Ichi+Seoul+Garosugil",
             "desc": "Mugwort ice cream, injeolmi crumble"
           },
           {
-            "name": "☕ Zenzero Gangnam",
+            "name": "★★☆☆☆ ☕ Zenzero Gangnam",
             "url": "https://www.google.com/maps/search/Zenzero+Gangnam+Seoul",
             "desc": "Authentic Italian; bronte pistachio, peach sorbet"
           },
           {
-            "name": "☕ Buerre Buerre Seongsu",
+            "name": "★☆☆☆☆ ☕ Buerre Buerre Seongsu",
             "url": "https://www.google.com/maps/search/Buerre+Buerre+Seongsu+Seoul",
             "desc": "Gelato in a stylish setting"
           }
@@ -1083,22 +1083,22 @@ const DAYS = [
         "category": "Haeundae Evening Extras",
         "items": [
           {
-            "name": "🌳🚶 Dongbaekseom (Dongbaek Island)",
+            "name": "★★★☆☆ 🌳🚶 Dongbaekseom (Dongbaek Island)",
             "url": "https://www.google.com/maps/search/Dongbaekseom+Busan",
             "desc": "Coastal path from Haeundae Beach; APEC House; free"
           },
           {
-            "name": "🚶🗼 Dalmaji Hill",
+            "name": "★★★☆☆ 🚶🗼 Dalmaji Hill",
             "url": "https://www.google.com/maps/search/Dalmaji+Hill+Busan",
             "desc": "Art galleries, cafes, cherry trees; great sunset"
           },
           {
-            "name": "🛍️🍜 Haeundae Traditional Market",
+            "name": "★★★☆☆ 🛍️🍜 Haeundae Traditional Market",
             "url": "https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan",
             "desc": "Best after 8pm for eomuk, tteokbokki"
           },
           {
-            "name": "☕ Horangi Gelatteok",
+            "name": "★★☆☆☆ ☕ Horangi Gelatteok",
             "url": "https://www.google.com/maps/search/Horangi+Gelatteok+Dalmaji+Busan",
             "desc": "Mochi rice cakes filled with gelato; closes when sold out"
           }
@@ -1129,22 +1129,22 @@ const DAYS = [
     "schedule": [
       {
         "time": "7:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan\" target=\"_blank\">🏯📸 Haedong Yonggungsa Temple</a></strong> — Oceanside temple, 108 stone steps, spectacular at dawn. Go early before tour buses! Bus #181 from Haeundae.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan\" target=\"_blank\">★★★★★ 🏯📸 Haedong Yonggungsa Temple</a></strong> — Oceanside temple, 108 stone steps, spectacular at dawn. Go early before tour buses! Bus #181 from Haeundae.",
         "price": "Free"
       },
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan\" target=\"_blank\">🚡🧒 Haeundae Blueline Park — Sky Capsule</a></strong> — Colorful pods on elevated rail along the coast. Sky Capsule runs <strong>Mipo ↔ Cheongsapo only</strong> (Beach Train goes the full Mipo → Songjeong route). <strong>BOOK 28 DAYS AHEAD</strong> — tickets release every Tuesday 07:00 KST for the week 4 weeks out. Beach Train is on the Busan Pass; Sky Capsule is not.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan\" target=\"_blank\">★★★★☆ 🚡🧒 Haeundae Blueline Park — Sky Capsule</a></strong> — Colorful pods on elevated rail along the coast. Sky Capsule runs <strong>Mipo ↔ Cheongsapo only</strong> (Beach Train goes the full Mipo → Songjeong route). <strong>BOOK 28 DAYS AHEAD</strong> — tickets release every Tuesday 07:00 KST for the week 4 weeks out. Beach Train is on the Busan Pass; Sky Capsule is not.",
         "price": "Pass (Beach Train) / ~50,000 KRW/capsule (2-pax Sky Capsule)"
       },
       {
         "time": "11:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gamcheon+Culture+Village+Busan\" target=\"_blank\">🚶📸 Gamcheon Culture Village</a></strong> — \"Machu Picchu of Korea.\" Get the <strong>Stamp Tour map</strong> (2,000 KRW) = scavenger hunt through colorful alleys for kids. Little Prince statue, BTS mural. Allow 2-3 hours.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gamcheon+Culture+Village+Busan\" target=\"_blank\">★★★★★ 🚶📸 Gamcheon Culture Village</a></strong> — \"Machu Picchu of Korea.\" Get the <strong>Stamp Tour map</strong> (2,000 KRW) = scavenger hunt through colorful alleys for kids. Little Prince statue, BTS mural. Allow 2-3 hours.",
         "price": "Free (map 2,000 KRW)"
       },
       {
         "time": "11:30",
-        "activity": "Cafe: <a href=\"https://www.google.com/maps/search/Coffee+It+House+Gamcheon+Busan\" target=\"_blank\">☕ Coffee It House</a> rooftop (best panoramic view).",
+        "activity": "Cafe: <a href=\"https://www.google.com/maps/search/Coffee+It+House+Gamcheon+Busan\" target=\"_blank\">★★☆☆☆ ☕ Coffee It House</a> rooftop (best panoramic view).",
         "price": ""
       },
       {
@@ -1154,27 +1154,27 @@ const DAYS = [
       },
       {
         "time": "14:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Jagalchi+Fish+Market+Busan\" target=\"_blank\">🍜🧒 Jagalchi Fish Market</a></strong> — Korea's largest seafood market. Buy fish on first floor, have it cooked upstairs (~3,000-5,000 KRW prep fee). Live octopus, crabs, abalone — kids will be fascinated.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Jagalchi+Fish+Market+Busan\" target=\"_blank\">★★★★☆ 🍜🧒 Jagalchi Fish Market</a></strong> — Korea's largest seafood market. Buy fish on first floor, have it cooked upstairs (~3,000-5,000 KRW prep fee). Live octopus, crabs, abalone — kids will be fascinated.",
         "price": ""
       },
       {
         "time": "15:30",
-        "activity": "<strong>BIFF Square</strong> — Ssiat Hotteok (Busan's signature: fried pancakes with seeds, nuts, cinnamon, ~1,000-2,000 KRW). Celebrity handprints.",
+        "activity": "<strong>★★★☆☆ BIFF Square</strong> — Ssiat Hotteok (Busan's signature: fried pancakes with seeds, nuts, cinnamon, ~1,000-2,000 KRW). Celebrity handprints.",
         "price": ""
       },
       {
         "time": "16:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gukje+Market+Busan\" target=\"_blank\">🛍️ Gukje Market</a></strong> — Massive market. Souvenirs, food, Korean goods.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gukje+Market+Busan\" target=\"_blank\">★★★☆☆ 🛍️ Gukje Market</a></strong> — Massive market. Souvenirs, food, Korean goods.",
         "price": ""
       },
       {
         "time": "17:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Busan+Tower+Yongdusan+Park\" target=\"_blank\">🗼 Busan Tower (Yongdusan Park)</a></strong> — Sunset views over harbor from 120m. Ride outdoor escalators up.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Busan+Tower+Yongdusan+Park\" target=\"_blank\">★★★☆☆ 🗼 Busan Tower (Yongdusan Park)</a></strong> — Sunset views over harbor from 120m. Ride outdoor escalators up.",
         "price": "Pass or ~12,000 KRW"
       },
       {
         "time": "19:00",
-        "activity": "Dinner: <strong><a href=\"https://www.google.com/maps/search/Bupyeong+Kkangtong+Night+Market+Busan\" target=\"_blank\">🏮 Bupyeong Kkangtong Night Market</a></strong> — Opens 7:30pm. Korea's first permanent night market. Bibim dangmyeon, egg hotteok, grilled pork belly.",
+        "activity": "Dinner: <strong><a href=\"https://www.google.com/maps/search/Bupyeong+Kkangtong+Night+Market+Busan\" target=\"_blank\">★★★☆☆ 🏮 Bupyeong Kkangtong Night Market</a></strong> — Opens 7:30pm. Korea's first permanent night market. Bibim dangmyeon, egg hotteok, grilled pork belly.",
         "price": "~10,000-20,000 KRW"
       }
     ],
@@ -1183,17 +1183,17 @@ const DAYS = [
         "category": "Gamcheon Extras",
         "items": [
           {
-            "name": "☕🏛️ Cafe Avant Garde",
+            "name": "★★☆☆☆ ☕🏛️ Cafe Avant Garde",
             "url": "https://www.google.com/maps/search/Cafe+Avant+Garde+Gamcheon+Busan",
             "desc": "Retro/vintage records and radios; also a gallery"
           },
           {
-            "name": "📸 BTS Mural (Jungkook and Jimin)",
+            "name": "★★☆☆☆ 📸 BTS Mural (Jungkook and Jimin)",
             "url": "",
             "desc": "Popular photo spot"
           },
           {
-            "name": "📸 The Little Prince & the Fox statue",
+            "name": "★★★☆☆ 📸 The Little Prince & the Fox statue",
             "url": "",
             "desc": "Most photographed spot"
           }
@@ -1203,7 +1203,7 @@ const DAYS = [
         "category": "Nampo Extras",
         "items": [
           {
-            "name": "🎁 K-POP FRIENDS Nampo",
+            "name": "★★☆☆☆ 🎁 K-POP FRIENDS Nampo",
             "url": "https://www.google.com/maps/search/KPOP+FRIENDS+Nampo+Busan",
             "desc": "K-pop merch, albums, photo cards"
           }
@@ -1213,12 +1213,12 @@ const DAYS = [
         "category": "Gwangalli (evening option)",
         "items": [
           {
-            "name": "🌳📸 Gwangalli Beach",
+            "name": "★★★★☆ 🌳📸 Gwangalli Beach",
             "url": "https://www.google.com/maps/search/Gwangalli+Beach+Busan",
             "desc": "Nighttime bridge views; M Drone Light Show runs Sat & Sun 21:00 — <strong>NOT on Aug 19 (Wed)</strong>"
           },
           {
-            "name": "🍜 Millak Raw Fish Center",
+            "name": "★★☆☆☆ 🍜 Millak Raw Fish Center",
             "url": "https://www.google.com/maps/search/Millak+Raw+Fish+Center+Busan",
             "desc": "Buy fresh fish downstairs, eat upstairs"
           }
@@ -1228,17 +1228,17 @@ const DAYS = [
         "category": "Seomyeon (if passing through)",
         "items": [
           {
-            "name": "🍜 Seomyeon Dwaeji Gukbap Street",
+            "name": "★★★☆☆ 🍜 Seomyeon Dwaeji Gukbap Street",
             "url": "https://www.google.com/maps/search/Seomyeon+Dwaeji+Gukbap+Busan",
             "desc": "24h pork bone soup street"
           },
           {
-            "name": "☕ Jeonpo Cafe Street",
+            "name": "★★☆☆☆ ☕ Jeonpo Cafe Street",
             "url": "https://www.google.com/maps/search/Jeonpo+Cafe+Street+Busan",
             "desc": "Neighborhood of indie cafes"
           },
           {
-            "name": "🛍️🤪 ARTBOX Seomyeon",
+            "name": "★★☆☆☆ 🛍️🤪 ARTBOX Seomyeon",
             "url": "https://www.google.com/maps/search/ARTBOX+Seomyeon+Busan",
             "desc": "Korean stationery, gifts, quirky novelties"
           }
@@ -1248,12 +1248,12 @@ const DAYS = [
         "category": "Desserts",
         "items": [
           {
-            "name": "☕ Yonghodong Halme Patbingsu",
+            "name": "★★☆☆☆ ☕ Yonghodong Halme Patbingsu",
             "url": "https://www.google.com/maps/search/Yonghodong+Halme+Patbingsu+Busan",
             "desc": "Since 1983; traditional shaved ice"
           },
           {
-            "name": "🍜 Dongnae Halmae Pajeon",
+            "name": "★★★☆☆ 🍜 Dongnae Halmae Pajeon",
             "url": "https://www.google.com/maps/search/Dongnae+Halmae+Pajeon+Busan",
             "desc": "Four generations; crispy green onion pancake with squid"
           }
@@ -1263,17 +1263,17 @@ const DAYS = [
         "category": "Coastal Walks",
         "items": [
           {
-            "name": "🌳🚶 Igidae Coastal Walk",
+            "name": "★★★☆☆ 🌳🚶 Igidae Coastal Walk",
             "url": "https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan",
             "desc": "4.7km trail; volcanic rock, sea caves; 2.5 hours"
           },
           {
-            "name": "🗼📸 Oryukdo Skywalk",
+            "name": "★★★☆☆ 🗼📸 Oryukdo Skywalk",
             "url": "https://www.google.com/maps/search/Oryukdo+Skywalk+Busan",
             "desc": "Glass bridge 35m over a cliff; free (closed Mon)"
           },
           {
-            "name": "🏯🌳 Beomeosa Temple",
+            "name": "★★★☆☆ 🏯🌳 Beomeosa Temple",
             "url": "https://www.google.com/maps/search/Beomeosa+Temple+Busan",
             "desc": "Built 678 AD; ancient forests; far less touristy"
           }
@@ -1299,17 +1299,17 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>Option A:</strong> <a href=\"https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan\" target=\"_blank\">🚡🧒 Songdo Marine Cable Car</a> — 1.62km over the ocean, Crystal Cabin (glass floor!). 15-20 min ride.",
+        "activity": "<strong>Option A:</strong> <a href=\"https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan\" target=\"_blank\">★★★☆☆ 🚡🧒 Songdo Marine Cable Car</a> — 1.62km over the ocean, Crystal Cabin (glass floor!). 15-20 min ride.",
         "price": "22,000 KRW (crystal)"
       },
       {
         "time": "",
-        "activity": "<strong>Option B:</strong> <a href=\"https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium\" target=\"_blank\">🐾🧒 SEA LIFE Busan Aquarium</a> — 250 species, ocean tunnel, LEGO landmarks. Book online for 20-30% off.",
+        "activity": "<strong>Option B:</strong> <a href=\"https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium\" target=\"_blank\">★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium</a> — 250 species, ocean tunnel, LEGO landmarks. Book online for 20-30% off.",
         "price": "~22,000-29,000 KRW"
       },
       {
         "time": "",
-        "activity": "<strong>Option C:</strong> <a href=\"https://www.google.com/maps/search/Shinsegae+Centum+City+Busan\" target=\"_blank\">♨️ Spa Land</a> at Shinsegae (world's largest dept store) — Jjimjilbang with 22 themed saunas. Rest before flight.",
+        "activity": "<strong>Option C:</strong> <a href=\"https://www.google.com/maps/search/Shinsegae+Centum+City+Busan\" target=\"_blank\">★★★☆☆ ♨️ Spa Land</a> at Shinsegae (world's largest dept store) — Jjimjilbang with 22 themed saunas. Rest before flight.",
         "price": "~20,000 KRW"
       },
       {
@@ -1343,22 +1343,22 @@ const DAYS = [
         "category": "Busan Morning Extras",
         "items": [
           {
-            "name": "🌳🚶 Taejongdae Resort Park",
+            "name": "★★★☆☆ 🌳🚶 Taejongdae Resort Park",
             "url": "https://www.google.com/maps/search/Taejongdae+Busan",
             "desc": "Sea cliffs, Yeongdo Lighthouse, Danubi Train; 2.2 miles trail"
           },
           {
-            "name": "🗼☕ Busan X the Sky",
+            "name": "★★★★☆ 🗼☕ Busan X the Sky",
             "url": "https://www.google.com/maps/search/Busan+X+the+Sky",
             "desc": "Observatory floors 98-100; also world's highest Starbucks"
           },
           {
-            "name": "🏛️🧒 Busan National Science Museum",
+            "name": "★★★☆☆ 🏛️🧒 Busan National Science Museum",
             "url": "https://www.google.com/maps/search/Busan+National+Science+Museum",
             "desc": "Interactive exhibits, space simulations, robotics; great for age 9+"
           },
           {
-            "name": "📸🧒 Trick Eye Museum Haeundae",
+            "name": "★★☆☆☆ 📸🧒 Trick Eye Museum Haeundae",
             "url": "https://www.google.com/maps/search/Trick+Eye+Museum+Haeundae+Busan",
             "desc": "Immersive optical illusions"
           }
@@ -1384,42 +1384,42 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Longshan+Temple+Taipei\" target=\"_blank\">🏯 Longshan Temple</a></strong> — Taipei's oldest (1738). Ornately carved, alive with incense.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Longshan+Temple+Taipei\" target=\"_blank\">★★★★★ 🏯 Longshan Temple</a></strong> — Taipei's oldest (1738). Ornately carved, alive with incense.",
         "price": "Free"
       },
       {
         "time": "10:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Bopiliao+Historic+Block+Taipei\" target=\"_blank\">🚶🏯 Bopiliao Historic Block</a></strong> — Best-preserved old street. Qing + Japanese architecture. Free art galleries, interactive heritage center.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Bopiliao+Historic+Block+Taipei\" target=\"_blank\">★★★☆☆ 🚶🏯 Bopiliao Historic Block</a></strong> — Best-preserved old street. Qing + Japanese architecture. Free art galleries, interactive heritage center.",
         "price": "Free"
       },
       {
         "time": "11:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei\" target=\"_blank\">📸 Chiang Kai-shek Memorial Hall</a></strong> — 76m marble hall. Guard-changing ceremony on the hour (9am-5pm).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei\" target=\"_blank\">★★★★★ 📸 Chiang Kai-shek Memorial Hall</a></strong> — 76m marble hall. Guard-changing ceremony on the hour (9am-5pm).",
         "price": "Free"
       },
       {
         "time": "12:30",
-        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei\" target=\"_blank\">☕🤪🧒 Snow King Ice Cream</a></strong> — Since 1947. Flavors: <strong>PORK FLOSS, pig's knuckle, sesame oil chicken, wasabi, curry, beer, chili pepper</strong>. Kids will go wild picking the weirdest one.",
+        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei\" target=\"_blank\">★★★☆☆ ☕🤪🧒 Snow King Ice Cream</a></strong> — Since 1947. Flavors: <strong>PORK FLOSS, pig's knuckle, sesame oil chicken, wasabi, curry, beer, chili pepper</strong>. Kids will go wild picking the weirdest one.",
         "price": ""
       },
       {
         "time": "14:00",
-        "activity": "<strong>Ximending</strong> pedestrian area — Youth culture, street performers, graffiti, 24-hour Don Don Donki.",
+        "activity": "<strong>★★★☆☆ Ximending</strong> pedestrian area — Youth culture, street performers, graffiti, 24-hour Don Don Donki.",
         "price": ""
       },
       {
         "time": "15:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei\" target=\"_blank\">🍜🤪🧒 Modern Toilet Restaurant</a></strong> — Sit on toilet seats. Food served in toilet bowls. Chocolate \"poop\" ice cream. Kids will be endlessly entertained.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei\" target=\"_blank\">★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant</a></strong> — Sit on toilet seats. Food served in toilet bowls. Chocolate \"poop\" ice cream. Kids will be endlessly entertained.",
         "price": ""
       },
       {
         "time": "16:30",
-        "activity": "MRT to <strong>Dadaocheng</strong>. Walk <strong><a href=\"https://www.google.com/maps/search/Dihua+Street+Taipei\" target=\"_blank\">🚶🛍️ Dihua Street</a></strong> — Taipei's oldest commercial street (1850s). Baroque facades. Tea, herbs, beautiful old packaging.",
+        "activity": "MRT to <strong>Dadaocheng</strong>. Walk <strong><a href=\"https://www.google.com/maps/search/Dihua+Street+Taipei\" target=\"_blank\">★★★★☆ 🚶🛍️ Dihua Street</a></strong> — Taipei's oldest commercial street (1850s). Baroque facades. Tea, herbs, beautiful old packaging.",
         "price": ""
       },
       {
         "time": "18:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Ningxia+Night+Market+Taipei\" target=\"_blank\">🏮🍜 Ningxia Night Market</a></strong> dinner — Most local-feeling market. Hit: Piaoxiang Beef Noodle, Liu Yu Zi (fried taro balls), oyster omelette stall (Yuen Huan Pien).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Ningxia+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🏮🍜 Ningxia Night Market</a></strong> dinner — Most local-feeling market. Hit: Piaoxiang Beef Noodle, Liu Yu Zi (fried taro balls), oyster omelette stall (Yuen Huan Pien).",
         "price": "~NT$200-400/person"
       }
     ],
@@ -1428,22 +1428,22 @@ const DAYS = [
         "category": "More Temples",
         "items": [
           {
-            "name": "🏯 Qingshui Temple",
+            "name": "★★☆☆☆ 🏯 Qingshui Temple",
             "url": "https://www.google.com/maps/search/Qingshui+Zushi+Temple+Taipei",
             "desc": "Atmospheric Qing-dynasty temple"
           },
           {
-            "name": "🏯 Qingshan Temple",
+            "name": "★★☆☆☆ 🏯 Qingshan Temple",
             "url": "https://www.google.com/maps/search/Qingshan+Temple+Taipei",
             "desc": "Green Mountain King; beautiful stone carvings"
           },
           {
-            "name": "🏯 Dalongdong Bao-An Temple",
+            "name": "★★★★☆ 🏯 Dalongdong Bao-An Temple",
             "url": "https://www.google.com/maps/search/Dalongdong+Bao-An+Temple+Taipei",
             "desc": "UNESCO Heritage Award; Taipei's finest temple"
           },
           {
-            "name": "🏯 Taipei Confucius Temple",
+            "name": "★★★☆☆ 🏯 Taipei Confucius Temple",
             "url": "https://www.google.com/maps/search/Taipei+Confucius+Temple",
             "desc": "Elegant Southern Fujian-style; next to Bao-An"
           }
@@ -1453,17 +1453,17 @@ const DAYS = [
         "category": "More Landmarks",
         "items": [
           {
-            "name": "📸🛍️ Ximen Red House",
+            "name": "★★★☆☆ 📸🛍️ Ximen Red House",
             "url": "https://www.google.com/maps/search/Ximen+Red+House+Taipei",
             "desc": "1908 public market; artisan crafts, pop-up shops"
           },
           {
-            "name": "🌳🏛️ 228 Peace Memorial Park",
+            "name": "★★★☆☆ 🌳🏛️ 228 Peace Memorial Park",
             "url": "https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei",
             "desc": "Green oasis with National Taiwan Museum"
           },
           {
-            "name": "📸🍺 Dadaocheng Wharf",
+            "name": "★★★☆☆ 📸🍺 Dadaocheng Wharf",
             "url": "https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei",
             "desc": "Container bars, street food, sunset views"
           }
@@ -1473,7 +1473,7 @@ const DAYS = [
         "category": "More Desserts",
         "items": [
           {
-            "name": "☕ Star Fruit Ice (Chengdu Yangto Bing) in Ximending",
+            "name": "★★☆☆☆ ☕ Star Fruit Ice (Chengdu Yangto Bing) in Ximending",
             "url": "",
             "desc": "Star fruit ice with peanut candy and cilantro"
           }
@@ -1483,12 +1483,12 @@ const DAYS = [
         "category": "More Cafes",
         "items": [
           {
-            "name": "☕ ABCD",
+            "name": "★★☆☆☆ ☕ ABCD",
             "url": "https://www.google.com/maps/search/ABCD+cafe+Taipei",
             "desc": "Giant doughnut entrance; creative doughnuts"
           },
           {
-            "name": "☕🐾 Kitten Coffee Garden",
+            "name": "★★☆☆☆ ☕🐾 Kitten Coffee Garden",
             "url": "https://www.google.com/maps/search/Kitten+Coffee+Garden+Taipei",
             "desc": "13 cats and 2 dogs since 1998"
           }
@@ -1498,12 +1498,12 @@ const DAYS = [
         "category": "More Night Markets",
         "items": [
           {
-            "name": "🏮🍜 Huaxi Street (Snake Alley)",
+            "name": "★★★☆☆ 🏮🍜 Huaxi Street (Snake Alley)",
             "url": "https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei",
             "desc": "Oldest night market; herbal soups, eel dishes"
           },
           {
-            "name": "🏮🍜 Nanjichang Night Market",
+            "name": "★★★☆☆ 🏮🍜 Nanjichang Night Market",
             "url": "https://www.google.com/maps/search/Nanjichang+Night+Market+Taipei",
             "desc": "Most local; Michelin-rated stalls; Smelly Boss stinky tofu"
           }
@@ -1513,12 +1513,12 @@ const DAYS = [
         "category": "Shopping",
         "items": [
           {
-            "name": "🛍️🚶 Chifeng Street",
+            "name": "★★☆☆☆ 🛍️🚶 Chifeng Street",
             "url": "https://www.google.com/maps/search/Chifeng+Street+Taipei",
             "desc": "Thrift shops, quirky cafes, indie accessories"
           },
           {
-            "name": "🛍️ Eslite R79 Underground Book Street",
+            "name": "★★☆☆☆ 🛍️ Eslite R79 Underground Book Street",
             "url": "https://www.google.com/maps/search/Eslite+R79+Taipei",
             "desc": "Bookshops, vinyl records, stationery, souvenirs"
           }
@@ -1544,7 +1544,7 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Palace+Museum+Taipei\" target=\"_blank\">🏛️ National Palace Museum</a></strong> — World's greatest Chinese art. Children's Gallery. Free for under 18. Open Tue-Sun 9:00-17:00 (closed Mon).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Palace+Museum+Taipei\" target=\"_blank\">★★★★★ 🏛️ National Palace Museum</a></strong> — World's greatest Chinese art. Children's Gallery. Free for under 18. Open Tue-Sun 9:00-17:00 (closed Mon).",
         "price": "Pass or NT$350"
       },
       {
@@ -1554,17 +1554,17 @@ const DAYS = [
       },
       {
         "time": "12:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei\" target=\"_blank\">🏛️♨️ Beitou Hot Spring Museum</a></strong> — Restored 1913 Japanese bathhouse (air-conditioned!).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei\" target=\"_blank\">★★★☆☆ 🏛️♨️ Beitou Hot Spring Museum</a></strong> — Restored 1913 Japanese bathhouse (air-conditioned!).",
         "price": "Free"
       },
       {
         "time": "12:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei\" target=\"_blank\">🌊♨️ Thermal Valley (Hell Valley)</a></strong> — Steaming vivid green sulfurous lake (80-100°C). Otherworldly. 20-30 min — it's hot.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei\" target=\"_blank\">★★★★☆ 🌊♨️ Thermal Valley (Hell Valley)</a></strong> — Steaming vivid green sulfurous lake (80-100°C). Otherworldly. 20-30 min — it's hot.",
         "price": "Free"
       },
       {
         "time": "13:00",
-        "activity": "Hot spring soak: <strong><a href=\"https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei\" target=\"_blank\">♨️🧒 Spring City Resort</a></strong> — Best public hot spring for families. Multiple pools incl. cold-water tubs. <strong>Counter-intuitive in 35°C August</strong> but the cold pools + AC lounge are real respite. ~90 min.",
+        "activity": "Hot spring soak: <strong><a href=\"https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei\" target=\"_blank\">★★★☆☆ ♨️🧒 Spring City Resort</a></strong> — Best public hot spring for families. Multiple pools incl. cold-water tubs. <strong>Counter-intuitive in 35°C August</strong> but the cold pools + AC lounge are real respite. ~90 min.",
         "price": "~NT$350-600"
       },
       {
@@ -1579,17 +1579,17 @@ const DAYS = [
       },
       {
         "time": "16:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei\" target=\"_blank\">🌳🗼 Elephant Mountain (Xiangshan)</a></strong> — Short steep hike (10-20 min). THE iconic Taipei 101 photo from \"Six Boulders\" viewpoint. 9-year-olds handle it fine. Bring water — brutal in afternoon heat.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei\" target=\"_blank\">★★★★☆ 🌳🗼 Elephant Mountain (Xiangshan)</a></strong> — Short steep hike (10-20 min). THE iconic Taipei 101 photo from \"Six Boulders\" viewpoint. 9-year-olds handle it fine. Bring water — brutal in afternoon heat.",
         "price": "Free"
       },
       {
         "time": "17:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+101\" target=\"_blank\">🗼📸 Taipei 101 Observatory</a></strong> — Floors 88-89 + outdoor deck floor 91. Go for golden hour → sunset → night views.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+101\" target=\"_blank\">★★★★★ 🗼📸 Taipei 101 Observatory</a></strong> — Floors 88-89 + outdoor deck floor 91. Go for golden hour → sunset → night views.",
         "price": "Pass or NT$600"
       },
       {
         "time": "19:30",
-        "activity": "MRT to Songshan. <strong><a href=\"https://www.google.com/maps/search/Raohe+Night+Market+Taipei\" target=\"_blank\">🏮 Raohe Night Market</a></strong> — Taipei's best for foodies. 6 Michelin-awarded stalls. <strong>Fuzhou Black Pepper Buns</strong> at entrance (always a line — worth it).",
+        "activity": "MRT to Songshan. <strong><a href=\"https://www.google.com/maps/search/Raohe+Night+Market+Taipei\" target=\"_blank\">★★★★☆ 🏮 Raohe Night Market</a></strong> — Taipei's best for foodies. 6 Michelin-awarded stalls. <strong>Fuzhou Black Pepper Buns</strong> at entrance (always a line — worth it).",
         "price": "~NT$200-400/person"
       }
     ],
@@ -1598,7 +1598,7 @@ const DAYS = [
         "category": "More in Beitou",
         "items": [
           {
-            "name": "🌳♨️🧒 Beitou Park",
+            "name": "★★☆☆☆ 🌳♨️🧒 Beitou Park",
             "url": "https://www.google.com/maps/search/Beitou+Park+Taipei",
             "desc": "Hot spring education center, children's hot spring play area"
           }
@@ -1608,22 +1608,22 @@ const DAYS = [
         "category": "Near Taipei 101",
         "items": [
           {
-            "name": "🎨 Songshan Cultural and Creative Park",
+            "name": "★★★☆☆ 🎨 Songshan Cultural and Creative Park",
             "url": "https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei",
             "desc": "Former tobacco factory; pop-up galleries"
           },
           {
-            "name": "🚶 44 South Military Village",
+            "name": "★★☆☆☆ 🚶 44 South Military Village",
             "url": "https://www.google.com/maps/search/44+South+Military+Village+Taipei",
             "desc": "Retro village; cafes, handmade goods"
           },
           {
-            "name": "🌳🧒 Da'an Forest Park",
+            "name": "★★★☆☆ 🌳🧒 Da'an Forest Park",
             "url": "https://www.google.com/maps/search/Daan+Forest+Park+Taipei",
             "desc": "Taipei's \"Central Park\"; 26 hectares, pond, playgrounds"
           },
           {
-            "name": "🏯 Songshan Ciyou Temple",
+            "name": "★★☆☆☆ 🏯 Songshan Ciyou Temple",
             "url": "https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei",
             "desc": "Grand colorful Mazu temple beside Raohe"
           }
@@ -1633,12 +1633,12 @@ const DAYS = [
         "category": "Yongkang Street Extras",
         "items": [
           {
-            "name": "🍜 Dongmen Dumplings",
+            "name": "★★★☆☆ 🍜 Dongmen Dumplings",
             "url": "https://www.google.com/maps/search/Dongmen+Dumplings+Taipei",
             "desc": "Since 1963; famous pot-stickers"
           },
           {
-            "name": "🍜 Din Tai Fung Yongkang",
+            "name": "★★★★☆ 🍜 Din Tai Fung Yongkang",
             "url": "https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei",
             "desc": "Original location (takeout only); grab xiao long bao"
           },
@@ -1653,12 +1653,12 @@ const DAYS = [
         "category": "Shopping",
         "items": [
           {
-            "name": "🛍️ Fujin Street",
+            "name": "★★☆☆☆ 🛍️ Fujin Street",
             "url": "https://www.google.com/maps/search/Fujin+Street+Taipei",
             "desc": "1960s apartments turned indie boutiques"
           },
           {
-            "name": "🛍️ Wufenpu",
+            "name": "★★☆☆☆ 🛍️ Wufenpu",
             "url": "https://www.google.com/maps/search/Wufenpu+Taipei",
             "desc": "Garment district; teen clothing at wholesale prices"
           }
@@ -1668,7 +1668,7 @@ const DAYS = [
         "category": "More Night Markets",
         "items": [
           {
-            "name": "🏮🧋 Tonghua (Linjiang) Night Market",
+            "name": "★★★☆☆ 🏮🧋 Tonghua (Linjiang) Night Market",
             "url": "https://www.google.com/maps/search/Tonghua+Night+Market+Taipei",
             "desc": "Most \"sophisticated\" night market; innovative bubble tea"
           }
@@ -1678,7 +1678,7 @@ const DAYS = [
         "category": "Bubble Tea",
         "items": [
           {
-            "name": "🧋 50 Lan",
+            "name": "★★★☆☆ 🧋 50 Lan",
             "url": "https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei",
             "desc": "One of Taiwan's most iconic local boba chains"
           }
@@ -1709,17 +1709,17 @@ const DAYS = [
       },
       {
         "time": "9:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Yehliu+Geopark+Taiwan\" target=\"_blank\">🌊🧒 Yehliu Geopark</a></strong> — Alien-landscape rock formations. The Queen's Head. Kids love it. 1-2 hours.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Yehliu+Geopark+Taiwan\" target=\"_blank\">★★★★☆ 🌊🧒 Yehliu Geopark</a></strong> — Alien-landscape rock formations. The Queen's Head. Kids love it. 1-2 hours.",
         "price": "NT$120"
       },
       {
         "time": "11:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shifen+Old+Street+Taiwan\" target=\"_blank\">🚶🧒 Shifen Old Street</a></strong> — Train tracks run through the market! Watch trains pass inches from stalls. <strong>Sky Lantern Release</strong> — Write wishes, release into the sky. Magical for kids.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shifen+Old+Street+Taiwan\" target=\"_blank\">★★★★☆ 🚶🧒 Shifen Old Street</a></strong> — Train tracks run through the market! Watch trains pass inches from stalls. <strong>★★★★★ Sky Lantern Release</strong> — Write wishes, release into the sky. Magical for kids.",
         "price": "Lantern ~NT$150-200"
       },
       {
         "time": "12:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shifen+Waterfall+Taiwan\" target=\"_blank\">🌊 Shifen Waterfall</a></strong> — Taiwan's widest, \"Little Niagara.\" Short walk from old street.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shifen+Waterfall+Taiwan\" target=\"_blank\">★★★☆☆ 🌊 Shifen Waterfall</a></strong> — Taiwan's widest, \"Little Niagara.\" Short walk from old street.",
         "price": "Free"
       },
       {
@@ -1729,12 +1729,12 @@ const DAYS = [
       },
       {
         "time": "15:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan\" target=\"_blank\">🚶🍜 Jiufen Old Street</a></strong> — Narrow alleys, red lanterns, Spirited Away vibes. <strong>Lai Ah Po Taro Balls</strong> (original shop). <strong>Ah Zhu Peanut Ice Cream Roll</strong> (shaved peanut candy + cilantro + ice cream in a crepe — strange and delicious).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan\" target=\"_blank\">★★★★★ 🚶🍜 Jiufen Old Street</a></strong> — Narrow alleys, red lanterns, Spirited Away vibes. <strong>Lai Ah Po Taro Balls</strong> (original shop). <strong>Ah Zhu Peanut Ice Cream Roll</strong> (shaved peanut candy + cilantro + ice cream in a crepe — strange and delicious).",
         "price": ""
       },
       {
         "time": "17:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen\" target=\"_blank\">🍵🗼 A-Mei Tea House</a></strong> — 3 floors, sweeping views over Keelung Bay. Red lanterns glow at dusk. Tea set + snacks.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen\" target=\"_blank\">★★★★☆ 🍵🗼 A-Mei Tea House</a></strong> — 3 floors, sweeping views over Keelung Bay. Red lanterns glow at dusk. Tea set + snacks.",
         "price": "~NT$300/person for tea set"
       },
       {
@@ -1753,17 +1753,17 @@ const DAYS = [
         "category": "Jinguashi (near Jiufen)",
         "items": [
           {
-            "name": "🏛️ Gold Museum",
+            "name": "★★★☆☆ 🏛️ Gold Museum",
             "url": "https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan",
             "desc": "Open-air, mostly free; gold rush era exhibits"
           },
           {
-            "name": "🌊 Golden Waterfall",
+            "name": "★★★☆☆ 🌊 Golden Waterfall",
             "url": "https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan",
             "desc": "Orange-tinted waterfall from mineral deposits; very photogenic"
           },
           {
-            "name": "🌳🗼 Teapot Mountain Hike",
+            "name": "★★★☆☆ 🌳🗼 Teapot Mountain Hike",
             "url": "",
             "desc": "2-3 hours; 360-degree views; doable for active 9-year-olds"
           }
@@ -1789,7 +1789,7 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park\" target=\"_blank\">🎡🧒 Taipei Children's Amusement Park</a></strong> — Drop tower, roller coaster, pirate ship, bumper cars, arcades. Incredibly cheap! Entry NT$30, rides NT$20-30 each, or all-day pass NT$200.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park\" target=\"_blank\">★★★☆☆ 🎡🧒 Taipei Children's Amusement Park</a></strong> — Drop tower, roller coaster, pirate ship, bumper cars, arcades. Incredibly cheap! Entry NT$30, rides NT$20-30 each, or all-day pass NT$200.",
         "price": "NT$200 day pass"
       },
       {
@@ -1799,22 +1799,22 @@ const DAYS = [
       },
       {
         "time": "13:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei\" target=\"_blank\">🏛️🧒 National Taiwan Science Education Center</a></strong> — Interactive exhibits (life/physical/earth sciences). Great for 9-year-olds. Right next door to amusement park.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei\" target=\"_blank\">★★★★☆ 🏛️🧒 National Taiwan Science Education Center</a></strong> — Interactive exhibits (life/physical/earth sciences). Great for 9-year-olds. Right next door to amusement park.",
         "price": "NT$100"
       },
       {
         "time": "15:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+Astronomical+Museum\" target=\"_blank\">🏛️🧒 Taipei Astronomical Museum</a></strong> — Planetarium shows, IMAX theater, space exhibits. Also next door.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+Astronomical+Museum\" target=\"_blank\">★★★☆☆ 🏛️🧒 Taipei Astronomical Museum</a></strong> — Planetarium shows, IMAX theater, space exhibits. Also next door.",
         "price": "NT$40 + IMAX NT$100"
       },
       {
         "time": "17:00",
-        "activity": "Explore Shilin area. <a href=\"https://www.google.com/maps/search/Pokemon+Center+Taipei\" target=\"_blank\">🎁🧒 Pokemon Center Taipei</a> or <a href=\"https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei\" target=\"_blank\">🎁🧒 Donguri Republic (Ghibli Store)</a> — Huge Totoro cat bus kids can enter.",
+        "activity": "Explore Shilin area. <a href=\"https://www.google.com/maps/search/Pokemon+Center+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒 Pokemon Center Taipei</a> or <a href=\"https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒 Donguri Republic (Ghibli Store)</a> — Huge Totoro cat bus kids can enter.",
         "price": ""
       },
       {
         "time": "18:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shilin+Night+Market+Taipei\" target=\"_blank\">🏮🍜 Shilin Night Market</a></strong> — Taiwan's largest (since 1909). 500+ vendors. Large sausages, chicken cutlets, salt-crisp fried chicken with basil. Giant portions.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shilin+Night+Market+Taipei\" target=\"_blank\">★★★★☆ 🏮🍜 Shilin Night Market</a></strong> — Taiwan's largest (since 1909). 500+ vendors. Large sausages, chicken cutlets, salt-crisp fried chicken with basil. Giant portions.",
         "price": "~NT$200-400/person"
       }
     ],
@@ -1823,12 +1823,12 @@ const DAYS = [
         "category": "More Taipei Activities",
         "items": [
           {
-            "name": "📸🧒 Airport Alley (Songshan Airport)",
+            "name": "★★★☆☆ 📸🧒 Airport Alley (Songshan Airport)",
             "url": "",
             "desc": "Watch planes land just meters away; free, thrilling for kids"
           },
           {
-            "name": "🎡🗼 Miramar Entertainment Park",
+            "name": "★★★☆☆ 🎡🗼 Miramar Entertainment Park",
             "url": "https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei",
             "desc": "95-meter Ferris wheel; great sunset views"
           }
@@ -1838,12 +1838,12 @@ const DAYS = [
         "category": "Themed Cafes",
         "items": [
           {
-            "name": "☕🤪 Alice is Coming Cafe",
+            "name": "★★☆☆☆ ☕🤪 Alice is Coming Cafe",
             "url": "https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei",
             "desc": "Wonderland-themed; immersive restrooms"
           },
           {
-            "name": "☕🐾🧒 Capybara Knight",
+            "name": "★★★☆☆ ☕🐾🧒 Capybara Knight",
             "url": "https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei",
             "desc": "Taipei's first capybara cafe; plus rabbits, ducks"
           }
@@ -1853,17 +1853,17 @@ const DAYS = [
         "category": "Bubble Tea & Desserts",
         "items": [
           {
-            "name": "🧋 50 Lan",
+            "name": "★★★☆☆ 🧋 50 Lan",
             "url": "https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei",
             "desc": "Iconic local boba chain; pearl milk tea essential"
           },
           {
-            "name": "☕ Come Eat Sweets",
+            "name": "★★☆☆☆ ☕ Come Eat Sweets",
             "url": "https://www.google.com/maps/search/Lai+Ja+Tian+Taipei",
             "desc": "Near Main Station; hot tang yuan in ground peanuts over shaved ice"
           },
           {
-            "name": "☕ Nice Cream",
+            "name": "★★☆☆☆ ☕ Nice Cream",
             "url": "https://www.google.com/maps/search/Nice+Cream+Taipei",
             "desc": "Vegan gelato; Earl Grey waffle; daily rotating flavors"
           }
@@ -1894,22 +1894,22 @@ const DAYS = [
       },
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Rainbow+Village+Taichung\" target=\"_blank\">📸🧒 Rainbow Village</a></strong> — Every surface hand-painted by \"Grandpa Rainbow.\" Arrive early to beat crowds.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Rainbow+Village+Taichung\" target=\"_blank\">★★★★☆ 📸🧒 Rainbow Village</a></strong> — Every surface hand-painted by \"Grandpa Rainbow.\" Arrive early to beat crowds.",
         "price": "Free"
       },
       {
         "time": "10:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung\" target=\"_blank\">☕📸 Miyahara Ice Cream</a></strong> — Former 1940s eye clinic with \"Harry Potter\" interior. Incredible gelato, beautiful biscuit/chocolate packaging (great souvenirs). The building IS the attraction.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung\" target=\"_blank\">★★★★☆ ☕📸 Miyahara Ice Cream</a></strong> — Former 1940s eye clinic with \"Harry Potter\" interior. Incredible gelato, beautiful biscuit/chocolate packaging (great souvenirs). The building IS the attraction.",
         "price": ""
       },
       {
         "time": "11:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taichung+Theater\" target=\"_blank\">📸🎭 National Taichung Theater</a></strong> — Pritzker Prize architect Toyo Ito. Stunning curved concrete. Free to explore + rooftop garden.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taichung+Theater\" target=\"_blank\">★★★★☆ 📸🎭 National Taichung Theater</a></strong> — Pritzker Prize architect Toyo Ito. Stunning curved concrete. Free to explore + rooftop garden.",
         "price": "Free"
       },
       {
         "time": "12:30",
-        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Taichung+Second+Market\" target=\"_blank\">🍜🛍️ Taichung Second Market</a></strong> — Historic market. Century-old braised pork rice stalls.",
+        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Taichung+Second+Market\" target=\"_blank\">★★★☆☆ 🍜🛍️ Taichung Second Market</a></strong> — Historic market. Century-old braised pork rice stalls.",
         "price": ""
       },
       {
@@ -1924,17 +1924,17 @@ const DAYS = [
       },
       {
         "time": "15:30",
-        "activity": "<strong>Anping area:</strong> <a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">🏯 Fort Zeelandia</a> (Dutch 1624, NT$70) → <a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">📸🌳 Anping Treehouse</a> (warehouse consumed by banyan roots — walk through the intertwined trees, NT$70, closes 5:30pm!) → <a href=\"https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan\" target=\"_blank\">🍜 Zhou's Shrimp Rolls</a> → <a href=\"https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan\" target=\"_blank\">☕ Tongji Tofu Pudding</a>.",
+        "activity": "<strong>Anping area:</strong> <a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia</a> (Dutch 1624, NT$70) → <a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">★★★★☆ 📸🌳 Anping Treehouse</a> (warehouse consumed by banyan roots — walk through the intertwined trees, NT$70, closes 5:30pm!) → <a href=\"https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan\" target=\"_blank\">★★☆☆☆ 🍜 Zhou's Shrimp Rolls</a> → <a href=\"https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan\" target=\"_blank\">★★☆☆☆ ☕ Tongji Tofu Pudding</a>.",
         "price": "~NT$140"
       },
       {
         "time": "18:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shennong+Street+Tainan\" target=\"_blank\">🚶📸 Shennong Street</a></strong> — Qing Dynasty-era. Beautiful day and night. Cafes in century-old buildings.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shennong+Street+Tainan\" target=\"_blank\">★★★★☆ 🚶📸 Shennong Street</a></strong> — Qing Dynasty-era. Beautiful day and night. Cafes in century-old buildings.",
         "price": ""
       },
       {
         "time": "19:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Dadong+Night+Market+Tainan\" target=\"_blank\">🏮 Dadong Night Market</a></strong> — ~300 stalls (open Mon/Tue/Fri, 6pm-1:30am. <strong>Tue = open!</strong>). Ancient Scallion Pancake truck (most popular stall).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Dadong+Night+Market+Tainan\" target=\"_blank\">★★★☆☆ 🏮 Dadong Night Market</a></strong> — ~300 stalls (open Mon/Tue/Fri, 6pm-1:30am. <strong>Tue = open!</strong>). Ancient Scallion Pancake truck (most popular stall).",
         "price": "~NT$200-400/person"
       }
     ],
@@ -1943,22 +1943,22 @@ const DAYS = [
         "category": "More in Taichung",
         "items": [
           {
-            "name": "🌳🗼 Gaomei Wetlands",
+            "name": "★★★☆☆ 🌳🗼 Gaomei Wetlands",
             "url": "https://www.google.com/maps/search/Gaomei+Wetlands+Taichung",
             "desc": "Vast tidal flats; best at sunset; wooden boardwalk; free"
           },
           {
-            "name": "🌳🚶 Calligraphy Greenway",
+            "name": "★★☆☆☆ 🌳🚶 Calligraphy Greenway",
             "url": "https://www.google.com/maps/search/Calligraphy+Greenway+Taichung",
             "desc": "3.6km path; sculptures, weekend craft stalls"
           },
           {
-            "name": "📸🧒 Fan-Shaped Train Garage",
+            "name": "★★★☆☆ 📸🧒 Fan-Shaped Train Garage",
             "url": "https://www.google.com/maps/search/Fan+Shaped+Train+Garage+Taichung",
             "desc": "Last of its kind in Taiwan; great for train-loving kids"
           },
           {
-            "name": "🏮 Fengjia Night Market",
+            "name": "★★★★☆ 🏮 Fengjia Night Market",
             "url": "https://www.google.com/maps/search/Fengjia+Night+Market+Taichung",
             "desc": "Taiwan's largest by area; hundreds of stalls until ~2am"
           }
@@ -1968,27 +1968,27 @@ const DAYS = [
         "category": "More in Tainan",
         "items": [
           {
-            "name": "🏯 Tainan Confucius Temple",
+            "name": "★★★★☆ 🏯 Tainan Confucius Temple",
             "url": "https://www.google.com/maps/search/Tainan+Confucius+Temple",
             "desc": "Built 1665; Taiwan's oldest; 15 buildings"
           },
           {
-            "name": "🏯 Grand Matsu Temple",
+            "name": "★★★☆☆ 🏯 Grand Matsu Temple",
             "url": "https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan",
             "desc": "Originally a Southern Ming prince's palace (1664)"
           },
           {
-            "name": "🏯 Koxinga Shrine",
+            "name": "★★★☆☆ 🏯 Koxinga Shrine",
             "url": "https://www.google.com/maps/search/Koxinga+Shrine+Tainan",
             "desc": "Red-and-gold shrine to the hero who expelled the Dutch"
           },
           {
-            "name": "🎨🚶 Blueprint Cultural & Creative Park",
+            "name": "★★☆☆☆ 🎨🚶 Blueprint Cultural & Creative Park",
             "url": "https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan",
             "desc": "Former judicial dormitory; art installations"
           },
           {
-            "name": "🍜 Yi Wei Pin at Yongle Market",
+            "name": "★★★☆☆ 🍜 Yi Wei Pin at Yongle Market",
             "url": "https://www.google.com/maps/search/Yi+Wei+Pin+Yongle+Market+Tainan",
             "desc": "Michelin Bib Gourmand; bowl rice cake + milkfish thick soup"
           },
@@ -2003,12 +2003,12 @@ const DAYS = [
         "category": "Tainan Cafes",
         "items": [
           {
-            "name": "☕ Kokoni Cafe",
+            "name": "★★☆☆☆ ☕ Kokoni Cafe",
             "url": "https://www.google.com/maps/search/Kokoni+Cafe+Tainan",
             "desc": "Near Chihkan Tower; boba milk pancakes, mango sticky rice shaved ice"
           },
           {
-            "name": "☕🍺 Swallow Tainan",
+            "name": "★★☆☆☆ ☕🍺 Swallow Tainan",
             "url": "https://www.google.com/maps/search/Swallow+Tainan",
             "desc": "Industrial-chic; artisanal coffee by day, cocktail bar by night"
           }
@@ -2029,32 +2029,32 @@ const DAYS = [
     "schedule": [
       {
         "time": "7:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan\" target=\"_blank\">🍜 Six Thousand Beef Soup</a></strong> — Go early morning. This is a Tainan BREAKFAST food. No-frills, incredible.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan\" target=\"_blank\">★★★☆☆ 🍜 Six Thousand Beef Soup</a></strong> — Go early morning. This is a Tainan BREAKFAST food. No-frills, incredible.",
         "price": ""
       },
       {
         "time": "8:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Guohua+Street+Tainan\" target=\"_blank\">🍜🚶 Guohua Street</a></strong> food crawl — Tainan's main food artery. Stall after stall. Try minced pork rice.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Guohua+Street+Tainan\" target=\"_blank\">★★★☆☆ 🍜🚶 Guohua Street</a></strong> food crawl — Tainan's main food artery. Stall after stall. Try minced pork rice.",
         "price": ""
       },
       {
         "time": "9:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Chihkan+Tower+Tainan\" target=\"_blank\">🏯 Chihkan Tower</a></strong> — Dutch-built 1653. Opens 8:30am.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Chihkan+Tower+Tainan\" target=\"_blank\">★★★★☆ 🏯 Chihkan Tower</a></strong> — Dutch-built 1653. Opens 8:30am.",
         "price": "NT$70"
       },
       {
         "time": "10:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan\" target=\"_blank\">🍜 Du Hsiao Yueh</a></strong> — Danzai noodles since 1895. Broth pot allegedly never fully cleaned in 130+ years. Opens 11am.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan\" target=\"_blank\">★★★☆☆ 🍜 Du Hsiao Yueh</a></strong> — Danzai noodles since 1895. Broth pot allegedly never fully cleaned in 130+ years. Opens 11am.",
         "price": "~NT$100"
       },
       {
         "time": "11:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Hayashi+Department+Store+Tainan\" target=\"_blank\">🛍️📸 Hayashi Department Store</a></strong> — 1932 building restored to 1930s glory. Teas, vintage souvenirs. Rooftop Shinto shrine (only one in Taiwan).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Hayashi+Department+Store+Tainan\" target=\"_blank\">★★★☆☆ 🛍️📸 Hayashi Department Store</a></strong> — 1932 building restored to 1930s glory. Teas, vintage souvenirs. Rooftop Shinto shrine (only one in Taiwan).",
         "price": "Free entry"
       },
       {
         "time": "12:30",
-        "activity": "<strong>Snail Alley</strong> — Hidden neighborhood with snail statues everywhere. Scavenger hunt for kids!",
+        "activity": "<strong>★★☆☆☆ Snail Alley</strong> — Hidden neighborhood with snail statues everywhere. Scavenger hunt for kids!",
         "price": ""
       },
       {
@@ -2064,17 +2064,17 @@ const DAYS = [
       },
       {
         "time": "15:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung\" target=\"_blank\">📸 Formosa Boulevard MRT Station / Dome of Light</a></strong> — World's largest glass art. 4,000+ pieces. Light show at 3pm.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung\" target=\"_blank\">★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light</a></strong> — World's largest glass art. 4,000+ pieces. Light show at 3pm.",
         "price": "Free"
       },
       {
         "time": "15:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung\" target=\"_blank\">🏛️🚶 Pier-2 Art Center</a></strong> — Harbor warehouses turned galleries. Outdoor murals, quirky sculptures.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung\" target=\"_blank\">★★★☆☆ 🏛️🚶 Pier-2 Art Center</a></strong> — Harbor warehouses turned galleries. Outdoor murals, quirky sculptures.",
         "price": "Free (outdoor)"
       },
       {
         "time": "17:00",
-        "activity": "<strong>Ferry to <a href=\"https://www.google.com/maps/search/Cijin+Island+Kaohsiung\" target=\"_blank\">🌳🚡 Cijin Island</a></strong> (5 min). Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast.",
+        "activity": "<strong>Ferry to <a href=\"https://www.google.com/maps/search/Cijin+Island+Kaohsiung\" target=\"_blank\">★★★☆☆ 🌳🚡 Cijin Island</a></strong> (5 min). Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast.",
         "price": "Ferry ~NT$40"
       },
       {
@@ -2084,7 +2084,7 @@ const DAYS = [
       },
       {
         "time": "19:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung\" target=\"_blank\">🏮 Liuhe Night Market</a></strong> dinner — Tourist-friendly, strong on seafood. (Ruifeng is closed Wed.)",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung\" target=\"_blank\">★★★☆☆ 🏮 Liuhe Night Market</a></strong> dinner — Tourist-friendly, strong on seafood. (Ruifeng is closed Wed.)",
         "price": "~NT$200-400/person"
       }
     ],
@@ -2093,17 +2093,17 @@ const DAYS = [
         "category": "More in Tainan",
         "items": [
           {
-            "name": "🏯 Grand Matsu Temple",
+            "name": "★★★☆☆ 🏯 Grand Matsu Temple",
             "url": "https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan",
             "desc": "Originally a Southern Ming prince's palace (1664)"
           },
           {
-            "name": "🚶📸 Blueprint Cultural & Creative Park",
+            "name": "★★☆☆☆ 🚶📸 Blueprint Cultural & Creative Park",
             "url": "https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan",
             "desc": "Art installations in former dormitory"
           },
           {
-            "name": "🚶🍜 Anping Old Street",
+            "name": "★★★☆☆ 🚶🍜 Anping Old Street",
             "url": "https://www.google.com/maps/search/Anping+Old+Street+Tainan",
             "desc": "Food stalls, shrimp crackers near Fort Zeelandia"
           }
@@ -2113,17 +2113,17 @@ const DAYS = [
         "category": "More in Kaohsiung",
         "items": [
           {
-            "name": "🎭 Weiwuying",
+            "name": "★★★☆☆ 🎭 Weiwuying",
             "url": "https://www.google.com/maps/search/Weiwuying+Kaohsiung",
             "desc": "World's largest performing arts center under one roof; family workshops"
           },
           {
-            "name": "🏯🏛️ Fo Guang Shan Monastery",
+            "name": "★★★★☆ 🏯🏛️ Fo Guang Shan Monastery",
             "url": "https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung",
             "desc": "Taiwan's largest Buddhist monastery; largest Buddha statue; FREE (closed Tue)"
           },
           {
-            "name": "🌳🚡 Love River",
+            "name": "★★★☆☆ 🌳🚡 Love River",
             "url": "https://www.google.com/maps/search/Love+River+Kaohsiung",
             "desc": "Evening cruise; lit up at night"
           }
@@ -2133,7 +2133,7 @@ const DAYS = [
         "category": "Kaohsiung Night Markets",
         "items": [
           {
-            "name": "🏮 Ruifeng Night Market",
+            "name": "★★★★☆ 🏮 Ruifeng Night Market",
             "url": "https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung",
             "desc": "Kaohsiung's largest and best; 500+ stalls (closed Mon & Wed — skip today, open other days)"
           }
@@ -2159,17 +2159,17 @@ const DAYS = [
     "schedule": [
       {
         "time": "7:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotus+Pond+Kaohsiung\" target=\"_blank\">🌳🏯 Lotus Pond</a></strong> — 1.4km lake. Enter <strong>Dragon & Tiger Pagodas</strong> (dragon's mouth in, tiger's out = good luck). Spring & Autumn Pavilions. Opens 6am.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotus+Pond+Kaohsiung\" target=\"_blank\">★★★★☆ 🌳🏯 Lotus Pond</a></strong> — 1.4km lake. Enter <strong>Dragon & Tiger Pagodas</strong> (dragon's mouth in, tiger's out = good luck). Spring & Autumn Pavilions. Opens 6am.",
         "price": "Free"
       },
       {
         "time": "9:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung\" target=\"_blank\">📸🗼 British Consulate at Takow</a></strong> — 1865 red-brick. Stunning views over Sizihwan Bay.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung\" target=\"_blank\">★★★☆☆ 📸🗼 British Consulate at Takow</a></strong> — 1865 red-brick. Stunning views over Sizihwan Bay.",
         "price": ""
       },
       {
         "time": "10:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Love+River+Kaohsiung\" target=\"_blank\">🚶🌳 Love River</a></strong> area walk.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Love+River+Kaohsiung\" target=\"_blank\">★★★☆☆ 🚶🌳 Love River</a></strong> area walk.",
         "price": ""
       },
       {
@@ -2189,7 +2189,7 @@ const DAYS = [
       },
       {
         "time": "15:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Maokong+Gondola+Taipei\" target=\"_blank\">🚡🧒 Maokong Gondola</a></strong> — 30-min ride over tea plantations. Get the <strong>glass-floor Crystal Cabin</strong> (NT$50 extra). Kids love it. Open Thu (closed Mon).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Maokong+Gondola+Taipei\" target=\"_blank\">★★★★☆ 🚡🧒 Maokong Gondola</a></strong> — 30-min ride over tea plantations. Get the <strong>glass-floor Crystal Cabin</strong> (NT$50 extra). Kids love it. Open Thu (closed Mon).",
         "price": "NT$180/ride or NT$300 day pass"
       },
       {
@@ -2199,7 +2199,7 @@ const DAYS = [
       },
       {
         "time": "17:30",
-        "activity": "Gondola back down. Optional: <a href=\"https://www.google.com/maps/search/Taipei+Zoo\" target=\"_blank\">🐾🧒 Taipei Zoo</a> at the base (NT$60, open until 9pm Sat in summer — but today is Thu, closes 5pm).",
+        "activity": "Gondola back down. Optional: <a href=\"https://www.google.com/maps/search/Taipei+Zoo\" target=\"_blank\">★★★☆☆ 🐾🧒 Taipei Zoo</a> at the base (NT$60, open until 9pm Sat in summer — but today is Thu, closes 5pm).",
         "price": ""
       },
       {
@@ -2209,12 +2209,12 @@ const DAYS = [
       },
       {
         "time": "19:00",
-        "activity": "Farewell dinner: <strong><a href=\"https://www.google.com/maps/search/Yongkang+Street+Taipei\" target=\"_blank\">🍜🚶 Yongkang Street</a></strong> — <a href=\"https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei\" target=\"_blank\">🍜 Yongkang Beef Noodles</a> (since 1963) or <a href=\"https://www.google.com/maps/search/Dongmen+Dumplings+Taipei\" target=\"_blank\">🍜 Dongmen Dumplings</a> (pot-stickers).",
+        "activity": "Farewell dinner: <strong><a href=\"https://www.google.com/maps/search/Yongkang+Street+Taipei\" target=\"_blank\">★★★★☆ 🍜🚶 Yongkang Street</a></strong> — <a href=\"https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei\" target=\"_blank\">★★★☆☆ 🍜 Yongkang Beef Noodles</a> (since 1963) or <a href=\"https://www.google.com/maps/search/Dongmen+Dumplings+Taipei\" target=\"_blank\">★★★☆☆ 🍜 Dongmen Dumplings</a> (pot-stickers).",
         "price": ""
       },
       {
         "time": "20:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Tonghua+Night+Market+Taipei\" target=\"_blank\">🏮 Tonghua (Linjiang) Night Market</a></strong> — Most \"sophisticated\" night market. Last night market of the trip!",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Tonghua+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🏮 Tonghua (Linjiang) Night Market</a></strong> — Most \"sophisticated\" night market. Last night market of the trip!",
         "price": ""
       }
     ],
@@ -2223,7 +2223,7 @@ const DAYS = [
         "category": "More in Kaohsiung",
         "items": [
           {
-            "name": "🎭🎨 Weiwuying",
+            "name": "★★★☆☆ 🎭🎨 Weiwuying",
             "url": "https://www.google.com/maps/search/Weiwuying+Kaohsiung",
             "desc": "World's largest performing arts center; family workshops"
           },
@@ -2238,7 +2238,7 @@ const DAYS = [
         "category": "Maokong Extras",
         "items": [
           {
-            "name": "🐾🧒 Taipei Zoo",
+            "name": "★★★☆☆ 🐾🧒 Taipei Zoo",
             "url": "https://www.google.com/maps/search/Taipei+Zoo",
             "desc": "At gondola base; one of Asia's largest (NT$60; closes 5pm weekdays)"
           },
@@ -2253,12 +2253,12 @@ const DAYS = [
         "category": "Yongkang Street Extras",
         "items": [
           {
-            "name": "🍜 Dongmen Dumplings",
+            "name": "★★★☆☆ 🍜 Dongmen Dumplings",
             "url": "https://www.google.com/maps/search/Dongmen+Dumplings+Taipei",
             "desc": "Since 1963; famous pot-stickers"
           },
           {
-            "name": "🍜 Din Tai Fung Yongkang",
+            "name": "★★★★☆ 🍜 Din Tai Fung Yongkang",
             "url": "https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei",
             "desc": "Original location (takeout only); xiao long bao"
           },
@@ -2289,17 +2289,17 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>Option A:</strong> <a href=\"https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan\" target=\"_blank\">🐾🧒 Houtong Cat Village</a> — Train from Taipei (~1h). Hundreds of friendly cats, cat-shaped bridges.",
+        "activity": "<strong>Option A:</strong> <a href=\"https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan\" target=\"_blank\">★★★☆☆ 🐾🧒 Houtong Cat Village</a> — Train from Taipei (~1h). Hundreds of friendly cats, cat-shaped bridges.",
         "price": ""
       },
       {
         "time": "",
-        "activity": "<strong>Option B:</strong> <a href=\"https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei\" target=\"_blank\">🏛️🚶 Treasure Hill Artist Village</a> — Artists' colony. Neon installations, outdoor sculptures, murals.",
+        "activity": "<strong>Option B:</strong> <a href=\"https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei\" target=\"_blank\">★★★☆☆ 🏛️🚶 Treasure Hill Artist Village</a> — Artists' colony. Neon installations, outdoor sculptures, murals.",
         "price": ""
       },
       {
         "time": "",
-        "activity": "<strong>Option C:</strong> <a href=\"https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei\" target=\"_blank\">🎨🧒 Kuo Yuan Ye Museum — Pineapple Cake Baking Class</a> — 2-hour class. Make iconic Taiwanese pineapple cakes from scratch. Great souvenir!",
+        "activity": "<strong>Option C:</strong> <a href=\"https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei\" target=\"_blank\">★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum — Pineapple Cake Baking Class</a> — 2-hour class. Make iconic Taiwanese pineapple cakes from scratch. Great souvenir!",
         "price": ""
       },
       {
@@ -2309,7 +2309,7 @@ const DAYS = [
       },
       {
         "time": "13:00",
-        "activity": "<strong>Last shopping:</strong> <a href=\"https://www.google.com/maps/search/Chifeng+Street+Taipei\" target=\"_blank\">🛍️🚶 Chifeng Street</a> thrift shops or <a href=\"https://www.google.com/maps/search/Eslite+R79+Taipei\" target=\"_blank\">🛍️ Zhongshan Underground Book Street</a> (stationery, souvenirs). Or: buy pineapple cakes at bakeries (essential Taiwan souvenir).",
+        "activity": "<strong>Last shopping:</strong> <a href=\"https://www.google.com/maps/search/Chifeng+Street+Taipei\" target=\"_blank\">★★☆☆☆ 🛍️🚶 Chifeng Street</a> thrift shops or <a href=\"https://www.google.com/maps/search/Eslite+R79+Taipei\" target=\"_blank\">★★☆☆☆ 🛍️ Zhongshan Underground Book Street</a> (stationery, souvenirs). Or: buy pineapple cakes at bakeries (essential Taiwan souvenir).",
         "price": ""
       },
       {
@@ -2338,17 +2338,17 @@ const DAYS = [
         "category": "More Activities",
         "items": [
           {
-            "name": "☕🤪 Alice is Coming Cafe",
+            "name": "★★☆☆☆ ☕🤪 Alice is Coming Cafe",
             "url": "https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei",
             "desc": "Wonderland-themed"
           },
           {
-            "name": "☕🐾🧒 Capybara Knight",
+            "name": "★★★☆☆ ☕🐾🧒 Capybara Knight",
             "url": "https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei",
             "desc": "Capybara cafe; plus rabbits, ducks"
           },
           {
-            "name": "☕ Nice Cream",
+            "name": "★★☆☆☆ ☕ Nice Cream",
             "url": "https://www.google.com/maps/search/Nice+Cream+Taipei",
             "desc": "Vegan gelato; Earl Grey waffle"
           }
@@ -2358,12 +2358,12 @@ const DAYS = [
         "category": "Pineapple Cake Shops (essential Taiwan souvenir)",
         "items": [
           {
-            "name": "☕🛍️ Chia Te Bakery",
+            "name": "★★★☆☆ ☕🛍️ Chia Te Bakery",
             "url": "https://www.google.com/maps/search/Chia+Te+Bakery+Taipei",
             "desc": "Most popular pineapple cake bakery"
           },
           {
-            "name": "☕🛍️ SunnyHills",
+            "name": "★★★☆☆ ☕🛍️ SunnyHills",
             "url": "https://www.google.com/maps/search/SunnyHills+Taipei",
             "desc": "100% pineapple filling; free tasting with tea"
           }
