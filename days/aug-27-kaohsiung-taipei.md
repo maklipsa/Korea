@@ -1,4 +1,5 @@
 # Aug 27 (Thu) — KAOHSIUNG MORNING → HSR TO TAIPEI → MAOKONG
+> Badges: pass:HSR Pass day 2 of 2
 
 **Use Taiwan HSR Flexible 2-day Pass (day 2 of 2).**
 

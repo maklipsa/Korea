@@ -1,4 +1,5 @@
 # Aug 17 (Mon) — LOTTE WORLD DAY (Museums closed = perfect)
+> Badges: pass:Seoul Pass still active; closed:Museums closed Mon
 
 Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
 

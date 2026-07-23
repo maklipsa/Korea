@@ -1,4 +1,5 @@
 # Aug 21 (Fri) — TAIPEI DAY 1: Old Taipei + Weird Ice Cream + Night Market
+> Badges: pass:Activate Taipei Fun Pass 2-day
 
 **Activate Taipei Fun Pass Unlimited 2-day today** (covers today + tomorrow).
 

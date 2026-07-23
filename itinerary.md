@@ -15,13 +15,17 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 - [ ] Flight Busan (PUS) → Taipei (TPE) (Aug 20, afternoon/evening) — Tigerair Taiwan or Jeju Air, ~$70-130 USD/person one-way. Book on Skyscanner/Google Flights.
 - [ ] Everland or Lotte World tickets online (Aug 17) — 10-20% cheaper than gate price.
 
+### Book 28 days ahead
+- [ ] Haeundae Blueline Park Sky Capsule (Aug 19) — tickets open every **Tuesday at 07:00 KST for the week 4 weeks (28 days) later**. For Aug 19, tickets open **Tue Jul 21, 07:00 KST**. Sells out in minutes in August. Book on [bluelinepark.com](https://www.bluelinepark.com) or Klook. Weekday is easier.
+
 ### Book 14 days ahead
-- [ ] Haeundae Blueline Park Sky Capsule (Aug 19) — book at [bluelinepark.com](https://www.bluelinepark.com) the MOMENT reservations open. Sells out in minutes in August. Weekday is easier.
 - [ ] KEYESCAPE escape room Hongdae (Aug 14 evening) — book at keyescape.co.kr. English-friendly.
 
 ### Buy before departure
 - [ ] **eSIM** — Airalo, Saily, or Holafly. Get a plan that covers both Korea AND Taiwan, or buy separate ones. Holafly has unlimited data ~$19-47 depending on duration.
 - [ ] **Travel insurance** — August = typhoon season in Taiwan. Strongly recommended.
+- [ ] **K-ETA** (Korea entry authorization) — verify whether your passport's temporary exemption is still in effect for 2026 at [k-eta.go.kr](https://www.k-eta.go.kr). If not exempt, apply ≥72h before departure.
+- [ ] **Taiwan arrival card** — fill online at [niaspeedy.immigration.gov.tw](https://niaspeedy.immigration.gov.tw) within 3 days of arrival, OR on the plane.
 
 ### Buy on arrival
 - [ ] **T-money card** (Korea) — Any convenience store at Incheon Airport. Load ~50,000 KRW to start.
@@ -101,8 +105,9 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 ### Seoul
 | Day | What's CLOSED |
 |-----|---------------|
-| **Monday** | Changdeokgung, Changgyeonggung, War Memorial, Leeum, SeMoCA, MMCA |
-| **Tuesday** | Gyeongbokgung, National Folk Museum, Jongmyo Shrine |
+| **Monday** | Changdeokgung, Changgyeonggung, War Memorial, Leeum, SeMoCA, MMCA, National Folk Museum (1st Mon of Mar/Jun/Sep/Dec) |
+| **Tuesday** | Gyeongbokgung, Jongmyo Shrine |
+| Bukchon | Red Zone (Bukchon-ro 11-gil) restricted to tourists 17:00–10:00 — 100,000 KRW fine |
 | Hanbok | Wearing hanbok = free entry to all palaces (any day they're open) |
 
 ### Busan
@@ -115,9 +120,9 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 ### Taiwan
 | Day | What's CLOSED |
 |-----|---------------|
-| **Monday** | Maokong Gondola, Beitou Hot Spring Museum, Tainan Art Museum, National Taichung Theater |
-| **Sunday + Monday** | National Palace Museum |
+| **Monday** | National Palace Museum, Maokong Gondola, Beitou Hot Spring Museum, Tainan Art Museum, National Taichung Theater, Taipei Children's Amusement Park (open Mon during summer vacation) |
 | **Tuesday** | Fo Guang Shan Buddha Museum |
+| **Monday + Wednesday** | Ruifeng Night Market (Kaohsiung) |
 | **1st Mon/month** | Gold Museum (Jinguashi) |
 
 ---

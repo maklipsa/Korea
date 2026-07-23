@@ -1,6 +1,7 @@
 # Aug 23 (Sun) — NORTHEAST COAST DAY TRIP: Shifen → Jiufen → Yehliu
+> Badges: closed:NPM closed Sun
 
-NPM closed (Sun) — perfect day for the coast.
+Sunday: northeast coast tour buses run daily, Jiufen and Shifen are at peak buzz. Start early to beat crowds. **Typhoon contingency:** if a typhoon is forecast, swap this with Aug 24 (kids' science day stays indoors).
 
 ## Route Map
 [View route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Yehliu+Geopark+Taiwan&destination=Jiufen+Old+Street+Taiwan&waypoints=Shifen+Old+Street+Taiwan|Shifen+Waterfall+Taiwan&travelmode=walking)

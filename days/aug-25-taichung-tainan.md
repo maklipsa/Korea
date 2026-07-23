@@ -1,4 +1,5 @@
 # Aug 25 (Tue) — HSR TO TAICHUNG → TAINAN
+> Badges: pass:HSR Pass day 1 of 2
 
 **Use Taiwan HSR Flexible 2-day Pass (day 1 of 2).**
 

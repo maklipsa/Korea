@@ -1,4 +1,5 @@
 # Aug 24 (Mon) — TAIPEI DAY 3: Kids' Science Day + Shilin Night Market
+> Badges: closed:Maokong & NPM closed Mon
 
 Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But Shilin science complex is open (summer vacation = open Mondays).
 

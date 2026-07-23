@@ -1,4 +1,5 @@
 # Aug 19 (Wed) — BUSAN FULL DAY
+> Badges: pass:Activate Busan Pass 24h
 
 **Activate Visit Busan Pass 24h today.**
 
@@ -13,7 +14,7 @@ Wednesday: Jagalchi open (closed 1st/3rd Tue). Gukje open (closed 1st/3rd Sun). 
 | Time | Activity | Price |
 |------|----------|-------|
 | 7:00 | **[Haedong Yonggungsa Temple](https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan)** — Oceanside temple, 108 stone steps, spectacular at dawn. Go early before tour buses! Bus #181 from Haeundae. | Free |
-| 9:00 | **[Haeundae Blueline Park — Sky Capsule](https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan)** — Colorful pods on elevated rail along the coast. Mipo → Cheongsapo → Songjeong. **BOOK 14 DAYS AHEAD.** Beach Train is on the Busan Pass. | Pass (Beach Train) / 35,000-44,000 KRW (Sky Capsule) |
+| 9:00 | **[Haeundae Blueline Park — Sky Capsule](https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan)** — Colorful pods on elevated rail along the coast. Sky Capsule runs **Mipo ↔ Cheongsapo only** (Beach Train goes the full Mipo → Songjeong route). **BOOK 28 DAYS AHEAD** — tickets release every Tuesday 07:00 KST for the week 4 weeks out. Beach Train is on the Busan Pass; Sky Capsule is not. | Pass (Beach Train) / ~50,000 KRW/capsule (2-pax Sky Capsule) |
 | 11:00 | **[Gamcheon Culture Village](https://www.google.com/maps/search/Gamcheon+Culture+Village+Busan)** — "Machu Picchu of Korea." Get the **Stamp Tour map** (2,000 KRW) = scavenger hunt through colorful alleys for kids. Little Prince statue, BTS mural. Allow 2-3 hours. | Free (map 2,000 KRW) |
 | 11:30 | Cafe: [Coffee It House](https://www.google.com/maps/search/Coffee+It+House+Gamcheon+Busan) rooftop (best panoramic view). |  |
 | 13:30 | Head to **Nampo-dong** area (subway or taxi). |  |
@@ -36,7 +37,7 @@ Wednesday: Jagalchi open (closed 1st/3rd Tue). Gukje open (closed 1st/3rd Sun). 
 - [K-POP FRIENDS Nampo](https://www.google.com/maps/search/KPOP+FRIENDS+Nampo+Busan) — K-pop merch, albums, photo cards
 
 ### Gwangalli (evening option)
-- [Gwangalli Beach](https://www.google.com/maps/search/Gwangalli+Beach+Busan) — Nighttime bridge views; Sat drone shows
+- [Gwangalli Beach](https://www.google.com/maps/search/Gwangalli+Beach+Busan) — Nighttime bridge views; M Drone Light Show runs Sat & Sun 21:00 — **NOT on Aug 19 (Wed)**
 - [Millak Raw Fish Center](https://www.google.com/maps/search/Millak+Raw+Fish+Center+Busan) — Buy fresh fish downstairs, eat upstairs
 
 ### Seomyeon (if passing through)

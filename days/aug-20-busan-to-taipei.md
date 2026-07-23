@@ -17,8 +17,8 @@
 |  | **Option C:** [Spa Land](https://www.google.com/maps/search/Shinsegae+Centum+City+Busan) at Shinsegae (world's largest dept store) — Jjimjilbang with 22 themed saunas. Rest before flight. | ~20,000 KRW |
 | 12:00 | Lunch in Busan. |  |
 | 13:30 | Head to **Gimhae Airport** (Busan Air Light Rail from Haeundae, or taxi ~40 min). |  |
-| ~17:00-18:00 | **Flight PUS → TPE** (~2.5 hours). | Booked ahead |
-| ~20:00 | Arrive **Taipei Taoyuan Airport**. Airport MRT to Taipei Main Station (~40 min, NT$160). |  |
+| ~17:00-18:00 | **Flight PUS → TPE** (~2h50). Departs Gimhae **T2 (International)**. Korea is +1h vs Taiwan. | Booked ahead |
+| ~18:50-19:50 | Arrive **Taipei Taoyuan Airport** (e.g. 17:00 dep → 18:50 arr; 18:00 dep → 19:50 arr). Airport MRT to Taipei Main Station (~40 min, NT$160). |  |
 | 21:00 | Check in hotel. Grab late dinner from a convenience store or nearby night market. |  |
 
 ---

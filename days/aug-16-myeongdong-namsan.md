@@ -1,4 +1,5 @@
 # Aug 16 (Sun) — MYEONGDONG + NAMSAN + NAMDAEMUN + EVENING MARKETS
+> Badges: pass:Activate Seoul Pass 48h
 
 **Activate Discover Seoul Pass 48h today** (covers Namsan Tower + Lotte World tomorrow).
 

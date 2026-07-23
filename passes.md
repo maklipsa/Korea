@@ -24,7 +24,7 @@ Includes free entry to:
 - Songdo Cable Car (17,000-22,000 KRW value) — if used
 - Spa Land (20,000 KRW value) — if used
 
-**Note:** Sky Capsule typically NOT included (only Beach Train). Buy on Klook or Visit Busan Pass app.
+**Note:** Sky Capsule NOT included (only Beach Train). Sky Capsule must be booked separately — tickets release every Tuesday 07:00 KST for the week 4 weeks (28 days) later via [bluelinepark.com](https://www.bluelinepark.com) or Klook. Buy the Pass itself on Klook or Visit Busan Pass app.
 
 ### Taipei Fun Pass Unlimited (2-day) — ~NT$1,700
 **Activate: Aug 21 morning** (covers Aug 21-22)

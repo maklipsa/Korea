@@ -20,7 +20,7 @@ All walkable together — the historic heart of Seoul.
 - [Changgyeonggung Palace](https://www.google.com/maps/search/Changgyeonggung+Palace+Seoul) — Less crowded palace, beautiful at night during seasonal illumination
 - [Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) — UNESCO Confucian royal shrine
 - [Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) — Main Zen Buddhist temple; giant ancient trees and ornate lanterns
-- [Bukchon Hanok Village](https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul) — 600+ traditional houses; NOTE: Bukchon-ro 11-gil restricts tourists 5pm-10am
+- [Bukchon Hanok Village](https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul) — 600+ traditional houses; **Red Zone (Bukchon-ro 11-gil) restricts tourists 17:00-10:00, enforced since Nov 2024, 100,000 KRW fine**
 - [Cheongwadae (former Blue House)](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — Recently opened presidential grounds, free
 - [Tapgol Park](https://www.google.com/maps/search/Tapgol+Park+Seoul) — Historic park with 10-tier marble pagoda; March 1st Independence Movement site
 - [Unhyeongung Royal Residence](https://www.google.com/maps/search/Unhyeongung+Seoul) — Lesser-known Joseon-era mansion
@@ -520,7 +520,7 @@ Must book through authorized tour company. Bring passports.
 - 3rd Infiltration Tunnel — Walk 73m underground into a North Korean tunnel; helmets provided; fine for age 9+
 - Dora Observatory — Binoculars looking into North Korea
 - Dorasan Station — Last train station before North Korea; eerily empty
-- NOTE: Children under 11 are NOT permitted on JSA tours; standard DMZ tours are fine for all ages
+- NOTE: **JSA/Panmunjom tours are suspended for general tourists since July 2023** (UNC restrictions); only standard DMZ tours (3rd Tunnel + Dora + Dorasan + Imjingak) are currently bookable. All ages OK on standard tour.
 
 ---
 
@@ -651,7 +651,7 @@ Modern Taipei, the iconic tower, best food street in Asia, night markets.
 Best kid day in Taipei — science, space, rides, then night market.
 
 #### Museums (Kid-Friendly)
-- [National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei) — World's greatest Chinese art collection; Children's Gallery; free for ages 17 and under
+- [National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei) — World's greatest Chinese art collection; Children's Gallery; free for ages 17 and under; open Tue-Sun 9:00-17:00 (closed Mon)
 - [National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei) — Interactive exhibits; great for 9-year-olds
 - [Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum) — Planetarium, IMAX, space exhibits; next to Science Center
 
