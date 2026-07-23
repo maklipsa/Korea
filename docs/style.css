@@ -651,6 +651,44 @@ main {
   color: var(--taiwan);
 }
 
+/* === Emoji Legend === */
+.legend-intro {
+  font-size: 0.8125rem;
+  color: var(--gray-500);
+  margin-bottom: 0.75rem;
+}
+
+.legend-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.375rem;
+  margin-bottom: 0.75rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  padding: 0.5rem 0.75rem;
+  background: white;
+  border: 1px solid var(--gray-200);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+}
+
+.legend-emoji {
+  font-size: 1.125rem;
+  line-height: 1;
+  width: 1.5rem;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.legend-label {
+  font-size: 0.8125rem;
+  color: var(--gray-700);
+}
+
 /* === Responsive === */
 @media (min-width: 640px) {
   main { padding: 2rem 1.5rem 4rem; }
@@ -658,6 +696,7 @@ main {
   header h1 { font-size: 2rem; }
   .day-cards { grid-template-columns: 1fr 1fr; }
   .packing-grid { grid-template-columns: 1fr 1fr; }
+  .legend-grid { grid-template-columns: 1fr 1fr; }
 
   .schedule-item {
     gap: 1rem;

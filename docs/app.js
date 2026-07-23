@@ -147,6 +147,7 @@ function renderOverview() {
   });
 
   return `
+    ${renderLegend()}
     <div class="overview-section">
       <h2>Booking Checklist</h2>
       ${checklistHTML}
@@ -158,6 +159,56 @@ function renderOverview() {
       <div class="country-label taiwan">Taiwan \u2014 Taipei + Taichung + Tainan + Kaohsiung (Aug 20\u201329)</div>
       <div class="day-cards">${taiwanCards}</div>
     </div>`;
+}
+
+// Emoji tag key. The emoji live inline in the Markdown next to each place
+// (see places.md / days/*.md) and flow through to the schedule + Also Nearby
+// text automatically; this block just explains what they mean.
+const LEGEND_GROUPS = [
+  { title: 'Place type', items: [
+    ['\ud83c\udf5c', 'Food & restaurants'],
+    ['\u2615', 'Caf\u00e9s, dessert & bakeries'],
+    ['\ud83c\udfef', 'Palaces, temples & historic sites'],
+    ['\ud83c\udfdb\ufe0f', 'Museums & galleries'],
+    ['\ud83c\udf33', 'Parks, gardens & nature'],
+    ['\ud83d\udecd\ufe0f', 'Shopping, markets & malls'],
+    ['\ud83c\udfee', 'Night markets'],
+    ['\ud83c\udfa1', 'Theme parks & amusement'],
+    ['\ud83d\udeb6', 'Strolls & old streets'],
+    ['\ud83d\uddfc', 'Viewpoints, decks & towers'],
+    ['\ud83d\udcf8', 'Landmarks & photo spots'],
+    ['\ud83c\udfa8', 'Hands-on & cultural experiences'],
+  ]},
+  { title: 'Extra tags (stacked on top)', items: [
+    ['\ud83e\uddd2', 'Kid-favourite'],
+    ['\ud83d\udc3e', 'Animals (zoo, aquarium, animal caf\u00e9)'],
+    ['\u2668\ufe0f', 'Hot springs & spas'],
+    ['\ud83d\udea1', 'Scenic rides (cable car, gondola, ferry)'],
+    ['\ud83c\udf7a', 'Nightlife & bars'],
+  ]},
+  { title: 'Finer tags', items: [
+    ['\ud83c\udf75', 'Traditional tea house'],
+    ['\ud83e\uddcb', 'Bubble tea'],
+    ['\ud83c\udf0a', 'Waterfalls & natural wonders'],
+    ['\u26ea', 'Churches & cathedrals'],
+    ['\ud83c\udfad', 'Performing-arts venues'],
+    ['\ud83e\udd2a', 'Quirky / novelty venues'],
+    ['\ud83c\udf81', 'Character & fandom stores'],
+  ]},
+];
+
+function renderLegend() {
+  let html = '<div class="overview-section"><h2>Place Tags</h2>'
+    + '<p class="legend-intro">The emoji beside each place mark what it is \u2014 a place can carry more than one.</p>';
+  LEGEND_GROUPS.forEach(g => {
+    html += `<h3>${g.title}</h3><div class="legend-grid">`;
+    g.items.forEach(([emoji, label]) => {
+      html += `<div class="legend-item"><span class="legend-emoji">${emoji}</span><span class="legend-label">${label}</span></div>`;
+    });
+    html += '</div>';
+  });
+  html += '</div>';
+  return html;
 }
 
 function buildGoogleMapsPinsUrl(day) {

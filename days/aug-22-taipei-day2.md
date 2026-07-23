@@ -10,16 +10,16 @@
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:00 | **[National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei)** — World's greatest Chinese art. Children's Gallery. Free for under 18. Open Tue-Sun 9:00-17:00 (closed Mon). | Pass or NT$350 |
+| 9:00 | **[🏛️ National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei)** — World's greatest Chinese art. Children's Gallery. Free for under 18. Open Tue-Sun 9:00-17:00 (closed Mon). | Pass or NT$350 |
 | 11:15 | MRT to **Beitou** (~45 min: red line to Beitou, transfer pink line to Xinbeitou). |  |
-| 12:00 | **[Beitou Hot Spring Museum](https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei)** — Restored 1913 Japanese bathhouse (air-conditioned!). | Free |
-| 12:30 | **[Thermal Valley (Hell Valley)](https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei)** — Steaming vivid green sulfurous lake (80-100°C). Otherworldly. 20-30 min — it's hot. | Free |
-| 13:00 | Hot spring soak: **[Spring City Resort](https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei)** — Best public hot spring for families. Multiple pools incl. cold-water tubs. **Counter-intuitive in 35°C August** but the cold pools + AC lounge are real respite. ~90 min. | ~NT$350-600 |
+| 12:00 | **[🏛️♨️ Beitou Hot Spring Museum](https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei)** — Restored 1913 Japanese bathhouse (air-conditioned!). | Free |
+| 12:30 | **[🌊♨️ Thermal Valley (Hell Valley)](https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei)** — Steaming vivid green sulfurous lake (80-100°C). Otherworldly. 20-30 min — it's hot. | Free |
+| 13:00 | Hot spring soak: **[♨️🧒 Spring City Resort](https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei)** — Best public hot spring for families. Multiple pools incl. cold-water tubs. **Counter-intuitive in 35°C August** but the cold pools + AC lounge are real respite. ~90 min. | ~NT$350-600 |
 | 14:30 | Lunch in Xinbeitou. |  |
 | 15:30 | MRT back to **Xiangshan** station (~45 min). |  |
-| 16:30 | **[Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei)** — Short steep hike (10-20 min). THE iconic Taipei 101 photo from "Six Boulders" viewpoint. 9-year-olds handle it fine. Bring water — brutal in afternoon heat. | Free |
-| 17:30 | **[Taipei 101 Observatory](https://www.google.com/maps/search/Taipei+101)** — Floors 88-89 + outdoor deck floor 91. Go for golden hour → sunset → night views. | Pass or NT$600 |
-| 19:30 | MRT to Songshan. **[Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei)** — Taipei's best for foodies. 6 Michelin-awarded stalls. **Fuzhou Black Pepper Buns** at entrance (always a line — worth it). | ~NT$200-400/person |
+| 16:30 | **[🌳🗼 Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei)** — Short steep hike (10-20 min). THE iconic Taipei 101 photo from "Six Boulders" viewpoint. 9-year-olds handle it fine. Bring water — brutal in afternoon heat. | Free |
+| 17:30 | **[🗼📸 Taipei 101 Observatory](https://www.google.com/maps/search/Taipei+101)** — Floors 88-89 + outdoor deck floor 91. Go for golden hour → sunset → night views. | Pass or NT$600 |
+| 19:30 | MRT to Songshan. **[🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei)** — Taipei's best for foodies. 6 Michelin-awarded stalls. **Fuzhou Black Pepper Buns** at entrance (always a line — worth it). | ~NT$200-400/person |
 
 **The day is packed.** All in: NPM + Beitou museum + Thermal Valley + hot spring soak + Elephant Mountain + Taipei 101 + Raohe = ~11 active hours with ~2h of transit. Stays runnable because Beitou is mostly indoor/short-walk and Elephant Mountain is 20 min up. If you fall behind: drop Beitou Hot Spring Museum (Thermal Valley alone covers the geothermal "wow") or skip the Spring City soak.
 
@@ -28,25 +28,25 @@
 ## Also Nearby
 
 ### More in Beitou
-- [Beitou Park](https://www.google.com/maps/search/Beitou+Park+Taipei) — Hot spring education center, children's hot spring play area
+- [🌳♨️🧒 Beitou Park](https://www.google.com/maps/search/Beitou+Park+Taipei) — Hot spring education center, children's hot spring play area
 
 ### Near Taipei 101
-- [Songshan Cultural and Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei) — Former tobacco factory; pop-up galleries
-- [44 South Military Village](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Retro village; cafes, handmade goods
-- [Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) — Taipei's "Central Park"; 26 hectares, pond, playgrounds
-- [Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Grand colorful Mazu temple beside Raohe
+- [🎨 Songshan Cultural and Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei) — Former tobacco factory; pop-up galleries
+- [🚶 44 South Military Village](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Retro village; cafes, handmade goods
+- [🌳🧒 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) — Taipei's "Central Park"; 26 hectares, pond, playgrounds
+- [🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Grand colorful Mazu temple beside Raohe
 
 ### Yongkang Street Extras
-- [Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Since 1963; famous pot-stickers
-- [Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Original location (takeout only); grab xiao long bao
+- [🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Since 1963; famous pot-stickers
+- [🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Original location (takeout only); grab xiao long bao
 - Mango shaved ice shops along Yongkang Street (seasonal)
 
 ### Shopping
-- [Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — 1960s apartments turned indie boutiques
-- [Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Garment district; teen clothing at wholesale prices
+- [🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — 1960s apartments turned indie boutiques
+- [🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Garment district; teen clothing at wholesale prices
 
 ### More Night Markets
-- [Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei) — Most "sophisticated" night market; innovative bubble tea
+- [🏮🧋 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei) — Most "sophisticated" night market; innovative bubble tea
 
 ### Bubble Tea
-- [50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — One of Taiwan's most iconic local boba chains
+- [🧋 50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — One of Taiwan's most iconic local boba chains
