@@ -385,14 +385,9 @@ const DAYS = [
         "price": "Free"
       },
       {
-        "time": "16:00",
-        "activity": "*(Art-lovers' alternative — you can't fit both this and the National Museum before the ~18:00 closings, so pick one.)* <strong><a href=\"https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul\" target=\"_blank\">★★★☆☆ 🏛️🎨 Leeum Museum of Art</a></strong> — Samsung's free, world-class museum in Hannam (Botta/Nouvel/Koolhaas buildings) pairing Korean celadon and folk painting with blue-chip contemporary art. Tue–Sun 10:00–18:00, last entry ~17:30, closed Mon (Thu OK). Leaves you right in the Hannam cluster for the evening.",
+        "time": "17:00",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul\" target=\"_blank\">★★★☆☆ 🏛️🎨 Leeum Museum of Art</a></strong> — Third museum of the day, and no reason to skip it (this family does several a day): Samsung's free, world-class museum in Hannam (Botta/Nouvel/Koolhaas buildings) pairing Korean celadon and folk painting with blue-chip contemporary art. Move briskly from the National Museum — <strong>last entry ~17:30</strong>, closed Mon (Thu OK). It sits in <strong>Hannam-dong</strong>, so it drops you straight into tonight's Itaewon/Hannam dinner cluster.",
         "price": "Free"
-      },
-      {
-        "time": "17:30",
-        "activity": "Walk/subway to <strong>Itaewon/Hannam-dong</strong> area.",
-        "price": ""
       },
       {
         "time": "18:00",
