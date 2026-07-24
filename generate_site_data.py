@@ -35,7 +35,8 @@ SMALL_WORDS = {"to", "and", "of", "the", "a", "an", "at", "by", "on", "in", "or"
 # --- inline markdown helpers ------------------------------------------------
 
 def md_inline(s: str) -> str:
-    """Convert inline Markdown (bold, links) to the HTML the site expects."""
+    """Convert inline Markdown (bold, links, strikethrough) to the HTML the site expects."""
+    s = re.sub(r"~~([^~]+)~~", r"<del>\1</del>", s)  # before links: works inside link text too
     s = re.sub(
         r"\*\*\[([^\]]+)\]\(([^)]+)\)\*\*",
         r'<strong><a href="\2" target="_blank">\1</a></strong>',
@@ -48,6 +49,7 @@ def md_inline(s: str) -> str:
 
 def md_plain(s: str) -> str:
     """Strip inline Markdown to plain text."""
+    s = re.sub(r"~~([^~]+)~~", r"\1", s)
     s = re.sub(r"\*\*\[([^\]]+)\]\([^)]+\)\*\*", r"\1", s)
     s = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", s)
     s = re.sub(r"\*\*([^*]+)\*\*", r"\1", s)
@@ -244,10 +246,10 @@ def parse_extras(lines):
             content = m.group(1)
             lm = re.match(r"\[([^\]]+)\]\(([^)]+)\)\s*(?:—\s*(.*))?$", content)
             if lm:
-                name, url, desc = lm.group(1), lm.group(2), (lm.group(3) or "").strip()
+                name, url, desc = md_inline(lm.group(1)), lm.group(2), (lm.group(3) or "").strip()
             else:
                 head, _, tail = content.partition(" — ")
-                name, url, desc = md_plain(head), "", tail.strip()
+                name, url, desc = md_inline(head), "", tail.strip()
             cat_items.append({"name": name, "url": url, "desc": md_inline(desc)})
     flush()
     return extras
@@ -351,6 +353,7 @@ def card_inline(s, anchors):
     codes = []
     s = re.sub(r"`([^`]+)`",
                lambda m: codes.append(m.group(1)) or f"\x00C{len(codes) - 1}\x00", s)
+    s = re.sub(r"~~([^~]+)~~", r"<del>\1</del>", s)  # before links: works inside link text too
     # italics first, so a nested *italic* inside **bold** doesn't break the
     # bold match (the ** markers are guarded by the look-arounds below).
     s = re.sub(r"(?<!\*)\*(?!\s)([^*\n]+?)\*(?!\*)", r"<em>\1</em>", s)

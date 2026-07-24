@@ -34,7 +34,7 @@ The big traditional Seoul day. Everything open on Wednesdays.
 ### More Temples & Landmarks
 - [★★★☆☆ 🏯 Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) — Main Zen Buddhist temple; giant ancient trees and ornate lanterns
 - [★★★★☆ 🏯 Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) — UNESCO Confucian royal shrine; open Wed but **timed guided tour only** (English 10:00/12:00/14:00/16:00); closed Tue. Free self-guided entry only on Sat & the last Wed of the month
-- [★☆☆☆☆ 🏯 Cheongwadae (former Blue House)](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — ⚠️ CLOSED to the public since Aug 2025 (president moved back in); public tours suspended for 2026 — skip
+- [~~★☆☆☆☆ 🏯 Cheongwadae (former Blue House)~~](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — ⚠️ CLOSED to the public since Aug 2025 (president moved back in); public tours suspended for 2026 — skip
 - [★★★☆☆ 🏯 Changgyeonggung Palace](https://www.google.com/maps/search/Changgyeonggung+Palace+Seoul) — Less crowded palace, beautiful at night
 - [★★☆☆☆ 🌳🏯 Tapgol Park](https://www.google.com/maps/search/Tapgol+Park+Seoul) — Historic park with 10-tier marble pagoda
 - [★★★☆☆ 🏛️ Seoul Museum of History](https://www.google.com/maps/search/Seoul+Museum+of+History+Seoul) — City-history museum + giant scale-model of Seoul, next to Gyeonghuigung off Gwanghwamun. FREE; closed Mon

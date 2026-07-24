@@ -40,6 +40,9 @@ body {
 a { color: var(--korea); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
+/* Permanently-closed places struck through in the Markdown (~~name~~). */
+del, del a { color: var(--gray-400); text-decoration: line-through; }
+
 /* === Header === */
 header {
   background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 50%, #059669 100%);

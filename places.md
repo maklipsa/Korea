@@ -33,7 +33,7 @@ All walkable together — the historic heart of Seoul.
 - [★★★★☆ 🏯 Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) — UNESCO Confucian royal shrine 📅 *near Day 2 (Aug 12)*
 - [★★★☆☆ 🏯 Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) — Main Zen Buddhist temple; giant ancient trees and ornate lanterns 📅 *near Day 2 (Aug 12)*
 - [★★★★★ 🚶🏯 Bukchon Hanok Village](https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul) — 600+ traditional houses; **Red Zone (Bukchon-ro 11-gil) restricts tourists 17:00-10:00, enforced since Nov 2024, 100,000 KRW fine** 📅 **Day 2 (Aug 12)**
-- [★☆☆☆☆ 🏯 Cheongwadae (former Blue House)](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — ⚠️ CLOSED to the public since Aug 2025 (president moved back in); public tours suspended for 2026 — skip 📅 *near Day 2 (Aug 12)*
+- [~~★☆☆☆☆ 🏯 Cheongwadae (former Blue House)~~](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — ⚠️ CLOSED to the public since Aug 2025 (president moved back in); public tours suspended for 2026 — skip 📅 *near Day 2 (Aug 12)*
 - [★★☆☆☆ 🌳🏯 Tapgol Park](https://www.google.com/maps/search/Tapgol+Park+Seoul) — Historic park with 10-tier marble pagoda; March 1st Independence Movement site 📅 *near Day 2 (Aug 12)*
 - [★★☆☆☆ 🏯 Unhyeongung Royal Residence](https://www.google.com/maps/search/Unhyeongung+Seoul) — Lesser-known Joseon-era mansion
 - [★★★★☆ 🚶 Ikseon-dong Hanok Village](https://www.google.com/maps/search/Ikseon-dong+Seoul) — Seoul's oldest hanok village, 100+ years old, 119 hanoks; hip cafes in old buildings 📅 **Day 1 (Aug 11)**
@@ -155,7 +155,7 @@ Connected via Gyeongui Line Forest Park — indie culture, animal cafes, weird i
 - [★★★☆☆ ☕🧒 943 Kings Cross (Harry Potter Cafe)](https://www.google.com/maps/search/943+Kings+Cross+Hongdae+Seoul) — 7 floors of Hogwarts theming; butterbeer and themed drinks 📅 **Day 4 (Aug 14)**
 - [★★★☆☆ ☕🐾🧒 Table A (Animal Cafe)](https://www.google.com/maps/search/Table+A+Animal+Cafe+Hongdae+Seoul) — Raccoons, meerkats on 3 floors; 10,000 won entrance 📅 **Day 4 (Aug 14)**
 - [★★★☆☆ ☕🐾🧒 Meerkat Friends](https://www.google.com/maps/search/Meerkat+Friends+Hongdae+Seoul) — Meerkats, genets, wallabies, Arctic fox, raccoons 📅 **Day 4 (Aug 14)**
-- [★☆☆☆☆ ☕🐾🧒 Blind Alley (Raccoon Cafe)](https://www.google.com/maps/search/Blind+Alley+Raccoon+Cafe+Seoul) — ⚠️ PERMANENTLY CLOSED (raccoons rehomed to a zoo) — use Meerkat Friends instead
+- [~~★☆☆☆☆ ☕🐾🧒 Blind Alley (Raccoon Cafe)~~](https://www.google.com/maps/search/Blind+Alley+Raccoon+Cafe+Seoul) — ⚠️ PERMANENTLY CLOSED (raccoons rehomed to a zoo) — use Meerkat Friends instead
 - [★★☆☆☆ ☕🐾🧒 Thanks Nature Cafe (Sheep Cafe)](https://www.google.com/maps/search/Thanks+Nature+Sheep+Cafe+Seoul) — Two live sheep on the patio 📅 **Day 4 (Aug 14)**
 - [★☆☆☆☆ ☕ ehbd](https://www.google.com/maps/search/ehbd+cafe+Hongdae+Seoul) — Pastel pink and mint "birthday party" themed 📅 *near Day 4 (Aug 14)*
 - [★☆☆☆☆ ☕ TEESSERT](https://www.google.com/maps/search/TEESSERT+cafe+Hongdae+Seoul) — Retro 1980s Seoul-themed cafe 📅 *near Day 4 (Aug 14)*
@@ -171,7 +171,7 @@ Connected via Gyeongui Line Forest Park — indie culture, animal cafes, weird i
 - [★★☆☆☆ ☕ Fell + Cole](https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul) — Rotating weird flavors: makgeolli, beer stracciatella, miso vanilla, perilla leaf 📅 **Day 4 (Aug 14)**
 - [★★☆☆☆ ☕ Gelateria Eta](https://www.google.com/maps/search/Gelateria+Eta+Hongdae+Seoul) — Mugwort fig cream cheese gelato, Jack Daniel's chocolate gelato 📅 *near Day 4 (Aug 14)*
 - [★★☆☆☆ ☕ Melted](https://www.google.com/maps/search/Melted+gelato+Hongdae+Seoul) — Sweetcorn mocha, roasted brown rice, knafeh chocolate 📅 *near Day 4 (Aug 14)*
-- [★☆☆☆☆ ☕ Molly's Pops](https://www.google.com/maps/search/Mollys+Pops+Hongdae+Seoul) — ⚠️ Appears permanently closed (no activity since ~2015) — verify before relying on it
+- [~~★☆☆☆☆ ☕ Molly's Pops~~](https://www.google.com/maps/search/Mollys+Pops+Hongdae+Seoul) — ⚠️ Appears permanently closed (no activity since ~2015) — verify before relying on it
 - [★★☆☆☆ ☕ SOBOK](https://www.google.com/maps/search/SOBOK+Hongdae+Seoul) — Natural rice-based soft serve; signature injeolmi ice balls 📅 **Day 4 (Aug 14)**
 - ☕ Candied fruit skewer (tanghulu) vendors along the shopping street
 
@@ -209,7 +209,7 @@ International vibe, world-class free museums, cool hillside alleys.
 - [★★☆☆☆ ☕ Le Montblanc HBC](https://www.google.com/maps/search/Le+Montblanc+Haebangchon+Seoul) — Yarn-themed cafe; desserts that look like yarn balls; rooftop 📅 *near Day 3 (Aug 13)*
 - [★★☆☆☆ ☕ Dotori](https://www.google.com/maps/search/Dotori+cafe+Yongsan+Seoul) — Looks like a Studio Ghibli movie; fairy-tale interior 📅 **Day 3 (Aug 13)**
 - [★★☆☆☆ ☕ Cafe MOONEE HBC](https://www.google.com/maps/search/Cafe+MOONEE+Haebangchon+Seoul) — 3-story rooftop with sunset views and Namsan Tower panorama 📅 *near Day 3 (Aug 13)*
-- [★☆☆☆☆ ☕ Anthracite Hannam](https://www.google.com/maps/search/Anthracite+Hannam+Seoul) — ⚠️ PERMANENTLY CLOSED (Dec 2025); try OSULLOC Tea House Hannam instead
+- [~~★☆☆☆☆ ☕ Anthracite Hannam~~](https://www.google.com/maps/search/Anthracite+Hannam+Seoul) — ⚠️ PERMANENTLY CLOSED (Dec 2025); try OSULLOC Tea House Hannam instead
 - [★★★☆☆ 🍵 OSULLOC Tea House Hannam](https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul) — Green tea specialty; black lava rock walls 📅 **Day 3 (Aug 13)**
 - [★★☆☆☆ ☕ Hyundai Card Music Library](https://www.google.com/maps/search/Hyundai+Card+Music+Library+Hannam+Seoul) — Vinyl/cassette/CD listening cafe with headphones 📅 *near Day 3 (Aug 13)*
 - [★★☆☆☆ 🛍️ Book Park Blue Square](https://www.google.com/maps/search/Blue+Square+Seoul) — 50,000+ books, cafe, children's zone, art gallery 📅 *near Day 3 (Aug 13)*
@@ -252,7 +252,7 @@ Modern Seoul, container malls, weird cheesecake, and converted warehouses.
 
 #### Cafes
 - [★★☆☆☆ ☕ C27 Garosugil](https://www.google.com/maps/search/C27+Garosugil+Seoul) — 27 different kinds of cheesecake 📅 *near Day 8 (Aug 18)*
-- [★☆☆☆☆ ☕ Mr. Holmes Bakehouse Korea](https://www.google.com/maps/search/Mr+Holmes+Bakehouse+Garosugil+Seoul) — ⚠️ PERMANENTLY CLOSED (Garosugil branch + parent chain shut)
+- [~~★☆☆☆☆ ☕ Mr. Holmes Bakehouse Korea~~](https://www.google.com/maps/search/Mr+Holmes+Bakehouse+Garosugil+Seoul) — ⚠️ PERMANENTLY CLOSED (Garosugil branch + parent chain shut)
 - [★★☆☆☆ ☕ Maman Gateau](https://www.google.com/maps/search/Maman+Gateau+Garosugil+Seoul) — Famous since 2011; handmade caramel desserts 📅 *near Day 8 (Aug 18)*
 - ☕ Warehouse-converted cafes in Seongsu — Dozens of industrial-chic cafes in former factories
 - ☕ Brand pop-up cafes in Seongsu — Fashion/beauty brands open temporary themed cafes
@@ -608,7 +608,7 @@ Grouped by district.
 
 #### Food (no chains)
 - [★★★☆☆ 🍜 Haeundae Milmyeon](https://www.google.com/maps/search/Haeundae+Milmyeon+Busan) — Famous milmyeon (cold wheat noodles in chilled broth); Busan signature dish 📅 **Day 8 (Aug 18)**
-- ★☆☆☆☆ 🍜🍺 Haeundae Pojangmacha-chon — ⚠️ CLOSED/demolished Jan 2024 (site cleared for public space) — for beach-side seafood try Haeundae Traditional Market or Millak Raw Fish Town
+- ~~★☆☆☆☆ 🍜🍺 Haeundae Pojangmacha-chon~~ — ⚠️ CLOSED/demolished Jan 2024 (site cleared for public space) — for beach-side seafood try Haeundae Traditional Market or Millak Raw Fish Town
 - [★★★☆☆ 🛍️🍜 Haeundae Traditional Market](https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan) — Small charming market; best after 8pm for eomuk, tteokbokki, hotteok 📅 **Day 8 (Aug 18)**
 
 #### Desserts
