@@ -14,8 +14,8 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
 **Transport (compact — bike-friendly):** Everything's within ~1–2 km around Seokchon Lake — walk, or ride the flat lakeside loop (**Ttareungi**). Subway to Jamsil to start.
 
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/127.10268,37.51255,Lotte+World+Tower:127.10408,37.51009,Seokchon+Lake/walk)
-[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotte+World+Adventure+Seoul&destination=Songnidan-gil+Seoul&waypoints=Lotte+World+Tower+Seoul|Seokchon+Lake+Seoul&travelmode=transit)
+[View route on Naver Map](https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/127.09641,37.51094,KidZania+Seoul:127.10268,37.51255,Lotte+World+Tower:127.10408,37.51009,Seokchon+Lake/walk)
+[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotte+World+Adventure+Seoul&destination=Songnidan-gil+Seoul&waypoints=KidZania+Seoul+Jamsil|Lotte+World+Tower+Seoul|Seokchon+Lake+Seoul&travelmode=transit)
 
 ## Schedule
 
@@ -23,6 +23,7 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
 |------|----------|-------|
 | 10:00 | **[★★★★★ 🎡🧒 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul)** — Start with the indoor section (world's largest indoor park — great for August heat!). Then outdoor rides. | DSP covers it, else gate: child 50k / teen(13-18) 58k / adult 67k KRW |
 | 13:00 | Lunch inside Lotte World. |  |
+| 13:30 | *(Optional kids' pick — adjacent Lotte World complex, 4F; drop first if the park runs long.)* **[★★★☆☆ 🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil)** — Kid-sized role-play city: 90+ jobs (pilot, surgeon, firefighter, news anchor) for ages 4–14, a huge hit with the 9 & 11-yo. It's a 3–4h commitment, so treat it as a **trade** for the afternoon Lotte World session (or buy a separate ticket), not an add-on. | ~35,000 KRW (verify age tiers) |
 | 15:00 | **[★★★★☆ 🗼🧒 Seoul Sky](https://www.google.com/maps/search/Lotte+World+Tower+Seoul)** — Glass-floor observation deck at 500m on Lotte World Tower (floors 117-123). Highest in Korea. | child(3-12) 27k / adult(13+) 31k KRW |
 | 17:00 | Walk around **[★★☆☆☆ 🌳🚶 Seokchon Lake](https://www.google.com/maps/search/Seokchon+Lake+Seoul)** — Scenic lake surrounding Lotte World. |  |
 | 18:00 | **Songnidan-gil** — Trendy food street south of the lake. |  |
@@ -35,7 +36,6 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
 
 ### More to See
 - [★★☆☆☆ 🌳 Olympic Park](https://www.google.com/maps/search/Olympic+Park+Seoul) — 1988 Seoul Olympics site; massive green space, art sculptures, Peace Gate
-- [★★★☆☆ 🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) — 90+ career role-plays for ages 4-14
 - 🌳🧒 Seokchon Lake pedal boats — Seasonal
 
 ### More Cafes

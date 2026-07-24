@@ -6,7 +6,7 @@
 **Transport (metro-heavy day):** All **MRT** + a short bus to the National Palace Museum from Shilin. Stops run far N–S (Beitou ⇄ Xinyi ⇄ Songshan), so build in MRT time — no car.
 
 ## Route Map
-[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Beitou+Hot+Spring+Museum+Taipei|Thermal+Valley+Beitou+Taipei|Spring+City+Resort+Beitou+Taipei|Elephant+Mountain+Xiangshan+Taipei|Taipei+101&travelmode=driving)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Beitou+Hot+Spring+Museum+Taipei|Thermal+Valley+Beitou+Taipei|Spring+City+Resort+Beitou+Taipei|Elephant+Mountain+Xiangshan+Taipei|Taipei+101|Pokemon+Center+Taipei|Songshan+Cultural+and+Creative+Park+Taipei&travelmode=driving)
 
 ## Schedule
 
@@ -21,6 +21,7 @@
 | 15:30 | MRT back to **Xiangshan** station (~45 min). |  |
 | 16:30 | **[★★★★☆ 🌳🗼 Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei)** — Short steep hike (10-20 min). THE iconic Taipei 101 photo from "Six Boulders" viewpoint. 9-year-olds handle it fine. Bring water — brutal in afternoon heat. | Free |
 | 17:30 | **[★★★★★ 🗼📸 Taipei 101 Observatory](https://www.google.com/maps/search/Taipei+101)** — Floors 88-89 + outdoor deck floor 91 (weather permitting). Go for golden hour → sunset (~18:25) → night views. Open Sat to ~21:00-22:00. **Book online (Klook/KKday) to skip the 5F counter queue.** | Pass or NT$600 adult / NT$540 child 115cm+ ⚠️ (discount may need Taiwan ID — foreign kids may pay full; verify) |
+| 19:00 | *(Kids' pick — Shin Kong Mitsukoshi Xinyi, at the foot of Taipei 101; skip if running behind.)* **[★★★☆☆ 🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei)** (Taiwan's biggest) + **[★★★☆☆ 🎁🧒 Donguri Republic](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei)** (Studio Ghibli store, giant Totoro Catbus). Or, en route to Raohe, the **[★★★☆☆ 🎨🛍️ Songshan Cultural & Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei)** — a former tobacco factory of galleries and design shops. |  |
 | 19:30 | MRT to Songshan. **[★★★★☆ 🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei)** — Taipei's best for foodies. 6 Michelin-awarded stalls. **Fuzhou Black Pepper Buns** at entrance (always a line — worth it). | ~NT$200-400/person |
 
 **⚠️ The day is very packed and geographically stretched** — NPM (north/Shilin) → Beitou (far NW) → Elephant Mtn + 101 (SE/Xinyi) → Raohe (E/Songshan) is a big zigzag across the whole red line. Realistic transit is **~2.5-3h**, not 2h. All in: NPM + Beitou museum + Thermal Valley + hot spring soak + Elephant Mountain + Taipei 101 + Raohe = ~11 active hours. Stays runnable because Beitou is mostly indoor/short-walk and Elephant Mountain is 20 min up — but with a Sat-crowded NPM and a 90-min soak, expect to run behind. **Best cut for time: drop the Spring City soak** (biggest time sink + requires swimsuits) — or drop Beitou Hot Spring Museum (Thermal Valley alone covers the geothermal "wow").
@@ -33,9 +34,6 @@
 - [★★☆☆☆ 🌳♨️🧒 Beitou Park](https://www.google.com/maps/search/Beitou+Park+Taipei) — Hot spring education center, children's hot spring play area
 
 ### Near Taipei 101
-- [★★★☆☆ 🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) — Official store (opened Dec 2023), Shin Kong Mitsukoshi Xinyi right by Taipei 101 — easy add to the 17:30 Taipei 101 window
-- [★★★☆☆ 🎁🧒 Donguri Republic (Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Studio Ghibli goods, same Shin Kong Mitsukoshi Xinyi complex
-- [★★★☆☆ 🎨 Songshan Cultural and Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei) — Former tobacco factory; pop-up galleries
 - [★★☆☆☆ 🚶 44 South Military Village](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Retro village; cafes, handmade goods
 - [★★★☆☆ 🌳🧒 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) — Taipei's "Central Park"; 26 hectares, pond, playgrounds
 - [★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Grand colorful Mazu temple beside Raohe

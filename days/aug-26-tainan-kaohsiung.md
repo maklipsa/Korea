@@ -5,7 +5,7 @@
 ## Route Map
 
 **Tainan morning:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=A+Cun+Beef+Soup+Tainan&destination=Hayashi+Department+Store+Tainan&waypoints=Guohua+Street+Tainan|Chihkan+Tower+Tainan|Du+Hsiao+Yueh+Tainan&travelmode=walking)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=A+Cun+Beef+Soup+Tainan&destination=Hayashi+Department+Store+Tainan&waypoints=Guohua+Street+Tainan|Chihkan+Tower+Tainan|Grand+Matsu+Temple+Tainan|Du+Hsiao+Yueh+Tainan&travelmode=walking)
 
 **Kaohsiung afternoon/evening:**
 [View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Formosa+Boulevard+MRT+Kaohsiung&destination=Liuhe+Night+Market+Kaohsiung&waypoints=Pier-2+Art+Center+Kaohsiung|Cijin+Island+Kaohsiung&travelmode=driving)
@@ -17,6 +17,7 @@
 | 7:00 | **[★★★☆☆ 🍜 A Cun Beef Soup 阿村牛肉湯](https://www.google.com/maps/search/A+Cun+Beef+Soup+Tainan)** — Tainan BREAKFAST beef soup, Michelin-listed, fresh warm-slaughtered beef. Open Wed from ~4am (Guohua St / Bao'an Rd). ⚠️ Original pick **Six Thousand Beef Soup is CLOSED Mon–Wed** (open Thu–Sun only) — Aug 26 is Wed, so swapped. Backup: Kangle St Beef Soup. |  |
 | 8:30 | **[★★★☆☆ 🍜🚶 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan)** food crawl — Tainan's main food artery. Stall after stall. Try minced pork rice. |  |
 | 9:30 | **[★★★★☆ 🏯 Chihkan Tower](https://www.google.com/maps/search/Chihkan+Tower+Tainan)** — Dutch-built 1653. Open daily 8:30–21:30. Parts under renovation (2024–25) — still worth it. | Adult NT$70–75; student NT$35 (all 3 kids qualify) → ~NT$315 total |
+| 10:00 | **[★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan)** — 2-min walk from Chihkan; originally a Southern Ming prince's palace (1664), it became Taiwan's first official Matsu temple and holds the largest collection of antique imperial inscription boards. | Free |
 | 10:30 | **[★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan)** — Danzai noodles since 1895. Broth pot allegedly never fully cleaned in 130+ years. Opens 11am. | ~NT$100 |
 | 11:30 | **[★★★☆☆ 🛍️📸 Hayashi Department Store](https://www.google.com/maps/search/Hayashi+Department+Store+Tainan)** — 1932 building restored to 1930s glory. Teas, vintage souvenirs. Rooftop Shinto shrine (only one in Taiwan). | Free entry |
 | 12:30 | **★★☆☆☆ Snail Alley** — Hidden neighborhood with snail statues everywhere. Scavenger hunt for kids! |  |
@@ -32,14 +33,13 @@
 ## Also Nearby
 
 ### More in Tainan
-- [★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) — Originally a Southern Ming prince's palace (1664)
 - [★★☆☆☆ 🚶📸 Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Art installations in former dormitory
-- [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Food stalls, shrimp crackers near Fort Zeelandia
+- [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Food stalls, shrimp crackers by Fort Zeelandia — covered in the **Aug 25 Anping block** (it's on that side of town, not the central morning cluster)
 
 ### More in Kaohsiung
-- [★★★☆☆ 🎭 Weiwuying](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — World's largest performing arts center under one roof; family workshops
-- [★★★★☆ 🏯🏛️ Fo Guang Shan Monastery](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — Taiwan's largest Buddhist monastery; largest Buddha statue; FREE (closed Tue)
-- [★★★☆☆ 🌳🚡 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — Evening cruise; lit up at night
+- [★★★★☆ 🏯🏛️ Fo Guang Shan Monastery](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — Taiwan's largest Buddhist monastery + giant Buddha, FREE (closed Tue). ⚠️ ~40 min out in Dashu = a **half-day of its own**; it can't slot into today's packed Tainan-morning → Cijin-afternoon plan. To see it, swap the Cijin afternoon or add a Kaohsiung day.
+- [★★★☆☆ 🎭 Weiwuying](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — World's largest performing-arts center under one roof; striking free architecture, family workshops. A detour SE of the harbor/Cijin loop (also near the Aug 27 morning).
+- [★★★☆☆ 🌳🚡 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — Lit up at night; already on the **Aug 27 morning** walk (tonight's dinner is Liuhe).
 
 ### Kaohsiung Night Markets
 - [★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung) — Kaohsiung's largest and best; 500+ stalls (closed Mon & Wed — skip today, open other days)

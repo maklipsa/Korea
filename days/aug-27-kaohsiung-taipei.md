@@ -11,7 +11,7 @@
 [View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotus+Pond+Kaohsiung&destination=Love+River+Kaohsiung&waypoints=British+Consulate+Takow+Kaohsiung&travelmode=driving)
 
 **Taipei evening:**
-[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Tonghua+Night+Market+Taipei&waypoints=Taipei+Zoo|Yongkang+Street+Taipei|Yongkang+Beef+Noodles+Taipei|Dongmen+Dumplings+Taipei&travelmode=driving)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Tonghua+Night+Market+Taipei&waypoints=Taipei+Zoo|Yongkang+Street+Taipei|Yongkang+Beef+Noodles+Taipei|Din+Tai+Fung+Yongkang+Taipei|Dongmen+Dumplings+Taipei&travelmode=driving)
 
 ## Schedule
 
@@ -27,7 +27,7 @@
 | 16:00 | **Teahouses at Maokong** — Mountain Tea House or The Big Tea Pot. Sip tea overlooking the valley. |  |
 | 17:30 | Gondola back down. Optional: [★★★☆☆ 🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) at the base (NT$100 adult / NT$60 child 6-12 & students; last entry 16:00 — but today is Thu, closes 5pm, so skip). |  |
 | 18:30 | MRT to Da'an area. |  |
-| 19:00 | Farewell dinner: **[★★★★☆ 🍜🚶 Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei)** — [★★★☆☆ 🍜 Yongkang Beef Noodles](https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei) (since 1963) or [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) (pot-stickers). |  |
+| 19:00 | Farewell dinner: **[★★★★☆ 🍜🚶 Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei)** — the birthplace **[★★★★☆ 🍜 Din Tai Fung](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei)** (original Xinyi Rd flagship; the original is takeout-only now, dine-in at the 330-seat branch opposite — xiao long bao worth the queue), [★★★☆☆ 🍜 Yongkang Beef Noodles](https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei) (since 1963), or [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) (pot-stickers). |  |
 | 20:30 | **[★★★☆☆ 🏮 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei)** — Most "sophisticated" night market. Last night market of the trip! |  |
 
 ---
@@ -44,5 +44,4 @@
 
 ### Yongkang Street Extras
 - [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Since 1963; famous pot-stickers
-- [★★★★☆ 🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Original Xinyi Rd location (now takeout only); dine-in at the 330-seat branch across the street; xiao long bao
 - ☕ Mango shaved ice shops (seasonal)

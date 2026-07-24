@@ -5,7 +5,7 @@ Sunday: northeast coast tour buses run daily, Jiufen and Shifen are at peak buzz
 **Transport — the one day a "car" pays off:** Pure transit works (TRA → Ruifang, Pingxi line to Shifen, buses to Jiufen/Yehliu) but it's a real juggle for 6. Take a **day-tour bus or charter a driver/van for the day (~a few thousand NT$)** — a hired driver, not a self-drive rental.
 
 ## Route Map
-[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Yehliu+Geopark+Taiwan&destination=A-Mei+Tea+House+Jiufen&waypoints=Shifen+Old+Street+Taiwan|Shifen+Waterfall+Taiwan|Jiufen+Old+Street+Taiwan&travelmode=driving)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Yehliu+Geopark+Taiwan&destination=A-Mei+Tea+House+Jiufen&waypoints=Shifen+Old+Street+Taiwan|Shifen+Waterfall+Taiwan|Jiufen+Old+Street+Taiwan|Golden+Waterfall+Jinguashi+Taiwan|Gold+Museum+Jinguashi+Taiwan&travelmode=driving)
 
 ## Schedule
 
@@ -17,6 +17,7 @@ Sunday: northeast coast tour buses run daily, Jiufen and Shifen are at peak buzz
 | 12:30 | **[★★★☆☆ 🌊 Shifen Waterfall](https://www.google.com/maps/search/Shifen+Waterfall+Taiwan)** — Taiwan's widest, "Little Niagara." ~20 min walk from old street. Open daily 9:00-18:00 (Jun-Sep). | Free |
 | 14:00 | Travel to Jiufen (~40 min). |  |
 | 15:00 | **[★★★★★ 🚶🍜 Jiufen Old Street](https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan)** — Narrow alleys, red lanterns, Spirited Away vibes. Sunday afternoon = very crowded; the alleys get packed — stay together and mind kids in the crush. **Lai Ah Po Taro Balls** (original shop). **Ah Zhu Peanut Ice Cream Roll** (shaved peanut candy + cilantro + ice cream in a crepe — strange and delicious). |  |
+| 16:00 | *(Optional 10-min drive past Jiufen — easy with a charter or day-tour.)* **[★★★☆☆ 🏛️ Gold Museum (Jinguashi)](https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan)** — Open-air Japanese-era gold-mining town; hold a 220kg gold bar, walk a real mine tunnel (Sun 9:30–18:00). Just below it, the photogenic mineral-orange **[★★★☆☆ 🌊 Golden Waterfall](https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan)**. |  |
 | 17:00 | **[★★★★☆ 🍵🗼 A-Mei Tea House](https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen)** — 3 floors, sweeping views over Keelung Bay. Red lanterns glow at dusk. Tea set + snacks. | ~NT$350/person tea set (min charge, as of early 2026) |
 | 19:00 | Return to Taipei. |  |
 | 20:30 | Light dinner near hotel or convenience store. |  |
@@ -26,6 +27,4 @@ Sunday: northeast coast tour buses run daily, Jiufen and Shifen are at peak buzz
 ## Also Nearby
 
 ### Jinguashi (near Jiufen)
-- [★★★☆☆ 🏛️ Gold Museum](https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan) — Open-air, mostly free; gold rush era exhibits. Closed 1st Mon each month — Aug 23 is a Sunday, so **open** (Sun/holiday hours 9:30-18:00).
-- [★★★☆☆ 🌊 Golden Waterfall](https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan) — Orange-tinted waterfall from mineral deposits; very photogenic
 - ★★★☆☆ 🌳🗼 Teapot Mountain Hike — 2-3 hours; 360-degree views; doable for active 9-year-olds

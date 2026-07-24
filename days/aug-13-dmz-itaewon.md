@@ -3,8 +3,8 @@
 **Transport:** DMZ morning is a **booked guided tour with hotel pickup/drop-off** — no logistics on you. Afternoon (War Memorial → Itaewon/Hannam) is one subway ride + short walks.
 
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/126.98032,37.52395,National+Museum+of+Korea:126.99019,37.53462,Vatos+Itaewon/walk)
-[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Itaewon+Seoul&waypoints=National+Museum+Korea+Seoul&travelmode=transit)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/126.98032,37.52395,National+Museum+of+Korea:126.99381,37.53509,Maple+Tree+House:126.99019,37.53462,Vatos+Itaewon/walk)
+[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Itaewon+Seoul&waypoints=National+Museum+Korea+Seoul|Maple+Tree+House+Seoul&travelmode=transit)
 
 (DMZ is a guided tour with pickup/dropoff — not shown on map.)
 
@@ -18,7 +18,7 @@
 | 16:00 | **[★★★★☆ 🏛️🧒 National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul)** — Massive collection. Children's Museum is excellent for 9-year-olds. Beautiful grounds. **Summer hours (Jul 27-Aug 17, 2026): Thu 09:00-18:00, last entry 17:30** — ~2 hrs; focus on Children's Museum + Ten-Storey Pagoda. (Kids' Children's Museum may need a free timed reservation — check ahead.) | Free |
 | 17:30 | Walk/subway to **Itaewon/Hannam-dong** area. |  |
 | 18:00 | Cafe: [★★☆☆☆ ☕ Dotori](https://www.google.com/maps/search/Dotori+cafe+Yongsan+Seoul) (Studio Ghibli vibes, Yongridan-gil) or [★★★☆☆ 🍵 OSULLOC Tea House Hannam](https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul) (green tea, black lava rock walls). ⚠️ Anthracite Hannam is **permanently closed** (Dec 2025). |  |
-| 19:00 | Dinner: [★★☆☆☆ 🍜 Vatos Urban Tacos](https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul) (Korean-Mexican fusion) or [★☆☆☆☆ 🍜 Chompi](https://www.google.com/maps/search/Chompi+Hannam+Seoul) (poke bowls, BTS SUGA's brother's place). |  |
+| 19:00 | Dinner: **[★★★☆☆ 🍜 Maple Tree House](https://www.google.com/maps/search/Maple+Tree+House+Seoul)** — Upscale Itaewon Korean BBQ (galbi, marinated short rib), staff grill for you; the sit-down option. Or lighter: [★★☆☆☆ 🍜 Vatos Urban Tacos](https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul) (Korean-Mexican fusion) or [★☆☆☆☆ 🍜 Chompi](https://www.google.com/maps/search/Chompi+Hannam+Seoul) (poke bowls, BTS SUGA's brother's place). |  |
 
 ---
 
@@ -33,11 +33,10 @@
 
 ### More Food
 - [★★☆☆☆ 🍜 Linus' BBQ](https://www.google.com/maps/search/Linus+BBQ+Haebangchon+Seoul) — American-style BBQ on the HBC hill
-- [★★★☆☆ 🍜 Maple Tree House](https://www.google.com/maps/search/Maple+Tree+House+Seoul) — Upscale Korean BBQ
 
 ### More Museums (all FREE)
-- [★★★☆☆ 🏛️ Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) — World-class art (closed Mon)
-- [★★★☆☆ 🏛️ MMCA](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) — National Museum of Modern Art (open daily incl. Mon; Wed & Sat until 21:00)
+- [★★★☆☆ 🏛️ Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) — World-class art in Hannam (closed Mon; open Thu to 18:00). ⚠️ Doesn't fit today's timed block (you're at the National Museum until ~17:30 and Leeum shuts at 18:00) — swap it in for the National Museum only if art beats history for your group.
+- [★★★☆☆ 🏛️ MMCA](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) — National Museum of Modern Art (open daily incl. Mon; Wed & Sat until 21:00). Note: the main branch is in Sogyeok-dong (Jongno), a detour from Itaewon.
 
 ### Shopping & Stores
 - [★★☆☆☆ 🛍️ Sounds Hannam](https://www.google.com/maps/search/Sounds+Hannam+Seoul) — Trendy complex; Saint Laurent to Aesop

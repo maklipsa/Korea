@@ -93,7 +93,7 @@ Shopping, street food, city views, and hidden retro bars.
 #### Landmarks
 - [★★★★★ 🗼 N Seoul Tower (Namsan Tower)](https://www.google.com/maps/search/Namsan+Tower+Seoul) — Panoramic views; cable car ~15,000 won round-trip; 10am-11pm 📅 **Day 6 (Aug 16)**
 - [★★★☆☆ 🚡 Namsan Cable Car](https://www.google.com/maps/search/Namsan+Cable+Car+Seoul) — Scenic 3-minute gondola ride 📅 **Day 6 (Aug 16)**
-- [★★★☆☆ 🏯 Namdaemun (Sungnyemun Gate)](https://www.google.com/maps/search/Namdaemun+Gate+Seoul) — National Treasure No. 1; the Great South Gate, built 1398 📅 *near Day 6 (Aug 16)*
+- [★★★☆☆ 🏯 Namdaemun (Sungnyemun Gate)](https://www.google.com/maps/search/Namdaemun+Gate+Seoul) — National Treasure No. 1; the Great South Gate, built 1398 📅 **Day 6 (Aug 16)**
 - [★★☆☆☆ ⛪ Myeongdong Cathedral](https://www.google.com/maps/search/Myeongdong+Cathedral+Seoul) — Gothic cathedral (1898); Seoul's oldest parish church 📅 *near Day 6 (Aug 16)*
 - [★★★☆☆ 📸 Dongdaemun Design Plaza (DDP)](https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul) — Zaha Hadid-designed landmark; futuristic curves; rooftop tours bookable (new 2025) 📅 **Day 1 (Aug 11)**
 - [★★☆☆☆ 🏯 Heunginjimun (Dongdaemun Gate)](https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul) — Original Seoul Fortress gate, built 1398 📅 *near Day 1 (Aug 11)*
@@ -110,10 +110,10 @@ Shopping, street food, city views, and hidden retro bars.
 
 #### Food (no chains)
 - [★★★☆☆ 🍜 Myeongdong Kyoja](https://www.google.com/maps/search/Myeongdong+Kyoja+Seoul) — Since 1966; legendary dumplings and noodle soup; Michelin Bib Gourmand 📅 **Day 6 (Aug 16)**
-- [★★★☆☆ 🍜 Woo Lae Oak](https://www.google.com/maps/search/Woo+Lae+Oak+Seoul) — Since 1946; famous Pyongyang naengmyeon (cold buckwheat noodles) 📅 *near Day 6 (Aug 16)*
+- [★★★☆☆ 🍜 Woo Lae Oak](https://www.google.com/maps/search/Woo+Lae+Oak+Seoul) — Since 1946; famous Pyongyang naengmyeon (cold buckwheat noodles) 📅 **Day 6 (Aug 16)**
 - [★★☆☆☆ 🍜 Hadongkwan](https://www.google.com/maps/search/Hadongkwan+Seoul) — Since the 1930s; gomtang (beef bone soup) and suyuk (boiled beef) 📅 *near Day 6 (Aug 16)*
 - [★★☆☆☆ 🍜 Namdaemun Specialty Hotteok](https://www.google.com/maps/search/Namdaemun+Hotteok+Seoul) — Since 1998; honey, japchae, kimchi, and seafood hotteok varieties
-- [★★★☆☆ 🍜 Sindang-dong Tteokbokki Town](https://www.google.com/maps/search/Sindang+Tteokbokki+Town+Seoul) — Cluster of eateries; legendary tteokbokki with sundae (blood sausage) 📅 *near Day 1 (Aug 11)*
+- [★★★☆☆ 🍜 Sindang-dong Tteokbokki Town](https://www.google.com/maps/search/Sindang+Tteokbokki+Town+Seoul) — Cluster of eateries; legendary tteokbokki with sundae (blood sausage) 📅 **Day 1 (Aug 11)**
 - [★★☆☆☆ 🍜🍺 Euljiro Nogari Alley](https://www.google.com/maps/search/Euljiro+Nogari+Alley+Seoul) — Retro pub alley; dried pollock with cheap beer 📅 *near Day 6 (Aug 16)*
 
 #### Desserts & Ice Cream
@@ -213,7 +213,7 @@ International vibe, world-class free museums, cool hillside alleys.
 - [★★☆☆☆ 🍜 Vatos Urban Tacos](https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul) — Korean-Mexican fusion tacos 📅 **Day 3 (Aug 13)**
 - [★★☆☆☆ 🍜 Linus' BBQ](https://www.google.com/maps/search/Linus+BBQ+Haebangchon+Seoul) — American-style BBQ on the Haebangchon hill 📅 *near Day 3 (Aug 13)*
 - [★☆☆☆☆ 🍜 Chompi Hannam](https://www.google.com/maps/search/Chompi+Hannam+Seoul) — Poke bowls; owned by BTS SUGA's brother 📅 **Day 3 (Aug 13)**
-- [★★★☆☆ 🍜 Maple Tree House BBQ](https://www.google.com/maps/search/Maple+Tree+House+Seoul) — Upscale Korean BBQ 📅 *near Day 3 (Aug 13)*
+- [★★★☆☆ 🍜 Maple Tree House BBQ](https://www.google.com/maps/search/Maple+Tree+House+Seoul) — Upscale Korean BBQ 📅 **Day 3 (Aug 13)**
 
 #### Shopping & Stores
 - [★★☆☆☆ 🛍️ Sounds Hannam](https://www.google.com/maps/search/Sounds+Hannam+Seoul) — Trendy complex; Saint Laurent to Aesop 📅 *near Day 3 (Aug 13)*
@@ -237,7 +237,7 @@ Modern Seoul, container malls, weird cheesecake, and converted warehouses.
 
 #### Landmarks
 - [★★★☆☆ 📸 Starfield Library (COEX Mall)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) — Towering bookshelves; free 📅 **Day 8 (Aug 18)**
-- [★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul) — Large Buddhist temple across from COEX; peaceful amidst skyscrapers 📅 *near Day 8 (Aug 18)*
+- [★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul) — Large Buddhist temple across from COEX; peaceful amidst skyscrapers 📅 **Day 8 (Aug 18)**
 - [★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul) — South Korea's first shipping container mall (Seongsu) 📅 **Day 8 (Aug 18)**
 - [★★★☆☆ 🏯 Seonjeongneung Royal Tombs](https://www.google.com/maps/search/Seonjeongneung+Royal+Tombs+Seoul) — UNESCO Joseon royal tombs in middle of Gangnam 📅 *near Day 8 (Aug 18)*
 
@@ -268,7 +268,7 @@ Modern Seoul, container malls, weird cheesecake, and converted warehouses.
 - [★★★☆☆ 🛍️ COEX Mall](https://www.google.com/maps/search/COEX+Mall+Seoul) — Underground mega-mall
 
 #### Kid-Friendly
-- [★★★☆☆ 🐾🧒 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) — Seoul's largest aquarium; sharks, rays, themed zones 📅 *near Day 8 (Aug 18)*
+- [★★★☆☆ 🐾🧒 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) — Seoul's largest aquarium; sharks, rays, themed zones 📅 **Day 8 (Aug 18)**
 - [★★☆☆☆ 🎡🧒 Vaunce Trampoline Park](https://www.google.com/maps/search/Vaunce+Trampoline+Park+Samseong+Seoul) — Korea's first trampoline park; 2-hour sessions 📅 *near Day 8 (Aug 18)*
 - ★★★☆☆ 🌳🧒 Seoul Forest Park — Deer feeding, insect house, butterfly garden, playgrounds
 - 🎨 Retro self-photo studios in Seongsu (Eternalog etc.) — B&W portrait booths ~4,000-6,000 won
@@ -299,7 +299,7 @@ Theme park day + trendy food street + lakeside stroll.
 #### Kid-Friendly
 - ★★★★★ 🎡🧒 Lotte World Adventure — Theme park rides for all ages; indoor portion is weather-proof
 - ★★★★☆ 🗼 Seoul Sky — Glass-floor observation deck at 500m; highest in Korea
-- [★★★☆☆ 🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) — 90+ career role-plays for ages 4-14 📅 *near Day 7 (Aug 17)*
+- [★★★☆☆ 🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) — 90+ career role-plays for ages 4-14 📅 **Day 7 (Aug 17)**
 - ★★☆☆☆ 🌳 Seokchon Lake pedal boats — Seasonal
 - ★★☆☆☆ 🌳 Olympic Park cycling
 
@@ -380,7 +380,7 @@ Quiet, charming neighborhood west of Gyeongbokgung — old bookstores, coin lunc
 Places surfaced in a deep research pass, grouped by category rather than by day-combo. Verify seasonal/closed-day notes before slotting in. **Aug note:** Liberation Day (Aug 15) = free entry + big crowds at palaces/national museums; outdoor picks best early-AM or after 16:00; the national museums + Botanic Park greenhouse are the midday heat/rain refuges.
 
 #### A. History & Heritage
-- [★★★★☆ 🏯 Deoksugung Palace](https://www.google.com/maps/search/Deoksugung+Palace+Seoul) — Seoul's only palace mixing traditional halls with a Western stone building (Seokjojeon), beside City Hall Plaza. 9:00–21:00 (last entry 20:00), closed Mon (a handy backup — Gyeongbokgung closes Tue). 1,000 KRW, free under 19 / in hanbok. Guard change at Daehanmun 11:00/14:00/15:30. Adjoins the Doldam-gil stone-wall path + SeMA. 📅 *near Day 6 (Aug 16)*
+- [★★★★☆ 🏯 Deoksugung Palace](https://www.google.com/maps/search/Deoksugung+Palace+Seoul) — Seoul's only palace mixing traditional halls with a Western stone building (Seokjojeon), beside City Hall Plaza. 9:00–21:00 (last entry 20:00), closed Mon (a handy backup — Gyeongbokgung closes Tue). 1,000 KRW, free under 19 / in hanbok. Guard change at Daehanmun 11:00/14:00/15:30. Adjoins the Doldam-gil stone-wall path + SeMA. 📅 **Day 6 (Aug 16)**
 - [★★★★☆ 🏛️🏯 Seodaemun Prison History Hall & Independence Park](https://www.google.com/maps/search/Seodaemun+Prison+History+Hall+Seoul) — Restored Japanese-colonial prison (torture/execution grounds preserved) — Seoul's most powerful modern-history stop for kids 9+. Tue–Sun 9:30–18:00, closed Mon; ~3,000 KRW / 1,500 teen. Content is intense — gauge for the 9-year-old.
 - [★★★☆☆ 🏯🚶 Namsangol Hanok Village](https://www.google.com/maps/search/Namsangol+Hanok+Village+Seoul) — Five restored hanok + traditional garden at the foot of Namsan; free, less-crowded alternative to Bukchon. 9:00–21:00 (Mar–Oct), closed Mon; free weekend hanbok/craft events (verify). Easy combo with N Seoul Tower.
 - [★★★☆☆ 🏯 Gyeonghuigung Palace](https://www.google.com/maps/search/Gyeonghuigung+Palace+Seoul) — Seoul's "5th grand palace," the only one with FREE admission. Most of the site is now the Seoul Museum of History next door — do both. 9:00–18:00, closed Mon. Small (15–20 min), good heat-of-day filler.
@@ -518,9 +518,9 @@ Grouped by district.
 #### Landmarks & Viewpoints
 - [★★★★☆ 🌳 Haeundae Beach](https://www.google.com/maps/search/Haeundae+Beach+Busan) — Busan's most iconic 1.5km white sand beach 📅 **Day 8 (Aug 18)**
 - [★★★★★ 🏯 Haedong Yonggungsa Temple](https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan) — Oceanside temple built in 1376; reached by descending 108 stone steps; best at sunrise; free 📅 **Day 9 (Aug 19)**
-- [★★★☆☆ 🌳 Dongbaekseom (Dongbaek Island)](https://www.google.com/maps/search/Dongbaekseom+Busan) — Coastal path from Haeundae Beach; APEC Nurimaru House; free 📅 *near Day 8 (Aug 18)*
+- [★★★☆☆ 🌳 Dongbaekseom (Dongbaek Island)](https://www.google.com/maps/search/Dongbaekseom+Busan) — Coastal path from Haeundae Beach; APEC Nurimaru House; free 📅 **Day 8 (Aug 18)**
 - [★★★★☆ 🗼 Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) — Observatory floors 98-100 of LCT Tower; also world's highest Starbucks 📅 **Day 8 (Aug 18)** · *near Day 10 (Aug 20)*
-- [★★★☆☆ 🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan) — "Moonlight Hill"; art galleries, cafes, cherry trees; great sunset views 📅 *near Day 8 (Aug 18)*
+- [★★★☆☆ 🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan) — "Moonlight Hill"; art galleries, cafes, cherry trees; great sunset views 📅 **Day 8 (Aug 18)**
 
 #### Coastal Walks & Activities
 - [★★★★☆ 🚡🌳 Haeundae Blueline Park](https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan) — 4.8km along abandoned coastal railway; Beach Train or Sky Capsule (colorful pods on elevated rail); Mipo to Songjeong; BOOK SKY CAPSULE AHEAD 📅 **Day 9 (Aug 19)**
@@ -544,7 +544,7 @@ Grouped by district.
 
 ### Gwangalli District
 
-- [★★★★☆ 🌳 Gwangalli Beach](https://www.google.com/maps/search/Gwangalli+Beach+Busan) — Relaxed beach with nighttime bridge views 📅 *near Day 9 (Aug 19)*
+- [★★★★☆ 🌳 Gwangalli Beach](https://www.google.com/maps/search/Gwangalli+Beach+Busan) — Relaxed beach with nighttime bridge views 📅 **Day 9 (Aug 19)**
 - [★★★☆☆ 📸 Gwangan Bridge](https://www.google.com/maps/search/Gwangan+Bridge+Busan) — Illuminated at night in changing colors; Saturday Night Drone Shows (300+ drones; free from beach)
 - [★★☆☆☆ 🍜 Millak Raw Fish Center](https://www.google.com/maps/search/Millak+Raw+Fish+Center+Busan) — Buy fresh fish downstairs, carry upstairs to a restaurant that serves it 📅 *near Day 9 (Aug 19)*
 
@@ -581,7 +581,7 @@ Grouped by district.
 
 ### Seomyeon District
 
-- [★★★☆☆ 🍜 Seomyeon Dwaeji Gukbap Street](https://www.google.com/maps/search/Seomyeon+Dwaeji+Gukbap+Busan) — Entire street of dwaeji gukbap (pork bone soup with rice); Busan comfort food; 24 hours 📅 *near Day 9 (Aug 19)*
+- [★★★☆☆ 🍜 Seomyeon Dwaeji Gukbap Street](https://www.google.com/maps/search/Seomyeon+Dwaeji+Gukbap+Busan) — Entire street of dwaeji gukbap (pork bone soup with rice); Busan comfort food; 24 hours 📅 **Day 9 (Aug 19)**
 - [★★☆☆☆ ☕ Jeonpo Cafe Street](https://www.google.com/maps/search/Jeonpo+Cafe+Street+Busan) — Neighborhood of independent cafes 📅 *near Day 9 (Aug 19)*
 - [★★☆☆☆ 🛍️ ARTBOX Busan Seomyeon](https://www.google.com/maps/search/ARTBOX+Seomyeon+Busan) — Korean stationery, gifts, quirky novelties 📅 *near Day 9 (Aug 19)*
 - [★★☆☆☆ 🛍️ Seomyeon Underground Shopping Center](https://www.google.com/maps/search/Seomyeon+Underground+Shopping+Busan) — Trendy clothing, K-pop merch, cosmetics; affordable
@@ -596,11 +596,11 @@ Grouped by district.
 #### Coastal Walks
 - [★★★☆☆ 🌳 Taejongdae Resort Park](https://www.google.com/maps/search/Taejongdae+Busan) — Sea cliffs, Yeongdo Lighthouse, Danubi Train through the park; 2.2 miles trail 📅 *near Day 10 (Aug 20)*
 - [★★★☆☆ 🚡 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan) — 1.62km over the ocean at 86m; choose Crystal Cabin (transparent floor); 15-20 min ride 📅 *near Day 10 (Aug 20)*
-- [★★★☆☆ 🌳 Igidae Coastal Walk](https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan) — 4.7km trail; volcanic rock, sea caves; allow 2.5 hours; manageable for age 9+ 📅 *near Day 9 (Aug 19)*
-- [★★★☆☆ 🗼 Oryukdo Skywalk](https://www.google.com/maps/search/Oryukdo+Skywalk+Busan) — Glass bridge extending 35m over a cliff; free 📅 *near Day 9 (Aug 19)*
+- [★★★☆☆ 🌳 Igidae Coastal Walk](https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan) — 4.7km trail; volcanic rock, sea caves; allow 2.5 hours; manageable for age 9+ 📅 **Day 9 (Aug 19)**
+- [★★★☆☆ 🗼 Oryukdo Skywalk](https://www.google.com/maps/search/Oryukdo+Skywalk+Busan) — Glass bridge extending 35m over a cliff; free 📅 **Day 9 (Aug 19)**
 
 #### Temples
-- [★★★☆☆ 🏯 Beomeosa Temple](https://www.google.com/maps/search/Beomeosa+Temple+Busan) — "Temple of the Nirvana Fish"; built 678 AD; ancient forests; far less touristy than Haedong Yonggungsa 📅 *near Day 9 (Aug 19)*
+- [★★★☆☆ 🏯 Beomeosa Temple](https://www.google.com/maps/search/Beomeosa+Temple+Busan) — "Temple of the Nirvana Fish"; built 678 AD; ancient forests; far less touristy than Haedong Yonggungsa 📅 **Day 9 (Aug 19)**
 
 #### Kid-Friendly
 - [★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium) — 250 species; glass-bottom boat, ocean tunnel, shark/penguin feedings; also has Brickman Cities (LEGO landmarks) 📅 *near Day 10 (Aug 20)*
@@ -611,7 +611,7 @@ Grouped by district.
 
 #### Busan Desserts
 - [★★☆☆☆ ☕ Yonghodong Halme Patbingsu](https://www.google.com/maps/search/Yonghodong+Halme+Patbingsu+Busan) — Since 1983; traditional shaved ice, red beans, condensed milk 📅 *near Day 9 (Aug 19)*
-- [★★★☆☆ 🍜 Dongnae Halmae Pajeon](https://www.google.com/maps/search/Dongnae+Halmae+Pajeon+Busan) — Busan's No. 1 Folk Restaurant; four generations; crispy green onion pancake with squid 📅 *near Day 9 (Aug 19)*
+- [★★★☆☆ 🍜 Dongnae Halmae Pajeon](https://www.google.com/maps/search/Dongnae+Halmae+Pajeon+Busan) — Busan's No. 1 Folk Restaurant; four generations; crispy green onion pancake with squid 📅 **Day 9 (Aug 19)**
 
 ---
 
@@ -797,7 +797,7 @@ Must book through authorized tour company. Bring passports.
 - [★★★★★ 🌳🚡🧒 Nami Island](https://www.google.com/maps/search/Nami+Island+Gapyeong) — Metasequoia Alley; bike rentals; Sky Bikes (elevated pedal cars); craft workshops (glass blowing, ceramic painting); free-roaming ostriches, peacocks, rabbits; ZIP-LINE ENTRY across the river 📅 **Day 5 (Aug 15)**
 - [★★★★☆ 🚡🧒 Gangchon Rail Bike](https://www.google.com/maps/search/Gangchon+Rail+Bike+Gapyeong) — Pedal-powered rail cars through scenic valleys and tunnels; 8km; extremely popular with families 📅 **Day 5 (Aug 15)**
 - [★★★☆☆ 🌳 Garden of Morning Calm](https://www.google.com/maps/search/Garden+of+Morning+Calm+Gapyeong) — Beautiful botanical garden; winter lighting festival 📅 **Day 5 (Aug 15)**
-- [★★★☆☆ 📸🧒 Petite France](https://www.google.com/maps/search/Petite+France+Gapyeong) — French-themed cultural village; marionettes, music boxes; kitschy but fun for kids 📅 *near Day 5 (Aug 15)*
+- [★★★☆☆ 📸🧒 Petite France](https://www.google.com/maps/search/Petite+France+Gapyeong) — French-themed cultural village; marionettes, music boxes; kitschy but fun for kids 📅 **Day 5 (Aug 15)**
 
 ---
 
@@ -1086,9 +1086,9 @@ Old Taipei — oldest temple, historic blocks, weird ice cream, youth culture.
 
 #### Landmarks
 - [★★★☆☆ 🚶🏯 Bopiliao Historic Block](https://www.google.com/maps/search/Bopiliao+Historic+Block+Taipei) — Best-preserved historic street; Qing + Japanese architecture; free galleries; interactive heritage center; FREE 📅 **Day 11 (Aug 21)**
-- [★★★☆☆ 📸🛍️ Ximen Red House](https://www.google.com/maps/search/Ximen+Red+House+Taipei) — 1908 public market; now artisan crafts, pop-up shops, cafes 📅 *near Day 11 (Aug 21)*
+- [★★★☆☆ 📸🛍️ Ximen Red House](https://www.google.com/maps/search/Ximen+Red+House+Taipei) — 1908 public market; now artisan crafts, pop-up shops, cafes 📅 **Day 11 (Aug 21)**
 - [★★★★★ 📸🏛️ Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei) — 76m marble hall; guard-changing ceremony hourly from 9am; tai chi on grounds at dawn 📅 **Days 10, 11 (Aug 20, 21)**
-- [★★★☆☆ 🌳🏛️ 228 Peace Memorial Park](https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei) — Green oasis with National Taiwan Museum 📅 *near Day 11 (Aug 21)*
+- [★★★☆☆ 🌳🏛️ 228 Peace Memorial Park](https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei) — Green oasis with National Taiwan Museum 📅 **Day 11 (Aug 21)**
 - ★★★☆☆ 🚶 Ximending pedestrian area — Youth culture hub; street performers, graffiti, 24-hour Don Don Donki
 
 #### Desserts & Ice Cream (WEIRD STUFF!)
@@ -1096,7 +1096,7 @@ Old Taipei — oldest temple, historic blocks, weird ice cream, youth culture.
 - ★★☆☆☆ ☕ Star Fruit Ice (Chengdu Yangto Bing) in Ximending — Star fruit ice topped with peanut candy and cilantro
 
 #### Night Market
-- [★★★☆☆ 🏮 Huaxi Street Night Market (Snake Alley)](https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei) — Oldest night market; herbal soups, eel dishes; atmospheric, less crowded 📅 *near Day 11 (Aug 21)*
+- [★★★☆☆ 🏮 Huaxi Street Night Market (Snake Alley)](https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei) — Oldest night market; herbal soups, eel dishes; atmospheric, less crowded 📅 **Day 11 (Aug 21)**
 
 #### Themed Restaurants
 - [★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant](https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei) — Sit on toilet seats; food in toilet bowls; chocolate "poop" ice cream; kids will be endlessly entertained 📅 **Day 11 (Aug 21)**
@@ -1108,15 +1108,15 @@ Old Taipei — oldest temple, historic blocks, weird ice cream, youth culture.
 Taipei's oldest streets, best local night market, thrift shopping.
 
 #### Temples
-- [★★★★☆ 🏯 Dalongdong Bao-An Temple](https://www.google.com/maps/search/Dalongdong+Bao-An+Temple+Taipei) — UNESCO Heritage Award; spectacular courtyard; Taipei's finest temple 📅 *near Day 11 (Aug 21)*
-- [★★★☆☆ 🏯 Taipei Confucius Temple](https://www.google.com/maps/search/Taipei+Confucius+Temple) — Next door to Bao-An; elegant Southern Fujian-style 📅 *near Day 11 (Aug 21)*
+- [★★★★☆ 🏯 Dalongdong Bao-An Temple](https://www.google.com/maps/search/Dalongdong+Bao-An+Temple+Taipei) — UNESCO Heritage Award; spectacular courtyard; Taipei's finest temple 📅 **Day 11 (Aug 21)**
+- [★★★☆☆ 🏯 Taipei Confucius Temple](https://www.google.com/maps/search/Taipei+Confucius+Temple) — Next door to Bao-An; elegant Southern Fujian-style 📅 **Day 11 (Aug 21)**
 
 #### Landmarks & Streets
 - [★★★★☆ 🚶🛍️ Dihua Street](https://www.google.com/maps/search/Dihua+Street+Taipei) — Taipei's oldest commercial street (1850s); Baroque facades; dried goods, herbs, tea, Chinese medicine in old-timey packaging 📅 **Day 11 (Aug 21)**
-- [★★★☆☆ 🚶🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei) — Container bars, street food, sunset views 📅 *near Day 11 (Aug 21)*
+- [★★★☆☆ 🚶🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei) — Container bars, street food, sunset views 📅 **Day 11 (Aug 21)**
 - [★★☆☆☆ 🛍️ Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei) — Thrift shops, quirky cafes, indie accessories 📅 **Day 18 (Aug 28)** · *near Day 11 (Aug 21)*
 - [★★☆☆☆ 🛍️ Zhongshan Underground Book Street (Eslite R79)](https://www.google.com/maps/search/Eslite+R79+Taipei) — Underground mall with bookshops, vinyl records, stationery, souvenirs 📅 **Day 18 (Aug 28)** · *near Day 11 (Aug 21)*
-- [★★★☆☆ 🎡🗼 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — 95-meter Ferris wheel; great sunset views 📅 *near Day 14 (Aug 24)*
+- [★★★☆☆ 🎡🗼 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — 95-meter Ferris wheel; great sunset views 📅 **Day 14 (Aug 24)**
 
 #### Cafes
 - [★★☆☆☆ ☕ ABCD (A Better Coffee & Doughnuts)](https://www.google.com/maps/search/ABCD+cafe+Taipei) — Giant doughnut entrance; creative doughnuts 📅 *near Day 11 (Aug 21)*
@@ -1136,7 +1136,7 @@ Modern Taipei, the iconic tower, best food street in Asia, night markets.
 
 #### Landmarks
 - [★★★★★ 🗼 Taipei 101](https://www.google.com/maps/search/Taipei+101) — Observation deck floors 88-89; outdoor deck floor 91 📅 **Day 12 (Aug 22)**
-- [★★★☆☆ 🎨🛍️ Songshan Cultural and Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei) — Former tobacco factory; pop-up galleries, boutique shops 📅 *near Day 12 (Aug 22)*
+- [★★★☆☆ 🎨🛍️ Songshan Cultural and Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei) — Former tobacco factory; pop-up galleries, boutique shops 📅 **Day 12 (Aug 22)**
 - [★★☆☆☆ 🚶🛍️ 44 South Military Village (Si Si Nan Cun)](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Retro village; cafes, handmade goods, exhibitions 📅 *near Day 12 (Aug 22)*
 - [★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Grand colorful Mazu temple beside Raohe Night Market 📅 *near Day 12 (Aug 22)*
 
@@ -1148,7 +1148,7 @@ Modern Taipei, the iconic tower, best food street in Asia, night markets.
 - [★★★★☆ 🍜 Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei) — Named 4th coolest street in world by TimeOut; #1 in Asia 📅 **Day 17 (Aug 27)**
   - [★★★☆☆ 🍜 Yongkang Beef Noodles](https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei) — Since 1963; rich broth; open 11am-8:30pm 📅 **Day 17 (Aug 27)**
   - [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Since 1963; famous pot-stickers 📅 **Day 17 (Aug 27)** · *near Day 12 (Aug 22)*
-  - [★★★★☆ 🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Original location (takeout only as of 2025); grab xiao long bao and eat in the park 📅 *near Days 12, 17 (Aug 22, 27)*
+  - [★★★★☆ 🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Original location (takeout only as of 2025); grab xiao long bao and eat in the park 📅 **Day 17 (Aug 27)** · *near Day 12 (Aug 22)*
 
 #### Night Markets
 - [★★★★☆ 🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei) — Rated Taipei's best for foodies; 6 Michelin-awarded stalls; Fuzhou Black Pepper Buns at entrance (perpetual line) 📅 **Day 12 (Aug 22)**
@@ -1160,8 +1160,8 @@ Modern Taipei, the iconic tower, best food street in Asia, night markets.
 #### Shopping
 - [★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — 1960s apartments now hosting indie boutiques and roaster cafes 📅 *near Day 12 (Aug 22)*
 - [★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Garment district; teen clothing at wholesale prices 📅 *near Day 12 (Aug 22)*
-- [★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) — Taipei's most popular pineapple-cake bakery (Nanjing E Rd, Songshan); daily ~08:30–20:30, expect queues — go early. Essential souvenir stop. 📅 **Day 19 (Aug 29)** · *near Day 18 (Aug 28)*
-- [★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei) — 100% pineapple filling; free tasting with a cup of oolong (Minsheng flagship, Songshan); daily ~10:00–20:00 📅 **Day 19 (Aug 29)** · *near Day 18 (Aug 28)*
+- [★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) — Taipei's most popular pineapple-cake bakery (Nanjing E Rd, Songshan); daily ~08:30–20:30, expect queues — go early. Essential souvenir stop. 📅 **Day 19 (Aug 29)** · **Day 18 (Aug 28)**
+- [★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei) — 100% pineapple filling; free tasting with a cup of oolong (Minsheng flagship, Songshan); daily ~10:00–20:00 📅 **Day 19 (Aug 29)** · **Day 18 (Aug 28)**
 
 ---
 
@@ -1205,13 +1205,13 @@ Natural hot springs in the morning, tea plantations and gondola in the afternoon
 - [★★★☆☆ 🎨🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei) — Abandoned settlement turned artists' colony; robot workshops, neon installations, outdoor sculptures 📅 **Day 18 (Aug 28)**
 - [★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) — Former coal-mining town; hundreds of friendly cats; cat-shaped bridges; easy train from Taipei 📅 **Day 18 (Aug 28)**
 - ★★★☆☆ 📸🧒 Airport Alley (Songshan Airport) — Watch planes land just meters away; free, thrilling for kids
-- [★★★☆☆ 🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) — Taiwan's biggest; exclusive merchandise 📅 *near Day 12 (Aug 22)*
-- [★★★☆☆ 🎁🧒 Donguri Republic (Studio Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Top floor Shin Kong Mitsukoshi A8; huge Totoro cat bus kids can enter 📅 *near Day 12 (Aug 22)*
+- [★★★☆☆ 🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) — Taiwan's biggest; exclusive merchandise 📅 **Day 12 (Aug 22)**
+- [★★★☆☆ 🎁🧒 Donguri Republic (Studio Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Top floor Shin Kong Mitsukoshi A8; huge Totoro cat bus kids can enter 📅 **Day 12 (Aug 22)**
 - [★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum of Cake and Pastry](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei) — 2-hour pineapple cake baking class; make iconic Taiwanese pineapple cakes from scratch 📅 **Day 18 (Aug 28)**
 
 #### Themed Cafes
 - [★★☆☆☆ ☕ Alice is Coming Cafe](https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei) — Wonderland-themed; immersive restrooms 📅 *near Days 14, 18 (Aug 24, 28)*
-- [★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei) — Taipei's first capybara cafe; plus rabbits, ducks 📅 *near Days 14, 18 (Aug 24, 28)*
+- [★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei) — Taipei's first capybara cafe; plus rabbits, ducks 📅 **Day 18 (Aug 28)** · *near Day 14 (Aug 24)*
 
 #### Bubble Tea & Desserts
 - [★★★☆☆ 🧋 50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — One of Taiwan's most iconic local boba chains; pearl milk tea essential 📅 *near Days 12, 14 (Aug 22, 24)*
@@ -1219,7 +1219,7 @@ Natural hot springs in the morning, tea plantations and gondola in the afternoon
 - [★★☆☆☆ ☕ Nice Cream](https://www.google.com/maps/search/Nice+Cream+Taipei) — Vegan gelato; Earl Grey waffle; daily rotating flavors 📅 *near Days 14, 18 (Aug 24, 28)*
 
 #### More Night Markets
-- [★★★☆☆ 🏮 Nanjichang Night Market](https://www.google.com/maps/search/Nanjichang+Night+Market+Taipei) — Most local feeling; Michelin-rated stalls; Smelly Boss (stinkiest stinky tofu); Taiwanese burritos (Run Bing) 📅 *near Day 11 (Aug 21)*
+- [★★★☆☆ 🏮 Nanjichang Night Market](https://www.google.com/maps/search/Nanjichang+Night+Market+Taipei) — Most local feeling; Michelin-rated stalls; Smelly Boss (stinkiest stinky tofu); Taiwanese burritos (Run Bing) 📅 **Day 11 (Aug 21)**
 
 ---
 
@@ -1247,7 +1247,7 @@ Grouped by category; several cluster near existing plans (many are ~15 min from 
 - [★★★☆☆ 🏛️🧒 Postal Museum](https://www.google.com/maps/search/Postal+Museum+Taipei) — Interactive stamp-printing/mail-sorting exhibits near CKS Hall; ~NT$20–30, closed Mon. A good 45-min AC break.
 
 #### C. Art
-- [★★★★★ 🎨🧒📸 Huashan 1914 Creative Park + teamLab Future Park](https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei) — A former factory turned Taipei's main creative-arts complex (park entry free); hosts a long-running teamLab "Future Park" immersive digital installation — huge for the 9/11-year-olds. ⚠️ Verify it's still running in Aug 2026 (extended repeatedly) and book timed tickets. 📅 *near Day 18 (Aug 28)*
+- [★★★★★ 🎨🧒📸 Huashan 1914 Creative Park + teamLab Future Park](https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei) — A former factory turned Taipei's main creative-arts complex (park entry free); hosts a long-running teamLab "Future Park" immersive digital installation — huge for the 9/11-year-olds. ⚠️ Verify it's still running in Aug 2026 (extended repeatedly) and book timed tickets. 📅 **Day 18 (Aug 28)**
 - [★★★★☆ 🏛️🎨 Taipei Fine Arts Museum (TFAM)](https://www.google.com/maps/search/Taipei+Fine+Arts+Museum+Taipei) — Taiwan's leading modern-art museum; 2026 shows include a Ryuichi Sakamoto sound/media exhibition and "Surrealism: Worlds in Dialogue." Tue–Fri & Sun 9:30–17:30, Sat to 20:30 (free Sat 17:00–20:30), closed Mon.
 - [★★★☆☆ 🏛️🎨 Museum of Contemporary Art Taipei (MOCA)](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei) — Contemporary art in a charming 1900s former-school building near Zhongshan. NT$100; Tue–Sun 10:00–18:00 (last entry 17:30), closed Mon.
 - [★★★☆☆ 🎨 C-LAB (Taiwan Contemporary Culture Lab)](https://www.google.com/maps/search/C-LAB+Taipei) — Free experimental art/culture campus on the former Air Force HQ site; "Creative Expo Taiwan 2026" runs Aug 1–31, spanning the whole Taipei stay.
@@ -1376,14 +1376,14 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 - Arrive early (before 9am) or go in evening; holiday traffic controls enforced
 
 ### Jinguashi
-- [★★★☆☆ 🏛️ Gold Museum](https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan) — Open-air, mostly free; gold rush era exhibits 📅 *near Day 13 (Aug 23)*
+- [★★★☆☆ 🏛️ Gold Museum](https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan) — Open-air, mostly free; gold rush era exhibits 📅 **Day 13 (Aug 23)**
 - ★★★☆☆ 🌳 Teapot Mountain Hike — 2-3 hours; 360-degree views; doable for active 9-year-olds
 
 ### Yehliu
 - [★★★★☆ 🌊🧒 Yehliu Geopark](https://www.google.com/maps/search/Yehliu+Geopark+Taiwan) — Otherworldly rock formations; the Queen's Head; kids love the alien-landscape quality; 1-2 hours 📅 **Day 13 (Aug 23)**
 
 ### Other
-- [★★★☆☆ 🌊 Golden Waterfall](https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan) — Orange-tinted waterfall from mineral deposits; very photogenic 📅 *near Day 13 (Aug 23)*
+- [★★★☆☆ 🌊 Golden Waterfall](https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan) — Orange-tinted waterfall from mineral deposits; very photogenic 📅 **Day 13 (Aug 23)**
 
 ---
 
@@ -1393,7 +1393,7 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 
 ### Temples
 - [★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple) — Built 1665; Taiwan's oldest; 15 buildings 📅 *near Day 15 (Aug 25)*
-- [★★★☆☆ 🏯 Grand Matsu Temple (Da Tianhou Gong)](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) — Originally a Southern Ming prince's palace (1664); largest collection of ancient inscription boards 📅 *near Days 15, 16 (Aug 25, 26)*
+- [★★★☆☆ 🏯 Grand Matsu Temple (Da Tianhou Gong)](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) — Originally a Southern Ming prince's palace (1664); largest collection of ancient inscription boards 📅 **Day 16 (Aug 26)** · *near Day 15 (Aug 25)*
 - [★★★★☆ 🏯 Chihkan Tower (Fort Provintia)](https://www.google.com/maps/search/Chihkan+Tower+Tainan) — Dutch-built 1653; beautiful illuminated at night 📅 **Day 16 (Aug 26)**
 - [★★★☆☆ 🏯 Koxinga Shrine](https://www.google.com/maps/search/Koxinga+Shrine+Tainan) — Red-and-gold shrine to the hero who expelled the Dutch 📅 *near Day 15 (Aug 25)*
 
@@ -1410,7 +1410,7 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 ### Historic Streets
 - [★★★★☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan) — Qing Dynasty-era; trendy cafes in old buildings; annual lantern festival; beautiful day and night 📅 **Day 15 (Aug 25)**
 - ★★☆☆☆ 🚶🤪 Snail Alley — Hidden neighborhood; snail statues everywhere; turn it into scavenger hunt with kids
-- [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Near Fort Zeelandia; food stalls, shrimp crackers 📅 *near Day 16 (Aug 26)*
+- [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Near Fort Zeelandia; food stalls, shrimp crackers 📅 **Day 15 (Aug 25)**
 
 ### Landmarks
 - [★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan) — Warehouse consumed by banyan tree roots; walk through intertwined trees; daily 8:30am-5:30pm; Ninao ice cream on site 📅 **Day 15 (Aug 25)**
@@ -1437,7 +1437,7 @@ Grouped by category. **Aug note:** peak heat + typhoon season; the whole Tainan/
 
 #### A. History & Heritage
 - [★★★★☆ 🏯 Kaiyuan Temple](https://www.google.com/maps/search/Kaiyuan+Temple+Tainan) — Tainan's largest/oldest Buddhist temple complex (converted 1690 from a Ming-loyalist prince's residence); Taiwan's oldest bronze bell (1695) and huge banyan-shaded courtyards. National monument, free, ~30–60 min. Quieter than the Confucius Temple.
-- [★★★★☆ 🏯📸 Eternal Golden Castle (Erkunshen Fort)](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan) — A Qing-dynasty star-shaped fortress (1874–76, by a French military architect) with cannons, moat and drawbridge — a *different* fort from Fort Zeelandia. ~NT$50 (verify). A 5-min walk from the Anping Treehouse cluster. 📅 *near Day 15 (Aug 25)*
+- [★★★★☆ 🏯📸 Eternal Golden Castle (Erkunshen Fort)](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan) — A Qing-dynasty star-shaped fortress (1874–76, by a French military architect) with cannons, moat and drawbridge — a *different* fort from Fort Zeelandia. ~NT$50 (verify). A 5-min walk from the Anping Treehouse cluster. 📅 **Day 15 (Aug 25)**
 - [★★★☆☆ 🏯🤪 Taiwanfu City God Temple](https://www.google.com/maps/search/Taiwanfu+City+God+Temple+Tainan) — Atmospheric "underworld bureaucracy" temple with a giant abacus for tallying the deceased's good/bad deeds; the older kids (11/15) find the dark, spooky vibe memorable. 10-min walk SW of the station. Free.
 - [★★★☆☆ 🏯 Anping Grand Mazu Temple](https://www.google.com/maps/search/Anping+Grand+Mazu+Temple+Tainan) — Claimed oldest continuously-operating Matsu temple in Taiwan (Song-dynasty wooden stools among the relics). Easy add near the Anping Old Fort/Treehouse loop.
 - [★★★☆☆ 🏯 Wufei Temple (Temple of Five Concubines)](https://www.google.com/maps/search/Wufei+Temple+Tainan) — A small, serene shrine/tomb to five consorts of the last Ming-loyalist prince who took their own lives when the Qing took Taiwan (1683); poignant, quiet, shaded. Free, ~15 min.

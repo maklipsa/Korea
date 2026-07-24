@@ -13,7 +13,7 @@
 [View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Rainbow+Village+Taichung&destination=Taichung+Second+Market&waypoints=Miyahara+Ice+Cream+Taichung|National+Taichung+Theater&travelmode=driving)
 
 **Tainan (Anping area):**
-[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Fort+Zeelandia+Tainan&destination=Dadong+Night+Market+Tainan&waypoints=Anping+Treehouse+Tainan|Zhous+Shrimp+Rolls+Anping+Tainan|Tongji+Tofu+Pudding+Anping+Tainan|Shennong+Street+Tainan&travelmode=driving)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Fort+Zeelandia+Tainan&destination=Dadong+Night+Market+Tainan&waypoints=Anping+Treehouse+Tainan|Eternal+Golden+Castle+Tainan|Zhous+Shrimp+Rolls+Anping+Tainan|Tongji+Tofu+Pudding+Anping+Tainan|Shennong+Street+Tainan&travelmode=driving)
 
 ## Schedule
 
@@ -26,7 +26,7 @@
 | 12:30 | Lunch: **[★★★☆☆ 🍜🛍️ Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market)** — Historic market. Century-old braised pork rice stalls. |  |
 | 13:30 | **HSR Taichung → Tainan** (~40 min). Retrieve luggage from lockers first. | HSR Pass |
 | ~14:15 | Arrive **Tainan HSR** — station is ~17 km east of town; ~30–40 min by **taxi** to Anping (buses much slower). Drop luggage at hotel en route, then straight to Anping. |  |
-| 15:15 | **Anping area** — do the two forts FIRST (both close ~17:10–17:30), snacks after: [★★★☆☆ 🏯 Fort Zeelandia](https://www.google.com/maps/search/Fort+Zeelandia+Tainan) (Dutch 1624, NT$70, **closes 17:10**) → [★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan) (warehouse consumed by banyan roots — walk through the intertwined trees, NT$70, **closes 5:30pm!**) → [★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan) → [★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan). Kids/students half price (NT$35 each). | ~NT$140 |
+| 15:15 | **Anping area** — do the forts FIRST (all close ~17:10–17:30), snacks after: [★★★☆☆ 🏯 Fort Zeelandia](https://www.google.com/maps/search/Fort+Zeelandia+Tainan) (Dutch 1624, NT$70, **closes 17:10**) → [★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan) (warehouse consumed by banyan roots — walk through the intertwined trees, NT$70, **closes 5:30pm!**) → **[★★★★☆ 🏯📸 Eternal Golden Castle](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan)** (star-shaped 1874 Qing fort with cannons, moat & drawbridge — a *different* fort, ~5-min walk from the Treehouse; ~NT$50, closes ~17:30) → [★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan) → [★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan) — these snack shops line historic **[★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan)** (shrimp crackers, dried-seafood souvenirs). Kids/students half price. | ~NT$190 |
 | 18:00 | **[★★★★☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan)** — Qing Dynasty-era. Beautiful day and night. Cafes in century-old buildings. |  |
 | 19:00 | **[★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan)** — ~300 stalls (open Mon/Tue/Fri, 6pm-1:30am. **Tue = open!**). Ancient Scallion Pancake truck (most popular stall). | ~NT$200-400/person |
 
@@ -41,8 +41,7 @@
 - [★★★★☆ 🏮 Fengjia Night Market](https://www.google.com/maps/search/Fengjia+Night+Market+Taichung) — Taiwan's largest by area; hundreds of stalls until ~2am
 
 ### More in Tainan
-- [★★★★☆ 🏯📸 Eternal Golden Castle (Erkunshen Fort)](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan) — **Near-zero-detour alternative/add to the Anping fort block** (~5-min walk from Anping Treehouse). Star-shaped 1874 Qing fort with cannons, moat & drawbridge — a *different* fort from Fort Zeelandia. ~NT$50, kids/students half price. Open daily ~8:30–17:30.
-- [★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple) — Built 1665; Taiwan's oldest; 15 buildings
+- [★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple) — Built 1665; Taiwan's oldest; 15 buildings (central Tainan — see the Aug 26 morning temple crawl)
 - [★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) — Originally a Southern Ming prince's palace (1664)
 - [★★★☆☆ 🏯 Koxinga Shrine](https://www.google.com/maps/search/Koxinga+Shrine+Tainan) — Red-and-gold shrine to the hero who expelled the Dutch
 - [★★☆☆☆ 🎨🚶 Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Former judicial dormitory; art installations
