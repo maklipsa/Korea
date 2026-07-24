@@ -1,6 +1,6 @@
 # Aug 14 (Fri) — HONGDAE + YEONNAM + MANGWON
 
-Animal cafes, weird ice cream, 3D illusion art, street performers.
+Animal cafes, weird ice cream, street performers.
 
 **Transport (short, flat hops — bike-friendly):** Mangwon → Yeonnam → Hongdae are flat 1–3 km stretches — walk, or grab **Ttareungi** public bikes (rules & age/size caveats under Passes).
 
@@ -40,7 +40,7 @@ Animal cafes, weird ice cream, 3D illusion art, street performers.
 - [★☆☆☆☆ 🍜 Oshi](https://www.google.com/maps/search/Oshi+Mangwon+Seoul) — Osaka-style okonomiyaki
 
 ### More to See
-- [★★★★☆ 🎨📸🧒 Trickeye Museum (3D Illusion Art) + Ice Museum](https://www.google.com/maps/search/Trickeye+Museum+Hongdae+Seoul) — Interactive trompe-l'oeil / AR photo museum; combo ticket includes the Ice Museum. Open 9:00–21:00 (last entry 20:00); ~15,000–18,000 KRW, **free on the Discover Seoul Pass**. Walk-in, ~8 min from Hongik Univ. Stn Exit 9. *(Optional swap-in for the old escape-room slot.)*
+- [★★☆☆☆ 📸🧒 Trickeye Museum (trick-art selfie spot) + Ice Museum](https://www.google.com/maps/search/Trickeye+Museum+Hongdae+Seoul) — Optical-illusion trick-art you pose *inside* for photos — a fun Instagram stop for the 9 & 11-yr-olds, **not a real gallery/culture stop**. Combo w/ Ice Museum; open 9:00–21:00 (last entry 20:00); ~15,000–18,000 KRW, free on the Discover Seoul Pass; walk-in, ~8 min from Hongik Univ. Stn Exit 9.
 - [★★☆☆☆ 🛍️🧒 Hongdae Children's Playground](https://www.google.com/maps/search/Hongdae+Playground+Seoul) — Weekend flea market; street performers
 - [★★☆☆☆ 🌳 Mangwon Hangang Park](https://www.google.com/maps/search/Mangwon+Hangang+Park+Seoul) — Riverside cycling and picnics
 - [★★☆☆☆ 🛍️ Hongdae Free Market](https://www.google.com/maps/search/Hongdae+Free+Market+Seoul) — Weekend handmade goods

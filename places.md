@@ -180,7 +180,7 @@ Connected via Gyeongui Line Forest Park — indie culture, animal cafes, weird i
 #### Kid-Friendly
 - ★★★☆☆ ☕🧒 943 Kings Cross Harry Potter Cafe — 7 floors of wizarding world
 - ☕🐾🧒 Animal cafes (Table A, Meerkat Friends, Thanks Nature)
-- [★★★★☆ 🎨📸🧒 Trickeye Museum (3D Illusion Art) + Ice Museum](https://www.google.com/maps/search/Trickeye+Museum+Hongdae+Seoul) — Interactive trompe-l'oeil / AR photo museum; combo w/ Ice Museum; open 9am–9pm (last entry 8pm); ~15,000-18,000 won, free on Discover Seoul Pass 📅 *near Day 4 (Aug 14)*
+- [★★☆☆☆ 📸🧒 Trickeye Museum (trick-art selfie spot) + Ice Museum](https://www.google.com/maps/search/Trickeye+Museum+Hongdae+Seoul) — Optical-illusion trick-art you pose inside for photos; fun kids' Instagram stop, **not a gallery/culture stop**; combo w/ Ice Museum; open 9am–9pm (last entry 8pm); ~15,000-18,000 won, free on Discover Seoul Pass 📅 *near Day 4 (Aug 14)*
 - 🎭 Street busking performances — Free entertainment weekend evenings
 - 🎨 Self-photo studios — Retro black-and-white photo booths throughout Hongdae
 
@@ -450,10 +450,12 @@ A second, more niche pass — galleries, extra mountains, specialty food streets
 
 #### B. Museums
 - [★★★★☆ 🏛️🧒 Seoul Robot & AI Museum (RAIM)](https://www.google.com/maps/search/Seoul+Robot+AI+Museum+Seoul) — New (Oct 2024), spherical mirror-shell building "built by robots," in Dobong-gu (far north). 1F AI Garden free; 3F ₩2,000 adult / free kids & teens — 100% advance reservation via Seoul Public Service Reservation. Tue–Sun 9:30–19:30. Big robot-kid magic; budget travel time.
+- [★★★★☆ 📷🏛️ Photography Seoul Museum of Art (Photo SeMA)](https://www.google.com/maps/search/Photography+Seoul+Museum+of+Art+Chang-dong+Seoul) — Korea's first **public museum devoted entirely to photography** (opened 2025), bold new building in Dobong (Chang-dong), 3 min from Chang-dong Stn (Lines 1 & 4). **"We Are Martin Parr" Jul 16–Oct 18, 2026** (major Magnum retrospective). Weekdays 10:00–20:00, Sat/Sun/holidays 10:00–19:00 (summer), last entry 1h before close, closed Mon; **admission free**. Direct Line 4 down to Myeongdong. 📅 *near Day 6 (Aug 16)*
 - [★★★☆☆ 🏛️ Korean Film Archive & Museum (DMC)](https://www.google.com/maps/search/Korean+Film+Archive+Sangam+Seoul) — Free permanent exhibit on Korean cinema + Cinematheque KOFA (₩3,000–5,000). Tue–Sat 10:30–19:00. Niche rainy-day option.
 - [★★★☆☆ 🏛️🎨 Amorepacific Museum of Art (APMA)](https://www.google.com/maps/search/Amorepacific+Museum+of+Art+Yongsan+Seoul) — Free rotating contemporary art in the David Chipperfield-designed HQ, Yongsan. Tue–Sun 10:00–18:00, closed Mon. Current show ends ~Aug 2, 2026 — check for the next one.
 
 #### C. Art
+- [★★★★☆ 📷🏛️ Museum Hanmi (Samcheong)](https://www.google.com/maps/search/Museum+Hanmi+Samcheong+Seoul) — Korea's first **fine-art photography museum** (est. 2003); a genuine gallery of photographs in a striking Samcheong-dong building, steps from Kukje/MMCA. Tue–Sun 10:00–18:00 (last entry ~17:00), closed Mon; adults 15,000 / youth 7–18 7,500 won. 📅 **Day 2 (Aug 12)**
 - [★★★★☆ 🏛️🎨 Kukje Gallery](https://www.google.com/maps/search/Kukje+Gallery+Seoul) — Seoul's leading contemporary gallery (since 1982), Sogyeok-dong near Gyeongbokgung; K1/K2/K3 buildings + sculpture garden, free, world-class rotating shows. Mon–Sat 10–18, Sun 10–17. 📅 **Day 2 (Aug 12)**
 - [★★★☆☆ 🏛️🎨 PKM Gallery](https://www.google.com/maps/search/PKM+Gallery+Seoul) — Influential Korean-artist gallery, steps from Kukje in the Samcheong cluster. Free.
 - [★★★☆☆ 🏛️🎨 Hakgojae Gallery](https://www.google.com/maps/search/Hakgojae+Gallery+Seoul) — Traditional-meets-contemporary Korean art, Samcheong-ro. Tue–Sat 10–18, free.
@@ -521,6 +523,9 @@ Grouped by district.
 - [★★★☆☆ 🌳 Dongbaekseom (Dongbaek Island)](https://www.google.com/maps/search/Dongbaekseom+Busan) — Coastal path from Haeundae Beach; APEC Nurimaru House; free 📅 **Day 8 (Aug 18)**
 - [★★★★☆ 🗼 Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) — Observatory floors 98-100 of LCT Tower; also world's highest Starbucks 📅 **Day 8 (Aug 18)** · *near Day 10 (Aug 20)*
 - [★★★☆☆ 🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan) — "Moonlight Hill"; art galleries, cafes, cherry trees; great sunset views 📅 **Day 8 (Aug 18)**
+
+#### Art & Photography
+- [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) — Busan's dedicated **fine-art photography museum** (Haeundae, near the beach); a genuine gallery of photographs. **Free**; 10:00–18:00, **closed Mon**. ⏰ Opens 10:00 — on the packed Aug 19 day it competes with the Haeundae morning; the natural trade is the paid Sky Capsule ride for this. 📅 *near Day 9 (Aug 19)*
 
 #### Coastal Walks & Activities
 - [★★★★☆ 🚡🌳 Haeundae Blueline Park](https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan) — 4.8km along abandoned coastal railway; Beach Train or Sky Capsule (colorful pods on elevated rail); Mipo to Songjeong; BOOK SKY CAPSULE AHEAD 📅 **Day 9 (Aug 19)**
@@ -1089,6 +1094,7 @@ Old Taipei — oldest temple, historic blocks, weird ice cream, youth culture.
 - [★★★☆☆ 📸🛍️ Ximen Red House](https://www.google.com/maps/search/Ximen+Red+House+Taipei) — 1908 public market; now artisan crafts, pop-up shops, cafes 📅 **Day 11 (Aug 21)**
 - [★★★★★ 📸🏛️ Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei) — 76m marble hall; guard-changing ceremony hourly from 9am; tai chi on grounds at dawn 📅 **Days 10, 11 (Aug 20, 21)**
 - [★★★☆☆ 🌳🏛️ 228 Peace Memorial Park](https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei) — Green oasis with National Taiwan Museum 📅 **Day 11 (Aug 21)**
+- [★★★★☆ 📷🏛️ National Center of Photography and Images (NCPI)](https://www.google.com/maps/search/National+Center+of+Photography+and+Images+Taipei) — Taiwan's **national photography museum** in a restored 1937 Japanese-era building, ~10 min from Taipei Main / next to Ximending; genuine galleries of photographs. Tue–Sun 10:00–18:00, closed Mon; **FREE** 📅 **Day 11 (Aug 21)**
 - ★★★☆☆ 🚶 Ximending pedestrian area — Youth culture hub; street performers, graffiti, 24-hour Don Don Donki
 
 #### Desserts & Ice Cream (WEIRD STUFF!)
@@ -1428,6 +1434,7 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 
 ### Museum
 - [★★★☆☆ 🏛️ Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum) 📅 **Day 16 (Aug 26)**
+- [★★★☆☆ 📷🏛️ Fotoaura Institute of Photography (海馬迴光畫館)](https://www.google.com/maps/search/Fotoaura+Institute+of+Photography+Tainan) — Small independent photography art space (est. 2009), 2F 83 Chenggong Rd; genuine gallery of photographs. Wed–Sun ~13:00–20:00 (⚠️ verify — hours data is dated). ⚠️ Opens 13:00 but Tainan is only an Aug 26 *morning* stop → unlikely to fit; catalogued for reference. 📅 *near Day 16 (Aug 26)*
 
 ---
 

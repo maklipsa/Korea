@@ -41,6 +41,9 @@ Wednesday: Jagalchi open (closed 1st/3rd Tue → Aug 4 & 18; not the 19th). Gukj
 
 ## Also Nearby
 
+### Haeundae — Photography / Culture
+- [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) — Busan's dedicated **fine-art photography museum**, in Haeundae (16 Haeundae-ro 452beon-gil, near the beach). A genuine gallery of photographs; **free**, 10:00–18:00, **closed Mon** (Wed Aug 19 OK). ⏰ Opens 10:00, so it only fits if you slow the Haeundae morning — the natural trade is the paid **Sky Capsule** ride (a photo-op, not culture) for this. Highly recommended for this family.
+
 ### Gamcheon Extras
 - [★★☆☆☆ ☕🏛️ Cafe Avant Garde](https://www.google.com/maps/search/Cafe+Avant+Garde+Gamcheon+Busan) — Retro/vintage records and radios; also a gallery
 - ★★☆☆☆ 📸 BTS Mural (Jungkook and Jimin) — Popular photo spot

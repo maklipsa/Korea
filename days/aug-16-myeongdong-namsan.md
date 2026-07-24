@@ -5,6 +5,8 @@
 
 **Transport:** Cable car up Namsan, then walking; Myeongdong / Namdaemun / Euljiro are one walkable cluster. Hilly around Namsan — not a bike day.
 
+**Optional culture detour — "We Are Martin Parr" at Photo SeMA:** For the photography lovers, open the day up north at the **[★★★★☆ 📷🏛️ Photography Seoul Museum of Art (Photo SeMA)](https://www.google.com/maps/search/Photography+Seoul+Museum+of+Art+Chang-dong+Seoul)** in Dobong — Korea's first *public* museum devoted entirely to photography (bold new building, opened 2025), now showing **"We Are Martin Parr" (Jul 16–Oct 18, 2026)**, a major Magnum retrospective on during your trip. Sun 10:00–19:00 (last entry 18:00), closed Mon, **admission free**. 3 min from Chang-dong Stn (Lines 1 & 4); from there a **direct Line 4** ride runs straight down to Myeongdong/Namsan (~35 min). Trade-off: doing it at 10:00 opening pushes Namsan Tower to early afternoon — worth it for a dedicated photography museum + Martin Parr.
+
 ## Route Map
 [View route on Naver Map](https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/126.98828,37.55127,N+Seoul+Tower:126.97528,37.56000,Namdaemun+Gate:126.97735,37.55928,Namdaemun+Market:126.97517,37.56617,Deoksugung:126.97381,37.56416,SeMA:126.98845,37.56657,Coffee+Hanyakbang:126.99528,37.56913,Sewoon+Sangga/walk)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Namsan+Cable+Car+Seoul&destination=Myeongdong+Seoul&waypoints=Namsan+Tower+Seoul|Namdaemun+Gate+Seoul|Namdaemun+Market+Seoul|Deoksugung+Palace+Seoul|Seoul+Museum+of+Art+Seosomun|Coffee+Hanyakbang+Euljiro+Seoul&travelmode=transit)
@@ -27,6 +29,9 @@
 ---
 
 ## Also Nearby
+
+### Photography (culture detour)
+- [★★★★☆ 📷🏛️ Photography Seoul Museum of Art (Photo SeMA)](https://www.google.com/maps/search/Photography+Seoul+Museum+of+Art+Chang-dong+Seoul) — Korea's first public museum devoted entirely to photography (Dobong, 3 min from Chang-dong Stn L1/L4). **"We Are Martin Parr" Jul 16–Oct 18, 2026.** Sun 10:00–19:00 (last entry 18:00), closed Mon, free. Direct Line 4 back to Myeongdong.
 
 ### More Landmarks
 - [★★★★☆ 🏯 Deoksugung Palace](https://www.google.com/maps/search/Deoksugung+Palace+Seoul) — **Alternative to the Sunday-dead Namdaemun shopping slot.** The one palace this trip otherwise skips: traditional halls + the Western stone hall (Seokjojeon), beside City Hall Plaza ~5–10 min from Namdaemun. Guard change at Daehanmun 11:00/14:00/15:30; open Sun to 21:00 (closed Mon). 1,000 KRW, free under 19. Pair with the Jeongdong-gil / Doldam-gil stone-wall walk.

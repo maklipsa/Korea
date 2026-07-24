@@ -43,7 +43,7 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 | 1 | Aug 11 (Tue) | Arrive Seoul + Cheonggyecheon + DDP + Ikseon-dong | [aug-11-arrive-seoul.md](days/aug-11-arrive-seoul.md) |
 | 2 | Aug 12 (Wed) | Palaces + Seochon + Insadong + Gwangjang Market | [aug-12-palaces-seochon.md](days/aug-12-palaces-seochon.md) |
 | 3 | Aug 13 (Thu) | DMZ Tour + War Memorial + Itaewon/Hannam | [aug-13-dmz-itaewon.md](days/aug-13-dmz-itaewon.md) |
-| 4 | Aug 14 (Fri) | Hongdae + Yeonnam + Mangwon (animals, 3D illusion art, busking) | [aug-14-hongdae-yeonnam.md](days/aug-14-hongdae-yeonnam.md) |
+| 4 | Aug 14 (Fri) | Hongdae + Yeonnam + Mangwon (animals, weird ice cream, busking) | [aug-14-hongdae-yeonnam.md](days/aug-14-hongdae-yeonnam.md) |
 | 5 | Aug 15 (Sat) | Liberation Day: Nami Island + Gapyeong (zip-line, rail bike) | [aug-15-nami-island.md](days/aug-15-nami-island.md) |
 | 6 | Aug 16 (Sun) | Myeongdong + Namsan Tower + Namdaemun + Euljiro | [aug-16-myeongdong-namsan.md](days/aug-16-myeongdong-namsan.md) |
 | 7 | Aug 17 (Mon) | Lotte World + Seoul Sky + Songnidan-gil | [aug-17-lotte-world.md](days/aug-17-lotte-world.md) |
