@@ -1,14 +1,19 @@
 name: Regenerate site data
 
-# When any itinerary Markdown (or the generator) changes on main, rebuild
-# docs/data.js and commit it back so the repo's generated data stays in sync.
+# When any itinerary Markdown (or a generator script) changes on main:
+#   1. re-stamp places.md with which day each place is visited (annotate_places.py)
+#   2. rebuild docs/data.js (generate_site_data.py)
+# and commit both back so the repo's generated data stays in sync. The bot push
+# uses GITHUB_TOKEN, which does not re-trigger this (or the deploy) workflow.
 on:
   push:
     branches: [main]
     paths:
       - 'itinerary.md'
       - 'passes.md'
+      - 'places.md'
       - 'days/*.md'
+      - 'annotate_places.py'
       - 'generate_site_data.py'
 
 permissions:
@@ -30,17 +35,20 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Annotate places.md with visit days
+        run: python annotate_places.py --write
+
       - name: Regenerate docs/data.js
         run: python generate_site_data.py
 
       - name: Commit if changed
         run: |
-          if [ -n "$(git status --porcelain docs/data.js)" ]; then
+          if [ -n "$(git status --porcelain places.md docs/data.js)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add docs/data.js
-            git commit -m "chore: regenerate docs/data.js from Markdown"
+            git add places.md docs/data.js
+            git commit -m "chore: annotate places.md visit days + regenerate docs/data.js"
             git push
           else
-            echo "docs/data.js already up to date — nothing to commit."
+            echo "places.md and docs/data.js already up to date — nothing to commit."
           fi

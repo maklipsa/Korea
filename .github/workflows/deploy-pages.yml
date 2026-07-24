@@ -29,6 +29,9 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Annotate places.md with visit days
+        run: python annotate_places.py --write
+
       - name: Generate site data from Markdown
         run: python generate_site_data.py
 
