@@ -28,6 +28,7 @@
 ## Also Nearby
 
 ### More Landmarks
+- [★★★★☆ 🏯 Deoksugung Palace](https://www.google.com/maps/search/Deoksugung+Palace+Seoul) — **Alternative to the Sunday-dead Namdaemun shopping slot.** The one palace this trip otherwise skips: traditional halls + the Western stone hall (Seokjojeon), beside City Hall Plaza ~5–10 min from Namdaemun. Guard change at Daehanmun 11:00/14:00/15:30; open Sun to 21:00 (closed Mon). 1,000 KRW, free under 19. Pair with the Jeongdong-gil / Doldam-gil stone-wall walk.
 - [★★★☆☆ 🏯📸 Namdaemun Gate (Sungnyemun)](https://www.google.com/maps/search/Namdaemun+Gate+Seoul) — National Treasure No. 1; the Great South Gate (1398)
 - [★★☆☆☆ ⛪ Myeongdong Cathedral](https://www.google.com/maps/search/Myeongdong+Cathedral+Seoul) — Gothic cathedral (1898); Seoul's oldest parish church
 - [★★☆☆☆ 🌳🚶 Seoullo 7017](https://www.google.com/maps/search/Seoullo+7017+Seoul) — Elevated walkway/park on former highway overpass

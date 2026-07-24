@@ -26,7 +26,8 @@ Gyeongbokgung closed Tuesdays — no conflict.
 | **14:00** | **KTX Seoul → Busan** (~2h15 on fastest trains; some services 2h30–2h50). ⚠️ Aug is peak season — **reserve seats in advance** (Korail / Let's Korail app). Standard adult fare ~59,800 KRW; ages 4–12 ~half; under 4 free. | ~59,800 KRW |
 | ~16:20 | Arrive Busan (Busan Station). Check in hotel (**Haeundae area** recommended; ~30 min by metro/taxi from station). |  |
 | 17:30 | **[★★★★☆ 🌳🧒 Haeundae Beach](https://www.google.com/maps/search/Haeundae+Beach+Busan)** — Swim! Water ~24-28°C in August. Official 2026 swimming season Jun 26–Sep 15; ⚠️ designated swimming zone / lifeguards operate **9:00–18:00**, so only ~30 min of supervised swimming on arrival — go straight to the water. | Free |
-| 19:00 | Dinner: ⚠️ **Haeundae Pojangmacha-chon** (orange-tented beach seafood stalls) was **permanently closed/demolished in Jan 2024** — no longer exists. Instead: [★★★☆☆ 🍜 Haeundae Milmyeon](https://www.google.com/maps/search/Haeundae+Milmyeon+Busan) (cold wheat noodles — Busan signature dish), or seafood/eomuk at [★★★☆☆ 🛍️🍜 Haeundae Traditional Market](https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan). |  |
+| 18:45 | **[★★★★☆ 🗼 Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky)** — Observation deck on floors 98–100 of LCT Tower, ~5-min walk from Haeundae Beach; sunset over the bay (~19:15 mid-Aug) + world's highest Starbucks. **Pre-book timed tickets** in August. | ~27,000 KRW adult / ~24,000 child (verify) |
+| 19:45 | Dinner: ⚠️ **Haeundae Pojangmacha-chon** (orange-tented beach seafood stalls) was **permanently closed/demolished in Jan 2024** — no longer exists. Instead: [★★★☆☆ 🍜 Haeundae Milmyeon](https://www.google.com/maps/search/Haeundae+Milmyeon+Busan) (cold wheat noodles — Busan signature dish), or seafood/eomuk at [★★★☆☆ 🛍️🍜 Haeundae Traditional Market](https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan). |  |
 
 ---
 

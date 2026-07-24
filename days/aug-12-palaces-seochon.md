@@ -13,7 +13,8 @@ The big traditional Seoul day. Everything open on Wednesdays.
 | Time | Activity | Price |
 |------|----------|-------|
 | 9:00 | **[★★★★★ 🏯🎨 Gyeongbokgung Palace](https://www.google.com/maps/search/Gyeongbokgung+Palace+Seoul)** — Rent hanbok nearby (~15,000-20,000 KRW/2-4h) = FREE palace entry. Royal guard ceremony at 10:00 and 14:00. | Free w/hanbok |
-| 11:00 | **[★★★☆☆ 🏛️ National Folk Museum](https://www.google.com/maps/search/National+Folk+Museum+Korea+Seoul)** — Inside Gyeongbokgung grounds. Interactive daily life exhibits. | Free |
+| 10:30 | **[★★★★☆ 🏛️🧒 National Palace Museum of Korea](https://www.google.com/maps/search/National+Palace+Museum+of+Korea+Seoul)** — At Gyeongbokgung's SW corner; own entrance, no palace ticket needed. Real royal thrones, seals, jade books, the Water Clock; basement kids' zone. FREE (all 3 kids free, under 19). Wed hours 9:00–21:00. Best AC break of the palace day. | Free |
+| 11:15 | **[★★★☆☆ 🏛️ National Folk Museum](https://www.google.com/maps/search/National+Folk+Museum+Korea+Seoul)** — On Gyeongbokgung's NE grounds. Interactive daily-life exhibits. Quick 30-min stop — **the natural drop if the morning runs long** (theme overlaps the Palace Museum). | Free |
 | 11:45 | Walk west to **Seochon** neighborhood (5 min from Gyeongbokgung). |  |
 | 12:00 | **[★★★☆☆ 🍜🧒 Tongin Market coin lunchbox](https://www.google.com/maps/search/Tongin+Market+Seoul)** — Pay 5,000 KRW, get brass coins, pick side dishes from market stalls to build your own lunch. Kids love this! Best 11am-1pm. | 5,000 KRW |
 | 13:00 | **[★★☆☆☆ ☕ Hyoja Bakery](https://www.google.com/maps/search/Hyoja+Bakery+Seochon+Seoul)** — Supplied the Blue House for 26 years. Donuts, chestnut pastries. |  |

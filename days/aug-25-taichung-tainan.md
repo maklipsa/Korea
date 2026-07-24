@@ -41,6 +41,7 @@
 - [★★★★☆ 🏮 Fengjia Night Market](https://www.google.com/maps/search/Fengjia+Night+Market+Taichung) — Taiwan's largest by area; hundreds of stalls until ~2am
 
 ### More in Tainan
+- [★★★★☆ 🏯📸 Eternal Golden Castle (Erkunshen Fort)](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan) — **Near-zero-detour alternative/add to the Anping fort block** (~5-min walk from Anping Treehouse). Star-shaped 1874 Qing fort with cannons, moat & drawbridge — a *different* fort from Fort Zeelandia. ~NT$50, kids/students half price. Open daily ~8:30–17:30.
 - [★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple) — Built 1665; Taiwan's oldest; 15 buildings
 - [★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) — Originally a Southern Ming prince's palace (1664)
 - [★★★☆☆ 🏯 Koxinga Shrine](https://www.google.com/maps/search/Koxinga+Shrine+Tainan) — Red-and-gold shrine to the hero who expelled the Dutch

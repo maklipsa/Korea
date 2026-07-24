@@ -150,8 +150,13 @@ const DAYS = [
         "price": "Free w/hanbok"
       },
       {
-        "time": "11:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Folk+Museum+Korea+Seoul\" target=\"_blank\">★★★☆☆ 🏛️ National Folk Museum</a></strong> — Inside Gyeongbokgung grounds. Interactive daily life exhibits.",
+        "time": "10:30",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Palace+Museum+of+Korea+Seoul\" target=\"_blank\">★★★★☆ 🏛️🧒 National Palace Museum of Korea</a></strong> — At Gyeongbokgung's SW corner; own entrance, no palace ticket needed. Real royal thrones, seals, jade books, the Water Clock; basement kids' zone. FREE (all 3 kids free, under 19). Wed hours 9:00–21:00. Best AC break of the palace day.",
+        "price": "Free"
+      },
+      {
+        "time": "11:15",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Folk+Museum+Korea+Seoul\" target=\"_blank\">★★★☆☆ 🏛️ National Folk Museum</a></strong> — On Gyeongbokgung's NE grounds. Interactive daily-life exhibits. Quick 30-min stop — <strong>the natural drop if the morning runs long</strong> (theme overlaps the Palace Museum).",
         "price": "Free"
       },
       {
@@ -774,6 +779,11 @@ const DAYS = [
         "category": "More Landmarks",
         "items": [
           {
+            "name": "★★★★☆ 🏯 Deoksugung Palace",
+            "url": "https://www.google.com/maps/search/Deoksugung+Palace+Seoul",
+            "desc": "<strong>Alternative to the Sunday-dead Namdaemun shopping slot.</strong> The one palace this trip otherwise skips: traditional halls + the Western stone hall (Seokjojeon), beside City Hall Plaza ~5–10 min from Namdaemun. Guard change at Daehanmun 11:00/14:00/15:30; open Sun to 21:00 (closed Mon). 1,000 KRW, free under 19. Pair with the Jeongdong-gil / Doldam-gil stone-wall walk."
+          },
+          {
             "name": "★★★☆☆ 🏯📸 Namdaemun Gate (Sungnyemun)",
             "url": "https://www.google.com/maps/search/Namdaemun+Gate+Seoul",
             "desc": "National Treasure No. 1; the Great South Gate (1398)"
@@ -1003,7 +1013,12 @@ const DAYS = [
         "price": "Free"
       },
       {
-        "time": "19:00",
+        "time": "18:45",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Busan+X+the+Sky\" target=\"_blank\">★★★★☆ 🗼 Busan X the Sky</a></strong> — Observation deck on floors 98–100 of LCT Tower, ~5-min walk from Haeundae Beach; sunset over the bay (~19:15 mid-Aug) + world's highest Starbucks. <strong>Pre-book timed tickets</strong> in August.",
+        "price": "~27,000 KRW adult / ~24,000 child (verify)"
+      },
+      {
+        "time": "19:45",
         "activity": "Dinner: ⚠️ <strong>Haeundae Pojangmacha-chon</strong> (orange-tented beach seafood stalls) was <strong>permanently closed/demolished in Jan 2024</strong> — no longer exists. Instead: <a href=\"https://www.google.com/maps/search/Haeundae+Milmyeon+Busan\" target=\"_blank\">★★★☆☆ 🍜 Haeundae Milmyeon</a> (cold wheat noodles — Busan signature dish), or seafood/eomuk at <a href=\"https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan\" target=\"_blank\">★★★☆☆ 🛍️🍜 Haeundae Traditional Market</a>.",
         "price": ""
       }
@@ -1987,6 +2002,11 @@ const DAYS = [
       {
         "category": "More in Tainan",
         "items": [
+          {
+            "name": "★★★★☆ 🏯📸 Eternal Golden Castle (Erkunshen Fort)",
+            "url": "https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan",
+            "desc": "<strong>Near-zero-detour alternative/add to the Anping fort block</strong> (~5-min walk from Anping Treehouse). Star-shaped 1874 Qing fort with cannons, moat & drawbridge — a *different* fort from Fort Zeelandia. ~NT$50, kids/students half price. Open daily ~8:30–17:30."
+          },
           {
             "name": "★★★★☆ 🏯 Tainan Confucius Temple",
             "url": "https://www.google.com/maps/search/Tainan+Confucius+Temple",
