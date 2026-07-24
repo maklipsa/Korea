@@ -26,7 +26,7 @@ CARDS_DIR = ROOT / "cards"
 # Acronyms to keep uppercase when title-casing an ALL-CAPS heading.
 ACRONYMS = {
     "DMZ", "DDP", "NPM", "COEX", "HSR", "KTX", "TPE", "PUS", "ICN",
-    "MRT", "BTS", "SEA", "LIFE", "UNESCO", "KEYESCAPE",
+    "MRT", "BTS", "SEA", "LIFE", "UNESCO",
 }
 # Words kept lowercase in a title unless they are the first word.
 SMALL_WORDS = {"to", "and", "of", "the", "a", "an", "at", "by", "on", "in", "or", "vs"}

@@ -18,9 +18,6 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 ### Book as early as possible (timed release)
 - [ ] Haeundae Blueline Park Sky Capsule (Aug 19) — timed tickets, **pre-book required**. Reservations open on a **Tuesday** ahead of the ride date; sources disagree on the exact window (≈2–4 weeks out), so **check [bluelinepark.com](https://www.bluelinepark.com) / Klook now and book the instant Aug 19 appears**. Sells out in minutes in August; weekday is easier.
 
-### Book 14 days ahead
-- [ ] KEYESCAPE escape room Hongdae (Aug 14 evening) — book at keyescape.co.kr. English-friendly.
-
 ### Buy before departure
 - [ ] **eSIM** — Airalo, Saily, or Holafly. Get a plan that covers both Korea AND Taiwan, or buy separate ones. Holafly has unlimited data ~$19-47 depending on duration.
 - [ ] **Travel insurance** — August = typhoon season in Taiwan. Strongly recommended.
@@ -46,7 +43,7 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 | 1 | Aug 11 (Tue) | Arrive Seoul + Cheonggyecheon + DDP + Ikseon-dong | [aug-11-arrive-seoul.md](days/aug-11-arrive-seoul.md) |
 | 2 | Aug 12 (Wed) | Palaces + Seochon + Insadong + Gwangjang Market | [aug-12-palaces-seochon.md](days/aug-12-palaces-seochon.md) |
 | 3 | Aug 13 (Thu) | DMZ Tour + War Memorial + Itaewon/Hannam | [aug-13-dmz-itaewon.md](days/aug-13-dmz-itaewon.md) |
-| 4 | Aug 14 (Fri) | Hongdae + Yeonnam + Mangwon (animals, escape room, busking) | [aug-14-hongdae-yeonnam.md](days/aug-14-hongdae-yeonnam.md) |
+| 4 | Aug 14 (Fri) | Hongdae + Yeonnam + Mangwon (animals, 3D illusion art, busking) | [aug-14-hongdae-yeonnam.md](days/aug-14-hongdae-yeonnam.md) |
 | 5 | Aug 15 (Sat) | Liberation Day: Nami Island + Gapyeong (zip-line, rail bike) | [aug-15-nami-island.md](days/aug-15-nami-island.md) |
 | 6 | Aug 16 (Sun) | Myeongdong + Namsan Tower + Namdaemun + Euljiro | [aug-16-myeongdong-namsan.md](days/aug-16-myeongdong-namsan.md) |
 | 7 | Aug 17 (Mon) | Lotte World + Seoul Sky + Songnidan-gil | [aug-17-lotte-world.md](days/aug-17-lotte-world.md) |

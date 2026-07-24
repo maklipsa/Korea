@@ -12,7 +12,7 @@
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:00 | **[★★★★★ 🏛️ National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei)** — World's greatest Chinese art. Children's Gallery. Free for under 18 (**all 3 kids free**; adults NT$350). Open Tue-Sun 9:00-17:00 (closed Mon). **Arrive at 9:00 — gets very crowded Sat.** ⚠️ 2026: New NPM renovation underway; some galleries may be limited/relocated (verify on arrival). | Pass or NT$350 (kids free) |
+| 9:00 | **[★★★★★ 🏛️ National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei)** — World's greatest Chinese art. Children's Gallery. Free for under 18 (**all 3 kids free**; adults NT$350). Open Tue-Sun 9:00-17:00 (closed Mon). **Arrive at 9:00 — gets very crowded Sat.** ⚠️ 2026: New NPM renovation underway; some galleries may be limited/relocated (verify on arrival). Directly across the road, the small **[★★★☆☆ 🏛️ Shung Ye Museum of Formosan Aborigines](https://www.google.com/maps/search/Shung+Ye+Museum+Formosan+Aborigines+Taipei)** (indigenous art & culture, closed Mon) is a near-zero-detour add. | Pass or NT$350 (kids free) |
 | 11:15 | MRT to **Beitou** (~45 min: red line to Beitou, transfer pink line to Xinbeitou). |  |
 | 12:00 | **[★★★☆☆ 🏛️♨️ Beitou Hot Spring Museum](https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei)** — Restored 1913 Japanese bathhouse (air-conditioned!). Open Tue-Sun 10:00-18:00, closed Mon (open Sat, no conflict). | Free |
 | 12:30 | **[★★★★☆ 🌊♨️ Thermal Valley (Hell Valley)](https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei)** — Steaming vivid green sulfurous lake (80-100°C). Otherworldly. 20-30 min — it's hot. | Free |

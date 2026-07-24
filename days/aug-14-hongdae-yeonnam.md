@@ -1,12 +1,12 @@
 # Aug 14 (Fri) — HONGDAE + YEONNAM + MANGWON
 
-Animal cafes, weird ice cream, escape rooms, street performers.
+Animal cafes, weird ice cream, 3D illusion art, street performers.
 
 **Transport (short, flat hops — bike-friendly):** Mangwon → Yeonnam → Hongdae are flat 1–3 km stretches — walk, or grab **Ttareungi** public bikes (rules & age/size caveats under Passes).
 
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/126.93532,37.55221,Gyeongui+Line+Forest+Park:126.92299,37.55249,Meerkat+Friends:126.92127,37.55013,SOBOK/walk)
-[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Mangwon+Market+Seoul&destination=KEYESCAPE+Hongdae+Seoul&waypoints=Gyeongui+Line+Forest+Park+Seoul|943+Kings+Cross+Hongdae+Seoul&travelmode=transit)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.93532,37.55221,Gyeongui+Line+Forest+Park:126.92299,37.55249,Meerkat+Friends:126.92127,37.55013,SOBOK/walk)
+[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Mangwon+Market+Seoul&destination=Hongik+University+Seoul&waypoints=Gyeongui+Line+Forest+Park+Seoul|943+Kings+Cross+Hongdae+Seoul&travelmode=transit)
 
 ## Schedule
 
@@ -18,7 +18,6 @@ Animal cafes, weird ice cream, escape rooms, street performers.
 | 13:30 | **Animal cafe** — Pick one: [★★★☆☆ ☕🐾 Table A](https://www.google.com/maps/search/Table+A+Animal+Cafe+Hongdae+Seoul) (raccoons + meerkats, 4 floors, ~12,000 KRW, Fri 12:00–22:00), [★★★☆☆ ☕🐾 Meerkat Friends](https://www.google.com/maps/search/Meerkat+Friends+Hongdae+Seoul) (meerkats, foxes, wallabies; opens ~13:30), or [★★☆☆☆ ☕🐾 Thanks Nature](https://www.google.com/maps/search/Thanks+Nature+Sheep+Cafe+Seoul) (sheep on patio, in Seogyo Prugio mall). ⚠️ Blind Alley raccoon cafe PERMANENTLY CLOSED (raccoons rehomed to a zoo) — dropped. | ~12,000 KRW |
 | 15:00 | **Ice cream crawl** — Pick 2-3: [★★☆☆☆ ☕ Fell + Cole](https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul) (makgeolli, miso vanilla, perilla leaf), [★★☆☆☆ ☕ SOBOK](https://www.google.com/maps/search/SOBOK+Hongdae+Seoul) (rice-based injeolmi soft serve, 13:00–23:00), plus a "More Gelato" pick below. ⚠️ Molly's Pops (wasabi popsicle) appears permanently closed — dropped. | ~5,000-8,000 KRW each |
 | 16:30 | **Hongdae shopping** — Vintage stores, indie records, K-pop merch, Acorn Caricature (~5,000 KRW). |  |
-| 17:30 | **[★★★☆☆ 🎡🧒 KEYESCAPE](https://www.google.com/maps/search/KEYESCAPE+Hongdae+Seoul)** escape room — Award-winning; English rooms available and foreigner-friendly. **Book online in advance** (keyescape.co.kr or via NOL/Trazy) — walk-ins often full. Open 10:30–24:00; near Sangsu Stn (Line 6, ~4 min walk), not Hongik Univ. Stn. | ~20,000-30,000 KRW/person |
 | 19:00 | Dinner: [★★☆☆☆ 🍜 Pungcheon Eel](https://www.google.com/maps/search/Pungcheon+Eel+Hongdae+Seoul) (grilled eel over charcoal) or [★★☆☆☆ 🍜 Honkaz](https://www.google.com/maps/search/Honkaz+Hongdae+Seoul) (cheese-stuffed tonkatsu). |  |
 | 20:00 | **Hongdae street busking** — Free performances along Eoulmadang-ro; Fri evening is a peak window (~19:00–23:00, mostly K-pop dance covers). Verified 2026. |  |
 
@@ -41,6 +40,7 @@ Animal cafes, weird ice cream, escape rooms, street performers.
 - [★☆☆☆☆ 🍜 Oshi](https://www.google.com/maps/search/Oshi+Mangwon+Seoul) — Osaka-style okonomiyaki
 
 ### More to See
+- [★★★★☆ 🎨📸🧒 Trickeye Museum (3D Illusion Art) + Ice Museum](https://www.google.com/maps/search/Trickeye+Museum+Hongdae+Seoul) — Interactive trompe-l'oeil / AR photo museum; combo ticket includes the Ice Museum. Open 9:00–21:00 (last entry 20:00); ~15,000–18,000 KRW, **free on the Discover Seoul Pass**. Walk-in, ~8 min from Hongik Univ. Stn Exit 9. *(Optional swap-in for the old escape-room slot.)*
 - [★★☆☆☆ 🛍️🧒 Hongdae Children's Playground](https://www.google.com/maps/search/Hongdae+Playground+Seoul) — Weekend flea market; street performers
 - [★★☆☆☆ 🌳 Mangwon Hangang Park](https://www.google.com/maps/search/Mangwon+Hangang+Park+Seoul) — Riverside cycling and picnics
 - [★★☆☆☆ 🛍️ Hongdae Free Market](https://www.google.com/maps/search/Hongdae+Free+Market+Seoul) — Weekend handmade goods

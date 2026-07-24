@@ -7,12 +7,12 @@ Gyeongbokgung closed Tuesdays — no conflict.
 ## Route Map
 
 **Seoul morning:**
-[View route on Naver Map](https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/127.06562,37.54122,Common+Ground:127.05508,37.54439,Olive+Young+Seongsu:127.05722,37.51556,Bongeunsa:127.05861,37.51318,COEX+Aquarium/walk)
+[View route on Naver Map](https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/127.04419,37.54386,D+Museum:127.06562,37.54122,Common+Ground:127.05508,37.54439,Olive+Young+Seongsu:127.05722,37.51556,Bongeunsa:127.05861,37.51318,COEX+Aquarium/walk)
 
 **Busan evening:**
 [View route on Naver Map](https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1626,35.1631,Haeundae+Traditional+Market/129.15222,35.15389,Dongbaekseom:129.16900,35.16031,Busan+X+the+Sky/walk)
 
-[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Seoul+Forest+Seoul&destination=Haeundae+Beach+Busan&waypoints=Common+Ground+Seoul|Olive+Young+Seongsu+Seoul|Starfield+Library+COEX+Seoul|Bongeunsa+Temple+Seoul|COEX+Aquarium+Seoul&travelmode=transit)
+[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Seoul+Forest+Seoul&destination=Haeundae+Beach+Busan&waypoints=D+Museum+Seongsu+Seoul|Common+Ground+Seoul|Olive+Young+Seongsu+Seoul|Starfield+Library+COEX+Seoul|Bongeunsa+Temple+Seoul|COEX+Aquarium+Seoul&travelmode=transit)
 
 ## Schedule
 
@@ -20,6 +20,7 @@ Gyeongbokgung closed Tuesdays — no conflict.
 |------|----------|-------|
 | 9:00 | **[★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul)** in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Park is free & open 24h (butterfly garden opens 10:00, May–Oct, closed Mon). Then: **[★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul)** shipping container mall (Konkuk Univ area). ⚠️ Common Ground **opens 11:00 daily** — too early for this 9–10am window; skip or reorder. | Free |
 | 10:30 | **Seongsu warehouse cafes** — Dozens of industrial-chic cafes in converted factories. Or: [★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul) 5-floor K-beauty flagship. |  |
+| 11:00 | *(High-value photo/immersive gallery, and Seongsu is your only shot at it — opens 11:00, ~1.5h, so it's a trade for the COEX add-ons before the 14:00 KTX.)* **[★★★★☆ 🏛️🎨📸 D Museum](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul)** — Seoul's teamLab-style immersive/photo "experience museum" (D Tower, by Seoul Forest); rotating large-format shows, a teen favorite. ⚠️ Verify the current exhibition + book timed tickets. | ~12,000/6,000 KRW |
 | 11:30 | Quick stop: **[★★★☆☆ 📸 Starfield Library (COEX)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul)** — Stunning towering bookshelves. Free. |  |
 | 11:45 | *(Optional COEX add-on before the train — pick at most one; you leave by 13:00.)* **[★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul)** — 1,000-year-old Buddhist temple directly across from COEX; a serene ~20-min walk-through beneath the giant Maitreya Buddha. Or **[★★★☆☆ 🐾🧒 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul)** — inside the mall (sharks, rays, penguins), but budget ~1.5h, so only if you skipped Seoul Forest. |  |
 | 12:30 | Lunch near COEX or grab food for the train. |  |

@@ -180,7 +180,7 @@ Connected via Gyeongui Line Forest Park — indie culture, animal cafes, weird i
 #### Kid-Friendly
 - ★★★☆☆ ☕🧒 943 Kings Cross Harry Potter Cafe — 7 floors of wizarding world
 - ☕🐾🧒 Animal cafes (Table A, Meerkat Friends, Thanks Nature)
-- [★★★☆☆ 🎡🧒 KEYESCAPE (Escape Room)](https://www.google.com/maps/search/KEYESCAPE+Hongdae+Seoul) — Award-winning escape rooms; English-friendly; ~20,000-30,000 won/person 📅 **Day 4 (Aug 14)**
+- [★★★★☆ 🎨📸🧒 Trickeye Museum (3D Illusion Art) + Ice Museum](https://www.google.com/maps/search/Trickeye+Museum+Hongdae+Seoul) — Interactive trompe-l'oeil / AR photo museum; combo w/ Ice Museum; open 9am–9pm (last entry 8pm); ~15,000-18,000 won, free on Discover Seoul Pass 📅 *near Day 4 (Aug 14)*
 - 🎭 Street busking performances — Free entertainment weekend evenings
 - 🎨 Self-photo studios — Retro black-and-white photo booths throughout Hongdae
 
@@ -194,7 +194,7 @@ International vibe, world-class free museums, cool hillside alleys.
 - [★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul) — Massive museum with outdoor tanks, planes, ships kids can climb on 📅 **Day 3 (Aug 13)**
 - [★★★★☆ 🏛️ National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul) — Giant Hall, Ten Storey Pagoda, Children's Museum; beautiful grounds 📅 **Day 3 (Aug 13)**
 - [★★★☆☆ 🏛️ Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) — Free world-class art museum 📅 **Day 3 (Aug 13)**
-- [★★★☆☆ 🏛️ MMCA National Museum of Modern and Contemporary Art](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) 📅 *near Day 3 (Aug 13)*
+- [★★★☆☆ 🏛️ MMCA National Museum of Modern and Contemporary Art](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) 📅 **Day 2 (Aug 12)** · *near Day 3 (Aug 13)*
 
 #### Parks & Walks
 - ★★★☆☆ 🌳 Namsan Mountain trails (accessible from Itaewon side)
@@ -390,12 +390,12 @@ Places surfaced in a deep research pass, grouped by category rather than by day-
 #### B. Museums
 - [★★★★☆ 🏛️ National Palace Museum of Korea](https://www.google.com/maps/search/National+Palace+Museum+of+Korea+Seoul) — Free, inside Gyeongbokgung's SW corner (no palace ticket); actual royal treasures/thrones/seals. Tue–Fri 9:00–18:00, weekends 9:00–19:00 (Wed & Sat to 21:00), closed Mon. Best AC break on a hot Gyeongbokgung day; basement kids' zone. 📅 **Day 2 (Aug 12)**
 - [★★★★☆ 🏛️🧒 Gwacheon National Science Museum (Seoul Grand Park)](https://www.google.com/maps/search/Gwacheon+National+Science+Museum+Seoul) — Flagship hands-on science + planetarium/4D, Line 4 Seoul Grand Park Stn. Tue–Sun 9:30–17:30, closed Mon; ~4,000/2,000 KRW. Combine with the Zoo + Seoul Land for a full day. *(Gwacheon, Gyeonggi — one stop past the Seoul line.)*
-- [★★★☆☆ 🏛️ National Hangeul Museum](https://www.google.com/maps/search/National+Hangeul+Museum+Seoul) — Free, on the Korean alphabet; hands-on type/calligraphy stations that work without reading Korean. 10:00–18:00 (Sat & last Wed to 21:00), closed Mon. Next to National Museum of Korea/War Memorial at Ichon — one museum-heavy day.
-- [★★★☆☆ 🏛️🎨 Seoul Museum of Art (SeMA), Seosomun](https://www.google.com/maps/search/Seoul+Museum+of+Art+Seosomun) — Free contemporary art in the former Supreme Court building, on the Deoksugung stone-wall path. Tue–Fri 10:00–20:00, weekends 10:00–18:00/19:00, closed Mon.
+- [★★★☆☆ 🏛️ National Hangeul Museum](https://www.google.com/maps/search/National+Hangeul+Museum+Seoul) — Free, on the Korean alphabet; hands-on type/calligraphy stations that work without reading Korean. 10:00–18:00 (Sat & last Wed to 21:00), closed Mon. Next to National Museum of Korea/War Memorial at Ichon — one museum-heavy day. 📅 **Day 3 (Aug 13)**
+- [★★★☆☆ 🏛️🎨 Seoul Museum of Art (SeMA), Seosomun](https://www.google.com/maps/search/Seoul+Museum+of+Art+Seosomun) — Free contemporary art in the former Supreme Court building, on the Deoksugung stone-wall path. Tue–Fri 10:00–20:00, weekends 10:00–18:00/19:00, closed Mon. 📅 **Day 6 (Aug 16)**
 - [★★★☆☆ 🏛️ National Museum of Korean Contemporary History](https://www.google.com/maps/search/National+Museum+of+Korean+Contemporary+History+Seoul) — Free, fast kid-accessible timeline from the colonial era through the war, industrialization and the K-wave. Steps from Gwanghwamun. 9:00–18:00 (Wed/Sat to 21:00); verify closed-day.
 
 #### C. Art
-- [★★★★☆ 🏛️🎨📸 D Museum (Seongsu)](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul) — Rotating large-format immersive/photo exhibitions, Seoul's teamLab-style "experience museum," very popular with teens. ⚠️ "House of Taste 2" closes Feb 22, 2026 — a new show is likely by August; verify + book timed tickets. Tue–Sun 11:00–18:00, closed Mon; ~12,000/6,000 KRW. Near Seoul Forest/Seongsu cafes.
+- [★★★★☆ 🏛️🎨📸 D Museum (Seongsu)](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul) — Rotating large-format immersive/photo exhibitions, Seoul's teamLab-style "experience museum," very popular with teens. ⚠️ "House of Taste 2" closes Feb 22, 2026 — a new show is likely by August; verify + book timed tickets. Tue–Sun 11:00–18:00, closed Mon; ~12,000/6,000 KRW. Near Seoul Forest/Seongsu cafes. 📅 **Day 8 (Aug 18)**
 - [★★★☆☆ 🎨📸 WAVE — d'strict digital media art (COEX)](https://www.google.com/maps/search/WAVE+COEX+Digital+Art+Seoul) — Free giant photorealistic "wave in a glass tank" illusion on the LED wraparound screen facing Yeongdong-daero at COEX; plays ~once/hour for ~1 min. Quick free add-on at COEX Mall.
 - [★★★☆☆ 🎨🚶 Mullae Art Village](https://www.google.com/maps/search/Mullae+Art+Village+Seoul) — Still-working steel-workshop district (~1,000 ironworks) colonized by murals, scrap-metal sculpture and small galleries — grittier than Ikseon/Seongsu. Free; best late afternoon. Mullae Stn (Line 2).
 - [★★★☆☆ 🎨🌳 Mapo Oil Tank Culture Park](https://www.google.com/maps/search/Mapo+Oil+Tank+Culture+Park+Seoul) — Five decommissioned 1970s oil tanks turned galleries/dome/amphitheater with grassy hills for kids. Grounds free/24h; halls 10:00–18:00, exhibitions closed Mon. Near World Cup Stadium Stn.
@@ -454,7 +454,7 @@ A second, more niche pass — galleries, extra mountains, specialty food streets
 - [★★★☆☆ 🏛️🎨 Amorepacific Museum of Art (APMA)](https://www.google.com/maps/search/Amorepacific+Museum+of+Art+Yongsan+Seoul) — Free rotating contemporary art in the David Chipperfield-designed HQ, Yongsan. Tue–Sun 10:00–18:00, closed Mon. Current show ends ~Aug 2, 2026 — check for the next one.
 
 #### C. Art
-- [★★★★☆ 🏛️🎨 Kukje Gallery](https://www.google.com/maps/search/Kukje+Gallery+Seoul) — Seoul's leading contemporary gallery (since 1982), Sogyeok-dong near Gyeongbokgung; K1/K2/K3 buildings + sculpture garden, free, world-class rotating shows. Mon–Sat 10–18, Sun 10–17.
+- [★★★★☆ 🏛️🎨 Kukje Gallery](https://www.google.com/maps/search/Kukje+Gallery+Seoul) — Seoul's leading contemporary gallery (since 1982), Sogyeok-dong near Gyeongbokgung; K1/K2/K3 buildings + sculpture garden, free, world-class rotating shows. Mon–Sat 10–18, Sun 10–17. 📅 **Day 2 (Aug 12)**
 - [★★★☆☆ 🏛️🎨 PKM Gallery](https://www.google.com/maps/search/PKM+Gallery+Seoul) — Influential Korean-artist gallery, steps from Kukje in the Samcheong cluster. Free.
 - [★★★☆☆ 🏛️🎨 Hakgojae Gallery](https://www.google.com/maps/search/Hakgojae+Gallery+Seoul) — Traditional-meets-contemporary Korean art, Samcheong-ro. Tue–Sat 10–18, free.
 - [★★★☆☆ 🏛️🎨 Gana Art Center](https://www.google.com/maps/search/Gana+Art+Center+Seoul) — Large gallery (since 1983) in the Bukhansan foothills, Pyeongchang-dong. Tue–Sun 10–19, closed Mon, free.
@@ -1238,18 +1238,18 @@ Grouped by category; several cluster near existing plans (many are ~15 min from 
 - [★★☆☆☆ 🏯📸 Zhongshan Hall](https://www.google.com/maps/search/Zhongshan+Hall+Taipei) — 1936 assembly hall where Japan formally surrendered Taiwan (1945); near Ximending/CKS Hall; rooftop garden. ⚠️ Verify open/renovation status; hours can be irregular.
 
 #### B. Museums
-- [★★★★☆ 🏛️🧒 Miniatures Museum of Taiwan](https://www.google.com/maps/search/Miniatures+Museum+of+Taiwan+Taipei) — Jaw-dropping dollhouse-scale dioramas (Titanic, castles, tiny working lights); a big kid-magnet. Tue–Sun 10:00–18:00 (last admission 17:00), closed Mon; combo ticket with National Taiwan Museum + MOCA.
+- [★★★★☆ 🏛️🧒 Miniatures Museum of Taiwan](https://www.google.com/maps/search/Miniatures+Museum+of+Taiwan+Taipei) — Jaw-dropping dollhouse-scale dioramas (Titanic, castles, tiny working lights); a big kid-magnet. Tue–Sun 10:00–18:00 (last admission 17:00), closed Mon; combo ticket with National Taiwan Museum + MOCA. 📅 **Day 18 (Aug 28)**
 - [★★★★☆ 🏛️🎨🧒 Yingge Ceramics Museum (New Taipei)](https://www.google.com/maps/search/Yingge+Ceramics+Museum+New+Taipei) — Taiwan's only ceramics museum; DIY pottery-wheel/hand-building workshops for kids + an outdoor splash-pad plaza (great in August). NT$80; weekdays 9:30–17:00, weekends to 18:00, closed 1st Mon monthly. Pair with Yingge Old Street.
-- [★★★☆☆ 🏛️ National Taiwan Museum (Main Building)](https://www.google.com/maps/search/National+Taiwan+Museum+228+Park+Taipei) — 1915 domed neoclassical building inside 228 Peace Park; natural history + indigenous artifacts. Tue–Sun 9:30–17:00, closed Mon; combo ticket available.
+- [★★★☆☆ 🏛️ National Taiwan Museum (Main Building)](https://www.google.com/maps/search/National+Taiwan+Museum+228+Park+Taipei) — 1915 domed neoclassical building inside 228 Peace Park; natural history + indigenous artifacts. Tue–Sun 9:30–17:00, closed Mon; combo ticket available. 📅 **Day 11 (Aug 21)**
 - [★★★☆☆ 🏛️🧒 Museum of World Religions (Yonghe)](https://www.google.com/maps/search/Museum+of+World+Religions+Yonghe+New+Taipei) — Interactive "Golden Hall" + world-faiths exhibits built for kids (touchable models, a children's maze). Tue–Sun 10:00–17:00, closed Mon; Dingxi MRT.
 - [★★★☆☆ 🏛️🎨🧒 Suho Memorial Paper Museum](https://www.google.com/maps/search/Suho+Memorial+Paper+Museum+Taipei) — Small museum with a genuine hands-on papermaking workshop (make your own sheet). Wed–Sun ~9:30–16:30 (verify). A good rainy-day 1-hour stop.
-- [★★★☆☆ 🏛️ Shung Ye Museum of Formosan Aborigines](https://www.google.com/maps/search/Shung+Ye+Museum+Formosan+Aborigines+Taipei) — Indigenous-culture artifacts literally across the street from the National Palace Museum — a near-zero-cost add-on. ~NT$150 (verify), closed Mon.
+- [★★★☆☆ 🏛️ Shung Ye Museum of Formosan Aborigines](https://www.google.com/maps/search/Shung+Ye+Museum+Formosan+Aborigines+Taipei) — Indigenous-culture artifacts literally across the street from the National Palace Museum — a near-zero-cost add-on. ~NT$150 (verify), closed Mon. 📅 **Day 12 (Aug 22)**
 - [★★★☆☆ 🏛️🧒 Postal Museum](https://www.google.com/maps/search/Postal+Museum+Taipei) — Interactive stamp-printing/mail-sorting exhibits near CKS Hall; ~NT$20–30, closed Mon. A good 45-min AC break.
 
 #### C. Art
 - [★★★★★ 🎨🧒📸 Huashan 1914 Creative Park + teamLab Future Park](https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei) — A former factory turned Taipei's main creative-arts complex (park entry free); hosts a long-running teamLab "Future Park" immersive digital installation — huge for the 9/11-year-olds. ⚠️ Verify it's still running in Aug 2026 (extended repeatedly) and book timed tickets. 📅 **Day 18 (Aug 28)**
-- [★★★★☆ 🏛️🎨 Taipei Fine Arts Museum (TFAM)](https://www.google.com/maps/search/Taipei+Fine+Arts+Museum+Taipei) — Taiwan's leading modern-art museum; 2026 shows include a Ryuichi Sakamoto sound/media exhibition and "Surrealism: Worlds in Dialogue." Tue–Fri & Sun 9:30–17:30, Sat to 20:30 (free Sat 17:00–20:30), closed Mon.
-- [★★★☆☆ 🏛️🎨 Museum of Contemporary Art Taipei (MOCA)](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei) — Contemporary art in a charming 1900s former-school building near Zhongshan. NT$100; Tue–Sun 10:00–18:00 (last entry 17:30), closed Mon.
+- [★★★★☆ 🏛️🎨 Taipei Fine Arts Museum (TFAM)](https://www.google.com/maps/search/Taipei+Fine+Arts+Museum+Taipei) — Taiwan's leading modern-art museum; 2026 shows include a Ryuichi Sakamoto sound/media exhibition and "Surrealism: Worlds in Dialogue." Tue–Fri & Sun 9:30–17:30, Sat to 20:30 (free Sat 17:00–20:30), closed Mon. 📅 *near Day 18 (Aug 28)*
+- [★★★☆☆ 🏛️🎨 Museum of Contemporary Art Taipei (MOCA)](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei) — Contemporary art in a charming 1900s former-school building near Zhongshan. NT$100; Tue–Sun 10:00–18:00 (last entry 17:30), closed Mon. 📅 **Day 18 (Aug 28)**
 - [★★★☆☆ 🎨 C-LAB (Taiwan Contemporary Culture Lab)](https://www.google.com/maps/search/C-LAB+Taipei) — Free experimental art/culture campus on the former Air Force HQ site; "Creative Expo Taiwan 2026" runs Aug 1–31, spanning the whole Taipei stay.
 
 #### D. Landmarks & Views
@@ -1309,7 +1309,7 @@ A second, more niche pass — smoke-free temples, a dinosaur hall, a new railway
 
 #### B. Museums
 - [★★★★☆ 🏛️🧒 National Taiwan Museum — Land Bank Exhibition Hall (the "Dinosaur Museum")](https://www.google.com/maps/search/National+Taiwan+Museum+Land+Bank+Exhibition+Hall+Taipei) — A 1930s former bank nicknamed for its life-size Tarbosaurus/Triceratops/Velociraptor replicas, plus giant bank vaults, VR "dinosaur telescopes" and fossil-digging. Tue–Sun 9:30–17:00, closed Mon; NT$30/15 — the ticket also covers the main NTM building next door. Strong pull for the 9/11-year-olds.
-- [★★★★☆ 🏛️🧒 National Railway Museum (Taipei Railway Workshop)](https://www.google.com/maps/search/National+Railway+Museum+Taipei) — Brand-new (2024/25), a sprawling Japanese-era locomotive workshop with real engines, roundhouses and rolling stock you can walk around. Tue–Sun 9:30–17:00 (last entry 16:30), closed Mon; NT$100. A genuine train-magnet, easily 2+ hours; not yet on most tourist radars.
+- [★★★★☆ 🏛️🧒 National Railway Museum (Taipei Railway Workshop)](https://www.google.com/maps/search/National+Railway+Museum+Taipei) — Brand-new (2024/25), a sprawling Japanese-era locomotive workshop with real engines, roundhouses and rolling stock you can walk around. Tue–Sun 9:30–17:00 (last entry 16:30), closed Mon; NT$100. A genuine train-magnet, easily 2+ hours; not yet on most tourist radars. 📅 **Day 18 (Aug 28)**
 - [★★★☆☆ 🏛️ Taipei Story House](https://www.google.com/maps/search/Taipei+Story+House+Taipei) — A whimsical 1913 Tudor/Baroque-fusion villa built by a tea merchant, next to TFAM; free Chinese-language guided tours 11:00 & 15:30. Tue–Sun 10:00–17:30, closed Mon; NT$50/40. A quick 20–30 min add at the TFAM area.
 
 #### C. Art
@@ -1427,7 +1427,7 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 - [★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan) — ~300-350 stalls; Mon, Tue, Fri from 6pm-1:30am; Ancient Scallion Pancake truck (most popular stall) 📅 **Day 15 (Aug 25)**
 
 ### Museum
-- [★★★☆☆ 🏛️ Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum)
+- [★★★☆☆ 🏛️ Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum) 📅 **Day 16 (Aug 26)**
 
 ---
 
@@ -1545,7 +1545,7 @@ Deeper Tainan picks. Same caveats: Aug heat + typhoon; Ghost Month (Ghost Day Au
 Several slot easily into the existing Lotus Pond/Pier-2/Cijin route (Zuoying Old City is by Lotus Pond; Takao Railway Museum is by Pier-2; Cihou Fort/Sizihwan/Shoushan are by the British Consulate). E-DA World and Meinong are full/half-day commitments that need their own slot. **Aug note:** typhoon-cancellable coastal/harbor picks — keep indoor backups (Chimei/NMTH already listed, plus KMFA, Dream Mall, Takao Railway Museum).
 
 #### A. History & Heritage
-- [★★★★☆ 🏛️🧒 Takao Railway Museum & Hamasen Railway Cultural Park](https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung) — Restored 1908 Takao Station with 30+ historic locomotives/rail cars on the original tracks, plus the revived Hamasen Express heritage train (weekends/holidays). Adjacent to Pier-2 — trivial to fold in. Museum Tue–Sun 10:00–18:00. Strong train-loving-kid appeal.
+- [★★★★☆ 🏛️🧒 Takao Railway Museum & Hamasen Railway Cultural Park](https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung) — Restored 1908 Takao Station with 30+ historic locomotives/rail cars on the original tracks, plus the revived Hamasen Express heritage train (weekends/holidays). Adjacent to Pier-2 — trivial to fold in. Museum Tue–Sun 10:00–18:00. Strong train-loving-kid appeal. 📅 **Day 16 (Aug 26)**
 - [★★★★☆ 🏯 Zuoying Old City Wall & Fengyi Gate](https://www.google.com/maps/search/Zuoying+Old+City+Fengyi+Gate+Kaohsiung) — Built 1825; the oldest, largest well-preserved walled-city remnant in Taiwan (500m+ of original coral-stone/granite wall around the East Gate). In Zuoying — same area as Lotus Pond — so a natural (free) add before/after the pagodas.
 - [★★★☆☆ 🏯📸 Cihou Fort (Qihou Fort)](https://www.google.com/maps/search/Cihou+Fort+Kaohsiung) — An 1875 Qing hilltop fort on Cijin Island with sweeping harbor/strait views; free, daily ~9:00–17:00. Easy add to the planned Cijin stop.
 

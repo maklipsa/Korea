@@ -38,8 +38,7 @@ Gate prices are adult / child. "In our plan?" = whether it's currently on the it
 | **Changdeokgung Palace** | ✅ Free (redundant — hanbok = free anyway) | 3,000 | 1,500 | ✅ Aug 12 |
 | Secret Garden (Huwon) | ⚠️ Uncertain (separate reserved tour) | 5,000 | 2,500 | ✅ Aug 12 |
 | **Nami Island** admission | ✅ Free (zipline ~44,000 & Gapyeong shuttle **not** covered) | ~16,000 | ~10,000–13,000 | ✅ Aug 15 (we enter by zipline — see note) |
-| Alive / Trick Eye Museum | ✅ Free | ~13,000–15,000 | ~11,000 | ➖ not really scheduled |
-| KEYESCAPE escape room | ❌ Not a partner | ~22,000/pp | same | ⚠️ Aug 14 (maybe) |
+| Alive / Trick Eye Museum | ✅ Free | ~13,000–15,000 | ~11,000 | ⚠️ Aug 14 (optional) |
 | 943 Kings Cross / animal cafe | ❌ No free entry | ~10,000 | ~10,000 | ⚠️ Aug 14 (maybe) |
 
 **Free anyway (no pass value):** War Memorial, National Museum of Korea, National Folk Museum, MMCA, Leeum, Gyeongbokgung (Tue closed / free with hanbok), Bukchon, Gwangjang & other markets.

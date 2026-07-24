@@ -5,10 +5,10 @@
 ## Route Map
 
 **Tainan morning:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=A+Cun+Beef+Soup+Tainan&destination=Hayashi+Department+Store+Tainan&waypoints=Guohua+Street+Tainan|Chihkan+Tower+Tainan|Grand+Matsu+Temple+Tainan|Du+Hsiao+Yueh+Tainan&travelmode=walking)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=A+Cun+Beef+Soup+Tainan&destination=Hayashi+Department+Store+Tainan&waypoints=Guohua+Street+Tainan|Chihkan+Tower+Tainan|Grand+Matsu+Temple+Tainan|Du+Hsiao+Yueh+Tainan|Tainan+Art+Museum&travelmode=walking)
 
 **Kaohsiung afternoon/evening:**
-[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Formosa+Boulevard+MRT+Kaohsiung&destination=Liuhe+Night+Market+Kaohsiung&waypoints=Pier-2+Art+Center+Kaohsiung|Cijin+Island+Kaohsiung&travelmode=driving)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Formosa+Boulevard+MRT+Kaohsiung&destination=Liuhe+Night+Market+Kaohsiung&waypoints=Pier-2+Art+Center+Kaohsiung|Takao+Railway+Museum+Kaohsiung|Cijin+Island+Kaohsiung&travelmode=driving)
 
 ## Schedule
 
@@ -20,10 +20,11 @@
 | 10:00 | **[★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan)** — 2-min walk from Chihkan; originally a Southern Ming prince's palace (1664), it became Taiwan's first official Matsu temple and holds the largest collection of antique imperial inscription boards. | Free |
 | 10:30 | **[★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan)** — Danzai noodles since 1895. Broth pot allegedly never fully cleaned in 130+ years. Opens 11am. | ~NT$100 |
 | 11:30 | **[★★★☆☆ 🛍️📸 Hayashi Department Store](https://www.google.com/maps/search/Hayashi+Department+Store+Tainan)** — 1932 building restored to 1930s glory. Teas, vintage souvenirs. Rooftop Shinto shrine (only one in Taiwan). | Free entry |
+| 12:00 | **[★★★☆☆ 🏛️🎨 Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum)** — Contemporary-art museum on two central sites: a 1931 former police station (Building 1) and Shigeru Ban's dramatic fractal-roofed **Building 2**. A cool modern-art break in the food crawl — closed Mon, open today (Wed). | ~NT$100 |
 | 12:30 | **★★☆☆☆ Snail Alley** — Hidden neighborhood with snail statues everywhere. Scavenger hunt for kids! |  |
 | 13:30 | **TRA Tainan → Kaohsiung** (~30–40 min) — downtown-to-downtown, arrives Kaohsiung Main Station (1 MRT stop from Formosa Blvd); simplest for this all-downtown day. HSR is faster on rail (~15 min) but uses Tainan HSR (Shalun, ~20–25 min from centre) → arrives Zuoying (north), then MRT red line ~15 min to Formosa Blvd. |  |
 | 15:00 | **[★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung)** — World's largest glass art. 4,000+ pieces. Light show at 3pm. | Free |
-| 15:30 | **[★★★☆☆ 🏛️🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** — Harbor warehouses turned galleries. Outdoor murals, quirky sculptures. | Free (outdoor) |
+| 15:30 | **[★★★☆☆ 🏛️🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** — Harbor warehouses turned galleries. Outdoor murals, quirky sculptures. On the same original tracks, fold in the **[★★★★☆ 🏛️🧒 Takao Railway Museum](https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung)** (restored 1908 Takao Station, 30+ historic locomotives you can walk around) — zero detour, a train-magnet for the kids. | Free (outdoor) |
 | 17:00 | **Ferry to [★★★☆☆ 🌳🚡 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** (5 min) from Gushan Ferry Pier; runs ~5am–2am, every ~10 min. Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast. | Ferry NT$30 cash / NT$20 EasyCard, per ride |
 | 19:00 | Ferry back. |  |
 | 19:30 | **[★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung)** dinner — Tourist-friendly, strong on seafood. (Ruifeng is closed Wed.) | ~NT$200-400/person |
