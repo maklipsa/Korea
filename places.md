@@ -1160,8 +1160,8 @@ Modern Taipei, the iconic tower, best food street in Asia, night markets.
 #### Shopping
 - [★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — 1960s apartments now hosting indie boutiques and roaster cafes 📅 *near Day 12 (Aug 22)*
 - [★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Garment district; teen clothing at wholesale prices 📅 *near Day 12 (Aug 22)*
-- [★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) — Taipei's most popular pineapple-cake bakery (Nanjing E Rd, Songshan); daily ~08:30–20:30, expect queues — go early. Essential souvenir stop. 📅 **Day 19 (Aug 29)** · **Day 18 (Aug 28)**
-- [★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei) — 100% pineapple filling; free tasting with a cup of oolong (Minsheng flagship, Songshan); daily ~10:00–20:00 📅 **Day 19 (Aug 29)** · **Day 18 (Aug 28)**
+- [★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) — Taipei's most popular pineapple-cake bakery (Nanjing E Rd, Songshan); daily ~08:30–20:30, expect queues — go early. Essential souvenir stop. 📅 **Days 18, 19 (Aug 28, 29)**
+- [★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei) — 100% pineapple filling; free tasting with a cup of oolong (Minsheng flagship, Songshan); daily ~10:00–20:00 📅 **Days 18, 19 (Aug 28, 29)**
 
 ---
 
@@ -1410,7 +1410,7 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 ### Historic Streets
 - [★★★★☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan) — Qing Dynasty-era; trendy cafes in old buildings; annual lantern festival; beautiful day and night 📅 **Day 15 (Aug 25)**
 - ★★☆☆☆ 🚶🤪 Snail Alley — Hidden neighborhood; snail statues everywhere; turn it into scavenger hunt with kids
-- [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Near Fort Zeelandia; food stalls, shrimp crackers 📅 **Day 15 (Aug 25)**
+- [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Near Fort Zeelandia; food stalls, shrimp crackers 📅 **Day 15 (Aug 25)** · *near Day 16 (Aug 26)*
 
 ### Landmarks
 - [★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan) — Warehouse consumed by banyan tree roots; walk through intertwined trees; daily 8:30am-5:30pm; Ninao ice cream on site 📅 **Day 15 (Aug 25)**
