@@ -98,6 +98,8 @@ function renderContent() {
     main.innerHTML = renderPacking();
   } else if (activeTab === 'cards') {
     main.innerHTML = renderCards();
+  } else if (activeTab === 'places') {
+    main.innerHTML = renderPlaces();
   } else {
     const day = DAYS.find(d => d.id === activeTab);
     if (day) main.innerHTML = renderDay(day);
@@ -457,6 +459,20 @@ function renderCards() {
     `<section class="card-doc" id="${c.id}"><h2 class="card-doc-title">${c.title}</h2>${c.html}</section>`
   ).join('');
   return `<div class="cards-page">${nav}${sections}</div>`;
+}
+
+function renderPlaces() {
+  if (typeof PLACES === 'undefined' || !PLACES.length) {
+    return '<div class="overview-section"><p>No places data — run <code>python generate_site_data.py</code>.</p></div>';
+  }
+  const intro = '<p class="legend-intro">The full place catalog, by region. Jump to a region, then browse by district and category. Every name links to Google Maps.</p>';
+  const nav = '<div class="card-nav">' +
+    PLACES.map(p => `<a class="card-nav-chip" href="#${p.id}">${p.nav}</a>`).join('') +
+    '</div>';
+  const sections = PLACES.map(p =>
+    `<section class="card-doc" id="${p.id}"><h2 class="card-doc-title">${p.title}</h2>${p.html}</section>`
+  ).join('');
+  return `<div class="cards-page places-page">${intro}${nav}${sections}</div>`;
 }
 
 // === INIT ===

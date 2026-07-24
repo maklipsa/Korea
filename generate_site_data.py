@@ -18,6 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 ITINERARY = ROOT / "itinerary.md"
 PASSES_MD = ROOT / "passes.md"
+PLACES_MD = ROOT / "places.md"
 DAYS_DIR = ROOT / "days"
 OUT = ROOT / "docs" / "data.js"
 CARDS_DIR = ROOT / "cards"
@@ -467,6 +468,67 @@ def build_cards():
     return cards
 
 
+# --- places.md --------------------------------------------------------------
+# The master place catalog is rich Markdown (region ## / district ### /
+# category ####), so it reuses the card block-to-HTML converter above. Each
+# top-level ## region becomes one section of the Places subsite, mirroring the
+# CARDS structure ({id, nav, title, html}) so docs/app.js can render it with
+# the existing .card-doc / .card-nav styles.
+
+_NAV_OVERRIDES = {
+    "Taiwan Must-Try Dishes Checklist": "Dishes",
+    "Day Trips From Seoul": "Seoul Day Trips",
+}
+
+
+def _place_nav(title):
+    """Short nav-chip label from a region heading (drop country prefix, notes)."""
+    t = title
+    for pre in ("KOREA — ", "TAIWAN — "):
+        if t.startswith(pre):
+            t = t[len(pre):]
+            break
+    t = re.sub(r"\s*—.*$", "", t)         # drop trailing ' — Aug 11–29…'
+    t = re.sub(r"\s*\(.*?\)\s*", " ", t)       # drop parentheticals
+    label = smart_title(t.strip())
+    return _NAV_OVERRIDES.get(label, label)
+
+
+def build_places():
+    if not PLACES_MD.exists():
+        return []
+    lines = PLACES_MD.read_text(encoding="utf-8").splitlines()
+    sections, title, body = [], None, []
+
+    def flush():
+        if not title or title.strip().lower() == "emoji key":
+            return                              # legend already lives on Overview
+        # Promote headings one level (#### -> ###, ### -> ##) so render_card_markdown
+        # maps them onto the styled .card-doc h3/h4 (it renders H2+ and skips H1).
+        promoted = [
+            re.sub(r"^(#{3,6})(\s)", lambda m: "#" * (len(m.group(1)) - 1) + m.group(2), ln)
+            for ln in body
+        ]
+        html = render_card_markdown("\n".join(promoted), {})
+        if html.strip():
+            sections.append({
+                "id": "place-" + slugify(_place_nav(title)),
+                "nav": _place_nav(title),
+                "title": smart_title(title),
+                "html": html,
+            })
+
+    for ln in lines:
+        m = re.match(r"^##\s+(.*)$", ln)        # H2 only ('### ' has '#' after '##')
+        if m:
+            flush()
+            title, body = m.group(1).strip(), []
+        elif title is not None:
+            body.append(ln)
+    flush()
+    return sections
+
+
 # --- emit -------------------------------------------------------------------
 
 def js_block(name, data):
@@ -478,6 +540,7 @@ def main():
     checklist = parse_checklist()
     passes = parse_passes()
     cards = build_cards()
+    places = build_places()
 
     header = (
         "// === ITINERARY DATA ===\n"
@@ -489,12 +552,13 @@ def main():
         + js_block("DAYS", days) + "\n\n"
         + js_block("CHECKLIST", checklist) + "\n\n"
         + js_block("PASSES", passes) + "\n\n"
-        + js_block("CARDS", cards) + "\n",
+        + js_block("CARDS", cards) + "\n\n"
+        + js_block("PLACES", places) + "\n",
         encoding="utf-8",
     )
     print(f"Wrote {OUT.relative_to(ROOT)}")
     print(f"  {len(days)} days, {len(checklist)} checklist items, "
-          f"{len(passes)} passes, {len(cards)} cards")
+          f"{len(passes)} passes, {len(cards)} cards, {len(places)} place regions")
 
 
 if __name__ == "__main__":
