@@ -202,7 +202,7 @@ International vibe, world-class free museums, cool hillside alleys.
 
 #### Cafes
 - [★★☆☆☆ ☕ Le Montblanc HBC](https://www.google.com/maps/search/Le+Montblanc+Haebangchon+Seoul) — Yarn-themed cafe; desserts that look like yarn balls; rooftop 📅 *near Day 3 (Aug 13)*
-- [★★☆☆☆ ☕ Dotori](https://www.google.com/maps/search/Dotori+cafe+Haebangchon+Seoul) — Looks like a Studio Ghibli movie; fairy-tale interior
+- [★★☆☆☆ ☕ Dotori](https://www.google.com/maps/search/Dotori+cafe+Yongsan+Seoul) — Looks like a Studio Ghibli movie; fairy-tale interior 📅 **Day 3 (Aug 13)**
 - [★★☆☆☆ ☕ Cafe MOONEE HBC](https://www.google.com/maps/search/Cafe+MOONEE+Haebangchon+Seoul) — 3-story rooftop with sunset views and Namsan Tower panorama 📅 *near Day 3 (Aug 13)*
 - [★☆☆☆☆ ☕ Anthracite Hannam](https://www.google.com/maps/search/Anthracite+Hannam+Seoul) — ⚠️ PERMANENTLY CLOSED (Dec 2025); try OSULLOC Tea House Hannam instead
 - [★★★☆☆ 🍵 OSULLOC Tea House Hannam](https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul) — Green tea specialty; black lava rock walls 📅 **Day 3 (Aug 13)**
@@ -1160,6 +1160,8 @@ Modern Taipei, the iconic tower, best food street in Asia, night markets.
 #### Shopping
 - [★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — 1960s apartments now hosting indie boutiques and roaster cafes 📅 *near Day 12 (Aug 22)*
 - [★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Garment district; teen clothing at wholesale prices 📅 *near Day 12 (Aug 22)*
+- [★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) — Taipei's most popular pineapple-cake bakery (Nanjing E Rd, Songshan); daily ~08:30–20:30, expect queues — go early. Essential souvenir stop. 📅 **Day 19 (Aug 29)** · *near Day 18 (Aug 28)*
+- [★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei) — 100% pineapple filling; free tasting with a cup of oolong (Minsheng flagship, Songshan); daily ~10:00–20:00 📅 **Day 19 (Aug 29)** · *near Day 18 (Aug 28)*
 
 ---
 
@@ -1399,6 +1401,7 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 - [★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan) — Danzai noodles since 1895; broth pot allegedly never fully cleaned in 130+ years; daily 11am-8pm 📅 **Day 16 (Aug 26)**
 - [★★★☆☆ 🍜 Yi Wei Pin at Yongle Market](https://www.google.com/maps/search/Yi+Wei+Pin+Yongle+Market+Tainan) — Michelin Bib Gourmand; bowl rice cake + milkfish thick soup; 5am-5pm 📅 *near Day 15 (Aug 25)*
 - [★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan) — Go early morning; this is a breakfast food. ⚠️ Closed Mon–Wed (open Thu–Sun 05:00–11:00) — on a Wed morning go to A Cun Beef Soup (阿村) instead
+- [★★★☆☆ 🍜 A Cun Beef Soup 阿村牛肉湯](https://www.google.com/maps/search/A+Cun+Beef+Soup+Tainan) — Michelin-listed Tainan breakfast beef soup; fresh warm-slaughtered beef; Guohua St / Bao'an Rd; open Wed from ~4am (the Wed-morning alternative to Six Thousand) 📅 **Day 16 (Aug 26)**
 - 🍜 Coffin Bread (Guan Cai Ban) — Thick toast hollowed out, filled with seafood chowder, deep-fried
 - [★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan) — Famous on Anping Old Street 📅 **Day 15 (Aug 25)**
 - [★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan) — Silky douhua on Anping Old Street 📅 **Day 15 (Aug 25)**
