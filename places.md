@@ -98,7 +98,7 @@ Shopping, street food, city views, and hidden retro bars.
 - [★★★☆☆ 🏯 Namdaemun (Sungnyemun Gate)](https://www.google.com/maps/search/Namdaemun+Gate+Seoul) — National Treasure No. 1; the Great South Gate, built 1398 📅 **Day 6 (Aug 16)**
 - [★★☆☆☆ ⛪ Myeongdong Cathedral](https://www.google.com/maps/search/Myeongdong+Cathedral+Seoul) — Gothic cathedral (1898); Seoul's oldest parish church 📅 *near Day 6 (Aug 16)*
 - [★★★☆☆ 📸 Dongdaemun Design Plaza (DDP)](https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul) — Zaha Hadid-designed landmark; futuristic curves; rooftop tours bookable (new 2025) 📅 **Day 1 (Aug 11)**
-- [★★☆☆☆ 🏯 Heunginjimun (Dongdaemun Gate)](https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul) — Original Seoul Fortress gate, built 1398 📅 *near Day 1 (Aug 11)*
+- [★★☆☆☆ 🏯 Heunginjimun (Dongdaemun Gate)](https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul) — Original Seoul Fortress gate, built 1398 📅 **Day 1 (Aug 11)**
 - [★★☆☆☆ 🛍️ Sewoon Sangga](https://www.google.com/maps/search/Sewoon+Sangga+Seoul) — Massive 1960s electronics/maker mall; rooftop garden with city views 📅 **Day 6 (Aug 16)**
 
 #### Parks & Walks
