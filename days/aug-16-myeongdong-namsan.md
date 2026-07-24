@@ -11,7 +11,7 @@
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:30 | Hike up **Namsan Mountain** to N Seoul Tower (or take **[★★★☆☆ 🚡🗼 Namsan Cable Car](https://www.google.com/maps/search/Namsan+Cable+Car+Seoul)**, ~15,000 KRW round-trip). | Pass or ~15,000 KRW |
+| 9:30 | Hike up **Namsan Mountain** to N Seoul Tower (or take **[★★★☆☆ 🚡🗼 Namsan Cable Car](https://www.google.com/maps/search/Namsan+Cable+Car+Seoul)**, ~15,000 KRW round-trip). | ~15,000 KRW (not on the pass) |
 | 10:30 | **[★★★★★ 🗼🧒 N Seoul Tower](https://www.google.com/maps/search/Namsan+Tower+Seoul)** — Digital observatory, love lock terrace, gift shop. Views over all of Seoul. | Pass or 16,000 KRW |
 | 12:00 | Cable car/walk down to Myeongdong. |  |
 | 12:30 | Lunch: **[★★★☆☆ 🍜 Myeongdong Kyoja](https://www.google.com/maps/search/Myeongdong+Kyoja+Seoul)** — Since 1966. Legendary dumplings and noodle soup. Michelin Bib Gourmand. | ~10,000 KRW |

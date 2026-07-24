@@ -82,8 +82,8 @@ Like the Seoul pass, the **Visit Busan Pass** is **foreigners-only** and appears
 - **Where to buy:** visitbusanpass.com or Klook / KKday / Trazy / Creatrip (**mobile QR only — the physical card was discontinued ~Oct 2024**; occasional promo discounts — worth a price check).
 - **⚠️ Re-verify before Aug 2026:** child pass pricing (believed flat), SEA LIFE / Trick Eye / Science Museum coverage, the Group A/B assignments, and all gate prices (they've been drifting up — the 24H was ~35–45k in prior years, now 55k).
 
-### Correction flagged in existing docs
-[days/aug-19-busan.md](../days/aug-19-busan.md) lists the **Sky Capsule** at "~50,000 KRW/capsule (2-pax)". Current sources show **~35,000–40,000 for a 1–2-person capsule, one-way** (the 50,000 figure looks like a round-trip or older price). Worth updating — I left day files untouched; tell me to fix it.
+### Correction applied to the day file
+[days/aug-19-busan.md](../days/aug-19-busan.md) previously listed the **Sky Capsule** at "~50,000 KRW/capsule (2-pax)". Current sources show **~35,000–40,000 for a 1–2-person capsule, one-way**, so that line now reads "Sky Capsule ~35,000–40,000/capsule (1–2 pax, one-way)".
 
 ---
 

@@ -95,8 +95,8 @@ The pass earns its keep on three items that cluster **Aug 16→18**: N Seoul Tow
 - **Where to buy:** official app/site (discoverseoulpass.com — now foregrounds 72h/120h + Pick-3) or **Klook / KKday / Trazy / Pelago** (still stock the 24h/48h). No meaningful price difference between channels; the mobile version includes the eSIM.
 - **⚠️ Re-verify before Aug 2026:** whether the **48h** is still sold, exact KRW prices (especially child gate prices), and Seoul Sky's discount status.
 
-### Correction flagged in existing docs
-[days/aug-16-myeongdong-namsan.md](../days/aug-16-myeongdong-namsan.md) lists the **Namsan Cable Car** as "Pass or ~15,000 KRW", implying the Discover Seoul Pass covers it. **It does not** — only the N Seoul Tower observatory is free; the cable car is always out of pocket. Worth fixing that line (I left day files untouched — say the word and I'll correct it).
+### Correction applied to the day file
+[days/aug-16-myeongdong-namsan.md](../days/aug-16-myeongdong-namsan.md) previously listed the **Namsan Cable Car** as "Pass or ~15,000 KRW", implying the Discover Seoul Pass covers it. **It does not** — only the N Seoul Tower observatory is free — so that line now reads "~15,000 KRW (not on the pass)".
 
 ---
 
