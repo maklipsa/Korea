@@ -34,6 +34,8 @@ The big traditional Seoul day. Everything open on Wednesdays.
 - [★☆☆☆☆ 🏯 Cheongwadae (former Blue House)](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — ⚠️ CLOSED to the public since Aug 2025 (president moved back in); public tours suspended for 2026 — skip
 - [★★★☆☆ 🏯 Changgyeonggung Palace](https://www.google.com/maps/search/Changgyeonggung+Palace+Seoul) — Less crowded palace, beautiful at night
 - [★★☆☆☆ 🌳🏯 Tapgol Park](https://www.google.com/maps/search/Tapgol+Park+Seoul) — Historic park with 10-tier marble pagoda
+- [★★★☆☆ 🏛️ Seoul Museum of History](https://www.google.com/maps/search/Seoul+Museum+of+History+Seoul) — City-history museum + giant scale-model of Seoul, next to Gyeonghuigung off Gwanghwamun. FREE; closed Mon
+- [★★★☆☆ 🏛️🗼 Yun Dong-ju Literature Museum](https://www.google.com/maps/search/Yun+Dong-ju+Literature+Museum+Seoul) — Poet's museum in a converted water-pressure station at the foot of Inwangsan (Buam-dong), rooftop city view. FREE; closed Mon
 
 ### More Cafes
 - [★★☆☆☆ ☕ Newmix Coffee Bukchon](https://www.google.com/maps/search/Newmix+Coffee+Bukchon+Seoul) — Inside hanok village; cinnamon yakgwa flavor

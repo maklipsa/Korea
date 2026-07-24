@@ -40,6 +40,7 @@ Animal cafes, weird ice cream, street performers.
 - [★☆☆☆☆ 🍜 Oshi](https://www.google.com/maps/search/Oshi+Mangwon+Seoul) — Osaka-style okonomiyaki
 
 ### More to See
+- [★★☆☆☆ 🏛️ War & Women's Human Rights Museum](https://www.google.com/maps/search/War+and+Womens+Human+Rights+Museum+Seoul) — Small, moving WWII "comfort women" museum, Mapo. ~₩5,000; closed Sun & Mon. ⚠️ Heavy — adult/15-yo stop, likely too much for the 9-yo
 - [★★☆☆☆ 📸🧒 Trickeye Museum (trick-art selfie spot) + Ice Museum](https://www.google.com/maps/search/Trickeye+Museum+Hongdae+Seoul) — Optical-illusion trick-art you pose *inside* for photos — a fun Instagram stop for the 9 & 11-yr-olds, **not a real gallery/culture stop**. Combo w/ Ice Museum; open 9:00–21:00 (last entry 20:00); ~15,000–18,000 KRW, free on the Discover Seoul Pass; walk-in, ~8 min from Hongik Univ. Stn Exit 9.
 - [★★☆☆☆ 🛍️🧒 Hongdae Children's Playground](https://www.google.com/maps/search/Hongdae+Playground+Seoul) — Weekend flea market; street performers
 - [★★☆☆☆ 🌳 Mangwon Hangang Park](https://www.google.com/maps/search/Mangwon+Hangang+Park+Seoul) — Riverside cycling and picnics

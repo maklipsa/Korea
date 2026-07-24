@@ -36,11 +36,17 @@
 ### More in Tainan
 - [★★☆☆☆ 🚶📸 Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Art installations in former dormitory
 - [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Food stalls, shrimp crackers by Fort Zeelandia — covered in the **Aug 25 Anping block** (it's on that side of town, not the central morning cluster)
+- [★★★★☆ 🏯 Official God of War Temple](https://www.google.com/maps/search/Official+God+of+War+Temple+Tainan) — Taiwan's oldest Guandi temple, opposite Chihkan Tower; near-zero detour on the morning loop. Daily; free
+- [★★★☆☆ 🏯 Altar of Heaven (Tiantan)](https://www.google.com/maps/search/Altar+of+Heaven+Tiantan+Tainan) — Taiwan's first Altar of Heaven (1854); lively folk temple, the "One" (一) inscription. Daily; free
+- [★★★☆☆ 🏯🤪 Dongyue Temple](https://www.google.com/maps/search/Dongyue+Temple+Tainan) — 1693 "underworld" hall with graphic hell murals — memorable for the 11 & 15-yo. Daily; free
+- [★★★☆☆ 🏯🧒 Great South Gate](https://www.google.com/maps/search/Great+South+Gate+Tainan) — Only intact Tainan city gate: cannons + climbable rampart + Qing steles, park south of the Confucius Temple. 9–17; free
 
 ### More in Kaohsiung
 - [★★★★☆ 🏯🏛️ Fo Guang Shan Monastery](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — Taiwan's largest Buddhist monastery + giant Buddha, FREE (closed Tue). ⚠️ ~40 min out in Dashu = a **half-day of its own**; it can't slot into today's packed Tainan-morning → Cijin-afternoon plan. To see it, swap the Cijin afternoon or add a Kaohsiung day.
 - [★★★☆☆ 🎭 Weiwuying](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — World's largest performing-arts center under one roof; striking free architecture, family workshops. A detour SE of the harbor/Cijin loop (also near the Aug 27 morning).
 - [★★★☆☆ 🌳🚡 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — Lit up at night; already on the **Aug 27 morning** walk (tonight's dinner is Liuhe).
+- [★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung) — Cijin's oldest Mazu temple (1673) on the Old Street; zero-detour on the ferry visit. Free
+- [★★☆☆☆ 🏛️ Kaohsiung Film Archive](https://www.google.com/maps/search/Kaohsiung+Film+Archive) — Free Taiwanese-cinema archive on the Love River's west bank. Closed Mon
 
 ### Kaohsiung Night Markets
 - [★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung) — Kaohsiung's largest and best; 500+ stalls (closed Mon & Wed — skip today, open other days)

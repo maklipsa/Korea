@@ -37,6 +37,10 @@
 ### More in Kaohsiung
 - [★★★☆☆ 🎭🎨 Weiwuying](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — World's largest performing arts center; family workshops
 - ☕ Papaya milk from street vendors — Kaohsiung specialty!
+- [★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — Huge hands-on STEM + IMAX dome (Sanmin). Closed Mon; NT$100 adult / concession kids. ⚠️ Half-day — tight before the HSR north
+- [★★★☆☆ 🐾🧒 Shoushan Zoo](https://www.google.com/maps/search/Shoushan+Zoo+Kaohsiung) — Renovated free-flowing zoo with elevated walkways, Shoushan Park. Closed Mon; NT$40 / NT$20 kids
+- [★★★☆☆ 🏛️🚶 Zuoying Military Dependents' Village](https://www.google.com/maps/search/Zuoying+Military+Dependents+Village+Kaohsiung) — Restored navy juancun cultural park by Lotus Pond / Old City. Closed Mon; free/low
+- [★★★☆☆ 🛍️🍜 Neiwei Afternoon Market](https://www.google.com/maps/search/Neiwei+Market+Kaohsiung) — Rare daytime eat-on-the-go market, one MRT stop from Zuoying/HSR. Free
 
 ### Maokong Extras
 - [★★★☆☆ 🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) — At gondola base; one of Asia's largest (NT$100 adult / NT$60 child 6-12 & students; 9:00-17:00, last entry 16:00)

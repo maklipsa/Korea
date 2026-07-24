@@ -38,5 +38,6 @@ No fixed route — pick a morning activity:
 
 ### More Galleries & Activities
 - [★★★★☆ 🏛️🎨 Taipei Fine Arts Museum (TFAM)](https://www.google.com/maps/search/Taipei+Fine+Arts+Museum+Taipei) — Taiwan's leading modern-art museum (Yuanshan, ~1 MRT stop N of Zhongshan); 2026 shows include a Ryuichi Sakamoto sound/media exhibition. Open Fri to 17:30, **closed Mon** — a top modern-art pick if you want a fifth gallery today.
+- [★★★☆☆ 🌳🗼📸 Jinmianshan Trail](https://www.google.com/maps/search/Jinmianshan+Trail+Taipei) — Short roped rock-scramble hike (Neihu) with Taipei 101 views; a kid-magnet. Free. ⚠️ Skip if wet — Aug typhoons make the rock dangerous
 - [★★☆☆☆ ☕🤪 Alice is Coming Cafe](https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei) — Wonderland-themed (Ximending). **UNVERIFIED** — no recent reviews since ~2021; confirm still open (Facebook) before going.
 - [★★☆☆☆ ☕ Nice Cream](https://www.google.com/maps/search/Nice+Cream+Taipei) — Vegan gelato; Earl Grey waffle

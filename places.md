@@ -452,6 +452,9 @@ A second, more niche pass — galleries, extra mountains, specialty food streets
 - [★★★☆☆ ⛪ Yakhyeon Catholic Church](https://www.google.com/maps/search/Yakhyeon+Catholic+Church+Seoul) — Korea's first Western-style church building (1892), predating Myeongdong Cathedral by 6 years; Gothic brick chapel near Seoul Station, free, courtyard open (interior limited during Mass). A 20-min photo add-on.
 - [★★★☆☆ 🚶 Jeongdong-gil Historic Walk](https://www.google.com/maps/search/Deoksugung+Doldam-gil+Jeongdong-gil+Seoul) — Free ~900m stone-wall lane beside Deoksugung, gorgeous at night; passes Korea's oldest Protestant church (1897) and Jeongdong Theater. Its own evening stroll.
 - [★★☆☆☆ 🏯 Hyehwamun & Changuimun Gates](https://www.google.com/maps/search/Hyehwamun+Gate+Seoul) — Two restored minor gates of the 1396 city wall; for the Hanyangdoseong wall-hike stamp trail. Free.
+- [★★★☆☆ 🏛️ Seoul Museum of History](https://www.google.com/maps/search/Seoul+Museum+of+History+Seoul) — Big city-history museum (prehistoric Seoul → today) with a famous giant scale-model of the city and donated-collection galleries; right next to Gyeonghuigung Palace off Gwanghwamun — do both. Free; 9:00–18:00 (Fri to 21:00, last entry 17:30), closed Mon. 📅 *near Day 2 (Aug 12)*
+- [★★★☆☆ 🏛️🗼 Yun Dong-ju Literature Museum](https://www.google.com/maps/search/Yun+Dong-ju+Literature+Museum+Seoul) — Award-winning adaptive reuse of a 1970s water-pressure station at the foot of Inwangsan (Buam-dong): three spare rooms on the resistance-era poet + a rooftop "Poet's Hill" city viewpoint. Free; 10:00–18:00, closed Mon. Sits at Changuimun Gate — pairs with the Inwangsan wall loop + the Buam-dong art cluster (Whanki, Seoul Museum/Seokpajeong). 📅 *near Day 2 (Aug 12)*
+- [★★☆☆☆ 🏛️ War & Women's Human Rights Museum](https://www.google.com/maps/search/War+and+Womens+Human+Rights+Museum+Seoul) — Small, moving museum on the WWII "comfort women," Mapo/Seongsan near World Cup Park; English audio guide. ~₩5,000 adult (youth discount), Tue–Sat 10:00–18:00 (last entry ~17:00), closed Sun & Mon. ⚠️ Heavy subject — an adult/15-yo stop; likely too much for the 9-year-old (Seodaemun Prison already covers hard modern history). 📅 *near Day 4 (Aug 14)*
 
 #### B. Museums
 - [★★★★☆ 🏛️🧒 Seoul Robot & AI Museum (RAIM)](https://www.google.com/maps/search/Seoul+Robot+AI+Museum+Seoul) — New (Oct 2024), spherical mirror-shell building "built by robots," in Dobong-gu (far north). 1F AI Garden free; 3F ₩2,000 adult / free kids & teens — 100% advance reservation via Seoul Public Service Reservation. Tue–Sun 9:30–19:30. Big robot-kid magic; budget travel time.
@@ -1455,6 +1458,18 @@ A second, more niche pass — smoke-free temples, a dinosaur hall, a new railway
 
 ---
 
+### Even More — Taipei (Round 3: Lonely Planet)
+
+Gaps surfaced by a Lonely Planet sweep against the (already dense) catalog — mostly minor add-ons; the Design Museum is the one substantive miss.
+
+#### Museums
+- [★★★★☆ 🏛️🎨 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei) — Taiwan's national design museum (TDRI) inside Songshan Cultural & Creative Park; contemporary Taiwanese/international design shows — ranks high on the modern/design axis. Tue–Sun 10:00–18:00 (last ticket 17:30), closed Mon; NT$50 (verify child/youth tiers). Pairs with Songshan Park / Not Just Library. 📅 *near Day 12 (Aug 22) or Day 18 (Aug 28)*
+- [★★★☆☆ 🏛️ Discovery Center of Taipei](https://www.google.com/maps/search/Discovery+Center+of+Taipei) — Free city-history museum on floors 1–4 of Taipei City Hall: scale models tracing Taipei from walled city to metropolis + a 360° history film. Tue–Sun 9:00–17:00, closed Mon & holidays; FREE. Minutes from Taipei 101 / Sun Yat-sen Memorial Hall. 📅 *near Day 12 (Aug 22)*
+- [★★★☆☆ 🏛️🚶 Museum 207](https://www.google.com/maps/search/Museum+207+Dihua+Street+Taipei) — Tiny free house-museum at 207 Dihua St (a 1962 former Chinese-medicine shop); rotating shows on Taiwanese material culture + a rooftop of traditional Minnan roofs. Slots into the Dihua St walk. ~10:00–17:00, closed **Tuesday** (not Mon); free. 📅 *near Day 11 (Aug 21)*
+
+#### Nature & Parks
+- [★★★☆☆ 🌳🗼📸 Jinmianshan Trail](https://www.google.com/maps/search/Jinmianshan+Trail+Taipei) — Short rock-scramble urban hike (fixed ropes up a ~60–70° quartzite face) to a ridge with Taipei 101 / basin views, 15 min from Xihu MRT; a genuine kid-magnet, doable by the 9-yo with care. Free, dawn–dusk. Pairs with the Neihu gallery cluster. ⚠️ Aug typhoon season — the rock is dangerously slippery when wet; dry mornings only. 📅 *near Day 18 (Aug 28)*
+
 ## TAIWAN — NORTHEAST COAST (Day Trip from Taipei)
 
 Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
@@ -1623,6 +1638,23 @@ Deeper Tainan picks. Same caveats: Aug heat + typhoon; Ghost Month (Ghost Day Au
 
 ---
 
+### Even More — Tainan (Round 3: Lonely Planet)
+
+Central old-town temple cluster + two galleries from a Lonely Planet sweep. All temples free; two venues flagged as poor fits for the morning-only Aug 26 Tainan slot.
+
+#### History & Heritage
+- [★★★★☆ 🏯 Official God of War Temple (祀典武廟)](https://www.google.com/maps/search/Official+God+of+War+Temple+Tainan) — Taiwan's oldest, best-preserved Guandi temple (c.1665); the long red-ochre wall directly across from Chihkan Tower, beside Grand Mazu — near-zero extra walking on the core loop. Daily ~06:00–21:00; free. 📅 *near Day 16 (Aug 26)*
+- [★★★☆☆ 🏯 Altar of Heaven (天壇 Tiantan)](https://www.google.com/maps/search/Altar+of+Heaven+Tiantan+Tainan) — Taiwan's first Altar of Heaven (1854) to the Jade Emperor; lively working folk temple famous for the single-stroke "One" (一) inscription. A couple of minutes from the Weather Observatory. Daily ~05:00–22:00; free. 📅 *near Day 16 (Aug 26)*
+- [★★★☆☆ 🏯🤪 Dongyue Temple (東嶽殿)](https://www.google.com/maps/search/Dongyue+Temple+Tainan) — 1693 "underworld" hall with graphic Bosch-like hell murals (disembowelment, boiling) — genuinely memorable for the 11- & 15-yo, same vein as the City God Temple. Minquan Rd, near B.B.ART. Daily ~06:30–21:00; free. 📅 *near Day 16 (Aug 26)*
+- [★★★☆☆ 🏯🧒 Great South Gate (大南門城)](https://www.google.com/maps/search/Great+South+Gate+Tainan) — The only surviving Tainan city gate with wall intact: cannons, a root-strangled rampart kids can climb, 60+ Qing steles in a banyan-shaded park just south of the Confucius Temple. Daily 09:00–17:00; free. 📅 *near Day 16 (Aug 26)*
+- [★★☆☆☆ 🏯 Lady Linshui's Temple (臨水夫人媽廟)](https://www.google.com/maps/search/Lady+Linshui+Temple+Tainan) — Folk temple where mothers pray for children; 36 guardian-statuette vaults line the walls. Atmospheric but one-of-many — a droppable add-on near the Confucius Temple / Great South Gate corner. Daily ~06:00–21:00; free.
+- [★★☆☆☆ 🏯 Wind God Temple (風神廟)](https://www.google.com/maps/search/Wind+God+Temple+Tainan) — Rare temple to the God of Wind, a surviving fragment of the Qing official reception compound (with the Reception Stone Arch); a quick characterful stop in the Shennong St / Water Fairy area. Daily ~07:00–21:00; free.
+- [★★☆☆☆ 🏯 Fahua Temple (法華寺)](https://www.google.com/maps/search/Fahua+Temple+Tainan) — One of Tainan's two most ancient Buddhist temples, understated, with Pan Lishui wing-wall paintings; a completist pick, a bit south of the core loop. Daily ~06:00–21:00; free.
+
+#### Art
+- [★★★☆☆ 📷🏛️ 182 Art Space (182artspace)](https://www.google.com/maps/search/182+Art+Space+Tainan) — Genuine independent contemporary-art gallery over 3½ floors of a restored ~50-yr-old building, well-curated rotating shows (a real gallery, not a photo-op), near Tainan Art Museum. Free. ⚠️ Opens **14:00 daily** (–00:00; verify Mon) → afternoon-only, a poor fit for the morning-only Aug 26 Tainan slot; catalog for reference / if Tainan time expands.
+- [★★★☆☆ 🏛️🌳🧒 Thousand Fields Seed Museum (千畦種子館)](https://www.google.com/maps/search/Thousand+Fields+Seed+Museum+Tainan) — Private home-and-garden crammed with ~500 seed species in jars and beams; every visit is a guided tour by the founder's family — a natural-history curiosity with kid appeal, 15 min from Tainan Station. ⚠️ **By appointment only** (call days ahead; English tour ~10 days' notice, ~NT$6,000/group of 5); else NT$100/person. Reference only unless pre-booked.
+
 ## TAIWAN — KAOHSIUNG
 
 1h35m from Taipei by HSR. Harbor city, subtropical feel, great public art.
@@ -1727,6 +1759,25 @@ Deeper Kaohsiung picks plus the Cishan/Meinong/Tianliao countryside. Note night-
 
 ---
 
+### Even More — Kaohsiung (Round 3: Lonely Planet)
+
+Gaps from a Lonely Planet sweep — led by the National Science & Technology Museum (a STEM anchor named in priorities.md). No Kaohsiung pass in passes.md covers any of these.
+
+#### History & Heritage
+- [★★★☆☆ 🏛️🚶 Zuoying Military Dependents' Village (Cultural Park)](https://www.google.com/maps/search/Zuoying+Military+Dependents+Village+Kaohsiung) — Restored navy juancun turned cultural park: houses telling the KMT-retreat/displacement story, US-presence exhibits, a Zuoying-poets gallery — a history layer the Zuoying Old City Wall entry doesn't cover. Tue–Sun ~10:00–18:00 (some halls 11:00–17:00), closed Mon; free/low. Walkable add on the Lotus Pond / Old City day. 📅 *near Day 17 (Aug 27)*
+- [★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung) — Cijin's oldest Mazu temple (1673), a nationally protected relic on Cijin Old Street; the island's most historic stop. Free, daily daytime. Zero-detour on the Cijin ferry day. 📅 *near Day 16 (Aug 26)*
+
+#### Museums
+- [★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — Huge hands-on STEM museum with hourly IMAX dome, a tier-3 anchor named in priorities.md (only obliquely referenced until now). Tue–Sun 9:00–17:00 (to 18:00 in summer school holidays), closed Mon; adult NT$100 / student & child concession ~NT$70 / under 6 free (3 adults full, 15-yo student, 9 & 11 concession); IMAX & special exhibits extra. ⚠️ Closed Apr 14–May 31 2026 for maintenance — reopens before Aug; confirm. Sanmin — folds into the KMFA/Hakka-museum belt. ⚠️ Half-day venue, tight in the ~1.5-day Kaohsiung window. 📅 *near Day 17 (Aug 27)*
+- [★★☆☆☆ 🏛️ Kaohsiung Film Archive](https://www.google.com/maps/search/Kaohsiung+Film+Archive) — Taiwanese-cinema archive on the Love River's west bank; free exhibits + two art-film theaters (more screening house than exhibit museum). Public spaces free, screenings ticketed; closed Mon (verify hours). On the Yancheng/Pier-2 evening route. 📅 *near Day 16 (Aug 26)*
+- [★★☆☆☆ 🏛️🎨 Museum 50](https://www.google.com/maps/search/Museum+50+Kaohsiung) — Private one-room museum of fine mid-19th–20th-c. Japanese sculpture, netsuke and antiques (distinct from ALIEN Art Centre). ⚠️ **Appointment-only** — message the owner ~a month ahead, ~8-visitor minimum (a group of 6 must join others). Include only if you commit to booking; else skip.
+
+#### Nature & Parks
+- [★★★☆☆ 🐾🧒 Shoushan Zoo (Kaohsiung Zoo)](https://www.google.com/maps/search/Shoushan+Zoo+Kaohsiung) — Newly renovated free-flowing zoo in Shoushan Park with elevated "air corridors" and a Children's Ranch; a genuine kid-magnet in the Shoushan/British Consulate cluster. Tue–Sun 9:00–17:00 (last entry 16:30), closed Mon; adult NT$40 / NT$20 ages 6–under 18 (all 3 kids) / under 6 free. 📅 *near Day 17 (Aug 27)*
+
+#### Markets & Street Food
+- [★★★☆☆ 🛍️🍜 Neiwei Afternoon Market](https://www.google.com/maps/search/Neiwei+Market+Kaohsiung) — LP calls it "possibly one of the most authentic experiences in Taiwan": a *daytime* eat-on-the-go market (grilled chicken, stuffed buns, sushi, fruit) — a good contrast to the night markets. Afternoon hours (busiest weekends); free to wander. One MRT stop from Zuoying/HSR. 📅 *near Day 17 (Aug 27)*
+
 ## TAIWAN — TAICHUNG (47 min from Taipei by HSR)
 
 ### Must-See
@@ -1802,6 +1853,21 @@ Grouped by category; Lukang/Baguashan (Changhua) and Janfusun (Yunlin) are ~40 m
 
 ---
 
+### Even More — Taichung Area (Round 3: Lonely Planet)
+
+Gaps from a Lonely Planet sweep. Day 15 (Aug 25) is only a Taichung transit morning, so most of these are catalog / day-trip material rather than scheduled stops. (The Puli / Chung Tai + CheCheng Nantou cluster is under TAIWAN — OTHER DESTINATIONS → Puli & Chung Tai.)
+
+#### History & Heritage
+- [★★★☆☆ 🏯🧒 Paochueh Temple](https://www.google.com/maps/search/Paochueh+Temple+Taichung) — 1927 Buddhist temple crowned by a 27m seated golden laughing Buddha (Maitreya) + bell tower and gardens; the giant statue is a genuine kid-magnet landmark. Daily 09:00–17:00; free. North District — pairs with the Confucius Temple / Martyrs' Shrine cluster. 📅 *near Day 15 (Aug 25)*
+- [★★☆☆☆ 📸 Taichung Baseball Field](https://www.google.com/maps/search/Taichung+Baseball+Field+Taichung) — Taiwan's 2nd-oldest baseball stadium in use (1935, Japanese-era); atmospheric nostalgic sports architecture, exterior/limited access only. Free from outside. Lowest-priority extra beside Paochueh Temple — natural drop.
+- [★★★☆☆ 🏯📸 Pi-Lu Monastery](https://www.google.com/maps/search/Pi-Lu+Monastery+Houli+Taichung) — Architecturally unusual 1920s Buddhist monastery that looks like a neo-baroque mansion (red-brick facade, Doric columns) with a white domed columbarium; quiet and offbeat. Hours ~daylight; free. Houli (NW foothills) — worth it only if already at Houli Horse Ranch.
+
+#### Art
+- [★★★☆☆ 🚶🎨 Zhongxin Market](https://www.google.com/maps/search/Zhongxin+Market+Taichung) — A faded 1960s market block opposite NTMoFA, reborn as a low-key creative warren of artist studios, a gallery, second-hand bookstores and indie cafés in the original old houses — character-district culture, not retail. Opens ~14:00–22:00; free. Afternoon extension of an NTMoFA visit.
+
+#### Factory & Industry
+- [★★★☆☆ 🏭🎨 Taiwan Glass Gallery & Glass Mazu Temple](https://www.google.com/maps/search/Taiwan+Glass+Gallery+Lukang+Changhua) — Glass-industry showcase (info/arts/product halls, a mirror-maze with kid appeal) attached to the Glass Mazu Temple built from 70,000+ glass pieces — genuine glass-craft/industry content, not a selfie museum. ~08:00–17:30 (to 18:00 wknd); gallery free. Coastal park 8 km W of Lukang old town — a tourism-factory add to a Lukang day trip.
+
 ## TAIWAN — OTHER DESTINATIONS
 
 ### Hualien & Taroko Gorge (East Coast)
@@ -1839,6 +1905,15 @@ Add-ons around the catalogued Sun Moon Lake. **⚠️ Typhoon-season road risk (
 - [★★★☆☆ 🌳🚶 Jiji Green Tunnel](https://www.google.com/maps/search/Jiji+Green+Tunnel+Nantou) — A 4.5km camphor-tree-lined avenue (Japanese-colonial era) on the Jiji rail branch; a flat, shaded cycling/walking route, pairs with the Jiji small-train line.
 - [★★★☆☆ 🏮🍜 Ita Thao Old Street](https://www.google.com/maps/search/Ita+Thao+Old+Street+Sun+Moon+Lake+Nantou) — A Thao indigenous village and lakeside food street (smoked wild boar, millet dishes, mountain-pepper sausage) with a ferry pier.
 - [★★★☆☆ 🌳🧒 Taomi Eco-Village (Puli)](https://www.google.com/maps/search/Taomi+Eco+Village+Puli+Nantou) — A community-run firefly/frog ecological village (daily 9:00–17:00) with hands-on nature education; good for kids into ecology.
+
+### Puli & Chung Tai (Nantou) — Lonely Planet
+
+The anchors of an optional Puli / Sun Moon Lake day trip (see the day sketch in `itinerary.md`). ~1 hr SE of Taichung; combinable with Sun Moon Lake.
+
+- [★★★★☆ 🏛️🎨 Chung Tai World Museum](https://www.google.com/maps/search/Chung+Tai+World+Museum+Puli+Nantou) — Serious Buddhist-art museum beside Chung Tai temple: statues & artefacts back to AD 386, touchscreen iconography panels; one ticket also covers the Wood Sculpture Gallery. Tue–Sun 09:00–17:00, closed Mon; **FREE 1 May–31 Aug 2026** (covers the trip). A top-tier museum for this family.
+- [★★★★☆ 🏯 Chung Tai Chan Temple](https://www.google.com/maps/search/Chung+Tai+Chan+Temple+Puli+Nantou) — A 43-storey modern monastery (opened 2001), one of Taiwan's most striking buildings and a global Buddhist research/arts centre; English-speaking nuns give tours (reserve 3 days ahead). Daily 09:00–19:00; free. 6 km from Puli town, next to the World Museum — one stop.
+- [★★★☆☆ 🏭 Puli Winery (Wine Culture Museum & Factory)](https://www.google.com/maps/search/Puli+Winery+Nantou) — Taiwan's first wine-culture museum, home of Shaoxing rice wine: production displays, tasting/sales hall, wine-themed snacks (wine ice cream, wine eggs). Mon–Fri 08:30–17:00, wknd/holidays to 18:00; free. A short hop from the Chung Tai pair.
+- [★★★☆☆ 🏭🚂🎨 CheCheng Wood Museum](https://www.google.com/maps/search/CheCheng+Wood+Museum+Nantou) — A former Japanese-era lumber mill in a scenic logging village at the Jiji Line's terminus (rideable heritage railway): forestry/timber history, woodworking tools, hands-on woodcraft DIY under a striking old-and-new timber roof. Weekdays 09:30–17:00, wknd/holidays to 17:30; free (parking NT$100). Strong STEM + railway pairing for a Sun Moon Lake / Jiji-line day.
 
 ### Chiayi / Alishan — More (2026 Research Additions)
 

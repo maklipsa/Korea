@@ -39,6 +39,7 @@
 - [★★☆☆☆ 🌳🚶 Calligraphy Greenway](https://www.google.com/maps/search/Calligraphy+Greenway+Taichung) — 3.6km path; sculptures, weekend craft stalls
 - [★★★☆☆ 📸🧒 Fan-Shaped Train Garage](https://www.google.com/maps/search/Fan+Shaped+Train+Garage+Taichung) — Last of its kind in Taiwan; great for train-loving kids
 - [★★★★☆ 🏮 Fengjia Night Market](https://www.google.com/maps/search/Fengjia+Night+Market+Taichung) — Taiwan's largest by area; hundreds of stalls until ~2am
+- [★★★☆☆ 🏯🧒 Paochueh Temple](https://www.google.com/maps/search/Paochueh+Temple+Taichung) — 1927 temple with a 27m golden laughing Buddha; kid-magnet landmark, North District. Daily 9–17; free
 
 ### More in Tainan
 - [★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple) — Built 1665; Taiwan's oldest; 15 buildings (central Tainan — see the Aug 26 morning temple crawl)

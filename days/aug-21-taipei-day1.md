@@ -32,6 +32,9 @@
 - [★★☆☆☆ 🏯 Qingshui Temple](https://www.google.com/maps/search/Qingshui+Zushi+Temple+Taipei) — Atmospheric Qing-dynasty temple
 - [★★☆☆☆ 🏯 Qingshan Temple](https://www.google.com/maps/search/Qingshan+Temple+Taipei) — Green Mountain King; beautiful stone carvings
 
+### More Sights
+- [★★★☆☆ 🏛️🚶 Museum 207](https://www.google.com/maps/search/Museum+207+Dihua+Street+Taipei) — Free house-museum on Dihua St (1962 medicine shop), rotating Taiwanese-culture shows + rooftop of old roofs. Closed **Tue**; free
+
 ### More Desserts
 - ★★☆☆☆ ☕ Star Fruit Ice (Chengdu Yangto Bing) in Ximending — Star fruit ice with peanut candy and cilantro
 

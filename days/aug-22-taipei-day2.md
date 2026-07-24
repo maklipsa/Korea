@@ -37,6 +37,8 @@
 - [★★☆☆☆ 🚶 44 South Military Village](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Retro village; cafes, handmade goods
 - [★★★☆☆ 🌳🧒 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) — Taipei's "Central Park"; 26 hectares, pond, playgrounds
 - [★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Grand colorful Mazu temple beside Raohe
+- [★★★★☆ 🏛️🎨 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei) — National design museum in Songshan Cultural & Creative Park; contemporary design shows. Tue–Sun 10–18, closed Mon; NT$50
+- [★★★☆☆ 🏛️ Discovery Center of Taipei](https://www.google.com/maps/search/Discovery+Center+of+Taipei) — Free city-history museum in Taipei City Hall (scale models + 360° film), minutes from Taipei 101. Closed Mon; FREE
 
 ### Yongkang Street Extras
 - [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Since 1963; famous pot-stickers

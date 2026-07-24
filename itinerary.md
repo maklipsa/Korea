@@ -137,3 +137,13 @@ Skip Taichung (Aug 25 morning) and take HSR directly to Tainan. Use the saved ha
 
 **Want Alishan or Sun Moon Lake?**
 These require 1-2 extra days. You'd need to cut either Tainan or Kaohsiung. Sun Moon Lake is doable as a long day trip from Taichung.
+
+**Want Sun Moon Lake + the Chung Tai Buddhist-art complex? (a full Nantou day)**
+The sweep's two best finds — **Chung Tai World Museum** (Buddhist-art museum, artefacts to AD 386, **FREE May–Aug 2026**) and the 43-storey **Chung Tai Chan Temple** next door — sit in **Puli, Nantou**, ~1 hr by bus from Taichung and on the way to Sun Moon Lake. They only justify the trip as a **full day**, which the plan doesn't have today (Aug 25 is just a Taichung transit morning before Tainan). Sketch, from Taichung HSR:
+- **08:30** Nantou Bus / Taiwan Tourist Shuttle, Taichung → Puli (~60–75 min).
+- **10:00–12:00** Chung Tai Chan Temple (reserve an English nun-guided tour ~3 days ahead) + Chung Tai World Museum next door (closed **Mon**; free through Aug 2026). Optional Puli Winery (Shaoxing rice wine, wine ice cream) ~10 min away.
+- **12:30** Bus Puli → Sun Moon Lake (~30–40 min); lakeside lunch at Ita Thao.
+- **13:30–17:00** Sun Moon Lake — ropeway (to the Formosan Aboriginal Culture Village), a boat hop (Shuishe ↔ Ita Thao ↔ Xuanguang), Wenwu Temple. *Heritage-rail alternative: take the Jiji Line to the **CheCheng Wood Museum** instead of the lake.*
+- **17:30** Back to Taichung HSR → onward to Tainan (arriving late).
+
+**Cost:** it consumes the whole day, so you'd reach Tainan late and lose the Aug 25 Anping evening — realistically it needs an **extra night** or trading a Tainan/Kaohsiung half-day (per the "1–2 extra days, cut Tainan or Kaohsiung" note above). Worth it if the Buddhist-art complex + lake beat a second southern city. Aug 25 is a **Tuesday**, so the Mon-closed museum is open — the timing works. Venues catalogued under `places.md` → TAIWAN — OTHER DESTINATIONS → **Puli & Chung Tai (Nantou)**.
