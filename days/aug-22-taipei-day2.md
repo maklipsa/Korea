@@ -3,8 +3,10 @@
 
 **Taipei Fun Pass still active** (day 2 of 2).
 
+**Transport (metro-heavy day):** All **MRT** + a short bus to the National Palace Museum from Shilin. Stops run far N–S (Beitou ⇄ Xinyi ⇄ Songshan), so build in MRT time — no car.
+
 ## Route Map
-[View route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Beitou+Hot+Spring+Museum+Taipei|Thermal+Valley+Beitou+Taipei|Elephant+Mountain+Taipei|Taipei+101&travelmode=walking)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Beitou+Hot+Spring+Museum+Taipei|Thermal+Valley+Beitou+Taipei|Spring+City+Resort+Beitou+Taipei|Elephant+Mountain+Xiangshan+Taipei|Taipei+101&travelmode=driving)
 
 ## Schedule
 

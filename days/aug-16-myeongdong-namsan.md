@@ -3,8 +3,10 @@
 
 **Activate Discover Seoul Pass 48h today** (covers Namsan Tower + Lotte World tomorrow).
 
+**Transport:** Cable car up Namsan, then walking; Myeongdong / Namdaemun / Euljiro are one walkable cluster. Hilly around Namsan — not a bike day.
+
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/-/walk)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/126.98828,37.55127,N+Seoul+Tower:126.97735,37.55928,Namdaemun+Market:126.98845,37.56657,Coffee+Hanyakbang:126.99528,37.56913,Sewoon+Sangga/walk)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Namsan+Cable+Car+Seoul&destination=Myeongdong+Seoul&waypoints=Namsan+Tower+Seoul|Myeongdong+Kyoja+Seoul|Namdaemun+Market+Seoul|Coffee+Hanyakbang+Euljiro+Seoul&travelmode=transit)
 
 ## Schedule

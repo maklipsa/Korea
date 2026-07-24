@@ -2,8 +2,10 @@
 
 Animal cafes, weird ice cream, escape rooms, street performers.
 
+**Transport (short, flat hops — bike-friendly):** Mangwon → Yeonnam → Hongdae are flat 1–3 km stretches — walk, or grab **Ttareungi** public bikes (rules & age/size caveats under Passes).
+
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/-/walk)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/126.93532,37.55221,Gyeongui+Line+Forest+Park:126.92299,37.55249,Meerkat+Friends:126.92127,37.55013,SOBOK/walk)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Mangwon+Market+Seoul&destination=KEYESCAPE+Hongdae+Seoul&waypoints=Gyeongui+Line+Forest+Park+Seoul|943+Kings+Cross+Hongdae+Seoul&travelmode=transit)
 
 ## Schedule

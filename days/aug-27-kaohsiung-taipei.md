@@ -3,13 +3,15 @@
 
 **Use Taiwan HSR Flexible 2-day Pass (day 2 of 2).**
 
+**Transport (two cities):** **HSR** Kaohsiung → Taipei (pass day 2). Both ends are all-MRT, plus Kaohsiung's LRT and the **Maokong gondola**. No car.
+
 ## Route Map
 
 **Kaohsiung morning:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotus+Pond+Kaohsiung&destination=Love+River+Kaohsiung&waypoints=British+Consulate+Takow+Kaohsiung&travelmode=walking)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotus+Pond+Kaohsiung&destination=Love+River+Kaohsiung&waypoints=British+Consulate+Takow+Kaohsiung&travelmode=driving)
 
 **Taipei evening:**
-[View route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Tonghua+Night+Market+Taipei&waypoints=Yongkang+Street+Taipei&travelmode=walking)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Tonghua+Night+Market+Taipei&waypoints=Taipei+Zoo|Yongkang+Street+Taipei|Yongkang+Beef+Noodles+Taipei|Dongmen+Dumplings+Taipei&travelmode=driving)
 
 ## Schedule
 

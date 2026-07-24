@@ -3,6 +3,8 @@
 
 Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But the Shilin science complex — Children's Amusement Park, Science Education Center (NTSEC), and Astronomical Museum — is open: all three open Mondays during summer vacation. VERIFIED: Aug 24 falls within Taiwan's school summer break (Jul 1 – Aug 31, 2026), so the Monday-open exception applies to all three.
 
+**Transport (compact — bike-friendly):** The amusement park / science centre / planetarium sit ~1–2 km apart in Shilin — walk or **YouBike** — then MRT to Shilin Night Market.
+
 ## Route Map
 [View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Taipei+Childrens+Amusement+Park&destination=Shilin+Night+Market+Taipei&waypoints=National+Taiwan+Science+Education+Center+Taipei|Taipei+Astronomical+Museum&travelmode=walking)
 

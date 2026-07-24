@@ -10,12 +10,12 @@ const DAYS = [
     "title": "Arrive Seoul + Afternoon Exploring",
     "country": "korea",
     "summary": "Arrive Seoul + Cheonggyecheon + DDP + Ikseon-dong",
-    "notes": "Gyeongbokgung closed Tuesdays — no conflict. <strong>Landing 9:25 at ICN (confirmed).</strong> Allow 60–90 min from landing to AREX boarding — immigration, baggage, T-money purchase — before the times below.",
+    "notes": "Gyeongbokgung closed Tuesdays — no conflict. <strong>Landing 9:25 at ICN (confirmed).</strong> Allow 60–90 min from landing to AREX boarding — immigration, baggage, T-money purchase — before the times below. <strong>Transport:</strong> AREX train ICN → Seoul (~43–55 min), then central Seoul on foot + short subway hops. (Jet-lag day — trains and walking, not bikes.)",
     "badges": [],
     "maps": [
       {
         "label": "Naver Map route",
-        "url": "https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/-/walk"
+        "url": "https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/126.97799,37.56918,Cheonggye+Plaza:127.00990,37.56707,Dongdaemun+Design+Plaza/walk"
       }
     ],
     "schedule": [
@@ -135,12 +135,12 @@ const DAYS = [
     "title": "Palaces + Seochon + Insadong + Gwangjang Market",
     "country": "korea",
     "summary": "Palaces + Seochon + Insadong + Gwangjang Market",
-    "notes": "The big traditional Seoul day. Everything open on Wednesdays.",
+    "notes": "The big traditional Seoul day. Everything open on Wednesdays. <strong>Transport:</strong> A walking day through the palace district — on foot plus a subway stop or two. Palace/hanok lanes aren't bike-friendly.",
     "badges": [],
     "maps": [
       {
         "label": "Naver Map route",
-        "url": "https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/-/walk"
+        "url": "https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/126.97000,37.58076,Tongin+Market:126.99170,37.58239,Changdeokgung+Palace:126.98586,37.58239,Bukchon+Hanok+Village:126.98597,37.57437,Insadong/walk"
       }
     ],
     "schedule": [
@@ -350,12 +350,12 @@ const DAYS = [
     "title": "DMZ Morning + War Memorial + Itaewon/Hannam",
     "country": "korea",
     "summary": "DMZ Tour + War Memorial + Itaewon/Hannam",
-    "notes": "",
+    "notes": "<strong>Transport:</strong> DMZ morning is a <strong>booked guided tour with hotel pickup/drop-off</strong> — no logistics on you. Afternoon (War Memorial → Itaewon/Hannam) is one subway ride + short walks.",
     "badges": [],
     "maps": [
       {
         "label": "Naver Map route",
-        "url": "https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/-/walk"
+        "url": "https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/126.98032,37.52395,National+Museum+of+Korea:126.99019,37.53462,Vatos+Itaewon/walk"
       }
     ],
     "schedule": [
@@ -500,12 +500,12 @@ const DAYS = [
     "title": "Hongdae + Yeonnam + Mangwon",
     "country": "korea",
     "summary": "Hongdae + Yeonnam + Mangwon (animals, escape room, busking)",
-    "notes": "Animal cafes, weird ice cream, escape rooms, street performers.",
+    "notes": "Animal cafes, weird ice cream, escape rooms, street performers. <strong>Transport (short, flat hops — bike-friendly):</strong> Mangwon → Yeonnam → Hongdae are flat 1–3 km stretches — walk, or grab <strong>Ttareungi</strong> public bikes (rules & age/size caveats under Passes).",
     "badges": [],
     "maps": [
       {
         "label": "Naver Map route",
-        "url": "https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/-/walk"
+        "url": "https://map.naver.com/p/directions/126.9056,37.5562,Mangwon+Market/126.9230,37.5502,KEYESCAPE+Hongdae/126.93532,37.55221,Gyeongui+Line+Forest+Park:126.92299,37.55249,Meerkat+Friends:126.92127,37.55013,SOBOK/walk"
       }
     ],
     "schedule": [
@@ -650,7 +650,7 @@ const DAYS = [
     "title": "Liberation Day: Nami Island + Gapyeong",
     "country": "korea",
     "summary": "Liberation Day: Nami Island + Gapyeong (zip-line, rail bike)",
-    "notes": "National holiday. Get out of the city — nature day with kid-friendly activities.",
+    "notes": "National holiday. Get out of the city — nature day with kid-friendly activities. <strong>Transport (big travel day — no car needed):</strong> All trains + tour bus — ITX-Cheongchun (Yongsan ⇄ Gapyeong, reserve both ways), the <strong>Gapyeong City Tour Bus</strong> loop for Nami + Garden of Morning Calm, and one Korail stop to Gimyujeong for the rail bike (the tour bus skips it). A couple of taxis (2 cars for 6) ease the Gimyujeong ⇄ Garden backtrack.",
     "badges": [
       {
         "type": "holiday",
@@ -660,7 +660,7 @@ const DAYS = [
     "maps": [
       {
         "label": "Naver Map route",
-        "url": "https://map.naver.com/p/directions/127.5256,37.7918,Nami+Island/127.3522,37.7440,Garden+of+Morning+Calm/-/walk"
+        "url": "https://map.naver.com/p/directions/127.5256,37.7918,Nami+Island/127.3522,37.7440,Garden+of+Morning+Calm/127.71273,37.81573,Gangchon+Rail+Bike/car"
       }
     ],
     "schedule": [
@@ -709,7 +709,7 @@ const DAYS = [
     "title": "Myeongdong + Namsan + Namdaemun + Evening Markets",
     "country": "korea",
     "summary": "Myeongdong + Namsan Tower + Namdaemun + Euljiro",
-    "notes": "<strong>Activate Discover Seoul Pass 48h today</strong> (covers Namsan Tower + Lotte World tomorrow).",
+    "notes": "<strong>Activate Discover Seoul Pass 48h today</strong> (covers Namsan Tower + Lotte World tomorrow). <strong>Transport:</strong> Cable car up Namsan, then walking; Myeongdong / Namdaemun / Euljiro are one walkable cluster. Hilly around Namsan — not a bike day.",
     "badges": [
       {
         "type": "pass",
@@ -719,7 +719,7 @@ const DAYS = [
     "maps": [
       {
         "label": "Naver Map route",
-        "url": "https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/-/walk"
+        "url": "https://map.naver.com/p/directions/126.9818,37.5566,Namsan+Cable+Car/126.9860,37.5612,Myeongdong/126.98828,37.55127,N+Seoul+Tower:126.97735,37.55928,Namdaemun+Market:126.98845,37.56657,Coffee+Hanyakbang:126.99528,37.56913,Sewoon+Sangga/walk"
       }
     ],
     "schedule": [
@@ -849,7 +849,7 @@ const DAYS = [
     "title": "Lotte World Day (Museums closed = perfect)",
     "country": "korea",
     "summary": "Lotte World + Seoul Sky + Songnidan-gil",
-    "notes": "Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays. <strong>Discover Seoul Pass still active</strong> — covers <strong>Lotte World Adventure</strong> (verified on discoverseoulpass.com). It does <strong>NOT</strong> cover Seoul Sky, so that observatory is a separate paid ticket. <strong>Ticket age tiers (kids 9/11/15) — verified 2025:</strong> - *Lotte World:* child 36mo–12 (9 & 11yo) 50,000 · teen 13–18 (15yo) 58,000 · adult 19+ 67,000 KRW. - *Seoul Sky:* child 3–12 (9 & 11yo) 27,000 · <strong>adult is 13+, so the 15yo pays the adult 31,000 KRW</strong> (different cut-off than Lotte World). <strong>Feasibility:</strong> Lotte World is a full-day park on its own (open Mondays, no weekly closed day; summer hours ~10:00–22:00 — confirm on the day). Leaving by 15:00 for Seoul Sky is tight in August crowds — consider a <strong>Magic Pass</strong> (skip-the-line add-on) and be ready to trim Seoul Sky or the lake loop if the park runs long. The aquarium is deliberately left out (adding it would over-pack the day). Seoul Sky (Sun–Thu 10:30–22:00, last adm. 21:00) stays open late, so it's a safe end-of-day fallback.",
+    "notes": "Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays. <strong>Discover Seoul Pass still active</strong> — covers <strong>Lotte World Adventure</strong> (verified on discoverseoulpass.com). It does <strong>NOT</strong> cover Seoul Sky, so that observatory is a separate paid ticket. <strong>Ticket age tiers (kids 9/11/15) — verified 2025:</strong> - *Lotte World:* child 36mo–12 (9 & 11yo) 50,000 · teen 13–18 (15yo) 58,000 · adult 19+ 67,000 KRW. - *Seoul Sky:* child 3–12 (9 & 11yo) 27,000 · <strong>adult is 13+, so the 15yo pays the adult 31,000 KRW</strong> (different cut-off than Lotte World). <strong>Feasibility:</strong> Lotte World is a full-day park on its own (open Mondays, no weekly closed day; summer hours ~10:00–22:00 — confirm on the day). Leaving by 15:00 for Seoul Sky is tight in August crowds — consider a <strong>Magic Pass</strong> (skip-the-line add-on) and be ready to trim Seoul Sky or the lake loop if the park runs long. The aquarium is deliberately left out (adding it would over-pack the day). Seoul Sky (Sun–Thu 10:30–22:00, last adm. 21:00) stays open late, so it's a safe end-of-day fallback. <strong>Transport (compact — bike-friendly):</strong> Everything's within ~1–2 km around Seokchon Lake — walk, or ride the flat lakeside loop (<strong>Ttareungi</strong>). Subway to Jamsil to start.",
     "badges": [
       {
         "type": "pass",
@@ -863,7 +863,7 @@ const DAYS = [
     "maps": [
       {
         "label": "Naver Map route",
-        "url": "https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/-/walk"
+        "url": "https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/127.10268,37.51255,Lotte+World+Tower:127.10408,37.51009,Seokchon+Lake/walk"
       }
     ],
     "schedule": [
@@ -953,12 +953,12 @@ const DAYS = [
     "title": "Morning Seoul + KTX to Busan",
     "country": "korea",
     "summary": "Seoul Forest + Seongsu + COEX → KTX to Busan",
-    "notes": "Gyeongbokgung closed Tuesdays — no conflict.",
+    "notes": "Gyeongbokgung closed Tuesdays — no conflict. <strong>Transport (base move):</strong> <strong>KTX Seoul → Busan</strong> (~2h15 — reserve seats, Aug is peak). Morning Seongsu and evening Haeundae are each walkable clusters; sort luggage storage before the train.",
     "badges": [],
     "maps": [
       {
         "label": "Naver Map route",
-        "url": "https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/-/walk"
+        "url": "https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/127.06562,37.54122,Common+Ground:127.05508,37.54439,Olive+Young+Seongsu/walk"
       }
     ],
     "schedule": [
@@ -1113,7 +1113,7 @@ const DAYS = [
     "title": "Busan Full Day",
     "country": "korea",
     "summary": "Busan full day (temple, Gamcheon, Jagalchi, markets)",
-    "notes": "<strong>Activate Visit Busan Pass 24h today.</strong> Wednesday: Jagalchi open (closed 1st/3rd Tue → Aug 4 & 18; not the 19th). Gukje open (closed 1st/3rd Sun → Aug 2 & 16). Oryukdo closed 1st Mon of month only. All clear for Wed Aug 19. (Verified 2026-07.) <strong>Very full, spread-out day:</strong> temple (far NE, Gijang) → Haeundae/Mipo (E) → Gamcheon (far W) → Nampo cluster (central). The Haeundae→Gamcheon leg is ~1 hr+ by transit — leave Haeundae by ~9:45 to hit Gamcheon by 11:00. <strong>Aug 20 is a 09:00 PUS→Taipei flight (at Gimhae airport by ~06:15), so keep the night-market dinner from running past ~21:00.</strong> Activate the Busan Pass by ~09:00 (before the Beach Train) so its 24h window still covers the Busan Tower at 17:00.",
+    "notes": "<strong>Activate Visit Busan Pass 24h today.</strong> Wednesday: Jagalchi open (closed 1st/3rd Tue → Aug 4 & 18; not the 19th). Gukje open (closed 1st/3rd Sun → Aug 2 & 16). Oryukdo closed 1st Mon of month only. All clear for Wed Aug 19. (Verified 2026-07.) <strong>Very full, spread-out day:</strong> temple (far NE, Gijang) → Haeundae/Mipo (E) → Gamcheon (far W) → Nampo cluster (central). The Haeundae→Gamcheon leg is ~1 hr+ by transit — leave Haeundae by ~9:45 to hit Gamcheon by 11:00. <strong>Aug 20 is a 09:00 PUS→Taipei flight (at Gimhae airport by ~06:15), so keep the night-market dinner from running past ~21:00.</strong> Activate the Busan Pass by ~09:00 (before the Beach Train) so its 24h window still covers the Busan Tower at 17:00. <strong>Transport (spread-out day — taxis realistic, no rental car):</strong> Metro + buses do it (<strong>bus #181</strong> to Yonggungsa), but Yonggungsa and the Haeundae → Gamcheon leg are slow — budget a few taxis, or a <strong>half-day chartered driver/van</strong>, to keep this packed day moving.",
     "badges": [
       {
         "type": "pass",
@@ -1123,7 +1123,7 @@ const DAYS = [
     "maps": [
       {
         "label": "Naver Map route",
-        "url": "https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Night+Market/-/walk"
+        "url": "https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Market/129.17283,35.15817,Haeundae+Blueline+Park:129.00879,35.09634,Gamcheon+Culture+Village:129.03069,35.09663,Jagalchi+Market:129.02802,35.10062,Gukje+Market:129.03223,35.10130,Busan+Tower/car"
       }
     ],
     "schedule": [
@@ -1288,7 +1288,7 @@ const DAYS = [
     "title": "Fly Busan → Taipei + Taipei Afternoon",
     "country": "korea",
     "summary": "Fly Busan → Taipei (AM, dep 9:00) + Taipei afternoon",
-    "notes": "Early flight: <strong>PUS → TPE departs 9:00, arrives Taipei (Taoyuan) 10:30</strong> (local Taiwan time; Korea is +1h, so a ~2h30 hop). No Busan morning today — be at <strong>Gimhae T2 (International) by ~6:15</strong>, i.e. <strong>2.5–3h before an international flight</strong> (Aug is peak summer travel and Gimhae's 5–8am window is its busiest), so leave the hotel by ~5:30. You land with a bonus half-day in Taipei — but budget for immigration + baggage at Taoyuan, so realistically in the city ~13:00.",
+    "notes": "Early flight: <strong>PUS → TPE departs 9:00, arrives Taipei (Taoyuan) 10:30</strong> (local Taiwan time; Korea is +1h, so a ~2h30 hop). No Busan morning today — be at <strong>Gimhae T2 (International) by ~6:15</strong>, i.e. <strong>2.5–3h before an international flight</strong> (Aug is peak summer travel and Gimhae's 5–8am window is its busiest), so leave the hotel by ~5:30. You land with a bonus half-day in Taipei — but budget for immigration + baggage at Taoyuan, so realistically in the city ~13:00. <strong>Transport (travel day):</strong> PUS → TPE flight (Gimhae by ~06:15), then Airport MRT/bus into Taipei; light MRT + walking in the afternoon.",
     "badges": [],
     "maps": [],
     "schedule": [
@@ -1388,7 +1388,7 @@ const DAYS = [
     "title": "Taipei Day 1: Old Taipei + Weird Ice Cream + Night Market",
     "country": "taiwan",
     "summary": "Taipei Day 1: Old Taipei + weird ice cream + Ximending + Ningxia",
-    "notes": "<strong>Activate Taipei Fun Pass Unlimited 2-day today</strong> (covers today + tomorrow). Unlimited MRT/bus/tourist-shuttle + free single entry to 30+ attractions (Taipei 101 obs, National Palace Museum, Maokong Gondola, Yehliu, Taipei Zoo) — save the big attractions for <strong>tomorrow (Aug 22)</strong>; today is mostly free temples/markets. Also gives shopping-district perks in <strong>Dadaocheng + Ximending</strong>, both visited today. Tiers: adult 12+ (so the 15yo), child 6–11 (the 9 & 11yo) — verify exact NT$ price in `passes.md`.",
+    "notes": "<strong>Activate Taipei Fun Pass Unlimited 2-day today</strong> (covers today + tomorrow). Unlimited MRT/bus/tourist-shuttle + free single entry to 30+ attractions (Taipei 101 obs, National Palace Museum, Maokong Gondola, Yehliu, Taipei Zoo) — save the big attractions for <strong>tomorrow (Aug 22)</strong>; today is mostly free temples/markets. Also gives shopping-district perks in <strong>Dadaocheng + Ximending</strong>, both visited today. Tiers: adult 12+ (so the 15yo), child 6–11 (the 9 & 11yo) — verify exact NT$ price in `passes.md`. <strong>Transport (compact — bike-friendly):</strong> MRT + walking; the Longshan → Ximending → Dadaocheng stretch is flat and good by <strong>YouBike</strong> (tap EasyCard).",
     "badges": [
       {
         "type": "pass",
@@ -1548,7 +1548,7 @@ const DAYS = [
     "title": "Taipei Day 2: National Palace Museum + Beitou + Taipei 101",
     "country": "taiwan",
     "summary": "Taipei Day 2: NPM + Beitou hot springs + Elephant Mountain + Taipei 101 + Raohe",
-    "notes": "<strong>Taipei Fun Pass still active</strong> (day 2 of 2).",
+    "notes": "<strong>Taipei Fun Pass still active</strong> (day 2 of 2). <strong>Transport (metro-heavy day):</strong> All <strong>MRT</strong> + a short bus to the National Palace Museum from Shilin. Stops run far N–S (Beitou ⇄ Xinyi ⇄ Songshan), so build in MRT time — no car.",
     "badges": [
       {
         "type": "pass",
@@ -1718,7 +1718,7 @@ const DAYS = [
     "title": "Northeast Coast Day Trip: Yehliu → Shifen → Jiufen",
     "country": "taiwan",
     "summary": "Northeast Coast: Yehliu + Shifen (lanterns!) + Jiufen",
-    "notes": "Sunday: northeast coast tour buses run daily, Jiufen and Shifen are at peak buzz. Start early to beat crowds. <strong>Typhoon contingency:</strong> if a typhoon is forecast, swap this with Aug 24 (kids' science day stays indoors).",
+    "notes": "Sunday: northeast coast tour buses run daily, Jiufen and Shifen are at peak buzz. Start early to beat crowds. <strong>Typhoon contingency:</strong> if a typhoon is forecast, swap this with Aug 24 (kids' science day stays indoors). <strong>Transport — the one day a \"car\" pays off:</strong> Pure transit works (TRA → Ruifang, Pingxi line to Shifen, buses to Jiufen/Yehliu) but it's a real juggle for 6. Take a <strong>day-tour bus or charter a driver/van for the day (~a few thousand NT$)</strong> — a hired driver, not a self-drive rental.",
     "badges": [],
     "maps": [],
     "schedule": [
@@ -1798,7 +1798,7 @@ const DAYS = [
     "title": "Taipei Day 3: Kids' Science Day + Shilin Night Market",
     "country": "taiwan",
     "summary": "Taipei Day 3: Kids' science day + Shilin Night Market",
-    "notes": "Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But the Shilin science complex — Children's Amusement Park, Science Education Center (NTSEC), and Astronomical Museum — is open: all three open Mondays during summer vacation. VERIFIED: Aug 24 falls within Taiwan's school summer break (Jul 1 – Aug 31, 2026), so the Monday-open exception applies to all three.",
+    "notes": "Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But the Shilin science complex — Children's Amusement Park, Science Education Center (NTSEC), and Astronomical Museum — is open: all three open Mondays during summer vacation. VERIFIED: Aug 24 falls within Taiwan's school summer break (Jul 1 – Aug 31, 2026), so the Monday-open exception applies to all three. <strong>Transport (compact — bike-friendly):</strong> The amusement park / science centre / planetarium sit ~1–2 km apart in Shilin — walk or <strong>YouBike</strong> — then MRT to Shilin Night Market.",
     "badges": [
       {
         "type": "closed",
@@ -1898,7 +1898,7 @@ const DAYS = [
     "title": "HSR to Taichung → Tainan",
     "country": "taiwan",
     "summary": "HSR to Taichung (Rainbow Village, Miyahara) → Tainan (Anping)",
-    "notes": "<strong>Use Taiwan HSR Flexible 2-day Pass (day 1 of 2).</strong> <strong>⚠️ Ambitious base-move day (Taipei → Tainan with luggage) — taxi-dependent.</strong> Both HSR stations sit far from the sights, so buses eat the schedule; plan on taxis (2 cars for 6). Store luggage in <strong>HSR Taichung lockers</strong> during the Taichung loop, then drop bags at the Tainan hotel before Anping. Anping's forts close ~17:10–17:30, so go straight there. If it feels too rushed, use the itinerary's \"skip Taichung, HSR straight to Tainan\" swap to free the morning.",
+    "notes": "<strong>Use Taiwan HSR Flexible 2-day Pass (day 1 of 2).</strong> <strong>⚠️ Ambitious base-move day (Taipei → Tainan with luggage) — taxi-dependent.</strong> Both HSR stations sit far from the sights, so buses eat the schedule; plan on taxis (2 cars for 6). Store luggage in <strong>HSR Taichung lockers</strong> during the Taichung loop, then drop bags at the Tainan hotel before Anping. Anping's forts close ~17:10–17:30, so go straight there. If it feels too rushed, use the itinerary's \"skip Taichung, HSR straight to Tainan\" swap to free the morning. <strong>Transport (two cities, taxi-dependent):</strong> <strong>HSR</strong> between cities on the Flexible Pass; both HSR stations sit far from the sights, so plan on <strong>taxis (2 cars for 6)</strong> for Rainbow Village and Anping. No rental car.",
     "badges": [
       {
         "type": "pass",
@@ -2043,7 +2043,7 @@ const DAYS = [
     "title": "Tainan Morning → Kaohsiung",
     "country": "taiwan",
     "summary": "Tainan morning (food crawl + temples) → Kaohsiung (Pier-2, Cijin Island)",
-    "notes": "",
+    "notes": "<strong>Transport (city change):</strong> Train/HSR Tainan → Kaohsiung. Tainan morning is a tight walkable cluster; Kaohsiung is <strong>MRT + LRT/tram + the Cijin ferry</strong>. No car.",
     "badges": [],
     "maps": [],
     "schedule": [
@@ -2168,7 +2168,7 @@ const DAYS = [
     "title": "Kaohsiung Morning → HSR to Taipei → Maokong",
     "country": "taiwan",
     "summary": "Kaohsiung morning (Lotus Pond) → HSR to Taipei → Maokong Gondola",
-    "notes": "<strong>Use Taiwan HSR Flexible 2-day Pass (day 2 of 2).</strong>",
+    "notes": "<strong>Use Taiwan HSR Flexible 2-day Pass (day 2 of 2).</strong> <strong>Transport (two cities):</strong> <strong>HSR</strong> Kaohsiung → Taipei (pass day 2). Both ends are all-MRT, plus Kaohsiung's LRT and the <strong>Maokong gondola</strong>. No car.",
     "badges": [
       {
         "type": "pass",
@@ -2298,7 +2298,7 @@ const DAYS = [
     "title": "Last Full Taipei Day",
     "country": "taiwan",
     "summary": "Last full Taipei day (stay central)",
-    "notes": "Two relaxed days to finish — the flight home isn't until the <strong>evening of Aug 29</strong>, so there's no early-morning dash and <strong>no need for an airport hotel</strong>. Stay central both nights. Today is a full day in the city; tomorrow is a last morning + the evening flight.",
+    "notes": "Two relaxed days to finish — the flight home isn't until the <strong>evening of Aug 29</strong>, so there's no early-morning dash and <strong>no need for an airport hotel</strong>. Stay central both nights. Today is a full day in the city; tomorrow is a last morning + the evening flight. <strong>Transport:</strong> MRT + walking; the central Zhongshan shopping stretch is flat and <strong>YouBike</strong>-friendly. (Option A, Houtong, is ~1 h each way by train.)",
     "badges": [],
     "maps": [],
     "schedule": [
@@ -2398,7 +2398,7 @@ const DAYS = [
     "title": "Last Taipei Morning + Fly Home",
     "country": "taiwan",
     "summary": "Last Taipei morning → Fly home (dep 19:25)",
-    "notes": "Flight home <strong>departs Taipei Taoyuan (TPE) 19:25</strong> — you have most of the day. Be at <strong>TPE by ~16:00–16:30</strong> (~3h before an international flight; airline bag-drop/check-in usually closes ~60 min before departure), so leave central Taipei by ~15:15–15:30 (Airport MRT ~35–40 min + walk/buffer). Note: 16:30 arrival is only ~2h55 before — leaving by 15:15 keeps a full 3h cushion.",
+    "notes": "Flight home <strong>departs Taipei Taoyuan (TPE) 19:25</strong> — you have most of the day. Be at <strong>TPE by ~16:00–16:30</strong> (~3h before an international flight; airline bag-drop/check-in usually closes ~60 min before departure), so leave central Taipei by ~15:15–15:30 (Airport MRT ~35–40 min + walk/buffer). Note: 16:30 arrival is only ~2h55 before — leaving by 15:15 keeps a full 3h cushion. <strong>Transport (departure):</strong> <strong>Airport MRT Express</strong> (Taipei Main → TPE, ~35 min, NT$160) — leave central Taipei by ~15:15 for the 19:25 flight.",
     "badges": [],
     "maps": [],
     "schedule": [

@@ -2,8 +2,10 @@
 
 Sunday: northeast coast tour buses run daily, Jiufen and Shifen are at peak buzz. Start early to beat crowds. **Typhoon contingency:** if a typhoon is forecast, swap this with Aug 24 (kids' science day stays indoors).
 
+**Transport — the one day a "car" pays off:** Pure transit works (TRA → Ruifang, Pingxi line to Shifen, buses to Jiufen/Yehliu) but it's a real juggle for 6. Take a **day-tour bus or charter a driver/van for the day (~a few thousand NT$)** — a hired driver, not a self-drive rental.
+
 ## Route Map
-[View route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Yehliu+Geopark+Taiwan&destination=Jiufen+Old+Street+Taiwan&waypoints=Shifen+Old+Street+Taiwan|Shifen+Waterfall+Taiwan&travelmode=walking)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Yehliu+Geopark+Taiwan&destination=A-Mei+Tea+House+Jiufen&waypoints=Shifen+Old+Street+Taiwan|Shifen+Waterfall+Taiwan|Jiufen+Old+Street+Taiwan&travelmode=driving)
 
 ## Schedule
 

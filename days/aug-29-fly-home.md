@@ -2,6 +2,8 @@
 
 Flight home **departs Taipei Taoyuan (TPE) 19:25** — you have most of the day. Be at **TPE by ~16:00–16:30** (~3h before an international flight; airline bag-drop/check-in usually closes ~60 min before departure), so leave central Taipei by ~15:15–15:30 (Airport MRT ~35–40 min + walk/buffer). Note: 16:30 arrival is only ~2h55 before — leaving by 15:15 keeps a full 3h cushion.
 
+**Transport (departure):** **Airport MRT Express** (Taipei Main → TPE, ~35 min, NT$160) — leave central Taipei by ~15:15 for the 19:25 flight.
+
 | Time | Activity |
 |------|----------|
 | 9:00 | Relaxed last morning — breakfast, pack, check out (leave bags with the hotel; or use Taipei Main Station B1 lockers, pay by EasyCard or NT$50 coins). |

@@ -11,8 +11,10 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
 
 **Feasibility:** Lotte World is a full-day park on its own (open Mondays, no weekly closed day; summer hours ~10:00–22:00 — confirm on the day). Leaving by 15:00 for Seoul Sky is tight in August crowds — consider a **Magic Pass** (skip-the-line add-on) and be ready to trim Seoul Sky or the lake loop if the park runs long. The aquarium is deliberately left out (adding it would over-pack the day). Seoul Sky (Sun–Thu 10:30–22:00, last adm. 21:00) stays open late, so it's a safe end-of-day fallback.
 
+**Transport (compact — bike-friendly):** Everything's within ~1–2 km around Seokchon Lake — walk, or ride the flat lakeside loop (**Ttareungi**). Subway to Jamsil to start.
+
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/-/walk)
+[View route on Naver Map](https://map.naver.com/p/directions/127.1000,37.5100,Lotte+World+Adventure/127.1082,37.5091,Songnidan-gil/127.10268,37.51255,Lotte+World+Tower:127.10408,37.51009,Seokchon+Lake/walk)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotte+World+Adventure+Seoul&destination=Songnidan-gil+Seoul&waypoints=Lotte+World+Tower+Seoul|Seokchon+Lake+Seoul&travelmode=transit)
 
 ## Schedule

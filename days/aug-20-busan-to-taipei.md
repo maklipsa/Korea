@@ -2,9 +2,14 @@
 
 Early flight: **PUS → TPE departs 9:00, arrives Taipei (Taoyuan) 10:30** (local Taiwan time; Korea is +1h, so a ~2h30 hop). No Busan morning today — be at **Gimhae T2 (International) by ~6:15**, i.e. **2.5–3h before an international flight** (Aug is peak summer travel and Gimhae's 5–8am window is its busiest), so leave the hotel by ~5:30. You land with a bonus half-day in Taipei — but budget for immigration + baggage at Taoyuan, so realistically in the city ~13:00.
 
+**Transport (travel day):** PUS → TPE flight (Gimhae by ~06:15), then Airport MRT/bus into Taipei; light MRT + walking in the afternoon.
+
 ## Route Map
 
 Travel morning — no sightseeing route. Gimhae Airport → Taoyuan Airport → Taipei city.
+
+**Taipei afternoon:**
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Chiang+Kai-shek+Memorial+Hall+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Daan+Forest+Park+Taipei&travelmode=walking)
 
 ## Schedule
 

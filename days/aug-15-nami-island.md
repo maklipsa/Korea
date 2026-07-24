@@ -3,8 +3,10 @@
 
 National holiday. Get out of the city — nature day with kid-friendly activities.
 
+**Transport (big travel day — no car needed):** All trains + tour bus — ITX-Cheongchun (Yongsan ⇄ Gapyeong, reserve both ways), the **Gapyeong City Tour Bus** loop for Nami + Garden of Morning Calm, and one Korail stop to Gimyujeong for the rail bike (the tour bus skips it). A couple of taxis (2 cars for 6) ease the Gimyujeong ⇄ Garden backtrack.
+
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/127.5256,37.7918,Nami+Island/127.3522,37.7440,Garden+of+Morning+Calm/-/walk)
+[View route on Naver Map](https://map.naver.com/p/directions/127.5256,37.7918,Nami+Island/127.3522,37.7440,Garden+of+Morning+Calm/127.71273,37.81573,Gangchon+Rail+Bike/car)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Nami+Island+Gapyeong&destination=Garden+of+Morning+Calm+Gapyeong&waypoints=Gangchon+Rail+Bike+Gapyeong&travelmode=transit)
 
 ## Schedule

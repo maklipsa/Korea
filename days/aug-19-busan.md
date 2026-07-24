@@ -7,8 +7,10 @@ Wednesday: Jagalchi open (closed 1st/3rd Tue → Aug 4 & 18; not the 19th). Gukj
 
 **Very full, spread-out day:** temple (far NE, Gijang) → Haeundae/Mipo (E) → Gamcheon (far W) → Nampo cluster (central). The Haeundae→Gamcheon leg is ~1 hr+ by transit — leave Haeundae by ~9:45 to hit Gamcheon by 11:00. **Aug 20 is a 09:00 PUS→Taipei flight (at Gimhae airport by ~06:15), so keep the night-market dinner from running past ~21:00.** Activate the Busan Pass by ~09:00 (before the Beach Train) so its 24h window still covers the Busan Tower at 17:00.
 
+**Transport (spread-out day — taxis realistic, no rental car):** Metro + buses do it (**bus #181** to Yonggungsa), but Yonggungsa and the Haeundae → Gamcheon leg are slow — budget a few taxis, or a **half-day chartered driver/van**, to keep this packed day moving.
+
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Night+Market/-/walk)
+[View route on Naver Map](https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Market/129.17283,35.15817,Haeundae+Blueline+Park:129.00879,35.09634,Gamcheon+Culture+Village:129.03069,35.09663,Jagalchi+Market:129.02802,35.10062,Gukje+Market:129.03223,35.10130,Busan+Tower/car)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Haedong+Yonggungsa+Temple+Busan&destination=Bupyeong+Kkangtong+Night+Market+Busan&waypoints=Haeundae+Blueline+Park+Busan|Gamcheon+Culture+Village+Busan|Jagalchi+Fish+Market+Busan|Gukje+Market+Busan|Busan+Tower+Yongdusan+Park&travelmode=transit)
 
 ## Schedule

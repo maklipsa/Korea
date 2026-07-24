@@ -3,8 +3,10 @@
 
 **Activate Taipei Fun Pass Unlimited 2-day today** (covers today + tomorrow). Unlimited MRT/bus/tourist-shuttle + free single entry to 30+ attractions (Taipei 101 obs, National Palace Museum, Maokong Gondola, Yehliu, Taipei Zoo) — save the big attractions for **tomorrow (Aug 22)**; today is mostly free temples/markets. Also gives shopping-district perks in **Dadaocheng + Ximending**, both visited today. Tiers: adult 12+ (so the 15yo), child 6–11 (the 9 & 11yo) — verify exact NT$ price in `passes.md`.
 
+**Transport (compact — bike-friendly):** MRT + walking; the Longshan → Ximending → Dadaocheng stretch is flat and good by **YouBike** (tap EasyCard).
+
 ## Route Map
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|Snow+King+Ice+Cream+Taipei|Ximending+Taipei|Dihua+Street+Taipei&travelmode=walking)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|Snow+King+Ice+Cream+Taipei|Modern+Toilet+Restaurant+Ximending+Taipei|Dihua+Street+Taipei&travelmode=walking)
 
 ## Schedule
 

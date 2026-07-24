@@ -2,8 +2,10 @@
 
 The big traditional Seoul day. Everything open on Wednesdays.
 
+**Transport:** A walking day through the palace district — on foot plus a subway stop or two. Palace/hanok lanes aren't bike-friendly.
+
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/-/walk)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/126.97000,37.58076,Tongin+Market:126.99170,37.58239,Changdeokgung+Palace:126.98586,37.58239,Bukchon+Hanok+Village:126.98597,37.57437,Insadong/walk)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Gyeongbokgung+Palace+Seoul&destination=Gwangjang+Market+Seoul&waypoints=Tongin+Market+Seoul|Changdeokgung+Palace+Seoul|Bukchon+Hanok+Village+Seoul|Insadong-gil+Seoul&travelmode=transit)
 
 ## Schedule

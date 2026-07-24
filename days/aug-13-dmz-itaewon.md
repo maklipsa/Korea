@@ -1,7 +1,9 @@
 # Aug 13 (Thu) — DMZ MORNING + WAR MEMORIAL + ITAEWON/HANNAM
 
+**Transport:** DMZ morning is a **booked guided tour with hotel pickup/drop-off** — no logistics on you. Afternoon (War Memorial → Itaewon/Hannam) is one subway ride + short walks.
+
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/-/walk)
+[View route on Naver Map](https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/126.98032,37.52395,National+Museum+of+Korea:126.99019,37.53462,Vatos+Itaewon/walk)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Itaewon+Seoul&waypoints=National+Museum+Korea+Seoul&travelmode=transit)
 
 (DMZ is a guided tour with pickup/dropoff — not shown on map.)

@@ -78,6 +78,29 @@ Buy: Klook, KKday, or at THSR stations (with passport).
 
 ---
 
+## Bikes & Micromobility
+
+For the short, flat hops (a few km) some days ride better than they walk.
+
+### Public bikes — the easy option
+- **Seoul — Ttareungi (따릉이):** dock-based public bikes; pay in the "Seoul Bike" app (accepts a foreign card). Fine for the 15-year-old + adults, but there's an age/height guideline (~13+ / ~155 cm), so the 9- & 11-year-olds may not fit a standard bike — check at the dock or use a rental shop with kids' sizes.
+- **Taiwan — YouBike 2.0:** all over Taipei / Kaohsiung / Taichung; just tap your **EasyCard** to unlock (first 30 min cheap). Same size/age caveat for the youngest two.
+- **Best bike days:** Aug 14 (Mangwon/Yeonnam/Hongdae — flat + riverside), Aug 17 (Seokchon Lake loop), Aug 21 / 24 / 28 (compact Taipei clusters). The Han River paths are excellent for an extra riverside ride.
+
+### Cargo / family bikes
+Not part of the public-bike systems. If you want one, the **Han River park rental shops** (Yeouido, Ttukseom, etc.) rent tandems and family/cargo-style bikes by the hour. With the youngest at 9, everyone can manage a normal bike, so treat this as optional/fun rather than needed.
+
+### E-scooters (shared kick-scooters) — realistically adults only
+- **Korea:** by law personal-mobility devices need a driver's/motorcycle **licence**, are **16+**, and require a helmet — so none of the kids (incl. the 15-year-old) can legally ride; only the 3 adults, via an app + licence.
+- **Taiwan:** the "scooter" share apps (GoShare, WeMo, iRent) are electric **mopeds** needing a motorcycle licence + local setup — skip them; stick to YouBike.
+
+### Where a car (with driver) actually helps — not a self-drive rental
+- **Aug 23 (Yehliu → Shifen → Jiufen):** a day-tour bus or a chartered driver/van for the day is the sane choice for 6.
+- **Aug 19 (Busan)** and **Aug 25 (Taichung/Tainan):** taxis (2 cars for 6) for the spread-out or station-to-sight legs; a half-day charter optional.
+- Self-driving isn't advised here — you'd need an International Driving Permit and city parking/navigation is a headache.
+
+---
+
 ## Connectivity
 
 ### Korea — eSIM

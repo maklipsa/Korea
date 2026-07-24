@@ -2,10 +2,12 @@
 
 Gyeongbokgung closed Tuesdays — no conflict.
 
+**Transport (base move):** **KTX Seoul → Busan** (~2h15 — reserve seats, Aug is peak). Morning Seongsu and evening Haeundae are each walkable clusters; sort luggage storage before the train.
+
 ## Route Map
 
 **Seoul morning:**
-[View route on Naver Map](https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/-/walk)
+[View route on Naver Map](https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/127.06562,37.54122,Common+Ground:127.05508,37.54439,Olive+Young+Seongsu/walk)
 
 **Busan evening:**
 [View route on Naver Map](https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1626,35.1631,Haeundae+Traditional+Market/-/walk)

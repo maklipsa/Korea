@@ -1,12 +1,14 @@
 # Aug 26 (Wed) — TAINAN MORNING → KAOHSIUNG
 
+**Transport (city change):** Train/HSR Tainan → Kaohsiung. Tainan morning is a tight walkable cluster; Kaohsiung is **MRT + LRT/tram + the Cijin ferry**. No car.
+
 ## Route Map
 
 **Tainan morning:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=A+Cun+Beef+Soup+Tainan&destination=Hayashi+Department+Store+Tainan&waypoints=Guohua+Street+Tainan|Chihkan+Tower+Tainan&travelmode=walking)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=A+Cun+Beef+Soup+Tainan&destination=Hayashi+Department+Store+Tainan&waypoints=Guohua+Street+Tainan|Chihkan+Tower+Tainan|Du+Hsiao+Yueh+Tainan&travelmode=walking)
 
 **Kaohsiung afternoon/evening:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Formosa+Boulevard+MRT+Kaohsiung&destination=Liuhe+Night+Market+Kaohsiung&waypoints=Pier-2+Art+Center+Kaohsiung|Cijin+Island+Kaohsiung&travelmode=walking)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Formosa+Boulevard+MRT+Kaohsiung&destination=Liuhe+Night+Market+Kaohsiung&waypoints=Pier-2+Art+Center+Kaohsiung|Cijin+Island+Kaohsiung&travelmode=driving)
 
 ## Schedule
 

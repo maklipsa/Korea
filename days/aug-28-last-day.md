@@ -2,6 +2,8 @@
 
 Two relaxed days to finish — the flight home isn't until the **evening of Aug 29**, so there's no early-morning dash and **no need for an airport hotel**. Stay central both nights. Today is a full day in the city; tomorrow is a last morning + the evening flight.
 
+**Transport:** MRT + walking; the central Zhongshan shopping stretch is flat and **YouBike**-friendly. (Option A, Houtong, is ~1 h each way by train.)
+
 ## Route Map
 
 No fixed route — pick a morning activity:
@@ -10,7 +12,7 @@ No fixed route — pick a morning activity:
 - Option C: [★★★☆☆ 🎨🧒 Kuo Yuan Ye — Pineapple Cake Baking Class](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei)
 
 **Afternoon:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Chifeng+Street+Taipei&destination=Taipei+Main+Station&travelmode=walking)
+[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Chifeng+Street+Taipei&destination=Taipei+Main+Station&waypoints=Eslite+R79+Taipei&travelmode=walking)
 
 ## Schedule
 

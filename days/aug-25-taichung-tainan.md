@@ -5,13 +5,15 @@
 
 **⚠️ Ambitious base-move day (Taipei → Tainan with luggage) — taxi-dependent.** Both HSR stations sit far from the sights, so buses eat the schedule; plan on taxis (2 cars for 6). Store luggage in **HSR Taichung lockers** during the Taichung loop, then drop bags at the Tainan hotel before Anping. Anping's forts close ~17:10–17:30, so go straight there. If it feels too rushed, use the itinerary's "skip Taichung, HSR straight to Tainan" swap to free the morning.
 
+**Transport (two cities, taxi-dependent):** **HSR** between cities on the Flexible Pass; both HSR stations sit far from the sights, so plan on **taxis (2 cars for 6)** for Rainbow Village and Anping. No rental car.
+
 ## Route Map
 
 **Taichung:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Rainbow+Village+Taichung&destination=Taichung+Second+Market&waypoints=Miyahara+Ice+Cream+Taichung|National+Taichung+Theater&travelmode=walking)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Rainbow+Village+Taichung&destination=Taichung+Second+Market&waypoints=Miyahara+Ice+Cream+Taichung|National+Taichung+Theater&travelmode=driving)
 
 **Tainan (Anping area):**
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Fort+Zeelandia+Tainan&destination=Dadong+Night+Market+Tainan&waypoints=Anping+Treehouse+Tainan|Shennong+Street+Tainan&travelmode=walking)
+[View driving route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Fort+Zeelandia+Tainan&destination=Dadong+Night+Market+Tainan&waypoints=Anping+Treehouse+Tainan|Zhous+Shrimp+Rolls+Anping+Tainan|Tongji+Tofu+Pudding+Anping+Tainan|Shennong+Street+Tainan&travelmode=driving)
 
 ## Schedule
 

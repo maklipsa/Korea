@@ -214,31 +214,28 @@ function renderLegend() {
 }
 
 function buildGoogleMapsPinsUrl(day) {
-  // Extract place names from google maps search URLs in schedule HTML
+  // Route through the day's MAIN scheduled stops only, in order.
+  // 'Also Nearby' extras are deliberately excluded: they're optional side
+  // options, not part of the day's path, and including them blew the route
+  // past Google's ~9-waypoint limit for dir/?api=1 URLs (some days had 20+).
   const searchPattern = /google\.com\/maps\/search\/([^"'\s]+)/g;
   const places = [];
   day.schedule.forEach(s => {
     let match;
     while ((match = searchPattern.exec(s.activity)) !== null) {
-      places.push(match[1].replace(/\+/g, ' ').replace(/\btarget$/i, '').trim());
+      const name = match[1].replace(/\+/g, ' ').replace(/\btarget$/i, '').trim();
+      // skip empties and consecutive duplicates (same stop referenced twice)
+      if (name && name !== places[places.length - 1]) places.push(name);
     }
     searchPattern.lastIndex = 0;
   });
-  // Extract place names from extras URLs
-  if (day.extras) {
-    day.extras.forEach(cat => {
-      cat.items.forEach(item => {
-        if (item.url) {
-          const m = item.url.match(/google\.com\/maps\/search\/([^"'\s]+)/);
-          if (m) places.push(m[1].replace(/\+/g, ' ').trim());
-        }
-      });
-    });
-  }
   if (places.length < 2) return null;
+  const MAX_WAYPOINTS = 9; // Google Maps dir/?api=1 caps waypoints at 9
   const origin = encodeURIComponent(places[0]);
   const destination = encodeURIComponent(places[places.length - 1]);
-  const waypoints = places.slice(1, -1).map(p => encodeURIComponent(p)).join('|');
+  let middle = places.slice(1, -1);
+  if (middle.length > MAX_WAYPOINTS) middle = middle.slice(0, MAX_WAYPOINTS);
+  const waypoints = middle.map(p => encodeURIComponent(p)).join('|');
   const mode = day.country === 'korea' ? 'transit' : 'walking';
   let url = `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${destination}`;
   if (waypoints) url += `&waypoints=${waypoints}`;
