@@ -15,7 +15,7 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 | `days/aug-NN-*.md` | One file per day (19 days, `aug-11` … `aug-29`). |
 | `passes.md` | City/transport/transit passes, transit cards, eSIM/connectivity. |
 | `places.md` | Master place catalog (region → district → category). Parsed by the Python tool. |
-| `priorities.md` | Canonical taste profile: the priority ladder (what to hunt vs. skip) + the 1–5 ★ importance rubric. Single source for the `find-places` and `add-place` skills; usable standalone to score candidates. |
+| *(trip-planner plugin)* | The taste/planning tooling lives in the **`trip-planner`** Claude Code plugin (marketplace `trip-tools` at `c:\src\trip-planner`), not in this repo: skills `find-places`, `add-place`, `split-into-days`, plus the rules skills **`priorities`** (priority ladder + 1–5 ★ rubric) and **`day-planning`** (day-shape & clustering). Enable via `.claude/settings.local.json`. |
 | `gmaps_saver.py` / `maps_automator.py` / `markdown_parser.py` | Maps saver: CLI / Playwright automation / Markdown→`Place` parser. |
 | `generate_site_data.py` | Generates `docs/data.js` from the Markdown (stdlib only). |
 | `docs/` | Static Pages site: `index.html`, `app.js`, `data.js` (generated), `style.css`, `firebase-config.js`. |
@@ -31,7 +31,7 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 
 `markdown_parser.py` only recognizes `- [text](http…)` items and extracts the query from `/maps/search/<query>`. Don't switch to `place/` or `@lat,lng` URLs without updating `_extract_search_query`, or entries are silently skipped.
 
-**Importance rating prefix** — each real place carries a **1–5 ★ importance rating** inside the link text, before the emoji type-tags: `- [★★★★☆ 🏛️ Place Name](url) — description`. Keep a place's stars + emoji **identical** across `places.md` and any `days/*.md`. The rating rubric and the priority ladder (what to hunt vs. skip) are canonical in `priorities.md`; the emoji type-tag key is canonical at the top of `places.md`. Don't rate generic dish bullets or "Must-Try Dishes" checklists.
+**Importance rating prefix** — each real place carries a **1–5 ★ importance rating** inside the link text, before the emoji type-tags: `- [★★★★☆ 🏛️ Place Name](url) — description`. Keep a place's stars + emoji **identical** across `places.md` and any `days/*.md`. The rating rubric and the priority ladder (what to hunt vs. skip) are canonical in the **`priorities`** skill (trip-planner plugin); the emoji type-tag key is canonical at the top of `places.md`. Don't rate generic dish bullets or "Must-Try Dishes" checklists.
 
 **`places.md` headings** drive the parser's section label: `##` = region/city (e.g. `KOREA — SEOUL`), `###` = day combo/district. `####` (Cafes, Food, …) is informational, not parsed.
 

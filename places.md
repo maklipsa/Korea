@@ -42,7 +42,8 @@ All walkable together — the historic heart of Seoul.
 - [★★☆☆☆ 🌳 Samcheong Park](https://www.google.com/maps/search/Samcheong+Park+Seoul) — Gateway to Bugaksan Mountain hiking trail and Seoul City Wall 📅 *near Day 2 (Aug 12)*
 - [★★★☆☆ 🌳 Bugaksan Mountain Trail](https://www.google.com/maps/search/Bugaksan+Seoul) — Hike along Seoul Fortress Wall with panoramic views 📅 *near Day 2 (Aug 12)*
 - [★★★☆☆ 🌳🚶 Cheonggyecheon Stream](https://www.google.com/maps/search/Cheonggyecheon+Stream+Seoul) — 10km restored urban stream walkway; stepping stones and seasonal light displays 📅 **Day 1 (Aug 11)**
-- [★★☆☆☆ 🌳 Naksan Park](https://www.google.com/maps/search/Naksan+Park+Seoul) — Less touristy Seoul City Wall section with city views
+- [★★☆☆☆ 🌳 Naksan Park](https://www.google.com/maps/search/Naksan+Park+Seoul) — Less touristy Seoul City Wall section with city views 📅 *near Day 1 (Aug 11)*
+- [★★☆☆☆ 🚶🎨 Ihwa Mural Village](https://www.google.com/maps/search/Ihwa+Mural+Village+Seoul) — Hillside neighborhood of murals/street art beside Naksan Park's city-wall walk, above Heunginjimun; free, faded in parts but a fun uphill wander with city views. 📅 *near Day 1 (Aug 11)*
 
 #### Cafes
 - [★★★☆☆ ☕ Cafe Onion Anguk](https://www.google.com/maps/search/Cafe+Onion+Anguk+Seoul) — 100-year-old hanok building; famous for salt bread 📅 **Day 2 (Aug 12)**
@@ -97,8 +98,10 @@ Shopping, street food, city views, and hidden retro bars.
 - [★★★☆☆ 🚡 Namsan Cable Car](https://www.google.com/maps/search/Namsan+Cable+Car+Seoul) — Scenic 3-minute gondola ride 📅 **Day 6 (Aug 16)**
 - [★★★☆☆ 🏯 Namdaemun (Sungnyemun Gate)](https://www.google.com/maps/search/Namdaemun+Gate+Seoul) — National Treasure No. 1; the Great South Gate, built 1398 📅 **Day 6 (Aug 16)**
 - [★★☆☆☆ ⛪ Myeongdong Cathedral](https://www.google.com/maps/search/Myeongdong+Cathedral+Seoul) — Gothic cathedral (1898); Seoul's oldest parish church 📅 *near Day 6 (Aug 16)*
-- [★★★☆☆ 📸 Dongdaemun Design Plaza (DDP)](https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul) — Zaha Hadid-designed landmark; futuristic curves; rooftop tours bookable (new 2025) 📅 **Day 1 (Aug 11)**
+- [★★★☆☆ 📸🎨 Dongdaemun Design Plaza (DDP)](https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul) — Zaha Hadid landmark; futuristic curves + LED Rose Garden outside, **Design Museum & rotating (often interactive) exhibitions inside** — go in for the AC. 10:00–20:00; outdoor free, some shows ticketed (Aug-2026 lineup unconfirmed); rooftop tours bookable. 📅 **Day 1 (Aug 11)**
+- [★★★☆☆ 🏛️🧒 Dongdaemun History Museum (1398) + Igansu Gate & City Wall excavation](https://www.google.com/maps/search/Dongdaemun+History+Museum+Seoul) — Excavated Joseon relics, floor-etched excavation blueprints, AR experiences, and the preserved arched floodgate (Igansumun) + original Seoul City Wall sections in the DDP park. 10:00–18:00, closed Mon; free. 📅 **Day 1 (Aug 11)**
 - [★★☆☆☆ 🏯 Heunginjimun (Dongdaemun Gate)](https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul) — Original Seoul Fortress gate, built 1398 📅 **Day 1 (Aug 11)**
+- [★★★☆☆ 🏛️ Seoul City Wall Museum (Hanyangdoseong)](https://www.google.com/maps/search/Seoul+City+Wall+Museum+Seoul) — Proper Hanyang-fortress history museum (permanent + special halls, big scale model) in Dongdaemun City Wall Park by Heunginjimun. 09:00–18:00 (last entry 17:30), closed Mon; free. 📅 **Day 1 (Aug 11)**
 - [★★☆☆☆ 🛍️ Sewoon Sangga](https://www.google.com/maps/search/Sewoon+Sangga+Seoul) — Massive 1960s electronics/maker mall; rooftop garden with city views 📅 **Day 6 (Aug 16)**
 
 #### Parks & Walks
@@ -135,7 +138,7 @@ Shopping, street food, city views, and hidden retro bars.
 - ★★★★★ 🗼 N Seoul Tower — Digital observatory, love lock terrace
 - ★★★☆☆ 🚡 Namsan Cable Car ride
 - [★★☆☆☆ 🏛️🧒 Alive Museum Myeongdong](https://www.google.com/maps/search/Alive+Museum+Myeongdong+Seoul) — Trick-eye museum 📅 *near Day 6 (Aug 16)*
-- ★★★☆☆ 🏛️ DDP exhibitions — Rotating design/art; many are interactive
+- ★★★☆☆ 🏛️ DDP exhibitions — Rotating design/art inside DDP, many interactive (see DDP above) 📅 **Day 1 (Aug 11)**
 
 ---
 
@@ -467,7 +470,7 @@ A second, more niche pass — galleries, extra mountains, specialty food streets
 - [★★★★☆ 🏛️🎨 SONGEUN Art and Cultural Foundation](https://www.google.com/maps/search/SONGEUN+Art+Cultural+Foundation+Seoul) — Free contemporary art in a dramatic Herzog & de Meuron concrete building, Cheongdam. Mon–Sat 11:00–19:00, closed Sun (verify); free.
 - [★★★★☆ 🏛️🎨 K Museum of Contemporary Art](https://www.google.com/maps/search/K+Museum+of+Contemporary+Art+Seoul) — Gangnam's largest art museum (6 floors, Seolleung); immersive/media-driven contemporary shows. 10:00–19:00, closed Mon; ~15,000 won (student/child discounts).
 - [★★★★☆ 🏛️🎨 SOMA — Seoul Olympic Museum of Art](https://www.google.com/maps/search/SOMA+Seoul+Olympic+Museum+of+Art) — Contemporary-art museum + outdoor sculpture park in Olympic Park (Songpa). Tue–Sun 10:00–18:00 (last entry 17:00), free (some paid shows). ⚠️ **Closed Mon — so NOT Aug 17 (Mon);** the sculpture grounds stay open if just passing through.
-- [★★★★★ 🎨📷 piknic](https://www.google.com/maps/search/piknic+Seoul) — Cult art/design/photography space in a converted 1970s building near Namsan/Seoul Station (hosted Saul Leiter & Ryuichi Sakamoto shows); superb rooftop. Tue–Sun 10:00–18:00 (last entry 17:00), closed Mon; ~15,000 won, timed tickets — **verify the Aug 2026 show & book ahead.**
+- [★★★★★ 🎨📷 piknic](https://www.google.com/maps/search/piknic+Seoul) — Cult art/design/photography space in a converted 1970s building near Namsan/Seoul Station (hosted Saul Leiter & Ryuichi Sakamoto shows); superb rooftop. Tue–Sun 10:00–18:00 (last entry 17:00), closed Mon; ~15,000 won, timed tickets — **verify the Aug 2026 show & book ahead.** ⚠️ Day-1 option **only if done straight from the airport (AREX → Seoul Station) *before* hotel check-in** — near the AREX terminus; otherwise skip on arrival day. 📅 *near Day 1 (Aug 11)*
 - [★★★★☆ 🏛️🎨 Space K Seoul](https://www.google.com/maps/search/Space+K+Seoul+Magok) — Free contemporary-art museum (Kolon) with a curving grass-roofed building, Magok. ~10:00–18:00, closed Mon (verify); free. ⚠️ Far west (Gangseo) — off-route for the Gangnam/Seongsu days.
 - [★★★★☆ 🏛️🎨 Whanki Museum (Buam-dong)](https://www.google.com/maps/search/Whanki+Museum+Seoul) — Museum to abstract master Kim Whanki in an award-winning building by Kyu Sung Woo (Kim Swoo-geun Prize 1994); reopened after 2024–25 renovation. 10:00–18:00 (last 17:00), closed Mon; admission varies by show (~₩12,000–18,000 adult, student/youth discount) — verify. Buam-dong, bus from Gyeongbokgung.
 - [★★★★☆ 🏛️🎨 Kansong Art Museum (Bohwagak)](https://www.google.com/maps/search/Kansong+Art+Museum+Seoul) — Korea's first private museum; unrivaled classical-painting collection (Sin Yun-bok, Jeong Seon) + national treasures. ⚠️ Opens ONLY for spring & autumn special exhibitions (~45 days each) — **expect CLOSED in August**; verify 2026 dates. Seongbuk-dong, Hansung Univ Stn.
@@ -1761,14 +1764,14 @@ Deeper Kaohsiung picks plus the Cishan/Meinong/Tianliao countryside. Note night-
 
 ### Even More — Kaohsiung (Round 3: Lonely Planet)
 
-Gaps from a Lonely Planet sweep — led by the National Science & Technology Museum (a STEM anchor named in priorities.md). No Kaohsiung pass in passes.md covers any of these.
+Gaps from a Lonely Planet sweep — led by the National Science & Technology Museum (a STEM anchor named in the priorities skill). No Kaohsiung pass in passes.md covers any of these.
 
 #### History & Heritage
 - [★★★☆☆ 🏛️🚶 Zuoying Military Dependents' Village (Cultural Park)](https://www.google.com/maps/search/Zuoying+Military+Dependents+Village+Kaohsiung) — Restored navy juancun turned cultural park: houses telling the KMT-retreat/displacement story, US-presence exhibits, a Zuoying-poets gallery — a history layer the Zuoying Old City Wall entry doesn't cover. Tue–Sun ~10:00–18:00 (some halls 11:00–17:00), closed Mon; free/low. Walkable add on the Lotus Pond / Old City day. 📅 *near Day 17 (Aug 27)*
 - [★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung) — Cijin's oldest Mazu temple (1673), a nationally protected relic on Cijin Old Street; the island's most historic stop. Free, daily daytime. Zero-detour on the Cijin ferry day. 📅 *near Day 16 (Aug 26)*
 
 #### Museums
-- [★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — Huge hands-on STEM museum with hourly IMAX dome, a tier-3 anchor named in priorities.md (only obliquely referenced until now). Tue–Sun 9:00–17:00 (to 18:00 in summer school holidays), closed Mon; adult NT$100 / student & child concession ~NT$70 / under 6 free (3 adults full, 15-yo student, 9 & 11 concession); IMAX & special exhibits extra. ⚠️ Closed Apr 14–May 31 2026 for maintenance — reopens before Aug; confirm. Sanmin — folds into the KMFA/Hakka-museum belt. ⚠️ Half-day venue, tight in the ~1.5-day Kaohsiung window. 📅 *near Day 17 (Aug 27)*
+- [★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — Huge hands-on STEM museum with hourly IMAX dome, a tier-3 anchor named in the priorities skill (only obliquely referenced until now). Tue–Sun 9:00–17:00 (to 18:00 in summer school holidays), closed Mon; adult NT$100 / student & child concession ~NT$70 / under 6 free (3 adults full, 15-yo student, 9 & 11 concession); IMAX & special exhibits extra. ⚠️ Closed Apr 14–May 31 2026 for maintenance — reopens before Aug; confirm. Sanmin — folds into the KMFA/Hakka-museum belt. ⚠️ Half-day venue, tight in the ~1.5-day Kaohsiung window. 📅 *near Day 17 (Aug 27)*
 - [★★☆☆☆ 🏛️ Kaohsiung Film Archive](https://www.google.com/maps/search/Kaohsiung+Film+Archive) — Taiwanese-cinema archive on the Love River's west bank; free exhibits + two art-film theaters (more screening house than exhibit museum). Public spaces free, screenings ticketed; closed Mon (verify hours). On the Yancheng/Pier-2 evening route. 📅 *near Day 16 (Aug 26)*
 - [★★☆☆☆ 🏛️🎨 Museum 50](https://www.google.com/maps/search/Museum+50+Kaohsiung) — Private one-room museum of fine mid-19th–20th-c. Japanese sculpture, netsuke and antiques (distinct from ALIEN Art Centre). ⚠️ **Appointment-only** — message the owner ~a month ahead, ~8-visitor minimum (a group of 6 must join others). Include only if you commit to booking; else skip.
 

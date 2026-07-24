@@ -6,8 +6,10 @@
       "Bash(node *)",
       "Bash(gh *)",
       "Bash(git *)",
-      "Bash(*)",
-      "git *"
+      "Bash(*)"
     ]
+  },
+  "enabledPlugins": {
+    "trip-planner@trip-tools": true
   }
 }
