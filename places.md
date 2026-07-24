@@ -450,7 +450,7 @@ A second, more niche pass — galleries, extra mountains, specialty food streets
 
 #### B. Museums
 - [★★★★☆ 🏛️🧒 Seoul Robot & AI Museum (RAIM)](https://www.google.com/maps/search/Seoul+Robot+AI+Museum+Seoul) — New (Oct 2024), spherical mirror-shell building "built by robots," in Dobong-gu (far north). 1F AI Garden free; 3F ₩2,000 adult / free kids & teens — 100% advance reservation via Seoul Public Service Reservation. Tue–Sun 9:30–19:30. Big robot-kid magic; budget travel time.
-- [★★★★☆ 📷🏛️ Photography Seoul Museum of Art (Photo SeMA)](https://www.google.com/maps/search/Photography+Seoul+Museum+of+Art+Chang-dong+Seoul) — Korea's first **public museum devoted entirely to photography** (opened 2025), bold new building in Dobong (Chang-dong), 3 min from Chang-dong Stn (Lines 1 & 4). **"We Are Martin Parr" Jul 16–Oct 18, 2026** (major Magnum retrospective). Weekdays 10:00–20:00, Sat/Sun/holidays 10:00–19:00 (summer), last entry 1h before close, closed Mon; **admission free**. Direct Line 4 down to Myeongdong. 📅 *near Day 6 (Aug 16)*
+- [★★★★☆ 📷🏛️ Photography Seoul Museum of Art (Photo SeMA)](https://www.google.com/maps/search/Photography+Seoul+Museum+of+Art+Chang-dong+Seoul) — Korea's first **public museum devoted entirely to photography** (opened 2025), bold new building in Dobong (Chang-dong), 3 min from Chang-dong Stn (Lines 1 & 4). **"We Are Martin Parr" Jul 16–Oct 18, 2026** (major Magnum retrospective). Weekdays 10:00–20:00, Sat/Sun/holidays 10:00–19:00 (summer), last entry 1h before close, closed Mon; **admission free**. Direct Line 4 down to Myeongdong. 📅 **Day 6 (Aug 16)**
 - [★★★☆☆ 🏛️ Korean Film Archive & Museum (DMC)](https://www.google.com/maps/search/Korean+Film+Archive+Sangam+Seoul) — Free permanent exhibit on Korean cinema + Cinematheque KOFA (₩3,000–5,000). Tue–Sat 10:30–19:00. Niche rainy-day option.
 - [★★★☆☆ 🏛️🎨 Amorepacific Museum of Art (APMA)](https://www.google.com/maps/search/Amorepacific+Museum+of+Art+Yongsan+Seoul) — Free rotating contemporary art in the David Chipperfield-designed HQ, Yongsan. Tue–Sun 10:00–18:00, closed Mon. Current show ends ~Aug 2, 2026 — check for the next one.
 
@@ -1434,7 +1434,7 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 
 ### Museum
 - [★★★☆☆ 🏛️ Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum) 📅 **Day 16 (Aug 26)**
-- [★★★☆☆ 📷🏛️ Fotoaura Institute of Photography (海馬迴光畫館)](https://www.google.com/maps/search/Fotoaura+Institute+of+Photography+Tainan) — Small independent photography art space (est. 2009), 2F 83 Chenggong Rd; genuine gallery of photographs. Wed–Sun ~13:00–20:00 (⚠️ verify — hours data is dated). ⚠️ Opens 13:00 but Tainan is only an Aug 26 *morning* stop → unlikely to fit; catalogued for reference. 📅 *near Day 16 (Aug 26)*
+- [★★★☆☆ 📷🏛️ Fotoaura Institute of Photography (海馬迴光畫館)](https://www.google.com/maps/search/Fotoaura+Institute+of+Photography+Tainan) — Small independent photography art space (est. 2009), 2F 83 Chenggong Rd; genuine gallery of photographs. Wed–Sun ~13:00–20:00 (⚠️ verify — hours data is dated). ⚠️ Opens 13:00 but Tainan is only an Aug 26 *morning* stop → unlikely to fit; catalogued for reference.
 
 ---
 
