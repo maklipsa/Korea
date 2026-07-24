@@ -1,7 +1,8 @@
 """Generate docs/data.js from the Markdown source of truth.
 
-Reads itinerary.md, passes.md, and days/*.md and emits docs/data.js, which
-defines the `DAYS`, `CHECKLIST`, and `PASSES` globals consumed by docs/app.js.
+Reads itinerary.md, passes.md, days/*.md, and cards/*.md and emits docs/data.js,
+which defines the `DAYS`, `CHECKLIST`, `PASSES`, and `CARDS` globals consumed by
+docs/app.js.
 
 Run after editing any of the Markdown files:
 
@@ -19,6 +20,7 @@ ITINERARY = ROOT / "itinerary.md"
 PASSES_MD = ROOT / "passes.md"
 DAYS_DIR = ROOT / "days"
 OUT = ROOT / "docs" / "data.js"
+CARDS_DIR = ROOT / "cards"
 
 # Acronyms to keep uppercase when title-casing an ALL-CAPS heading.
 ACRONYMS = {
@@ -313,6 +315,158 @@ def build_days():
     return days
 
 
+# --- cards/*.md -------------------------------------------------------------
+# The discount-card reference files use richer Markdown than the day files
+# (tables, blockquotes, nested lists), so they get a small self-contained
+# block-to-HTML converter here. Like md_inline above, it does NOT HTML-escape:
+# the source has no raw < / > (only the entity &lt;), matching the rest of the
+# pipeline. The emitted HTML is injected by renderCards() in docs/app.js.
+
+CARD_FILES = ["README", "seoul", "busan", "taipei", "taichung", "tainan", "kaohsiung"]
+
+
+def _card_anchor_map():
+    m = {}
+    for f in CARD_FILES:
+        stem = f.lower()
+        m[stem] = "card-overview" if stem == "readme" else "card-" + stem
+    return m
+
+
+def _card_link(text, url, anchors):
+    if url.startswith("http"):
+        return f'<a href="{url}" target="_blank">{text}</a>'
+    stem = url.split("/")[-1].split("#")[0]
+    if stem.endswith(".md"):
+        stem = stem[:-3]
+    key = stem.lower()
+    if key in anchors:                       # cross-link between card pages
+        return f'<a href="#{anchors[key]}">{text}</a>'
+    return text                              # other repo files -> plain text
+
+
+def card_inline(s, anchors):
+    """Inline Markdown -> HTML for the card files (code, bold, italic, links)."""
+    codes = []
+    s = re.sub(r"`([^`]+)`",
+               lambda m: codes.append(m.group(1)) or f"\x00C{len(codes) - 1}\x00", s)
+    # italics first, so a nested *italic* inside **bold** doesn't break the
+    # bold match (the ** markers are guarded by the look-arounds below).
+    s = re.sub(r"(?<!\*)\*(?!\s)([^*\n]+?)\*(?!\*)", r"<em>\1</em>", s)
+    s = re.sub(r"\*\*\[([^\]]+)\]\(([^)]+)\)\*\*",
+               lambda m: "<strong>" + _card_link(m.group(1), m.group(2), anchors) + "</strong>", s)
+    s = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", s)
+    s = re.sub(r"\[([^\]]+)\]\(([^)]+)\)",
+               lambda m: _card_link(m.group(1), m.group(2), anchors), s)
+    for i, c in enumerate(codes):
+        s = s.replace(f"\x00C{i}\x00", f"<code>{c}</code>")
+    return s.strip()
+
+
+def _card_table(rows, anchors):
+    def cells(r):
+        return [c.strip() for c in r.strip().strip("|").split("|")]
+    header = cells(rows[0])
+    body = rows[2:] if len(rows) > 1 and set(rows[1]) <= set("|:- ") else rows[1:]
+    head = "".join(f"<th>{card_inline(c, anchors)}</th>" for c in header)
+    trs = "".join(
+        "<tr>" + "".join(f"<td>{card_inline(c, anchors)}</td>" for c in cells(r)) + "</tr>"
+        for r in body
+    )
+    return ('<div class="card-table-wrap"><table class="card-table">'
+            f"<thead><tr>{head}</tr></thead><tbody>{trs}</tbody></table></div>")
+
+
+def _card_list(items, anchors):
+    root = []
+    stack = [(-1, root)]
+    for ln in items:
+        indent = len(ln) - len(ln.lstrip(" "))
+        node = {"text": card_inline(re.sub(r"^\s*[-*]\s+", "", ln), anchors), "children": []}
+        while len(stack) > 1 and indent <= stack[-1][0]:
+            stack.pop()
+        stack[-1][1].append(node)
+        stack.append((indent, node["children"]))
+
+    def build(nodes):
+        out = "<ul>"
+        for nd in nodes:
+            out += "<li>" + nd["text"] + (build(nd["children"]) if nd["children"] else "") + "</li>"
+        return out + "</ul>"
+
+    return build(root)
+
+
+def render_card_markdown(md, anchors):
+    lines = md.splitlines()
+    html, para, i, n = [], [], 0, len(md.splitlines())
+
+    def flush():
+        if para:
+            html.append("<p>" + card_inline(" ".join(para), anchors) + "</p>")
+            para.clear()
+
+    while i < n:
+        raw, st = lines[i], lines[i].strip()
+        if st == "":
+            flush(); i += 1; continue
+        if st == "---":
+            flush(); html.append("<hr>"); i += 1; continue
+        m = re.match(r"^(#{1,6})\s+(.*)$", st)
+        if m:
+            flush()
+            level = len(m.group(1))
+            if level > 1:                       # H1 is the page title -> skipped
+                tag = "h" + str(min(level + 1, 6))
+                html.append(f"<{tag}>{card_inline(m.group(2), anchors)}</{tag}>")
+            i += 1; continue
+        if st.startswith(">"):
+            flush()
+            quote = []
+            while i < n and lines[i].strip().startswith(">"):
+                quote.append(re.sub(r"^\s*>\s?", "", lines[i])); i += 1
+            html.append("<blockquote>" + render_card_markdown("\n".join(quote), anchors) + "</blockquote>")
+            continue
+        if st.startswith("|"):
+            flush()
+            tbl = []
+            while i < n and lines[i].strip().startswith("|"):
+                tbl.append(lines[i].strip()); i += 1
+            html.append(_card_table(tbl, anchors))
+            continue
+        if re.match(r"^\s*[-*]\s+", raw):
+            flush()
+            items = []
+            while i < n and re.match(r"^\s*[-*]\s+", lines[i]):
+                items.append(lines[i]); i += 1
+            html.append(_card_list(items, anchors))
+            continue
+        para.append(st); i += 1
+    flush()
+    return "".join(html)
+
+
+def build_cards():
+    if not CARDS_DIR.exists():
+        return []
+    anchors = _card_anchor_map()
+    cards = []
+    for f in CARD_FILES:
+        path = CARDS_DIR / (f + ".md")
+        if not path.exists():
+            continue
+        text = path.read_text(encoding="utf-8")
+        title = next((md_plain(ln[2:]) for ln in text.splitlines() if ln.startswith("# ")), "")
+        stem = f.lower()
+        cards.append({
+            "id": "card-overview" if stem == "readme" else "card-" + stem,
+            "nav": "Overview" if stem == "readme" else f.capitalize(),
+            "title": title or f,
+            "html": render_card_markdown(text, anchors),
+        })
+    return cards
+
+
 # --- emit -------------------------------------------------------------------
 
 def js_block(name, data):
@@ -323,6 +477,7 @@ def main():
     days = build_days()
     checklist = parse_checklist()
     passes = parse_passes()
+    cards = build_cards()
 
     header = (
         "// === ITINERARY DATA ===\n"
@@ -333,11 +488,13 @@ def main():
         header
         + js_block("DAYS", days) + "\n\n"
         + js_block("CHECKLIST", checklist) + "\n\n"
-        + js_block("PASSES", passes) + "\n",
+        + js_block("PASSES", passes) + "\n\n"
+        + js_block("CARDS", cards) + "\n",
         encoding="utf-8",
     )
     print(f"Wrote {OUT.relative_to(ROOT)}")
-    print(f"  {len(days)} days, {len(checklist)} checklist items, {len(passes)} passes")
+    print(f"  {len(days)} days, {len(checklist)} checklist items, "
+          f"{len(passes)} passes, {len(cards)} cards")
 
 
 if __name__ == "__main__":

@@ -10,7 +10,7 @@ const DAYS = [
     "title": "Arrive Seoul + Afternoon Exploring",
     "country": "korea",
     "summary": "Arrive Seoul + Cheonggyecheon + DDP + Ikseon-dong",
-    "notes": "Gyeongbokgung closed Tuesdays — no conflict. <strong>CONFIRM YOUR LANDING TIME</strong> — schedule below assumes 9:00 ICN arrival. From most EU origins (LOT Warsaw → ICN ~10:55), shift everything by 90+ minutes and cut Cheonggyecheon or DDP. Allow 60–90 min from landing to AREX boarding (immigration, bags, T-money purchase).",
+    "notes": "Gyeongbokgung closed Tuesdays — no conflict. <strong>Landing 9:25 at ICN (confirmed).</strong> Allow 60–90 min from landing to AREX boarding — immigration, baggage, T-money purchase — before the times below.",
     "badges": [],
     "maps": [
       {
@@ -20,17 +20,17 @@ const DAYS = [
     ],
     "schedule": [
       {
-        "time": "9:00",
+        "time": "9:25",
         "activity": "Land at Incheon (ICN). Buy <strong>T-money card</strong> at convenience store, load ~50,000 KRW.",
         "price": ""
       },
       {
-        "time": "9:30",
+        "time": "10:30",
         "activity": "<strong>Airport Express (AREX)</strong> to Seoul (~43 min direct to Seoul Station / ~55 min all-stop to Hongdae).",
         "price": "4,150 KRW (all-stop) or 9,500 KRW (direct)"
       },
       {
-        "time": "11:00",
+        "time": "11:30",
         "activity": "Check in hotel, drop bags, freshen up.",
         "price": ""
       },
@@ -1285,63 +1285,78 @@ const DAYS = [
     "id": "day-10",
     "day": 10,
     "date": "Aug 20 (Thu)",
-    "title": "Busan Morning + Fly to Taipei",
+    "title": "Fly Busan → Taipei + Taipei Afternoon",
     "country": "korea",
-    "summary": "Busan morning → Fly to Taipei",
-    "notes": "",
+    "summary": "Fly Busan → Taipei (AM, dep 9:00) + Taipei afternoon",
+    "notes": "Early flight: <strong>PUS → TPE departs 9:00, arrives Taipei (Taoyuan) 10:30</strong> (local Taiwan time; Korea is +1h). No Busan morning today — be at <strong>Gimhae T2 (International) by ~7:00</strong> (~2h before an international flight), so leave the hotel ~6:15. You land with a bonus half-day in Taipei.",
     "badges": [],
     "maps": [],
     "schedule": [
       {
+        "time": "6:15",
+        "activity": "Leave Busan hotel. Grab a convenience-store breakfast.",
+        "price": ""
+      },
+      {
+        "time": "7:00",
+        "activity": "Arrive <strong>Gimhae Airport T2 (International)</strong> (Busan Air Light Rail from Haeundae, or taxi ~40 min). Check in, drop bags, security.",
+        "price": ""
+      },
+      {
         "time": "9:00",
-        "activity": "Pick one morning activity:",
-        "price": ""
-      },
-      {
-        "time": "",
-        "activity": "<strong>Option A:</strong> <a href=\"https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan\" target=\"_blank\">★★★☆☆ 🚡🧒 Songdo Marine Cable Car</a> — 1.62km over the ocean, Crystal Cabin (glass floor!). 15-20 min ride.",
-        "price": "22,000 KRW (crystal)"
-      },
-      {
-        "time": "",
-        "activity": "<strong>Option B:</strong> <a href=\"https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium\" target=\"_blank\">★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium</a> — 250 species, ocean tunnel, LEGO landmarks. Book online for 20-30% off.",
-        "price": "~22,000-29,000 KRW"
-      },
-      {
-        "time": "",
-        "activity": "<strong>Option C:</strong> <a href=\"https://www.google.com/maps/search/Shinsegae+Centum+City+Busan\" target=\"_blank\">★★★☆☆ ♨️ Spa Land</a> at Shinsegae (world's largest dept store) — Jjimjilbang with 22 themed saunas. Rest before flight.",
-        "price": "~20,000 KRW"
-      },
-      {
-        "time": "12:00",
-        "activity": "Lunch in Busan.",
-        "price": ""
-      },
-      {
-        "time": "13:30",
-        "activity": "Head to <strong>Gimhae Airport</strong> (Busan Air Light Rail from Haeundae, or taxi ~40 min).",
-        "price": ""
-      },
-      {
-        "time": "~17:00-18:00",
-        "activity": "<strong>Flight PUS → TPE</strong> (~2h50). Departs Gimhae <strong>T2 (International)</strong>. Korea is +1h vs Taiwan.",
+        "activity": "<strong>Flight PUS → TPE</strong> (~2h30).",
         "price": "Booked ahead"
       },
       {
-        "time": "~18:50-19:50",
-        "activity": "Arrive <strong>Taipei Taoyuan Airport</strong> (e.g. 17:00 dep → 18:50 arr; 18:00 dep → 19:50 arr). Airport MRT to Taipei Main Station (~40 min, NT$160).",
+        "time": "10:30",
+        "activity": "Arrive <strong>Taipei Taoyuan Airport</strong> (local time). Buy/refill <strong>EasyCard</strong>, load ~NT$500.",
         "price": ""
       },
       {
-        "time": "21:00",
-        "activity": "Check in hotel. Grab late dinner from a convenience store or nearby night market.",
+        "time": "11:15",
+        "activity": "<strong>Airport MRT</strong> to Taipei Main Station (~40 min, NT$160).",
+        "price": ""
+      },
+      {
+        "time": "12:15",
+        "activity": "Drop bags at hotel, quick lunch nearby.",
+        "price": ""
+      },
+      {
+        "time": "14:00",
+        "activity": "<strong>Taipei afternoon (bonus half-day)</strong> — take it easy after the early start: <a href=\"https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei\" target=\"_blank\">★★★☆☆ 🏛️ Chiang Kai-shek Memorial Hall</a>, <a href=\"https://www.google.com/maps/search/Daan+Forest+Park+Taipei\" target=\"_blank\">★★★☆☆ 🌳🚶 Da'an Forest Park</a>, or just ease into the city near your hotel.",
+        "price": ""
+      },
+      {
+        "time": "18:00",
+        "activity": "Early night market for dinner — e.g. <a href=\"https://www.google.com/maps/search/Ningxia+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🍜 Ningxia Night Market</a> (or pick one nearer your hotel and save Ningxia for Aug 21).",
+        "price": ""
+      },
+      {
+        "time": "20:30",
+        "activity": "Back to hotel — rest up for a full Taipei day tomorrow.",
         "price": ""
       }
     ],
     "extras": [
       {
-        "category": "Busan Morning Extras",
+        "category": "Busan Morning Extras (only if you rearrange)",
         "items": [
+          {
+            "name": "★★★☆☆ 🚡🧒 Songdo Marine Cable Car",
+            "url": "https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan",
+            "desc": "1.62km over the ocean, Crystal Cabin (glass floor!)"
+          },
+          {
+            "name": "★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium",
+            "url": "https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium",
+            "desc": "250 species, ocean tunnel, LEGO landmarks"
+          },
+          {
+            "name": "★★★☆☆ ♨️ Spa Land at Shinsegae",
+            "url": "https://www.google.com/maps/search/Shinsegae+Centum+City+Busan",
+            "desc": "jjimjilbang with 22 themed saunas"
+          },
           {
             "name": "★★★☆☆ 🌳🚶 Taejongdae Resort Park",
             "url": "https://www.google.com/maps/search/Taejongdae+Busan",
@@ -2275,10 +2290,10 @@ const DAYS = [
     "id": "day-18",
     "day": 18,
     "date": "Aug 28 (Fri)",
-    "title": "Taipei Last Day + Head to Airport",
+    "title": "Last Full Taipei Day",
     "country": "taiwan",
-    "summary": "Last Taipei day + head to airport hotel",
-    "notes": "Flight is 6:55 AM on Aug 29. <strong>You must be at TPE by ~4:30 AM.</strong> Best option: stay near the airport tonight.",
+    "summary": "Last full Taipei day (stay central)",
+    "notes": "Two relaxed days to finish — the flight home isn't until the <strong>evening of Aug 29</strong>, so there's no early-morning dash and <strong>no need for an airport hotel</strong>. Stay central both nights. Today is a full day in the city; tomorrow is a last morning + the evening flight.",
     "badges": [],
     "maps": [],
     "schedule": [
@@ -2314,22 +2329,17 @@ const DAYS = [
       },
       {
         "time": "15:00",
-        "activity": "Pick up luggage.",
+        "activity": "Keep exploring or settle into a cafe — you're staying central tonight, so no airport rush.",
         "price": ""
       },
       {
-        "time": "16:00",
-        "activity": "<strong>Taoyuan Airport MRT</strong> from Taipei Main Station → TPE Airport (~40 min, NT$160).",
+        "time": "18:00",
+        "activity": "Dinner + one last night market.",
         "price": ""
       },
       {
-        "time": "17:00",
-        "activity": "Check into <strong>airport hotel</strong> (recommended: Novotel Taipei Taoyuan Airport, or similar).",
-        "price": ""
-      },
-      {
-        "time": "Evening",
-        "activity": "Relax, pack, explore airport terminal shops.",
+        "time": "20:30",
+        "activity": "Back to your central Taipei hotel. Pack; leave souvenir shopping and pineapple cakes for tomorrow morning.",
         "price": ""
       }
     ],
@@ -2375,26 +2385,46 @@ const DAYS = [
     "id": "day-19",
     "day": 19,
     "date": "Aug 29 (Sat)",
-    "title": "Fly Home",
+    "title": "Last Taipei Morning + Fly Home",
     "country": "taiwan",
-    "summary": "Fly home (6:55 AM)",
-    "notes": "",
+    "summary": "Last Taipei morning → Fly home (dep 19:25)",
+    "notes": "Flight home <strong>departs Taipei (TPE) 19:25</strong> — you have most of the day. Be at <strong>TPE by ~16:30</strong> (~3h before an international flight), so leave central Taipei ~15:30 (Airport MRT ~40 min + buffer).",
     "badges": [],
     "maps": [],
     "schedule": [
       {
-        "time": "4:00",
-        "activity": "Head to TPE terminal.",
+        "time": "9:00",
+        "activity": "Relaxed last morning — breakfast, pack, check out (leave bags with the hotel).",
         "price": ""
       },
       {
-        "time": "4:30",
-        "activity": "Check in and security.",
+        "time": "10:00",
+        "activity": "<strong>Last-minute shopping & souvenirs.</strong> Pineapple cakes (essential Taiwan souvenir): <a href=\"https://www.google.com/maps/search/Chia+Te+Bakery+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ Chia Te Bakery</a> or <a href=\"https://www.google.com/maps/search/SunnyHills+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ SunnyHills</a>.",
         "price": ""
       },
       {
-        "time": "<strong>6:55</strong>",
-        "activity": "<strong>Departure.</strong>",
+        "time": "12:30",
+        "activity": "Last lunch in Taipei.",
+        "price": ""
+      },
+      {
+        "time": "14:30",
+        "activity": "Collect luggage from the hotel.",
+        "price": ""
+      },
+      {
+        "time": "15:30",
+        "activity": "<strong>Airport MRT</strong> from Taipei Main Station → TPE (~40 min, NT$160).",
+        "price": ""
+      },
+      {
+        "time": "16:30",
+        "activity": "Arrive <strong>TPE</strong>. Check in, drop bags, security.",
+        "price": ""
+      },
+      {
+        "time": "<strong>19:25</strong>",
+        "activity": "<strong>Departure — fly home.</strong>",
         "price": ""
       }
     ],
@@ -2416,7 +2446,7 @@ const CHECKLIST = [
   {
     "id": "flight-busan-pus-taipei-tpe-aug",
     "category": "Book 30+ days ahead",
-    "text": "Flight Busan (PUS) → Taipei (TPE) (Aug 20, afternoon/evening) — Tigerair Taiwan or Jeju Air, ~$70-130 USD/person one-way. Book on Skyscanner/Google Flights."
+    "text": "Flight Busan (PUS) → Taipei (TPE) (Aug 20, morning — dep ~9:00, arr Taipei ~10:30) — Tigerair Taiwan or Jeju Air, ~$70-130 USD/person one-way. Book on Skyscanner/Google Flights."
   },
   {
     "id": "everland-or-lotte-world-tickets-online",
@@ -2536,5 +2566,50 @@ const PASSES = [
     ],
     "value": "Total regular price: NT$2,840. Saves NT$340. Plus simplicity of unlimited rides on those days.",
     "buy": "Klook, KKday, or at THSR stations (with passport)."
+  }
+];
+
+const CARDS = [
+  {
+    "id": "card-overview",
+    "nav": "Overview",
+    "title": "Discount Cards — Overview & Decisions",
+    "html": "<p>Per-city analysis of museum/attraction discount cards for the trip (Aug 11–29, 2026), mapped to <strong>the attractions we actually visit</strong> and to <strong>our party: 3 adults + 3 children (ages 9, 11, 15), in two groups</strong>. Each city file lists the available cards, a coverage table (card covers it? / gate price / in our schedule? / which day), a profitability calculation, and a <strong>what-and-how-long-to-buy</strong> recommendation.</p><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>City</th><th>Card(s)</th><th>Buy?</th><th>One-line verdict</th></tr></thead><tbody><tr><td><a href=\"#card-seoul\">Seoul</a></td><td>Discover Seoul Pass</td><td><strong>Adults yes (48h), kids no</strong></td><td>+33k KRW/adult if COEX is done; no child discount, so kids go à la carte</td></tr><tr><td><a href=\"#card-busan\">Busan</a></td><td>Visit Busan Pass</td><td><strong>No (default)</strong></td><td>One usable day; only pays as an adult <strong>BIG3 + X the Sky</strong> add-on play</td></tr><tr><td><a href=\"#card-taipei\">Taipei</a></td><td>Taipei Fun Pass + alternatives</td><td><strong>Adults maybe, kids no</strong></td><td>Worth it for adults <strong>only if you DIY the Aug 23 coast day</strong>; else EasyCard + tickets</td></tr><tr><td><a href=\"#card-taichung\">Taichung</a></td><td>—</td><td><strong>No</strong></td><td>All stops free; NT$0</td></tr><tr><td><a href=\"#card-tainan\">Tainan</a></td><td>Historic Site Pass</td><td><strong>No</strong></td><td>Our 3 sites cost the same à la carte (NT$210 adult / NT$105 child) as the pass — pay per site</td></tr><tr><td><a href=\"#card-kaohsiung\">Kaohsiung</a></td><td>MRT / Fun Pass</td><td><strong>No</strong></td><td>Sights nearly all free; tap EasyCard, pay 1–2 small gate fees</td></tr></tbody></table></div><h3>The shopping list (if you follow the recommendations)</h3><ul><li><strong>Seoul:</strong> 3 × <strong>Discover Seoul Pass 48h</strong> (adults; activate afternoon Aug 16 → N Tower, Lotte World, COEX). The 15-year-old only if COEX is confirmed. Kids 9 & 11: discounted individual Lotte World + N Seoul Tower tickets. Everyone pays out of pocket for Seoul Sky, Namsan Cable Car, Nami zipline.</li><li><strong>Busan:</strong> nothing by default — pay gate prices (Beach Train + Busan Tower) and book the <strong>Sky Capsule</strong> separately (2 capsules for 6 people; book ~28 days ahead). Optional: adult <strong>BIG3 (45k) + Busan X the Sky</strong> only if you want a Haeundae observation-deck day.</li><li><strong>Taipei:</strong> <strong>decide the Aug 23 coast day first.</strong> If DIY → 3 × adult <strong>Fun Pass Unlimited 3-day</strong> (Aug 22–24), no kid passes. If guided tour → no passes; EasyCard + discounted tickets for all.</li><li><strong>Taichung / Tainan / Kaohsiung:</strong> no cards. One Taiwan-wide <strong>EasyCard/iPASS</strong> each, pay the handful of small gate fees à la carte.</li></ul><h3>Cross-cutting notes</h3><ul><li><strong>Korean city passes (Seoul, Busan) are foreigners-only and flat-priced for all ages</strong> — no child discount. Because children's <em>gate</em> prices are lower, these passes are systematically <strong>worse value for kids than adults</strong>. Default to buying them for adults only.</li><li><strong>Taiwan:</strong> one <strong>EasyCard/iPASS</strong> works nationwide (Taipei/Taichung/Tainan/Kaohsiung MRT, LRT, buses, Cijin ferry, convenience stores). You don't need a separate transit card per city. The airport MRT in Taipei is <em>not</em> on the Fun Pass. <strong>Non-resident kids aged 6+ get no fare concession</strong> — budget adult transit fares for all three children.</li><li><strong>NPM (Taipei) is free for everyone under 18</strong> — all three kids enter free; never buy a child ticket or spend a pass slot on it.</li><li><strong>Age tiers matter</strong> (see CLAUDE.md → \"Skład rodziny\"): the 15-year-old is adult-priced on the Taipei Fun Pass (child tier is 6–11) but still free at NPM; 9 & 11 get child rates.</li><li><strong>All prices are current-research baselines and drift</strong> (Korean passes have risen notably). <strong>Re-verify every price ~2 weeks before travel</strong> — each file lists its specific items to recheck.</li></ul><h3>How these files were built</h3><p>Researched by five parallel agents (one per card/cluster), synthesised here, then checked by critics for factual and arithmetic errors. These files are <strong>standalone reference</strong> — they are <strong>not</strong> parsed by <code>generate_site_data.py</code> and don't appear in the web app (that pipeline only reads <code>itinerary.md</code>, <code>days/*.md</code>, and <code>passes.md</code>). See passes.md for the transport/transit/eSIM details.</p>"
+  },
+  {
+    "id": "card-seoul",
+    "nav": "Seoul",
+    "title": "Seoul — Discount Cards (Discover Seoul Pass)",
+    "html": "<p><strong>Purpose of this file:</strong> list the discount cards available in Seoul, map them against the attractions <em>we actually visit</em> (Aug 11–18), calculate whether each pays off, and decide <strong>which card, for whom, and for how long</strong> to buy.</p><blockquote><p><strong>TL;DR</strong> — The <strong>Discover Seoul Pass 48h</strong> is a <strong>clear win for the 3 adults</strong> (≈ +33,000 KRW each) <em>if</em> they do COEX Aquarium on Aug 18, and marginal (+5,000) if not. It is <strong>break-even-to-negative for the kids</strong> (there is no child discount), so <strong>don't buy it for the 9- and 11-year-olds</strong> — buy them discounted individual Lotte World + N Seoul Tower tickets instead. The 15-year-old is a coin-flip: buy only if COEX is confirmed. <strong>Buy: 48h pass × 3 adults (activate afternoon of Aug 16). Kids: à la carte.</strong></p></blockquote><hr><h3>Cards available</h3><p>The <strong>Discover Seoul Pass</strong> is sold <strong>only to foreign passport holders</strong> and has <strong>one flat price for everyone aged 3–99 — there is no child/youth discount.</strong> This single fact drives the whole recommendation below.</p><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Card</th><th>Duration / structure</th><th>Price (all ages)</th><th>Notes</th></tr></thead><tbody><tr><td>Discover Seoul Pass <strong>24h</strong></td><td>rolling 24h from first attraction scan</td><td>~49,000 KRW</td><td>Being phased out on the official app; still on Klook/KKday</td></tr><tr><td>Discover Seoul Pass <strong>48h</strong></td><td>rolling 48h</td><td><strong>70,000 KRW</strong></td><td>⭐ the relevant one for us</td></tr><tr><td>Discover Seoul Pass <strong>72h</strong></td><td>rolling 72h</td><td>90,000 KRW</td><td>Timing-safety option</td></tr><tr><td>Discover Seoul Pass <strong>120h</strong></td><td>rolling 120h</td><td>130,000 KRW</td><td>Overkill for our attraction spread</td></tr><tr><td><strong>Pick 3 Basic</strong></td><td>choose any 3 attractions, 5-day validity, app-only</td><td>49,000 KRW</td><td>❌ theme parks (Lotte World) not eligible</td></tr><tr><td><strong>Pick 3 Theme Park</strong></td><td>1 theme park + 1 of Group A/B + 1 of Group C, 5-day</td><td>70,000 KRW</td><td>Group rule blocks Lotte World + N Tower + COEX together</td></tr></tbody></table></div><p><strong>Formats:</strong> <em>Mobile</em> (QR in the app; bundles a free 5-day unlimited-data eSIM) or <em>Physical card</em> (doubles as a rechargeable T-money transit card; no eSIM). Pick-3 variants are mobile-only.</p><hr><h3>Coverage & our schedule</h3><p>Gate prices are adult / child. \"In our plan?\" = whether it's currently on the itinerary and on which day.</p><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Attraction</th><th>On the pass?</th><th>Gate (adult)</th><th>Gate (child)</th><th>In our plan? — day</th></tr></thead><tbody><tr><td><strong>N Seoul Tower Observatory</strong></td><td>✅ Free</td><td>~16,000–27,000²</td><td>~12,000–20,000²</td><td>✅ Aug 16</td></tr><tr><td><strong>Namsan Cable Car</strong> (round trip)</td><td>❌ <strong>Not covered</strong> (only the observatory is)</td><td>~15,000</td><td>~11,500</td><td>✅ Aug 16</td></tr><tr><td><strong>Lotte World Adventure</strong> (full-day admission)</td><td>✅ Free (ride line-skip <em>not</em> included)</td><td>~59,000</td><td>~47,000</td><td>✅ Aug 17</td></tr><tr><td><strong>Seoul Sky / Lotte World Tower</strong></td><td>❌ <strong>Not covered</strong> (discount coupon at best)</td><td>~31,000</td><td>~27,000</td><td>✅ Aug 17</td></tr><tr><td><strong>COEX Aquarium (SEA LIFE)</strong></td><td>✅ Free</td><td>~28,000–33,000</td><td>~25,000–29,000</td><td>⚠️ Aug 18 (\"Also Nearby\", not locked in)</td></tr><tr><td><strong>Changdeokgung Palace</strong></td><td>✅ Free (redundant — hanbok = free anyway)</td><td>3,000</td><td>1,500</td><td>✅ Aug 12</td></tr><tr><td>Secret Garden (Huwon)</td><td>⚠️ Uncertain (separate reserved tour)</td><td>5,000</td><td>2,500</td><td>✅ Aug 12</td></tr><tr><td><strong>Nami Island</strong> admission</td><td>✅ Free (zipline ~44,000 & Gapyeong shuttle <strong>not</strong> covered)</td><td>~16,000</td><td>~10,000–13,000</td><td>✅ Aug 15 (we enter by zipline — see note)</td></tr><tr><td>Alive / Trick Eye Museum</td><td>✅ Free</td><td>~13,000–15,000</td><td>~11,000</td><td>➖ not really scheduled</td></tr><tr><td>KEYESCAPE escape room</td><td>❌ Not a partner</td><td>~22,000/pp</td><td>same</td><td>⚠️ Aug 14 (maybe)</td></tr><tr><td>943 Kings Cross / animal cafe</td><td>❌ No free entry</td><td>~10,000</td><td>~10,000</td><td>⚠️ Aug 14 (maybe)</td></tr></tbody></table></div><p><strong>Free anyway (no pass value):</strong> War Memorial, National Museum of Korea, National Folk Museum, MMCA, Leeum, Gyeongbokgung (Tue closed / free with hanbok), Bukchon, Gwangjang & other markets.</p><hr><h3>Profitability (per person)</h3><p>The pass earns its keep on three items that cluster <strong>Aug 16→18</strong>: N Seoul Tower + Lotte World + COEX. Everything else is either free anyway (palaces, museums) or <em>not</em> covered (Seoul Sky, cable car, Nami zipline).</p><p><strong>48h pass (70,000), activated afternoon of Aug 16 → expires ~Aug 18 afternoon:</strong></p><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Traveller</th><th>Value captured (N Tower + Lotte + COEX)</th><th>− pass</th><th>Verdict</th></tr></thead><tbody><tr><td>Adult</td><td>16,000 + 59,000 + 28,000 = <strong>103,000</strong></td><td>−70,000</td><td><strong>+33,000</strong> ✅</td></tr><tr><td>Child (9, 11)</td><td>12,000 + 47,000 + 25,000 = <strong>84,000</strong></td><td>−70,000</td><td>+14,000 (thin)</td></tr><tr><td>Teen (15)¹</td><td>~16,000 + ~52,000 + ~27,000 = <strong>~95,000</strong></td><td>−70,000</td><td>~+25,000</td></tr></tbody></table></div><p><strong>If COEX is skipped</strong> (it's only \"Also Nearby\"), just N Tower + Lotte World:</p><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Traveller</th><th>Value</th><th>− pass</th><th>Verdict</th></tr></thead><tbody><tr><td>Adult</td><td>16,000 + 59,000 = <strong>75,000</strong></td><td>−70,000</td><td><strong>+5,000</strong> (barely)</td></tr><tr><td>Child (9, 11)</td><td>12,000 + 47,000 = <strong>59,000</strong></td><td>−70,000</td><td><strong>−11,000</strong> ❌ loss</td></tr><tr><td>Teen (15)</td><td>~16,000 + ~52,000 = <strong>~68,000</strong></td><td>−70,000</td><td>~−2,000</td></tr></tbody></table></div><p>¹ Age-tier note: the pass price is flat, but <em>gate</em> prices differ. At <strong>Lotte World</strong> a 15-year-old pays the <strong>teenager</strong> rate (~52,000); at <strong>N Seoul Tower</strong> the \"adult\" rate starts at 13, so the 15-year-old pays adult (~16,000). 9- and 11-year-olds get the child rate everywhere.</p><p>² <strong>N Seoul Tower's gate price is channel-dependent</strong> — roughly ~16,000–18,000 online-discounted vs ~27,000 at the gate. The tables above use the conservative ~16,000; a higher real price only <em>increases</em> the adult surplus and <em>reduces</em> the kids' shortfall, so the direction of every recommendation holds.</p><p><strong>Why the kids lose:</strong> with no child discount on the pass but child <em>gate</em> prices ~15–20% lower on average, a child clears break-even only on the two priciest items together (Lotte World + COEX = 72,000) or all three — any combo leaning on the cheap N Seoul Tower falls short. The moment COEX is uncertain (as it is), the child pass goes underwater.</p><hr><h3>Recommendation — what & how long to buy</h3><ul><li><strong>3 adults → buy the 48h pass (70,000), activate the afternoon of Aug 16.</strong> Then commit to the chain <strong>N Seoul Tower (Aug 16 eve) → Lotte World (Aug 17) → COEX Aquarium (Aug 18 morning, before it expires).</strong> Net ≈ <strong>+33,000 each</strong>.<ul><li>If you can't reliably fit <strong>COEX</strong> before expiry, either step up to <strong>72h (90,000)</strong> for timing safety (net ≈ +13,000), or <strong>skip the pass</strong> and buy discounted individual Lotte World + N Seoul Tower tickets on Klook/KKday (Lotte World is routinely 10–45% off — that beats a barely-positive pass).</li></ul></li><li><strong>15-year-old → buy the 48h only if COEX is confirmed</strong> (then ~+25,000). If COEX is doubtful, skip and go à la carte.</li><li><strong>9- & 11-year-olds → do NOT buy the pass by default.</strong> Buy discounted <strong>child</strong> Lotte World + N Seoul Tower tickets individually. Only buy the pass if you're certain they'll also do COEX (then +14,000), and accept that missing any one item flips it negative.</li><li><strong>Duration verdict:</strong> <strong>48h is the sweet spot</strong> — a 24h pass can't span N Tower (16th) <em>and</em> Lotte World (17th). 72h only buys timing insurance for COEX. The Pick-3 Theme Park (70,000) removes clock stress but its group rule blocks COEX and it's negative for kids — not recommended here.</li></ul><p><strong>Concrete shopping list:</strong> 3 × adult 48h pass (+ optionally the 15-year-old). Kids 9 & 11: individual discounted tickets. Everyone still pays out of pocket for <strong>Seoul Sky, the Namsan Cable Car, and the Nami zipline</strong> — none are pass items.</p><hr><h3>Additional info & gotchas</h3><ul><li><strong>Clock starts at your first <em>attraction</em> scan</strong> — not at purchase, not calendar-day. <strong>Sources disagree on whether issuing the free-AREX code also starts the clock</strong>, so treat the AREX benefit as clock-starting: don't redeem it unless you mean to activate the pass. <em>Moot for us</em> — we arrive Aug 11 but don't activate until Aug 16, so we won't use the pass's AREX ride anyway.</li><li><strong>No daily cap</strong> on free attractions (time-passes) — visit as many as the clock allows, <strong>once each</strong>.</li><li><strong>Lotte World = full-day admission but NOT the Magic Pass</strong> ride line-skip. Grab the free same-day \"Magic Day Pass\" at the in-park stand (first ~100 guests) or just queue.</li><li><strong>Voucher shelf-life</strong> ~5 years before activation; refundable within 30 days if unused, non-refundable once activated.</li><li><strong>Where to buy:</strong> official app/site (discoverseoulpass.com — now foregrounds 72h/120h + Pick-3) or <strong>Klook / KKday / Trazy / Pelago</strong> (still stock the 24h/48h). No meaningful price difference between channels; the mobile version includes the eSIM.</li><li><strong>⚠️ Re-verify before Aug 2026:</strong> whether the <strong>48h</strong> is still sold, exact KRW prices (especially child gate prices), and Seoul Sky's discount status.</li></ul><h4>Correction flagged in existing docs</h4><p>days/aug-16-myeongdong-namsan.md lists the <strong>Namsan Cable Car</strong> as \"Pass or ~15,000 KRW\", implying the Discover Seoul Pass covers it. <strong>It does not</strong> — only the N Seoul Tower observatory is free; the cable car is always out of pocket. Worth fixing that line (I left day files untouched — say the word and I'll correct it).</p><hr><h3>Sources & confidence</h3><p>Compiled from official VisitSeoul / VisitKorea listings, the Discover Seoul Pass site, and multiple 2025–2026 pass reviews (Klook/KKday/Pelago). <strong>High confidence</strong> on pass structure, the free/not-free classification, the no-daily-cap rule, and the no-child-discount fact. <strong>Medium confidence</strong> on exact 2026 KRW gate prices (especially child/teen rates) and on whether the 24h/48h time-passes survive to Aug 2026 — re-verify at booking.</p>"
+  },
+  {
+    "id": "card-busan",
+    "nav": "Busan",
+    "title": "Busan — Discount Cards (Visit Busan Pass)",
+    "html": "<p><strong>Purpose of this file:</strong> list Busan's discount cards, map them to what we actually do (essentially <strong>one usable day, Aug 19</strong> — we arrive the evening of Aug 18 and fly out the morning of Aug 20), calculate profitability, and decide whether/what to buy.</p><blockquote><p><strong>TL;DR</strong> — With only one day and a temple/market-focused plan, <strong>no pass pays off as things stand</strong>. Beach Train + Busan Tower = only ~24,000 KRW of coverable value, far below the 55,000 KRW 24H pass. A pass makes sense <strong>only if you deliberately add Busan X the Sky (and ideally SEA LIFE) at Haeundae</strong> — then the <strong>BIG3 pick-3 pass (45,000)</strong> is the least-bad option, for <strong>adults only</strong>. <strong>Sky Capsule is not on any pass</strong> — book it separately. <strong>Buy: nothing by default. Pay gate prices. (Optional: adult BIG3 + X the Sky if you want an observation-deck day.)</strong></p></blockquote><hr><h3>Cards available</h3><p>Like the Seoul pass, the <strong>Visit Busan Pass</strong> is <strong>foreigners-only</strong> and appears to be a <strong>single flat price with no adult/child distinction</strong> (verify at checkout) — which again makes it worse value for kids than adults.</p><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Card</th><th>Structure</th><th>Price (all ages)</th><th>Relevance</th></tr></thead><tbody><tr><td><strong>Visit Busan Pass 24H</strong></td><td>unlimited attractions, rolling 24h from first scan</td><td><strong>55,000 KRW</strong></td><td>The only time-pass that could fit one day</td></tr><tr><td>Visit Busan Pass 48H</td><td>unlimited, rolling 48h</td><td>85,000 KRW</td><td>❌ irrelevant — only one usable day</td></tr><tr><td><strong>BIG3 (Free-choice)</strong></td><td>pick <strong>3</strong> (1 Group A + 2 Group B), 180-day validity, one entry each</td><td><strong>45,000 KRW</strong></td><td>⭐ best-fit \"pass\" for a single day</td></tr><tr><td>BIG5 (Free-choice)</td><td>pick <strong>5</strong> (2 Group A + 3 Group B), 180-day</td><td>65,000 KRW</td><td>Too many attractions for one day</td></tr></tbody></table></div><p><strong>Clock:</strong> the 24H/48H activate at first QR scan and run rolling hours. BIG3/BIG5 are not time-clocked (180-day window). <strong>Sold as a mobile QR pass only</strong> — the physical card (which used to double as a transit card) has been suspended on all channels since ~Oct 2024, so assume mobile-only.</p><hr><h3>Coverage & our schedule</h3><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Attraction</th><th>On the pass?</th><th>Gate (adult)</th><th>Gate (child)</th><th>In our plan? — day</th></tr></thead><tbody><tr><td><strong>Blueline Park — Beach Train</strong></td><td>✅ Free</td><td>12,000 (16,000 all-stop)</td><td>flat by ride, not age</td><td>✅ Aug 19</td></tr><tr><td><strong>Blueline Park — Sky Capsule</strong></td><td>❌ <strong>Not covered</strong> (separate ticket)</td><td>~35,000–40,000 / 1–2-pax capsule, one-way</td><td>—</td><td>✅ Aug 19 (pay separately)</td></tr><tr><td><strong>Busan Tower (Yongdusan)</strong></td><td>✅ Free</td><td>~12,000</td><td>~9,000</td><td>✅ Aug 19</td></tr><tr><td>Busan X the Sky</td><td>✅ Free</td><td>27,000–29,000</td><td>24,000</td><td>➖ not scheduled (candidate add, Haeundae)</td></tr><tr><td>SEA LIFE Busan Aquarium</td><td>✅ Free</td><td>29,000</td><td>~24,000</td><td>➖ not scheduled (candidate add, Haeundae)</td></tr><tr><td>Songdo Marine Cable Car (Air Cruise)</td><td>✅ Free (standard round trip)</td><td>17,000</td><td>~13,000</td><td>➖ not scheduled (far west, awkward)</td></tr><tr><td>Spa Land, Shinsegae Centum City</td><td>✅ Free</td><td>~20,000</td><td>age limits</td><td>➖ not scheduled</td></tr><tr><td>Taejongdae Danubi Train</td><td>✅ Free</td><td>~4,000</td><td>~2,000</td><td>➖ not scheduled</td></tr><tr><td>Lotte World Adventure Busan</td><td>✅ Free (premium/Group A)</td><td>47,000</td><td>—</td><td>➖ not scheduled</td></tr><tr><td>Trick Eye / Science Museum</td><td>⚠️ Likely free (verify)</td><td>~15,000 / nominal</td><td>—</td><td>➖ not scheduled</td></tr><tr><td>Haedong Yonggungsa, Gamcheon, Jagalchi/Gukje/BIFF/Bupyeong, Oryukdo Skywalk</td><td>n/a (free anyway)</td><td>0</td><td>0</td><td>✅ Aug 19 — no pass value</td></tr></tbody></table></div><hr><h3>Profitability (per person) — the one-day reality</h3><p><strong>Coverable value we'd actually use on Aug 19 as planned:</strong> Beach Train (12,000) + Busan Tower (12,000) = <strong>24,000/adult</strong>. (Sky Capsule is off-pass either way.)</p><p><strong>24H pass (55,000):</strong></p><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Scenario (Aug 19)</th><th>Coverable value (adult)</th><th>vs 55,000</th><th>Verdict</th></tr></thead><tbody><tr><td>As planned (Beach Train + Busan Tower)</td><td>24,000</td><td>−31,000</td><td>❌ clear no</td></tr><tr><td>+ Busan X the Sky</td><td>51,000</td><td>−4,000</td><td>❌ still short</td></tr><tr><td>+ X the Sky <strong>and</strong> SEA LIFE (both Haeundae)</td><td>80,000</td><td><strong>+25,000</strong></td><td>✅ only way it pays — but 4 ticketed stops on a packed day</td></tr></tbody></table></div><p><strong>BIG3 pass (45,000) — the least-bad option:</strong></p><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Combo</th><th>Value (adult)</th><th>vs 45,000</th><th>Verdict</th></tr></thead><tbody><tr><td>Beach Train + Busan Tower + X the Sky</td><td>51,000</td><td><strong>+6,000</strong></td><td>✅ small win, only 3 stops</td></tr><tr><td>X the Sky + SEA LIFE + Beach Train</td><td>68,000</td><td><strong>+23,000</strong></td><td>✅ <em>if</em> group rules allow both premiums</td></tr></tbody></table></div><p><strong>Kids:</strong> with lower child gate prices and a flat pass price, the 24H can't break even, and a child BIG3 (X the Sky + Beach Train + Busan Tower ≈ 45,000) merely <strong>ties</strong> the pass price. <strong>No pass for the children.</strong></p><hr><h3>Recommendation — what & how long to buy</h3><ul><li><strong>Default: buy no pass.</strong> For a temple-, market- and Gamcheon-focused Aug 19, pay gate prices: ~24,000/adult for Beach Train + Busan Tower, plus the <strong>Sky Capsule</strong> separately (~35,000–40,000 for a 1–2-person capsule one-way; a 3–4-person capsule costs more).</li><li><strong>48H is pointless</strong> (one usable day). <strong>24H (55,000) is a no</strong> unless you turn Aug 19 into an observation-deck/aquarium day by adding <strong>both Busan X the Sky and SEA LIFE</strong> at Haeundae.</li><li><strong>If you want a pass anyway → adult BIG3 (45,000) + Busan X the Sky</strong> (saves ~6,000/adult; ~23,000 if you also swap in SEA LIFE and the Group A/B rules allow it). <strong>Buy it for the 3 adults only</strong> — not the kids (flat price wipes out their gate discounts).</li><li><strong>Best single move:</strong> decide first whether you actually want to add a Haeundae observation deck. If not, skip all passes; the plan is mostly free sights + two cheap tickets.</li></ul><p><strong>The Sky Capsule (book early!):</strong> it's a separate, per-capsule, <strong>one-way</strong> ticket (typical play: Sky Capsule one way + Beach Train back, which <em>is</em> on the pass). Sunset/Mipo-start slots sell out <strong>weeks</strong> ahead — book at <strong>bluelinepark.com</strong> as soon as the window opens (<strong>Tuesdays, 4 weeks / 28 days out</strong> — confirm the exact opening time on the site). For 6 people you'll need <strong>2 capsules</strong> (up to 4 seats each); note the ~35,000–40,000 figure is the <strong>1–2-passenger</strong> rate, so a filled 3–4-person capsule costs more.</p><hr><h3>Additional info & gotchas</h3><ul><li><strong>One entry per attraction</strong>, non-transferable, foreigners-only.</li><li><strong>Songdo Cable Car:</strong> the pass covers the standard <strong>Air Cruise</strong> round trip (17,000); the glass-floor <strong>Crystal Cruise</strong> (22,000) may need a top-up.</li><li><strong>BIG3/BIG5 Group A/B lists aren't published in guides</strong> — X the Sky and Lotte World Busan are almost certainly Group A (premium); Beach Train, Busan Tower, Taejongdae, SEA LIFE more likely Group B. <strong>Verify the live groupings in the app</strong> before buying — the profitable combos above depend on it.</li><li><strong>Where to buy:</strong> visitbusanpass.com or Klook / KKday / Trazy / Creatrip (<strong>mobile QR only — the physical card was discontinued ~Oct 2024</strong>; occasional promo discounts — worth a price check).</li><li><strong>⚠️ Re-verify before Aug 2026:</strong> child pass pricing (believed flat), SEA LIFE / Trick Eye / Science Museum coverage, the Group A/B assignments, and all gate prices (they've been drifting up — the 24H was ~35–45k in prior years, now 55k).</li></ul><h4>Correction flagged in existing docs</h4><p>days/aug-19-busan.md lists the <strong>Sky Capsule</strong> at \"~50,000 KRW/capsule (2-pax)\". Current sources show <strong>~35,000–40,000 for a 1–2-person capsule, one-way</strong> (the 50,000 figure looks like a round-trip or older price). Worth updating — I left day files untouched; tell me to fix it.</p><hr><h3>Sources & confidence</h3><p>Official Visit Busan Pass site + guidebook PDF, plus Creatrip / KKday / South Korea Hallyu 2026 pass guides and venue ticket pages. <strong>High confidence</strong> on pass structure, the one-day verdict, Sky Capsule exclusion, and Beach Train/Busan Tower/X the Sky coverage. <strong>Medium/low</strong> on child pass pricing, SEA LIFE/Trick Eye/Science coverage, Group A/B assignments, and exact gate prices (upward drift likely) — re-check ~2 weeks out.</p>"
+  },
+  {
+    "id": "card-taipei",
+    "nav": "Taipei",
+    "title": "Taipei — Discount Cards (Taipei Fun Pass & alternatives)",
+    "html": "<p><strong>Purpose of this file:</strong> list Taipei's passes and alternatives, map them to what we do (Taipei across Aug 20–24 and 27–29, plus the Aug 23 northeast-coast day trip), calculate profitability, and decide <strong>which product, for whom, for how long</strong>.</p><blockquote><p><strong>TL;DR</strong> — The whole decision hinges on <strong>one question: do we DIY the Aug 23 coast day (Yehliu + Shifen) or take a guided tour?</strong></p><ul><li><strong>If DIY</strong> → the <strong>Taipei Fun Pass Unlimited 3-day (Aug 22–24)</strong> is worth it <strong>for the 3 adults</strong> — roughly cash-neutral, but it bundles Yehliu + the sky-lantern experience + a Pingxi-line train, so it <strong>replaces the ~NT$1,500–2,000 guided tour</strong> and skips ticket queues. <strong>No pass for the kids.</strong></li><li><strong>If guided tour</strong> → <strong>skip the pass for everyone</strong>; use <strong>EasyCard + discounted individual tickets</strong>.</li></ul><p>In both cases the pass is a <strong>clear loss for all three children</strong> (NPM is free under 18, Taipei 101 is cheap on the concession rate, and the pass's \"child\" tier is only ages 6–11 — so your <strong>15-year-old pays the full adult pass price</strong>).</p></blockquote><hr><h3>Cards available</h3><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Product</th><th>What it is</th><th>Adult (12+)</th><th>Child (6–11)</th><th>Transit?</th></tr></thead><tbody><tr><td><strong>Fun Pass Unlimited 1-day</strong></td><td>30+ attractions (1 free entry each) + unlimited MRT/bus/tourist-shuttle + Pingxi-line train</td><td>NT$1,300</td><td>NT$1,100</td><td>✅</td></tr><tr><td><strong>Fun Pass Unlimited 2-day</strong></td><td>\"</td><td>NT$1,700</td><td>NT$1,500</td><td>✅</td></tr><tr><td><strong>Fun Pass Unlimited 3-day</strong></td><td>\"</td><td><strong>NT$2,000</strong></td><td>NT$1,700</td><td>✅</td></tr><tr><td>Fun Pass <strong>Transport-only</strong></td><td>MRT + city bus + 6 tourist-shuttle routes, no attractions</td><td>1d 210 / 2d 340 / 3d 470 / 5d 730</td><td>under-6 free</td><td>✅ transit only</td></tr><tr><td><strong>MRT-only unlimited</strong></td><td>Taipei Metro only</td><td>24h 180 / 48h 280 / 72h 380</td><td>same</td><td>MRT only</td></tr><tr><td><strong>Klook Pass Taipei</strong></td><td>pick-N attractions from a menu, \"41% off\", flexible 30+30-day validity</td><td>~NT$1,100–1,800 (tiers unverified)</td><td>little benefit</td><td>❌</td></tr><tr><td><strong>EasyCard (baseline)</strong></td><td>stored-value tap for MRT/bus/most things</td><td>NT$100 card fee + pay-as-you-go</td><td>see fare note</td><td>pay-as-you-go</td></tr></tbody></table></div><ul><li><strong>Validity of the Unlimited pass = consecutive calendar days</strong> (activates on first tap; a 2-day pass used the afternoon of day 1 dies at end of day 2 — so <strong>activate in the morning</strong>). It does <strong>NOT</strong> cover the <strong>Taoyuan Airport MRT</strong> (Aug 29 airport run is out of pocket regardless).</li><li><strong>The regular/list price is NT$1,500 / 1,900 / 2,200 (adult)</strong>; Klook/KKday and official promos routinely <strong>discount it to the NT$1,300 / 1,700 / 2,000</strong> shown above — so buy through a reseller to get the lower price (child list NT$1,300/1,700/2,000 → discounted 1,100/1,500/1,700). Verify at booking.</li><li><strong>Fare note (resolved):</strong> non-resident children aged 6+ get <strong>no</strong> EasyCard concession — they use a standard adult card and pay the <strong>adult</strong> fare (concession cards are for Taiwan residents/students). So all three kids (9, 11, 15) pay adult MRT fares.</li></ul><hr><h3>Coverage & our schedule</h3><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Attraction</th><th>On Unlimited pass?</th><th>Gate (adult)</th><th>Gate (child, 9/11)</th><th>In our plan? — day</th></tr></thead><tbody><tr><td><strong>Taipei 101 Observatory</strong></td><td>✅ Free</td><td>600</td><td>540 concession (≥115 cm; &lt;115 cm free)</td><td>✅ Aug 22</td></tr><tr><td><strong>National Palace Museum</strong></td><td>✅ Free</td><td>350</td><td><strong>0 — free for all under 18</strong></td><td>✅ Aug 22</td></tr><tr><td><strong>Maokong Gondola</strong></td><td>✅ Free (1-day gondola pass)</td><td>180/ride (300 one-day pass)</td><td>50/ride (100 day pass) concession</td><td>✅ Aug 27 (isolated day)</td></tr><tr><td><strong>Yehliu Geopark</strong></td><td>✅ Free</td><td>120</td><td>60</td><td>✅ Aug 23</td></tr><tr><td><strong>Shifen sky lantern</strong></td><td>✅ Included as an \"experience\" (+ free Pingxi-line train)</td><td>~150–200 (shared/lantern)</td><td>same</td><td>✅ Aug 23</td></tr><tr><td><strong>Children's Amusement Park</strong></td><td>✅ Free <strong>entry</strong> (rides/wristband not covered)</td><td>entry 30 (all-day rides 200)</td><td>entry 30</td><td>✅ Aug 24</td></tr><tr><td><strong>Science Education Center</strong></td><td>✅ Free (permanent exhibit)</td><td>100</td><td>~70</td><td>✅ Aug 24</td></tr><tr><td><strong>Astronomical Museum</strong></td><td>✅ Free exhibit (IMAX/dome extra)</td><td>40 (+100 IMAX)</td><td>~20 (+70 IMAX)</td><td>✅ Aug 24</td></tr><tr><td><strong>Taipei Zoo</strong></td><td>✅ Free</td><td>60</td><td>30</td><td>⚠️ Aug 27 (optional)</td></tr><tr><td>Miramar Ferris Wheel</td><td>✅ Free</td><td>200</td><td>~150</td><td>➖ not scheduled</td></tr><tr><td><strong>Beitou Spring City Resort</strong> (hot spring)</td><td>❌ <strong>Not covered</strong> (private resort)</td><td>350–600</td><td>350–600</td><td>✅ Aug 22 (pay directly)</td></tr><tr><td>Taoyuan <strong>Airport MRT</strong></td><td>❌ Not covered</td><td>160</td><td>~</td><td>✅ Aug 20 arrive / Aug 29 depart</td></tr></tbody></table></div><p><strong>Free anyway (no pass value):</strong> Longshan Temple, Chiang Kai-shek Memorial, Bopiliao, Dihua St, Elephant Mountain, all night markets, Beitou Hot Spring Museum & Thermal Valley.</p><p><strong>Big finding:</strong> Yehliu + the sky-lantern experience + the Pingxi-line train <strong>are on the pass</strong> — so a 3-day pass can effectively <em>stand in for</em> the paid Aug 23 coast tour if you self-guide that day.</p><hr><h3>Profitability (per person)</h3><p>The paid attractions cluster on <strong>three consecutive days — Aug 22, 23, 24</strong> — which fits one 3-day pass. Aug 27 (Maokong) is an isolated day that can't be added without a second pass.</p><p><strong>Adult, 3-day Unlimited (NT$2,000), Aug 22–24, DIY-ing the coast day:</strong></p><ul><li>Attraction value: 101 (600) + NPM (350) + Yehliu (120) + lantern (~150) + park entry (30) + Science (100) + Astro (40) = <strong>~1,390</strong></li><li>Transit avoided (EasyCard PAYG over 3 busy days incl. the day trip): <strong>~480</strong></li><li><strong>Total ~1,870 vs 2,000 → about −130 (cash-neutral)</strong> — <em>but</em> it also lets you <strong>skip the NT$1,500–2,000 guided tour</strong> and skip queues. <strong>Net: worth it for adults in the DIY scenario.</strong></li><li>2-day (Aug 22–23): ~1,620 vs 1,700 → −80 (drops the low-value Aug-24 museums; also fine).</li></ul><p><strong>Adult, if you KEEP the guided Aug-23 tour:</strong> no consecutive heavy cluster remains. Best is Aug 22 alone (~1,100 value) vs the 1-day NT$1,300 → <strong>loses. Skip the pass</strong>, go EasyCard + gate tickets.</p><p><strong>Child (9, 11), 3-day Unlimited (NT$1,700), Aug 22–24 DIY:</strong></p><ul><li>101 concession (540) + <strong>NPM 0</strong> + Yehliu (60) + lantern (~150) + park (30) + Science (~70) + Astro (~20) = <strong>~870</strong> + transit ~480 (kids pay adult fares) = <strong>~1,350 vs 1,700 → −350.</strong> ❌ still a clear loss.</li></ul><p><strong>Teen (15):</strong> pays the <strong>adult</strong> pass price (NT$2,000) but has child-like gate value (NPM free under 18; Taipei 101 concession NT$540). → <strong>worst value of all.</strong> No pass.</p><p><strong>Never buy the pass for the transit alone:</strong> a heavy touring day is only ~NT$120–250 of EasyCard fares, below the pass's per-day cost — roughly <strong>three-quarters</strong> of the Unlimited pass's value is the attractions, not transit.</p><hr><h3>Recommendation — what & how long to buy</h3><p><strong>Decision tree:</strong></p><p><strong>① If you DIY the Aug 23 coast day (recommended if you like self-guiding):</strong></p><ul><li><strong>3 adults → Taipei Fun Pass Unlimited 3-day, activate the morning of Aug 22 (covers Aug 22–24).</strong> Roughly cash-neutral but it replaces the guided coast tour and skips the Taipei 101 / museum queues.</li><li><strong>3 kids (9, 11, 15) → no pass.</strong> Pay their few cheap tickets à la carte (101 concession, half-price museums; NPM free) and tap EasyCard.</li><li><strong>Aug 27 (Maokong ± Zoo) and Aug 28–29 →</strong> EasyCard + gate tickets for everyone (can't be folded into the pass window).</li></ul><p><strong>② If you keep the guided Aug 23 tour (recommended if the two-direction DIY logistics feel like too much with kids):</strong></p><ul><li><strong>Skip the pass for everyone.</strong> Use <strong>EasyCard pay-as-you-go + discounted individual e-tickets</strong> (buy Taipei 101 online for the queue-skip). Cheapest option that covers the plan across the split stay.</li></ul><p><strong>Alternatives worth a quick price-check (option ①-skeptics):</strong></p><ul><li><strong>Klook Pass Taipei</strong> pick-3 makes sense <em>only</em> if a live tier prices <strong>below</strong> the gate sum of your three priciest coverable items — and since NPM is free, that's <strong>101 + Maokong + Yehliu (~NT$900)</strong>, not 101+NPM+Maokong. If a pick-3 tier is under ~NT$900, grab it for adults; otherwise it's a wash. (Its 30+30-day validity does suit our split stay.)</li><li><strong>Transit-only / MRT passes</strong> lose to EasyCard PAYG for our ride counts — don't bother.</li></ul><p><strong>Family cash sanity-check:</strong> three adult 3-day passes ≈ <strong>NT$6,000</strong> (and the 15-year-old would be a 4th adult-priced pass at NT$2,000). Passing all six ≈ <strong>4 × 2,000 + 2 × 1,700 = NT$11,400</strong> — for attractions the three kids get free or dirt-cheap à la carte (NPM free, half-price museums). That confirms: <strong>buy passes only for the adults, and only in the DIY scenario.</strong></p><hr><h3>Additional info & gotchas</h3><ul><li><strong>NPM is free for everyone under 18</strong> (all nationalities) — never \"spend\" a pass slot or buy a child ticket for it.</li><li><strong>Beitou Spring City Resort</strong> (Aug 22) is a private onsen charge, on <strong>no</strong> pass — pay directly (the public Millennium hot spring nearby is only ~NT$60).</li><li><strong>Children's Amusement Park:</strong> the pass covers <strong>entry</strong> (NT$30); the NT$200 all-day figure is entry + a batch of ride tickets, which aren't covered.</li><li><strong>Aug 29 Airport MRT (~NT$160/adult) is never covered</strong> — budget it separately.</li><li><strong>Activate in the morning</strong> to get a full first calendar day out of a consecutive-day pass.</li><li><strong>Where to buy:</strong> official funpass.travel.taipei (collect at Taoyuan Airport / Taipei Main Station), or Klook/KKday/Trip.com; EasyCard at any MRT station or convenience store on arrival.</li><li><strong>⚠️ Re-verify before Aug 2026:</strong> (1) adult price NT$1,300/1,700/2,000 vs the reseller NT$1,500/1,900/2,200; (2) whether the \"cultural experience\" is one-only or several; (3) whether the amusement-park ride wristband / museum IMAX is covered vs entry-only; (4) exact child gate prices at the Aug-24 museums; (5) live Klook Pass tier prices (their site blocks scraping).</li></ul><hr><h3>Sources & confidence</h3><p>Official Taipei City FUNPASS FAQ (2026 prices), official Taipei 101 / NPM / Taipei Zoo / Maokong Gondola ticket pages, official Metro Taipei pass prices, plus multiple 2025–2026 pass analyses. <strong>High confidence</strong> on the structural conclusion (DIY-hinged, adults-only, clear loss for kids), the consecutive-day rule, NPM-free-under-18, and gate prices for 101/NPM/Maokong/Zoo/Yehliu. <strong>Low/medium</strong> on the fluctuating discounted Unlimited prices and the Klook Pass tiers — both should be reconfirmed close to travel.</p>"
+  },
+  {
+    "id": "card-taichung",
+    "nav": "Taichung",
+    "title": "Taichung — Discount Cards",
+    "html": "<p><strong>Purpose of this file:</strong> confirm whether any discount card is worth buying in Taichung for our plan (Aug 25 morning only, en route Taipei → Tainan).</p><blockquote><p><strong>TL;DR — No card. Our Taichung stops are all free. Ticket cost per person: NT$0.</strong> Just tap an EasyCard/iPASS for any bus or short taxi.</p></blockquote><hr><h3>Cards available</h3><p>Taichung MRT day passes and Klook \"Taichung MRT\" passes exist, but they're irrelevant to us:</p><ul><li>We use <strong>zero ticketed attractions</strong>, so there's no attraction value to capture.</li><li>The MRT Green Line doesn't reach any of our four stops (reached by city bus or taxi).</li><li>The old \"first 10 km of city buses free\" perk is now <strong>residents-only</strong> (loaded onto locals' cards) — tourists pay from km 0, so budget a few NT$ per bus hop on EasyCard.</li></ul><hr><h3>Coverage & our schedule</h3><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Attraction</th><th>Gate (adult)</th><th>Gate (child)</th><th>Card covers?</th><th>Our day</th></tr></thead><tbody><tr><td>Rainbow Village</td><td>FREE</td><td>FREE</td><td>n/a</td><td>Aug 25 AM</td></tr><tr><td>Miyahara Ice Cream (shop)</td><td>FREE entry</td><td>FREE</td><td>n/a</td><td>Aug 25 AM</td></tr><tr><td>National Taichung Theater</td><td>FREE</td><td>FREE</td><td>n/a</td><td>Aug 25 AM</td></tr><tr><td>Taichung Second Market (food)</td><td>FREE</td><td>FREE</td><td>n/a</td><td>Aug 25 AM</td></tr></tbody></table></div><hr><h3>Recommendation</h3><p><strong>Buy nothing.</strong> Carry one topped-up <strong>EasyCard/iPASS</strong> (works Taiwan-wide) for buses/taxis. Per-person ticket cost = <strong>NT$0</strong>.</p><h3>Sources & confidence</h3><p>EasyCard Taiwan-wide usage and the residents-only bus-fare change: taiwanobsessed.com, TripAdvisor Taichung forum, fmyly.com. <strong>Medium-high.</strong> Nothing here is price-sensitive since the plan has no paid entries.</p>"
+  },
+  {
+    "id": "card-tainan",
+    "nav": "Tainan",
+    "title": "Tainan — Discount Cards",
+    "html": "<p><strong>Purpose of this file:</strong> confirm whether any discount card is worth buying in Tainan for our plan (Aug 25 afternoon → Aug 26 midday).</p><blockquote><p><strong>TL;DR — No card.</strong> A <strong>Tainan Historic Site Pass (~NT$210)</strong> bundles 4 sites; our 3 sites cost <strong>NT$210 à la carte (adult) / NT$105 (child)</strong> — the <strong>same</strong> as the pass for adults, so the pass only wins if you also do its 4th site (Eternal Golden Castle), which we skip. Pay per site (kids are half-price); tap EasyCard/iPASS for buses.</p></blockquote><hr><h3>Cards available</h3><ul><li><strong>Tainan Historic Site Pass — ~NT$210:</strong> covers Anping Old Fort (Fort Zeelandia) + Chihkan Tower + Anping Tree House + <strong>Eternal Golden Castle</strong>. For our 3 sites, à-la-carte (NT$210 adult) <em>ties</em> the pass — no saving either way — so it only pays off if you add the 4th site, which isn't in our plan. Reconfirm availability/price, but the verdict (buy nothing) stands.</li><li>No worthwhile transit card — <strong>EasyCard/iPASS</strong> covers Tainan buses.</li></ul><p>Kids aged 9+ pay <strong>half price</strong> at every historic site.</p><hr><h3>Coverage & our schedule</h3><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Attraction</th><th>Gate (adult)</th><th>Gate (child, half)</th><th>Card covers?</th><th>Our day</th></tr></thead><tbody><tr><td>Fort Zeelandia / Anping Old Fort</td><td>70</td><td>35</td><td>in the NT$210 pass</td><td>Aug 25 PM</td></tr><tr><td>Anping Tree House</td><td>70</td><td>35</td><td>in the NT$210 pass</td><td>Aug 25 PM</td></tr><tr><td>Chihkan Tower</td><td>70</td><td>35</td><td>in the NT$210 pass</td><td>Aug 26 AM</td></tr><tr><td>Temples, Shennong St, Hayashi Dept Store, night markets</td><td>FREE</td><td>FREE</td><td>n/a</td><td>both</td></tr></tbody></table></div><p><strong>À-la-carte total for our 3 sites: adult NT$210 / child NT$105</strong> — the same as the NT$210 pass (adult); kids come out ahead paying per site at half price.</p><hr><h3>Recommendation</h3><p><strong>Buy no card — pay the three gate fees individually</strong> (adult NT$210, child NT$105 total) and tap EasyCard for buses. The combo pass merely <em>ties</em> for our 3 sites and only wins if you add Eternal Golden Castle, which we're not doing.</p><h3>Sources & confidence</h3><p>Official Tainan historic-sites site (historic.tainan.gov.tw) for Fort Zeelandia & Chihkan Tower prices (<strong>high</strong>); twtainan.net (official) for Anping Tree House <strong>NT$70 / half NT$35</strong> (<strong>high</strong>); Historic Site Pass via TripAdvisor product listing (<strong>low-medium</strong> — reconfirm, but it doesn't change the verdict).</p>"
+  },
+  {
+    "id": "card-kaohsiung",
+    "nav": "Kaohsiung",
+    "title": "Kaohsiung — Discount Cards",
+    "html": "<p><strong>Purpose of this file:</strong> confirm whether any discount card is worth buying in Kaohsiung for our plan (Aug 26 afternoon → Aug 27 midday).</p><blockquote><p><strong>TL;DR — No card.</strong> Our Kaohsiung sights are almost all free; the two paid items are tiny. Tap <strong>EasyCard/iPASS</strong> for MRT + LRT + the Cijin ferry, and pay the British Consulate at the gate. Ticket cost per person: <strong>~NT$139 for adults and kids alike</strong> (no documented child rate at the Consulate) (+ a little transit).</p></blockquote><hr><h3>Cards available (none worthwhile)</h3><ul><li><strong>Kaohsiung MRT 24h pass NT$150 / 48h NT$250</strong> — a half-day of ~3–4 rides is only ~NT$80–140 pay-as-you-go (single fares NT$20–35), so the day pass doesn't break even. <strong>EasyCard PAYG wins.</strong></li><li><strong>Kaohsiung FunPASS (3-day ≈ NT$1,400–2,200 total) and the separate Klook Pass Kaohsiung</strong> — both bundle <em>premium paid</em> attractions (E-Da World, Suzuka Circuit, Science Museum, etc.) we don't visit. Our sights are free, so either costs far more than our ~NT$140 of real entries — <strong>not worth it</strong> (reconfirm exact price at booking).</li><li><strong>EasyCard/iPASS</strong> already covers Kaohsiung MRT, LRT, buses <strong>and the Cijin ferry</strong> Taiwan-wide — no separate card needed.</li></ul><hr><h3>Coverage & our schedule</h3><div class=\"card-table-wrap\"><table class=\"card-table\"><thead><tr><th>Attraction</th><th>Gate (adult)</th><th>Gate (child)</th><th>Card covers?</th><th>Our day</th></tr></thead><tbody><tr><td>Dome of Light / Formosa Blvd</td><td>FREE</td><td>FREE</td><td>n/a</td><td>Aug 26 PM</td></tr><tr><td>Pier-2 Art Center (outdoor)</td><td>FREE</td><td>FREE</td><td>n/a</td><td>Aug 26 PM</td></tr><tr><td>Lotus Pond & Dragon-Tiger Pagodas</td><td>FREE</td><td>FREE</td><td>n/a</td><td>Aug 27 AM</td></tr><tr><td>Love River walk</td><td>FREE</td><td>FREE</td><td>n/a</td><td>Aug 26 PM</td></tr><tr><td>Cijin ferry (each way)</td><td>30 cash / <strong>20 EasyCard</strong></td><td>~10–15 (EasyCard)</td><td>EasyCard tap</td><td>Aug 26/27</td></tr><tr><td>British Consulate at Takao</td><td><strong>99</strong> (partly redeemable)</td><td>~99 (no documented child rate)</td><td>skip pass, pay gate</td><td>Aug 27</td></tr><tr><td>Kaohsiung MRT (per ride)</td><td>20–35</td><td>20–35 (no non-resident concession)</td><td>EasyCard tap</td><td>both</td></tr></tbody></table></div><hr><h3>Recommendation</h3><p><strong>Buy no card.</strong> Tap <strong>EasyCard/iPASS</strong> for all MRT/LRT rides and the Cijin ferry (PAYG beats the NT$150 day pass for a half-day), and pay the <strong>British Consulate</strong> at the gate — the ticket is partly redeemable on-site (≈NT$30 coupon; some sources say the full amount), so it's not pure cost.</p><p>Per person, excluding transit: <strong>adult ≈ NT$139</strong> (ferry round-trip 40 + Consulate 99); <strong>kids ≈ the same ~NT$139</strong> (no documented child rate at the Consulate). Add ~NT$80–140 each of MRT taps (kids pay adult fares).</p><h3>Sources & confidence</h3><p>Official Kaohsiung MRT fares (<strong>high</strong>); MRT day-pass and Fun Pass prices via KKday/Klook (<strong>medium</strong> — reconfirm NT$ at booking); Cijin ferry fares (<strong>high</strong>); British Consulate at Takao NT$99 regular, partly redeemable (<strong>medium</strong> — NT$49 is the Kaohsiung-resident rate, <strong>not</strong> a child rate; no child/student discount is documented, so budget NT$99 for the kids too; re-verify).</p>"
   }
 ];

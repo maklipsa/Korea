@@ -1,6 +1,6 @@
-# Aug 28 (Fri) — TAIPEI LAST DAY + HEAD TO AIRPORT
+# Aug 28 (Fri) — LAST FULL TAIPEI DAY
 
-Flight is 6:55 AM on Aug 29. **You must be at TPE by ~4:30 AM.** Best option: stay near the airport tonight.
+Two relaxed days to finish — the flight home isn't until the **evening of Aug 29**, so there's no early-morning dash and **no need for an airport hotel**. Stay central both nights. Today is a full day in the city; tomorrow is a last morning + the evening flight.
 
 ## Route Map
 
@@ -22,10 +22,9 @@ No fixed route — pick a morning activity:
 |  | **Option C:** [★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum — Pineapple Cake Baking Class](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei) — 2-hour class. Make iconic Taiwanese pineapple cakes from scratch. Great souvenir! |  |
 | 12:00 | Last lunch in Taipei. |  |
 | 13:00 | **Last shopping:** [★★☆☆☆ 🛍️🚶 Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei) thrift shops or [★★☆☆☆ 🛍️ Zhongshan Underground Book Street](https://www.google.com/maps/search/Eslite+R79+Taipei) (stationery, souvenirs). Or: buy pineapple cakes at bakeries (essential Taiwan souvenir). |  |
-| 15:00 | Pick up luggage. |  |
-| 16:00 | **Taoyuan Airport MRT** from Taipei Main Station → TPE Airport (~40 min, NT$160). |  |
-| 17:00 | Check into **airport hotel** (recommended: Novotel Taipei Taoyuan Airport, or similar). |  |
-| Evening | Relax, pack, explore airport terminal shops. |  |
+| 15:00 | Keep exploring or settle into a cafe — you're staying central tonight, so no airport rush. |  |
+| 18:00 | Dinner + one last night market. |  |
+| 20:30 | Back to your central Taipei hotel. Pack; leave souvenir shopping and pineapple cakes for tomorrow morning. |  |
 
 ---
 

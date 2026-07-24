@@ -96,6 +96,8 @@ function renderContent() {
     main.innerHTML = renderPasses();
   } else if (activeTab === 'packing') {
     main.innerHTML = renderPacking();
+  } else if (activeTab === 'cards') {
+    main.innerHTML = renderCards();
   } else {
     const day = DAYS.find(d => d.id === activeTab);
     if (day) main.innerHTML = renderDay(day);
@@ -446,6 +448,19 @@ function renderPacking() {
         <ul><li>Requires 1\u20132 extra days. Cut Tainan or Kaohsiung. Sun Moon Lake doable as day trip from Taichung.</li></ul>
       </div>
     </div>`;
+}
+
+function renderCards() {
+  if (typeof CARDS === 'undefined' || !CARDS.length) {
+    return '<div class="overview-section"><p>No card data — run <code>python generate_site_data.py</code>.</p></div>';
+  }
+  const nav = '<div class="card-nav">' +
+    CARDS.map(c => `<a class="card-nav-chip" href="#${c.id}">${c.nav}</a>`).join('') +
+    '</div>';
+  const sections = CARDS.map(c =>
+    `<section class="card-doc" id="${c.id}"><h2 class="card-doc-title">${c.title}</h2>${c.html}</section>`
+  ).join('');
+  return `<div class="cards-page">${nav}${sections}</div>`;
 }
 
 // === INIT ===

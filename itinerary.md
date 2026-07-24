@@ -12,7 +12,7 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 ### Book 30+ days ahead
 - [ ] KTX Seoul → Busan (Aug 18, ~14:00) — book at [letskorail.com](https://www.letskorail.com) or Korail Talk app. Standard class ~59,800 KRW/person. August = peak season, sells out.
 - [ ] DMZ Tour (Aug 13) — book through authorized operator (Klook, KKday, or VIPTravel). ~65,000-80,000 KRW/person. Bring passports on the day.
-- [ ] Flight Busan (PUS) → Taipei (TPE) (Aug 20, afternoon/evening) — Tigerair Taiwan or Jeju Air, ~$70-130 USD/person one-way. Book on Skyscanner/Google Flights.
+- [ ] Flight Busan (PUS) → Taipei (TPE) (Aug 20, morning — dep ~9:00, arr Taipei ~10:30) — Tigerair Taiwan or Jeju Air, ~$70-130 USD/person one-way. Book on Skyscanner/Google Flights.
 - [ ] Everland or Lotte World tickets online (Aug 17) — 10-20% cheaper than gate price.
 
 ### Book 28 days ahead
@@ -52,7 +52,7 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 | 7 | Aug 17 (Mon) | Lotte World + Seoul Sky + Songnidan-gil | [aug-17-lotte-world.md](days/aug-17-lotte-world.md) |
 | 8 | Aug 18 (Tue) | Seoul Forest + Seongsu + COEX → KTX to Busan | [aug-18-seoul-to-busan.md](days/aug-18-seoul-to-busan.md) |
 | 9 | Aug 19 (Wed) | Busan full day (temple, Gamcheon, Jagalchi, markets) | [aug-19-busan.md](days/aug-19-busan.md) |
-| 10 | Aug 20 (Thu) | Busan morning → Fly to Taipei | [aug-20-busan-to-taipei.md](days/aug-20-busan-to-taipei.md) |
+| 10 | Aug 20 (Thu) | Fly Busan → Taipei (AM, dep 9:00) + Taipei afternoon | [aug-20-busan-to-taipei.md](days/aug-20-busan-to-taipei.md) |
 
 ## TAIWAN
 
@@ -65,8 +65,8 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 | 15 | Aug 25 (Tue) | HSR to Taichung (Rainbow Village, Miyahara) → Tainan (Anping) | [aug-25-taichung-tainan.md](days/aug-25-taichung-tainan.md) |
 | 16 | Aug 26 (Wed) | Tainan morning (food crawl + temples) → Kaohsiung (Pier-2, Cijin Island) | [aug-26-tainan-kaohsiung.md](days/aug-26-tainan-kaohsiung.md) |
 | 17 | Aug 27 (Thu) | Kaohsiung morning (Lotus Pond) → HSR to Taipei → Maokong Gondola | [aug-27-kaohsiung-taipei.md](days/aug-27-kaohsiung-taipei.md) |
-| 18 | Aug 28 (Fri) | Last Taipei day + head to airport hotel | [aug-28-last-day.md](days/aug-28-last-day.md) |
-| 19 | Aug 29 (Sat) | Fly home (6:55 AM) | [aug-29-fly-home.md](days/aug-29-fly-home.md) |
+| 18 | Aug 28 (Fri) | Last full Taipei day (stay central) | [aug-28-last-day.md](days/aug-28-last-day.md) |
+| 19 | Aug 29 (Sat) | Last Taipei morning → Fly home (dep 19:25) | [aug-29-fly-home.md](days/aug-29-fly-home.md) |
 
 ---
 

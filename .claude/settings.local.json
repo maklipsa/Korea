@@ -1,25 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(pip show:*)",
-      "Bash(git -C /c/src/Korea log --oneline -5)",
-      "Bash(python gmaps_saver.py:*)",
-      "Bash(pip install:*)",
+      "Bash(pip *)",
       "Bash(python3:*)",
-      "Bash(node -c:*)",
-      "Bash(node -e:*)",
-      "Bash(gh repo view makliart/Korea --json url,name)",
-      "Bash(gh auth status)",
-      "Bash(gh repo view maklipsa/Korea --json url)",
-      "Bash(git add .github/workflows/deploy-pages.yml docs/app.js)",
-      "Bash(git commit:*)",
-      "Bash(git branch -m master main)",
-      "Bash(gh repo create Korea --private --source=. --push --description \"Korea & Taiwan 2026 family trip planner\")",
-      "Bash(gh api repos/maklipsa/Korea/pages -X POST -f build_type=workflow -f source.branch=main -f source.path=/)",
-      "Bash(gh repo edit maklipsa/Korea --visibility public)",
-      "Bash(gh workflow run deploy-pages.yml --ref main)",
-      "Bash(gh run list --workflow=deploy-pages.yml --limit 3)",
-      "Bash(gh api repos/maklipsa/Korea/pages --jq '.html_url')"
+      "Bash(node *)",
+      "Bash(gh *)",
+      "Bash(git *)"
     ]
   }
 }
