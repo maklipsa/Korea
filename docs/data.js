@@ -201,11 +201,26 @@ const DAYS = [
       },
       {
         "time": "16:30",
-        "activity": "<strong>Samcheong-dong</strong> art + hanok stretch — <strong>go first, it closes 18:00: <a href=\"https://www.google.com/maps/search/Museum+Hanmi+Samcheong+Seoul\" target=\"_blank\">★★★★☆ 📷🏛️ Museum Hanmi</a></strong> — Korea's first fine-art photography museum (est. 2003) in a striking Samcheong-dong building; genuine gallery of photographs. Tue–Sun 10:00–18:00 (last entry ~17:00), closed Mon. Then <strong><a href=\"https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul\" target=\"_blank\">★★★☆☆ 🏛️🎨 MMCA Seoul</a></strong> (National Museum of Modern & Contemporary Art, Sogyeok-dong — <strong>open Wed to 21:00</strong>, an easy late add) + <strong><a href=\"https://www.google.com/maps/search/Kukje+Gallery+Seoul\" target=\"_blank\">★★★★☆ 🏛️🎨 Kukje Gallery</a></strong> (Seoul's leading contemporary gallery, free, sculpture garden). Then coffee at <a href=\"https://www.google.com/maps/search/Cafe+Onion+Anguk+Seoul\" target=\"_blank\">★★★☆☆ ☕ Cafe Onion Anguk</a> (100-year-old hanok, salt bread). ⚠️ Tight stretch — if the palaces ran long, prioritize Museum Hanmi + MMCA and drop Kukje.",
-        "price": "Hanmi 15,000 / youth (7–18) 7,500 — all 3 kids youth; MMCA & Kukje free"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Museum+Hanmi+Samcheong+Seoul\" target=\"_blank\">★★★★☆ 📷🏛️ Museum Hanmi</a></strong> — start of the <strong>Samcheong-dong</strong> art + hanok stretch; <strong>go first, it closes 18:00.</strong> Korea's first fine-art photography museum (est. 2003) in a striking Samcheong-dong building; genuine gallery of photographs. Tue–Sun 10:00–18:00 (last entry ~17:00), closed Mon.",
+        "price": "15,000 / youth (7–18) 7,500 — all 3 kids youth"
       },
       {
-        "time": "17:30",
+        "time": "17:00",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul\" target=\"_blank\">★★★☆☆ 🏛️🎨 MMCA Seoul</a></strong> — National Museum of Modern & Contemporary Art, Sogyeok-dong; <strong>open Wed to 21:00</strong>, an easy late add.",
+        "price": "Free"
+      },
+      {
+        "time": "17:20",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Kukje+Gallery+Seoul\" target=\"_blank\">★★★★☆ 🏛️🎨 Kukje Gallery</a></strong> — Seoul's leading contemporary gallery; sculpture garden. ⚠️ <strong>The natural drop if the palaces ran long</strong> — prioritize Museum Hanmi + MMCA.",
+        "price": "Free"
+      },
+      {
+        "time": "17:40",
+        "activity": "Coffee at <strong><a href=\"https://www.google.com/maps/search/Cafe+Onion+Anguk+Seoul\" target=\"_blank\">★★★☆☆ ☕ Cafe Onion Anguk</a></strong> — 100-year-old hanok, salt bread.",
+        "price": ""
+      },
+      {
+        "time": "18:00",
         "activity": "<strong><a href=\"https://www.google.com/maps/search/Insadong-gil+Seoul\" target=\"_blank\">★★★★☆ 🚶🛍️ Insadong</a></strong> — Ssamziegil spiral complex, name stamp carving (get kids their own Korean seal), craft shops.",
         "price": "Stamp ~10,000-20,000 KRW"
       },
@@ -1959,8 +1974,23 @@ const DAYS = [
       },
       {
         "time": "15:15",
-        "activity": "<strong>Anping area</strong> — do the forts FIRST (all close ~17:10–17:30), snacks after: <a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia</a> (Dutch 1624, NT$70, <strong>closes 17:10</strong>) → <a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">★★★★☆ 📸🌳 Anping Treehouse</a> (warehouse consumed by banyan roots — walk through the intertwined trees, NT$70, <strong>closes 5:30pm!</strong>) → <strong><a href=\"https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan\" target=\"_blank\">★★★★☆ 🏯📸 Eternal Golden Castle</a></strong> (star-shaped 1874 Qing fort with cannons, moat & drawbridge — a *different* fort, ~5-min walk from the Treehouse; ~NT$50, closes ~17:30) → <a href=\"https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan\" target=\"_blank\">★★☆☆☆ 🍜 Zhou's Shrimp Rolls</a> → <a href=\"https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan\" target=\"_blank\">★★☆☆☆ ☕ Tongji Tofu Pudding</a> — these snack shops line historic <strong><a href=\"https://www.google.com/maps/search/Anping+Old+Street+Tainan\" target=\"_blank\">★★★☆☆ 🚶🍜 Anping Old Street</a></strong> (shrimp crackers, dried-seafood souvenirs). Kids/students half price.",
-        "price": "~NT$190"
+        "activity": "<strong>Anping area</strong> — do the forts FIRST (all close ~17:10–17:30), snacks after. <strong><a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia</a></strong> — Dutch 1624; <strong>closes 17:10</strong> (tightest — go first).",
+        "price": "NT$70 / kids-students half"
+      },
+      {
+        "time": "15:50",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">★★★★☆ 📸🌳 Anping Treehouse</a></strong> — warehouse consumed by banyan roots; walk through the intertwined trees. <strong>Closes 5:30pm!</strong>",
+        "price": "NT$70 / half"
+      },
+      {
+        "time": "16:30",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan\" target=\"_blank\">★★★★☆ 🏯📸 Eternal Golden Castle</a></strong> — star-shaped 1874 Qing fort with cannons, moat & drawbridge; a *different* fort, ~5-min walk from the Treehouse. Closes ~17:30.",
+        "price": "~NT$50 / half"
+      },
+      {
+        "time": "17:00",
+        "activity": "Stroll historic <strong><a href=\"https://www.google.com/maps/search/Anping+Old+Street+Tainan\" target=\"_blank\">★★★☆☆ 🚶🍜 Anping Old Street</a></strong> (shrimp crackers, dried-seafood souvenirs) — snack along it at <a href=\"https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan\" target=\"_blank\">★★☆☆☆ 🍜 Zhou's Shrimp Rolls</a> and <a href=\"https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan\" target=\"_blank\">★★☆☆☆ ☕ Tongji Tofu Pudding</a>.",
+        "price": ""
       },
       {
         "time": "18:00",
