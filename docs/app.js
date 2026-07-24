@@ -410,7 +410,7 @@ function renderPacking() {
       <h3>Seoul</h3>
       <table class="closed-table">
         <tr><th>Day</th><th>What\u2019s Closed</th></tr>
-        <tr><td>Monday</td><td>Changdeokgung, Changgyeonggung, War Memorial, Leeum, SeMoCA, MMCA</td></tr>
+        <tr><td>Monday</td><td>Changdeokgung, Changgyeonggung, War Memorial, Leeum, SeMoCA</td></tr>
         <tr><td>Tuesday</td><td>Gyeongbokgung, National Folk Museum, Jongmyo Shrine</td></tr>
         <tr><td>Hanbok tip</td><td>Wearing hanbok = free entry to all palaces</td></tr>
       </table>
@@ -424,8 +424,7 @@ function renderPacking() {
       <h3>Taiwan</h3>
       <table class="closed-table">
         <tr><th>Day</th><th>What\u2019s Closed</th></tr>
-        <tr><td>Monday</td><td>Maokong Gondola, Beitou Hot Spring Museum, Tainan Art Museum</td></tr>
-        <tr><td>Sun + Mon</td><td>National Palace Museum</td></tr>
+        <tr><td>Monday</td><td>National Palace Museum, Maokong Gondola, Beitou Hot Spring Museum, Tainan Art Museum</td></tr>
         <tr><td>Tuesday</td><td>Fo Guang Shan Buddha Museum</td></tr>
       </table>
     </div>

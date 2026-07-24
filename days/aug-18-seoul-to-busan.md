@@ -8,7 +8,7 @@ Gyeongbokgung closed Tuesdays — no conflict.
 [View route on Naver Map](https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/-/walk)
 
 **Busan evening:**
-[View route on Naver Map](https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1615,35.1587,Haeundae+Pojangmacha/-/walk)
+[View route on Naver Map](https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1626,35.1631,Haeundae+Traditional+Market/-/walk)
 
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Seoul+Forest+Seoul&destination=Haeundae+Beach+Busan&waypoints=Common+Ground+Seoul|Olive+Young+Seongsu+Seoul|Starfield+Library+COEX+Seoul&travelmode=transit)
 
@@ -16,15 +16,15 @@ Gyeongbokgung closed Tuesdays — no conflict.
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:00 | **[★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul)** in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Free. Then: **[★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul)** shipping container mall. | Free |
+| 9:00 | **[★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul)** in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Park is free & open 24h (butterfly garden opens 10:00, May–Oct, closed Mon). Then: **[★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul)** shipping container mall (Konkuk Univ area). ⚠️ Common Ground **opens 11:00 daily** — too early for this 9–10am window; skip or reorder. | Free |
 | 10:30 | **Seongsu warehouse cafes** — Dozens of industrial-chic cafes in converted factories. Or: [★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul) 5-floor K-beauty flagship. |  |
 | 11:30 | Quick stop: **[★★★☆☆ 📸 Starfield Library (COEX)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul)** — Stunning towering bookshelves. Free. |  |
 | 12:30 | Lunch near COEX or grab food for the train. |  |
-| 13:30 | Head to Seoul Station. |  |
-| **14:00** | **KTX Seoul → Busan** (~2h15). | ~59,800 KRW |
-| 16:15 | Arrive Busan. Check in hotel (**Haeundae area** recommended). |  |
-| 17:30 | **[★★★★☆ 🌳🧒 Haeundae Beach](https://www.google.com/maps/search/Haeundae+Beach+Busan)** — Swim! Water is 24-26°C in August. Official swimming zone with lifeguards until ~6pm. | Free |
-| 19:00 | Dinner: **★★★☆☆ Haeundae Pojangmacha-chon** — Orange-tented seafood stalls right on the beach at night. Grilled fish, shellfish, soju. Or: [★★★☆☆ 🍜 Haeundae Milmyeon](https://www.google.com/maps/search/Haeundae+Milmyeon+Busan) (cold wheat noodles — Busan signature dish). |  |
+| 13:00 | Head to Seoul Station. ⚠️ COEX/Samseong → Seoul Station is ~40–50 min by subway (Line 2 + transfer) — leave by ~13:00, not 13:30, to comfortably catch a 14:00 train with 6 people + luggage. Note: you've checked out of the DDP hotel, so you're carrying/storing luggage all morning (Seongsu has few lockers — consider storing bags at Seoul Station on the way, or a luggage-transfer service). |  |
+| **14:00** | **KTX Seoul → Busan** (~2h15 on fastest trains; some services 2h30–2h50). ⚠️ Aug is peak season — **reserve seats in advance** (Korail / Let's Korail app). Standard adult fare ~59,800 KRW; ages 4–12 ~half; under 4 free. | ~59,800 KRW |
+| ~16:20 | Arrive Busan (Busan Station). Check in hotel (**Haeundae area** recommended; ~30 min by metro/taxi from station). |  |
+| 17:30 | **[★★★★☆ 🌳🧒 Haeundae Beach](https://www.google.com/maps/search/Haeundae+Beach+Busan)** — Swim! Water ~24-28°C in August. Official 2026 swimming season Jun 26–Sep 15; ⚠️ designated swimming zone / lifeguards operate **9:00–18:00**, so only ~30 min of supervised swimming on arrival — go straight to the water. | Free |
+| 19:00 | Dinner: ⚠️ **Haeundae Pojangmacha-chon** (orange-tented beach seafood stalls) was **permanently closed/demolished in Jan 2024** — no longer exists. Instead: [★★★☆☆ 🍜 Haeundae Milmyeon](https://www.google.com/maps/search/Haeundae+Milmyeon+Busan) (cold wheat noodles — Busan signature dish), or seafood/eomuk at [★★★☆☆ 🛍️🍜 Haeundae Traditional Market](https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan). |  |
 
 ---
 
@@ -39,7 +39,7 @@ Gyeongbokgung closed Tuesdays — no conflict.
 
 ### Seongsu/Garosugil Cafes
 - [★★☆☆☆ ☕ C27 Garosugil](https://www.google.com/maps/search/C27+Garosugil+Seoul) — 27 different kinds of cheesecake
-- [★★☆☆☆ ☕ Mr. Holmes Bakehouse](https://www.google.com/maps/search/Mr+Holmes+Bakehouse+Garosugil+Seoul) — Famous cruffins (croissant-muffin hybrid)
+- ⚠️ ~~Mr. Holmes Bakehouse~~ — **permanently closed** (Garosugil location shut; the SF/US chain also closed). Skip.
 - [★★☆☆☆ ☕ Maman Gateau](https://www.google.com/maps/search/Maman+Gateau+Garosugil+Seoul) — Handmade caramel desserts since 2011
 
 ### Seongsu/Garosugil Gelato

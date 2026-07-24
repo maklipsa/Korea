@@ -13,12 +13,12 @@ Gyeongbokgung closed Tuesdays — no conflict. **Landing 9:25 at ICN (confirmed)
 | 9:25 | Land at Incheon (ICN). Buy **T-money card** at convenience store, load ~50,000 KRW. | |
 | 10:30 | **Airport Express (AREX)** to Seoul (~43 min direct to Seoul Station / ~55 min all-stop to Hongdae). | 4,150 KRW (all-stop) or 9,500 KRW (direct) |
 | 11:30 | Check in hotel, drop bags, freshen up. | |
-| 12:30 | Lunch: **[★★★☆☆ 🍜 Tosokchon Samgyetang](https://www.google.com/maps/search/Tosokchon+Samgyetang+Seoul)** — Famous ginseng chicken soup (whole young chicken stuffed with rice, ginseng, jujubes). Restorative after a long flight. Always a queue but moves fast. Near Gyeongbokgung. | ~16,000 KRW |
+| 12:30 | Lunch: **[★★★☆☆ 🍜 Tosokchon Samgyetang](https://www.google.com/maps/search/Tosokchon+Samgyetang+Seoul)** — Famous ginseng chicken soup (whole young chicken stuffed with rice, ginseng, jujubes). Restorative after a long flight. Always a queue but moves fast. Near Gyeongbokgung. Open daily 10:00–22:00 (no Tue closure); one order per person. | ~20,000 KRW/person |
 | 14:00 | **[★★★☆☆ 🌳🚶 Cheonggyecheon Stream](https://www.google.com/maps/search/Cheonggyecheon+Stream+Seoul)** — 10.9km restored urban stream running through central Seoul. Shaded, a few degrees cooler than street level. Start at Cheonggye Plaza waterfall and walk east. | Free |
 | 15:00 | **[★★★☆☆ 📸🧒 Dongdaemun Design Plaza (DDP)](https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul)** — Zaha Hadid's silver spaceship building. LED Rose Garden (25,550 LED roses — one for each day in 70 years of liberation; lights up at sunset). Free to explore the flowing outdoor terraces. Kids love the futuristic architecture. | Free (outdoor) |
 | 16:00 | Browse **Dongdaemun** area — Doota Mall, Hyundai City Outlet, or the surrounding street markets. | |
 | 17:00 | Walk to **[★★★★☆ 🚶 Ikseon-dong](https://www.google.com/maps/search/Ikseon-dong+Seoul)** (10 min from DDP) — Seoul's oldest hanok village turned hip cafe/restaurant district. Wander narrow alleys, browse boutique shops. | |
-| 17:30 | Cafe: **[★★☆☆☆ ☕ Cheong Su Dang](https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul)** (stepping stones over water inside the cafe) or **[★★☆☆☆ ☕ Seoul Coffee](https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong)** (squid-ink butter bread). | |
+| 17:30 | Cafe: **[★★☆☆☆ ☕ Cheong Su Dang](https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul)** (stepping stones over water inside the cafe) or **[★★☆☆☆ ☕ Seoul Coffee](https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong)** (squid-ink butter bread). Both open daily; Cheong Su Dang can have long waits (souffle castella baked to order). | |
 | 19:00 | Dinner in Ikseon-dong hanok restaurants — Fusion dishes in renovated hanoks. Try the swirl omelet rice or tteokbokki carbonara. | |
 
 ---

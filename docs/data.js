@@ -36,8 +36,8 @@ const DAYS = [
       },
       {
         "time": "12:30",
-        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Tosokchon+Samgyetang+Seoul\" target=\"_blank\">★★★☆☆ 🍜 Tosokchon Samgyetang</a></strong> — Famous ginseng chicken soup (whole young chicken stuffed with rice, ginseng, jujubes). Restorative after a long flight. Always a queue but moves fast. Near Gyeongbokgung.",
-        "price": "~16,000 KRW"
+        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Tosokchon+Samgyetang+Seoul\" target=\"_blank\">★★★☆☆ 🍜 Tosokchon Samgyetang</a></strong> — Famous ginseng chicken soup (whole young chicken stuffed with rice, ginseng, jujubes). Restorative after a long flight. Always a queue but moves fast. Near Gyeongbokgung. Open daily 10:00–22:00 (no Tue closure); one order per person.",
+        "price": "~20,000 KRW/person"
       },
       {
         "time": "14:00",
@@ -61,7 +61,7 @@ const DAYS = [
       },
       {
         "time": "17:30",
-        "activity": "Cafe: <strong><a href=\"https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Cheong Su Dang</a></strong> (stepping stones over water inside the cafe) or <strong><a href=\"https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong\" target=\"_blank\">★★☆☆☆ ☕ Seoul Coffee</a></strong> (squid-ink butter bread).",
+        "activity": "Cafe: <strong><a href=\"https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Cheong Su Dang</a></strong> (stepping stones over water inside the cafe) or <strong><a href=\"https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong\" target=\"_blank\">★★☆☆☆ ☕ Seoul Coffee</a></strong> (squid-ink butter bread). Both open daily; Cheong Su Dang can have long waits (souffle castella baked to order).",
         "price": ""
       },
       {
@@ -171,8 +171,8 @@ const DAYS = [
       },
       {
         "time": "13:30",
-        "activity": "Walk east to <strong><a href=\"https://www.google.com/maps/search/Changdeokgung+Palace+Seoul\" target=\"_blank\">★★★★★ 🏯🌳 Changdeokgung Palace + Secret Garden</a></strong> — UNESCO World Heritage. Book a guided Secret Garden tour.",
-        "price": "3,000 KRW (palace) + 5,000 KRW (garden)"
+        "activity": "Walk ~30 min east (past Gyeongbokgung/Bukchon) to <strong><a href=\"https://www.google.com/maps/search/Changdeokgung+Palace+Seoul\" target=\"_blank\">★★★★★ 🏯🌳 Changdeokgung Palace + Secret Garden</a></strong> — UNESCO WH; open Wed (closed Mon). Secret Garden = separate 90-min <strong>timed guided tour</strong>; <strong>English tours 10:30/11:30/14:30/15:30 — aim for 14:30</strong>, book online ~6 days ahead (opens 10:00 KST, half of slots) as Aug fills.",
+        "price": "Palace 3,000 + garden 5,000 (adult); youth 7-18: 1,500 + 2,500"
       },
       {
         "time": "15:30",
@@ -207,12 +207,12 @@ const DAYS = [
           {
             "name": "★★★★☆ 🏯 Jongmyo Shrine",
             "url": "https://www.google.com/maps/search/Jongmyo+Shrine+Seoul",
-            "desc": "UNESCO Confucian royal shrine (open Wed!)"
+            "desc": "UNESCO Confucian royal shrine; open Wed but <strong>timed guided tour only</strong> (English 10:00/12:00/14:00/16:00); closed Tue. Free self-guided entry only on Sat & the last Wed of the month"
           },
           {
-            "name": "★★★☆☆ 🏯 Cheongwadae (former Blue House)",
+            "name": "★☆☆☆☆ 🏯 Cheongwadae (former Blue House)",
             "url": "https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul",
-            "desc": "Recently opened presidential grounds; free"
+            "desc": "⚠️ CLOSED to the public since Aug 2025 (president moved back in); public tours suspended for 2026 — skip"
           },
           {
             "name": "★★★☆☆ 🏯 Changgyeonggung Palace",
@@ -361,12 +361,12 @@ const DAYS = [
     "schedule": [
       {
         "time": "7:30",
-        "activity": "<strong>DMZ Tour pickup</strong> from Seoul hotel. Half-day tour (returns ~14:00).",
+        "activity": "<strong>DMZ Tour pickup</strong> (confirm exact point — many operators use a downtown meeting spot, not the hotel door). Half-day tour returns ~14:00 to a <strong>central drop-off</strong> (Hongik Univ / City Hall / Myeongdong), not to Yongsan — allow 20-40 min transit to War Memorial, so the 14:30 start below may slip.",
         "price": "~65,000-80,000 KRW"
       },
       {
         "time": "",
-        "activity": "★★★★☆ Imjingak Peace Park, ★★★★★ 3rd Infiltration Tunnel (73m underground, helmets provided), ★★★★☆ Dora Observatory (binoculars into North Korea), ★★★☆☆ Dorasan Station (last stop before Pyongyang). <strong>Passports required.</strong> Fine for age 9+. <strong>JSA/Panmunjom is currently closed to general tourists</strong> (UNC suspended since 2023) — standard DMZ tour is what's bookable.",
+        "activity": "★★★★☆ Imjingak Peace Park, ★★★★★ 3rd Infiltration Tunnel (73m underground, helmets provided), ★★★★☆ Dora Observatory (binoculars into North Korea), ★★★☆☆ Dorasan Station (last stop before Pyongyang). <strong>Physical passports required for all 6</strong> — provide numbers at booking (~2-3 weeks ahead). Fine for age 9+. Standard DMZ tours run <strong>Tue-Sun (DMZ sites closed Mon</strong>; Aug 13 is Thu, so OK). <strong>JSA/Panmunjom stays closed to general tourists</strong> (UNC civilian tours suspended since 2023; JSA visitor center partially reopened 2025, but the blue conference buildings remain off-limits) — the standard DMZ tour above is what's bookable.",
         "price": ""
       },
       {
@@ -376,7 +376,7 @@ const DAYS = [
       },
       {
         "time": "16:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Museum+Korea+Seoul\" target=\"_blank\">★★★★☆ 🏛️🧒 National Museum of Korea</a></strong> — Massive collection. Children's Museum is excellent for 9-year-olds. Beautiful grounds. Thu closes 17:30 (last entry 17:00) — tight 90 min, focus on Children's Museum + Ten-Storey Pagoda.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Museum+Korea+Seoul\" target=\"_blank\">★★★★☆ 🏛️🧒 National Museum of Korea</a></strong> — Massive collection. Children's Museum is excellent for 9-year-olds. Beautiful grounds. <strong>Summer hours (Jul 27-Aug 17, 2026): Thu 09:00-18:00, last entry 17:30</strong> — ~2 hrs; focus on Children's Museum + Ten-Storey Pagoda. (Kids' Children's Museum may need a free timed reservation — check ahead.)",
         "price": "Free"
       },
       {
@@ -386,7 +386,7 @@ const DAYS = [
       },
       {
         "time": "18:00",
-        "activity": "Cafe: <a href=\"https://www.google.com/maps/search/Dotori+cafe+Haebangchon+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Dotori</a> (Studio Ghibli vibes) or <a href=\"https://www.google.com/maps/search/Anthracite+Hannam+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Anthracite</a> (industrial-chic roastery).",
+        "activity": "Cafe: <a href=\"https://www.google.com/maps/search/Dotori+cafe+Yongsan+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Dotori</a> (Studio Ghibli vibes, Yongridan-gil) or <a href=\"https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul\" target=\"_blank\">★★★☆☆ 🍵 OSULLOC Tea House Hannam</a> (green tea, black lava rock walls). ⚠️ Anthracite Hannam is <strong>permanently closed</strong> (Dec 2025).",
         "price": ""
       },
       {
@@ -452,7 +452,7 @@ const DAYS = [
           {
             "name": "★★★☆☆ 🏛️ MMCA",
             "url": "https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul",
-            "desc": "National Museum of Modern Art (closed Mon)"
+            "desc": "National Museum of Modern Art (open daily incl. Mon; Wed & Sat until 21:00)"
           }
         ]
       },
@@ -521,17 +521,17 @@ const DAYS = [
       },
       {
         "time": "12:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/943+Kings+Cross+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🧒 943 Kings Cross (Harry Potter Cafe)</a></strong> — 7 floors of Hogwarts! Butterbeer and themed drinks.",
-        "price": "~10,000-15,000 KRW/person"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/943+Kings+Cross+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🧒 943 Kings Cross (Harry Potter Cafe)</a></strong> — Multi-floor Hogwarts (B1–4F explorable); admission includes 1 drink. Fri hours 10:00–21:30.",
+        "price": "20,000 KRW adult / 15,000 KRW child (drink incl.)"
       },
       {
         "time": "13:30",
-        "activity": "<strong>Animal cafe</strong> — Pick one: <a href=\"https://www.google.com/maps/search/Table+A+Animal+Cafe+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🐾 Table A</a> (raccoons + meerkats, 3 floors, 10,000 KRW), <a href=\"https://www.google.com/maps/search/Blind+Alley+Raccoon+Cafe+Seoul\" target=\"_blank\">★★☆☆☆ ☕🐾 Blind Alley</a> (raccoons, free with drink order), or <a href=\"https://www.google.com/maps/search/Thanks+Nature+Sheep+Cafe+Seoul\" target=\"_blank\">★★☆☆☆ ☕🐾 Thanks Nature</a> (sheep on patio).",
-        "price": "10,000 KRW"
+        "activity": "<strong>Animal cafe</strong> — Pick one: <a href=\"https://www.google.com/maps/search/Table+A+Animal+Cafe+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🐾 Table A</a> (raccoons + meerkats, 4 floors, ~12,000 KRW, Fri 12:00–22:00), <a href=\"https://www.google.com/maps/search/Meerkat+Friends+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🐾 Meerkat Friends</a> (meerkats, foxes, wallabies; opens ~13:30), or <a href=\"https://www.google.com/maps/search/Thanks+Nature+Sheep+Cafe+Seoul\" target=\"_blank\">★★☆☆☆ ☕🐾 Thanks Nature</a> (sheep on patio, in Seogyo Prugio mall). ⚠️ Blind Alley raccoon cafe PERMANENTLY CLOSED (raccoons rehomed to a zoo) — dropped.",
+        "price": "~12,000 KRW"
       },
       {
         "time": "15:00",
-        "activity": "<strong>Ice cream crawl</strong> — Pick 2-3: <a href=\"https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Fell + Cole</a> (makgeolli, miso vanilla, perilla leaf), <a href=\"https://www.google.com/maps/search/Mollys+Pops+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Molly's Pops</a> (wasabi popsicle!), <a href=\"https://www.google.com/maps/search/SOBOK+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ SOBOK</a> (rice-based injeolmi soft serve).",
+        "activity": "<strong>Ice cream crawl</strong> — Pick 2-3: <a href=\"https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Fell + Cole</a> (makgeolli, miso vanilla, perilla leaf), <a href=\"https://www.google.com/maps/search/SOBOK+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ SOBOK</a> (rice-based injeolmi soft serve, 13:00–23:00), plus a \"More Gelato\" pick below. ⚠️ Molly's Pops (wasabi popsicle) appears permanently closed — dropped.",
         "price": "~5,000-8,000 KRW each"
       },
       {
@@ -541,7 +541,7 @@ const DAYS = [
       },
       {
         "time": "17:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/KEYESCAPE+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ 🎡🧒 KEYESCAPE</a></strong> escape room — Award-winning, English-friendly. Book ahead!",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/KEYESCAPE+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ 🎡🧒 KEYESCAPE</a></strong> escape room — Award-winning; English rooms available and foreigner-friendly. <strong>Book online in advance</strong> (keyescape.co.kr or via NOL/Trazy) — walk-ins often full. Open 10:30–24:00; near Sangsu Stn (Line 6, ~4 min walk), not Hongik Univ. Stn.",
         "price": "~20,000-30,000 KRW/person"
       },
       {
@@ -551,7 +551,7 @@ const DAYS = [
       },
       {
         "time": "20:00",
-        "activity": "<strong>Hongdae street busking</strong> — Free performances on weekend evenings (Fri = yes!).",
+        "activity": "<strong>Hongdae street busking</strong> — Free performances along Eoulmadang-ro; Fri evening is a peak window (~19:00–23:00, mostly K-pop dance covers). Verified 2026.",
         "price": ""
       }
     ],
@@ -671,8 +671,8 @@ const DAYS = [
       },
       {
         "time": "8:45",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Nami+Island+Gapyeong\" target=\"_blank\">★★★★★ 🌳🧒🚡 Nami Island</a></strong> — Enter by <strong>ZIP-LINE across the river</strong> (thrilling for kids 9+!). Metasequoia Alley photos, bike rental, Sky Bikes (elevated pedal cars), craft workshops (glass blowing ~30,000 KRW, ceramic painting ~20,000 KRW). Free-roaming ostriches, peacocks, rabbits. Allow ~3.5h with the zipline + a workshop.",
-        "price": "Entry ~16,000 KRW + zip ~44,000 KRW"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Nami+Island+Gapyeong\" target=\"_blank\">★★★★★ 🌳🧒🚡 Nami Island</a></strong> — Zipwire opens 09:00. <strong>Zipwire requires height 140cm+ / weight 35–120kg</strong> → the 9yo (and possibly the 11yo) is likely too short; shorter members + anyone skipping it take the <strong>ferry</strong> across and meet on the island. Zipwire fee <strong>already includes island entry + return ferry</strong> — don't buy entry separately for zippers. Metasequoia Alley photos, bike rental, Sky Bikes (elevated pedal cars), craft workshops (glass blowing ~30,000 KRW, ceramic painting ~20,000 KRW). Free-roaming ostriches, peacocks, rabbits. Allow ~3.5h.",
+        "price": "Zip ~55,000 (Family)/58,000 (Adventure), incl. entry+ferry; ferry+entry ~16,000 adult online / ~13,000 youth / ~10–13,000 child"
       },
       {
         "time": "12:30",
@@ -681,13 +681,13 @@ const DAYS = [
       },
       {
         "time": "13:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gangchon+Rail+Bike+Gapyeong\" target=\"_blank\">★★★★☆ 🚡🧒 Gangchon Rail Bike</a></strong> — 8km pedal-powered rail cars through scenic river valleys and tunnels. ~30 min taxi from Nami. <strong>Book a 14:00 slot</strong> in advance. ~1h ride + shuttle back.",
-        "price": "~35,000 KRW/2-person car"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gangchon+Rail+Bike+Gapyeong\" target=\"_blank\">★★★★☆ 🚡🧒 Gangchon Rail Bike</a></strong> — 8km pedal-powered rail cars through scenic river valleys and tunnels. Starts at <strong>Gimyujeong Station</strong> (~25 min drive/taxi from Nami, or Korail 1 stop east of Gapyeong). Sessions run 10:00 / 11:30 / <strong>13:30</strong> / 15:00 / 16:30 / 18:00 (no 14:00) — <strong>reserve the 13:30 slot</strong> ahead; holiday weekend sells out. ~1h ride + romantic-train shuttle back.",
+        "price": "4-seater only, ~35,000 KRW/car (2 cars for 6)"
       },
       {
         "time": "15:30",
-        "activity": "Bus to <strong><a href=\"https://www.google.com/maps/search/Garden+of+Morning+Calm+Gapyeong\" target=\"_blank\">★★★☆☆ 🌳 Garden of Morning Calm</a></strong> (~40 min from Gapyeong; combo shuttle bus runs from Cheongpyeong). Botanical garden, peaceful end to active day. <strong>Heads-up:</strong> the lighting festival that makes it world-famous runs Dec–Mar; in summer it's \"just\" a pretty garden, not the postcard version.",
-        "price": "~11,000 KRW"
+        "activity": "Bus to <strong><a href=\"https://www.google.com/maps/search/Garden+of+Morning+Calm+Gapyeong\" target=\"_blank\">★★★☆☆ 🌳 Garden of Morning Calm</a></strong> (open 08:30–19:00, last entry 18:00; ~40 min via Gapyeong City Tour Bus / Cheongpyeong shuttle — note it lies <strong>west</strong>, so it's a backtrack from Gimyujeong). Botanical garden, peaceful end to active day. <strong>Heads-up:</strong> the lighting festival that makes it world-famous runs Dec–Mar; in summer it's \"just\" a pretty garden, not the postcard version.",
+        "price": "Adult 11,000 / youth 8,500 / child 7,500 KRW"
       },
       {
         "time": "17:30",
@@ -713,7 +713,7 @@ const DAYS = [
     "badges": [
       {
         "type": "pass",
-        "text": "Activate Seoul Pass 48h"
+        "text": "Activate Discover Seoul Pass 48h"
       }
     ],
     "maps": [
@@ -725,13 +725,13 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:30",
-        "activity": "Hike up <strong>Namsan Mountain</strong> to N Seoul Tower (or take <strong><a href=\"https://www.google.com/maps/search/Namsan+Cable+Car+Seoul\" target=\"_blank\">★★★☆☆ 🚡🗼 Namsan Cable Car</a></strong>, ~15,000 KRW round-trip).",
-        "price": "~15,000 KRW (not on the pass)"
+        "activity": "Hike up <strong>Namsan Mountain</strong> to N Seoul Tower (or take <strong><a href=\"https://www.google.com/maps/search/Namsan+Cable+Car+Seoul\" target=\"_blank\">★★★☆☆ 🚡🗼 Namsan Cable Car</a></strong> — runs ~10:00–23:00, so at 9:30 you'd have to hike; cable car is round-trip).",
+        "price": "~15,000 KRW adult / 11,500 KRW child (not on the pass)"
       },
       {
         "time": "10:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Namsan+Tower+Seoul\" target=\"_blank\">★★★★★ 🗼🧒 N Seoul Tower</a></strong> — Digital observatory, love lock terrace, gift shop. Views over all of Seoul.",
-        "price": "Pass or 16,000 KRW"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Namsan+Tower+Seoul\" target=\"_blank\">★★★★★ 🗼🧒 N Seoul Tower</a></strong> — Digital observatory (Sun/holiday 10:00–23:00, last entry 30 min before close), love lock terrace, gift shop. Views over all of Seoul. Observatory is covered free by the Discover Seoul Pass.",
+        "price": "Pass, else 21,000 KRW adult / 16,000 KRW child (≤12); 15yo priced as adult"
       },
       {
         "time": "12:00",
@@ -750,7 +750,7 @@ const DAYS = [
       },
       {
         "time": "15:30",
-        "activity": "Walk to <strong><a href=\"https://www.google.com/maps/search/Namdaemun+Market+Seoul\" target=\"_blank\">★★★☆☆ 🛍️ Namdaemun Market</a></strong> — Korea's largest traditional market (since 1400s). Souvenirs, fabrics, Namdaemun Specialty Hotteok (honey, japchae, kimchi varieties).",
+        "activity": "Walk to <strong><a href=\"https://www.google.com/maps/search/Namdaemun+Market+Seoul\" target=\"_blank\">★★★☆☆ 🛍️ Namdaemun Market</a></strong> — Korea's largest traditional market (since 1400s). Souvenirs, fabrics, Namdaemun Specialty Hotteok (honey, japchae, kimchi varieties). ⚠️ <strong>Sunday:</strong> most indoor/clothing shops and wholesale merchants are CLOSED; the food-stall alleys still run but with fewer vendors — treat this as a snack/street-food stop, not a shopping stop.",
         "price": ""
       },
       {
@@ -765,7 +765,7 @@ const DAYS = [
       },
       {
         "time": "20:00",
-        "activity": "Desserts: <a href=\"https://www.google.com/maps/search/SOFTREE+Myeongdong+Seoul\" target=\"_blank\">★★☆☆☆ ☕ SOFTREE</a> (honeycomb ice cream), tanghulu (candied fruit), Dragon's Beard Candy.",
+        "activity": "Desserts: <a href=\"https://www.google.com/maps/search/SOFTREE+Myeongdong+Seoul\" target=\"_blank\">★★☆☆☆ ☕ SOFTREE</a> (honeycomb ice cream — ❓ a Myeongdong branch is UNVERIFIED and may be closed; confirmed branches are Hongdae/Garosugil/Lotte World Mall), tanghulu (candied fruit) and Dragon's Beard Candy (both sold from many Myeongdong street stalls).",
         "price": ""
       }
     ],
@@ -811,7 +811,7 @@ const DAYS = [
           {
             "name": "★★☆☆☆ 🍜 Hadongkwan",
             "url": "https://www.google.com/maps/search/Hadongkwan+Seoul",
-            "desc": "Since 1930s; gomtang (beef bone soup) and suyuk"
+            "desc": "Since 1930s; gomtang (beef bone soup) and suyuk. ⚠️ Closed Sundays (hours 07:00–16:00, often sells out early) — not available today"
           },
           {
             "name": "★★☆☆☆ 🚶🍺 Euljiro Nogari Alley",
@@ -836,7 +836,7 @@ const DAYS = [
           {
             "name": "★★☆☆☆ 🏛️🧒📸 Alive Museum Myeongdong",
             "url": "https://www.google.com/maps/search/Alive+Museum+Myeongdong+Seoul",
-            "desc": "Trick-eye museum"
+            "desc": "Trick-eye museum. ❓ Myeongdong branch UNVERIFIED (reports say it closed); the confirmed operating location is Alive Museum Insadong"
           }
         ]
       }
@@ -849,7 +849,7 @@ const DAYS = [
     "title": "Lotte World Day (Museums closed = perfect)",
     "country": "korea",
     "summary": "Lotte World + Seoul Sky + Songnidan-gil",
-    "notes": "Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays. <strong>Discover Seoul Pass still active</strong> (covers Lotte World!).",
+    "notes": "Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays. <strong>Discover Seoul Pass still active</strong> — covers <strong>Lotte World Adventure</strong> (verified on discoverseoulpass.com). It does <strong>NOT</strong> cover Seoul Sky, so that observatory is a separate paid ticket. <strong>Ticket age tiers (kids 9/11/15) — verified 2025:</strong> - *Lotte World:* child 36mo–12 (9 & 11yo) 50,000 · teen 13–18 (15yo) 58,000 · adult 19+ 67,000 KRW. - *Seoul Sky:* child 3–12 (9 & 11yo) 27,000 · <strong>adult is 13+, so the 15yo pays the adult 31,000 KRW</strong> (different cut-off than Lotte World). <strong>Feasibility:</strong> Lotte World is a full-day park on its own (open Mondays, no weekly closed day; summer hours ~10:00–22:00 — confirm on the day). Leaving by 15:00 for Seoul Sky is tight in August crowds — consider a <strong>Magic Pass</strong> (skip-the-line add-on) and be ready to trim Seoul Sky or the lake loop if the park runs long. The aquarium is deliberately left out (adding it would over-pack the day). Seoul Sky (Sun–Thu 10:30–22:00, last adm. 21:00) stays open late, so it's a safe end-of-day fallback.",
     "badges": [
       {
         "type": "pass",
@@ -870,7 +870,7 @@ const DAYS = [
       {
         "time": "10:00",
         "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotte+World+Adventure+Seoul\" target=\"_blank\">★★★★★ 🎡🧒 Lotte World Adventure</a></strong> — Start with the indoor section (world's largest indoor park — great for August heat!). Then outdoor rides.",
-        "price": "Pass or ~55,000 KRW"
+        "price": "DSP covers it, else gate: child 50k / teen(13-18) 58k / adult 67k KRW"
       },
       {
         "time": "13:00",
@@ -880,7 +880,7 @@ const DAYS = [
       {
         "time": "15:00",
         "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotte+World+Tower+Seoul\" target=\"_blank\">★★★★☆ 🗼🧒 Seoul Sky</a></strong> — Glass-floor observation deck at 500m on Lotte World Tower (floors 117-123). Highest in Korea.",
-        "price": "~29,000 KRW"
+        "price": "child(3-12) 27k / adult(13+) 31k KRW"
       },
       {
         "time": "17:00",
@@ -964,7 +964,7 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Seoul+Forest+Seoul\" target=\"_blank\">★★★☆☆ 🌳🧒 Seoul Forest Park</a></strong> in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Free. Then: <strong><a href=\"https://www.google.com/maps/search/Common+Ground+Seoul\" target=\"_blank\">★★☆☆☆ 🛍️ Common Ground</a></strong> shipping container mall.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Seoul+Forest+Seoul\" target=\"_blank\">★★★☆☆ 🌳🧒 Seoul Forest Park</a></strong> in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Park is free & open 24h (butterfly garden opens 10:00, May–Oct, closed Mon). Then: <strong><a href=\"https://www.google.com/maps/search/Common+Ground+Seoul\" target=\"_blank\">★★☆☆☆ 🛍️ Common Ground</a></strong> shipping container mall (Konkuk Univ area). ⚠️ Common Ground <strong>opens 11:00 daily</strong> — too early for this 9–10am window; skip or reorder.",
         "price": "Free"
       },
       {
@@ -983,28 +983,28 @@ const DAYS = [
         "price": ""
       },
       {
-        "time": "13:30",
-        "activity": "Head to Seoul Station.",
+        "time": "13:00",
+        "activity": "Head to Seoul Station. ⚠️ COEX/Samseong → Seoul Station is ~40–50 min by subway (Line 2 + transfer) — leave by ~13:00, not 13:30, to comfortably catch a 14:00 train with 6 people + luggage. Note: you've checked out of the DDP hotel, so you're carrying/storing luggage all morning (Seongsu has few lockers — consider storing bags at Seoul Station on the way, or a luggage-transfer service).",
         "price": ""
       },
       {
         "time": "<strong>14:00</strong>",
-        "activity": "<strong>KTX Seoul → Busan</strong> (~2h15).",
+        "activity": "<strong>KTX Seoul → Busan</strong> (~2h15 on fastest trains; some services 2h30–2h50). ⚠️ Aug is peak season — <strong>reserve seats in advance</strong> (Korail / Let's Korail app). Standard adult fare ~59,800 KRW; ages 4–12 ~half; under 4 free.",
         "price": "~59,800 KRW"
       },
       {
-        "time": "16:15",
-        "activity": "Arrive Busan. Check in hotel (<strong>Haeundae area</strong> recommended).",
+        "time": "~16:20",
+        "activity": "Arrive Busan (Busan Station). Check in hotel (<strong>Haeundae area</strong> recommended; ~30 min by metro/taxi from station).",
         "price": ""
       },
       {
         "time": "17:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Haeundae+Beach+Busan\" target=\"_blank\">★★★★☆ 🌳🧒 Haeundae Beach</a></strong> — Swim! Water is 24-26°C in August. Official swimming zone with lifeguards until ~6pm.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Haeundae+Beach+Busan\" target=\"_blank\">★★★★☆ 🌳🧒 Haeundae Beach</a></strong> — Swim! Water ~24-28°C in August. Official 2026 swimming season Jun 26–Sep 15; ⚠️ designated swimming zone / lifeguards operate <strong>9:00–18:00</strong>, so only ~30 min of supervised swimming on arrival — go straight to the water.",
         "price": "Free"
       },
       {
         "time": "19:00",
-        "activity": "Dinner: <strong>★★★☆☆ Haeundae Pojangmacha-chon</strong> — Orange-tented seafood stalls right on the beach at night. Grilled fish, shellfish, soju. Or: <a href=\"https://www.google.com/maps/search/Haeundae+Milmyeon+Busan\" target=\"_blank\">★★★☆☆ 🍜 Haeundae Milmyeon</a> (cold wheat noodles — Busan signature dish).",
+        "activity": "Dinner: ⚠️ <strong>Haeundae Pojangmacha-chon</strong> (orange-tented beach seafood stalls) was <strong>permanently closed/demolished in Jan 2024</strong> — no longer exists. Instead: <a href=\"https://www.google.com/maps/search/Haeundae+Milmyeon+Busan\" target=\"_blank\">★★★☆☆ 🍜 Haeundae Milmyeon</a> (cold wheat noodles — Busan signature dish), or seafood/eomuk at <a href=\"https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan\" target=\"_blank\">★★★☆☆ 🛍️🍜 Haeundae Traditional Market</a>.",
         "price": ""
       }
     ],
@@ -1048,9 +1048,9 @@ const DAYS = [
             "desc": "27 different kinds of cheesecake"
           },
           {
-            "name": "★★☆☆☆ ☕ Mr. Holmes Bakehouse",
-            "url": "https://www.google.com/maps/search/Mr+Holmes+Bakehouse+Garosugil+Seoul",
-            "desc": "Famous cruffins (croissant-muffin hybrid)"
+            "name": "⚠️ ~~Mr. Holmes Bakehouse~~",
+            "url": "",
+            "desc": "<strong>permanently closed</strong> (Garosugil location shut; the SF/US chain also closed). Skip."
           },
           {
             "name": "★★☆☆☆ ☕ Maman Gateau",
@@ -1113,7 +1113,7 @@ const DAYS = [
     "title": "Busan Full Day",
     "country": "korea",
     "summary": "Busan full day (temple, Gamcheon, Jagalchi, markets)",
-    "notes": "<strong>Activate Visit Busan Pass 24h today.</strong> Wednesday: Jagalchi open (closed 1st/3rd Tue). Gukje open (closed 1st/3rd Sun). Oryukdo closed Mon only. All clear.",
+    "notes": "<strong>Activate Visit Busan Pass 24h today.</strong> Wednesday: Jagalchi open (closed 1st/3rd Tue → Aug 4 & 18; not the 19th). Gukje open (closed 1st/3rd Sun → Aug 2 & 16). Oryukdo closed 1st Mon of month only. All clear for Wed Aug 19. (Verified 2026-07.) <strong>Very full, spread-out day:</strong> temple (far NE, Gijang) → Haeundae/Mipo (E) → Gamcheon (far W) → Nampo cluster (central). The Haeundae→Gamcheon leg is ~1 hr+ by transit — leave Haeundae by ~9:45 to hit Gamcheon by 11:00. <strong>Aug 20 is a 09:00 PUS→Taipei flight (at Gimhae airport by ~06:15), so keep the night-market dinner from running past ~21:00.</strong> Activate the Busan Pass by ~09:00 (before the Beach Train) so its 24h window still covers the Busan Tower at 17:00.",
     "badges": [
       {
         "type": "pass",
@@ -1134,8 +1134,8 @@ const DAYS = [
       },
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan\" target=\"_blank\">★★★★☆ 🚡🧒 Haeundae Blueline Park — Sky Capsule</a></strong> — Colorful pods on elevated rail along the coast. Sky Capsule runs <strong>Mipo ↔ Cheongsapo only</strong> (Beach Train goes the full Mipo → Songjeong route). <strong>BOOK 28 DAYS AHEAD</strong> — tickets release every Tuesday 07:00 KST for the week 4 weeks out. Beach Train is on the Busan Pass; Sky Capsule is not.",
-        "price": "Pass (Beach Train) / Sky Capsule ~35,000–40,000/capsule (1–2 pax, one-way)"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan\" target=\"_blank\">★★★★☆ 🚡🧒 Haeundae Blueline Park — Sky Capsule</a></strong> — Colorful pods on elevated rail along the coast. Sky Capsule runs <strong>Mipo ↔ Cheongsapo only</strong> (Beach Train goes the full Mipo → Songjeong route). <strong>Sky Capsule is PRE-BOOKED.</strong> (For reference: online reservations open ~<strong>2 weeks</strong> ahead — every Tuesday for the week 2 weeks out, per bluelinepark.com; NOT 4 weeks. Aug hours 09:00–20:30.) Beach Train is on the Busan Pass; Sky Capsule is not.",
+        "price": "Pass (Beach Train) / Sky Capsule one-way per capsule: <strong>35,000 (1–2 pax) / 45,000 (3) / 50,000 (4)</strong>"
       },
       {
         "time": "11:00",
@@ -1169,8 +1169,8 @@ const DAYS = [
       },
       {
         "time": "17:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Busan+Tower+Yongdusan+Park\" target=\"_blank\">★★★☆☆ 🗼 Busan Tower (Yongdusan Park)</a></strong> — Sunset views over harbor from 120m. Ride outdoor escalators up.",
-        "price": "Pass or ~12,000 KRW"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Busan+Tower+Yongdusan+Park\" target=\"_blank\">★★★☆☆ 🗼 Busan Tower (Yongdusan Park)</a></strong> — Harbor/city views from 120m (aka Diamond Tower). Ride outdoor escalators up. Note: sunset is ~19:15 in mid-Aug, so 17:00 = late-afternoon light, not sunset. Confirmed free on the Visit Busan Pass.",
+        "price": "Pass (free) or 12,000 adult / 9,000 child"
       },
       {
         "time": "19:00",
@@ -1270,7 +1270,7 @@ const DAYS = [
           {
             "name": "★★★☆☆ 🗼📸 Oryukdo Skywalk",
             "url": "https://www.google.com/maps/search/Oryukdo+Skywalk+Busan",
-            "desc": "Glass bridge 35m over a cliff; free (closed Mon)"
+            "desc": "Glass bridge 35m over a cliff; free; 09:00–19:00 Jun–Sep (closed 1st Mon of month, and in rain/wind)"
           },
           {
             "name": "★★★☆☆ 🏯🌳 Beomeosa Temple",
@@ -1288,18 +1288,18 @@ const DAYS = [
     "title": "Fly Busan → Taipei + Taipei Afternoon",
     "country": "korea",
     "summary": "Fly Busan → Taipei (AM, dep 9:00) + Taipei afternoon",
-    "notes": "Early flight: <strong>PUS → TPE departs 9:00, arrives Taipei (Taoyuan) 10:30</strong> (local Taiwan time; Korea is +1h). No Busan morning today — be at <strong>Gimhae T2 (International) by ~7:00</strong> (~2h before an international flight), so leave the hotel ~6:15. You land with a bonus half-day in Taipei.",
+    "notes": "Early flight: <strong>PUS → TPE departs 9:00, arrives Taipei (Taoyuan) 10:30</strong> (local Taiwan time; Korea is +1h, so a ~2h30 hop). No Busan morning today — be at <strong>Gimhae T2 (International) by ~6:15</strong>, i.e. <strong>2.5–3h before an international flight</strong> (Aug is peak summer travel and Gimhae's 5–8am window is its busiest), so leave the hotel by ~5:30. You land with a bonus half-day in Taipei — but budget for immigration + baggage at Taoyuan, so realistically in the city ~13:00.",
     "badges": [],
     "maps": [],
     "schedule": [
       {
-        "time": "6:15",
-        "activity": "Leave Busan hotel. Grab a convenience-store breakfast.",
+        "time": "5:30",
+        "activity": "Leave Busan hotel. Grab a convenience-store breakfast (or eat airside).",
         "price": ""
       },
       {
-        "time": "7:00",
-        "activity": "Arrive <strong>Gimhae Airport T2 (International)</strong> (Busan Air Light Rail from Haeundae, or taxi ~40 min). Check in, drop bags, security.",
+        "time": "6:15",
+        "activity": "Arrive <strong>Gimhae T2 (International)</strong> — aim for <strong>2.5–3h before</strong> an intl flight (summer peak). Taxi ~40 min from Haeundae is safest this early; metro + Busan–Gimhae LRT is slower with first trains ~5:30. Check in, drop bags, security + immigration.",
         "price": ""
       },
       {
@@ -1309,12 +1309,12 @@ const DAYS = [
       },
       {
         "time": "10:30",
-        "activity": "Arrive <strong>Taipei Taoyuan Airport</strong> (local time). Buy/refill <strong>EasyCard</strong>, load ~NT$500.",
+        "activity": "Arrive <strong>Taipei Taoyuan Airport</strong> (local). Immigration + baggage can take 45–90 min in summer. Buy/refill <strong>EasyCard</strong> (vending machines/service counter at MRT level B2; EZfly counter takes cards), load ~NT$500.",
         "price": ""
       },
       {
         "time": "11:15",
-        "activity": "<strong>Airport MRT</strong> to Taipei Main Station (~40 min, NT$160).",
+        "activity": "<strong>Airport MRT</strong> Express (purple) to Taipei Main Station (~38 min, NT$160; ~every 15 min). Shift later if immigration ran long.",
         "price": ""
       },
       {
@@ -1324,12 +1324,12 @@ const DAYS = [
       },
       {
         "time": "14:00",
-        "activity": "<strong>Taipei afternoon (bonus half-day)</strong> — take it easy after the early start: <a href=\"https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei\" target=\"_blank\">★★★☆☆ 🏛️ Chiang Kai-shek Memorial Hall</a>, <a href=\"https://www.google.com/maps/search/Daan+Forest+Park+Taipei\" target=\"_blank\">★★★☆☆ 🌳🚶 Da'an Forest Park</a>, or just ease into the city near your hotel.",
+        "activity": "<strong>Taipei afternoon (bonus half-day)</strong> — take it easy after the early start: <a href=\"https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei\" target=\"_blank\">★★★☆☆ 🏛️ Chiang Kai-shek Memorial Hall</a> (open daily 9:00–18:00, free; outdoor <strong>honor-guard changing hourly on the hour 9:00–17:00</strong> on Democracy Boulevard — catch the 15:00/16:00/17:00), <a href=\"https://www.google.com/maps/search/Daan+Forest+Park+Taipei\" target=\"_blank\">★★★☆☆ 🌳🚶 Da'an Forest Park</a> (open 24h, free), or just ease into the city near your hotel.",
         "price": ""
       },
       {
         "time": "18:00",
-        "activity": "Early night market for dinner — e.g. <a href=\"https://www.google.com/maps/search/Ningxia+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🍜 Ningxia Night Market</a> (or pick one nearer your hotel and save Ningxia for Aug 21).",
+        "activity": "Early night market for dinner — e.g. <a href=\"https://www.google.com/maps/search/Ningxia+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🍜 Ningxia Night Market</a> (~17:00–24:00; most guides list it daily, but some listings show a <strong>Thursday rest day</strong> — verify same-day, or save Ningxia for Aug 21/Fri and pick a market nearer your hotel tonight).",
         "price": ""
       },
       {
@@ -1388,7 +1388,7 @@ const DAYS = [
     "title": "Taipei Day 1: Old Taipei + Weird Ice Cream + Night Market",
     "country": "taiwan",
     "summary": "Taipei Day 1: Old Taipei + weird ice cream + Ximending + Ningxia",
-    "notes": "<strong>Activate Taipei Fun Pass Unlimited 2-day today</strong> (covers today + tomorrow).",
+    "notes": "<strong>Activate Taipei Fun Pass Unlimited 2-day today</strong> (covers today + tomorrow). Unlimited MRT/bus/tourist-shuttle + free single entry to 30+ attractions (Taipei 101 obs, National Palace Museum, Maokong Gondola, Yehliu, Taipei Zoo) — save the big attractions for <strong>tomorrow (Aug 22)</strong>; today is mostly free temples/markets. Also gives shopping-district perks in <strong>Dadaocheng + Ximending</strong>, both visited today. Tiers: adult 12+ (so the 15yo), child 6–11 (the 9 & 11yo) — verify exact NT$ price in `passes.md`.",
     "badges": [
       {
         "type": "pass",
@@ -1404,17 +1404,17 @@ const DAYS = [
       },
       {
         "time": "10:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Bopiliao+Historic+Block+Taipei\" target=\"_blank\">★★★☆☆ 🚶🏯 Bopiliao Historic Block</a></strong> — Best-preserved old street. Qing + Japanese architecture. Free art galleries, interactive heritage center.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Bopiliao+Historic+Block+Taipei\" target=\"_blank\">★★★☆☆ 🚶🏯 Bopiliao Historic Block</a></strong> — Best-preserved old street (5 min walk from Longshan). Qing + Japanese architecture. Free art galleries, interactive heritage center. Buildings open Tue–Sun 09:00–18:00, <strong>closed Mon</strong> (Fri OK).",
         "price": "Free"
       },
       {
         "time": "11:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei\" target=\"_blank\">★★★★★ 📸 Chiang Kai-shek Memorial Hall</a></strong> — 76m marble hall. Guard-changing ceremony on the hour (9am-5pm).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei\" target=\"_blank\">★★★★★ 📸 Chiang Kai-shek Memorial Hall</a></strong> — 76m marble hall. Guard-changing ceremony on the hour (9am-5pm) — <strong>since Jul 2024 held outdoors on Democracy Boulevard, not around the statue; cancelled in rain</strong>, so aim for the 11:00 or 12:00 change.",
         "price": "Free"
       },
       {
         "time": "12:30",
-        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei\" target=\"_blank\">★★★☆☆ ☕🤪🧒 Snow King Ice Cream</a></strong> — Since 1947. Flavors: <strong>PORK FLOSS, pig's knuckle, sesame oil chicken, wasabi, curry, beer, chili pepper</strong>. Kids will go wild picking the weirdest one.",
+        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei\" target=\"_blank\">★★★☆☆ ☕🤪🧒 Snow King Ice Cream</a></strong> — Since 1947 (2F, Wuchang St; <strong>opens 12:00 daily, 12:00–20:00</strong>). Flavors: <strong>PORK FLOSS, pig's knuckle, sesame oil chicken, wasabi, curry, beer, chili pepper</strong>. Kids will go wild picking the weirdest one. Note: ice cream only, not a real meal — grab a proper lunch in Ximending too.",
         "price": ""
       },
       {
@@ -1424,7 +1424,7 @@ const DAYS = [
       },
       {
         "time": "15:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei\" target=\"_blank\">★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant</a></strong> — Sit on toilet seats. Food served in toilet bowls. Chocolate \"poop\" ice cream. Kids will be endlessly entertained.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei\" target=\"_blank\">★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant</a></strong> — Sit on toilet seats. Food served in toilet bowls. Chocolate \"poop\" ice cream. Kids will be endlessly entertained. (2F, Xining S Rd Ln 50; open daily 11:30–22:00; can queue at peak — good spot for the real lunch missed at Snow King.)",
         "price": ""
       },
       {
@@ -1434,7 +1434,7 @@ const DAYS = [
       },
       {
         "time": "18:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Ningxia+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🏮🍜 Ningxia Night Market</a></strong> dinner — Most local-feeling market. Hit: Piaoxiang Beef Noodle, Liu Yu Zi (fried taro balls), oyster omelette stall (Yuen Huan Pien).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Ningxia+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🏮🍜 Ningxia Night Market</a></strong> dinner — Most local-feeling market (~10 min walk from Dihua St; opens ~17:00, runs to ~23:30). Hit: Piaoxiang Beef Noodle, Liu Yu Zi (fried taro balls), oyster omelette stall (Yuen Huan Pien).",
         "price": "~NT$200-400/person"
       }
     ],
@@ -1460,7 +1460,7 @@ const DAYS = [
           {
             "name": "★★★☆☆ 🏯 Taipei Confucius Temple",
             "url": "https://www.google.com/maps/search/Taipei+Confucius+Temple",
-            "desc": "Elegant Southern Fujian-style; next to Bao-An"
+            "desc": "Elegant Southern Fujian-style; next to Bao-An (Tue–Sat 08:30–21:00, Sun/hol 08:30–17:00; <strong>closed Mon</strong>)"
           }
         ]
       },
@@ -1559,8 +1559,8 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Palace+Museum+Taipei\" target=\"_blank\">★★★★★ 🏛️ National Palace Museum</a></strong> — World's greatest Chinese art. Children's Gallery. Free for under 18. Open Tue-Sun 9:00-17:00 (closed Mon).",
-        "price": "Pass or NT$350"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Palace+Museum+Taipei\" target=\"_blank\">★★★★★ 🏛️ National Palace Museum</a></strong> — World's greatest Chinese art. Children's Gallery. Free for under 18 (<strong>all 3 kids free</strong>; adults NT$350). Open Tue-Sun 9:00-17:00 (closed Mon). <strong>Arrive at 9:00 — gets very crowded Sat.</strong> ⚠️ 2026: New NPM renovation underway; some galleries may be limited/relocated (verify on arrival).",
+        "price": "Pass or NT$350 (kids free)"
       },
       {
         "time": "11:15",
@@ -1569,7 +1569,7 @@ const DAYS = [
       },
       {
         "time": "12:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei\" target=\"_blank\">★★★☆☆ 🏛️♨️ Beitou Hot Spring Museum</a></strong> — Restored 1913 Japanese bathhouse (air-conditioned!).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei\" target=\"_blank\">★★★☆☆ 🏛️♨️ Beitou Hot Spring Museum</a></strong> — Restored 1913 Japanese bathhouse (air-conditioned!). Open Tue-Sun 10:00-18:00, closed Mon (open Sat, no conflict).",
         "price": "Free"
       },
       {
@@ -1579,8 +1579,8 @@ const DAYS = [
       },
       {
         "time": "13:00",
-        "activity": "Hot spring soak: <strong><a href=\"https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei\" target=\"_blank\">★★★☆☆ ♨️🧒 Spring City Resort</a></strong> — Best public hot spring for families. Multiple pools incl. cold-water tubs. <strong>Counter-intuitive in 35°C August</strong> but the cold pools + AC lounge are real respite. ~90 min.",
-        "price": "~NT$350-600"
+        "activity": "Hot spring soak: <strong><a href=\"https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei\" target=\"_blank\">★★★☆☆ ♨️🧒 Spring City Resort</a></strong> — Best public hot spring for families; mixed-gender outdoor pools incl. cold-water tubs. <strong>⚠️ Swimsuits + caps REQUIRED</strong> (bring them). Kids <110cm free; 110-140cm child rate. Open 9:00-22:00. <strong>Counter-intuitive in 35°C August</strong> but the cold pools + AC lounge are real respite. ~90 min.",
+        "price": "~NT$800/adult (≈50% off on Klook)"
       },
       {
         "time": "14:30",
@@ -1599,8 +1599,8 @@ const DAYS = [
       },
       {
         "time": "17:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+101\" target=\"_blank\">★★★★★ 🗼📸 Taipei 101 Observatory</a></strong> — Floors 88-89 + outdoor deck floor 91. Go for golden hour → sunset → night views.",
-        "price": "Pass or NT$600"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+101\" target=\"_blank\">★★★★★ 🗼📸 Taipei 101 Observatory</a></strong> — Floors 88-89 + outdoor deck floor 91 (weather permitting). Go for golden hour → sunset (~18:25) → night views. Open Sat to ~21:00-22:00. <strong>Book online (Klook/KKday) to skip the 5F counter queue.</strong>",
+        "price": "Pass or NT$600 adult / NT$540 child 115cm+ ⚠️ (discount may need Taiwan ID — foreign kids may pay full; verify)"
       },
       {
         "time": "19:30",
@@ -1622,6 +1622,16 @@ const DAYS = [
       {
         "category": "Near Taipei 101",
         "items": [
+          {
+            "name": "★★★☆☆ 🎁🧒 Pokémon Center Taipei",
+            "url": "https://www.google.com/maps/search/Pokemon+Center+Taipei",
+            "desc": "Official store (opened Dec 2023), Shin Kong Mitsukoshi Xinyi right by Taipei 101 — easy add to the 17:30 Taipei 101 window"
+          },
+          {
+            "name": "★★★☆☆ 🎁🧒 Donguri Republic (Ghibli Store)",
+            "url": "https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei",
+            "desc": "Studio Ghibli goods, same Shin Kong Mitsukoshi Xinyi complex"
+          },
           {
             "name": "★★★☆☆ 🎨 Songshan Cultural and Creative Park",
             "url": "https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei",
@@ -1705,36 +1715,31 @@ const DAYS = [
     "id": "day-13",
     "day": 13,
     "date": "Aug 23 (Sun)",
-    "title": "Northeast Coast Day Trip: Shifen → Jiufen → Yehliu",
+    "title": "Northeast Coast Day Trip: Yehliu → Shifen → Jiufen",
     "country": "taiwan",
     "summary": "Northeast Coast: Yehliu + Shifen (lanterns!) + Jiufen",
     "notes": "Sunday: northeast coast tour buses run daily, Jiufen and Shifen are at peak buzz. Start early to beat crowds. <strong>Typhoon contingency:</strong> if a typhoon is forecast, swap this with Aug 24 (kids' science day stays indoors).",
-    "badges": [
-      {
-        "type": "closed",
-        "text": "NPM closed Sun"
-      }
-    ],
+    "badges": [],
     "maps": [],
     "schedule": [
       {
         "time": "8:00",
-        "activity": "Depart Taipei. Book a tour (Klook/KKday ~NT$1,500-2,000) or go independently via trains and buses.",
+        "activity": "Depart Taipei. <strong>Recommended:</strong> book a Yehliu+Shifen+Jiufen join-in day tour (Klook/KKday, ~NT$1,500-2,000/person, most operate Sun) — one vehicle handles all 3 stops. Independent is doable but transfer-heavy for 6: TRA to Ruifang → Pingxi line (hourly, ~1/hr) for Shifen, plus buses for Yehliu & Jiufen; start early.",
         "price": ""
       },
       {
         "time": "9:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Yehliu+Geopark+Taiwan\" target=\"_blank\">★★★★☆ 🌊🧒 Yehliu Geopark</a></strong> — Alien-landscape rock formations. The Queen's Head. Kids love it. 1-2 hours.",
-        "price": "NT$120"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Yehliu+Geopark+Taiwan\" target=\"_blank\">★★★★☆ 🌊🧒 Yehliu Geopark</a></strong> — Alien-landscape rock formations. The Queen's Head. Kids love it. Open daily 8:00-17:00. 1-2 hours.",
+        "price": "NT$120 adult; NT$60 ages 6-12/student (kids 9 & 11 = NT$60; 15yo NT$60 w/ student ID, else NT$120)"
       },
       {
         "time": "11:30",
         "activity": "<strong><a href=\"https://www.google.com/maps/search/Shifen+Old+Street+Taiwan\" target=\"_blank\">★★★★☆ 🚶🧒 Shifen Old Street</a></strong> — Train tracks run through the market! Watch trains pass inches from stalls. <strong>★★★★★ Sky Lantern Release</strong> — Write wishes, release into the sky. Magical for kids.",
-        "price": "Lantern ~NT$150-200"
+        "price": "Lantern ~NT$200 (1 color) / ~NT$250 (4 colors) — shared per lantern"
       },
       {
         "time": "12:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shifen+Waterfall+Taiwan\" target=\"_blank\">★★★☆☆ 🌊 Shifen Waterfall</a></strong> — Taiwan's widest, \"Little Niagara.\" Short walk from old street.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shifen+Waterfall+Taiwan\" target=\"_blank\">★★★☆☆ 🌊 Shifen Waterfall</a></strong> — Taiwan's widest, \"Little Niagara.\" ~20 min walk from old street. Open daily 9:00-18:00 (Jun-Sep).",
         "price": "Free"
       },
       {
@@ -1744,13 +1749,13 @@ const DAYS = [
       },
       {
         "time": "15:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan\" target=\"_blank\">★★★★★ 🚶🍜 Jiufen Old Street</a></strong> — Narrow alleys, red lanterns, Spirited Away vibes. <strong>Lai Ah Po Taro Balls</strong> (original shop). <strong>Ah Zhu Peanut Ice Cream Roll</strong> (shaved peanut candy + cilantro + ice cream in a crepe — strange and delicious).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan\" target=\"_blank\">★★★★★ 🚶🍜 Jiufen Old Street</a></strong> — Narrow alleys, red lanterns, Spirited Away vibes. Sunday afternoon = very crowded; the alleys get packed — stay together and mind kids in the crush. <strong>Lai Ah Po Taro Balls</strong> (original shop). <strong>Ah Zhu Peanut Ice Cream Roll</strong> (shaved peanut candy + cilantro + ice cream in a crepe — strange and delicious).",
         "price": ""
       },
       {
         "time": "17:00",
         "activity": "<strong><a href=\"https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen\" target=\"_blank\">★★★★☆ 🍵🗼 A-Mei Tea House</a></strong> — 3 floors, sweeping views over Keelung Bay. Red lanterns glow at dusk. Tea set + snacks.",
-        "price": "~NT$300/person for tea set"
+        "price": "~NT$350/person tea set (min charge, as of early 2026)"
       },
       {
         "time": "19:00",
@@ -1770,7 +1775,7 @@ const DAYS = [
           {
             "name": "★★★☆☆ 🏛️ Gold Museum",
             "url": "https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan",
-            "desc": "Open-air, mostly free; gold rush era exhibits"
+            "desc": "Open-air, mostly free; gold rush era exhibits. Closed 1st Mon each month — Aug 23 is a Sunday, so <strong>open</strong> (Sun/holiday hours 9:30-18:00)."
           },
           {
             "name": "★★★☆☆ 🌊 Golden Waterfall",
@@ -1793,7 +1798,7 @@ const DAYS = [
     "title": "Taipei Day 3: Kids' Science Day + Shilin Night Market",
     "country": "taiwan",
     "summary": "Taipei Day 3: Kids' science day + Shilin Night Market",
-    "notes": "Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But Shilin science complex is open (summer vacation = open Mondays).",
+    "notes": "Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But the Shilin science complex — Children's Amusement Park, Science Education Center (NTSEC), and Astronomical Museum — is open: all three open Mondays during summer vacation. VERIFIED: Aug 24 falls within Taiwan's school summer break (Jul 1 – Aug 31, 2026), so the Monday-open exception applies to all three.",
     "badges": [
       {
         "type": "closed",
@@ -1804,7 +1809,7 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park\" target=\"_blank\">★★★☆☆ 🎡🧒 Taipei Children's Amusement Park</a></strong> — Drop tower, roller coaster, pirate ship, bumper cars, arcades. Incredibly cheap! Entry NT$30, rides NT$20-30 each, or all-day pass NT$200.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park\" target=\"_blank\">★★★☆☆ 🎡🧒 Taipei Children's Amusement Park</a></strong> — Drop tower, roller coaster, pirate ship, bumper cars, arcades. Incredibly cheap! No entrance fee (pay per ride): major rides NT$30, other rides NT$20, or all-day pass NT$200 (unlimited on rides #1-13). Open Mon in summer vacation 09:00-20:00 (verified). Under-6 free.",
         "price": "NT$200 day pass"
       },
       {
@@ -1814,17 +1819,17 @@ const DAYS = [
       },
       {
         "time": "13:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei\" target=\"_blank\">★★★★☆ 🏛️🧒 National Taiwan Science Education Center</a></strong> — Interactive exhibits (life/physical/earth sciences). Great for 9-year-olds. Right next door to amusement park.",
-        "price": "NT$100"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei\" target=\"_blank\">★★★★☆ 🏛️🧒 National Taiwan Science Education Center</a></strong> — Interactive exhibits (life/physical/earth sciences), floors 3-6. Great for 9-year-olds. Right next door to amusement park. Open daily in summer vacation incl. Mon, 09:00-18:00 (verified). Permanent exhibition NT$120 (students w/ ID NT$90; under-6 free).",
+        "price": "NT$120"
       },
       {
         "time": "15:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+Astronomical+Museum\" target=\"_blank\">★★★☆☆ 🏛️🧒 Taipei Astronomical Museum</a></strong> — Planetarium shows, IMAX theater, space exhibits. Also next door.",
-        "price": "NT$40 + IMAX NT$100"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+Astronomical+Museum\" target=\"_blank\">★★★☆☆ 🏛️🧒 Taipei Astronomical Museum</a></strong> — Space exhibits, planetarium/Cosmic Theater (dome) + 3D theater. Also next door. Open Mon in summer vacation, to 20:00 (verified; normally closed Mon). Exhibition NT$40 (children 6-12 / students NT$20); dome or 3D theater NT$100 (under-12 / students NT$50) — book theater slots on arrival.",
+        "price": "NT$40 + theater NT$100"
       },
       {
         "time": "17:00",
-        "activity": "Explore Shilin area. <a href=\"https://www.google.com/maps/search/Pokemon+Center+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒 Pokemon Center Taipei</a> or <a href=\"https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒 Donguri Republic (Ghibli Store)</a> — Huge Totoro cat bus kids can enter.",
+        "activity": "Explore Shilin area / walk toward the night market. (Pokémon Center & Donguri Republic moved to the Aug 22 Xinyi/Taipei 101 day — they're at Shin Kong Mitsukoshi Xinyi, not Shilin.)",
         "price": ""
       },
       {
@@ -1845,7 +1850,7 @@ const DAYS = [
           {
             "name": "★★★☆☆ 🎡🗼 Miramar Entertainment Park",
             "url": "https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei",
-            "desc": "95-meter Ferris wheel; great sunset views"
+            "desc": "70 m-tall Ferris wheel atop the mall (100 m landmark height); great sunset views. Mall/wheel open daily (Dazhi, near Jiannan Rd MRT — a separate trip from Shilin)"
           }
         ]
       },
@@ -1893,7 +1898,7 @@ const DAYS = [
     "title": "HSR to Taichung → Tainan",
     "country": "taiwan",
     "summary": "HSR to Taichung (Rainbow Village, Miyahara) → Tainan (Anping)",
-    "notes": "<strong>Use Taiwan HSR Flexible 2-day Pass (day 1 of 2).</strong>",
+    "notes": "<strong>Use Taiwan HSR Flexible 2-day Pass (day 1 of 2).</strong> <strong>⚠️ Ambitious base-move day (Taipei → Tainan with luggage) — taxi-dependent.</strong> Both HSR stations sit far from the sights, so buses eat the schedule; plan on taxis (2 cars for 6). Store luggage in <strong>HSR Taichung lockers</strong> during the Taichung loop, then drop bags at the Tainan hotel before Anping. Anping's forts close ~17:10–17:30, so go straight there. If it feels too rushed, use the itinerary's \"skip Taichung, HSR straight to Tainan\" swap to free the morning.",
     "badges": [
       {
         "type": "pass",
@@ -1904,12 +1909,12 @@ const DAYS = [
     "schedule": [
       {
         "time": "8:00",
-        "activity": "<strong>HSR Taipei → Taichung</strong> (47 min).",
+        "activity": "<strong>HSR Taipei → Taichung</strong> (~50 min; only the fast/limited-stop trains — check timetable). Stash luggage in <strong>HSR Taichung lockers</strong>.",
         "price": "HSR Pass"
       },
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Rainbow+Village+Taichung\" target=\"_blank\">★★★★☆ 📸🧒 Rainbow Village</a></strong> — Every surface hand-painted by \"Grandpa Rainbow.\" Arrive early to beat crowds.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Rainbow+Village+Taichung\" target=\"_blank\">★★★★☆ 📸🧒 Rainbow Village</a></strong> — ~6–12 min taxi/bus from HSR Taichung. Hand-painted by \"Grandpa Rainbow\" (Huang Yung-fu, d. 2024). <strong>Open Tue–Sun 9–5, closed Mon (Tue = OK).</strong> Note: much was repainted during a 2022–23 management dispute, so it looks different from older photos — still free and worth a quick stop. Arrive early to beat crowds.",
         "price": "Free"
       },
       {
@@ -1919,7 +1924,7 @@ const DAYS = [
       },
       {
         "time": "11:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taichung+Theater\" target=\"_blank\">★★★★☆ 📸🎭 National Taichung Theater</a></strong> — Pritzker Prize architect Toyo Ito. Stunning curved concrete. Free to explore + rooftop garden.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taichung+Theater\" target=\"_blank\">★★★★☆ 📸🎭 National Taichung Theater</a></strong> — Pritzker Prize architect Toyo Ito. Stunning curved concrete. Free to explore + rooftop garden. <strong>Opens 11:30; closed Mon (Tue = open).</strong>",
         "price": "Free"
       },
       {
@@ -1929,17 +1934,17 @@ const DAYS = [
       },
       {
         "time": "13:30",
-        "activity": "<strong>HSR Taichung → Tainan</strong> (~45 min).",
+        "activity": "<strong>HSR Taichung → Tainan</strong> (~40 min). Retrieve luggage from lockers first.",
         "price": "HSR Pass"
       },
       {
-        "time": "15:00",
-        "activity": "Arrive Tainan. Check luggage at hotel or lockers.",
+        "time": "~14:15",
+        "activity": "Arrive <strong>Tainan HSR</strong> — station is ~17 km east of town; ~30–40 min by <strong>taxi</strong> to Anping (buses much slower). Drop luggage at hotel en route, then straight to Anping.",
         "price": ""
       },
       {
-        "time": "15:30",
-        "activity": "<strong>Anping area:</strong> <a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia</a> (Dutch 1624, NT$70) → <a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">★★★★☆ 📸🌳 Anping Treehouse</a> (warehouse consumed by banyan roots — walk through the intertwined trees, NT$70, closes 5:30pm!) → <a href=\"https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan\" target=\"_blank\">★★☆☆☆ 🍜 Zhou's Shrimp Rolls</a> → <a href=\"https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan\" target=\"_blank\">★★☆☆☆ ☕ Tongji Tofu Pudding</a>.",
+        "time": "15:15",
+        "activity": "<strong>Anping area</strong> — do the two forts FIRST (both close ~17:10–17:30), snacks after: <a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia</a> (Dutch 1624, NT$70, <strong>closes 17:10</strong>) → <a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">★★★★☆ 📸🌳 Anping Treehouse</a> (warehouse consumed by banyan roots — walk through the intertwined trees, NT$70, <strong>closes 5:30pm!</strong>) → <a href=\"https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan\" target=\"_blank\">★★☆☆☆ 🍜 Zhou's Shrimp Rolls</a> → <a href=\"https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan\" target=\"_blank\">★★☆☆☆ ☕ Tongji Tofu Pudding</a>. Kids/students half price (NT$35 each).",
         "price": "~NT$140"
       },
       {
@@ -2044,7 +2049,7 @@ const DAYS = [
     "schedule": [
       {
         "time": "7:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan\" target=\"_blank\">★★★☆☆ 🍜 Six Thousand Beef Soup</a></strong> — Go early morning. This is a Tainan BREAKFAST food. No-frills, incredible.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/A+Cun+Beef+Soup+Tainan\" target=\"_blank\">★★★☆☆ 🍜 A Cun Beef Soup 阿村牛肉湯</a></strong> — Tainan BREAKFAST beef soup, Michelin-listed, fresh warm-slaughtered beef. Open Wed from ~4am (Guohua St / Bao'an Rd). ⚠️ Original pick <strong>Six Thousand Beef Soup is CLOSED Mon–Wed</strong> (open Thu–Sun only) — Aug 26 is Wed, so swapped. Backup: Kangle St Beef Soup.",
         "price": ""
       },
       {
@@ -2054,8 +2059,8 @@ const DAYS = [
       },
       {
         "time": "9:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Chihkan+Tower+Tainan\" target=\"_blank\">★★★★☆ 🏯 Chihkan Tower</a></strong> — Dutch-built 1653. Opens 8:30am.",
-        "price": "NT$70"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Chihkan+Tower+Tainan\" target=\"_blank\">★★★★☆ 🏯 Chihkan Tower</a></strong> — Dutch-built 1653. Open daily 8:30–21:30. Parts under renovation (2024–25) — still worth it.",
+        "price": "Adult NT$70–75; student NT$35 (all 3 kids qualify) → ~NT$315 total"
       },
       {
         "time": "10:30",
@@ -2074,7 +2079,7 @@ const DAYS = [
       },
       {
         "time": "13:30",
-        "activity": "<strong>HSR Tainan → Kaohsiung</strong> (~15-20 min) or TRA (~30-45 min).",
+        "activity": "<strong>TRA Tainan → Kaohsiung</strong> (~30–40 min) — downtown-to-downtown, arrives Kaohsiung Main Station (1 MRT stop from Formosa Blvd); simplest for this all-downtown day. HSR is faster on rail (~15 min) but uses Tainan HSR (Shalun, ~20–25 min from centre) → arrives Zuoying (north), then MRT red line ~15 min to Formosa Blvd.",
         "price": ""
       },
       {
@@ -2089,8 +2094,8 @@ const DAYS = [
       },
       {
         "time": "17:00",
-        "activity": "<strong>Ferry to <a href=\"https://www.google.com/maps/search/Cijin+Island+Kaohsiung\" target=\"_blank\">★★★☆☆ 🌳🚡 Cijin Island</a></strong> (5 min). Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast.",
-        "price": "Ferry ~NT$40"
+        "activity": "<strong>Ferry to <a href=\"https://www.google.com/maps/search/Cijin+Island+Kaohsiung\" target=\"_blank\">★★★☆☆ 🌳🚡 Cijin Island</a></strong> (5 min) from Gushan Ferry Pier; runs ~5am–2am, every ~10 min. Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast.",
+        "price": "Ferry NT$30 cash / NT$20 EasyCard, per ride"
       },
       {
         "time": "19:00",
@@ -2174,13 +2179,13 @@ const DAYS = [
     "schedule": [
       {
         "time": "7:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotus+Pond+Kaohsiung\" target=\"_blank\">★★★★☆ 🌳🏯 Lotus Pond</a></strong> — 1.4km lake. Enter <strong>Dragon & Tiger Pagodas</strong> (dragon's mouth in, tiger's out = good luck). Spring & Autumn Pavilions. Opens 6am.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotus+Pond+Kaohsiung\" target=\"_blank\">★★★★☆ 🌳🏯 Lotus Pond</a></strong> — 1.4km lake. Enter <strong>Dragon & Tiger Pagodas</strong> (dragon's mouth in, tiger's out = good luck; reopened Apr 2025 after 5-yr renovation, fully open). Spring & Autumn Pavilions. Opens 6am.",
         "price": "Free"
       },
       {
-        "time": "9:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung\" target=\"_blank\">★★★☆☆ 📸🗼 British Consulate at Takow</a></strong> — 1865 red-brick. Stunning views over Sizihwan Bay.",
-        "price": ""
+        "time": "10:00",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung\" target=\"_blank\">★★★☆☆ 📸🗼 British Consulate at Takow</a></strong> — 1865 red-brick. Stunning views over Sizihwan Bay. Opens <strong>10:00</strong> weekdays (closed Wed & 3rd Mon); last entry 18:30.",
+        "price": "NT$99 adult / NT$49 child (incl. NT$50 souvenir voucher)"
       },
       {
         "time": "10:30",
@@ -2214,7 +2219,7 @@ const DAYS = [
       },
       {
         "time": "17:30",
-        "activity": "Gondola back down. Optional: <a href=\"https://www.google.com/maps/search/Taipei+Zoo\" target=\"_blank\">★★★☆☆ 🐾🧒 Taipei Zoo</a> at the base (NT$60, open until 9pm Sat in summer — but today is Thu, closes 5pm).",
+        "activity": "Gondola back down. Optional: <a href=\"https://www.google.com/maps/search/Taipei+Zoo\" target=\"_blank\">★★★☆☆ 🐾🧒 Taipei Zoo</a> at the base (NT$100 adult / NT$60 child 6-12 & students; last entry 16:00 — but today is Thu, closes 5pm, so skip).",
         "price": ""
       },
       {
@@ -2255,7 +2260,7 @@ const DAYS = [
           {
             "name": "★★★☆☆ 🐾🧒 Taipei Zoo",
             "url": "https://www.google.com/maps/search/Taipei+Zoo",
-            "desc": "At gondola base; one of Asia's largest (NT$60; closes 5pm weekdays)"
+            "desc": "At gondola base; one of Asia's largest (NT$100 adult / NT$60 child 6-12 & students; 9:00-17:00, last entry 16:00)"
           },
           {
             "name": "🍵 Specific teahouses: Mountain Tea House, Found Your Tea, The Big Tea Pot",
@@ -2275,7 +2280,7 @@ const DAYS = [
           {
             "name": "★★★★☆ 🍜 Din Tai Fung Yongkang",
             "url": "https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei",
-            "desc": "Original location (takeout only); xiao long bao"
+            "desc": "Original Xinyi Rd location (now takeout only); dine-in at the 330-seat branch across the street; xiao long bao"
           },
           {
             "name": "☕ Mango shaved ice shops (seasonal)",
@@ -2309,12 +2314,12 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>Option B:</strong> <a href=\"https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei\" target=\"_blank\">★★★☆☆ 🏛️🚶 Treasure Hill Artist Village</a> — Artists' colony. Neon installations, outdoor sculptures, murals.",
+        "activity": "<strong>Option B:</strong> <a href=\"https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei\" target=\"_blank\">★★★☆☆ 🏛️🚶 Treasure Hill Artist Village</a> — Artists' colony. Neon installations, outdoor sculptures, murals. Galleries/studios <strong>Tue–Sun 11:00–22:00 (closed Mon)</strong>; lanes walkable earlier, but a 9:00 start is too early for the indoor spaces — go late morning.",
         "price": ""
       },
       {
         "time": "",
-        "activity": "<strong>Option C:</strong> <a href=\"https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei\" target=\"_blank\">★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum — Pineapple Cake Baking Class</a> — 2-hour class. Make iconic Taiwanese pineapple cakes from scratch. Great souvenir!",
+        "activity": "<strong>Option C:</strong> <a href=\"https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei\" target=\"_blank\">★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum — Pineapple Cake Baking Class</a> — ~2-hour class. Make iconic Taiwanese pineapple cakes from scratch. Great souvenir! In <strong>Shilin</strong> (10-min walk from Shilin MRT). <strong>Book ahead on Klook/KKday</strong> (sells out); ~NT$300/cake + ~NT$50 entry pp.",
         "price": ""
       },
       {
@@ -2350,17 +2355,22 @@ const DAYS = [
           {
             "name": "★★☆☆☆ ☕🤪 Alice is Coming Cafe",
             "url": "https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei",
-            "desc": "Wonderland-themed"
+            "desc": "Wonderland-themed (Ximending). <strong>UNVERIFIED</strong> — no recent reviews since ~2021; confirm still open (Facebook) before going."
           },
           {
             "name": "★★★☆☆ ☕🐾🧒 Capybara Knight",
             "url": "https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei",
-            "desc": "Capybara cafe; plus rabbits, ducks"
+            "desc": "Capybara cafe; plus rabbits, ducks. <strong>Reservation required</strong>; ~NT$200 pp weekday (Fri) incl. a drink + ~20 min with the capybaras. In <strong>Tucheng</strong> (SE New Taipei, ~40 min by MRT — a real detour, not central)."
           },
           {
             "name": "★★☆☆☆ ☕ Nice Cream",
             "url": "https://www.google.com/maps/search/Nice+Cream+Taipei",
             "desc": "Vegan gelato; Earl Grey waffle"
+          },
+          {
+            "name": "★★★☆☆ 🏛️🧒 Huashan 1914 Creative Park",
+            "url": "https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei",
+            "desc": "Central (Zhongzheng, near MRT Zhongxiao Xinsheng); repurposed distillery with exhibitions, shops, cafes, open lawns. Good central flex-day pick if you skipped it earlier. Grounds open daily; individual venues vary."
           }
         ]
       },
@@ -2370,12 +2380,12 @@ const DAYS = [
           {
             "name": "★★★☆☆ ☕🛍️ Chia Te Bakery",
             "url": "https://www.google.com/maps/search/Chia+Te+Bakery+Taipei",
-            "desc": "Most popular pineapple cake bakery"
+            "desc": "Most popular pineapple cake bakery (Nanjing E Rd, Songshan; daily ~08:30–20:30; expect queues — go early)"
           },
           {
             "name": "★★★☆☆ ☕🛍️ SunnyHills",
             "url": "https://www.google.com/maps/search/SunnyHills+Taipei",
-            "desc": "100% pineapple filling; free tasting with tea"
+            "desc": "100% pineapple filling; free tasting with tea (Minsheng flagship, Songshan; daily ~10:00–20:00 — they sit you down with a free cake + oolong)"
           }
         ]
       }
@@ -2388,18 +2398,18 @@ const DAYS = [
     "title": "Last Taipei Morning + Fly Home",
     "country": "taiwan",
     "summary": "Last Taipei morning → Fly home (dep 19:25)",
-    "notes": "Flight home <strong>departs Taipei (TPE) 19:25</strong> — you have most of the day. Be at <strong>TPE by ~16:30</strong> (~3h before an international flight), so leave central Taipei ~15:30 (Airport MRT ~40 min + buffer).",
+    "notes": "Flight home <strong>departs Taipei Taoyuan (TPE) 19:25</strong> — you have most of the day. Be at <strong>TPE by ~16:00–16:30</strong> (~3h before an international flight; airline bag-drop/check-in usually closes ~60 min before departure), so leave central Taipei by ~15:15–15:30 (Airport MRT ~35–40 min + walk/buffer). Note: 16:30 arrival is only ~2h55 before — leaving by 15:15 keeps a full 3h cushion.",
     "badges": [],
     "maps": [],
     "schedule": [
       {
         "time": "9:00",
-        "activity": "Relaxed last morning — breakfast, pack, check out (leave bags with the hotel).",
+        "activity": "Relaxed last morning — breakfast, pack, check out (leave bags with the hotel; or use Taipei Main Station B1 lockers, pay by EasyCard or NT$50 coins).",
         "price": ""
       },
       {
         "time": "10:00",
-        "activity": "<strong>Last-minute shopping & souvenirs.</strong> Pineapple cakes (essential Taiwan souvenir): <a href=\"https://www.google.com/maps/search/Chia+Te+Bakery+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ Chia Te Bakery</a> or <a href=\"https://www.google.com/maps/search/SunnyHills+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ SunnyHills</a>.",
+        "activity": "<strong>Last-minute shopping & souvenirs.</strong> Pineapple cakes (essential Taiwan souvenir): <a href=\"https://www.google.com/maps/search/Chia+Te+Bakery+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ Chia Te Bakery</a> (Songshan, Nanjing E Rd; Sat ~8:00–21:30, opens early — expect a queue) or <a href=\"https://www.google.com/maps/search/SunnyHills+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ SunnyHills</a> (Minsheng store, opens ~10:00; free tea + pineapple-cake tasting).",
         "price": ""
       },
       {
@@ -2414,12 +2424,12 @@ const DAYS = [
       },
       {
         "time": "15:30",
-        "activity": "<strong>Airport MRT</strong> from Taipei Main Station → TPE (~40 min, NT$160).",
+        "activity": "<strong>Airport MRT</strong> from Taipei Main Station → TPE. Board the <strong>Express (直達車, purple)</strong> — ~35–38 min, NT$160, ~every 15 min. Avoid the Commuter/all-stops (blue) train (~50 min).",
         "price": ""
       },
       {
         "time": "16:30",
-        "activity": "Arrive <strong>TPE</strong>. Check in, drop bags, security.",
+        "activity": "Arrive <strong>TPE</strong> (Terminal per airline). Check in, drop bags, security, immigration.",
         "price": ""
       },
       {
@@ -2455,8 +2465,8 @@ const CHECKLIST = [
   },
   {
     "id": "haeundae-blueline-park-sky-capsule-aug",
-    "category": "Book 28 days ahead",
-    "text": "Haeundae Blueline Park Sky Capsule (Aug 19) — tickets open every <strong>Tuesday at 07:00 KST for the week 4 weeks (28 days) later</strong>. For Aug 19, tickets open <strong>Tue Jul 21, 07:00 KST</strong>. Sells out in minutes in August. Book on <a href=\"https://www.bluelinepark.com\" target=\"_blank\">bluelinepark.com</a> or Klook. Weekday is easier."
+    "category": "Book as early as possible",
+    "text": "Haeundae Blueline Park Sky Capsule (Aug 19) — timed tickets, <strong>pre-book required</strong>. Reservations open on a <strong>Tuesday</strong> ahead of the ride date; sources disagree on the exact window (≈2–4 weeks out), so <strong>check <a href=\"https://www.bluelinepark.com\" target=\"_blank\">bluelinepark.com</a> / Klook now and book the instant Aug 19 appears</strong>. Sells out in minutes in August; weekday is easier."
   },
   {
     "id": "keyescape-escape-room-hongdae-aug-14",
@@ -2521,11 +2531,11 @@ const PASSES = [
     "price": "69,000 KRW",
     "activate": "Aug 16 morning (covers Aug 16-17)",
     "includes": [
-      "N Seoul Tower Observatory (16,000 KRW value) — Aug 16",
-      "Lotte World Adventure (~55,000 KRW value) — Aug 17",
+      "N Seoul Tower Observatory (21,000 KRW adult value) — Aug 16",
+      "Lotte World Adventure (~67,000 KRW adult gate value) — Aug 17",
       "Also covers: Alive Museum, Trick Eye Museum, various others"
     ],
-    "value": "Value: ~71,000+ KRW from just Namsan + Lotte World. Worth it.",
+    "value": "Value: ~88,000 KRW from just Namsan + Lotte World. Worth it.",
     "buy": "Klook, KKday, or Discover Seoul Pass website. Activate by scanning at first attraction."
   },
   {
@@ -2539,13 +2549,13 @@ const PASSES = [
       "Songdo Cable Car (17,000-22,000 KRW value) — if used",
       "Spa Land (20,000 KRW value) — if used"
     ],
-    "value": "Note: Sky Capsule NOT included (only Beach Train). Sky Capsule must be booked separately — tickets release every Tuesday 07:00 KST for the week 4 weeks (28 days) later via bluelinepark.com or Klook. Buy the Pass itself on Klook or Visit Busan Pass app.",
+    "value": "Note: Sky Capsule NOT included (only Beach Train). Sky Capsule must be booked separately — timed reservations open on a Tuesday ahead of the ride date (sources vary: ≈2–4 weeks out), so check bluelinepark.com or Klook early and book the moment your date appears. Buy the Pass itself on Klook or Visit Busan Pass app.",
     "buy": ""
   },
   {
     "name": "Taipei Fun Pass Unlimited (2-day)",
     "price": "~NT$1,700",
-    "activate": "Aug 21 morning (covers Aug 21-22)",
+    "activate": "Aug 21 morning (covers Aug 21-22). Child edition = ages 6–11; ages 12+ pay adult, so the 15-year-old needs an adult pass, the 9- & 11-year-olds child passes.",
     "includes": [
       "Taipei 101 Observatory (NT$600 value) — Aug 22",
       "National Palace Museum (NT$350 value) — Aug 22",

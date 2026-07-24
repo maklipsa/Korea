@@ -31,7 +31,7 @@ All walkable together — the historic heart of Seoul.
 - [★★★★☆ 🏯 Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) — UNESCO Confucian royal shrine
 - [★★★☆☆ 🏯 Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) — Main Zen Buddhist temple; giant ancient trees and ornate lanterns
 - [★★★★★ 🚶🏯 Bukchon Hanok Village](https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul) — 600+ traditional houses; **Red Zone (Bukchon-ro 11-gil) restricts tourists 17:00-10:00, enforced since Nov 2024, 100,000 KRW fine**
-- [★★★☆☆ 🏯 Cheongwadae (former Blue House)](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — Recently opened presidential grounds, free
+- [★☆☆☆☆ 🏯 Cheongwadae (former Blue House)](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — ⚠️ CLOSED to the public since Aug 2025 (president moved back in); public tours suspended for 2026 — skip
 - [★★☆☆☆ 🌳🏯 Tapgol Park](https://www.google.com/maps/search/Tapgol+Park+Seoul) — Historic park with 10-tier marble pagoda; March 1st Independence Movement site
 - [★★☆☆☆ 🏯 Unhyeongung Royal Residence](https://www.google.com/maps/search/Unhyeongung+Seoul) — Lesser-known Joseon-era mansion
 - [★★★★☆ 🚶 Ikseon-dong Hanok Village](https://www.google.com/maps/search/Ikseon-dong+Seoul) — Seoul's oldest hanok village, 100+ years old, 119 hanoks; hip cafes in old buildings
@@ -150,7 +150,7 @@ Connected via Gyeongui Line Forest Park — indie culture, animal cafes, weird i
 - [★★★☆☆ ☕🧒 943 Kings Cross (Harry Potter Cafe)](https://www.google.com/maps/search/943+Kings+Cross+Hongdae+Seoul) — 7 floors of Hogwarts theming; butterbeer and themed drinks
 - [★★★☆☆ ☕🐾🧒 Table A (Animal Cafe)](https://www.google.com/maps/search/Table+A+Animal+Cafe+Hongdae+Seoul) — Raccoons, meerkats on 3 floors; 10,000 won entrance
 - [★★★☆☆ ☕🐾🧒 Meerkat Friends](https://www.google.com/maps/search/Meerkat+Friends+Hongdae+Seoul) — Meerkats, genets, wallabies, Arctic fox, raccoons
-- [★★☆☆☆ ☕🐾🧒 Blind Alley (Raccoon Cafe)](https://www.google.com/maps/search/Blind+Alley+Raccoon+Cafe+Seoul) — Free raccoon room access with drink order
+- [★☆☆☆☆ ☕🐾🧒 Blind Alley (Raccoon Cafe)](https://www.google.com/maps/search/Blind+Alley+Raccoon+Cafe+Seoul) — ⚠️ PERMANENTLY CLOSED (raccoons rehomed to a zoo) — use Meerkat Friends instead
 - [★★☆☆☆ ☕🐾🧒 Thanks Nature Cafe (Sheep Cafe)](https://www.google.com/maps/search/Thanks+Nature+Sheep+Cafe+Seoul) — Two live sheep on the patio
 - [★☆☆☆☆ ☕ ehbd](https://www.google.com/maps/search/ehbd+cafe+Hongdae+Seoul) — Pastel pink and mint "birthday party" themed
 - [★☆☆☆☆ ☕ TEESSERT](https://www.google.com/maps/search/TEESSERT+cafe+Hongdae+Seoul) — Retro 1980s Seoul-themed cafe
@@ -166,7 +166,7 @@ Connected via Gyeongui Line Forest Park — indie culture, animal cafes, weird i
 - [★★☆☆☆ ☕ Fell + Cole](https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul) — Rotating weird flavors: makgeolli, beer stracciatella, miso vanilla, perilla leaf
 - [★★☆☆☆ ☕ Gelateria Eta](https://www.google.com/maps/search/Gelateria+Eta+Hongdae+Seoul) — Mugwort fig cream cheese gelato, Jack Daniel's chocolate gelato
 - [★★☆☆☆ ☕ Melted](https://www.google.com/maps/search/Melted+gelato+Hongdae+Seoul) — Sweetcorn mocha, roasted brown rice, knafeh chocolate
-- [★★☆☆☆ ☕ Molly's Pops](https://www.google.com/maps/search/Mollys+Pops+Hongdae+Seoul) — Artisanal popsicles: Pina Colada, Wasabi, Strawberries & Wine
+- [★☆☆☆☆ ☕ Molly's Pops](https://www.google.com/maps/search/Mollys+Pops+Hongdae+Seoul) — ⚠️ Appears permanently closed (no activity since ~2015) — verify before relying on it
 - [★★☆☆☆ ☕ SOBOK](https://www.google.com/maps/search/SOBOK+Hongdae+Seoul) — Natural rice-based soft serve; signature injeolmi ice balls
 - ☕ Candied fruit skewer (tanghulu) vendors along the shopping street
 
@@ -179,7 +179,7 @@ Connected via Gyeongui Line Forest Park — indie culture, animal cafes, weird i
 
 #### Kid-Friendly
 - ★★★☆☆ ☕🧒 943 Kings Cross Harry Potter Cafe — 7 floors of wizarding world
-- ☕🐾🧒 Animal cafes (Table A, Meerkat Friends, Blind Alley, Thanks Nature)
+- ☕🐾🧒 Animal cafes (Table A, Meerkat Friends, Thanks Nature)
 - [★★★☆☆ 🎡🧒 KEYESCAPE (Escape Room)](https://www.google.com/maps/search/KEYESCAPE+Hongdae+Seoul) — Award-winning escape rooms; English-friendly; ~20,000-30,000 won/person
 - 🎭 Street busking performances — Free entertainment weekend evenings
 - 🎨 Self-photo studios — Retro black-and-white photo booths throughout Hongdae
@@ -204,7 +204,7 @@ International vibe, world-class free museums, cool hillside alleys.
 - [★★☆☆☆ ☕ Le Montblanc HBC](https://www.google.com/maps/search/Le+Montblanc+Haebangchon+Seoul) — Yarn-themed cafe; desserts that look like yarn balls; rooftop
 - [★★☆☆☆ ☕ Dotori](https://www.google.com/maps/search/Dotori+cafe+Haebangchon+Seoul) — Looks like a Studio Ghibli movie; fairy-tale interior
 - [★★☆☆☆ ☕ Cafe MOONEE HBC](https://www.google.com/maps/search/Cafe+MOONEE+Haebangchon+Seoul) — 3-story rooftop with sunset views and Namsan Tower panorama
-- [★★☆☆☆ ☕ Anthracite Hannam](https://www.google.com/maps/search/Anthracite+Hannam+Seoul) — 3-story industrial-chic roastery
+- [★☆☆☆☆ ☕ Anthracite Hannam](https://www.google.com/maps/search/Anthracite+Hannam+Seoul) — ⚠️ PERMANENTLY CLOSED (Dec 2025); try OSULLOC Tea House Hannam instead
 - [★★★☆☆ 🍵 OSULLOC Tea House Hannam](https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul) — Green tea specialty; black lava rock walls
 - [★★☆☆☆ ☕ Hyundai Card Music Library](https://www.google.com/maps/search/Hyundai+Card+Music+Library+Hannam+Seoul) — Vinyl/cassette/CD listening cafe with headphones
 - [★★☆☆☆ 🛍️ Book Park Blue Square](https://www.google.com/maps/search/Blue+Square+Seoul) — 50,000+ books, cafe, children's zone, art gallery
@@ -247,7 +247,7 @@ Modern Seoul, container malls, weird cheesecake, and converted warehouses.
 
 #### Cafes
 - [★★☆☆☆ ☕ C27 Garosugil](https://www.google.com/maps/search/C27+Garosugil+Seoul) — 27 different kinds of cheesecake
-- [★★☆☆☆ ☕ Mr. Holmes Bakehouse Korea](https://www.google.com/maps/search/Mr+Holmes+Bakehouse+Garosugil+Seoul) — Famous cruffins (croissant-muffin hybrid)
+- [★☆☆☆☆ ☕ Mr. Holmes Bakehouse Korea](https://www.google.com/maps/search/Mr+Holmes+Bakehouse+Garosugil+Seoul) — ⚠️ PERMANENTLY CLOSED (Garosugil branch + parent chain shut)
 - [★★☆☆☆ ☕ Maman Gateau](https://www.google.com/maps/search/Maman+Gateau+Garosugil+Seoul) — Famous since 2011; handmade caramel desserts
 - ☕ Warehouse-converted cafes in Seongsu — Dozens of industrial-chic cafes in former factories
 - ☕ Brand pop-up cafes in Seongsu — Fashion/beauty brands open temporary themed cafes
@@ -402,7 +402,7 @@ Grouped by district.
 
 #### Food (no chains)
 - [★★★☆☆ 🍜 Haeundae Milmyeon](https://www.google.com/maps/search/Haeundae+Milmyeon+Busan) — Famous milmyeon (cold wheat noodles in chilled broth); Busan signature dish
-- ★★★☆☆ 🍜🍺 Haeundae Pojangmacha-chon — Orange-tented seafood stalls on the beach at night; grilled fish, shellfish, soju
+- ★☆☆☆☆ 🍜🍺 Haeundae Pojangmacha-chon — ⚠️ CLOSED/demolished Jan 2024 (site cleared for public space) — for beach-side seafood try Haeundae Traditional Market or Millak Raw Fish Town
 - [★★★☆☆ 🛍️🍜 Haeundae Traditional Market](https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan) — Small charming market; best after 8pm for eomuk, tteokbokki, hotteok
 
 #### Desserts
@@ -755,7 +755,7 @@ Typical route: Shifen → Jiufen → Yehliu. 8-9 hours round trip.
 ### Must-Eat Dishes (with specific places)
 - [★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan) — Danzai noodles since 1895; broth pot allegedly never fully cleaned in 130+ years; daily 11am-8pm
 - [★★★☆☆ 🍜 Yi Wei Pin at Yongle Market](https://www.google.com/maps/search/Yi+Wei+Pin+Yongle+Market+Tainan) — Michelin Bib Gourmand; bowl rice cake + milkfish thick soup; 5am-5pm
-- [★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan) — Go early morning; this is a breakfast food
+- [★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan) — Go early morning; this is a breakfast food. ⚠️ Closed Mon–Wed (open Thu–Sun 05:00–11:00) — on a Wed morning go to A Cun Beef Soup (阿村) instead
 - 🍜 Coffin Bread (Guan Cai Ban) — Thick toast hollowed out, filled with seafood chowder, deep-fried
 - [★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan) — Famous on Anping Old Street
 - [★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan) — Silky douhua on Anping Old Street

@@ -72,6 +72,7 @@ Hand-written HTML in `app.js` (**not** generated, edit directly): Packing tab, C
 
 ## Working style
 
+- **Overpack every day.** This family moves fast and would rather skip a stop on the spot than under-plan and miss out. Build each day to ~1.5–2× what a typical visitor does; keep the extra stops in and mark the lowest-priority ones as the natural things to drop if a day runs long. Do NOT thin days down to a "normal" pace — flag tight timing and name what to cut, but leave the density in.
 - Prefer editing Markdown over code. Times, prices, and closed-day rules are load-bearing — preserve them.
 - After editing `itinerary.md`, `passes.md`, or any `days/*.md`, run `python generate_site_data.py`.
 - Keep surfaces consistent: `itinerary.md` (index + rules + summaries), `days/*.md` (detail), `places.md` (catalog).
@@ -93,3 +94,5 @@ Hand-written HTML in `app.js` (**not** generated, edit directly): Packing tab, C
 
 # Noclegi:
 - Seoul: DDP 중구 퇴계로66길 17-6 1, 04614 Seul, Korea Południowa
+- Busan: TBD (nie ustalone — transfery liczone approx., zakładając Haeundae)
+- Taipei: TBD (nie ustalone — plany zakładają pobyt centralnie)

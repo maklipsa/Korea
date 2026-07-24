@@ -15,7 +15,7 @@ The big traditional Seoul day. Everything open on Wednesdays.
 | 11:45 | Walk west to **Seochon** neighborhood (5 min from Gyeongbokgung). |  |
 | 12:00 | **[★★★☆☆ 🍜🧒 Tongin Market coin lunchbox](https://www.google.com/maps/search/Tongin+Market+Seoul)** — Pay 5,000 KRW, get brass coins, pick side dishes from market stalls to build your own lunch. Kids love this! Best 11am-1pm. | 5,000 KRW |
 | 13:00 | **[★★☆☆☆ ☕ Hyoja Bakery](https://www.google.com/maps/search/Hyoja+Bakery+Seochon+Seoul)** — Supplied the Blue House for 26 years. Donuts, chestnut pastries. |  |
-| 13:30 | Walk east to **[★★★★★ 🏯🌳 Changdeokgung Palace + Secret Garden](https://www.google.com/maps/search/Changdeokgung+Palace+Seoul)** — UNESCO World Heritage. Book a guided Secret Garden tour. | 3,000 KRW (palace) + 5,000 KRW (garden) |
+| 13:30 | Walk ~30 min east (past Gyeongbokgung/Bukchon) to **[★★★★★ 🏯🌳 Changdeokgung Palace + Secret Garden](https://www.google.com/maps/search/Changdeokgung+Palace+Seoul)** — UNESCO WH; open Wed (closed Mon). Secret Garden = separate 90-min **timed guided tour**; **English tours 10:30/11:30/14:30/15:30 — aim for 14:30**, book online ~6 days ahead (opens 10:00 KST, half of slots) as Aug fills. | Palace 3,000 + garden 5,000 (adult); youth 7-18: 1,500 + 2,500 |
 | 15:30 | **[★★★★★ 🚶📸 Bukchon Hanok Village](https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul)** — 600+ traditional houses. Photo-friendly hillside streets. **Tourist curfew in the Red Zone (Bukchon-ro 11-gil): 17:00–10:00, 100,000 KRW fine.** Stay quiet, leave the famous photo street by 17:00. | Free |
 | 16:30 | **Samcheong-dong** — [★★★☆☆ ☕ Cafe Onion Anguk](https://www.google.com/maps/search/Cafe+Onion+Anguk+Seoul) (100-year-old hanok, salt bread). Browse galleries. |  |
 | 17:30 | **[★★★★☆ 🚶🛍️ Insadong](https://www.google.com/maps/search/Insadong-gil+Seoul)** — Ssamziegil spiral complex, name stamp carving (get kids their own Korean seal), craft shops. | Stamp ~10,000-20,000 KRW |
@@ -27,8 +27,8 @@ The big traditional Seoul day. Everything open on Wednesdays.
 
 ### More Temples & Landmarks
 - [★★★☆☆ 🏯 Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) — Main Zen Buddhist temple; giant ancient trees and ornate lanterns
-- [★★★★☆ 🏯 Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) — UNESCO Confucian royal shrine (open Wed!)
-- [★★★☆☆ 🏯 Cheongwadae (former Blue House)](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — Recently opened presidential grounds; free
+- [★★★★☆ 🏯 Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) — UNESCO Confucian royal shrine; open Wed but **timed guided tour only** (English 10:00/12:00/14:00/16:00); closed Tue. Free self-guided entry only on Sat & the last Wed of the month
+- [★☆☆☆☆ 🏯 Cheongwadae (former Blue House)](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — ⚠️ CLOSED to the public since Aug 2025 (president moved back in); public tours suspended for 2026 — skip
 - [★★★☆☆ 🏯 Changgyeonggung Palace](https://www.google.com/maps/search/Changgyeonggung+Palace+Seoul) — Less crowded palace, beautiful at night
 - [★★☆☆☆ 🌳🏯 Tapgol Park](https://www.google.com/maps/search/Tapgol+Park+Seoul) — Historic park with 10-tier marble pagoda
 

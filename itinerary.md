@@ -15,8 +15,8 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 - [ ] Flight Busan (PUS) → Taipei (TPE) (Aug 20, morning — dep ~9:00, arr Taipei ~10:30) — Tigerair Taiwan or Jeju Air, ~$70-130 USD/person one-way. Book on Skyscanner/Google Flights.
 - [ ] Everland or Lotte World tickets online (Aug 17) — 10-20% cheaper than gate price.
 
-### Book 28 days ahead
-- [ ] Haeundae Blueline Park Sky Capsule (Aug 19) — tickets open every **Tuesday at 07:00 KST for the week 4 weeks (28 days) later**. For Aug 19, tickets open **Tue Jul 21, 07:00 KST**. Sells out in minutes in August. Book on [bluelinepark.com](https://www.bluelinepark.com) or Klook. Weekday is easier.
+### Book as early as possible (timed release)
+- [ ] Haeundae Blueline Park Sky Capsule (Aug 19) — timed tickets, **pre-book required**. Reservations open on a **Tuesday** ahead of the ride date; sources disagree on the exact window (≈2–4 weeks out), so **check [bluelinepark.com](https://www.bluelinepark.com) / Klook now and book the instant Aug 19 appears**. Sells out in minutes in August; weekday is easier.
 
 ### Book 14 days ahead
 - [ ] KEYESCAPE escape room Hongdae (Aug 14 evening) — book at keyescape.co.kr. English-friendly.
@@ -105,8 +105,8 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 ### Seoul
 | Day | What's CLOSED |
 |-----|---------------|
-| **Monday** | Changdeokgung, Changgyeonggung, War Memorial, Leeum, SeMoCA, MMCA, National Folk Museum (1st Mon of Mar/Jun/Sep/Dec) |
-| **Tuesday** | Gyeongbokgung, Jongmyo Shrine |
+| **Monday** | Changdeokgung, Changgyeonggung, War Memorial, Leeum, SeMoCA |
+| **Tuesday** | Gyeongbokgung, Jongmyo Shrine, National Folk Museum |
 | Bukchon | Red Zone (Bukchon-ro 11-gil) restricted to tourists 17:00–10:00 — 100,000 KRW fine |
 | Hanbok | Wearing hanbok = free entry to all palaces (any day they're open) |
 

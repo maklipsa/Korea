@@ -10,12 +10,12 @@
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 7:30 | **DMZ Tour pickup** from Seoul hotel. Half-day tour (returns ~14:00). | ~65,000-80,000 KRW |
-|  | ★★★★☆ Imjingak Peace Park, ★★★★★ 3rd Infiltration Tunnel (73m underground, helmets provided), ★★★★☆ Dora Observatory (binoculars into North Korea), ★★★☆☆ Dorasan Station (last stop before Pyongyang). **Passports required.** Fine for age 9+. **JSA/Panmunjom is currently closed to general tourists** (UNC suspended since 2023) — standard DMZ tour is what's bookable. |  |
+| 7:30 | **DMZ Tour pickup** (confirm exact point — many operators use a downtown meeting spot, not the hotel door). Half-day tour returns ~14:00 to a **central drop-off** (Hongik Univ / City Hall / Myeongdong), not to Yongsan — allow 20-40 min transit to War Memorial, so the 14:30 start below may slip. | ~65,000-80,000 KRW |
+|  | ★★★★☆ Imjingak Peace Park, ★★★★★ 3rd Infiltration Tunnel (73m underground, helmets provided), ★★★★☆ Dora Observatory (binoculars into North Korea), ★★★☆☆ Dorasan Station (last stop before Pyongyang). **Physical passports required for all 6** — provide numbers at booking (~2-3 weeks ahead). Fine for age 9+. Standard DMZ tours run **Tue-Sun (DMZ sites closed Mon**; Aug 13 is Thu, so OK). **JSA/Panmunjom stays closed to general tourists** (UNC civilian tours suspended since 2023; JSA visitor center partially reopened 2025, but the blue conference buildings remain off-limits) — the standard DMZ tour above is what's bookable. |  |
 | 14:30 | **[★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul)** — Kids climb on real tanks, planes, ships outdoors. Indoor exhibits on Korean War history. Closes 18:00 (last entry 17:00). | Free |
-| 16:00 | **[★★★★☆ 🏛️🧒 National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul)** — Massive collection. Children's Museum is excellent for 9-year-olds. Beautiful grounds. Thu closes 17:30 (last entry 17:00) — tight 90 min, focus on Children's Museum + Ten-Storey Pagoda. | Free |
+| 16:00 | **[★★★★☆ 🏛️🧒 National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul)** — Massive collection. Children's Museum is excellent for 9-year-olds. Beautiful grounds. **Summer hours (Jul 27-Aug 17, 2026): Thu 09:00-18:00, last entry 17:30** — ~2 hrs; focus on Children's Museum + Ten-Storey Pagoda. (Kids' Children's Museum may need a free timed reservation — check ahead.) | Free |
 | 17:30 | Walk/subway to **Itaewon/Hannam-dong** area. |  |
-| 18:00 | Cafe: [★★☆☆☆ ☕ Dotori](https://www.google.com/maps/search/Dotori+cafe+Haebangchon+Seoul) (Studio Ghibli vibes) or [★★☆☆☆ ☕ Anthracite](https://www.google.com/maps/search/Anthracite+Hannam+Seoul) (industrial-chic roastery). |  |
+| 18:00 | Cafe: [★★☆☆☆ ☕ Dotori](https://www.google.com/maps/search/Dotori+cafe+Yongsan+Seoul) (Studio Ghibli vibes, Yongridan-gil) or [★★★☆☆ 🍵 OSULLOC Tea House Hannam](https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul) (green tea, black lava rock walls). ⚠️ Anthracite Hannam is **permanently closed** (Dec 2025). |  |
 | 19:00 | Dinner: [★★☆☆☆ 🍜 Vatos Urban Tacos](https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul) (Korean-Mexican fusion) or [★☆☆☆☆ 🍜 Chompi](https://www.google.com/maps/search/Chompi+Hannam+Seoul) (poke bowls, BTS SUGA's brother's place). |  |
 
 ---
@@ -35,7 +35,7 @@
 
 ### More Museums (all FREE)
 - [★★★☆☆ 🏛️ Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) — World-class art (closed Mon)
-- [★★★☆☆ 🏛️ MMCA](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) — National Museum of Modern Art (closed Mon)
+- [★★★☆☆ 🏛️ MMCA](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) — National Museum of Modern Art (open daily incl. Mon; Wed & Sat until 21:00)
 
 ### Shopping & Stores
 - [★★☆☆☆ 🛍️ Sounds Hannam](https://www.google.com/maps/search/Sounds+Hannam+Seoul) — Trendy complex; Saint Laurent to Aesop

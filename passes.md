@@ -6,11 +6,11 @@
 **Activate: Aug 16 morning** (covers Aug 16-17)
 
 Includes free entry to:
-- N Seoul Tower Observatory (16,000 KRW value) — Aug 16
-- Lotte World Adventure (~55,000 KRW value) — Aug 17
+- N Seoul Tower Observatory (21,000 KRW adult value) — Aug 16
+- Lotte World Adventure (~67,000 KRW adult gate value) — Aug 17
 - Also covers: Alive Museum, Trick Eye Museum, various others
 
-**Value: ~71,000+ KRW** from just Namsan + Lotte World. Worth it.
+**Value: ~88,000 KRW** from just Namsan + Lotte World. Worth it.
 
 Buy: Klook, KKday, or Discover Seoul Pass website. Activate by scanning at first attraction.
 
@@ -24,10 +24,10 @@ Includes free entry to:
 - Songdo Cable Car (17,000-22,000 KRW value) — if used
 - Spa Land (20,000 KRW value) — if used
 
-**Note:** Sky Capsule NOT included (only Beach Train). Sky Capsule must be booked separately — tickets release every Tuesday 07:00 KST for the week 4 weeks (28 days) later via [bluelinepark.com](https://www.bluelinepark.com) or Klook. Buy the Pass itself on Klook or Visit Busan Pass app.
+**Note:** Sky Capsule NOT included (only Beach Train). Sky Capsule must be booked separately — timed reservations open on a Tuesday ahead of the ride date (sources vary: ≈2–4 weeks out), so check [bluelinepark.com](https://www.bluelinepark.com) or Klook early and book the moment your date appears. Buy the Pass itself on Klook or Visit Busan Pass app.
 
 ### Taipei Fun Pass Unlimited (2-day) — ~NT$1,700
-**Activate: Aug 21 morning** (covers Aug 21-22)
+**Activate: Aug 21 morning** (covers Aug 21-22). Child edition = ages 6–11; ages 12+ pay adult, so the 15-year-old needs an adult pass, the 9- & 11-year-olds child passes.
 
 Includes:
 - Taipei 101 Observatory (NT$600 value) — Aug 22
