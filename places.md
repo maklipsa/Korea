@@ -193,7 +193,7 @@ International vibe, world-class free museums, cool hillside alleys.
 #### Landmarks & Museums (all FREE)
 - [★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul) — Massive museum with outdoor tanks, planes, ships kids can climb on 📅 **Day 3 (Aug 13)**
 - [★★★★☆ 🏛️ National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul) — Giant Hall, Ten Storey Pagoda, Children's Museum; beautiful grounds 📅 **Day 3 (Aug 13)**
-- [★★★☆☆ 🏛️ Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) — Free world-class art museum 📅 *near Day 3 (Aug 13)*
+- [★★★☆☆ 🏛️ Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) — Free world-class art museum 📅 **Day 3 (Aug 13)**
 - [★★★☆☆ 🏛️ MMCA National Museum of Modern and Contemporary Art](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) 📅 *near Day 3 (Aug 13)*
 
 #### Parks & Walks
