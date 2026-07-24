@@ -51,8 +51,8 @@ const DAYS = [
       },
       {
         "time": "16:00",
-        "activity": "Browse <strong>Dongdaemun</strong> area — Doota Mall, Hyundai City Outlet, or the surrounding street markets.",
-        "price": ""
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul\" target=\"_blank\">★★☆☆☆ 🏯📸 Heunginjimun (Dongdaemun Gate)</a></strong> — Original Seoul Fortress gate (1398), a floodlit stone island ~5 min from DDP. (Skipping the Dongdaemun malls — Doota / Hyundai City Outlet aren't worth a stop; the fashion-district street stalls only wake up late evening.)",
+        "price": "Free"
       },
       {
         "time": "16:30",
@@ -104,11 +104,6 @@ const DAYS = [
       {
         "category": "More to See",
         "items": [
-          {
-            "name": "★★☆☆☆ 🏯 Heunginjimun (Dongdaemun Gate)",
-            "url": "https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul",
-            "desc": "Original Seoul Fortress gate (1398), next to DDP"
-          },
           {
             "name": "★★☆☆☆ 🌳🚶 Seoullo 7017",
             "url": "https://www.google.com/maps/search/Seoullo+7017+Seoul",

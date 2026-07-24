@@ -31,6 +31,8 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 
 `markdown_parser.py` only recognizes `- [text](http…)` items and extracts the query from `/maps/search/<query>`. Don't switch to `place/` or `@lat,lng` URLs without updating `_extract_search_query`, or entries are silently skipped.
 
+**Importance rating prefix** — each real place carries a **1–5 ★ importance rating** inside the link text, before the emoji type-tags: `- [★★★★☆ 🏛️ Place Name](url) — description`. Keep a place's stars + emoji **identical** across `places.md` and any `days/*.md`. The rating rubric and the priority ladder (what to hunt vs. skip) are canonical in `priorities.md`; the emoji type-tag key is canonical at the top of `places.md`. Don't rate generic dish bullets or "Must-Try Dishes" checklists.
+
 **`places.md` headings** drive the parser's section label: `##` = region/city (e.g. `KOREA — SEOUL`), `###` = day combo/district. `####` (Cafes, Food, …) is informational, not parsed.
 
 **Day files (`days/*.md`)** — `generate_site_data.py` parses this structure, so match it:

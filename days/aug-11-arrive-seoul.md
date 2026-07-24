@@ -18,7 +18,7 @@ Gyeongbokgung closed Tuesdays — no conflict. **Landing 9:25 at ICN (confirmed)
 | 12:30 | Lunch: **[★★★☆☆ 🍜 Tosokchon Samgyetang](https://www.google.com/maps/search/Tosokchon+Samgyetang+Seoul)** — Famous ginseng chicken soup (whole young chicken stuffed with rice, ginseng, jujubes). Restorative after a long flight. Always a queue but moves fast. Near Gyeongbokgung. Open daily 10:00–22:00 (no Tue closure); one order per person. | ~20,000 KRW/person |
 | 14:00 | **[★★★☆☆ 🌳🚶 Cheonggyecheon Stream](https://www.google.com/maps/search/Cheonggyecheon+Stream+Seoul)** — 10.9km restored urban stream running through central Seoul. Shaded, a few degrees cooler than street level. Start at Cheonggye Plaza waterfall and walk east. | Free |
 | 15:00 | **[★★★☆☆ 📸🧒 Dongdaemun Design Plaza (DDP)](https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul)** — Zaha Hadid's silver spaceship building. LED Rose Garden (25,550 LED roses — one for each day in 70 years of liberation; lights up at sunset). Free to explore the flowing outdoor terraces. Kids love the futuristic architecture. | Free (outdoor) |
-| 16:00 | Browse **Dongdaemun** area — Doota Mall, Hyundai City Outlet, or the surrounding street markets. | |
+| 16:00 | **[★★☆☆☆ 🏯📸 Heunginjimun (Dongdaemun Gate)](https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul)** — Original Seoul Fortress gate (1398), a floodlit stone island ~5 min from DDP. (Skipping the Dongdaemun malls — Doota / Hyundai City Outlet aren't worth a stop; the fashion-district street stalls only wake up late evening.) | Free |
 | 16:30 | *(Optional — ~1 stop SE of DDP; skip to save the appetite for Ikseon dinner.)* **[★★★☆☆ 🍜🧒 Sindang-dong Tteokbokki Town](https://www.google.com/maps/search/Sindang+Tteokbokki+Town+Seoul)** — Cluster of eateries and the birthplace of Korea's tteokbokki craze; legendary rabokki (tteokbokki + ramen) with sundae (blood sausage). A fun, cheap snack to power the jet-lag afternoon. | ~10,000 KRW |
 | 17:00 | Walk to **[★★★★☆ 🚶 Ikseon-dong](https://www.google.com/maps/search/Ikseon-dong+Seoul)** (10 min from DDP) — Seoul's oldest hanok village turned hip cafe/restaurant district. Wander narrow alleys, browse boutique shops. | |
 | 17:30 | Cafe: **[★★☆☆☆ ☕ Cheong Su Dang](https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul)** (stepping stones over water inside the cafe) or **[★★☆☆☆ ☕ Seoul Coffee](https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong)** (squid-ink butter bread). Both open daily; Cheong Su Dang can have long waits (souffle castella baked to order). | |
@@ -36,7 +36,6 @@ Gyeongbokgung closed Tuesdays — no conflict. **Landing 9:25 at ICN (confirmed)
 - [★★☆☆☆ 🍜 Kkangtong Mandu](https://www.google.com/maps/search/Kkangtong+Mandu+Seoul) — Hidden alley dumplings and cold noodles
 
 ### More to See
-- [★★☆☆☆ 🏯 Heunginjimun (Dongdaemun Gate)](https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul) — Original Seoul Fortress gate (1398), next to DDP
 - [★★☆☆☆ 🌳🚶 Seoullo 7017](https://www.google.com/maps/search/Seoullo+7017+Seoul) — Elevated walkway/park on former highway overpass
 
 ### Workshops
