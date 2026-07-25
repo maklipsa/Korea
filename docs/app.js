@@ -77,8 +77,24 @@ function updateSyncStatus(connected) {
 // === TAB NAVIGATION ===
 let activeTab = 'overview';
 
+const FIXED_TABS = ['overview', 'passes', 'packing', 'cards', 'places', 'dmz'];
+
+// A tab is deep-linkable via the URL hash (e.g. #dmz, #day-3). Used both to
+// restore the tab on load and to let in-content links (checklist, day notes)
+// jump straight to it.
+function isValidTab(id) {
+  return FIXED_TABS.includes(id)
+    || (typeof DAYS !== 'undefined' && DAYS.some(d => d.id === id));
+}
+
 function switchTab(tabId) {
   activeTab = tabId;
+  // Keep the URL hash in sync so the tab is shareable/bookmarkable. replaceState
+  // (not location.hash=) avoids a scroll jump to a same-id element and doesn't
+  // fire hashchange, so this won't recurse with the listener below.
+  if (location.hash.slice(1) !== tabId) {
+    history.replaceState(null, '', '#' + tabId);
+  }
   document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab === tabId));
   renderContent();
   // Scroll tab into view
@@ -497,7 +513,18 @@ document.addEventListener('DOMContentLoaded', () => {
     tab.addEventListener('click', () => switchTab(tab.dataset.tab));
   });
 
-  // Initial render
-  renderContent();
+  // Initial render — honor a deep-link hash (e.g. #dmz) if present.
+  const hashTab = location.hash.slice(1);
+  if (isValidTab(hashTab)) {
+    switchTab(hashTab);
+  } else {
+    renderContent();
+  }
   initFirebase();
+
+  // React to hash changes (back/forward button, or an in-content #tab link).
+  window.addEventListener('hashchange', () => {
+    const t = location.hash.slice(1);
+    if (isValidTab(t) && t !== activeTab) switchTab(t);
+  });
 });

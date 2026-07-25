@@ -2,6 +2,8 @@
 
 **Transport:** DMZ morning is a **booked guided tour with hotel pickup/drop-off** — no logistics on you. Afternoon (War Memorial → Itaewon/Hannam) is one subway ride + short walks.
 
+**Which DMZ tour?** See the [DMZ tour options page](#dmz) — compares the tour with vs. without the North Korean defector Q&A, confirms all three kids clear the minimum age, and lists the passport/dress-code/booking must-knows. **Book ~1 month ahead** (peak August; passport numbers required at booking).
+
 ## Route Map
 [View route on Naver Map](https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/126.98032,37.52395,National+Museum+of+Korea:126.98094,37.52117,Hangeul+Museum:126.99910,37.53808,Leeum+Museum:126.99381,37.53509,Maple+Tree+House:126.99019,37.53462,Vatos+Itaewon/walk)
 [View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Itaewon+Seoul&waypoints=National+Museum+Korea+Seoul|National+Hangeul+Museum+Seoul|Leeum+Museum+of+Art+Seoul|Maple+Tree+House+Seoul&travelmode=transit)

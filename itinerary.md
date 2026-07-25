@@ -10,7 +10,7 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 ## BEFORE YOU GO — Booking Checklist
 
 ### Book 30+ days ahead
-- [ ] DMZ Tour (Aug 13) — book through authorized operator (Klook, KKday, or VIPTravel). ~65,000-80,000 KRW/person. Bring passports on the day.
+- [ ] DMZ Tour (Aug 13) — book through authorized operator (Klook, KKday, or VIPTravel). ~65,000-80,000 KRW/person. Bring passports on the day. **Book ~1 month ahead** (floor ~2-3 weeks — all 6 passport numbers needed at booking; peak-August operators sell out). See the [DMZ tour options page](#dmz) (with vs. without the defector Q&A, min-age, must-knows).
 - [x] Flight Busan (PUS) → Taipei (TPE) (Aug 20, morning — dep ~9:00, arr Taipei ~10:30) — Tigerair Taiwan or Jeju Air, ~$70-130 USD/person one-way. Book on Skyscanner/Google Flights.
 - [ ] Everland or Lotte World tickets online (Aug 17) — 10-20% cheaper than gate price.
 

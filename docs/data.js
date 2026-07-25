@@ -395,7 +395,7 @@ const DAYS = [
     "title": "DMZ Morning + War Memorial + Itaewon/Hannam",
     "country": "korea",
     "summary": "DMZ Tour + War Memorial + Itaewon/Hannam",
-    "notes": "<strong>Transport:</strong> DMZ morning is a <strong>booked guided tour with hotel pickup/drop-off</strong> — no logistics on you. Afternoon (War Memorial → Itaewon/Hannam) is one subway ride + short walks.",
+    "notes": "<strong>Transport:</strong> DMZ morning is a <strong>booked guided tour with hotel pickup/drop-off</strong> — no logistics on you. Afternoon (War Memorial → Itaewon/Hannam) is one subway ride + short walks. <strong>Which DMZ tour?</strong> See the <a href=\"#dmz\" target=\"_blank\">DMZ tour options page</a> — compares the tour with vs. without the North Korean defector Q&A, confirms all three kids clear the minimum age, and lists the passport/dress-code/booking must-knows. <strong>Book ~1 month ahead</strong> (peak August; passport numbers required at booking).",
     "badges": [],
     "maps": [
       {
@@ -2576,7 +2576,7 @@ const CHECKLIST = [
   {
     "id": "dmz-tour-aug-13-book-through",
     "category": "Book 30+ days ahead",
-    "text": "DMZ Tour (Aug 13) — book through authorized operator (Klook, KKday, or VIPTravel). ~65,000-80,000 KRW/person. Bring passports on the day."
+    "text": "DMZ Tour (Aug 13) — book through authorized operator (Klook, KKday, or VIPTravel). ~65,000-80,000 KRW/person. Bring passports on the day. <strong>Book ~1 month ahead</strong> (floor ~2-3 weeks — all 6 passport numbers needed at booking; peak-August operators sell out). See the <a href=\"#dmz\" target=\"_blank\">DMZ tour options page</a> (with vs. without the defector Q&A, min-age, must-knows)."
   },
   {
     "id": "flight-busan-pus-taipei-tpe-aug",
