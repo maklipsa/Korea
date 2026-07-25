@@ -922,6 +922,7 @@ Add-ons to the existing Jeonju entries.
 - [★★★☆☆ 🎡📸🧒 Italian Village Pinocchio & Da Vinci (Gapyeong)](https://www.google.com/maps/search/Italian+Village+Pinocchio+Gapyeong) — Collodi-Foundation-partnered Pinocchio theme village next to Petite France; 12,000/10,000 KRW, combo with Petite France. Quirky photo-op add-on.
 - [★★★☆☆ 🗼📸 Soyanggang Skywalk (Chuncheon)](https://www.google.com/maps/search/Soyanggang+Skywalk+Chuncheon) — Glass-floor pedestrian bridge over the Soyang River; free/nominal shoe-cover fee. 20–30 min photo stop, good for the "scary-floor" thrill.
 - [★★☆☆☆ 🌳 Soyang Dam (Chuncheon)](https://www.google.com/maps/search/Soyang+Dam+Chuncheon) — One of Asia's largest dams; free viewing platform + dam-top walk. Only worth a stop if already nearby for Skywalk/Legoland.
+- [★★★★☆ 🏛️🏯🧒 Kim Yu-jeong Literary Village](https://www.google.com/maps/search/Kim+Yujeong+Literary+Village+Chuncheon) — Restored birth home + exhibition hall of beloved 1930s short-story writer Gim Yu-jeong (school-curriculum famous), plus adjoining Museum of Books & Printing. **Right at Gimyujeong Station where the Gangchon Rail Bike starts — zero detour.** Summer 09:30–18:00, closed Mon (Aug 15 = Sat, open), 2,000 KRW elementary+. The one culture stop on an otherwise nature/activity day. 📅 **Day 5 (Aug 15)**
 
 ### Andong — UNESCO Hahoe & Confucian Heartland
 
