@@ -560,7 +560,10 @@ def stamp_asset_versions():
         asset = docs / name
         if not asset.exists():
             continue
-        digest = hashlib.sha1(asset.read_bytes()).hexdigest()[:8]
+        # Normalize CRLF->LF so the hash is identical on Windows and the
+        # Linux CI runner (otherwise committed stamps churn against CI).
+        raw = asset.read_bytes().replace(b"\r\n", b"\n")
+        digest = hashlib.sha1(raw).hexdigest()[:8]
         pattern = re.compile(
             r'((?:href|src)=")' + re.escape(name) + r'(?:\?v=[0-9a-f]+)?(")'
         )
