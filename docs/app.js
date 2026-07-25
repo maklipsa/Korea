@@ -52,7 +52,8 @@ function toggleCheckItem(id) {
 function updateChecklistUI() {
   document.querySelectorAll('.checklist-item').forEach(el => {
     const id = el.dataset.id;
-    const checked = !!checklistState[id];
+    // data-done items are permanently checked, independent of stored state.
+    const checked = el.dataset.done === 'true' || !!checklistState[id];
     el.classList.toggle('checked', checked);
     const cb = el.querySelector('input[type="checkbox"]');
     if (cb) cb.checked = checked;
@@ -108,6 +109,7 @@ function renderContent() {
   document.querySelectorAll('.checklist-item').forEach(el => {
     el.addEventListener('click', (e) => {
       if (e.target.tagName === 'A') return;
+      if (el.dataset.done === 'true') return; // permanently done — locked
       toggleCheckItem(el.dataset.id);
     });
   });
@@ -130,7 +132,11 @@ function renderOverview() {
   for (const [cat, items] of Object.entries(categories)) {
     checklistHTML += `<h3>${cat}</h3><div class="checklist">`;
     items.forEach(item => {
-      checklistHTML += `<div class="checklist-item" data-id="${item.id}"><input type="checkbox" tabindex="-1"><span class="checklist-text">${item.text}</span></div>`;
+      // item.done = marked [x] in the Markdown: permanently checked + locked.
+      const doneAttr = item.done ? ' data-done="true"' : '';
+      const doneClass = item.done ? ' checked' : '';
+      const checkedAttr = item.done ? ' checked' : '';
+      checklistHTML += `<div class="checklist-item${doneClass}" data-id="${item.id}"${doneAttr}><input type="checkbox" tabindex="-1"${checkedAttr}><span class="checklist-text">${item.text}</span></div>`;
     });
     checklistHTML += '</div>';
   }

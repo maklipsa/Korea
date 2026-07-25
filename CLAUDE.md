@@ -73,6 +73,8 @@ Hand-written HTML in `app.js` (**not** generated, edit directly): Packing tab, C
 
 `firebase-config.js` = optional Realtime Database sync for the checklist; empty falls back to `localStorage`. No real secrets.
 
+**Checklist "done" state:** a booking-checklist item marked `- [x]` in `itinerary.md` is treated as **permanently done** — the site force-checks it and locks it (can't be un-ticked), independent of the per-user Firebase/`localStorage` toggle state. Use `- [x]` only for things truly booked; leave `- [ ]` for anything travelers should still tick off themselves.
+
 ## Working style
 
 - **Overpack every day.** This family moves fast and would rather skip a stop on the spot than under-plan and miss out. Build each day to ~1.5–2× what a typical visitor does; keep the extra stops in and mark the lowest-priority ones as the natural things to drop if a day runs long. Do NOT thin days down to a "normal" pace — flag tight timing and name what to cut, but leave the density in.

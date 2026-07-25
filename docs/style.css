@@ -344,6 +344,10 @@ main {
 
 .checklist-item:hover { background: var(--gray-50); }
 
+/* Permanently-done items ([x] in the Markdown) are locked, not clickable. */
+.checklist-item[data-done] { cursor: default; }
+.checklist-item[data-done] input[type="checkbox"] { cursor: default; }
+
 .checklist-item.checked {
   background: var(--gray-50);
   opacity: 0.6;

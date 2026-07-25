@@ -141,14 +141,20 @@ def parse_checklist():
         if st.startswith("### "):
             category = re.split(r"\s*\(", st[4:])[0].strip()  # drop "(see ...)"
             continue
-        m = re.match(r"-\s*\[[ xX]\]\s*(.+)", st)
+        m = re.match(r"-\s*\[([ xX])\]\s*(.+)", st)
         if m:
-            text = md_inline(m.group(1))
-            cid = slugify(m.group(1))
+            done = m.group(1).lower() == "x"
+            text = md_inline(m.group(2))
+            cid = slugify(m.group(2))
             while cid in seen:
                 cid += "-x"
             seen.add(cid)
-            items.append({"id": cid, "category": category, "text": text})
+            item = {"id": cid, "category": category, "text": text}
+            if done:
+                # [x] in the Markdown = permanently done: the app force-checks
+                # and locks these, independent of Firebase/localStorage state.
+                item["done"] = True
+            items.append(item)
     return items
 
 

@@ -2586,7 +2586,8 @@ const CHECKLIST = [
   {
     "id": "flight-busan-pus-taipei-tpe-aug",
     "category": "Book 30+ days ahead",
-    "text": "Flight Busan (PUS) → Taipei (TPE) (Aug 20, morning — dep ~9:00, arr Taipei ~10:30) — Tigerair Taiwan or Jeju Air, ~$70-130 USD/person one-way. Book on Skyscanner/Google Flights."
+    "text": "Flight Busan (PUS) → Taipei (TPE) (Aug 20, morning — dep ~9:00, arr Taipei ~10:30) — Tigerair Taiwan or Jeju Air, ~$70-130 USD/person one-way. Book on Skyscanner/Google Flights.",
+    "done": true
   },
   {
     "id": "everland-or-lotte-world-tickets-online",
