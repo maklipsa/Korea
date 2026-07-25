@@ -15,6 +15,10 @@ on:
       - 'days/*.md'
       - 'annotate_places.py'
       - 'generate_site_data.py'
+      # asset edits change their content hash → re-stamp index.html
+      - 'docs/app.js'
+      - 'docs/style.css'
+      - 'docs/firebase-config.js'
 
 permissions:
   contents: write
@@ -43,10 +47,10 @@ jobs:
 
       - name: Commit if changed
         run: |
-          if [ -n "$(git status --porcelain places.md docs/data.js)" ]; then
+          if [ -n "$(git status --porcelain places.md docs/data.js docs/index.html)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add places.md docs/data.js
+            git add places.md docs/data.js docs/index.html
             git commit -m "chore: annotate places.md visit days + regenerate docs/data.js"
             git push
           else
