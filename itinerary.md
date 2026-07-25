@@ -20,7 +20,7 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 
 ### Buy before departure
 - [ ] **eSIM** — Airalo, Saily, or Holafly. Get a plan that covers both Korea AND Taiwan, or buy separate ones. Holafly has unlimited data ~$19-47 depending on duration.
-- [ ] **Travel insurance** — August = typhoon season in Taiwan. Strongly recommended.
+- [x] **Travel insurance** — August = typhoon season in Taiwan. Strongly recommended.
 - [ ] **K-ETA** (Korea entry authorization) — verify whether your passport's temporary exemption is still in effect for 2026 at [k-eta.go.kr](https://www.k-eta.go.kr). If not exempt, apply ≥72h before departure.
 - [ ] **Taiwan arrival card** — fill online at [niaspeedy.immigration.gov.tw](https://niaspeedy.immigration.gov.tw) within 3 days of arrival, OR on the plane.
 

@@ -2607,7 +2607,8 @@ const CHECKLIST = [
   {
     "id": "travel-insurance-august-typhoon-season-in",
     "category": "Buy before departure",
-    "text": "<strong>Travel insurance</strong> — August = typhoon season in Taiwan. Strongly recommended."
+    "text": "<strong>Travel insurance</strong> — August = typhoon season in Taiwan. Strongly recommended.",
+    "done": true
   },
   {
     "id": "k-eta-korea-entry-authorization-verify",
