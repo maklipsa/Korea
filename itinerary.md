@@ -44,7 +44,7 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 | 2 | Aug 12 (Wed) | Palaces + Seochon + Insadong + Gwangjang Market | [aug-12-palaces-seochon.md](days/aug-12-palaces-seochon.md) |
 | 3 | Aug 13 (Thu) | DMZ Tour + War Memorial + Itaewon/Hannam | [aug-13-dmz-itaewon.md](days/aug-13-dmz-itaewon.md) |
 | 4 | Aug 14 (Fri) | Hongdae + Yeonnam + Mangwon (animals, weird ice cream, busking) | [aug-14-hongdae-yeonnam.md](days/aug-14-hongdae-yeonnam.md) |
-| 5 | Aug 15 (Sat) | Liberation Day: Nami Island + Gapyeong (zip-line, rail bike) | [aug-15-nami-island.md](days/aug-15-nami-island.md) |
+| 5 | Aug 15 (Sat) | Liberation Day: Nami Island + Gapyeong (zip-line, Soyang Lake temple ferry) | [aug-15-nami-island.md](days/aug-15-nami-island.md) |
 | 6 | Aug 16 (Sun) | Myeongdong + Namsan Tower + Namdaemun + Euljiro | [aug-16-myeongdong-namsan.md](days/aug-16-myeongdong-namsan.md) |
 | 7 | Aug 17 (Mon) | Lotte World + Seoul Sky + Songnidan-gil | [aug-17-lotte-world.md](days/aug-17-lotte-world.md) |
 | 8 | Aug 18 (Tue) | Seoul Forest + Seongsu + COEX → KTX to Busan | [aug-18-seoul-to-busan.md](days/aug-18-seoul-to-busan.md) |

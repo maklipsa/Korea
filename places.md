@@ -877,10 +877,12 @@ Must book through authorized tour company. Bring passports.
 
 ### Nami Island + Gapyeong Area (~50 min by ITX train)
 
-- [★★★★★ 🌳🚡🧒 Nami Island](https://www.google.com/maps/search/Nami+Island+Gapyeong) — Metasequoia Alley; bike rentals; Sky Bikes (elevated pedal cars); craft workshops (glass blowing, ceramic painting); free-roaming ostriches, peacocks, rabbits; ZIP-LINE ENTRY across the river 📅 **Day 5 (Aug 15)**
-- [★★★★☆ 🚡🧒 Gangchon Rail Bike](https://www.google.com/maps/search/Gangchon+Rail+Bike+Gapyeong) — Pedal-powered rail cars through scenic valleys and tunnels; 8km; extremely popular with families 📅 **Day 5 (Aug 15)**
+- [★★★★★ 🌳🚡🧒 Nami Island](https://www.google.com/maps/search/Nami+Island+Gapyeong) — Metasequoia Alley; bike rentals; Sky Bikes (elevated pedal cars); craft workshops (glass blowing, ceramic painting); free-roaming ostriches, peacocks, rabbits; [ZIP-LINE ENTRY](https://www.google.com/maps/search/Nami+Island+Zipwire+Gapyeong) across the river (140cm+ / 35–120kg — all three kids clear the height) 📅 **Day 5 (Aug 15)**
+- [★★★★☆ 🏯🌊🚡🧒 Cheongpyeongsa Temple (Soyang Lake ferry)](https://www.google.com/maps/search/Cheongpyeongsa+Temple+Chuncheon) — Scenic ~10-min ferry across Soyang Lake, then a ~15–20 min forest walk past Guseong Waterfall to a serene mountain temple founded 973 AD (Goryeo). Boat + waterfall + real history 📅 **Day 5 (Aug 15)**
+- [★★★★☆ 🚡🧒 Gangchon Rail Bike](https://www.google.com/maps/search/Gangchon+Rail+Bike+Gapyeong) — Pedal-powered rail cars through scenic valleys and tunnels; 8km; extremely popular with families 📅 *near Day 5 (Aug 15)*
 - [★★★☆☆ 🌳 Garden of Morning Calm](https://www.google.com/maps/search/Garden+of+Morning+Calm+Gapyeong) — Beautiful botanical garden; winter lighting festival 📅 **Day 5 (Aug 15)**
-- [★★★☆☆ 📸🧒 Petite France](https://www.google.com/maps/search/Petite+France+Gapyeong) — French-themed cultural village; marionettes, music boxes; kitschy but fun for kids 📅 **Day 5 (Aug 15)**
+- [★★★★☆ 🚡📸🧒 Samaksan Lake Cable Car (Chuncheon)](https://www.google.com/maps/search/Samaksan+Lake+Cable+Car+Chuncheon) — Korea's longest cable car (3.61km) gliding over Uiamho Lake, with glass-floor "crystal" cabins and a summit skywalk. Genuine scenic thrill in the day's ride theme; sits east of Gimyujeong = no westward backtrack. ~09:00–20:00 (seasonal). Round-trip: regular 24,000 / child 18,000; crystal 28,000 / child 22,000 KRW 📅 **Day 5 (Aug 15)**
+- [★★★★☆ 🏛️🧒 Chuncheon National Museum](https://www.google.com/maps/search/Chuncheon+National+Museum+Chuncheon) — Free national museum of Gangwon-do history with a dedicated children's museum; calm, air-conditioned real-culture stop. 09:00–18:00, closed Mon (Aug 15 = Sat, open). East toward Chuncheon = no backtrack 📅 **Day 5 (Aug 15)**
 
 ---
 
