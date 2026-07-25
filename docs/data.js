@@ -195,6 +195,11 @@ const DAYS = [
         "price": "Palace 3,000 + garden 5,000 (adult); youth 7-18: 1,500 + 2,500"
       },
       {
+        "time": "14:00",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Jongmyo+Shrine+Seoul\" target=\"_blank\">★★★★☆ 🏯 Jongmyo Shrine</a></strong> — UNESCO Confucian royal shrine, directly south of Changdeokgung. Open Wed; entry by <strong>timed guided tour only</strong> (English 10:00/12:00/14:00/16:00, ~60 min), closed Tue. <span style=\"color:red\">⚠️ <strong>Needs a pre-booked guided-tour slot</strong> — no free self-guided entry on a Wed (that's only Sat & the last Wed of the month). Book ahead and pick a slot that doesn't overlap the Changdeokgung Secret Garden tour — e.g. take Jongmyo at 14:00, then Secret Garden's 15:30 English tour.</span>",
+        "price": "1,000 (adult); under-19 & 65+ free"
+      },
+      {
         "time": "15:30",
         "activity": "<strong><a href=\"https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul\" target=\"_blank\">★★★★★ 🚶📸 Bukchon Hanok Village</a></strong> — 600+ traditional houses. Photo-friendly hillside streets. <strong>Tourist curfew in the Red Zone (Bukchon-ro 11-gil): 17:00–10:00, 100,000 KRW fine.</strong> Stay quiet, leave the famous photo street by 17:00.",
         "price": "Free"
@@ -238,11 +243,6 @@ const DAYS = [
             "name": "★★★☆☆ 🏯 Jogyesa Temple",
             "url": "https://www.google.com/maps/search/Jogyesa+Temple+Seoul",
             "desc": "Main Zen Buddhist temple; giant ancient trees and ornate lanterns"
-          },
-          {
-            "name": "★★★★☆ 🏯 Jongmyo Shrine",
-            "url": "https://www.google.com/maps/search/Jongmyo+Shrine+Seoul",
-            "desc": "UNESCO Confucian royal shrine; open Wed but <strong>timed guided tour only</strong> (English 10:00/12:00/14:00/16:00); closed Tue. Free self-guided entry only on Sat & the last Wed of the month"
           },
           {
             "name": "<del>★☆☆☆☆ 🏯 Cheongwadae (former Blue House)</del>",
