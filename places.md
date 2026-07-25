@@ -357,7 +357,7 @@ Quiet, charming neighborhood west of Gyeongbokgung — old bookstores, coin lunc
 - [★★★★☆ 🏛️🎨 Nam June Paik Art Center](https://www.google.com/maps/search/Nam+June+Paik+Art+Center+Yongin) — Public art center for Korea's video-art pioneer in a landmark grand-piano-curve glass building; media-art collection + bold rotating shows. Free (specials may charge), all kids free; Tue–Sun 10:00–18:00 (Jul–Aug to 19:00), closed Mon. Giheung Stn (Bundang Line/EverLine) + short bus/taxi; ~30 min from Everland — pair for a "Yongin art day."
 - [★★★★★ 🎡🧒 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul) — Inside Seoul (Jamsil Station); world's largest indoor park; better for rainy days or shorter visits 📅 **Day 7 (Aug 17)**
 - [★★★☆☆ 🎡🧒 Seoul Land](https://www.google.com/maps/search/Seoul+Land+Gwacheon) — Korea's first large-scale theme park; ~50 rides; most kid-friendly option
-- [★★★★☆ 🎡🧒 LEGOLAND Korea](https://www.google.com/maps/search/LEGOLAND+Korea+Chuncheon) — Clean, well-organized, packed with activities for children
+- [★★★★☆ 🎡🧒 LEGOLAND Korea](https://www.google.com/maps/search/LEGOLAND+Korea+Chuncheon) — ✅ **VISITED** — Clean, well-organized, packed with activities for children
 
 #### Other Full-Day Activities
 - [★★★★☆ 🏯🎨🧒 Korean Folk Village (Yongin)](https://www.google.com/maps/search/Korean+Folk+Village+Yongin) — 245-acre open-air museum; 260+ traditional houses, live performances (tightrope walking, martial arts), horseback riding, pottery; 5-6 hours
@@ -917,7 +917,7 @@ Add-ons to the existing Jeonju entries.
 - [★★★☆☆ 🎡♨️ Caribbean Bay (Yongin)](https://www.google.com/maps/search/Caribbean+Bay+Yongin) — Water park adjacent to Everland, an ideal antidote to August heat; combo ticket with Everland. ~50,000–55,000 KRW alone (verify). Half-day swap if the Everland day runs long and hot.
 
 ### More — Gapyeong / Chuncheon (2026 Research Additions)
-- [★★★★☆ 🎡🧒 Legoland Korea Resort](https://www.google.com/maps/search/Legoland+Korea+Chuncheon) — Korea's only LEGOLAND, on an island in Chuncheon; 7 themed zones, ~40 rides (opened 2022). ~47,000–54,000 KRW (verify; some weekday off-season closures). Strong pull for the 9/11-year-olds. *(Also referenced under the Everland day-options above.)*
+- [★★★★☆ 🎡🧒 Legoland Korea Resort](https://www.google.com/maps/search/Legoland+Korea+Chuncheon) — ✅ **VISITED** — Korea's only LEGOLAND, on an island in Chuncheon; 7 themed zones, ~40 rides (opened 2022). ~47,000–54,000 KRW (verify; some weekday off-season closures). Strong pull for the 9/11-year-olds. *(Also referenced under the Everland day-options above.)*
 - [★★★★☆ 🍜 Chuncheon Myeongdong Dakgalbi Street](https://www.google.com/maps/search/Chuncheon+Dakgalbi+Street+Chuncheon) — The 150m alley that invented Chuncheon-style spicy stir-fried chicken; communal grill-table format is fun for six. ~13,000–15,000 KRW/person. Queues at peak dinner.
 - [★★★☆☆ 🎡📸🧒 Italian Village Pinocchio & Da Vinci (Gapyeong)](https://www.google.com/maps/search/Italian+Village+Pinocchio+Gapyeong) — Collodi-Foundation-partnered Pinocchio theme village next to Petite France; 12,000/10,000 KRW, combo with Petite France. Quirky photo-op add-on.
 - [★★★☆☆ 🗼📸 Soyanggang Skywalk (Chuncheon)](https://www.google.com/maps/search/Soyanggang+Skywalk+Chuncheon) — Glass-floor pedestrian bridge over the Soyang River; free/nominal shoe-cover fee. 20–30 min photo stop, good for the "scary-floor" thrill.
