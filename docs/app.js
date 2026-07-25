@@ -101,6 +101,8 @@ function renderContent() {
     main.innerHTML = renderCards();
   } else if (activeTab === 'places') {
     main.innerHTML = renderPlaces();
+  } else if (activeTab === 'dmz') {
+    main.innerHTML = renderDmz();
   } else {
     const day = DAYS.find(d => d.id === activeTab);
     if (day) main.innerHTML = renderDay(day);
@@ -479,6 +481,13 @@ function renderPlaces() {
     `<section class="card-doc" id="${p.id}"><h2 class="card-doc-title">${p.title}</h2>${p.html}</section>`
   ).join('');
   return `<div class="cards-page places-page">${intro}${nav}${sections}</div>`;
+}
+
+function renderDmz() {
+  if (typeof DMZ === 'undefined' || !DMZ) {
+    return '<div class="overview-section"><p>No DMZ data — run <code>python generate_site_data.py</code>.</p></div>';
+  }
+  return `<div class="cards-page"><section class="card-doc" id="dmz"><h2 class="card-doc-title">${DMZ.title}</h2>${DMZ.html}</section></div>`;
 }
 
 // === INIT ===

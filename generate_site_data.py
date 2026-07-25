@@ -20,6 +20,7 @@ ROOT = Path(__file__).parent
 ITINERARY = ROOT / "itinerary.md"
 PASSES_MD = ROOT / "passes.md"
 PLACES_MD = ROOT / "places.md"
+DMZ_MD = ROOT / "dmz.md"
 DAYS_DIR = ROOT / "days"
 OUT = ROOT / "docs" / "data.js"
 CARDS_DIR = ROOT / "cards"
@@ -547,6 +548,18 @@ def build_places():
     return sections
 
 
+# --- dmz.md -----------------------------------------------------------------
+# Standalone research page (its own top-level tab). Single rich-Markdown doc,
+# rendered with the same block-to-HTML converter as the card/place subsites.
+
+def build_dmz():
+    if not DMZ_MD.exists():
+        return None
+    text = DMZ_MD.read_text(encoding="utf-8")
+    title = next((md_plain(ln[2:]) for ln in text.splitlines() if ln.startswith("# ")), "DMZ")
+    return {"title": title, "html": render_card_markdown(text, {})}
+
+
 # --- emit -------------------------------------------------------------------
 
 def js_block(name, data):
@@ -587,6 +600,7 @@ def main():
     passes = parse_passes()
     cards = build_cards()
     places = build_places()
+    dmz = build_dmz()
 
     header = (
         "// === ITINERARY DATA ===\n"
@@ -599,12 +613,14 @@ def main():
         + js_block("CHECKLIST", checklist) + "\n\n"
         + js_block("PASSES", passes) + "\n\n"
         + js_block("CARDS", cards) + "\n\n"
-        + js_block("PLACES", places) + "\n",
+        + js_block("PLACES", places) + "\n\n"
+        + js_block("DMZ", dmz) + "\n",
         encoding="utf-8",
     )
     print(f"Wrote {OUT.relative_to(ROOT)}")
     print(f"  {len(days)} days, {len(checklist)} checklist items, "
-          f"{len(passes)} passes, {len(cards)} cards, {len(places)} place regions")
+          f"{len(passes)} passes, {len(cards)} cards, {len(places)} place regions, "
+          f"dmz={'yes' if dmz else 'no'}")
     stamp_asset_versions()
 
 
