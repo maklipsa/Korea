@@ -14,6 +14,8 @@ Each place is tagged with what it is — a place can carry more than one.
 
 **STEM & transport (real education, high priority — never 🤳):** 🔬 science & technology / STEM centers · 🏭 factory tours & industrial/mining heritage · 🚢 ships & maritime · 🚗 cars & automobile museums · 🚂 railway & heritage trains · ✈️ aviation & aerospace · 🔭 observatory / planetarium
 
+**Pass coverage:** 🎫 free admission on the **Discover Seoul Pass** (Seoul only; the pass's ~75 free-entry attractions — see [cards/seoul.md](cards/seoul.md) for whether the pass pays off). Marks free *entry* only — extras like the Namsan cable car, Nami zipline or Changdeokgung Secret Garden are still paid.
+
 ---
 
 ## KOREA — SEOUL
@@ -27,10 +29,10 @@ Seoul districts are grouped into walkable day combos.
 All walkable together — the historic heart of Seoul.
 
 #### Landmarks & Temples
-- [★★★★★ 🏯🎨 Gyeongbokgung Palace](https://www.google.com/maps/search/Gyeongbokgung+Palace+Seoul) — Grand main palace; royal guard ceremony daily at 10am and 2pm; free entry if wearing hanbok 📅 **Day 2 (Aug 12)**
-- [★★★★★ 🏯🌳 Changdeokgung Palace & Secret Garden](https://www.google.com/maps/search/Changdeokgung+Palace+Seoul) — UNESCO World Heritage; tours required for the Secret Garden 📅 **Day 2 (Aug 12)**
-- [★★★☆☆ 🏯 Changgyeonggung Palace](https://www.google.com/maps/search/Changgyeonggung+Palace+Seoul) — Less crowded palace, beautiful at night during seasonal illumination 📅 *near Day 2 (Aug 12)*
-- [★★★★☆ 🏯 Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) — UNESCO Confucian royal shrine 📅 **Day 2 (Aug 12)**
+- [★★★★★ 🏯🎨🎫 Gyeongbokgung Palace](https://www.google.com/maps/search/Gyeongbokgung+Palace+Seoul) — Grand main palace; royal guard ceremony daily at 10am and 2pm; free entry if wearing hanbok 📅 **Day 2 (Aug 12)**
+- [★★★★★ 🏯🌳🎫 Changdeokgung Palace & Secret Garden](https://www.google.com/maps/search/Changdeokgung+Palace+Seoul) — UNESCO World Heritage; tours required for the Secret Garden 📅 **Day 2 (Aug 12)**
+- [★★★☆☆ 🏯🎫 Changgyeonggung Palace](https://www.google.com/maps/search/Changgyeonggung+Palace+Seoul) — Less crowded palace, beautiful at night during seasonal illumination 📅 *near Day 2 (Aug 12)*
+- [★★★★☆ 🏯🎫 Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) — UNESCO Confucian royal shrine 📅 **Day 2 (Aug 12)**
 - [★★★☆☆ 🏯 Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) — Main Zen Buddhist temple; giant ancient trees and ornate lanterns 📅 *near Day 2 (Aug 12)*
 - [★★★★★ 🚶🏯 Bukchon Hanok Village](https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul) — 600+ traditional houses; **Red Zone (Bukchon-ro 11-gil) restricts tourists 17:00-10:00, enforced since Nov 2024, 100,000 KRW fine** 📅 **Day 2 (Aug 12)**
 - [~~★☆☆☆☆ 🏯 Cheongwadae (former Blue House)~~](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — ⚠️ CLOSED to the public since Aug 2025 (president moved back in); public tours suspended for 2026 — skip 📅 *near Day 2 (Aug 12)*
@@ -94,7 +96,7 @@ All walkable together — the historic heart of Seoul.
 Shopping, street food, city views, and hidden retro bars.
 
 #### Landmarks
-- [★★★★★ 🗼 N Seoul Tower (Namsan Tower)](https://www.google.com/maps/search/Namsan+Tower+Seoul) — Panoramic views; cable car ~15,000 won round-trip; 10am-11pm 📅 **Day 6 (Aug 16)**
+- [★★★★★ 🗼🎫 N Seoul Tower (Namsan Tower)](https://www.google.com/maps/search/Namsan+Tower+Seoul) — Panoramic views; cable car ~15,000 won round-trip; 10am-11pm 📅 **Day 6 (Aug 16)**
 - [★★★☆☆ 🚡 Namsan Cable Car](https://www.google.com/maps/search/Namsan+Cable+Car+Seoul) — Scenic 3-minute gondola ride 📅 **Day 6 (Aug 16)**
 - [★★★☆☆ 🏯 Namdaemun (Sungnyemun Gate)](https://www.google.com/maps/search/Namdaemun+Gate+Seoul) — National Treasure No. 1; the Great South Gate, built 1398 📅 **Day 6 (Aug 16)**
 - [★★☆☆☆ ⛪ Myeongdong Cathedral](https://www.google.com/maps/search/Myeongdong+Cathedral+Seoul) — Gothic cathedral (1898); Seoul's oldest parish church 📅 *near Day 6 (Aug 16)*
@@ -135,7 +137,7 @@ Shopping, street food, city views, and hidden retro bars.
 - [★★★★★ 🍜🛍️ Gwangjang Market](https://www.google.com/maps/search/Gwangjang+Market+Seoul) — See above (borders Dongdaemun) 📅 **Day 2 (Aug 12)**
 
 #### Kid-Friendly
-- ★★★★★ 🗼 N Seoul Tower — Digital observatory, love lock terrace
+- ★★★★★ 🗼🎫 N Seoul Tower — Digital observatory, love lock terrace
 - ★★★☆☆ 🚡 Namsan Cable Car ride
 - [★★☆☆☆ 🏛️🧒 Alive Museum Myeongdong](https://www.google.com/maps/search/Alive+Museum+Myeongdong+Seoul) — Trick-eye museum 📅 *near Day 6 (Aug 16)*
 - ★★★☆☆ 🏛️ DDP exhibitions — Rotating design/art inside DDP, many interactive (see DDP above) 📅 **Day 1 (Aug 11)**
@@ -185,7 +187,7 @@ Connected via Gyeongui Line Forest Park — indie culture, animal cafes, weird i
 #### Kid-Friendly
 - ★★★☆☆ ☕🧒 943 Kings Cross Harry Potter Cafe — 7 floors of wizarding world
 - ☕🐾🧒 Animal cafes (Table A, Meerkat Friends, Thanks Nature)
-- [★★☆☆☆ 📸🧒 Trickeye Museum (trick-art selfie spot) + Ice Museum](https://www.google.com/maps/search/Trickeye+Museum+Hongdae+Seoul) — Optical-illusion trick-art you pose inside for photos; fun kids' Instagram stop, **not a gallery/culture stop**; combo w/ Ice Museum; open 9am–9pm (last entry 8pm); ~15,000-18,000 won, free on Discover Seoul Pass 📅 *near Day 4 (Aug 14)*
+- [★★☆☆☆ 📸🧒🎫 Trickeye Museum (trick-art selfie spot) + Ice Museum](https://www.google.com/maps/search/Trickeye+Museum+Hongdae+Seoul) — Optical-illusion trick-art you pose inside for photos; fun kids' Instagram stop, **not a gallery/culture stop**; combo w/ Ice Museum; open 9am–9pm (last entry 8pm); ~15,000-18,000 won, free on Discover Seoul Pass 📅 *near Day 4 (Aug 14)*
 - 🎭 Street busking performances — Free entertainment weekend evenings
 - 🎨 Self-photo studios — Retro black-and-white photo booths throughout Hongdae
 
@@ -198,8 +200,8 @@ International vibe, world-class free museums, cool hillside alleys.
 #### Landmarks & Museums (all FREE)
 - [★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul) — Massive museum with outdoor tanks, planes, ships kids can climb on 📅 **Day 3 (Aug 13)**
 - [★★★★☆ 🏛️ National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul) — Giant Hall, Ten Storey Pagoda, Children's Museum; beautiful grounds 📅 **Day 3 (Aug 13)**
-- [★★★☆☆ 🏛️ Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) — Free world-class art museum 📅 **Day 3 (Aug 13)**
-- [★★★☆☆ 🏛️ MMCA National Museum of Modern and Contemporary Art](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) 📅 **Day 2 (Aug 12)** · *near Day 3 (Aug 13)*
+- [★★★☆☆ 🏛️🎫 Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) — Free world-class art museum 📅 **Day 3 (Aug 13)**
+- [★★★☆☆ 🏛️🎫 MMCA National Museum of Modern and Contemporary Art](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) 📅 **Day 2 (Aug 12)** · *near Day 3 (Aug 13)*
 
 #### Parks & Walks
 - ★★★☆☆ 🌳 Namsan Mountain trails (accessible from Itaewon side)
@@ -230,7 +232,7 @@ International vibe, world-class free museums, cool hillside alleys.
 #### Kid-Friendly
 - ★★★★☆ 🏛️🧒 War Memorial of Korea — Outdoor tanks, planes, ships to climb; FREE
 - ★★★★☆ 🏛️🧒 Children's Museum at National Museum of Korea — Interactive; FREE
-- ★★★☆☆ 🏛️ Leeum Samsung Museum — World-class art; FREE
+- ★★★☆☆ 🏛️🎫 Leeum Samsung Museum — World-class art; FREE
 - [★★☆☆☆ 🛍️ Book Park Blue Square](https://www.google.com/maps/search/Blue+Square+Seoul) — Children's zone; 50,000 books 📅 *near Day 3 (Aug 13)*
 - ★★☆☆☆ 🌳 Ichon Hangang Park — Bike riding along the Han River
 
@@ -244,7 +246,7 @@ Modern Seoul, container malls, weird cheesecake, and converted warehouses.
 - [★★★☆☆ 📸 Starfield Library (COEX Mall)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) — Towering bookshelves; free 📅 **Day 8 (Aug 18)**
 - [★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul) — Large Buddhist temple across from COEX; peaceful amidst skyscrapers 📅 **Day 8 (Aug 18)**
 - [★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul) — South Korea's first shipping container mall (Seongsu) 📅 **Day 8 (Aug 18)**
-- [★★★☆☆ 🏯 Seonjeongneung Royal Tombs](https://www.google.com/maps/search/Seonjeongneung+Royal+Tombs+Seoul) — UNESCO Joseon royal tombs in middle of Gangnam 📅 *near Day 8 (Aug 18)*
+- [★★★☆☆ 🏯🎫 Seonjeongneung Royal Tombs](https://www.google.com/maps/search/Seonjeongneung+Royal+Tombs+Seoul) — UNESCO Joseon royal tombs in middle of Gangnam 📅 *near Day 8 (Aug 18)*
 
 #### Parks
 - [★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul) — 400,000+ trees; deer feeding area, insect house, butterfly garden, playgrounds, rose garden 📅 **Day 8 (Aug 18)**
@@ -273,7 +275,7 @@ Modern Seoul, container malls, weird cheesecake, and converted warehouses.
 - [★★★☆☆ 🛍️ COEX Mall](https://www.google.com/maps/search/COEX+Mall+Seoul) — Underground mega-mall
 
 #### Kid-Friendly
-- [★★★☆☆ 🐾🧒 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) — Seoul's largest aquarium; sharks, rays, themed zones 📅 **Day 8 (Aug 18)**
+- [★★★☆☆ 🐾🧒🎫 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) — Seoul's largest aquarium; sharks, rays, themed zones 📅 **Day 8 (Aug 18)**
 - [★★☆☆☆ 🎡🧒 Vaunce Trampoline Park](https://www.google.com/maps/search/Vaunce+Trampoline+Park+Samseong+Seoul) — Korea's first trampoline park; 2-hour sessions 📅 *near Day 8 (Aug 18)*
 - ★★★☆☆ 🌳🧒 Seoul Forest Park — Deer feeding, insect house, butterfly garden, playgrounds
 - 🎨 Retro self-photo studios in Seongsu (Eternalog etc.) — B&W portrait booths ~4,000-6,000 won
@@ -287,7 +289,8 @@ Theme park day + trendy food street + lakeside stroll.
 
 #### Landmarks
 - [★★★★☆ 🗼 Lotte World Tower / Seoul Sky](https://www.google.com/maps/search/Lotte+World+Tower+Seoul) — 555m; Seoul Sky observation deck floors 117-123; glass floor 📅 **Day 7 (Aug 17)**
-- [★★★★★ 🎡🧒 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul) — Indoor/outdoor theme park; rides, shows, parades; world's largest indoor park 📅 **Day 7 (Aug 17)**
+- [★★★★☆ 🏛️🎨🎫 LOTTE Museum of Art (LOMA)](https://www.google.com/maps/search/Lotte+Museum+of+Art+Seoul) — Contemporary-art museum on 7F of Avenuel/Lotte World Tower (same complex as Lotte World); ambitious international shows. Open daily 10:30–19:00 (last entry 18:30); ~20,000 KRW adult / 13,000 youth (13–18) & child (3–12), **free on the Discover Seoul Pass**; a perfect AC art break on the theme-park day. 📅 **Day 7 (Aug 17)**
+- [★★★★★ 🎡🧒🎫 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul) — Indoor/outdoor theme park; rides, shows, parades; world's largest indoor park 📅 **Day 7 (Aug 17)**
 - [★★☆☆☆ 🌳 Seokchon Lake](https://www.google.com/maps/search/Seokchon+Lake+Seoul) — Scenic lake; cherry blossoms in spring 📅 **Day 7 (Aug 17)**
 - [★★☆☆☆ 🌳 Olympic Park](https://www.google.com/maps/search/Olympic+Park+Seoul) — 1988 Seoul Olympics site; massive green space, art sculptures, Peace Gate 📅 *near Day 7 (Aug 17)*
 
@@ -302,7 +305,7 @@ Theme park day + trendy food street + lakeside stroll.
 - [★★☆☆☆ 🍜 Bangi-dong Food Alley (Bangimatol)](https://www.google.com/maps/search/Bangimatol+Bangi+Seoul) — "Gourmet street" packed with top restaurants 📅 *near Day 7 (Aug 17)*
 
 #### Kid-Friendly
-- ★★★★★ 🎡🧒 Lotte World Adventure — Theme park rides for all ages; indoor portion is weather-proof
+- ★★★★★ 🎡🧒🎫 Lotte World Adventure — Theme park rides for all ages; indoor portion is weather-proof
 - ★★★★☆ 🗼 Seoul Sky — Glass-floor observation deck at 500m; highest in Korea
 - [★★★☆☆ 🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) — 90+ career role-plays for ages 4-14 📅 **Day 7 (Aug 17)**
 - ★★☆☆☆ 🌳 Seokchon Lake pedal boats — Seasonal
@@ -352,15 +355,15 @@ Quiet, charming neighborhood west of Gyeongbokgung — old bookstores, coin lunc
 ### Full-Day Option: Everland or Korean Folk Village
 
 #### Theme Parks
-- [★★★★★ 🎡🧒 Everland](https://www.google.com/maps/search/Everland+Yongin) — Korea's largest theme park (~1 hour from Seoul); T Express (steepest wooden coaster), Zootopia zoo, Caribbean Bay water park; best for thrill seekers and a full day
+- [★★★★★ 🎡🧒🎫 Everland](https://www.google.com/maps/search/Everland+Yongin) — Korea's largest theme park (~1 hour from Seoul); T Express (steepest wooden coaster), Zootopia zoo, Caribbean Bay water park; best for thrill seekers and a full day
 - [★★★★☆ 🏛️🎨🌳 Ho-Am Museum of Art & Hee Won Garden](https://www.google.com/maps/search/Ho-Am+Museum+of+Art+Yongin) — The Samsung founder's private collection (same Leeum/Samsung foundation) of Korean traditional + modern art beside Hee Won, a classical Korean garden with permanent Lee Ufan installations — right by Everland. Tue–Sun 10:00–18:00 (last ticket 17:00), closed Mon; 100% advance online reservation (leeumhoam.org); admission varies by show (~10,000 KRW adult, youth discounts — verify tiers). Fold into the Everland/Caribbean Bay full-day.
 - [★★★★☆ 🏛️🎨 Nam June Paik Art Center](https://www.google.com/maps/search/Nam+June+Paik+Art+Center+Yongin) — Public art center for Korea's video-art pioneer in a landmark grand-piano-curve glass building; media-art collection + bold rotating shows. Free (specials may charge), all kids free; Tue–Sun 10:00–18:00 (Jul–Aug to 19:00), closed Mon. Giheung Stn (Bundang Line/EverLine) + short bus/taxi; ~30 min from Everland — pair for a "Yongin art day."
-- [★★★★★ 🎡🧒 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul) — Inside Seoul (Jamsil Station); world's largest indoor park; better for rainy days or shorter visits 📅 **Day 7 (Aug 17)**
-- [★★★☆☆ 🎡🧒 Seoul Land](https://www.google.com/maps/search/Seoul+Land+Gwacheon) — Korea's first large-scale theme park; ~50 rides; most kid-friendly option
+- [★★★★★ 🎡🧒🎫 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul) — Inside Seoul (Jamsil Station); world's largest indoor park; better for rainy days or shorter visits 📅 **Day 7 (Aug 17)**
+- [★★★☆☆ 🎡🧒🎫 Seoul Land](https://www.google.com/maps/search/Seoul+Land+Gwacheon) — Korea's first large-scale theme park; ~50 rides; most kid-friendly option
 - [★★★★☆ 🎡🧒 LEGOLAND Korea](https://www.google.com/maps/search/LEGOLAND+Korea+Chuncheon) — ✅ **VISITED** — Clean, well-organized, packed with activities for children
 
 #### Other Full-Day Activities
-- [★★★★☆ 🏯🎨🧒 Korean Folk Village (Yongin)](https://www.google.com/maps/search/Korean+Folk+Village+Yongin) — 245-acre open-air museum; 260+ traditional houses, live performances (tightrope walking, martial arts), horseback riding, pottery; 5-6 hours
+- [★★★★☆ 🏯🎨🧒🎫 Korean Folk Village (Yongin)](https://www.google.com/maps/search/Korean+Folk+Village+Yongin) — 245-acre open-air museum; 260+ traditional houses, live performances (tightrope walking, martial arts), horseback riding, pottery; 5-6 hours
 - [★★★☆☆ 🌳🐾🧒 Children's Grand Park](https://www.google.com/maps/search/Childrens+Grand+Park+Seoul) — FREE; zoo, botanical garden, children's museum, playgrounds, splash pad
 - [★★★☆☆ 🌳 Bukhansan National Park](https://www.google.com/maps/search/Bukhansan+National+Park+Seoul) — Within Seoul; hike to Baegundae Peak (836m); 5-6 hours for full hike
 
@@ -387,8 +390,8 @@ Quiet, charming neighborhood west of Gyeongbokgung — old bookstores, coin lunc
 Places surfaced in a deep research pass, grouped by category rather than by day-combo. Verify seasonal/closed-day notes before slotting in. **Aug note:** Liberation Day (Aug 15) = free entry + big crowds at palaces/national museums; outdoor picks best early-AM or after 16:00; the national museums + Botanic Park greenhouse are the midday heat/rain refuges.
 
 #### A. History & Heritage
-- [★★★★☆ 🏯 Deoksugung Palace](https://www.google.com/maps/search/Deoksugung+Palace+Seoul) — Seoul's only palace mixing traditional halls with a Western stone building (Seokjojeon), beside City Hall Plaza. 9:00–21:00 (last entry 20:00), closed Mon (a handy backup — Gyeongbokgung closes Tue). 1,000 KRW, free under 19 / in hanbok. Guard change at Daehanmun 11:00/14:00/15:30. Adjoins the Doldam-gil stone-wall path + SeMA. 📅 **Day 6 (Aug 16)**
-- [★★★★☆ 🏛️🏯 Seodaemun Prison History Hall & Independence Park](https://www.google.com/maps/search/Seodaemun+Prison+History+Hall+Seoul) — Restored Japanese-colonial prison (torture/execution grounds preserved) — Seoul's most powerful modern-history stop for kids 9+. Tue–Sun 9:30–18:00, closed Mon; ~3,000 KRW / 1,500 teen. Content is intense — gauge for the 9-year-old.
+- [★★★★☆ 🏯🎫 Deoksugung Palace](https://www.google.com/maps/search/Deoksugung+Palace+Seoul) — Seoul's only palace mixing traditional halls with a Western stone building (Seokjojeon), beside City Hall Plaza. 9:00–21:00 (last entry 20:00), closed Mon (a handy backup — Gyeongbokgung closes Tue). 1,000 KRW, free under 19 / in hanbok. Guard change at Daehanmun 11:00/14:00/15:30. Adjoins the Doldam-gil stone-wall path + SeMA. 📅 **Day 6 (Aug 16)**
+- [★★★★☆ 🏛️🏯🎫 Seodaemun Prison History Hall & Independence Park](https://www.google.com/maps/search/Seodaemun+Prison+History+Hall+Seoul) — Restored Japanese-colonial prison (torture/execution grounds preserved) — Seoul's most powerful modern-history stop for kids 9+. Tue–Sun 9:30–18:00, closed Mon; ~3,000 KRW / 1,500 teen. Content is intense — gauge for the 9-year-old.
 - [★★★☆☆ 🏯🚶 Namsangol Hanok Village](https://www.google.com/maps/search/Namsangol+Hanok+Village+Seoul) — Five restored hanok + traditional garden at the foot of Namsan; free, less-crowded alternative to Bukchon. 9:00–21:00 (Mar–Oct), closed Mon; free weekend hanbok/craft events (verify). Easy combo with N Seoul Tower.
 - [★★★☆☆ 🏯 Gyeonghuigung Palace](https://www.google.com/maps/search/Gyeonghuigung+Palace+Seoul) — Seoul's "5th grand palace," the only one with FREE admission. Most of the site is now the Seoul Museum of History next door — do both. 9:00–18:00, closed Mon. Small (15–20 min), good heat-of-day filler.
 - [★★★☆☆ 🏯 Sungkyunkwan Confucian Shrine (Munmyo)](https://www.google.com/maps/search/Sungkyunkwan+Confucian+Shrine+Seoul) — 600-year-old Confucian academy/shrine on the university campus, 400-year-old gingko trees. Free; ~9:00–18:00. Quiet; low kid-engagement unless K-drama fans; 15-min walk from Naksan/Ihwa.
@@ -416,12 +419,12 @@ Places surfaced in a deep research pass, grouped by category rather than by day-
 
 #### E. Nature & Parks
 - [★★★★☆ 🌳🌊 Seonyudo Park](https://www.google.com/maps/search/Seonyudo+Park+Seoul) — A disused Han River water-purification plant reimagined as a free island botanical park; old filtration tanks now hold hanging gardens/reflecting pools — quieter/moodier than the mainland Hangang parks. Pedestrian bridge from Hapjeong/Dangsan; 6:00–24:00, free. 📅 **Day 4 (Aug 14)**
-- [★★★☆☆ 🌳 Seoul Botanic Park (Magok)](https://www.google.com/maps/search/Seoul+Botanic+Park) — 50-ha park with a huge AC glass greenhouse (plant zones from 12 world cities) — a genuine heat/rain refuge. Open zones free/24h; greenhouse 9:30–18:00, closed Mon, ~5,000/3,000/2,000 KRW. Far west (Magok, Line 9/5).
+- [★★★☆☆ 🌳🎫 Seoul Botanic Park (Magok)](https://www.google.com/maps/search/Seoul+Botanic+Park) — 50-ha park with a huge AC glass greenhouse (plant zones from 12 world cities) — a genuine heat/rain refuge. Open zones free/24h; greenhouse 9:30–18:00, closed Mon, ~5,000/3,000/2,000 KRW. Far west (Magok, Line 9/5).
 - [★★★☆☆ 🌳🗼 Achasan](https://www.google.com/maps/search/Achasan+Seoul) — Compact 287m mountain with 1,500-year-old Baekje/Goguryeo fortress ruins and a Han River/Jamsil sunset view, far less crowded than Namsan. Free, ~1–1.5hr round trip from Achasan Stn (Line 5); some rocky scrambling near the top.
 
 #### F. Theme Parks & Family
-- [★★★★☆ 🐾🧒 Seoul Grand Park Zoo](https://www.google.com/maps/search/Seoul+Grand+Park+Zoo) — Korea's largest zoo (Gwacheon, Line 4), separate admission from the adjoining Seoul Land, linked by a free Sky Lift. ~5,000 KRW range — verify price/exhibit closures. Pairs with the Science Museum above for a full day.
-- [★★★☆☆ 🚡🌊 Han River Cruise (E-Land, Yeouido)](https://www.google.com/maps/search/Han+River+Cruise+Yeouido+Seoul) — 60–90 min sightseeing boat past the bridges/skyline — a sit-down option when the steps have caught up. Sunset/night cruises can be timed with the Banpo Fountain. Book online; confirm 2026 timetable/prices.
+- [★★★★☆ 🐾🧒🎫 Seoul Grand Park Zoo](https://www.google.com/maps/search/Seoul+Grand+Park+Zoo) — Korea's largest zoo (Gwacheon, Line 4), separate admission from the adjoining Seoul Land, linked by a free Sky Lift. ~5,000 KRW range — verify price/exhibit closures. Pairs with the Science Museum above for a full day.
+- [★★★☆☆ 🚡🌊🎫 Han River Cruise (E-Land, Yeouido)](https://www.google.com/maps/search/Han+River+Cruise+Yeouido+Seoul) — 60–90 min sightseeing boat past the bridges/skyline — a sit-down option when the steps have caught up. Sunset/night cruises can be timed with the Banpo Fountain. Book online; confirm 2026 timetable/prices.
 
 #### G. Markets & Street Food
 - [★★★☆☆ 🛍️☕ Gyeongdong Market & Starbucks Gyeongdong 1960](https://www.google.com/maps/search/Gyeongdong+Market+Seoul) — Seoul's biggest traditional/herbal market (Jegi-dong), now also famous for a Starbucks built inside a defunct 1960s theater (tiered seats/stage intact, weekend performances). Pair with Yangnyeongsi.
@@ -465,14 +468,14 @@ A second, more niche pass — galleries, extra mountains, specialty food streets
 - [★★★★☆ 📷🏛️ Photography Seoul Museum of Art (Photo SeMA)](https://www.google.com/maps/search/Photography+Seoul+Museum+of+Art+Chang-dong+Seoul) — Korea's first **public museum devoted entirely to photography** (opened 2025), bold new building in Dobong (Chang-dong), 3 min from Chang-dong Stn (Lines 1 & 4). **"We Are Martin Parr" Jul 16–Oct 18, 2026** (major Magnum retrospective). Weekdays 10:00–20:00, Sat/Sun/holidays 10:00–19:00 (summer), last entry 1h before close, closed Mon; **admission free**. Direct Line 4 down to Myeongdong. 📅 **Day 6 (Aug 16)**
 - [~~★☆☆☆☆ 🏛️ Korean Film Archive & Museum (DMC)~~](https://www.google.com/maps/search/Korean+Film+Archive+Sangam+Seoul) — ⚠️ SKIP — seen it, not worth the trip out to Sangam/DMC. (Was: free Korean-cinema exhibit + Cinematheque KOFA ₩3,000–5,000, Tue–Sat 10:30–19:00.) 📅 *near Day 4 (Aug 14)*
 - [★★★☆☆ 🏛️🎨 Amorepacific Museum of Art (APMA)](https://www.google.com/maps/search/Amorepacific+Museum+of+Art+Yongsan+Seoul) — Free rotating contemporary art in the David Chipperfield-designed HQ, Yongsan. Tue–Sun 10:00–18:00, closed Mon. Current show ends ~Aug 2, 2026 — check for the next one.
-- [★★★★☆ 🏛️🎨 Ilmin Museum of Art](https://www.google.com/maps/search/Ilmin+Museum+of+Art+Seoul) — Contemporary-art museum in the historic Dong-A Ilbo building at Gwanghwamun; ambitious thematic shows. Tue–Sun 10:00–18:00, closed Mon; adult 9,000 / student 7,000 won (under 6 free).
+- [★★★★☆ 🏛️🎨🎫 Ilmin Museum of Art](https://www.google.com/maps/search/Ilmin+Museum+of+Art+Seoul) — Contemporary-art museum in the historic Dong-A Ilbo building at Gwanghwamun; ambitious thematic shows. Tue–Sun 10:00–18:00, closed Mon; adult 9,000 / student 7,000 won (under 6 free).
 - [★★★★☆ 🏛️🎨 Kumho Museum of Art](https://www.google.com/maps/search/Kumho+Museum+of+Art+Seoul) — Contemporary-art museum next to Gallery Hyundai in Sagan-dong (Kumho Asiana). Tue–Sun 10:00–18:00, closed Mon; often free / small fee.
 - [★★★☆☆ 🏛️🎨 OCI Museum of Art](https://www.google.com/maps/search/OCI+Museum+of+Art+Seoul) — Free contemporary-art museum in Susong-dong behind Jogyesa. Tue–Sun 10:00–18:00, closed Mon; free.
 - [★★★★☆ 🏛️🎨 SONGEUN Art and Cultural Foundation](https://www.google.com/maps/search/SONGEUN+Art+Cultural+Foundation+Seoul) — Free contemporary art in a dramatic Herzog & de Meuron concrete building, Cheongdam. Mon–Sat 11:00–19:00, closed Sun (verify); free.
 - [★★★★☆ 🏛️🎨 K Museum of Contemporary Art](https://www.google.com/maps/search/K+Museum+of+Contemporary+Art+Seoul) — Gangnam's largest art museum (6 floors, Seolleung); immersive/media-driven contemporary shows. 10:00–19:00, closed Mon; ~15,000 won (student/child discounts).
 - [★★★★☆ 🏛️🎨 SOMA — Seoul Olympic Museum of Art](https://www.google.com/maps/search/SOMA+Seoul+Olympic+Museum+of+Art) — Contemporary-art museum + outdoor sculpture park in Olympic Park (Songpa). Tue–Sun 10:00–18:00 (last entry 17:00), free (some paid shows). ⚠️ **Closed Mon — so NOT Aug 17 (Mon);** the sculpture grounds stay open if just passing through.
 - [★★★★★ 🎨📷 piknic](https://www.google.com/maps/search/piknic+Seoul) — Cult art/design/photography space in a converted 1970s building near Namsan/Seoul Station (hosted Saul Leiter & Ryuichi Sakamoto shows); superb rooftop. Tue–Sun 10:00–18:00 (last entry 17:00), closed Mon; ~15,000 won, timed tickets — **verify the Aug 2026 show & book ahead.** ⚠️ Day-1 option **only if done straight from the airport (AREX → Seoul Station) *before* hotel check-in** — near the AREX terminus; otherwise skip on arrival day. 📅 **Day 1 (Aug 11)**
-- [★★★★☆ 🏛️🎨 Space K Seoul](https://www.google.com/maps/search/Space+K+Seoul+Magok) — Free contemporary-art museum (Kolon) with a curving grass-roofed building, Magok. ~10:00–18:00, closed Mon (verify); free. ⚠️ Far west (Gangseo) — off-route for the Gangnam/Seongsu days.
+- [★★★★☆ 🏛️🎨🎫 Space K Seoul](https://www.google.com/maps/search/Space+K+Seoul+Magok) — Free contemporary-art museum (Kolon) with a curving grass-roofed building, Magok. ~10:00–18:00, closed Mon (verify); free. ⚠️ Far west (Gangseo) — off-route for the Gangnam/Seongsu days.
 - [★★★★☆ 🏛️🎨 Whanki Museum (Buam-dong)](https://www.google.com/maps/search/Whanki+Museum+Seoul) — Museum to abstract master Kim Whanki in an award-winning building by Kyu Sung Woo (Kim Swoo-geun Prize 1994); reopened after 2024–25 renovation. 10:00–18:00 (last 17:00), closed Mon; admission varies by show (~₩12,000–18,000 adult, student/youth discount) — verify. Buam-dong, bus from Gyeongbokgung.
 - [★★★★☆ 🏛️🎨 Kansong Art Museum (Bohwagak)](https://www.google.com/maps/search/Kansong+Art+Museum+Seoul) — Korea's first private museum; unrivaled classical-painting collection (Sin Yun-bok, Jeong Seon) + national treasures. ⚠️ Opens ONLY for spring & autumn special exhibitions (~45 days each) — **expect CLOSED in August**; verify 2026 dates. Seongbuk-dong, Hansung Univ Stn.
 - [★★★☆☆ 🏛️🎨 Seoul Museum & Seokpajeong (Buam-dong)](https://www.google.com/maps/search/Seokpajeong+Seoul+Museum) — Private museum of Korean modern & classical painting beside a 19th-c. hanok villa garden (Heungseon Daewongun's Seokpajeong). Summer 11:00–18:00 (wknd to 19:00), closed Mon; ~₩9,000 adult / ₩5,000 student, combo w/ villa ~₩11,000. Pair with Whanki.
@@ -521,14 +524,14 @@ A second, more niche pass — galleries, extra mountains, specialty food streets
 - [★★★☆☆ 🏛️🌳 Seoul City Hall & Green Wall](https://www.google.com/maps/search/Seoul+City+Hall) — 2012 glass "wave" building (iArc) over the 1926 old city hall; free lobby with a 7-story indoor vertical garden. City Hall Stn.
 
 #### E. Folk & Ethnographic Museums
-- [★★★★☆ 🏛️🧒 Museum Kimchikan](https://www.google.com/maps/search/Museum+Kimchikan+Insadong+Seoul) — Interactive kimchi & fermentation museum in Insadong; microscopes, kimchi-making + tasting, big kid-draw. Tue–Sun 10:00–18:00 (last 17:30), closed Mon; ~5,000 won, youth 7–18 discount, under-3 free.
-- [★★★★☆ 🏛️🎨🧒 Gahoe Museum (Minhwa & amulets)](https://www.google.com/maps/search/Gahoe+Museum+Bukchon+Seoul) — Bukchon folk-painting (minhwa) & shamanic-talisman museum with hands-on painting. Mar–Nov 10:00–18:00; ~5,000 won (or ₩10,000 Bukchon 5-museum pass).
+- [★★★★☆ 🏛️🧒🎫 Museum Kimchikan](https://www.google.com/maps/search/Museum+Kimchikan+Insadong+Seoul) — Interactive kimchi & fermentation museum in Insadong; microscopes, kimchi-making + tasting, big kid-draw. Tue–Sun 10:00–18:00 (last 17:30), closed Mon; ~5,000 won, youth 7–18 discount, under-3 free.
+- [★★★★☆ 🏛️🎨🧒🎫 Gahoe Museum (Minhwa & amulets)](https://www.google.com/maps/search/Gahoe+Museum+Bukchon+Seoul) — Bukchon folk-painting (minhwa) & shamanic-talisman museum with hands-on painting. Mar–Nov 10:00–18:00; ~5,000 won (or ₩10,000 Bukchon 5-museum pass).
 - [★★★☆☆ 🏛️🎨 Han Sangsu Embroidery Museum](https://www.google.com/maps/search/Han+Sangsu+Embroidery+Museum+Bukchon+Seoul) — Traditional Korean embroidery (jasu) by an intangible-heritage master, Bukchon; hands-on stitching. ~10:00–17:00; 2,000 won (workshop +3,000), or Bukchon 5-museum pass.
 - [★★★☆☆ 🏛️🎨 Dong-Lim Knot Museum](https://www.google.com/maps/search/Dong-Lim+Knot+Museum+Bukchon+Seoul) — Traditional Korean knot-craft (maedeup) museum + workshop, Bukchon. Adult 2,000 / child 1,000 won, or Bukchon 5-museum pass.
 - [★★★☆☆ 🏛️ Museum of Korean Buddhist Art](https://www.google.com/maps/search/Museum+of+Korean+Buddhist+Art+Bukchon+Seoul) — Folk & ritual Buddhist art/objects in Bukchon; part of the ₩10,000 5-museum pass. Verify hours (closed day varies).
 - [★★★☆☆ 🏛️🧒🤪 Owl Art & Craft Museum](https://www.google.com/maps/search/Owl+Art+and+Craft+Museum+Samcheong+Seoul) — Quirky Samcheong-dong museum of owl folk-art & crafts from 70+ countries; small, kid-friendly. Small fee; verify hours.
 - [★★★☆☆ 🏛️🧒 Tteok (Rice Cake) Museum](https://www.google.com/maps/search/Tteok+Museum+Jongno+Seoul) — Korean rice-cake heritage + ~2,000 antique kitchen/ceremonial utensils, Jongno; hands-on tteok-making (Institute of Traditional Korean Food). 10:00–18:00; modest fee — verify closed day.
-- [★★★★☆ 🏛️🧒 Museum of Korea Straw & Plants Handicraft](https://www.google.com/maps/search/Museum+of+Korea+Straw+and+Plants+Handicraft+Seoul) — Private museum of straw/plant-fiber folk objects from old rural life (tools, sandals, toys, ritual items), by Sungkyunkwan/Hyehwa. 10:00–17:00 (last 16:00); small fee — verify open days.
+- [★★★★☆ 🏛️🧒🎫 Museum of Korea Straw & Plants Handicraft](https://www.google.com/maps/search/Museum+of+Korea+Straw+and+Plants+Handicraft+Seoul) — Private museum of straw/plant-fiber folk objects from old rural life (tools, sandals, toys, ritual items), by Sungkyunkwan/Hyehwa. 10:00–17:00 (last 16:00); small fee — verify open days.
 - [★★★★☆ 🏛️🏯 Korea Furniture Museum](https://www.google.com/maps/search/Korea+Furniture+Museum+Seongbuk+Seoul) — Ten hillside hanok showing traditional Korean furniture in situ, Seongbuk-dong; acclaimed but reservation-only guided tour. Tue–Fri 11:00–19:00, Sat 9:00–18:00, closed Sun/Mon; ₩20,000/person — book ahead, off-route (dedicated slot).
 - [★★★☆☆ 🏛️ Museum of Shamanism](https://www.google.com/maps/search/Museum+of+Shamanism+Seongbuk+Seoul) — Korea's first shamanism museum (gut ritual objects, shrine paintings), Seongbuk-gu; the ethnography behind Inwangsan's shrines. Free but very limited hours (≈Tue & Fri only, AM+PM) — confirm by phone; off-route.
 - [★★★★☆ 🏛️🧒 Onyang Folk Museum (Asan)](https://www.google.com/maps/search/Onyang+Folk+Museum+Asan) — One of Korea's largest private folk museums (~20,000 items of traditional daily life, rites, crafts) + grounds, Asan. Mar–Oct 9:30–18:00, closed Mon; adult 5,000 / teen 4,000 / child 3,000 won. ⚠️ KTX Cheonan-Asan + bus — dedicated day, pairs with Independence Hall.
@@ -877,12 +880,12 @@ Must book through authorized tour company. Bring passports.
 
 ### Nami Island + Gapyeong Area (~50 min by ITX train)
 
-- [★★★★★ 🌳🚡🧒 Nami Island](https://www.google.com/maps/search/Nami+Island+Gapyeong) — Metasequoia Alley; bike rentals; Sky Bikes (elevated pedal cars); craft workshops (glass blowing, ceramic painting); free-roaming ostriches, peacocks, rabbits; [ZIP-LINE ENTRY](https://www.google.com/maps/search/Nami+Island+Zipwire+Gapyeong) across the river (140cm+ / 35–120kg — all three kids clear the height) 📅 **Day 5 (Aug 15)**
+- [★★★★★ 🌳🚡🧒🎫 Nami Island](https://www.google.com/maps/search/Nami+Island+Gapyeong) — Metasequoia Alley; bike rentals; Sky Bikes (elevated pedal cars); craft workshops (glass blowing, ceramic painting); free-roaming ostriches, peacocks, rabbits; [ZIP-LINE ENTRY](https://www.google.com/maps/search/Nami+Island+Zipwire+Gapyeong) across the river (140cm+ / 35–120kg — all three kids clear the height) 📅 **Day 5 (Aug 15)**
 - [★★★★☆ 🏯🌊🚡🧒 Cheongpyeongsa Temple (Soyang Lake ferry)](https://www.google.com/maps/search/Cheongpyeongsa+Temple+Chuncheon) — Scenic ~10-min ferry across Soyang Lake, then a ~15–20 min forest walk past Guseong Waterfall to a serene mountain temple founded 973 AD (Goryeo). Boat + waterfall + real history 📅 **Day 5 (Aug 15)**
 - [★★★★☆ 🚡🧒 Gangchon Rail Bike](https://www.google.com/maps/search/Gangchon+Rail+Bike+Gapyeong) — Pedal-powered rail cars through scenic valleys and tunnels; 8km; extremely popular with families 📅 *near Day 5 (Aug 15)*
 - [★★★☆☆ 🌳 Garden of Morning Calm](https://www.google.com/maps/search/Garden+of+Morning+Calm+Gapyeong) — Beautiful botanical garden; winter lighting festival 📅 **Day 5 (Aug 15)**
-- [★★★★☆ 🚡📸🧒 Samaksan Lake Cable Car (Chuncheon)](https://www.google.com/maps/search/Samaksan+Lake+Cable+Car+Chuncheon) — Korea's longest cable car (3.61km) gliding over Uiamho Lake, with glass-floor "crystal" cabins and a summit skywalk. Genuine scenic thrill in the day's ride theme; sits east of Gimyujeong = no westward backtrack. ~09:00–20:00 (seasonal). Round-trip: regular 24,000 / child 18,000; crystal 28,000 / child 22,000 KRW
-- [★★★★☆ 🏛️🧒 Chuncheon National Museum](https://www.google.com/maps/search/Chuncheon+National+Museum+Chuncheon) — Free national museum of Gangwon-do history with a dedicated children's museum; calm, air-conditioned real-culture stop. 09:00–18:00, closed Mon (Aug 15 = Sat, open). East toward Chuncheon = no backtrack
+- [★★★★☆ 🚡📸🧒 Samaksan Lake Cable Car (Chuncheon)](https://www.google.com/maps/search/Samaksan+Lake+Cable+Car+Chuncheon) — Korea's longest cable car (3.61km) gliding over Uiamho Lake, with glass-floor "crystal" cabins and a summit skywalk. Genuine scenic thrill in the day's ride theme; sits in Chuncheon right on the ITX line home = no westward backtrack like Garden of Morning Calm. ~09:00–20:00 (seasonal). Round-trip: regular 24,000 / child 18,000; crystal 28,000 / child 22,000 KRW 📅 **Day 5 (Aug 15)**
+- [★★★★☆ 🏛️🧒 Chuncheon National Museum](https://www.google.com/maps/search/Chuncheon+National+Museum+Chuncheon) — Free national museum of Gangwon-do history with a dedicated children's museum; calm, air-conditioned real-culture stop. 09:00–18:00, last entry 17:30, closed Mon (Aug 15 = Sat, open). In Chuncheon on the way home = no backtrack 📅 **Day 5 (Aug 15)**
 
 ---
 
@@ -924,7 +927,7 @@ Add-ons to the existing Jeonju entries.
 ### More — Gapyeong / Chuncheon (2026 Research Additions)
 - [★★★★☆ 🎡🧒 Legoland Korea Resort](https://www.google.com/maps/search/Legoland+Korea+Chuncheon) — ✅ **VISITED** — Korea's only LEGOLAND, on an island in Chuncheon; 7 themed zones, ~40 rides (opened 2022). ~47,000–54,000 KRW (verify; some weekday off-season closures). Strong pull for the 9/11-year-olds. *(Also referenced under the Everland day-options above.)*
 - [★★★★☆ 🍜 Chuncheon Myeongdong Dakgalbi Street](https://www.google.com/maps/search/Chuncheon+Dakgalbi+Street+Chuncheon) — The 150m alley that invented Chuncheon-style spicy stir-fried chicken; communal grill-table format is fun for six. ~13,000–15,000 KRW/person. Queues at peak dinner.
-- [★★★☆☆ 🎡📸🧒 Italian Village Pinocchio & Da Vinci (Gapyeong)](https://www.google.com/maps/search/Italian+Village+Pinocchio+Gapyeong) — Collodi-Foundation-partnered Pinocchio theme village next to Petite France; 12,000/10,000 KRW, combo with Petite France. Quirky photo-op add-on.
+- [★★☆☆☆ 🎡📸🧒 Italian Village Pinocchio & Da Vinci (Gapyeong)](https://www.google.com/maps/search/Italian+Village+Pinocchio+Gapyeong) — Collodi-Foundation-partnered Pinocchio theme village in Gapyeong; 12,000/10,000 KRW. Quirky photo-op add-on — same kitsch-village genre we're skipping, kept here as catalog-only.
 - [★★★☆☆ 🗼📸 Soyanggang Skywalk (Chuncheon)](https://www.google.com/maps/search/Soyanggang+Skywalk+Chuncheon) — Glass-floor pedestrian bridge over the Soyang River; free/nominal shoe-cover fee. 20–30 min photo stop, good for the "scary-floor" thrill.
 - [★★☆☆☆ 🌳 Soyang Dam (Chuncheon)](https://www.google.com/maps/search/Soyang+Dam+Chuncheon) — One of Asia's largest dams; free viewing platform + dam-top walk. Only worth a stop if already nearby for Skywalk/Legoland.
 - [★★★★☆ 🏛️🏯🧒 Kim Yu-jeong Literary Village](https://www.google.com/maps/search/Kim+Yujeong+Literary+Village+Chuncheon) — Restored birth home + exhibition hall of beloved 1930s short-story writer Gim Yu-jeong (school-curriculum famous), plus adjoining Museum of Books & Printing. **Right at Gimyujeong Station where the Gangchon Rail Bike starts — zero detour.** Summer 09:30–18:00, closed Mon (Aug 15 = Sat, open), 2,000 KRW elementary+. The one culture stop on an otherwise nature/activity day. 📅 **Day 5 (Aug 15)**
@@ -1025,7 +1028,7 @@ A second, wider pass — deeper picks in the towns above plus entirely new desti
 - [★★★☆☆ 🌉 Majang Lake Suspension Bridge](https://www.google.com/maps/search/Majang+Lake+Suspension+Bridge+Paju) — 220m swaying pedestrian bridge over a reservoir, cafes nearby; free entry (parking fee); summer 9:00–18:00. A manageable thrill for the 9/11-year-olds. ~40–50 min from Seoul.
 
 #### Gapyeong
-- [★★★☆☆ 🌳 Jade Garden Arboretum](https://www.google.com/maps/search/Jade+Garden+Gapyeong) — Themed botanical garden with greenhouses and cafes; ~13,000–15,000 KRW adult. A relaxed half-day amid the busier Nami/Petite France stops.
+- [★★★☆☆ 🌳 Jade Garden Arboretum](https://www.google.com/maps/search/Jade+Garden+Gapyeong) — Themed botanical garden with greenhouses and cafes; ~13,000–15,000 KRW adult. A relaxed half-day amid the busier Nami / Garden of Morning Calm stops.
 
 #### Icheon
 - [★★★☆☆ 🎨 Icheon Ceramics Village (Sagimakgol)](https://www.google.com/maps/search/Icheon+Ceramics+Village) — Dozens of working potters' studios/galleries with hands-on wheel-throwing classes for kids (~20,000–30,000 KRW/person); pairs with the World Ceramics Center. ~1h from Seoul.

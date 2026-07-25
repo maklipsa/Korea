@@ -1,7 +1,7 @@
 # Aug 17 (Mon) — LOTTE WORLD DAY (Museums closed = perfect)
 > Badges: pass:Seoul Pass still active; closed:Museums closed Mon
 
-Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
+Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays. **Exception: LOTTE Museum of Art (LOMA)** — open daily, right in the Lotte World Tower complex and **free on the Discover Seoul Pass** — the one art stop that still works today.
 
 **Discover Seoul Pass still active** — covers **Lotte World Adventure** (verified on discoverseoulpass.com). It does **NOT** cover Seoul Sky, so that observatory is a separate paid ticket.
 
@@ -21,10 +21,11 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays.
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 10:00 | **[★★★★★ 🎡🧒 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul)** — Start with the indoor section (world's largest indoor park — great for August heat!). Then outdoor rides. | DSP covers it, else gate: child 50k / teen(13-18) 58k / adult 67k KRW |
+| 10:00 | **[★★★★★ 🎡🧒🎫 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul)** — Start with the indoor section (world's largest indoor park — great for August heat!). Then outdoor rides. | DSP covers it, else gate: child 50k / teen(13-18) 58k / adult 67k KRW |
 | 13:00 | Lunch inside Lotte World. |  |
 | 13:30 | *(Optional kids' pick — adjacent Lotte World complex, 4F; drop first if the park runs long.)* **[★★★☆☆ 🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil)** — Kid-sized role-play city: 90+ jobs (pilot, surgeon, firefighter, news anchor) for ages 4–14, a huge hit with the 9 & 11-yo. It's a 3–4h commitment, so treat it as a **trade** for the afternoon Lotte World session (or buy a separate ticket), not an add-on. | ~35,000 KRW (verify age tiers) |
 | 15:00 | **[★★★★☆ 🗼🧒 Seoul Sky](https://www.google.com/maps/search/Lotte+World+Tower+Seoul)** — Glass-floor observation deck at 500m on Lotte World Tower (floors 117-123). Highest in Korea. | child(3-12) 27k / adult(13+) 31k KRW |
+| 16:00 | *(Optional AC art break — 7F of the Avenuel/Lotte World Tower complex, open Mon; drop if the park + Seoul Sky already filled the day.)* **[★★★★☆ 🏛️🎨🎫 LOTTE Museum of Art (LOMA)](https://www.google.com/maps/search/Lotte+Museum+of+Art+Seoul)** — Contemporary-art museum with ambitious international shows; open daily 10:30–19:00 (last entry 18:30). | DSP covers it, else ~20,000 adult / 13,000 youth & child KRW |
 | 17:00 | Walk around **[★★☆☆☆ 🌳🚶 Seokchon Lake](https://www.google.com/maps/search/Seokchon+Lake+Seoul)** — Scenic lake surrounding Lotte World. |  |
 | 18:00 | **Songnidan-gil** — Trendy food street south of the lake. |  |
 | 18:30 | Cafe: [★★☆☆☆ ☕ Mountain Nook](https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul) (forest-themed mega-cafe) or [★★☆☆☆ ☕ Bontemps](https://www.google.com/maps/search/Bontemps+Songnidan+Seoul) (Korean twisted donuts). |  |
