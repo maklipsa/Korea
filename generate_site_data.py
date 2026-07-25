@@ -11,6 +11,7 @@ Run after editing any of the Markdown files:
 Pure standard library, no dependencies.
 """
 
+import hashlib
 import json
 import re
 from pathlib import Path
@@ -22,6 +23,14 @@ PLACES_MD = ROOT / "places.md"
 DAYS_DIR = ROOT / "days"
 OUT = ROOT / "docs" / "data.js"
 CARDS_DIR = ROOT / "cards"
+INDEX_HTML = ROOT / "docs" / "index.html"
+
+# Local assets referenced in index.html to cache-bust with a content hash.
+# The site is fronted by Cloudflare, which edge-caches these and hands browsers
+# a long Browser Cache TTL (~4h). index.html itself is not hard-cached, so
+# stamping a ?v=<hash> that changes only when the file changes lets a new
+# index.html point at fresh asset URLs and bypass both caches instantly.
+VERSIONED_ASSETS = ("style.css", "firebase-config.js", "data.js", "app.js")
 
 # Acronyms to keep uppercase when title-casing an ALL-CAPS heading.
 ACRONYMS = {
@@ -538,6 +547,31 @@ def js_block(name, data):
     return f"const {name} = " + json.dumps(data, indent=2, ensure_ascii=False) + ";"
 
 
+def stamp_asset_versions():
+    """Rewrite ?v=<hash> cache-busting query strings on local asset refs in
+    index.html. Call AFTER data.js is written so its hash reflects the new
+    content. Idempotent: strips any existing ?v= and re-appends the current
+    content hash, so a no-op run leaves index.html untouched."""
+    if not INDEX_HTML.exists():
+        return
+    html = original = INDEX_HTML.read_text(encoding="utf-8")
+    docs = INDEX_HTML.parent
+    for name in VERSIONED_ASSETS:
+        asset = docs / name
+        if not asset.exists():
+            continue
+        digest = hashlib.sha1(asset.read_bytes()).hexdigest()[:8]
+        pattern = re.compile(
+            r'((?:href|src)=")' + re.escape(name) + r'(?:\?v=[0-9a-f]+)?(")'
+        )
+        html = pattern.sub(rf'\g<1>{name}?v={digest}\g<2>', html)
+    if html != original:
+        INDEX_HTML.write_text(html, encoding="utf-8")
+        print(f"Stamped asset versions in {INDEX_HTML.relative_to(ROOT)}")
+    else:
+        print("Asset versions already current in index.html")
+
+
 def main():
     days = build_days()
     checklist = parse_checklist()
@@ -562,6 +596,7 @@ def main():
     print(f"Wrote {OUT.relative_to(ROOT)}")
     print(f"  {len(days)} days, {len(checklist)} checklist items, "
           f"{len(passes)} passes, {len(cards)} cards, {len(places)} place regions")
+    stamp_asset_versions()
 
 
 if __name__ == "__main__":
