@@ -10,7 +10,6 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 ## BEFORE YOU GO — Booking Checklist
 
 ### Book 30+ days ahead
-- [ ] KTX Seoul → Busan (Aug 18, ~14:00) — book at [letskorail.com](https://www.letskorail.com) or Korail Talk app. Standard class ~59,800 KRW/person. August = peak season, sells out.
 - [ ] DMZ Tour (Aug 13) — book through authorized operator (Klook, KKday, or VIPTravel). ~65,000-80,000 KRW/person. Bring passports on the day.
 - [x] Flight Busan (PUS) → Taipei (TPE) (Aug 20, morning — dep ~9:00, arr Taipei ~10:30) — Tigerair Taiwan or Jeju Air, ~$70-130 USD/person one-way. Book on Skyscanner/Google Flights.
 - [ ] Everland or Lotte World tickets online (Aug 17) — 10-20% cheaper than gate price.
@@ -19,6 +18,7 @@ Taiwan: Aug 20-29 (8 nights, Taipei + Taichung + Tainan + Kaohsiung)
 - [ ] Haeundae Blueline Park Sky Capsule (Aug 19) — timed tickets, **pre-book required**. Reservations open on a **Tuesday** ahead of the ride date; sources disagree on the exact window (≈2–4 weeks out), so **check [bluelinepark.com](https://www.bluelinepark.com) / Klook now and book the instant Aug 19 appears**. Sells out in minutes in August; weekday is easier.
 
 ### Buy before departure
+- [ ] KTX Seoul → Busan (Aug 18, ~14:00) — **not urgent**: ~69 trains/day, one every 20–40 min, and Aug 18 is a normal Tuesday (no holiday), so no real sellout risk. Book a few days ahead on [letskorail.com](https://www.letskorail.com) / Korail app mainly to lock **6 seats together** on the ~14:00 train; buying at the station on the day is a fine fallback if you're flexible on departure. Standard class ~59,800 KRW/adult (child 4–12 ~50% off). Only book weeks ahead if the date shifts onto a Fri/weekend or near a holiday.
 - [ ] **eSIM** — Airalo, Saily, or Holafly. Get a plan that covers both Korea AND Taiwan, or buy separate ones. Holafly has unlimited data ~$19-47 depending on duration.
 - [x] **Travel insurance** — August = typhoon season in Taiwan. Strongly recommended.
 - [ ] **K-ETA** (Korea entry authorization) — verify whether your passport's temporary exemption is still in effect for 2026 at [k-eta.go.kr](https://www.k-eta.go.kr). If not exempt, apply ≥72h before departure.

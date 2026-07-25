@@ -2574,11 +2574,6 @@ const DAYS = [
 
 const CHECKLIST = [
   {
-    "id": "ktx-seoul-busan-aug-18-14",
-    "category": "Book 30+ days ahead",
-    "text": "KTX Seoul → Busan (Aug 18, ~14:00) — book at <a href=\"https://www.letskorail.com\" target=\"_blank\">letskorail.com</a> or Korail Talk app. Standard class ~59,800 KRW/person. August = peak season, sells out."
-  },
-  {
     "id": "dmz-tour-aug-13-book-through",
     "category": "Book 30+ days ahead",
     "text": "DMZ Tour (Aug 13) — book through authorized operator (Klook, KKday, or VIPTravel). ~65,000-80,000 KRW/person. Bring passports on the day."
@@ -2598,6 +2593,11 @@ const CHECKLIST = [
     "id": "haeundae-blueline-park-sky-capsule-aug",
     "category": "Book as early as possible",
     "text": "Haeundae Blueline Park Sky Capsule (Aug 19) — timed tickets, <strong>pre-book required</strong>. Reservations open on a <strong>Tuesday</strong> ahead of the ride date; sources disagree on the exact window (≈2–4 weeks out), so <strong>check <a href=\"https://www.bluelinepark.com\" target=\"_blank\">bluelinepark.com</a> / Klook now and book the instant Aug 19 appears</strong>. Sells out in minutes in August; weekday is easier."
+  },
+  {
+    "id": "ktx-seoul-busan-aug-18-14",
+    "category": "Buy before departure",
+    "text": "KTX Seoul → Busan (Aug 18, ~14:00) — <strong>not urgent</strong>: ~69 trains/day, one every 20–40 min, and Aug 18 is a normal Tuesday (no holiday), so no real sellout risk. Book a few days ahead on <a href=\"https://www.letskorail.com\" target=\"_blank\">letskorail.com</a> / Korail app mainly to lock <strong>6 seats together</strong> on the ~14:00 train; buying at the station on the day is a fine fallback if you're flexible on departure. Standard class ~59,800 KRW/adult (child 4–12 ~50% off). Only book weeks ahead if the date shifts onto a Fri/weekend or near a holiday."
   },
   {
     "id": "esim-airalo-saily-or-holafly-get",
