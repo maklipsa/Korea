@@ -1,15 +1,15 @@
-# DMZ Tour — Which One to Book
+# DMZ Tour — Booked: Standard Half-Day (Option B, no defector Q&A)
 
-**Purpose of this file:** the DMZ day (**Day 3 / Aug 13**) rides on one booked guided tour. This page compares the two tour styles worth booking, settles the minimum-age question for our kids (9, 11, 15), and lists the practical must-knows. Book through an authorized operator (Klook, KKday, Viator/GetYourGuide, VIP Travel, Trazy, or Cosmojin — Koridoor/USO exists but is JSA-oriented and pricier, skip it for a standard tour); the day itself is pickup → drop-off, no logistics on us.
+**Purpose of this file:** the DMZ day (**Day 3 / Aug 13**) rides on one booked guided tour. **Decision made — we're booking the standard half-day (Option B), *without* the North Korean defector Q&A.** This page keeps the A-vs-B comparison below for reference, settles the minimum-age question for our kids (9, 11, 15), and lists the practical must-knows. Book through an authorized operator (Klook, KKday, Viator/GetYourGuide, VIP Travel, Trazy, or Cosmojin — Koridoor/USO exists but is JSA-oriented and pricier, skip it for a standard tour); the day itself is pickup → drop-off, no logistics on us.
 
-> **TL;DR** — Two headline choices. **Option A** adds a 30-min **North Korean defector Q&A** (the thing reviewers rave about) for a full ~9-hour day. **Option B** is the **standard tour without the Q&A** — same headline sights (3rd Tunnel + Dora Observatory), cheaper, and available as a shorter **half-day**. If we're lukewarm on the Q&A, **Option B (half-day) is the better-value pick** and it frees the afternoon for the War Memorial cluster.
+> **✅ DECIDED — Option B: the standard half-day, no defector Q&A.** It covers the headline sights (**3rd Tunnel + Dora Observatory**), is the best-value pick, and frees the afternoon for the War Memorial cluster. We're **skipping** Option A's 30-min defector Q&A and its full ~9-hour day (that would return ~17:00 and kill the afternoon). Target a **morning half-day (~50,000–75,000 KRW/person)** with a no-forced-shopping listing.
 > **All three kids clear the age rule** for the standard tour — the 10–12 limit people cite is JSA-only, and **JSA is effectively closed** (see below). Everyone needs a **physical passport** on the day.
 
 ---
 
 ## The two options
 
-| | **Option A — with Defector Q&A** | **Option B — standard, no Q&A** |
+| | **Option A — with Defector Q&A** *(not chosen)* | **✅ Option B — standard, no Q&A (CHOSEN)** |
 |---|---|---|
 | Best for | The single most memorable add-on | Best value; keeps the afternoon free |
 | Rating | Consistently high-rated across operators (Viator / GetYourGuide / Klook) — check the specific listing's current rating & review count when booking | Well-reviewed standard circuit (multiple operators) |
@@ -28,7 +28,7 @@
 
 > **Half-day = core sights** (Imjingak + 3rd Tunnel + Dora Observatory, **usually** + Dorasan Station — but some half-days drop Dorasan, so confirm the stop list). The Gamaksan suspension bridge and Unification Village are **full-day-only** add-ons; a half-day (Option B, our pick) does **not** include them.
 
-**Which to pick?** Option A's differentiator is purely the defector conversation — reviewers consistently call it the moment that turns the day from sightseeing into first-hand oral history. Every *sight* (tunnel + observatory are why people go) is identical between the two. So the decision is simply: **is the 30-min Q&A worth a full 9-hour day and the price bump?** If yes → A. If we'd rather a tighter morning and get to the War Memorial + National Museum sooner → **B (half-day)**.
+**Our decision → Option B (standard half-day).** Option A's only differentiator is the 30-min defector conversation; every *sight* (tunnel + observatory, the reason people go) is identical between the two. We'd rather have the tighter morning and reach the War Memorial + National Museum sooner, so we're **skipping the Q&A and the full 9-hour day**. (If anyone later wants the defector Q&A badly enough to give up the afternoon museums, Option A is the fallback — but the plan is Option B.)
 
 ---
 
