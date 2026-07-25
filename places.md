@@ -30,7 +30,7 @@ All walkable together — the historic heart of Seoul.
 - [★★★★★ 🏯🎨 Gyeongbokgung Palace](https://www.google.com/maps/search/Gyeongbokgung+Palace+Seoul) — Grand main palace; royal guard ceremony daily at 10am and 2pm; free entry if wearing hanbok 📅 **Day 2 (Aug 12)**
 - [★★★★★ 🏯🌳 Changdeokgung Palace & Secret Garden](https://www.google.com/maps/search/Changdeokgung+Palace+Seoul) — UNESCO World Heritage; tours required for the Secret Garden 📅 **Day 2 (Aug 12)**
 - [★★★☆☆ 🏯 Changgyeonggung Palace](https://www.google.com/maps/search/Changgyeonggung+Palace+Seoul) — Less crowded palace, beautiful at night during seasonal illumination 📅 *near Day 2 (Aug 12)*
-- [★★★★☆ 🏯 Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) — UNESCO Confucian royal shrine 📅 *near Day 2 (Aug 12)*
+- [★★★★☆ 🏯 Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) — UNESCO Confucian royal shrine 📅 **Day 2 (Aug 12)**
 - [★★★☆☆ 🏯 Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) — Main Zen Buddhist temple; giant ancient trees and ornate lanterns 📅 *near Day 2 (Aug 12)*
 - [★★★★★ 🚶🏯 Bukchon Hanok Village](https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul) — 600+ traditional houses; **Red Zone (Bukchon-ro 11-gil) restricts tourists 17:00-10:00, enforced since Nov 2024, 100,000 KRW fine** 📅 **Day 2 (Aug 12)**
 - [~~★☆☆☆☆ 🏯 Cheongwadae (former Blue House)~~](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) — ⚠️ CLOSED to the public since Aug 2025 (president moved back in); public tours suspended for 2026 — skip 📅 *near Day 2 (Aug 12)*
