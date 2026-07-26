@@ -54,6 +54,7 @@ Animal cafes, weird ice cream, street performers — now anchored by real cultur
 - [★★☆☆☆ 📸🧒🎫 Trickeye Museum (trick-art selfie spot) + Ice Museum](https://www.google.com/maps/search/Trickeye+Museum+Hongdae+Seoul) — Optical-illusion trick-art you pose *inside* for photos — a fun Instagram stop for the 9 & 11-yr-olds, **not a real gallery/culture stop**. Combo w/ Ice Museum; open 9:00–21:00 (last entry 20:00); ~15,000–18,000 KRW, free on the Discover Seoul Pass; walk-in, ~8 min from Hongik Univ. Stn Exit 9.
 - [★★☆☆☆ 🛍️🧒 Hongdae Children's Playground](https://www.google.com/maps/search/Hongdae+Playground+Seoul) — Weekend flea market; street performers
 - [★★☆☆☆ 🌳 Mangwon Hangang Park](https://www.google.com/maps/search/Mangwon+Hangang+Park+Seoul) — Riverside cycling and picnics
+- [★★★☆☆ 🚢🧒🎫 Seoul Battleship Park](https://www.google.com/maps/search/Seoul+Battleship+Park+Mangwon+Seoul) — Retired ROK Navy warship + submarine turned floating naval museum, moored right at Mangwon Hangang Park — climb the decks and go inside; a strong kid stop already on this day's river cluster. ~3,000 KRW (free on the Discover Seoul Pass, but the pass isn't active until Aug 16). Verify hours; typically closed Mon (Aug 14 = Fri, open).
 - [★★☆☆☆ 🛍️ Hongdae Free Market](https://www.google.com/maps/search/Hongdae+Free+Market+Seoul) — Weekend handmade goods
 - 📸 Self-photo studios — Retro black-and-white photo booths throughout Hongdae
 - ★★☆☆☆ 🎨 Acorn Caricature Studios — Get a cartoon drawn (~5,000 KRW)

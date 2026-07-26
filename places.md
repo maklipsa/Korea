@@ -14,6 +14,8 @@ Each place is tagged with what it is — a place can carry more than one.
 
 **STEM & transport (real education, high priority — never 🤳):** 🔬 science & technology / STEM centers · 🏭 factory tours & industrial/mining heritage · 🚢 ships & maritime · 🚗 cars & automobile museums · 🚂 railway & heritage trains · ✈️ aviation & aerospace · 🔭 observatory / planetarium
 
+**Recreation & transit:** 🚌 tour / airport bus · 🚴 public bike-share · ⛸️ ice rink · ⚽ football / stadium
+
 **Pass coverage:** 🎫 free admission on the **Discover Seoul Pass** (Seoul only; the pass's ~75 free-entry attractions — see [cards/seoul.md](cards/seoul.md) for whether the pass pays off). Marks free *entry* only — extras like the Namsan cable car, Nami zipline or Changdeokgung Secret Garden are still paid.
 
 ---
@@ -520,7 +522,7 @@ A second, more niche pass — galleries, extra mountains, specialty food streets
 - [★★★☆☆ ⛪🏛️ Jeoldusan Martyrs' Shrine](https://www.google.com/maps/search/Jeoldusan+Martyrs+Shrine+Seoul) — 1967 modernist cliff-top church (architect Lee Hee-tae) shaped like a Korean gat, over the Han River, with a Catholic martyrs' museum. Park 24h, museum 09:30–17:00, free. Hapjeong/Mapo. 📅 **Day 4 (Aug 14)**
 - [★★★☆☆ ⛪🏛️ Yanghwajin Foreign Missionary Cemetery](https://www.google.com/maps/search/Yanghwajin+Foreign+Missionary+Cemetery+Seoul) — Bluff-top resting place of Korea's early Western missionaries (Underwood, Appenzeller, Hulbert) right beside Jeoldusan, with a small memorial hall — a quiet, moving heritage stop. Mon–Sat 10:00–17:00, closed Sun (Fri Aug 14 open); free. Zero detour from Jeoldusan. 📅 **Day 4 (Aug 14)**
 - [★★★☆☆ ⛪🏛️ Anglican Cathedral of Seoul](https://www.google.com/maps/search/Seoul+Anglican+Cathedral) — Romanesque-Byzantine cathedral (1926/1996) mixing Western and Korean motifs, on the Jeongdong-gil walk by Deoksugung. Free; City Hall Stn.
-- [★★★☆☆ 🏛️📸 Some Sevit / Sebitseom (Floating Islands)](https://www.google.com/maps/search/Some+Sevit+Sebitseom+Seoul) — World's first floating architecture (2011): three LED-lit islands at Banpo Bridge with cultural/dining spaces. Grounds free, best at night — pair with the Banpo Rainbow Fountain.
+- [★★★☆☆ 🏛️📸🎫 Some Sevit / Sebitseom (Floating Islands)](https://www.google.com/maps/search/Some+Sevit+Sebitseom+Seoul) — World's first floating architecture (2011): three LED-lit islands at Banpo Bridge with cultural/dining spaces. Grounds free, best at night — pair with the Banpo Rainbow Fountain.
 - [★★★☆☆ 🏛️🌳 Seoul City Hall & Green Wall](https://www.google.com/maps/search/Seoul+City+Hall) — 2012 glass "wave" building (iArc) over the 1926 old city hall; free lobby with a 7-story indoor vertical garden. City Hall Stn.
 
 #### E. Folk & Ethnographic Museums
@@ -579,6 +581,67 @@ A second, more niche pass — galleries, extra mountains, specialty food streets
 - [★★★☆☆ 🌊 Han River Kayak/SUP (Ttukseom)](https://www.google.com/maps/search/Ttukseom+Han+River+Kayak+SUP+Seoul) — Beginner-friendly kayaking/paddleboarding at Ttukseom Hangang Park (~30-min briefing + ~2hr paddle); sunset or daytime. For the 15-year-old + confident swimmers; check age/height minimums for the 9-year-old.
 - [★★★☆☆ 🏯🎨 Jingwansa Temple Stay](https://www.google.com/maps/search/Jingwansa+Temple+Seoul) — City-accessible temple stay (Eunpyeong, by Bukhansan) in a Joseon-era hanok; "Relish the Nature" program ~₩80,000/person. Books out weeks ahead.
 - [★★★☆☆ 🎭 Jeongdong Theater — "Gwangdae"](https://www.google.com/maps/search/Jeongdong+Theater+Seoul) — Traditional-arts show (pansori, samulnori, court dance, plate-spinning) near City Hall — the traditional counterpart to Nanta/Painters/JUMP.
+
+---
+
+### Discover Seoul Pass — Remaining Free Attractions
+
+Every other attraction the **Discover Seoul Pass** covers with **free admission** (🎫), catalogued here for completeness and grouped by the pass's own four categories. Most are lower-priority for this trip's culture-forward, fast-moving style, so ratings reflect that — but all are free on the pass. Prices shown are the walk-up (adult) gate rate the pass saves. See [cards/seoul.md](cards/seoul.md) for whether the pass pays off.
+
+#### History — Joseon Royal Tombs (UNESCO) & heritage
+- [★★★☆☆ 🏯🎫 Taereung Royal Tomb](https://www.google.com/maps/search/Taereung+Royal+Tomb+Seoul) — Tomb of Queen Munjeong with a small royal-tomb museum; largest of the Nowon-gu cluster, NE Seoul. ~1,000 KRW.
+- [★★☆☆☆ 🏯🎫 Gangneung Royal Tomb](https://www.google.com/maps/search/Gangneung+Royal+Tomb+Nowon+Seoul) — Joint tomb of King Myeongjong beside Taereung (Nowon-gu, Seoul — not Gangneung city). ~1,000 KRW.
+- [★★★☆☆ 🏯🎫 Heolleung & Illeung Royal Tombs](https://www.google.com/maps/search/Heolleung+Illeung+Royal+Tombs+Seoul) — Two forested royal tombs (King Taejong; King Sunjo), Seocho-gu, S Seoul. ~1,000 KRW.
+- [★★☆☆☆ 🏯🎫 Jeongneung Royal Tomb](https://www.google.com/maps/search/Jeongneung+Royal+Tomb+Seongbuk+Seoul) — Tomb of Queen Sindeok, first queen of Joseon; quiet wooded site, Seongbuk-gu. ~1,000 KRW.
+- [★★☆☆☆ 🏯🎫 Uireung Royal Tomb](https://www.google.com/maps/search/Uireung+Royal+Tomb+Seongbuk+Seoul) — Tomb of King Gyeongjong, Seongbuk-gu. ~1,000 KRW.
+- [★★☆☆☆ 🏯🎫 Yeonghwiwon & Sunginwon Royal Tombs](https://www.google.com/maps/search/Yeonghwiwon+Royal+Tomb+Seoul) — Imperial-era tombs near Hongneung, Dongdaemun-gu. ~1,000 KRW.
+
+#### Museums
+- [★★★★☆ 🏛️🏯🎫 Eunpyeong History & Hanok Museum](https://www.google.com/maps/search/Eunpyeong+History+Hanok+Museum+Seoul) — Local-history + hanok-culture museum at **Eunpyeong Hanok Village** with Bukhansan as backdrop — a genuine, uncrowded hanok/heritage stop. NW Seoul (Line 3 Gupabal + bus). ~1,000 KRW. 📅 *near Day 2 (Aug 12)*
+- [★★★☆☆ 🏛️🎨🎫 Bukchon Traditional Crafts Museum](https://www.google.com/maps/search/Bukchon+Traditional+Crafts+Museum+Seoul) — Korean traditional crafts + hands-on programs in Bukchon; pairs with Gahoe Museum. ~3,000 KRW. 📅 *near Day 2 (Aug 12)*
+- [★★★☆☆ 🏛️🎨🎫 Gyeomjae Jeongseon Art Museum](https://www.google.com/maps/search/Gyeomjae+Jeongseon+Art+Museum+Seoul) — Devoted to Joseon "true-view" landscape master Jeong Seon; Gangseo-gu, W Seoul. ~1,000 KRW.
+- [★★★☆☆ 🏛️🧒🎫 Seoul Children's Museum](https://www.google.com/maps/search/Seoul+Childrens+Museum+Gwangjin+Seoul) — Hands-on interactive museum for kids, Neung-dong (Gwangjin-gu) by Children's Grand Park. ~4,000 KRW.
+- [★★★☆☆ 🏛️🎨🎫 Suwon Ipark Museum of Art (SIMA)](https://www.google.com/maps/search/Suwon+Ipark+Museum+of+Art+Suwon) — Contemporary-art museum by Suwon's Hwaseong Fortress (Gyeonggi). ~4,000 KRW.
+- [★★☆☆☆ 🏛️🧒🎫 Presseum (Newspaper Museum)](https://www.google.com/maps/search/Presseum+Newspaper+Museum+Seoul) — Korea's press-history museum in the Dong-A Ilbo building at Gwanghwamun (same building as Ilmin). ~4,000 KRW.
+- [★★☆☆☆ 🏛️🎨🎫 Seoul K-Medi Center](https://www.google.com/maps/search/Seoul+Yangnyeongsi+Herb+Medicine+Museum+Seoul) — Korean traditional-medicine museum/experience at the Seoul Yangnyeongsi herb market, Jegi-dong (Dongdaemun-gu). ~1,000 KRW.
+- [★★☆☆☆ 🏛️🧒🎫 Figure Museum W](https://www.google.com/maps/search/Figure+Museum+W+Seoul) — Designer-toy & figure museum, Cheongdam (Gangnam); pop-culture, not fine art. ~15,000 KRW.
+
+#### Entertainment & experiences
+- [★★★☆☆ 🚢🧒🎫 Seoul Battleship Park](https://www.google.com/maps/search/Seoul+Battleship+Park+Mangwon+Seoul) — Retired ROK Navy warship + submarine turned floating naval museum at Mangwon Hangang Park; decks and interiors to explore — a kid hit. ~3,000 KRW. 📅 *near Day 4 (Aug 14)*
+- [★★★☆☆ 📸🌳🧒🎫 Gwangmyeong Cave](https://www.google.com/maps/search/Gwangmyeong+Cave+Gwangmyeong) — Ex-gold mine turned LED-lit art/wine cave with light installations and a cool constant temperature — distinctive day-trip SW of Seoul (Gwangmyeong, Gyeonggi). ~10,000 KRW.
+- [★★★☆☆ 🌊🚡🧒🎫 Golden Blue Marina (Hangang Kayak/Yacht)](https://www.google.com/maps/search/Golden+Blue+Marina+Hangang+Seoul) — Han River kayak & yacht-tour experience operator. ~30,000 KRW.
+- [★★★☆☆ 🎨🎫 Daehan Hanbok](https://www.google.com/maps/search/Daehan+Hanbok+Gyeongbokgung+Seoul) — Hanbok rental by Gyeongbokgung (free palace entry in hanbok). ~35,000 KRW rental.
+- [★★★☆☆ 🎨🎫 Hanboktown](https://www.google.com/maps/search/Hanboktown+Gyeongbokgung+Seoul) — Large hanbok-rental outfitter near Gyeongbokgung. ~70,000 KRW rental.
+- [★★★☆☆ 🎨🎫 Hanboknam (Gyeongbokgung)](https://www.google.com/maps/search/Hanboknam+Gyeongbokgung+Seoul) — Hanbok-rental chain, Gyeongbokgung branch. ~50,000 KRW rental.
+- [★★★☆☆ 🎨🎫 Hanboknam (Bukchon Hanok Village)](https://www.google.com/maps/search/Hanboknam+Bukchon+Seoul) — Hanbok rental, Bukchon branch. ~50,000 KRW rental.
+- [★★★☆☆ 🎨🎫 Hanboknam (Changdeokgung)](https://www.google.com/maps/search/Hanboknam+Changdeokgung+Seoul) — Hanbok rental, Changdeokgung branch. ~50,000 KRW rental.
+- [★★☆☆☆ 🎡🐾🧒🎫 Daejeon O-World](https://www.google.com/maps/search/Daejeon+O+World+Daejeon) — Theme park + zoo + flower land in Daejeon (~1hr KTX S of Seoul). ~17,000 KRW.
+- [★★☆☆☆ 🐾🧒🎫 Aquaplanet Ilsan](https://www.google.com/maps/search/Aquaplanet+Ilsan+Goyang) — Aquarium in Ilsan (Goyang, NW of Seoul); redundant if COEX Aquarium is already planned. ~39,000 KRW.
+- [★★☆☆☆ ⚽🧒🎫 Football Fǽntasium](https://www.google.com/maps/search/Football+Fantasium+Seoul) — Interactive football/soccer experience center. ~15,000 KRW.
+- [★★☆☆☆ ⚽🧒🎫 Seoul E-Land FC (K-League 2)](https://www.google.com/maps/search/Mokdong+Stadium+Seoul) — Pro football match ticket, Mokdong Stadium. ~15,000 KRW.
+- [★★☆☆☆ 🤪🧒🎫 Running Man Experience Center (Insadong)](https://www.google.com/maps/search/Running+Man+Experience+Insadong+Seoul) — TV-show-themed physical-challenge activity center. ~19,000 KRW.
+- [★★☆☆☆ 🤪🧒🎫 Realworld Seongsu (escape rooms)](https://www.google.com/maps/search/Realworld+Seongsu+Seoul) — Escape-room complex in Seongsu. ~20,000 KRW.
+- [★★☆☆☆ 🤪🧒🎫 OPCI (paranormal investigation experience)](https://www.google.com/maps/search/OPCI+Seoul) — Themed "paranormal investigation" activity experience. ~13,000 KRW.
+- [★★☆☆☆ 🐾🧒🎫 Zoolung Zoolung (Times Square)](https://www.google.com/maps/search/Zoolung+Zoolung+Times+Square+Seoul) — Indoor eco-themed kids' animal/play attraction, Times Square mall (Yeongdeungpo). ~29,000 KRW.
+- [★★☆☆☆ 🚡🌊🎫 Seoul Cruise (Han River)](https://www.google.com/maps/search/Seoul+Cruise+Yeouido+Han+River) — Premium Han River cruise operator (distinct from the E-Land cruise).
+- [★★☆☆☆ ⛸️🧒🎫 Mokdong Ice Rink](https://www.google.com/maps/search/Mokdong+Ice+Rink+Seoul) — Year-round indoor ice rink, Yangcheon-gu. ~9,200 KRW.
+- [★★☆☆☆ ⛸️🧒🎫 Seoul Plaza Ice Skating Rink](https://www.google.com/maps/search/Seoul+Plaza+Ice+Rink+Seoul) — Outdoor winter rink on Seoul Plaza. ⚠️ **Winter-only — not open in August.** ~1,000 KRW.
+- [★★☆☆☆ ♨️🧒🎫 Aquafield Hanam (water & jjimjil spa)](https://www.google.com/maps/search/Aquafield+Hanam) — Shinsegae water-park + Korean jjimjilbang spa, Hanam Starfield (E of Seoul). ~26,000 KRW.
+- [★★☆☆☆ ♨️🧒🎫 Aquafield Goyang (water & jjimjil spa)](https://www.google.com/maps/search/Aquafield+Goyang) — Water-park + jjimjil spa, Goyang Starfield (NW). ~26,000 KRW.
+- [★★☆☆☆ ♨️🧒🎫 Aquafield Anseong (water & jjimjil spa)](https://www.google.com/maps/search/Aquafield+Anseong) — Water-park + jjimjil spa, Anseong Starfield (S Gyeonggi). ~26,000 KRW.
+- [★★☆☆☆ ♨️🎫 SPAREX Sauna — Good Morning City (Dongdaemun)](https://www.google.com/maps/search/Sparex+Good+Morning+City+Dongdaemun+Seoul) — 24h Korean sauna/jjimjilbang, Dongdaemun. ~16,000 KRW.
+- [★★☆☆☆ ♨️🎫 SPAREX Sauna — Mega Square (Dongmyo)](https://www.google.com/maps/search/Sparex+Mega+Square+Dongmyo+Seoul) — 24h sauna/jjimjilbang near Dongmyo. ~16,000 KRW.
+- [★★☆☆☆ ♨️🎫 Sealala Sauna](https://www.google.com/maps/search/Sealala+Sauna+Seoul) — Jjimjilbang / sauna. ~10,000 KRW.
+- [★★☆☆☆ 🌳🎫 Seoul Hiking Tourism Center (Bukhansan)](https://www.google.com/maps/search/Seoul+Hiking+Tourism+Center+Bukhansan) — Trailhead center with gear rental + guided hiking programs, Bukhansan.
+- [★★☆☆☆ 🌳🎫 Seoul Hiking Tourism Center (Bugaksan)](https://www.google.com/maps/search/Seoul+Hiking+Tourism+Center+Bugaksan) — Trailhead hiking center, Bugaksan (city-wall trail).
+- [★★☆☆☆ 🌳🎫 Seoul Hiking Tourism Center (Gwanaksan)](https://www.google.com/maps/search/Seoul+Hiking+Tourism+Center+Gwanaksan) — Trailhead hiking center, Gwanaksan.
+
+#### Transportation (pass transit benefits — see also passes.md)
+- [★★★☆☆ 🚂🎫 AREX (Airport Railroad Express)](https://www.google.com/maps/search/AREX+Seoul+Station) — One free Incheon Airport ↔ Seoul Station express (Direct train) ride on the pass.
+- [★★★☆☆ 🚌🎫 Seoul City Tour Bus (Tiger Bus)](https://www.google.com/maps/search/Seoul+City+Tour+Bus+Gwanghwamun+Seoul) — Hop-on-hop-off city loop; free 1-day ride on the pass. Boards at Gwanghwamun/DDP. ~30,000 KRW.
+- [★★☆☆☆ 🚌🎫 Seoul City Tour Bus (Yellow Balloon)](https://www.google.com/maps/search/Seoul+City+Tour+Bus+Yellow+Balloon+Seoul) — Alternate city-tour bus route, free on the pass. ~25,000 KRW.
+- [★★☆☆☆ 🚌🎫 K-Limousine (Airport Bus)](https://www.google.com/maps/search/K+Limousine+Airport+Bus+Seoul) — One airport-limousine bus ride on the pass. ~18,000 KRW.
+- [★★★☆☆ 🚴🎫 Ttareungi (Seoul Public Bike)](https://www.google.com/maps/search/Ttareungi+Seoul+Bike+Station) — 1-day pass for Seoul's public bike-share; free on the pass. Ideal for the Han River riverside paths.
 
 ---
 

@@ -39,6 +39,8 @@ The big traditional Seoul day. Everything open on Wednesdays.
 - [★★☆☆☆ 🌳🏯 Tapgol Park](https://www.google.com/maps/search/Tapgol+Park+Seoul) — Historic park with 10-tier marble pagoda
 - [★★★☆☆ 🏛️ Seoul Museum of History](https://www.google.com/maps/search/Seoul+Museum+of+History+Seoul) — City-history museum + giant scale-model of Seoul, next to Gyeonghuigung off Gwanghwamun. FREE; closed Mon
 - [★★★☆☆ 🏛️🗼 Yun Dong-ju Literature Museum](https://www.google.com/maps/search/Yun+Dong-ju+Literature+Museum+Seoul) — Poet's museum in a converted water-pressure station at the foot of Inwangsan (Buam-dong), rooftop city view. FREE; closed Mon
+- [★★★☆☆ 🏛️🎨🎫 Bukchon Traditional Crafts Museum](https://www.google.com/maps/search/Bukchon+Traditional+Crafts+Museum+Seoul) — Korean traditional-crafts museum + hands-on programs in the heart of Bukchon; slots straight into the Bukchon/Samcheong stretch. ~3,000 KRW; closed Mon (Aug 12 = Wed, open). (Free on the pass once it's active Aug 16.)
+- [★★★★☆ 🏛️🏯🎫 Eunpyeong History & Hanok Museum](https://www.google.com/maps/search/Eunpyeong+History+Hanok+Museum+Seoul) — ⚠️ **NW detour, not on the Bukchon route** — a straight ~20-min run up **Line 3** from Gyeongbokgung (Gupabal Stn + short bus) to **Eunpyeong Hanok Village**, a photogenic modern hanok village under Bukhansan with this local-history/hanok-culture museum. A genuine, uncrowded heritage stop this family would love — best as a **morning-before the palaces or its own half-day**, not tacked onto this already-full day. ~1,000 KRW; closed Mon.
 
 ### More Cafes
 - [★★☆☆☆ ☕ Newmix Coffee Bukchon](https://www.google.com/maps/search/Newmix+Coffee+Bukchon+Seoul) — Inside hanok village; cinnamon yakgwa flavor
