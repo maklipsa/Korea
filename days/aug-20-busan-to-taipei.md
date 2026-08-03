@@ -15,13 +15,22 @@ Travel morning — no sightseeing route. Gimhae Airport → Taoyuan Airport → 
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 5:30 | Leave Busan hotel. Grab a convenience-store breakfast (or eat airside). |  |
-| 6:15 | Arrive **Gimhae T2 (International)** — aim for **2.5–3h before** an intl flight (summer peak). Taxi ~40 min from Haeundae is safest this early; metro + Busan–Gimhae LRT is slower with first trains ~5:30. Check in, drop bags, security + immigration. |  |
+| 5:30 | Leave Busan hotel. |  |
+|  | Grab a convenience-store breakfast (or eat airside). |  |
+|  | Taxi Haeundae → Gimhae T2 (~40 min) — safest this early; metro + Busan–Gimhae LRT is slower, with first trains ~5:30. |  |
+| 6:15 | Arrive **Gimhae T2 (International)** — aim for **2.5–3h before** an intl flight (summer peak). |  |
+|  | Check in, drop bags, security + immigration. |  |
 | 9:00 | **Flight PUS → TPE** (~2h30). | Booked ahead |
-| 10:30 | Arrive **Taipei Taoyuan Airport** (local). Immigration + baggage can take 45–90 min in summer. Buy/refill **EasyCard** (vending machines/service counter at MRT level B2; EZfly counter takes cards), load ~NT$500. |  |
+| 10:30 | Arrive **Taipei Taoyuan Airport** (local). |  |
+|  | Immigration + baggage — can take 45–90 min in summer. |  |
+|  | Buy/refill **EasyCard** (vending machines/service counter at MRT level B2; EZfly counter takes cards), load ~NT$500. |  |
 | 11:15 | **Airport MRT** Express (purple) to Taipei Main Station (~38 min, NT$160; ~every 15 min). Shift later if immigration ran long. |  |
-| 12:15 | Drop bags at hotel, quick lunch nearby. |  |
-| 14:00 | **Taipei afternoon (bonus half-day)** — take it easy after the early start: [★★★☆☆ 🏛️ Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei) (open daily 9:00–18:00, free; outdoor **honor-guard changing hourly on the hour 9:00–17:00** on Democracy Boulevard — catch the 15:00/16:00/17:00), [★★★☆☆ 🌳🚶 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) (open 24h, free), or just ease into the city near your hotel. |  |
+| 12:15 | Drop bags at hotel. |  |
+|  | Quick lunch nearby. |  |
+| 14:00 | **⚖️ Choose 1–2 — Taipei afternoon (bonus half-day).** Take it easy after the early start. |  |
+|  | **Option A ·** **[★★★☆☆ 🏛️ Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei)** — Open daily 9:00–18:00, free; outdoor **honor-guard changing hourly on the hour 9:00–17:00** on Democracy Boulevard — catch the 15:00/16:00/17:00. | Free |
+|  | **Option B ·** **[★★★☆☆ 🌳🚶 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei)** — Open 24h, free. | Free |
+|  | **Option C ·** Just ease into the city near your hotel. |  |
 | 18:00 | Early night market for dinner — e.g. [★★★☆☆ 🍜 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei) (~17:00–24:00; most guides list it daily, but some listings show a **Thursday rest day** — verify same-day, or save Ningxia for Aug 21/Fri and pick a market nearer your hotel tonight). |  |
 | 20:30 | Back to hotel — rest up for a full Taipei day tomorrow. |  |
 

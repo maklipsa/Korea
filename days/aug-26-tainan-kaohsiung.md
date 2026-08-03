@@ -24,8 +24,10 @@
 | 12:30 | **★★☆☆☆ Snail Alley** — Hidden neighborhood with snail statues everywhere. Scavenger hunt for kids! |  |
 | 13:30 | **TRA Tainan → Kaohsiung** (~30–40 min) — downtown-to-downtown, arrives Kaohsiung Main Station (1 MRT stop from Formosa Blvd); simplest for this all-downtown day. HSR is faster on rail (~15 min) but uses Tainan HSR (Shalun, ~20–25 min from centre) → arrives Zuoying (north), then MRT red line ~15 min to Formosa Blvd. |  |
 | 15:00 | **[★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung)** — World's largest glass art. 4,000+ pieces. Light show at 3pm. | Free |
-| 15:30 | **[★★★☆☆ 🏛️🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** — Harbor warehouses turned galleries. Outdoor murals, quirky sculptures. On the same original tracks, fold in the **[★★★★☆ 🏛️🧒 Takao Railway Museum](https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung)** (restored 1908 Takao Station, 30+ historic locomotives you can walk around) — zero detour, a train-magnet for the kids. | Free (outdoor) |
-| 17:00 | **Ferry to [★★★☆☆ 🌳🚡 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** (5 min) from Gushan Ferry Pier; runs ~5am–2am, every ~10 min. Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast. | Ferry NT$30 cash / NT$20 EasyCard, per ride |
+| 15:30 | **[★★★☆☆ 🏛️🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** — Harbor warehouses turned galleries. Outdoor murals, quirky sculptures. | Free (outdoor) |
+|  | **[★★★★☆ 🏛️🧒 Takao Railway Museum](https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung)** — On the same original tracks, zero detour: restored 1908 Takao Station, 30+ historic locomotives you can walk around — a train-magnet for the kids. |  |
+| 17:00 | Ferry from Gushan Ferry Pier to Cijin Island (5 min); runs ~5am–2am, every ~10 min. | Ferry NT$30 cash / NT$20 EasyCard, per ride |
+| 17:05 | **[★★★☆☆ 🌳🚡 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** — Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast. |  |
 | 19:00 | Ferry back. |  |
 | 19:30 | **[★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung)** dinner — Tourist-friendly, strong on seafood. (Ruifeng is closed Wed.) | ~NT$200-400/person |
 

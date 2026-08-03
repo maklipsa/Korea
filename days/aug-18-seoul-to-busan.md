@@ -18,19 +18,30 @@ Gyeongbokgung closed Tuesdays — no conflict.
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:00 | **[★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul)** in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Park is free & open 24h (butterfly garden opens 10:00, May–Oct, closed Mon). Then: **[★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul)** shipping container mall (Konkuk Univ area). ⚠️ Common Ground **opens 11:00 daily** — too early for this 9–10am window; skip or reorder. | Free |
-| 10:30 | **Seongsu warehouse cafes** — Dozens of industrial-chic cafes in converted factories. Or: [★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul) 5-floor K-beauty flagship. |  |
+| 9:00 | **[★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul)** in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Park is free & open 24h (butterfly garden opens 10:00, May–Oct, closed Mon). | Free |
+|  | **[★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul)** — Shipping container mall (Konkuk Univ area). ⚠️ Common Ground **opens 11:00 daily** — too early for this 9–10am window; skip or reorder. |  |
+| 10:30 | **⚖️ Choose one — warehouse cafes or the K-beauty flagship.** |  |
+|  | **Option A ·** **Seongsu warehouse cafes** — Dozens of industrial-chic cafes in converted factories. |  |
+|  | **Option B ·** **[★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul)** — 5-floor K-beauty flagship. |  |
 | 11:00 | *(Curated design/photo museum, and Seongsu is your only shot at it — opens 11:00, ~1.5h, so it's a trade for the COEX add-ons before the 14:00 KTX.)* **[★★★★☆ 🏛️🎨📸 D Museum](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul)** — Daelim's curated contemporary design/photography museum (D Tower, by Seoul Forest); rotating large-format shows, a teen favorite — a genuine museum, not a projection funhouse. ⚠️ Verify the current exhibition + book timed tickets. | ~12,000/6,000 KRW |
 | 11:30 | Quick stop: **[★★★☆☆ 📸 Starfield Library (COEX)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul)** — Stunning towering bookshelves. Free. |  |
-| 11:45 | *(Optional COEX add-on before the train — pick at most one; you leave by 13:00.)* **[★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul)** — 1,000-year-old Buddhist temple directly across from COEX; a serene ~20-min walk-through beneath the giant Maitreya Buddha. Or **[★★★☆☆ 🐾🧒🎫 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul)** — inside the mall (sharks, rays, penguins), but budget ~1.5h, so only if you skipped Seoul Forest. |  |
+| 11:45 | **⚖️ Choose one (or skip) — optional COEX add-on before the train.** Pick at most one; you leave by 13:00. |  |
+|  | **Option A ·** **[★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul)** — 1,000-year-old Buddhist temple directly across from COEX; a serene ~20-min walk-through beneath the giant Maitreya Buddha. |  |
+|  | **Option B ·** **[★★★☆☆ 🐾🧒🎫 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul)** — Inside the mall (sharks, rays, penguins), but budget ~1.5h, so only if you skipped Seoul Forest. |  |
 | 12:30 | Lunch near COEX or grab food for the train. |  |
 | 13:00 | Head to Seoul Station. ⚠️ COEX/Samseong → Seoul Station is ~40–50 min by subway (Line 2 + transfer) — leave by ~13:00, not 13:30, to comfortably catch a 14:00 train with 6 people + luggage. Note: you've checked out of the DDP hotel, so you're carrying/storing luggage all morning (Seongsu has few lockers — consider storing bags at Seoul Station on the way, or a luggage-transfer service). |  |
 | **14:00** | **KTX Seoul → Busan** (~2h15 on fastest trains; some services 2h30–2h50). ⚠️ Aug is peak season — **reserve seats in advance** (Korail / Let's Korail app). Standard adult fare ~59,800 KRW; ages 4–12 ~half; under 4 free. | ~59,800 KRW |
-| ~16:20 | Arrive Busan (Busan Station). Check in hotel (**Haeundae area** recommended; ~30 min by metro/taxi from station). |  |
+| ~16:20 | Arrive Busan (Busan Station). |  |
+|  | Metro/taxi Busan Station → Haeundae (~30 min). |  |
+|  | Check in at the hotel (**Haeundae area** recommended). |  |
 | 17:30 | **[★★★★☆ 🌳🧒 Haeundae Beach](https://www.google.com/maps/search/Haeundae+Beach+Busan)** — Swim! Water ~24-28°C in August. Official 2026 swimming season Jun 26–Sep 15; ⚠️ designated swimming zone / lifeguards operate **9:00–18:00**, so only ~30 min of supervised swimming on arrival — go straight to the water. | Free |
-| 18:00 | *(Optional if daylight holds.)* **[★★★☆☆ 🌳🚶 Dongbaekseom (Dongbaek Island)](https://www.google.com/maps/search/Dongbaekseom+Busan)** — Wooded headland loop off the west end of Haeundae Beach: seaside boardwalk, the APEC Nurimaru House, mermaid statue, skyline views (~40-min loop). Or drive up **[★★★☆☆ 🚶🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan)** east of Mipo for hillside galleries/cafes + a sunset view. | Free |
+| 18:00 | **⚖️ Choose one — optional if daylight holds: coastal headland loop vs. hillside sunset.** | Free |
+|  | **Option A ·** **[★★★☆☆ 🌳🚶 Dongbaekseom (Dongbaek Island)](https://www.google.com/maps/search/Dongbaekseom+Busan)** — Wooded headland loop off the west end of Haeundae Beach: seaside boardwalk, the APEC Nurimaru House, mermaid statue, skyline views (~40-min loop). |  |
+|  | **Option B ·** **[★★★☆☆ 🚶🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan)** — Drive up, east of Mipo, for hillside galleries/cafes + a sunset view. |  |
 | 18:45 | **[★★★★☆ 🗼 Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky)** — Observation deck on floors 98–100 of LCT Tower, ~5-min walk from Haeundae Beach; sunset over the bay (~19:15 mid-Aug) + world's highest Starbucks. **Pre-book timed tickets** in August. | ~27,000 KRW adult / ~24,000 child (verify) |
-| 19:45 | Dinner: ⚠️ ~~Haeundae Pojangmacha-chon~~ (orange-tented beach seafood stalls) was **permanently closed/demolished in Jan 2024** — no longer exists. Instead: [★★★☆☆ 🍜 Haeundae Milmyeon](https://www.google.com/maps/search/Haeundae+Milmyeon+Busan) (cold wheat noodles — Busan signature dish), or seafood/eomuk at [★★★☆☆ 🛍️🍜 Haeundae Traditional Market](https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan). |  |
+| 19:45 | **⚖️ Choose one — dinner.** ⚠️ ~~Haeundae Pojangmacha-chon~~ (orange-tented beach seafood stalls) was **permanently closed/demolished in Jan 2024** — no longer exists, so it's one of these two instead. |  |
+|  | **Option A ·** **[★★★☆☆ 🍜 Haeundae Milmyeon](https://www.google.com/maps/search/Haeundae+Milmyeon+Busan)** — Cold wheat noodles, a Busan signature dish. |  |
+|  | **Option B ·** **[★★★☆☆ 🛍️🍜 Haeundae Traditional Market](https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan)** — Seafood / eomuk in the market. |  |
 
 ---
 

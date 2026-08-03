@@ -25,9 +25,13 @@
 | 14:30 | Arrive Taipei. Drop bags at hotel or lockers. |  |
 | 15:00 | **[★★★★☆ 🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei)** — 30-min ride over tea plantations. Get the **glass-floor Crystal Cabin** (NT$50 extra). Kids love it. Open Thu (closed Mon). | NT$180/ride or NT$300 day pass |
 | 16:00 | **Teahouses at Maokong** — Mountain Tea House or The Big Tea Pot. Sip tea overlooking the valley. |  |
-| 17:30 | Gondola back down. Optional: [★★★☆☆ 🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) at the base (NT$100 adult / NT$60 child 6-12 & students; last entry 16:00 — but today is Thu, closes 5pm, so skip). |  |
+| 17:30 | Gondola back down. |  |
+|  | Optional: **[★★★☆☆ 🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo)** at the base — last entry 16:00, but today is Thu, closes 5pm, so skip. | NT$100 adult / NT$60 child 6-12 & students |
 | 18:30 | MRT to Da'an area. |  |
-| 19:00 | Farewell dinner: **[★★★★☆ 🍜🚶 Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei)** — the birthplace **[★★★★☆ 🍜 Din Tai Fung](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei)** (original Xinyi Rd flagship; the original is takeout-only now, dine-in at the 330-seat branch opposite — xiao long bao worth the queue), [★★★☆☆ 🍜 Yongkang Beef Noodles](https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei) (since 1963), or [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) (pot-stickers). |  |
+| 19:00 | **⚖️ Choose one — farewell dinner on [★★★★☆ 🍜🚶 Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei).** Three classics on the same food street; pick whichever queue you can stomach. |  |
+|  | **Option A ·** **[★★★★☆ 🍜 Din Tai Fung](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei)** — the birthplace (original Xinyi Rd flagship; the original is takeout-only now, dine-in at the 330-seat branch opposite — xiao long bao worth the queue). |  |
+|  | **Option B ·** **[★★★☆☆ 🍜 Yongkang Beef Noodles](https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei)** — since 1963. |  |
+|  | **Option C ·** **[★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei)** — pot-stickers. |  |
 | 20:30 | **[★★★☆☆ 🏮 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei)** — Most "sophisticated" night market. Last night market of the trip! |  |
 
 ---

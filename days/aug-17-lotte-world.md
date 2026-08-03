@@ -28,8 +28,12 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA all closed on Mondays. **Except
 | 16:00 | *(Optional AC art break — 7F of the Avenuel/Lotte World Tower complex, open Mon; drop if the park + Seoul Sky already filled the day.)* **[★★★★☆ 🏛️🎨🎫 LOTTE Museum of Art (LOMA)](https://www.google.com/maps/search/Lotte+Museum+of+Art+Seoul)** — Contemporary-art museum with ambitious international shows; open daily 10:30–19:00 (last entry 18:30). | DSP covers it, else ~20,000 adult / 13,000 youth & child KRW |
 | 17:00 | Walk around **[★★☆☆☆ 🌳🚶 Seokchon Lake](https://www.google.com/maps/search/Seokchon+Lake+Seoul)** — Scenic lake surrounding Lotte World. |  |
 | 18:00 | **Songnidan-gil** — Trendy food street south of the lake. |  |
-| 18:30 | Cafe: [★★☆☆☆ ☕ Mountain Nook](https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul) (forest-themed mega-cafe) or [★★☆☆☆ ☕ Bontemps](https://www.google.com/maps/search/Bontemps+Songnidan+Seoul) (Korean twisted donuts). |  |
-| 19:30 | Dinner: [★★☆☆☆ 🍜 Motor City](https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul) (Detroit-style pizza) or [★★☆☆☆ 🍜 Pizzeria Lago](https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul) (wood-fired). |  |
+| 18:30 | **⚖️ Choose one — cafe stop.** Forest-themed mega-cafe vs. Korean twisted donuts. |  |
+|  | **Option A ·** **[★★☆☆☆ ☕ Mountain Nook](https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul)** — Forest-themed mega-cafe. |  |
+|  | **Option B ·** **[★★☆☆☆ ☕ Bontemps](https://www.google.com/maps/search/Bontemps+Songnidan+Seoul)** — Korean twisted donuts. |  |
+| 19:30 | **⚖️ Choose one — dinner.** Both are pizza: Detroit-style vs. wood-fired. |  |
+|  | **Option A ·** **[★★☆☆☆ 🍜 Motor City](https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul)** — Detroit-style pizza. |  |
+|  | **Option B ·** **[★★☆☆☆ 🍜 Pizzeria Lago](https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul)** — Wood-fired pizza. |  |
 
 ---
 

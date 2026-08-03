@@ -21,7 +21,12 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:25",
-        "activity": "Land at Incheon (ICN). Buy <strong>T-money card</strong> at convenience store, load ~50,000 KRW.",
+        "activity": "Land at Incheon (ICN).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Buy <strong>T-money card</strong> at convenience store, load ~50,000 KRW.",
         "price": ""
       },
       {
@@ -61,7 +66,12 @@ const DAYS = [
       },
       {
         "time": "16:15",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul\" target=\"_blank\">★★☆☆☆ 🏯📸 Heunginjimun (Dongdaemun Gate)</a></strong> — Original Seoul Fortress gate (1398), a floodlit stone island ~5 min from DDP. (Skipping the Dongdaemun malls — Doota / Hyundai City Outlet aren't worth a stop.) Beside it, <strong><a href=\"https://www.google.com/maps/search/Seoul+City+Wall+Museum+Seoul\" target=\"_blank\">★★★☆☆ 🏛️ Seoul City Wall Museum</a></strong> — Hanyang-fortress history + a big scale model; free, but <strong>last entry 17:30 / closes 18:00</strong>, so go briskly.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul\" target=\"_blank\">★★☆☆☆ 🏯📸 Heunginjimun (Dongdaemun Gate)</a></strong> — Original Seoul Fortress gate (1398), a floodlit stone island ~5 min from DDP. (Skipping the Dongdaemun malls — Doota / Hyundai City Outlet aren't worth a stop.)",
+        "price": "Free"
+      },
+      {
+        "time": "",
+        "activity": "Beside it, <strong><a href=\"https://www.google.com/maps/search/Seoul+City+Wall+Museum+Seoul\" target=\"_blank\">★★★☆☆ 🏛️ Seoul City Wall Museum</a></strong> — Hanyang-fortress history + a big scale model; free, but <strong>last entry 17:30 / closes 18:00</strong>, so go briskly.",
         "price": "Free"
       },
       {
@@ -76,7 +86,17 @@ const DAYS = [
       },
       {
         "time": "17:30",
-        "activity": "Cafe: <strong><a href=\"https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Cheong Su Dang</a></strong> (stepping stones over water inside the cafe) or <strong><a href=\"https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong\" target=\"_blank\">★★☆☆☆ ☕ Seoul Coffee</a></strong> (squid-ink butter bread). Both open daily; Cheong Su Dang can have long waits (souffle castella baked to order).",
+        "activity": "<strong>⚖️ Choose one — Ikseon-dong cafe stop.</strong> Both open daily.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Cheong Su Dang</a></strong> — stepping stones over water inside the cafe; can have long waits (souffle castella baked to order).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong\" target=\"_blank\">★★☆☆☆ ☕ Seoul Coffee</a></strong> — squid-ink butter bread.",
         "price": ""
       },
       {
@@ -191,7 +211,12 @@ const DAYS = [
       },
       {
         "time": "13:30",
-        "activity": "Walk ~30 min east (past Gyeongbokgung/Bukchon) to <strong><a href=\"https://www.google.com/maps/search/Changdeokgung+Palace+Seoul\" target=\"_blank\">★★★★★ 🏯🌳🎫 Changdeokgung Palace + Secret Garden</a></strong> — UNESCO WH; open Wed (closed Mon). Secret Garden = separate 90-min <strong>timed guided tour</strong>; <strong>English tours 10:30/11:30/14:30/15:30 — aim for 14:30</strong>, book online ~6 days ahead (opens 10:00 KST, half of slots) as Aug fills.",
+        "activity": "Walk ~30 min east past Gyeongbokgung/Bukchon to Changdeokgung.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Changdeokgung+Palace+Seoul\" target=\"_blank\">★★★★★ 🏯🌳🎫 Changdeokgung Palace + Secret Garden</a></strong> — UNESCO WH; open Wed (closed Mon). Secret Garden = separate 90-min <strong>timed guided tour</strong>; <strong>English tours 10:30/11:30/14:30/15:30 — aim for 14:30</strong>, book online ~6 days ahead (opens 10:00 KST, half of slots) as Aug fills.",
         "price": "Palace 3,000 + garden 5,000 (adult); youth 7-18: 1,500 + 2,500"
       },
       {
@@ -416,12 +441,32 @@ const DAYS = [
     "schedule": [
       {
         "time": "7:30",
-        "activity": "<strong>DMZ Tour pickup — standard half-day (no defector Q&A)</strong> (confirm exact point — many operators use a downtown meeting spot, not the hotel door). Half-day tour returns <strong>~13:30–14:00</strong> to a <strong>central drop-off</strong> (Hongik Univ / City Hall / Myeongdong), <strong>not</strong> to Yongsan — add 20–40 min transit to War Memorial, so realistic arrival there is <strong>~14:40–15:00</strong> and the 14:30 start below slips accordingly. (We deliberately skipped the full-day defector-Q&A tour, which returns ~17:00 and would kill the afternoon museum cluster.)",
+        "activity": "<strong>DMZ Tour pickup — standard half-day (no defector Q&A)</strong> (confirm exact point — many operators use a downtown meeting spot, not the hotel door). <strong>Physical passports required for all 6</strong> (no digital/ID-card) — standard tour needs numbers ~5-7 days ahead, but book ~2 weeks out for August availability. Min age varies by operator (commonly 7+) — all our kids clear it. Standard DMZ tours run <strong>Tue-Sun (DMZ sites closed Mon + weekday national holidays</strong>; Aug 13 is Thu & not a holiday, so OK — Aug 15 Liberation Day falls on a <strong>Sat, so sites stay OPEN</strong>; the Mon Aug 17 substitute holiday is moot as Mondays are already closed). <strong>JSA/Panmunjom stays closed to general tourists</strong> (UNC civilian tours suspended since 2023; JSA visitor center partially reopened 2025, but the blue conference buildings remain off-limits) — the standard half-day tour here is what's bookable.",
         "price": "~50,000-75,000 KRW"
       },
       {
         "time": "",
-        "activity": "★★★★☆ Imjingak Peace Park, ★★★★★ 3rd Infiltration Tunnel (73m underground, helmets provided), ★★★★☆ Dora Observatory (binoculars into North Korea), ★★★☆☆ Dorasan Station (last stop before Pyongyang — *not on every half-day; confirm the stop list*). <strong>Physical passports required for all 6</strong> (no digital/ID-card) — standard tour needs numbers ~5-7 days ahead, but book ~2 weeks out for August availability. Min age varies by operator (commonly 7+) — all our kids clear it. <strong>Photo limits:</strong> yellow photo-line at Dora Observatory, no-photo/phones-in-lockers in the tunnel — brief the kids. Standard DMZ tours run <strong>Tue-Sun (DMZ sites closed Mon + weekday national holidays</strong>; Aug 13 is Thu & not a holiday, so OK — Aug 15 Liberation Day falls on a <strong>Sat, so sites stay OPEN</strong>; the Mon Aug 17 substitute holiday is moot as Mondays are already closed). <strong>JSA/Panmunjom stays closed to general tourists</strong> (UNC civilian tours suspended since 2023; JSA visitor center partially reopened 2025, but the blue conference buildings remain off-limits) — the standard DMZ tour above is what's bookable.",
+        "activity": "★★★★☆ Imjingak Peace Park.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "★★★★★ 3rd Infiltration Tunnel — 73m underground, helmets provided. <strong>No photos, phones into lockers</strong> inside the tunnel — brief the kids.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "★★★★☆ Dora Observatory — binoculars into North Korea. <strong>Yellow photo-line</strong> — no shots past it; brief the kids.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "★★★☆☆ Dorasan Station — last stop before Pyongyang (*not on every half-day; confirm the stop list*).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Half-day tour returns <strong>~13:30–14:00</strong> to a <strong>central drop-off</strong> (Hongik Univ / City Hall / Myeongdong), <strong>not</strong> to Yongsan — add 20–40 min transit to War Memorial, so realistic arrival there is <strong>~14:40–15:00</strong> and the 14:30 start below slips accordingly. (We deliberately skipped the full-day defector-Q&A tour, which returns ~17:00 and would kill the afternoon museum cluster.)",
         "price": ""
       },
       {
@@ -441,12 +486,37 @@ const DAYS = [
       },
       {
         "time": "18:00",
-        "activity": "Cafe: <a href=\"https://www.google.com/maps/search/Dotori+cafe+Yongsan+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Dotori</a> (Studio Ghibli vibes, Yongridan-gil) or <a href=\"https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul\" target=\"_blank\">★★★☆☆ 🍵 OSULLOC Tea House Hannam</a> (green tea, black lava rock walls). ⚠️ <del>Anthracite Hannam</del> is <strong>permanently closed</strong> (Dec 2025).",
+        "activity": "<strong>⚖️ Choose one — cafe vs. tea house before dinner.</strong> ⚠️ <del>Anthracite Hannam</del> is <strong>permanently closed</strong> (Dec 2025).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Dotori+cafe+Yongsan+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Dotori</a></strong> — Studio Ghibli vibes, Yongridan-gil.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul\" target=\"_blank\">★★★☆☆ 🍵 OSULLOC Tea House Hannam</a></strong> — green tea, black lava rock walls.",
         "price": ""
       },
       {
         "time": "19:00",
-        "activity": "Dinner: <strong><a href=\"https://www.google.com/maps/search/Maple+Tree+House+Seoul\" target=\"_blank\">★★★☆☆ 🍜 Maple Tree House</a></strong> — Upscale Itaewon Korean BBQ (galbi, marinated short rib), staff grill for you; the sit-down option. Or lighter: <a href=\"https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Vatos Urban Tacos</a> (Korean-Mexican fusion) or <a href=\"https://www.google.com/maps/search/Chompi+Hannam+Seoul\" target=\"_blank\">★☆☆☆☆ 🍜 Chompi</a> (poke bowls, BTS SUGA's brother's place).",
+        "activity": "<strong>⚖️ Choose one — dinner in Itaewon/Hannam.</strong> The BBQ is the sit-down option; the other two are lighter.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Maple+Tree+House+Seoul\" target=\"_blank\">★★★☆☆ 🍜 Maple Tree House</a></strong> — Upscale Itaewon Korean BBQ (galbi, marinated short rib), staff grill for you.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Vatos Urban Tacos</a></strong> — Korean-Mexican fusion.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option C ·</strong> <strong><a href=\"https://www.google.com/maps/search/Chompi+Hannam+Seoul\" target=\"_blank\">★☆☆☆☆ 🍜 Chompi</a></strong> — poke bowls, BTS SUGA's brother's place.",
         "price": ""
       }
     ],
@@ -586,13 +656,38 @@ const DAYS = [
       },
       {
         "time": "13:45",
-        "activity": "<strong>Animal cafe</strong> — Pick one: <a href=\"https://www.google.com/maps/search/Table+A+Animal+Cafe+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🐾 Table A</a> (raccoons + meerkats, 4 floors, ~12,000 KRW, Fri 12:00–22:00), <a href=\"https://www.google.com/maps/search/Meerkat+Friends+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🐾 Meerkat Friends</a> (meerkats, foxes, wallabies; opens ~13:30), or <a href=\"https://www.google.com/maps/search/Thanks+Nature+Sheep+Cafe+Seoul\" target=\"_blank\">★★☆☆☆ ☕🐾 Thanks Nature</a> (sheep on patio, in Seogyo Prugio mall). ⚠️ Blind Alley raccoon cafe PERMANENTLY CLOSED (raccoons rehomed to a zoo) — dropped. (These cafes open 12:00–13:30, so they're afternoon-locked anyway.)",
+        "activity": "<strong>⚖️ Choose one — animal cafe.</strong> (These cafes open 12:00–13:30, so they're afternoon-locked anyway.) ⚠️ Blind Alley raccoon cafe PERMANENTLY CLOSED (raccoons rehomed to a zoo) — dropped.",
         "price": "~12,000 KRW"
       },
       {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Table+A+Animal+Cafe+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🐾 Table A</a></strong> — raccoons + meerkats, 4 floors, ~12,000 KRW, Fri 12:00–22:00.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Meerkat+Friends+Hongdae+Seoul\" target=\"_blank\">★★★☆☆ ☕🐾 Meerkat Friends</a></strong> — meerkats, foxes, wallabies; opens ~13:30.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option C ·</strong> <strong><a href=\"https://www.google.com/maps/search/Thanks+Nature+Sheep+Cafe+Seoul\" target=\"_blank\">★★☆☆☆ ☕🐾 Thanks Nature</a></strong> — sheep on patio, in Seogyo Prugio mall.",
+        "price": ""
+      },
+      {
         "time": "15:00",
-        "activity": "<strong>Ice cream crawl</strong> — Pick 1-2: <a href=\"https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Fell + Cole</a> (makgeolli, miso vanilla, perilla leaf), <a href=\"https://www.google.com/maps/search/SOBOK+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ SOBOK</a> (rice-based injeolmi soft serve, 13:00–23:00), plus a \"More Gelato\" pick below. ⚠️ <del>Molly's Pops</del> (wasabi popsicle) appears permanently closed — dropped.",
+        "activity": "<strong>⚖️ Choose 1-2 — ice cream crawl.</strong> A \"More Gelato\" pick from Also Nearby below also counts. ⚠️ <del>Molly's Pops</del> (wasabi popsicle) appears permanently closed — dropped.",
         "price": "~5,000-8,000 KRW each"
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Fell + Cole</a></strong> — makgeolli, miso vanilla, perilla leaf.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/SOBOK+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ ☕ SOBOK</a></strong> — rice-based injeolmi soft serve, 13:00–23:00.",
+        "price": ""
       },
       {
         "time": "16:15",
@@ -611,12 +706,27 @@ const DAYS = [
       },
       {
         "time": "19:00",
-        "activity": "Dinner (back in Hongdae): <a href=\"https://www.google.com/maps/search/Pungcheon+Eel+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Pungcheon Eel</a> (grilled eel over charcoal) or <a href=\"https://www.google.com/maps/search/Honkaz+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Honkaz</a> (cheese-stuffed tonkatsu).",
+        "activity": "<strong>⚖️ Choose one — dinner back in Hongdae.</strong>",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Pungcheon+Eel+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Pungcheon Eel</a></strong> — grilled eel over charcoal.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Honkaz+Hongdae+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Honkaz</a></strong> — cheese-stuffed tonkatsu.",
         "price": ""
       },
       {
         "time": "20:00",
-        "activity": "<strong>Hongdae shopping + street busking</strong> — Vintage stores, indie records, K-pop merch, Acorn Caricature (~5,000 KRW) along the Fri pedestrian-only street; free busking along Eoulmadang-ro (~19:00–23:00, mostly K-pop dance covers). Verified 2026.",
+        "activity": "<strong>Hongdae shopping</strong> — Vintage stores, indie records, K-pop merch, Acorn Caricature (~5,000 KRW) along the Fri pedestrian-only street.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Street busking</strong> — free busking along Eoulmadang-ro (~19:00–23:00, mostly K-pop dance covers). Verified 2026.",
         "price": ""
       }
     ],
@@ -786,22 +896,42 @@ const DAYS = [
       },
       {
         "time": "13:45",
-        "activity": "Taxi Gimyujeong → <strong>Soyang Dam pier</strong> (~35 min), then <strong><a href=\"https://www.google.com/maps/search/Cheongpyeongsa+Temple+Chuncheon\" target=\"_blank\">★★★★☆ 🏯🌊🚡🧒 Cheongpyeongsa Temple</a></strong> — a scenic <strong>ferry across Soyang Lake</strong> (~10 min, boats ~every 30 min), then a ~15–20 min forest walk past <strong>Guseong Waterfall</strong> to a serene mountain temple founded <strong>973 AD</strong> (Goryeo era). Real history + a boat ride + a waterfall — a genuine culture stop, not a gimmick. Allow ~2.5h round trip incl. taxi + ferry waits. Grounds open ~sunrise–sunset.",
-        "price": "Ferry ~6,000 adult / ~4,000 child round-trip; temple entry free; taxi ~25,000/car"
+        "activity": "Taxi Gimyujeong → <strong>Soyang Dam pier</strong> (~35 min, 2 cars for 6).",
+        "price": "~25,000 KRW/car"
+      },
+      {
+        "time": "14:20",
+        "activity": "Scenic <strong>ferry across Soyang Lake</strong> to the Cheongpyeongsa landing (~10 min, boats ~every 30 min).",
+        "price": "~6,000 adult / ~4,000 child round-trip"
+      },
+      {
+        "time": "",
+        "activity": "~15–20 min forest walk up from the landing, past <strong>Guseong Waterfall</strong>.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Cheongpyeongsa+Temple+Chuncheon\" target=\"_blank\">★★★★☆ 🏯🌊🚡🧒 Cheongpyeongsa Temple</a></strong> — a serene mountain temple founded <strong>973 AD</strong> (Goryeo era). Real history + a boat ride + a waterfall — a genuine culture stop, not a gimmick. Allow ~2.5h round trip incl. taxi + ferry waits. Grounds open ~sunrise–sunset.",
+        "price": "Free"
       },
       {
         "time": "15:30",
-        "activity": "Bus to <strong><a href=\"https://www.google.com/maps/search/Garden+of+Morning+Calm+Gapyeong\" target=\"_blank\">★★★☆☆ 🌳 Garden of Morning Calm</a></strong> (open 08:30–19:00, last entry 18:00; ~40 min via Gapyeong City Tour Bus / Cheongpyeong shuttle — note it lies <strong>west</strong>, so it's a long backtrack from the Soyang Dam / Gimyujeong side). Botanical garden, peaceful end to active day. <strong>Heads-up:</strong> the lighting festival that makes it world-famous runs Dec–Mar; in summer it's \"just\" a pretty garden, not the postcard version.",
+        "activity": "<strong>⚖️ Choose one — botanical garden vs. lake cable car vs. free museum to close the day.</strong> The garden lies <strong>west</strong>, a long backtrack from the Soyang Dam / Gimyujeong side; the other two are in <strong>Chuncheon</strong>, right on the ITX line home, so they chain straight off Cheongpyeongsa with no westward backtrack.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Garden+of+Morning+Calm+Gapyeong\" target=\"_blank\">★★★☆☆ 🌳 Garden of Morning Calm</a></strong> — Botanical garden, peaceful end to active day; ~40 min by Gapyeong City Tour Bus / Cheongpyeong shuttle. Open 08:30–19:00, last entry 18:00. <strong>Heads-up:</strong> the lighting festival that makes it world-famous runs Dec–Mar; in summer it's \"just\" a pretty garden, not the postcard version.",
         "price": "Adult 11,000 / youth 8,500 / child 7,500 KRW"
       },
       {
-        "time": "15:30",
-        "activity": "*(Alternative to Garden of Morning Calm — but in <strong>Chuncheon</strong>, right on the ITX line home, so it chains straight off Cheongpyeongsa with no westward backtrack; pick one.)* <strong><a href=\"https://www.google.com/maps/search/Samaksan+Lake+Cable+Car+Chuncheon\" target=\"_blank\">★★★★☆ 🚡📸🧒 Samaksan Lake Cable Car</a></strong> — Korea's longest cable car (3.61km) over Uiamho Lake; glass-floor \"crystal\" cabins + a summit skywalk. A scenic thrill that rhymes with the day's zipline/ferry, not a photo backdrop. Open ~09:00–20:00 (seasonal) — runs late, so it also works as the last stop.",
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Samaksan+Lake+Cable+Car+Chuncheon\" target=\"_blank\">★★★★☆ 🚡📸🧒 Samaksan Lake Cable Car</a></strong> — Korea's longest cable car (3.61km) over Uiamho Lake; glass-floor \"crystal\" cabins + a summit skywalk. A scenic thrill that rhymes with the day's zipline/ferry, not a photo backdrop. Open ~09:00–20:00 (seasonal) — runs late, so it also works as the last stop.",
         "price": "Round-trip regular 24,000 / child 18,000; crystal 28,000 / child 22,000 KRW"
       },
       {
-        "time": "15:30",
-        "activity": "*(Alternative — real culture, <strong>free</strong>, air-conditioned; also in Chuncheon on the way home.)* <strong><a href=\"https://www.google.com/maps/search/Chuncheon+National+Museum+Chuncheon\" target=\"_blank\">★★★★☆ 🏛️🧒 Chuncheon National Museum</a></strong> — Gangwon-do history + a dedicated children's museum. 09:00–18:00, last entry 17:30, <strong>closed Mon</strong> (today Sat → open).",
+        "time": "",
+        "activity": "<strong>Option C ·</strong> <strong><a href=\"https://www.google.com/maps/search/Chuncheon+National+Museum+Chuncheon\" target=\"_blank\">★★★★☆ 🏛️🧒 Chuncheon National Museum</a></strong> — real culture, <strong>free</strong>, air-conditioned: Gangwon-do history + a dedicated children's museum. 09:00–18:00, last entry 17:30, <strong>closed Mon</strong> (today Sat → open).",
         "price": "Free"
       },
       {
@@ -840,7 +970,17 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:30",
-        "activity": "Hike up <strong>Namsan Mountain</strong> to N Seoul Tower (or take <strong><a href=\"https://www.google.com/maps/search/Namsan+Cable+Car+Seoul\" target=\"_blank\">★★★☆☆ 🚡🗼 Namsan Cable Car</a></strong> — runs ~10:00–23:00, so at 9:30 you'd have to hike; cable car is round-trip).",
+        "activity": "<strong>⚖️ Choose one — hike up Namsan, or ride the cable car.</strong> The cable car runs ~10:00–23:00, so at 9:30 you'd have to hike.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> Hike up <strong>Namsan Mountain</strong> to N Seoul Tower.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Namsan+Cable+Car+Seoul\" target=\"_blank\">★★★☆☆ 🚡🗼 Namsan Cable Car</a></strong> — Runs ~10:00–23:00; ticket is round-trip.",
         "price": "~15,000 KRW adult / 11,500 KRW child (not on the pass)"
       },
       {
@@ -855,8 +995,18 @@ const DAYS = [
       },
       {
         "time": "12:30",
-        "activity": "Lunch: <strong><a href=\"https://www.google.com/maps/search/Myeongdong+Kyoja+Seoul\" target=\"_blank\">★★★☆☆ 🍜 Myeongdong Kyoja</a></strong> — Since 1966. Legendary dumplings and noodle soup. Michelin Bib Gourmand. Or, for the heat, a 10-min hop NE toward Euljiro to <strong><a href=\"https://www.google.com/maps/search/Woo+Lae+Oak+Seoul\" target=\"_blank\">★★★☆☆ 🍜 Woo Lae Oak</a></strong> — since 1946; Seoul's most famous Pyongyang-style *mul naengmyeon* (icy buckwheat noodles) + bulgogi.",
-        "price": "~10,000 KRW / naengmyeon ~16,000"
+        "activity": "<strong>⚖️ Choose one — lunch: dumplings in Myeongdong, or cold noodles in Euljiro.</strong>",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Myeongdong+Kyoja+Seoul\" target=\"_blank\">★★★☆☆ 🍜 Myeongdong Kyoja</a></strong> — Since 1966. Legendary dumplings and noodle soup. Michelin Bib Gourmand.",
+        "price": "~10,000 KRW"
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Woo+Lae+Oak+Seoul\" target=\"_blank\">★★★☆☆ 🍜 Woo Lae Oak</a></strong> — Better for the heat, a 10-min hop NE toward Euljiro; since 1946, Seoul's most famous Pyongyang-style *mul naengmyeon* (icy buckwheat noodles) + bulgogi.",
+        "price": "naengmyeon ~16,000"
       },
       {
         "time": "14:00",
@@ -865,17 +1015,47 @@ const DAYS = [
       },
       {
         "time": "15:30",
-        "activity": "Walk to <strong><a href=\"https://www.google.com/maps/search/Namdaemun+Market+Seoul\" target=\"_blank\">★★★☆☆ 🛍️ Namdaemun Market</a></strong> — Korea's largest traditional market (since 1400s). Souvenirs, fabrics, Namdaemun Specialty Hotteok (honey, japchae, kimchi varieties). ⚠️ <strong>Sunday:</strong> most indoor/clothing shops and wholesale merchants are CLOSED; the food-stall alleys still run but with fewer vendors — treat this as a snack/street-food stop, not a shopping stop. On the way, pause at <strong><a href=\"https://www.google.com/maps/search/Namdaemun+Gate+Seoul\" target=\"_blank\">★★★☆☆ 🏯📸 Namdaemun Gate (Sungnyemun)</a></strong> — National Treasure No. 1, the Great South Gate (1398), floodlit island right beside the market.",
+        "activity": "Walk Myeongdong → Namdaemun.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Namdaemun+Gate+Seoul\" target=\"_blank\">★★★☆☆ 🏯📸 Namdaemun Gate (Sungnyemun)</a></strong> — Pause here on the way: National Treasure No. 1, the Great South Gate (1398), floodlit island right beside the market.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Namdaemun+Market+Seoul\" target=\"_blank\">★★★☆☆ 🛍️ Namdaemun Market</a></strong> — Korea's largest traditional market (since 1400s). Souvenirs, fabrics, Namdaemun Specialty Hotteok (honey, japchae, kimchi varieties). ⚠️ <strong>Sunday:</strong> most indoor/clothing shops and wholesale merchants are CLOSED; the food-stall alleys still run but with fewer vendors — treat this as a snack/street-food stop, not a shopping stop.",
         "price": ""
       },
       {
         "time": "16:15",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Deoksugung+Palace+Seoul\" target=\"_blank\">★★★★☆ 🏯🎫 Deoksugung Palace</a></strong> — With Sunday shopping dead at Namdaemun, spend the slot on the one palace this trip otherwise skips (~10-min walk to City Hall Plaza): traditional halls + the Western stone hall (Seokjojeon). Open Sun to 21:00 (closed Mon), 1,000 KRW / free under 19. Guard change at Daehanmun 11:00/14:00/15:30 (you'll miss it — come for the grounds + the Doldam-gil stone-wall walk). On that same path, add the free <strong><a href=\"https://www.google.com/maps/search/Seoul+Museum+of+Art+Seosomun\" target=\"_blank\">★★★☆☆ 🏛️🎨 Seoul Museum of Art (SeMA)</a></strong> — contemporary art in the former Supreme Court building (Sun to 19:00, closed Mon).",
+        "activity": "Walk Namdaemun → City Hall Plaza (~10 min).",
+        "price": ""
+      },
+      {
+        "time": "16:25",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Deoksugung+Palace+Seoul\" target=\"_blank\">★★★★☆ 🏯🎫 Deoksugung Palace</a></strong> — With Sunday shopping dead at Namdaemun, spend the slot on the one palace this trip otherwise skips: traditional halls + the Western stone hall (Seokjojeon). Open Sun to 21:00 (closed Mon), 1,000 KRW / free under 19. Guard change at Daehanmun 11:00/14:00/15:30 (you'll miss it — come for the grounds + the Doldam-gil stone-wall walk).",
         "price": "1,000 KRW; free under 19"
       },
       {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Seoul+Museum+of+Art+Seosomun\" target=\"_blank\">★★★☆☆ 🏛️🎨 Seoul Museum of Art (SeMA)</a></strong> — On that same path: free contemporary art in the former Supreme Court building (Sun to 19:00, closed Mon).",
+        "price": "Free"
+      },
+      {
         "time": "17:00",
-        "activity": "Walk to <strong>Euljiro</strong> (~15 min NE from Deoksugung) — <a href=\"https://www.google.com/maps/search/Coffee+Hanyakbang+Euljiro+Seoul\" target=\"_blank\">★★★☆☆ ☕🤪 Coffee Hanyakbang</a> (herbal medicine-themed hidden cafe), <a href=\"https://www.google.com/maps/search/Sewoon+Sangga+Seoul\" target=\"_blank\">★★☆☆☆ 🗼 Sewoon Sangga</a> rooftop garden views.",
+        "activity": "Walk Deoksugung → <strong>Euljiro</strong> (~15 min NE).",
+        "price": ""
+      },
+      {
+        "time": "17:15",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Coffee+Hanyakbang+Euljiro+Seoul\" target=\"_blank\">★★★☆☆ ☕🤪 Coffee Hanyakbang</a></strong> — Herbal medicine-themed hidden cafe.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Sewoon+Sangga+Seoul\" target=\"_blank\">★★☆☆☆ 🗼 Sewoon Sangga</a></strong> — Rooftop garden views.",
         "price": ""
       },
       {
@@ -1039,12 +1219,32 @@ const DAYS = [
       },
       {
         "time": "18:30",
-        "activity": "Cafe: <a href=\"https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Mountain Nook</a> (forest-themed mega-cafe) or <a href=\"https://www.google.com/maps/search/Bontemps+Songnidan+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Bontemps</a> (Korean twisted donuts).",
+        "activity": "<strong>⚖️ Choose one — cafe stop.</strong> Forest-themed mega-cafe vs. Korean twisted donuts.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Mountain Nook</a></strong> — Forest-themed mega-cafe.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Bontemps+Songnidan+Seoul\" target=\"_blank\">★★☆☆☆ ☕ Bontemps</a></strong> — Korean twisted donuts.",
         "price": ""
       },
       {
         "time": "19:30",
-        "activity": "Dinner: <a href=\"https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Motor City</a> (Detroit-style pizza) or <a href=\"https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Pizzeria Lago</a> (wood-fired).",
+        "activity": "<strong>⚖️ Choose one — dinner.</strong> Both are pizza: Detroit-style vs. wood-fired.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Motor City</a></strong> — Detroit-style pizza.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul\" target=\"_blank\">★★☆☆☆ 🍜 Pizzeria Lago</a></strong> — Wood-fired pizza.",
         "price": ""
       }
     ],
@@ -1104,12 +1304,27 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Seoul+Forest+Seoul\" target=\"_blank\">★★★☆☆ 🌳🧒 Seoul Forest Park</a></strong> in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Park is free & open 24h (butterfly garden opens 10:00, May–Oct, closed Mon). Then: <strong><a href=\"https://www.google.com/maps/search/Common+Ground+Seoul\" target=\"_blank\">★★☆☆☆ 🛍️ Common Ground</a></strong> shipping container mall (Konkuk Univ area). ⚠️ Common Ground <strong>opens 11:00 daily</strong> — too early for this 9–10am window; skip or reorder.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Seoul+Forest+Seoul\" target=\"_blank\">★★★☆☆ 🌳🧒 Seoul Forest Park</a></strong> in Seongsu-dong — Deer feeding area, butterfly garden, rose garden. Park is free & open 24h (butterfly garden opens 10:00, May–Oct, closed Mon).",
         "price": "Free"
       },
       {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Common+Ground+Seoul\" target=\"_blank\">★★☆☆☆ 🛍️ Common Ground</a></strong> — Shipping container mall (Konkuk Univ area). ⚠️ Common Ground <strong>opens 11:00 daily</strong> — too early for this 9–10am window; skip or reorder.",
+        "price": ""
+      },
+      {
         "time": "10:30",
-        "activity": "<strong>Seongsu warehouse cafes</strong> — Dozens of industrial-chic cafes in converted factories. Or: <a href=\"https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul\" target=\"_blank\">★★☆☆☆ 🛍️ Olive Young N Seongsu</a> 5-floor K-beauty flagship.",
+        "activity": "<strong>⚖️ Choose one — warehouse cafes or the K-beauty flagship.</strong>",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong>Seongsu warehouse cafes</strong> — Dozens of industrial-chic cafes in converted factories.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul\" target=\"_blank\">★★☆☆☆ 🛍️ Olive Young N Seongsu</a></strong> — 5-floor K-beauty flagship.",
         "price": ""
       },
       {
@@ -1124,7 +1339,17 @@ const DAYS = [
       },
       {
         "time": "11:45",
-        "activity": "*(Optional COEX add-on before the train — pick at most one; you leave by 13:00.)* <strong><a href=\"https://www.google.com/maps/search/Bongeunsa+Temple+Seoul\" target=\"_blank\">★★★☆☆ 🏯 Bongeunsa Temple</a></strong> — 1,000-year-old Buddhist temple directly across from COEX; a serene ~20-min walk-through beneath the giant Maitreya Buddha. Or <strong><a href=\"https://www.google.com/maps/search/COEX+Aquarium+Seoul\" target=\"_blank\">★★★☆☆ 🐾🧒🎫 COEX Aquarium</a></strong> — inside the mall (sharks, rays, penguins), but budget ~1.5h, so only if you skipped Seoul Forest.",
+        "activity": "<strong>⚖️ Choose one (or skip) — optional COEX add-on before the train.</strong> Pick at most one; you leave by 13:00.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Bongeunsa+Temple+Seoul\" target=\"_blank\">★★★☆☆ 🏯 Bongeunsa Temple</a></strong> — 1,000-year-old Buddhist temple directly across from COEX; a serene ~20-min walk-through beneath the giant Maitreya Buddha.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/COEX+Aquarium+Seoul\" target=\"_blank\">★★★☆☆ 🐾🧒🎫 COEX Aquarium</a></strong> — Inside the mall (sharks, rays, penguins), but budget ~1.5h, so only if you skipped Seoul Forest.",
         "price": ""
       },
       {
@@ -1144,7 +1369,17 @@ const DAYS = [
       },
       {
         "time": "~16:20",
-        "activity": "Arrive Busan (Busan Station). Check in hotel (<strong>Haeundae area</strong> recommended; ~30 min by metro/taxi from station).",
+        "activity": "Arrive Busan (Busan Station).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Metro/taxi Busan Station → Haeundae (~30 min).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Check in at the hotel (<strong>Haeundae area</strong> recommended).",
         "price": ""
       },
       {
@@ -1154,8 +1389,18 @@ const DAYS = [
       },
       {
         "time": "18:00",
-        "activity": "*(Optional if daylight holds.)* <strong><a href=\"https://www.google.com/maps/search/Dongbaekseom+Busan\" target=\"_blank\">★★★☆☆ 🌳🚶 Dongbaekseom (Dongbaek Island)</a></strong> — Wooded headland loop off the west end of Haeundae Beach: seaside boardwalk, the APEC Nurimaru House, mermaid statue, skyline views (~40-min loop). Or drive up <strong><a href=\"https://www.google.com/maps/search/Dalmaji+Hill+Busan\" target=\"_blank\">★★★☆☆ 🚶🗼 Dalmaji Hill</a></strong> east of Mipo for hillside galleries/cafes + a sunset view.",
+        "activity": "<strong>⚖️ Choose one — optional if daylight holds: coastal headland loop vs. hillside sunset.</strong>",
         "price": "Free"
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Dongbaekseom+Busan\" target=\"_blank\">★★★☆☆ 🌳🚶 Dongbaekseom (Dongbaek Island)</a></strong> — Wooded headland loop off the west end of Haeundae Beach: seaside boardwalk, the APEC Nurimaru House, mermaid statue, skyline views (~40-min loop).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Dalmaji+Hill+Busan\" target=\"_blank\">★★★☆☆ 🚶🗼 Dalmaji Hill</a></strong> — Drive up, east of Mipo, for hillside galleries/cafes + a sunset view.",
+        "price": ""
       },
       {
         "time": "18:45",
@@ -1164,7 +1409,17 @@ const DAYS = [
       },
       {
         "time": "19:45",
-        "activity": "Dinner: ⚠️ <del>Haeundae Pojangmacha-chon</del> (orange-tented beach seafood stalls) was <strong>permanently closed/demolished in Jan 2024</strong> — no longer exists. Instead: <a href=\"https://www.google.com/maps/search/Haeundae+Milmyeon+Busan\" target=\"_blank\">★★★☆☆ 🍜 Haeundae Milmyeon</a> (cold wheat noodles — Busan signature dish), or seafood/eomuk at <a href=\"https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan\" target=\"_blank\">★★★☆☆ 🛍️🍜 Haeundae Traditional Market</a>.",
+        "activity": "<strong>⚖️ Choose one — dinner.</strong> ⚠️ <del>Haeundae Pojangmacha-chon</del> (orange-tented beach seafood stalls) was <strong>permanently closed/demolished in Jan 2024</strong> — no longer exists, so it's one of these two instead.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Haeundae+Milmyeon+Busan\" target=\"_blank\">★★★☆☆ 🍜 Haeundae Milmyeon</a></strong> — Cold wheat noodles, a Busan signature dish.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Haeundae+Traditional+Market+Busan\" target=\"_blank\">★★★☆☆ 🛍️🍜 Haeundae Traditional Market</a></strong> — Seafood / eomuk in the market.",
         "price": ""
       }
     ],
@@ -1274,7 +1529,12 @@ const DAYS = [
       },
       {
         "time": "7:30",
-        "activity": "*(Optional temple swap — far N, Geumjeong-gu; only if you skip the Blueline or trim Gamcheon.)* <strong><a href=\"https://www.google.com/maps/search/Beomeosa+Temple+Busan\" target=\"_blank\">★★★☆☆ 🏯🌳 Beomeosa Temple</a></strong> — Serene 678-AD mountain temple in ancient pine forest, far less touristy than Yonggungsa. Pair it with <strong><a href=\"https://www.google.com/maps/search/Dongnae+Halmae+Pajeon+Busan\" target=\"_blank\">★★★☆☆ 🍜 Dongnae Halmae Pajeon</a></strong> on the way back — a four-generation Dongnae *pajeon* (seafood-scallion pancake) institution.",
+        "activity": "*(Optional temple swap — far N, Geumjeong-gu; only if you skip the Blueline or trim Gamcheon.)* <strong><a href=\"https://www.google.com/maps/search/Beomeosa+Temple+Busan\" target=\"_blank\">★★★☆☆ 🏯🌳 Beomeosa Temple</a></strong> — Serene 678-AD mountain temple in ancient pine forest, far less touristy than Yonggungsa.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Dongnae+Halmae+Pajeon+Busan\" target=\"_blank\">★★★☆☆ 🍜 Dongnae Halmae Pajeon</a></strong> — Pair it with the temple on the way back: a four-generation Dongnae *pajeon* (seafood-scallion pancake) institution.",
         "price": ""
       },
       {
@@ -1294,12 +1554,17 @@ const DAYS = [
       },
       {
         "time": "13:30",
-        "activity": "Head to <strong>Nampo-dong</strong> area (subway or taxi).",
+        "activity": "<strong>⚖️ Choose one — the Nampo-dong afternoon, or the SE-coast detour.</strong> The detour replaces the Jagalchi → BIFF → Gukje → Busan Tower rows below; see the \"Optional SE-coast detour\" route above.",
         "price": ""
       },
       {
-        "time": "13:30",
-        "activity": "*(Optional SE-coast alternative to the Gamcheon/Nampo afternoon — see the \"SE-coast detour\" route above.)* <strong><a href=\"https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan\" target=\"_blank\">★★★☆☆ 🌳🚶 Igidae Coastal Walk</a></strong> (volcanic-rock cliff trail, sea caves) → <strong><a href=\"https://www.google.com/maps/search/Oryukdo+Skywalk+Busan\" target=\"_blank\">★★★☆☆ 🗼📸 Oryukdo Skywalk</a></strong> (glass bridge 35m over the sea, 09:00–19:00) → <strong><a href=\"https://www.google.com/maps/search/Gwangalli+Beach+Busan\" target=\"_blank\">★★★★☆ 🌳📸 Gwangalli Beach</a></strong> (Gwangan Bridge views; M drone show Sat/Sun only — not Wed).",
+        "time": "",
+        "activity": "<strong>Option A ·</strong> Head to <strong>Nampo-dong</strong> area (subway or taxi) for the timed rows below.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> *(SE-coast alternative to the Gamcheon/Nampo afternoon.)* <strong><a href=\"https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan\" target=\"_blank\">★★★☆☆ 🌳🚶 Igidae Coastal Walk</a></strong> (volcanic-rock cliff trail, sea caves) → <strong><a href=\"https://www.google.com/maps/search/Oryukdo+Skywalk+Busan\" target=\"_blank\">★★★☆☆ 🗼📸 Oryukdo Skywalk</a></strong> (glass bridge 35m over the sea, 09:00–19:00) → <strong><a href=\"https://www.google.com/maps/search/Gwangalli+Beach+Busan\" target=\"_blank\">★★★★☆ 🌳📸 Gwangalli Beach</a></strong> (Gwangan Bridge views; M drone show Sat/Sun only — not Wed).",
         "price": ""
       },
       {
@@ -1424,12 +1689,27 @@ const DAYS = [
     "schedule": [
       {
         "time": "5:30",
-        "activity": "Leave Busan hotel. Grab a convenience-store breakfast (or eat airside).",
+        "activity": "Leave Busan hotel.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Grab a convenience-store breakfast (or eat airside).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Taxi Haeundae → Gimhae T2 (~40 min) — safest this early; metro + Busan–Gimhae LRT is slower, with first trains ~5:30.",
         "price": ""
       },
       {
         "time": "6:15",
-        "activity": "Arrive <strong>Gimhae T2 (International)</strong> — aim for <strong>2.5–3h before</strong> an intl flight (summer peak). Taxi ~40 min from Haeundae is safest this early; metro + Busan–Gimhae LRT is slower with first trains ~5:30. Check in, drop bags, security + immigration.",
+        "activity": "Arrive <strong>Gimhae T2 (International)</strong> — aim for <strong>2.5–3h before</strong> an intl flight (summer peak).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Check in, drop bags, security + immigration.",
         "price": ""
       },
       {
@@ -1439,7 +1719,17 @@ const DAYS = [
       },
       {
         "time": "10:30",
-        "activity": "Arrive <strong>Taipei Taoyuan Airport</strong> (local). Immigration + baggage can take 45–90 min in summer. Buy/refill <strong>EasyCard</strong> (vending machines/service counter at MRT level B2; EZfly counter takes cards), load ~NT$500.",
+        "activity": "Arrive <strong>Taipei Taoyuan Airport</strong> (local).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Immigration + baggage — can take 45–90 min in summer.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Buy/refill <strong>EasyCard</strong> (vending machines/service counter at MRT level B2; EZfly counter takes cards), load ~NT$500.",
         "price": ""
       },
       {
@@ -1449,12 +1739,32 @@ const DAYS = [
       },
       {
         "time": "12:15",
-        "activity": "Drop bags at hotel, quick lunch nearby.",
+        "activity": "Drop bags at hotel.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Quick lunch nearby.",
         "price": ""
       },
       {
         "time": "14:00",
-        "activity": "<strong>Taipei afternoon (bonus half-day)</strong> — take it easy after the early start: <a href=\"https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei\" target=\"_blank\">★★★☆☆ 🏛️ Chiang Kai-shek Memorial Hall</a> (open daily 9:00–18:00, free; outdoor <strong>honor-guard changing hourly on the hour 9:00–17:00</strong> on Democracy Boulevard — catch the 15:00/16:00/17:00), <a href=\"https://www.google.com/maps/search/Daan+Forest+Park+Taipei\" target=\"_blank\">★★★☆☆ 🌳🚶 Da'an Forest Park</a> (open 24h, free), or just ease into the city near your hotel.",
+        "activity": "<strong>⚖️ Choose 1–2 — Taipei afternoon (bonus half-day).</strong> Take it easy after the early start.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei\" target=\"_blank\">★★★☆☆ 🏛️ Chiang Kai-shek Memorial Hall</a></strong> — Open daily 9:00–18:00, free; outdoor <strong>honor-guard changing hourly on the hour 9:00–17:00</strong> on Democracy Boulevard — catch the 15:00/16:00/17:00.",
+        "price": "Free"
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Daan+Forest+Park+Taipei\" target=\"_blank\">★★★☆☆ 🌳🚶 Da'an Forest Park</a></strong> — Open 24h, free.",
+        "price": "Free"
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option C ·</strong> Just ease into the city near your hotel.",
         "price": ""
       },
       {
@@ -1544,8 +1854,13 @@ const DAYS = [
       },
       {
         "time": "11:45",
-        "activity": "*(5-min walk N of CKS, on the way to lunch.)* <strong><a href=\"https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei\" target=\"_blank\">★★★☆☆ 🌳🏛️ 228 Peace Memorial Park</a></strong> — shaded colonial-era park with pagodas and ponds. Step into the <strong><a href=\"https://www.google.com/maps/search/National+Taiwan+Museum+228+Park+Taipei\" target=\"_blank\">★★★☆☆ 🏛️🧒 National Taiwan Museum</a></strong> inside it (a 1915 domed neoclassical hall, Taiwan's oldest museum) — natural-history + indigenous displays and a welcome AC break.",
-        "price": "Park free / museum NT$30"
+        "activity": "*(5-min walk N of CKS, on the way to lunch.)* <strong><a href=\"https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei\" target=\"_blank\">★★★☆☆ 🌳🏛️ 228 Peace Memorial Park</a></strong> — shaded colonial-era park with pagodas and ponds.",
+        "price": "Free"
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taiwan+Museum+228+Park+Taipei\" target=\"_blank\">★★★☆☆ 🏛️🧒 National Taiwan Museum</a></strong> — inside the park: a 1915 domed neoclassical hall, Taiwan's oldest museum. Natural-history + indigenous displays and a welcome AC break.",
+        "price": "NT$30"
       },
       {
         "time": "12:15",
@@ -1559,7 +1874,12 @@ const DAYS = [
       },
       {
         "time": "14:00",
-        "activity": "<strong>★★★☆☆ Ximending</strong> pedestrian area — Youth culture, street performers, graffiti, 24-hour Don Don Donki. On its edge, the <strong><a href=\"https://www.google.com/maps/search/Ximen+Red+House+Taipei\" target=\"_blank\">★★★☆☆ 📸🛍️ Ximen Red House</a></strong> — an octagonal 1908 market hall, now artisan stalls, a weekend creative market, and cafes (closed Mon; Fri OK).",
+        "activity": "<strong>★★★☆☆ Ximending</strong> pedestrian area — Youth culture, street performers, graffiti, 24-hour Don Don Donki.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Ximen+Red+House+Taipei\" target=\"_blank\">★★★☆☆ 📸🛍️ Ximen Red House</a></strong> — on the edge of Ximending; an octagonal 1908 market hall, now artisan stalls, a weekend creative market, and cafes (closed Mon; Fri OK).",
         "price": ""
       },
       {
@@ -1569,18 +1889,53 @@ const DAYS = [
       },
       {
         "time": "16:30",
-        "activity": "MRT to <strong>Dadaocheng</strong>. Walk <strong><a href=\"https://www.google.com/maps/search/Dihua+Street+Taipei\" target=\"_blank\">★★★★☆ 🚶🛍️ Dihua Street</a></strong> — Taipei's oldest commercial street (1850s). Baroque facades. Tea, herbs, beautiful old packaging.",
+        "activity": "MRT to <strong>Dadaocheng</strong>.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Dihua+Street+Taipei\" target=\"_blank\">★★★★☆ 🚶🛍️ Dihua Street</a></strong> — Taipei's oldest commercial street (1850s). Baroque facades. Tea, herbs, beautiful old packaging.",
         "price": ""
       },
       {
         "time": "17:30",
-        "activity": "Stroll to <strong><a href=\"https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei\" target=\"_blank\">★★★☆☆ 📸🍺 Dadaocheng Wharf</a></strong> (river end of Dihua St) — sunset over the Tamsui River, lantern-lit container bars, street food. *Optional 15-min hop N:* <strong><a href=\"https://www.google.com/maps/search/Dalongdong+Bao-An+Temple+Taipei\" target=\"_blank\">★★★★☆ 🏯 Dalongdong Bao-An Temple</a></strong> — a UNESCO-award Taoist temple, Taipei's finest — plus the adjacent <strong><a href=\"https://www.google.com/maps/search/Taipei+Confucius+Temple\" target=\"_blank\">★★★☆☆ 🏯 Taipei Confucius Temple</a></strong> (closed Mon).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei\" target=\"_blank\">★★★☆☆ 📸🍺 Dadaocheng Wharf</a></strong> (river end of Dihua St) — stroll down for sunset over the Tamsui River, lantern-lit container bars, street food.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "*Optional 15-min hop N* to the Dalongdong temples.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Dalongdong+Bao-An+Temple+Taipei\" target=\"_blank\">★★★★☆ 🏯 Dalongdong Bao-An Temple</a></strong> — a UNESCO-award Taoist temple, Taipei's finest.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Taipei+Confucius+Temple\" target=\"_blank\">★★★☆☆ 🏯 Taipei Confucius Temple</a></strong> — adjacent to Bao-An (closed Mon).",
         "price": ""
       },
       {
         "time": "18:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Ningxia+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🏮🍜 Ningxia Night Market</a></strong> dinner — Most local-feeling market (~10 min walk from Dihua St; opens ~17:00, runs to ~23:30). Hit: Piaoxiang Beef Noodle, Liu Yu Zi (fried taro balls), oyster omelette stall (Yuen Huan Pien). *Other night-market options today:* <strong><a href=\"https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🏮 Huaxi Street (Snake Alley)</a></strong> by Longshan (Wanhua) and Michelin-listed <strong><a href=\"https://www.google.com/maps/search/Nanjichang+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🏮 Nanjichang</a></strong> in Zhongzheng.",
+        "activity": "<strong>⚖️ Choose one — tonight's night market for dinner.</strong> Ningxia is the planned pick (nearest to Dihua St); the other two are today's alternatives.",
         "price": "~NT$200-400/person"
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Ningxia+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🏮🍜 Ningxia Night Market</a></strong> — Most local-feeling market (~10 min walk from Dihua St; opens ~17:00, runs to ~23:30). Hit: Piaoxiang Beef Noodle, Liu Yu Zi (fried taro balls), oyster omelette stall (Yuen Huan Pien).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🏮 Huaxi Street (Snake Alley)</a></strong> — by Longshan (Wanhua).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option C ·</strong> <strong><a href=\"https://www.google.com/maps/search/Nanjichang+Night+Market+Taipei\" target=\"_blank\">★★★☆☆ 🏮 Nanjichang</a></strong> — Michelin-listed, in Zhongzheng.",
+        "price": ""
       }
     ],
     "extras": [
@@ -1669,8 +2024,13 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Palace+Museum+Taipei\" target=\"_blank\">★★★★★ 🏛️ National Palace Museum</a></strong> — World's greatest Chinese art. Children's Gallery. Free for under 18 (<strong>all 3 kids free</strong>; adults NT$350). Open Tue-Sun 9:00-17:00 (closed Mon). <strong>Arrive at 9:00 — gets very crowded Sat.</strong> ⚠️ 2026: New NPM renovation underway; some galleries may be limited/relocated (verify on arrival). Directly across the road, the small <strong><a href=\"https://www.google.com/maps/search/Shung+Ye+Museum+Formosan+Aborigines+Taipei\" target=\"_blank\">★★★☆☆ 🏛️ Shung Ye Museum of Formosan Aborigines</a></strong> (indigenous art & culture, closed Mon) is a near-zero-detour add.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Palace+Museum+Taipei\" target=\"_blank\">★★★★★ 🏛️ National Palace Museum</a></strong> — World's greatest Chinese art. Children's Gallery. Free for under 18 (<strong>all 3 kids free</strong>; adults NT$350). Open Tue-Sun 9:00-17:00 (closed Mon). <strong>Arrive at 9:00 — gets very crowded Sat.</strong> ⚠️ 2026: New NPM renovation underway; some galleries may be limited/relocated (verify on arrival).",
         "price": "Pass or NT$350 (kids free)"
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shung+Ye+Museum+Formosan+Aborigines+Taipei\" target=\"_blank\">★★★☆☆ 🏛️ Shung Ye Museum of Formosan Aborigines</a></strong> — small museum directly across the road from NPM (indigenous art & culture, closed Mon); a near-zero-detour add.",
+        "price": ""
       },
       {
         "time": "11:15",
@@ -1714,12 +2074,32 @@ const DAYS = [
       },
       {
         "time": "19:00",
-        "activity": "*(Kids' pick — Shin Kong Mitsukoshi Xinyi, at the foot of Taipei 101; skip if running behind.)* <strong><a href=\"https://www.google.com/maps/search/Pokemon+Center+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒 Pokémon Center Taipei</a></strong> (Taiwan's biggest) + <strong><a href=\"https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒 Donguri Republic</a></strong> (Studio Ghibli store, giant Totoro Catbus). Or, en route to Raohe, the <strong><a href=\"https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei\" target=\"_blank\">★★★☆☆ 🎨🛍️ Songshan Cultural & Creative Park</a></strong> — a former tobacco factory of galleries and design shops.",
+        "activity": "<strong>⚖️ Choose one — the optional stop before Raohe; skip it entirely if running behind.</strong> Options A and B are the kids' pick and share one building (Shin Kong Mitsukoshi Xinyi, at the foot of Taipei 101), so they are really one stop; option C is the culture alternative.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Pokemon+Center+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒 Pokémon Center Taipei</a></strong> — Taiwan's biggest.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒 Donguri Republic</a></strong> — Studio Ghibli store, giant Totoro Catbus; same mall as the Pokémon Center.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option C ·</strong> <strong><a href=\"https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei\" target=\"_blank\">★★★☆☆ 🎨🛍️ Songshan Cultural & Creative Park</a></strong> — en route to Raohe; a former tobacco factory of galleries and design shops.",
         "price": ""
       },
       {
         "time": "19:30",
-        "activity": "MRT to Songshan. <strong><a href=\"https://www.google.com/maps/search/Raohe+Night+Market+Taipei\" target=\"_blank\">★★★★☆ 🏮 Raohe Night Market</a></strong> — Taipei's best for foodies. 6 Michelin-awarded stalls. <strong>Fuzhou Black Pepper Buns</strong> at entrance (always a line — worth it).",
+        "activity": "MRT to Songshan.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Raohe+Night+Market+Taipei\" target=\"_blank\">★★★★☆ 🏮 Raohe Night Market</a></strong> — Taipei's best for foodies. 6 Michelin-awarded stalls. <strong>Fuzhou Black Pepper Buns</strong> at entrance (always a line — worth it).",
         "price": "~NT$200-400/person"
       }
     ],
@@ -1834,7 +2214,17 @@ const DAYS = [
     "schedule": [
       {
         "time": "8:00",
-        "activity": "Depart Taipei. <strong>Recommended:</strong> book a Yehliu+Shifen+Jiufen join-in day tour (Klook/KKday, ~NT$1,500-2,000/person, most operate Sun) — one vehicle handles all 3 stops. Independent is doable but transfer-heavy for 6: TRA to Ruifang → Pingxi line (hourly, ~1/hr) for Shifen, plus buses for Yehliu & Jiufen; start early.",
+        "activity": "<strong>⚖️ Choose one — how you cover the coast today.</strong> Depart Taipei; one decision covers all 3 stops (Yehliu, Shifen, Jiufen).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong>Yehliu+Shifen+Jiufen join-in day tour</strong> (Klook/KKday, most operate Sun) — one vehicle handles all 3 stops. <strong>Recommended.</strong>",
+        "price": "~NT$1,500-2,000/person"
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong>Independent transit</strong> — doable but transfer-heavy for 6: TRA to Ruifang → Pingxi line (hourly, ~1/hr) for Shifen, plus buses for Yehliu & Jiufen; start early.",
         "price": ""
       },
       {
@@ -1844,7 +2234,12 @@ const DAYS = [
       },
       {
         "time": "11:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shifen+Old+Street+Taiwan\" target=\"_blank\">★★★★☆ 🚶🧒 Shifen Old Street</a></strong> — Train tracks run through the market! Watch trains pass inches from stalls. <strong>★★★★★ Sky Lantern Release</strong> — Write wishes, release into the sky. Magical for kids.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Shifen+Old+Street+Taiwan\" target=\"_blank\">★★★★☆ 🚶🧒 Shifen Old Street</a></strong> — Train tracks run through the market! Watch trains pass inches from stalls.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>★★★★★ Sky Lantern Release</strong> — Write wishes, release into the sky. Magical for kids.",
         "price": "Lantern ~NT$200 (1 color) / ~NT$250 (4 colors) — shared per lantern"
       },
       {
@@ -1864,7 +2259,17 @@ const DAYS = [
       },
       {
         "time": "16:00",
-        "activity": "*(Optional 10-min drive past Jiufen — easy with a charter or day-tour.)* <strong><a href=\"https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan\" target=\"_blank\">★★★☆☆ 🏛️ Gold Museum (Jinguashi)</a></strong> — Open-air Japanese-era gold-mining town; hold a 220kg gold bar, walk a real mine tunnel (Sun 9:30–18:00). Just below it, the photogenic mineral-orange <strong><a href=\"https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan\" target=\"_blank\">★★★☆☆ 🌊 Golden Waterfall</a></strong>.",
+        "activity": "*Optional* 10-min drive past Jiufen to Jinguashi — easy with a charter or day-tour.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan\" target=\"_blank\">★★★☆☆ 🏛️ Gold Museum (Jinguashi)</a></strong> — Open-air Japanese-era gold-mining town; hold a 220kg gold bar, walk a real mine tunnel (Sun 9:30–18:00).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan\" target=\"_blank\">★★★☆☆ 🌊 Golden Waterfall</a></strong> — photogenic mineral-orange falls, just below the Gold Museum.",
         "price": ""
       },
       {
@@ -1934,7 +2339,12 @@ const DAYS = [
       },
       {
         "time": "16:30",
-        "activity": "*(Optional sunset detour — separate MRT hop E to Dazhi / Jiannan Rd; skip if you'd rather head straight to Shilin.)* <strong><a href=\"https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei\" target=\"_blank\">★★★☆☆ 🎡🗼 Miramar Entertainment Park</a></strong> — 70m rooftop Ferris wheel (100m up) with city + sunset views, plus a mall, cinema and food court to cool off in.",
+        "activity": "*Optional sunset detour* — separate MRT hop E to Dazhi / Jiannan Rd; skip if you'd rather head straight to Shilin.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei\" target=\"_blank\">★★★☆☆ 🎡🗼 Miramar Entertainment Park</a></strong> — 70m rooftop Ferris wheel (100m up) with city + sunset views, plus a mall, cinema and food court to cool off in.",
         "price": "Ferris wheel ~NT$150"
       },
       {
@@ -2014,12 +2424,22 @@ const DAYS = [
     "schedule": [
       {
         "time": "8:00",
-        "activity": "<strong>HSR Taipei → Taichung</strong> (~50 min; only the fast/limited-stop trains — check timetable). Stash luggage in <strong>HSR Taichung lockers</strong>.",
+        "activity": "<strong>HSR Taipei → Taichung</strong> (~50 min; only the fast/limited-stop trains — check timetable).",
         "price": "HSR Pass"
       },
       {
+        "time": "",
+        "activity": "Stash luggage in <strong>HSR Taichung lockers</strong>.",
+        "price": ""
+      },
+      {
         "time": "9:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Rainbow+Village+Taichung\" target=\"_blank\">★★★★☆ 📸🧒 Rainbow Village</a></strong> — ~6–12 min taxi/bus from HSR Taichung. Hand-painted by \"Grandpa Rainbow\" (Huang Yung-fu, d. 2024). <strong>Open Tue–Sun 9–5, closed Mon (Tue = OK).</strong> Note: much was repainted during a 2022–23 management dispute, so it looks different from older photos — still free and worth a quick stop. Arrive early to beat crowds.",
+        "activity": "Taxi/bus HSR Taichung → Rainbow Village (~6–12 min).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Rainbow+Village+Taichung\" target=\"_blank\">★★★★☆ 📸🧒 Rainbow Village</a></strong> — Hand-painted by \"Grandpa Rainbow\" (Huang Yung-fu, d. 2024). <strong>Open Tue–Sun 9–5, closed Mon (Tue = OK).</strong> Note: much was repainted during a 2022–23 management dispute, so it looks different from older photos — still free and worth a quick stop. Arrive early to beat crowds.",
         "price": "Free"
       },
       {
@@ -2039,17 +2459,32 @@ const DAYS = [
       },
       {
         "time": "13:30",
-        "activity": "<strong>HSR Taichung → Tainan</strong> (~40 min). Retrieve luggage from lockers first.",
+        "activity": "Retrieve luggage from the <strong>HSR Taichung lockers</strong>.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>HSR Taichung → Tainan</strong> (~40 min).",
         "price": "HSR Pass"
       },
       {
         "time": "~14:15",
-        "activity": "Arrive <strong>Tainan HSR</strong> — station is ~17 km east of town; ~30–40 min by <strong>taxi</strong> to Anping (buses much slower). Drop luggage at hotel en route, then straight to Anping.",
+        "activity": "Arrive <strong>Tainan HSR</strong> — station is ~17 km east of town.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Taxi from Tainan HSR toward Anping (~30–40 min; buses much slower).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Drop luggage at the hotel en route, then straight to Anping.",
         "price": ""
       },
       {
         "time": "15:15",
-        "activity": "<strong>Anping area</strong> — do the forts FIRST (all close ~17:10–17:30), snacks after. <strong><a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia</a></strong> — Dutch 1624; <strong>closes 17:10</strong> (tightest — go first).",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia</a></strong> — first stop in the <strong>Anping area</strong>: do the forts FIRST (all close ~17:10–17:30), snacks after. Dutch 1624; <strong>closes 17:10</strong> (tightest — go first).",
         "price": "NT$70 / kids-students half"
       },
       {
@@ -2064,7 +2499,17 @@ const DAYS = [
       },
       {
         "time": "17:00",
-        "activity": "Stroll historic <strong><a href=\"https://www.google.com/maps/search/Anping+Old+Street+Tainan\" target=\"_blank\">★★★☆☆ 🚶🍜 Anping Old Street</a></strong> (shrimp crackers, dried-seafood souvenirs) — snack along it at <a href=\"https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan\" target=\"_blank\">★★☆☆☆ 🍜 Zhou's Shrimp Rolls</a> and <a href=\"https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan\" target=\"_blank\">★★☆☆☆ ☕ Tongji Tofu Pudding</a>.",
+        "activity": "Stroll historic <strong><a href=\"https://www.google.com/maps/search/Anping+Old+Street+Tainan\" target=\"_blank\">★★★☆☆ 🚶🍜 Anping Old Street</a></strong> — shrimp crackers, dried-seafood souvenirs.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Snack stop on the street: <strong><a href=\"https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan\" target=\"_blank\">★★☆☆☆ 🍜 Zhou's Shrimp Rolls</a></strong>.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Dessert stop on the same street: <strong><a href=\"https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan\" target=\"_blank\">★★☆☆☆ ☕ Tongji Tofu Pudding</a></strong>.",
         "price": ""
       },
       {
@@ -2224,13 +2669,23 @@ const DAYS = [
       },
       {
         "time": "15:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung\" target=\"_blank\">★★★☆☆ 🏛️🚶 Pier-2 Art Center</a></strong> — Harbor warehouses turned galleries. Outdoor murals, quirky sculptures. On the same original tracks, fold in the <strong><a href=\"https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung\" target=\"_blank\">★★★★☆ 🏛️🧒 Takao Railway Museum</a></strong> (restored 1908 Takao Station, 30+ historic locomotives you can walk around) — zero detour, a train-magnet for the kids.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung\" target=\"_blank\">★★★☆☆ 🏛️🚶 Pier-2 Art Center</a></strong> — Harbor warehouses turned galleries. Outdoor murals, quirky sculptures.",
         "price": "Free (outdoor)"
       },
       {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung\" target=\"_blank\">★★★★☆ 🏛️🧒 Takao Railway Museum</a></strong> — On the same original tracks, zero detour: restored 1908 Takao Station, 30+ historic locomotives you can walk around — a train-magnet for the kids.",
+        "price": ""
+      },
+      {
         "time": "17:00",
-        "activity": "<strong>Ferry to <a href=\"https://www.google.com/maps/search/Cijin+Island+Kaohsiung\" target=\"_blank\">★★★☆☆ 🌳🚡 Cijin Island</a></strong> (5 min) from Gushan Ferry Pier; runs ~5am–2am, every ~10 min. Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast.",
+        "activity": "Ferry from Gushan Ferry Pier to Cijin Island (5 min); runs ~5am–2am, every ~10 min.",
         "price": "Ferry NT$30 cash / NT$20 EasyCard, per ride"
+      },
+      {
+        "time": "17:05",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Cijin+Island+Kaohsiung\" target=\"_blank\">★★★☆☆ 🌳🚡 Cijin Island</a></strong> — Cijin Old Street seafood, Black Sand Beach, Lighthouse, Rainbow Church. Rent bikes and cycle the coast.",
+        "price": ""
       },
       {
         "time": "19:00",
@@ -2379,8 +2834,13 @@ const DAYS = [
       },
       {
         "time": "17:30",
-        "activity": "Gondola back down. Optional: <a href=\"https://www.google.com/maps/search/Taipei+Zoo\" target=\"_blank\">★★★☆☆ 🐾🧒 Taipei Zoo</a> at the base (NT$100 adult / NT$60 child 6-12 & students; last entry 16:00 — but today is Thu, closes 5pm, so skip).",
+        "activity": "Gondola back down.",
         "price": ""
+      },
+      {
+        "time": "",
+        "activity": "Optional: <strong><a href=\"https://www.google.com/maps/search/Taipei+Zoo\" target=\"_blank\">★★★☆☆ 🐾🧒 Taipei Zoo</a></strong> at the base — last entry 16:00, but today is Thu, closes 5pm, so skip.",
+        "price": "NT$100 adult / NT$60 child 6-12 & students"
       },
       {
         "time": "18:30",
@@ -2389,7 +2849,22 @@ const DAYS = [
       },
       {
         "time": "19:00",
-        "activity": "Farewell dinner: <strong><a href=\"https://www.google.com/maps/search/Yongkang+Street+Taipei\" target=\"_blank\">★★★★☆ 🍜🚶 Yongkang Street</a></strong> — the birthplace <strong><a href=\"https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei\" target=\"_blank\">★★★★☆ 🍜 Din Tai Fung</a></strong> (original Xinyi Rd flagship; the original is takeout-only now, dine-in at the 330-seat branch opposite — xiao long bao worth the queue), <a href=\"https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei\" target=\"_blank\">★★★☆☆ 🍜 Yongkang Beef Noodles</a> (since 1963), or <a href=\"https://www.google.com/maps/search/Dongmen+Dumplings+Taipei\" target=\"_blank\">★★★☆☆ 🍜 Dongmen Dumplings</a> (pot-stickers).",
+        "activity": "<strong>⚖️ Choose one — farewell dinner on <a href=\"https://www.google.com/maps/search/Yongkang+Street+Taipei\" target=\"_blank\">★★★★☆ 🍜🚶 Yongkang Street</a>.</strong> Three classics on the same food street; pick whichever queue you can stomach.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei\" target=\"_blank\">★★★★☆ 🍜 Din Tai Fung</a></strong> — the birthplace (original Xinyi Rd flagship; the original is takeout-only now, dine-in at the 330-seat branch opposite — xiao long bao worth the queue).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei\" target=\"_blank\">★★★☆☆ 🍜 Yongkang Beef Noodles</a></strong> — since 1963.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option C ·</strong> <strong><a href=\"https://www.google.com/maps/search/Dongmen+Dumplings+Taipei\" target=\"_blank\">★★★☆☆ 🍜 Dongmen Dumplings</a></strong> — pot-stickers.",
         "price": ""
       },
       {
@@ -2479,28 +2954,28 @@ const DAYS = [
     "schedule": [
       {
         "time": "9:00",
-        "activity": "Pick a morning activity:",
+        "activity": "<strong>⚖️ Choose one — the morning activity.</strong> Only one fits before the 12:00 lunch; A and D are real out-of-centre trips, B and C stay closer in.",
         "price": ""
       },
       {
         "time": "",
-        "activity": "<strong>Option A:</strong> <a href=\"https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan\" target=\"_blank\">★★★☆☆ 🐾🧒 Houtong Cat Village</a> — Train from Taipei (~1h). Hundreds of friendly cats, cat-shaped bridges.",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan\" target=\"_blank\">★★★☆☆ 🐾🧒 Houtong Cat Village</a></strong> — Train from Taipei (~1h). Hundreds of friendly cats, cat-shaped bridges.",
         "price": ""
       },
       {
         "time": "",
-        "activity": "<strong>Option B:</strong> <a href=\"https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei\" target=\"_blank\">★★★☆☆ 🏛️🚶 Treasure Hill Artist Village</a> — Artists' colony. Neon installations, outdoor sculptures, murals. Galleries/studios <strong>Tue–Sun 11:00–22:00 (closed Mon)</strong>; lanes walkable earlier, but a 9:00 start is too early for the indoor spaces — go late morning.",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei\" target=\"_blank\">★★★☆☆ 🏛️🚶 Treasure Hill Artist Village</a></strong> — Artists' colony. Neon installations, outdoor sculptures, murals. Galleries/studios <strong>Tue–Sun 11:00–22:00 (closed Mon)</strong>; lanes walkable earlier, but a 9:00 start is too early for the indoor spaces — go late morning.",
         "price": ""
       },
       {
         "time": "",
-        "activity": "<strong>Option C:</strong> <a href=\"https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei\" target=\"_blank\">★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum — Pineapple Cake Baking Class</a> — ~2-hour class. Make iconic Taiwanese pineapple cakes from scratch. Great souvenir! In <strong>Shilin</strong> (10-min walk from Shilin MRT). <strong>Book ahead on Klook/KKday</strong> (sells out); ~NT$300/cake + ~NT$50 entry pp.",
-        "price": ""
+        "activity": "<strong>Option C ·</strong> <strong><a href=\"https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei\" target=\"_blank\">★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum — Pineapple Cake Baking Class</a></strong> — ~2-hour class. Make iconic Taiwanese pineapple cakes from scratch. Great souvenir! In <strong>Shilin</strong> (10-min walk from Shilin MRT). <strong>Book ahead on Klook/KKday</strong> (sells out).",
+        "price": "~NT$300/cake + ~NT$50 entry pp"
       },
       {
         "time": "",
-        "activity": "<strong>Option D:</strong> <a href=\"https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei\" target=\"_blank\">★★★☆☆ ☕🐾🧒 Capybara Knight</a> — Taipei's first capybara cafe (plus rabbits + ducks); ~20 min hands-on with the capybaras. <strong>Reservation required</strong>; ~NT$200 pp incl. a drink. In <strong>Tucheng</strong> (SE New Taipei, ~40 min MRT — a real detour, so make it the morning's main event).",
-        "price": ""
+        "activity": "<strong>Option D ·</strong> <strong><a href=\"https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei\" target=\"_blank\">★★★☆☆ ☕🐾🧒 Capybara Knight</a></strong> — Taipei's first capybara cafe (plus rabbits + ducks); ~20 min hands-on with the capybaras. <strong>Reservation required</strong>. In <strong>Tucheng</strong> (SE New Taipei, ~40 min MRT — a real detour, so make it the morning's main event).",
+        "price": "~NT$200 pp incl. a drink"
       },
       {
         "time": "12:00",
@@ -2509,18 +2984,58 @@ const DAYS = [
       },
       {
         "time": "13:00",
-        "activity": "<strong>Last shopping:</strong> <a href=\"https://www.google.com/maps/search/Chifeng+Street+Taipei\" target=\"_blank\">★★☆☆☆ 🛍️🚶 Chifeng Street</a> thrift shops or <a href=\"https://www.google.com/maps/search/Eslite+R79+Taipei\" target=\"_blank\">★★☆☆☆ 🛍️ Zhongshan Underground Book Street</a> (stationery, souvenirs). Or start the <strong>pineapple-cake souvenir run</strong> (also the plan for tomorrow morning): <strong><a href=\"https://www.google.com/maps/search/Chia+Te+Bakery+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ Chia Te Bakery</a></strong> (Nanjing E Rd, Songshan — Taipei's most popular; go early for the queue) or <strong><a href=\"https://www.google.com/maps/search/SunnyHills+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ SunnyHills</a></strong> (Minsheng flagship — they sit you down with a free cake + oolong).",
+        "activity": "<strong>⚖️ Choose one — last shopping.</strong> Thrift/stationery browsing, or start the <strong>pineapple-cake souvenir run</strong> (also the plan for tomorrow morning).",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Chifeng+Street+Taipei\" target=\"_blank\">★★☆☆☆ 🛍️🚶 Chifeng Street</a></strong> — thrift shops.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Eslite+R79+Taipei\" target=\"_blank\">★★☆☆☆ 🛍️ Zhongshan Underground Book Street</a></strong> — stationery, souvenirs.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option C ·</strong> <strong><a href=\"https://www.google.com/maps/search/Chia+Te+Bakery+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ Chia Te Bakery</a></strong> — Nanjing E Rd, Songshan; Taipei's most popular — go early for the queue.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option D ·</strong> <strong><a href=\"https://www.google.com/maps/search/SunnyHills+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ SunnyHills</a></strong> — Minsheng flagship; they sit you down with a free cake + oolong.",
         "price": ""
       },
       {
         "time": "13:45",
-        "activity": "<strong>Gallery crawl (flex-day picks — this family's priority):</strong> <strong><a href=\"https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei\" target=\"_blank\">★★★☆☆ 🏛️🎨 MoCA Taipei</a></strong> — contemporary art in a charming 1900s former school by Zhongshan (closed Mon; open Fri) — plus the kid-magnet <strong><a href=\"https://www.google.com/maps/search/Miniatures+Museum+of+Taiwan+Taipei\" target=\"_blank\">★★★★☆ 🏛️🧒 Miniatures Museum of Taiwan</a></strong> (jaw-dropping dollhouse-scale dioramas — Titanic, castles, tiny working lights).",
-        "price": "MoCA NT$100 / Miniatures ~NT$250"
+        "activity": "<strong>Gallery crawl (flex-day picks — this family's priority):</strong> <strong><a href=\"https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei\" target=\"_blank\">★★★☆☆ 🏛️🎨 MoCA Taipei</a></strong> — contemporary art in a charming 1900s former school by Zhongshan (closed Mon; open Fri).",
+        "price": "NT$100"
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Miniatures+Museum+of+Taiwan+Taipei\" target=\"_blank\">★★★★☆ 🏛️🧒 Miniatures Museum of Taiwan</a></strong> — the kid-magnet: jaw-dropping dollhouse-scale dioramas — Titanic, castles, tiny working lights.",
+        "price": "~NT$250"
       },
       {
         "time": "14:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei\" target=\"_blank\">★★★★☆ 🚶🎨🧒📸🤳 Huashan 1914 Creative Park (+ teamLab Future Park)</a></strong> — Central (Zhongzheng, MRT Zhongxiao Xinsheng); a former distillery turned creative-arts <strong>district</strong> of galleries, design shops, indie boutiques and open lawns — wander it as a whole, that's the draw. It also hosts a long-running <strong>teamLab \"Future Park\" immersive digital playground</strong> (🤳) — an optional low-priority add-on if the 9/11-year-olds want it, not the reason to come. ⚠️ Verify teamLab is still running in Aug 2026 and book timed tickets. A 10-min walk away, the brand-new <strong><a href=\"https://www.google.com/maps/search/National+Railway+Museum+Taipei\" target=\"_blank\">★★★★☆ 🏛️🧒🚂 National Railway Museum</a></strong> (a huge Japanese-era locomotive workshop with real engines + roundhouses) is an easy train-magnet add — and squarely in your STEM/transport wheelhouse.",
-        "price": "Grounds free; teamLab ticketed"
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei\" target=\"_blank\">★★★★☆ 🚶🎨🧒📸🤳 Huashan 1914 Creative Park (+ teamLab Future Park)</a></strong> — Central (Zhongzheng, MRT Zhongxiao Xinsheng); a former distillery turned creative-arts <strong>district</strong> of galleries, design shops, indie boutiques and open lawns — wander it as a whole, that's the draw.",
+        "price": "Grounds free"
+      },
+      {
+        "time": "",
+        "activity": "Optional add-on inside Huashan: the long-running <strong>teamLab \"Future Park\" immersive digital playground</strong> (🤳) — low priority, only if the 9/11-year-olds want it, not the reason to come. ⚠️ Verify teamLab is still running in Aug 2026 and book timed tickets.",
+        "price": "teamLab ticketed"
+      },
+      {
+        "time": "",
+        "activity": "10-min walk from Huashan 1914 to the National Railway Museum.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Railway+Museum+Taipei\" target=\"_blank\">★★★★☆ 🏛️🧒🚂 National Railway Museum</a></strong> — Brand-new: a huge Japanese-era locomotive workshop with real engines + roundhouses; an easy train-magnet add — and squarely in your STEM/transport wheelhouse.",
+        "price": ""
       },
       {
         "time": "15:30",
@@ -2584,7 +3099,17 @@ const DAYS = [
       },
       {
         "time": "10:00",
-        "activity": "<strong>Last-minute shopping & souvenirs.</strong> Pineapple cakes (essential Taiwan souvenir): <a href=\"https://www.google.com/maps/search/Chia+Te+Bakery+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ Chia Te Bakery</a> (Songshan, Nanjing E Rd; Sat ~8:00–21:30, opens early — expect a queue) or <a href=\"https://www.google.com/maps/search/SunnyHills+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ SunnyHills</a> (Minsheng store, opens ~10:00; free tea + pineapple-cake tasting).",
+        "activity": "<strong>⚖️ Choose one — the pineapple-cake souvenir stop.</strong> <strong>Last-minute shopping & souvenirs</strong> — pineapple cakes are the essential Taiwan souvenir.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Chia+Te+Bakery+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ Chia Te Bakery</a></strong> — Songshan, Nanjing E Rd; Sat ~8:00–21:30, opens early — expect a queue.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Option B ·</strong> <strong><a href=\"https://www.google.com/maps/search/SunnyHills+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ SunnyHills</a></strong> — Minsheng store, opens ~10:00; free tea + pineapple-cake tasting.",
         "price": ""
       },
       {
