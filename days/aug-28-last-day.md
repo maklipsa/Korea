@@ -1,51 +1,51 @@
-# Aug 28 (Fri) — LAST FULL TAIPEI DAY
+# Aug 28 (Fri) — Ostatni pełny dzień w Taipei
 
-Two relaxed days to finish — the flight home isn't until the **evening of Aug 29**, so there's no early-morning dash and **no need for an airport hotel**. Stay central both nights. Today is a full day in the city; tomorrow is a last morning + the evening flight.
+Dwa spokojne dni na zakończenie — lot do domu jest dopiero **wieczorem 29 sie**, więc nie ma porannego zrywu i **nie trzeba hotelu przy lotnisku**. Oba noclegi centralnie. Dziś pełny dzień w mieście; jutro ostatni poranek + wieczorny lot.
 
-**Transport:** MRT + walking; the central Zhongshan shopping stretch is flat and **YouBike**-friendly. (Option A, Houtong, is ~1 h each way by train.)
+**Transport:** MRT + pieszo; centralny handlowy odcinek Zhongshan jest płaski i przyjazny **YouBike**. (Opcja A, Houtong, to ~1 h w każdą stronę pociągiem.)
 
 ## Route Map
 
-No fixed route — pick a morning activity:
-- Option A: [★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) (~1h train from Taipei)
-- Option B: [★★★☆☆ 🏛️🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei)
-- Option C: [★★★☆☆ 🎨🧒 Kuo Yuan Ye — Pineapple Cake Baking Class](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei)
-- Option D: [★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei) (capybara cafe, ~40 min MRT to Tucheng — reserve ahead)
+Brak stałej trasy — wybierz aktywność na poranek:
+- Opcja A: [★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) (~1 h pociągiem z Taipei)
+- Opcja B: [★★★☆☆ 🏛️🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei)
+- Opcja C: [★★★☆☆ 🎨🧒 Kuo Yuan Ye — Pineapple Cake Baking Class](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei)
+- Opcja D: [★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei) (kawiarnia z kapibarami, ~40 min MRT do Tucheng — zarezerwuj z wyprzedzeniem)
 
-**Afternoon:**
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Chifeng+Street+Taipei&destination=Taipei+Main+Station&waypoints=Eslite+R79+Taipei|Museum+of+Contemporary+Art+Taipei|Miniatures+Museum+of+Taiwan+Taipei|Huashan+1914+Creative+Park+Taipei|National+Railway+Museum+Taipei&travelmode=walking)
+**Popołudnie:**
+[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Chifeng+Street+Taipei&destination=Taipei+Main+Station&waypoints=Eslite+R79+Taipei|Museum+of+Contemporary+Art+Taipei|Miniatures+Museum+of+Taiwan+Taipei|Huashan+1914+Creative+Park+Taipei|National+Railway+Museum+Taipei&travelmode=walking)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:00 | **⚖️ Choose one — the morning activity.** Only one fits before the 12:00 lunch; A and D are real out-of-centre trips, B and C stay closer in. |  |
-|  | **Option A ·** **[★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan)** — Train from Taipei (~1h). Hundreds of friendly cats, cat-shaped bridges. |  |
-|  | **Option B ·** **[★★★☆☆ 🏛️🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei)** — Artists' colony. Neon installations, outdoor sculptures, murals. Galleries/studios **Tue–Sun 11:00–22:00 (closed Mon)**; lanes walkable earlier, but a 9:00 start is too early for the indoor spaces — go late morning. |  |
-|  | **Option C ·** **[★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum — Pineapple Cake Baking Class](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei)** — ~2-hour class. Make iconic Taiwanese pineapple cakes from scratch. Great souvenir! In **Shilin** (10-min walk from Shilin MRT). **Book ahead on Klook/KKday** (sells out). | ~NT$300/cake + ~NT$50 entry pp |
-|  | **Option D ·** **[★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei)** — Taipei's first capybara cafe (plus rabbits + ducks); ~20 min hands-on with the capybaras. **Reservation required**. In **Tucheng** (SE New Taipei, ~40 min MRT — a real detour, so make it the morning's main event). | ~NT$200 pp incl. a drink |
-| 12:00 | Last lunch in Taipei. |  |
-| 13:00 | **⚖️ Choose one — last shopping.** Thrift/stationery browsing, or start the **pineapple-cake souvenir run** (also the plan for tomorrow morning). |  |
-|  | **Option A ·** **[★★☆☆☆ 🛍️🚶 Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei)** — thrift shops. |  |
-|  | **Option B ·** **[★★☆☆☆ 🛍️ Zhongshan Underground Book Street](https://www.google.com/maps/search/Eslite+R79+Taipei)** — stationery, souvenirs. |  |
-|  | **Option C ·** **[★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei)** — Nanjing E Rd, Songshan; Taipei's most popular — go early for the queue. |  |
-|  | **Option D ·** **[★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei)** — Minsheng flagship; they sit you down with a free cake + oolong. |  |
-| 13:45 | **Gallery crawl (flex-day picks — this family's priority):** **[★★★☆☆ 🏛️🎨 MoCA Taipei](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei)** — contemporary art in a charming 1900s former school by Zhongshan (closed Mon; open Fri). | NT$100 |
-|  | **[★★★★☆ 🏛️🧒 Miniatures Museum of Taiwan](https://www.google.com/maps/search/Miniatures+Museum+of+Taiwan+Taipei)** — the kid-magnet: jaw-dropping dollhouse-scale dioramas — Titanic, castles, tiny working lights. | ~NT$250 |
-| 14:30 | **[★★★★☆ 🚶🎨🧒📸🤳 Huashan 1914 Creative Park (+ teamLab Future Park)](https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei)** — Central (Zhongzheng, MRT Zhongxiao Xinsheng); a former distillery turned creative-arts **district** of galleries, design shops, indie boutiques and open lawns — wander it as a whole, that's the draw. | Grounds free |
-|  | Optional add-on inside Huashan: the long-running **teamLab "Future Park" immersive digital playground** (🤳) — low priority, only if the 9/11-year-olds want it, not the reason to come. ⚠️ Verify teamLab is still running in Aug 2026 and book timed tickets. | teamLab ticketed |
-|  | 10-min walk from Huashan 1914 to the National Railway Museum. |  |
-|  | **[★★★★☆ 🏛️🧒🚂 National Railway Museum](https://www.google.com/maps/search/National+Railway+Museum+Taipei)** — Brand-new: a huge Japanese-era locomotive workshop with real engines + roundhouses; an easy train-magnet add — and squarely in your STEM/transport wheelhouse. |  |
-| 15:30 | Keep exploring or settle into a cafe — you're staying central tonight, so no airport rush. |  |
-| 18:00 | Dinner + one last night market. |  |
-| 20:30 | Back to your central Taipei hotel. Pack; leave souvenir shopping and pineapple cakes for tomorrow morning. |  |
+| 9:00 | **⚖️ Wybierz jedno — aktywność na poranek.** Przed lunchem o 12:00 zmieści się tylko jedna; A i D to prawdziwe wypady poza centrum, B i C zostają bliżej. |  |
+|  | **Opcja A ·** **[★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan)** — Pociąg z Taipei (~1 h). Setki przyjaznych kotów, mostki w kształcie kotów. |  |
+|  | **Opcja B ·** **[★★★☆☆ 🏛️🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei)** — Kolonia artystów. Instalacje neonowe, rzeźby na wolnym powietrzu, murale. Galerie/pracownie **wt.–niedz. 11:00–22:00 (zamknięte w pon.)**; uliczkami można chodzić wcześniej, ale start o 9:00 jest za wczesny dla wnętrz — idźcie późnym rankiem. |  |
+|  | **Opcja C ·** **[★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum — Pineapple Cake Baking Class](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei)** — Zajęcia ~2 h. Zrób od zera ikoniczne tajwańskie ciasteczka ananasowe. Świetna pamiątka! W **Shilin** (10 min pieszo od stacji Shilin MRT). **Zarezerwuj z wyprzedzeniem na Klook/KKday** (wyprzedaje się). | ~NT$300/ciastko + ~NT$50 wstęp/os. |
+|  | **Opcja D ·** **[★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei)** — Pierwsza w Taipei kawiarnia z kapibarami (plus króliki + kaczki); ~20 min kontaktu z kapibarami. **Wymagana rezerwacja**. W **Tucheng** (południowo-wschodnie New Taipei, ~40 min MRT — spory objazd, więc zrób z tego główny punkt poranka). | ~NT$200/os. z napojem |
+| 12:00 | Ostatni lunch w Taipei. |  |
+| 13:00 | **⚖️ Wybierz jedno — ostatnie zakupy.** Przeglądanie second-handów/papeterii albo start **wyprawy po ciasteczka ananasowe na pamiątkę** (to też plan na jutrzejszy poranek). |  |
+|  | **Opcja A ·** **[★★☆☆☆ 🛍️🚶 Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei)** — second-handy. |  |
+|  | **Opcja B ·** **[★★☆☆☆ 🛍️ Zhongshan Underground Book Street](https://www.google.com/maps/search/Eslite+R79+Taipei)** — papeteria, pamiątki. |  |
+|  | **Opcja C ·** **[★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei)** — Nanjing E Rd, Songshan; najpopularniejsza w Taipei — idźcie wcześnie, bo są kolejki. |  |
+|  | **Opcja D ·** **[★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei)** — Flagowy sklep w Minsheng; sadzają cię z bezpłatnym ciastkiem + oolongiem. |  |
+| 13:45 | **Obchód galerii (typy na elastyczny dzień — priorytet tej rodziny):** **[★★★☆☆ 🏛️🎨 MoCA Taipei](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei)** — sztuka współczesna w urokliwej dawnej szkole z początku XX w. przy Zhongshan (zamknięte w pon.; w pt. otwarte). | NT$100 |
+|  | **[★★★★☆ 🏛️🧒 Miniatures Museum of Taiwan](https://www.google.com/maps/search/Miniatures+Museum+of+Taiwan+Taipei)** — magnes na dzieci: zapierające dech dioramy w skali domku dla lalek — Titanic, zamki, malutkie działające światełka. | ~NT$250 |
+| 14:30 | **[★★★★☆ 🚶🎨🧒📸🤳 Huashan 1914 Creative Park (+ teamLab Future Park)](https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei)** — Centralnie (Zhongzheng, MRT Zhongxiao Xinsheng); dawna destylarnia przemieniona w **dzielnicę** sztuki kreatywnej — galerie, sklepy z designem, niezależne butiki i otwarte trawniki — chodźcie po całości, w tym rzecz. | Teren bezpłatnie |
+|  | Opcjonalny dodatek w Huashan: działający od lat **immersyjny cyfrowy plac zabaw teamLab „Future Park"** (🤳) — niski priorytet, tylko jeśli 9- i 11-latek będą chcieć, nie powód do przyjścia. ⚠️ Sprawdź, czy teamLab wciąż działa w sie 2026, i kup bilety na godzinę. | teamLab płatny |
+|  | 10 min pieszo z Huashan 1914 do National Railway Museum. |  |
+|  | **[★★★★☆ 🏛️🧒🚂 National Railway Museum](https://www.google.com/maps/search/National+Railway+Museum+Taipei)** — Zupełnie nowe: wielkie warsztaty lokomotyw z czasów japońskich z prawdziwymi parowozami + rotundami; łatwy dodatek dla fanów kolei — i dokładnie w waszym klimacie STEM/transportu. |  |
+| 15:30 | Zwiedzajcie dalej albo usiądźcie w kawiarni — nocujecie dziś centralnie, więc nie ma pośpiechu na lotnisko. |  |
+| 18:00 | Kolacja + ostatni nocny targ. |  |
+| 20:30 | Powrót do hotelu w centrum Taipei. Pakowanie; zakupy pamiątek i ciasteczka ananasowe zostawcie na jutrzejszy poranek. |  |
 
 ---
 
 ## Also Nearby
 
-### More Galleries & Activities
-- [★★★★☆ 🏛️🎨 Taipei Fine Arts Museum (TFAM)](https://www.google.com/maps/search/Taipei+Fine+Arts+Museum+Taipei) — Taiwan's leading modern-art museum (Yuanshan, ~1 MRT stop N of Zhongshan); 2026 shows include a Ryuichi Sakamoto sound/media exhibition. Open Fri to 17:30, **closed Mon** — a top modern-art pick if you want a fifth gallery today.
-- [★★★☆☆ 🌳🗼📸 Jinmianshan Trail](https://www.google.com/maps/search/Jinmianshan+Trail+Taipei) — Short roped rock-scramble hike (Neihu) with Taipei 101 views; a kid-magnet. Free. ⚠️ Skip if wet — Aug typhoons make the rock dangerous
-- [★★☆☆☆ ☕🤪 Alice is Coming Cafe](https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei) — Wonderland-themed (Ximending). **UNVERIFIED** — no recent reviews since ~2021; confirm still open (Facebook) before going.
-- [★★☆☆☆ ☕ Nice Cream](https://www.google.com/maps/search/Nice+Cream+Taipei) — Vegan gelato; Earl Grey waffle
+### Więcej galerii i atrakcji
+- [★★★★☆ 🏛️🎨 Taipei Fine Arts Museum (TFAM)](https://www.google.com/maps/search/Taipei+Fine+Arts+Museum+Taipei) — Najważniejsze muzeum sztuki nowoczesnej na Tajwanie (Yuanshan, ~1 przystanek MRT na północ od Zhongshan); w 2026 m.in. wystawa dźwiękowo-medialna Ryuichiego Sakamoto. W pt. otwarte do 17:30, **zamknięte w pon.** — czołowy typ na sztukę nowoczesną, jeśli chcecie dziś piątą galerię.
+- [★★★☆☆ 🌳🗼📸 Jinmianshan Trail](https://www.google.com/maps/search/Jinmianshan+Trail+Taipei) — Krótka wspinaczkowa trasa po skałach z linami (Neihu) z widokiem na Taipei 101; magnes na dzieci. Bezpłatnie. ⚠️ Pomiń przy mokrej pogodzie — sierpniowe tajfuny czynią skałę niebezpieczną
+- [★★☆☆☆ ☕🤪 Alice is Coming Cafe](https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei) — W stylu Krainy Czarów (Ximending). **NIEPOTWIERDZONE** — brak nowszych opinii od ~2021; przed wyjściem potwierdź (Facebook), że wciąż działa.
+- [★★☆☆☆ ☕ Nice Cream](https://www.google.com/maps/search/Nice+Cream+Taipei) — Wegańskie gelato; wafel Earl Grey

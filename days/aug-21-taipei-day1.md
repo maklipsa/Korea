@@ -1,56 +1,56 @@
-# Aug 21 (Fri) — TAIPEI DAY 1: Old Taipei + Weird Ice Cream + Night Market
-> Badges: pass:Activate Taipei Fun Pass 2-day
+# Aug 21 (Fri) — Taipei dzień 1: stare Taipei + dziwne lody + nocny targ
+> Badges: pass:Aktywuj Taipei Fun Pass 2-dniowy
 
-**Activate Taipei Fun Pass Unlimited 2-day today** (covers today + tomorrow). Unlimited MRT/bus/tourist-shuttle + free single entry to 30+ attractions (Taipei 101 obs, National Palace Museum, Maokong Gondola, Yehliu, Taipei Zoo) — save the big attractions for **tomorrow (Aug 22)**; today is mostly free temples/markets. Also gives shopping-district perks in **Dadaocheng + Ximending**, both visited today. Tiers: adult 12+ (so the 15yo), child 6–11 (the 9 & 11yo) — verify exact NT$ price in `passes.md`.
+**Aktywuj dziś Taipei Fun Pass Unlimited 2-dniowy** (obejmuje dziś + jutro). Nielimitowane MRT/autobusy/shuttle turystyczny + jednorazowy wstęp wolny do 30+ atrakcji (taras widokowy Taipei 101, National Palace Museum, Maokong Gondola, Yehliu, Taipei Zoo) — duże atrakcje zostaw na **jutro (22 sie)**; dziś głównie bezpłatne świątynie/targi. Daje też przywileje w dzielnicach handlowych **Dadaocheng + Ximending**, obie odwiedzane dziś. Progi: dorosły 12+ (czyli 15-latek), dziecko 6–11 (9- i 11-latek) — dokładną cenę w NT$ sprawdź w `passes.md`.
 
-**Transport (compact — bike-friendly):** MRT + walking; the Longshan → Ximending → Dadaocheng stretch is flat and good by **YouBike** (tap EasyCard).
+**Transport (kompaktowy — przyjazny rowerom):** MRT + pieszo; odcinek Longshan → Ximending → Dadaocheng jest płaski i dobry na **YouBike** (przyłóż EasyCard).
 
 ## Route Map
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|228+Peace+Memorial+Park+Taipei|National+Center+of+Photography+and+Images+Taipei|Snow+King+Ice+Cream+Taipei|Modern+Toilet+Restaurant+Ximending+Taipei|Ximen+Red+House+Taipei|Dihua+Street+Taipei|Dadaocheng+Wharf+Taipei&travelmode=walking)
+[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|228+Peace+Memorial+Park+Taipei|National+Center+of+Photography+and+Images+Taipei|Snow+King+Ice+Cream+Taipei|Modern+Toilet+Restaurant+Ximending+Taipei|Ximen+Red+House+Taipei|Dihua+Street+Taipei|Dadaocheng+Wharf+Taipei&travelmode=walking)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:00 | **[★★★★★ 🏯 Longshan Temple](https://www.google.com/maps/search/Longshan+Temple+Taipei)** — Taipei's oldest (1738). Ornately carved, alive with incense. | Free |
-| 10:00 | **[★★★☆☆ 🚶🏯 Bopiliao Historic Block](https://www.google.com/maps/search/Bopiliao+Historic+Block+Taipei)** — Best-preserved old street (5 min walk from Longshan). Qing + Japanese architecture. Free art galleries, interactive heritage center. Buildings open Tue–Sun 09:00–18:00, **closed Mon** (Fri OK). | Free |
-| 11:00 | **[★★★★★ 📸 Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei)** — 76m marble hall. Guard-changing ceremony on the hour (9am-5pm) — **since Jul 2024 held outdoors on Democracy Boulevard, not around the statue; cancelled in rain**, so aim for the 11:00 or 12:00 change. | Free |
-| 11:45 | *(5-min walk N of CKS, on the way to lunch.)* **[★★★☆☆ 🌳🏛️ 228 Peace Memorial Park](https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei)** — shaded colonial-era park with pagodas and ponds. | Free |
-|  | **[★★★☆☆ 🏛️🧒 National Taiwan Museum](https://www.google.com/maps/search/National+Taiwan+Museum+228+Park+Taipei)** — inside the park: a 1915 domed neoclassical hall, Taiwan's oldest museum. Natural-history + indigenous displays and a welcome AC break. | NT$30 |
-| 12:15 | **[★★★★☆ 📷🏛️ National Center of Photography and Images (NCPI)](https://www.google.com/maps/search/National+Center+of+Photography+and+Images+Taipei)** — Taiwan's national photography museum in a restored 1937 Japanese-era building, ~5-min walk from 228 Park / Taipei Main. Genuine galleries of photographs — the day's culture highlight. Tue–Sun 10:00–18:00, closed Mon (Fri OK). | Free |
-| 13:15 | Lunch: **[★★★☆☆ ☕🤪🧒 Snow King Ice Cream](https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei)** — Since 1947 (2F, Wuchang St; **opens 12:00 daily, 12:00–20:00**). Flavors: **PORK FLOSS, pig's knuckle, sesame oil chicken, wasabi, curry, beer, chili pepper**. Kids will go wild picking the weirdest one. Note: ice cream only, not a real meal — grab a proper lunch in Ximending too. |  |
-| 14:00 | **★★★☆☆ Ximending** pedestrian area — Youth culture, street performers, graffiti, 24-hour Don Don Donki. |  |
-|  | **[★★★☆☆ 📸🛍️ Ximen Red House](https://www.google.com/maps/search/Ximen+Red+House+Taipei)** — on the edge of Ximending; an octagonal 1908 market hall, now artisan stalls, a weekend creative market, and cafes (closed Mon; Fri OK). |  |
-| 15:00 | **[★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant](https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei)** — Sit on toilet seats. Food served in toilet bowls. Chocolate "poop" ice cream. Kids will be endlessly entertained. (2F, Xining S Rd Ln 50; open daily 11:30–22:00; can queue at peak — good spot for the real lunch missed at Snow King.) |  |
-| 16:30 | MRT to **Dadaocheng**. |  |
-|  | **[★★★★☆ 🚶🛍️ Dihua Street](https://www.google.com/maps/search/Dihua+Street+Taipei)** — Taipei's oldest commercial street (1850s). Baroque facades. Tea, herbs, beautiful old packaging. |  |
-| 17:30 | **[★★★☆☆ 📸🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei)** (river end of Dihua St) — stroll down for sunset over the Tamsui River, lantern-lit container bars, street food. |  |
-|  | *Optional 15-min hop N* to the Dalongdong temples. |  |
-|  | **[★★★★☆ 🏯 Dalongdong Bao-An Temple](https://www.google.com/maps/search/Dalongdong+Bao-An+Temple+Taipei)** — a UNESCO-award Taoist temple, Taipei's finest. |  |
-|  | **[★★★☆☆ 🏯 Taipei Confucius Temple](https://www.google.com/maps/search/Taipei+Confucius+Temple)** — adjacent to Bao-An (closed Mon). |  |
-| 18:30 | **⚖️ Choose one — tonight's night market for dinner.** Ningxia is the planned pick (nearest to Dihua St); the other two are today's alternatives. | ~NT$200-400/person |
-|  | **Option A ·** **[★★★☆☆ 🏮🍜 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei)** — Most local-feeling market (~10 min walk from Dihua St; opens ~17:00, runs to ~23:30). Hit: Piaoxiang Beef Noodle, Liu Yu Zi (fried taro balls), oyster omelette stall (Yuen Huan Pien). |  |
-|  | **Option B ·** **[★★★☆☆ 🏮 Huaxi Street (Snake Alley)](https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei)** — by Longshan (Wanhua). |  |
-|  | **Option C ·** **[★★★☆☆ 🏮 Nanjichang](https://www.google.com/maps/search/Nanjichang+Night+Market+Taipei)** — Michelin-listed, in Zhongzheng. |  |
+| 9:00 | **[★★★★★ 🏯 Longshan Temple](https://www.google.com/maps/search/Longshan+Temple+Taipei)** — Najstarsza świątynia Taipei (1738). Bogato rzeźbiona, tętniąca życiem i dymem kadzideł. | Bezpłatnie |
+| 10:00 | **[★★★☆☆ 🚶🏯 Bopiliao Historic Block](https://www.google.com/maps/search/Bopiliao+Historic+Block+Taipei)** — Najlepiej zachowana stara ulica (5 min pieszo od Longshan). Architektura z czasów Qing + japońska. Bezpłatne galerie sztuki, interaktywne centrum dziedzictwa. Budynki otwarte wt.–niedz. 09:00–18:00, **zamknięte w pon.** (pt. OK). | Bezpłatnie |
+| 11:00 | **[★★★★★ 📸 Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei)** — Marmurowy gmach o wysokości 76 m. Ceremonia zmiany warty co godzinę (9:00–17:00) — **od lipca 2024 odbywa się na zewnątrz, na Democracy Boulevard, a nie przy posągu; odwoływana w deszczu**, więc celuj w zmianę o 11:00 lub 12:00. | Bezpłatnie |
+| 11:45 | *(5 min pieszo na N od CKS, po drodze na lunch.)* **[★★★☆☆ 🌳🏛️ 228 Peace Memorial Park](https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei)** — zacieniony park z czasów kolonialnych z pagodami i sadzawkami. | Bezpłatnie |
+|  | **[★★★☆☆ 🏛️🧒 National Taiwan Museum](https://www.google.com/maps/search/National+Taiwan+Museum+228+Park+Taipei)** — w parku: neoklasycystyczny gmach z kopułą z 1915 r., najstarsze muzeum Tajwanu. Ekspozycje przyrodnicze + o ludach rdzennych oraz miła przerwa w AC. | NT$30 |
+| 12:15 | **[★★★★☆ 📷🏛️ National Center of Photography and Images (NCPI)](https://www.google.com/maps/search/National+Center+of+Photography+and+Images+Taipei)** — narodowe muzeum fotografii Tajwanu w odrestaurowanym budynku z 1937 r. z epoki japońskiej, ~5 min pieszo od 228 Park / Taipei Main. Prawdziwe galerie fotografii — kulturalny punkt kulminacyjny dnia. wt.–niedz. 10:00–18:00, zamknięte w pon. (pt. OK). | Bezpłatnie |
+| 13:15 | Lunch: **[★★★☆☆ ☕🤪🧒 Snow King Ice Cream](https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei)** — Działa od 1947 (2F, Wuchang St; **otwiera codziennie o 12:00, 12:00–20:00**). Smaki: **WATA Z WIEPRZOWINY (pork floss), golonka, kurczak w oleju sezamowym, wasabi, curry, piwo, papryczka chili**. Dzieci będą zachwycone wybieraniem najdziwniejszego. Uwaga: tylko lody, nie prawdziwy posiłek — zjedz też porządny lunch w Ximending. |  |
+| 14:00 | **★★★☆☆ Ximending** strefa dla pieszych — Kultura młodzieżowa, artyści uliczni, graffiti, całodobowe Don Don Donki. |  |
+|  | **[★★★☆☆ 📸🛍️ Ximen Red House](https://www.google.com/maps/search/Ximen+Red+House+Taipei)** — na skraju Ximending; ośmiokątna hala targowa z 1908 r., dziś stoiska rzemieślników, weekendowy targ kreatywny i kawiarnie (zamknięte w pon.; pt. OK). |  |
+| 15:00 | **[★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant](https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei)** — Siedzi się na sedesach. Jedzenie podawane w muszlach klozetowych. Czekoladowe lody „kupka". Dzieci będą się bawić bez końca. (2F, Xining S Rd Ln 50; otwarte codziennie 11:30–22:00; w szczycie bywa kolejka — dobre miejsce na prawdziwy lunch pominięty w Snow King.) |  |
+| 16:30 | MRT do **Dadaocheng**. |  |
+|  | **[★★★★☆ 🚶🛍️ Dihua Street](https://www.google.com/maps/search/Dihua+Street+Taipei)** — Najstarsza handlowa ulica Taipei (lata 1850). Barokowe fasady. Herbata, zioła, piękne stare opakowania. |  |
+| 17:30 | **[★★★☆☆ 📸🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei)** (rzeczny koniec Dihua St) — przespaceruj się tam na zachód słońca nad rzeką Tamsui, bary w kontenerach w świetle lampionów, street food. |  |
+|  | *Opcjonalny 15-min skok na N* do świątyń w Dalongdong. |  |
+|  | **[★★★★☆ 🏯 Dalongdong Bao-An Temple](https://www.google.com/maps/search/Dalongdong+Bao-An+Temple+Taipei)** — taoistyczna świątynia z nagrodą UNESCO, najpiękniejsza w Taipei. |  |
+|  | **[★★★☆☆ 🏯 Taipei Confucius Temple](https://www.google.com/maps/search/Taipei+Confucius+Temple)** — obok Bao-An (zamknięte w pon.). |  |
+| 18:30 | **⚖️ Wybierz jedno — nocny targ na dzisiejszą kolację.** Ningxia to planowany wybór (najbliżej Dihua St); pozostałe dwa to dzisiejsze alternatywy. | ~NT$200–400/os. |
+|  | **Opcja A ·** **[★★★☆☆ 🏮🍜 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei)** — Najbardziej lokalny w klimacie targ (~10 min pieszo od Dihua St; otwiera ~17:00, działa do ~23:30). Koniecznie: Piaoxiang Beef Noodle, Liu Yu Zi (smażone kulki taro), stoisko z omletem z ostryg (Yuen Huan Pien). |  |
+|  | **Opcja B ·** **[★★★☆☆ 🏮 Huaxi Street (Snake Alley)](https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei)** — przy Longshan (Wanhua). |  |
+|  | **Opcja C ·** **[★★★☆☆ 🏮 Nanjichang](https://www.google.com/maps/search/Nanjichang+Night+Market+Taipei)** — wyróżniony w przewodniku Michelin, w Zhongzheng. |  |
 
 ---
 
 ## Also Nearby
 
-### More Temples
-- [★★☆☆☆ 🏯 Qingshui Temple](https://www.google.com/maps/search/Qingshui+Zushi+Temple+Taipei) — Atmospheric Qing-dynasty temple
-- [★★☆☆☆ 🏯 Qingshan Temple](https://www.google.com/maps/search/Qingshan+Temple+Taipei) — Green Mountain King; beautiful stone carvings
+### Więcej świątyń
+- [★★☆☆☆ 🏯 Qingshui Temple](https://www.google.com/maps/search/Qingshui+Zushi+Temple+Taipei) — Nastrojowa świątynia z czasów dynastii Qing
+- [★★☆☆☆ 🏯 Qingshan Temple](https://www.google.com/maps/search/Qingshan+Temple+Taipei) — Król Zielonej Góry; piękne rzeźby w kamieniu
 
-### More Sights
-- [★★★☆☆ 🏛️🚶 Museum 207](https://www.google.com/maps/search/Museum+207+Dihua+Street+Taipei) — Free house-museum on Dihua St (1962 medicine shop), rotating Taiwanese-culture shows + rooftop of old roofs. Closed **Tue**; free
+### Więcej atrakcji
+- [★★★☆☆ 🏛️🚶 Museum 207](https://www.google.com/maps/search/Museum+207+Dihua+Street+Taipei) — Bezpłatne muzeum-dom przy Dihua St (sklep zielarski z 1962), zmienne wystawy o kulturze Tajwanu + dach z widokiem na stare dachy. Zamknięte we **wt.**; wstęp wolny
 
-### More Desserts
-- ★★☆☆☆ ☕ Star Fruit Ice (Chengdu Yangto Bing) in Ximending — Star fruit ice with peanut candy and cilantro
+### Więcej deserów
+- ★★☆☆☆ ☕ Star Fruit Ice (Chengdu Yangto Bing) w Ximending — Lód z karamboli z cukierkiem orzechowym i kolendrą
 
-### More Cafes
-- [★★☆☆☆ ☕ ABCD](https://www.google.com/maps/search/ABCD+cafe+Taipei) — Giant doughnut entrance; creative doughnuts
-- [★★☆☆☆ ☕🐾 Kitten Coffee Garden](https://www.google.com/maps/search/Kitten+Coffee+Garden+Taipei) — 13 cats and 2 dogs since 1998
+### Więcej kawiarni
+- [★★☆☆☆ ☕ ABCD](https://www.google.com/maps/search/ABCD+cafe+Taipei) — Wejście w kształcie wielkiego pączka; kreatywne pączki
+- [★★☆☆☆ ☕🐾 Kitten Coffee Garden](https://www.google.com/maps/search/Kitten+Coffee+Garden+Taipei) — 13 kotów i 2 psy od 1998
 
-### Shopping
-- [★★☆☆☆ 🛍️🚶 Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei) — Thrift shops, quirky cafes, indie accessories
-- [★★☆☆☆ 🛍️ Eslite R79 Underground Book Street](https://www.google.com/maps/search/Eslite+R79+Taipei) — Bookshops, vinyl records, stationery, souvenirs
+### Zakupy
+- [★★☆☆☆ 🛍️🚶 Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei) — Sklepy z używaną odzieżą, dziwaczne kawiarnie, niezależne akcesoria
+- [★★☆☆☆ 🛍️ Eslite R79 Underground Book Street](https://www.google.com/maps/search/Eslite+R79+Taipei) — Księgarnie, płyty winylowe, artykuły papiernicze, pamiątki

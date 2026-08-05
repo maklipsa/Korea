@@ -1,62 +1,62 @@
-# Discount Cards — Overview & Decisions
+# Karty zniżkowe — przegląd i decyzje
 
-Per-city analysis of museum/attraction discount cards for the trip (Aug 11–29, 2026), mapped to **the attractions we actually visit** and to **our party: 3 adults + 3 children (ages 9, 11, 15) travelling as two groups — Group 1 = 1 adult + kids 11 & 9; Group 2 = 2 adults + teen 15.** (These files assume both groups follow the same day-by-day itinerary; the split just tells you *how many* of each ticket to buy.) Each city file has the available cards, a coverage table (covered? / gate price / in our schedule? / which day), a profitability calc, and a what-and-how-long-to-buy recommendation.
+Analiza kart zniżkowych do muzeów/atrakcji miasto po mieście na czas wyjazdu (11–29 sie 2026), odniesiona do **atrakcji, które faktycznie odwiedzamy** oraz do **naszego składu: 3 dorosłych + 3 dzieci (9, 11, 15 lat) podróżujących w dwóch grupach — Grupa 1 = 1 dorosły + dzieci 11 i 9 lat; Grupa 2 = 2 dorosłych + 15-latek.** (Te pliki zakładają, że obie grupy realizują ten sam plan dzień po dniu; podział mówi tylko, *ile* biletów każdego rodzaju kupić.) Każdy plik miasta zawiera dostępne karty, tabelę pokrycia (objęte? / cena w kasie / w naszym planie? / który dzień), rachunek opłacalności oraz rekomendację, co i na jak długo kupić.
 
-## ⏰ Do this first (only hard deadline in the card set)
+## ⏰ Zrób to najpierw (jedyny twardy deadline w całym zestawie kart)
 
-- **Busan Sky Capsule** — **book ~28 days before Aug 19.** The booking window opens **Tuesdays** (4 weeks out) and sunset / Mipo-start slots sell out weeks ahead. It's **not on any pass**. You need **one capsule per group** (each group = 3 people). The often-quoted ~35,000–40,000 KRW is the **1–2-passenger** rate — a filled 3-person capsule costs more (verify). Book at [bluelinepark.com](https://www.bluelinepark.com). *(KTX / HSR / Everland etc. deadlines live in [itinerary.md](../itinerary.md)'s checklist.)*
+- **Busan Sky Capsule** — **rezerwuj ~28 dni przed 19 sie.** Okno rezerwacji otwiera się we **wtorki** (4 tygodnie wcześniej), a terminy o zachodzie słońca / ze startem w Mipo wyprzedają się na tygodnie do przodu. **Nie jest objęta żadnym passem.** Potrzebujecie **jednej kapsuły na grupę** (każda grupa = 3 osoby). Często podawane ~35,000–40,000 KRW to stawka dla **1–2 pasażerów** — pełna kapsuła na 3 osoby kosztuje więcej (zweryfikuj). Rezerwacja na [bluelinepark.com](https://www.bluelinepark.com). *(Deadline'y KTX / HSR / Everland itd. są na liście kontrolnej w [itinerary.md](../itinerary.md).)*
 
-## Overview
+## Przegląd
 
-| City | Card(s) | Buy? | One-line verdict |
+| Miasto | Karta / karty | Kupić? | Werdykt w jednym zdaniu |
 |------|---------|------|------------------|
-| [Seoul](seoul.md) | Discover Seoul Pass | **Adults yes (48h); 9 & 11 no; 15yo only if COEX** | +33k KRW/adult **if** COEX is done (only ~+5k without it); no child discount → kids go à la carte |
-| [Busan](busan.md) | Visit Busan Pass | **No (default)** | One usable day; pays only if you add a Haeundae deck day (adult **BIG3** pick-3 + X the Sky, or 24H + X the Sky + SEA LIFE) |
-| [Taipei](taipei.md) | Taipei Fun Pass + alternatives | **Adults: yes if DIY / no if guided; kids no** | Hinges on the **Aug 23 coast day** — DIY it → adult 3-day pass; take a guided tour → EasyCard + tickets |
-| [Taichung](taichung.md) | — | **No** | All stops free; NT$0 |
-| [Tainan](tainan.md) | Historic Site Pass | **No** | Adults *tie* the pass à la carte (NT$210 = NT$210); kids are **cheaper** per site (NT$105 vs NT$210); pay per site |
-| [Kaohsiung](kaohsiung.md) | MRT / Fun Pass | **No** | Sights nearly all free; tap EasyCard, pay ~NT$139 of gate fees |
+| [Seoul](seoul.md) | Discover Seoul Pass | **Dorośli tak (48 h); 9 i 11 lat nie; 15-latek tylko jeśli COEX** | +33k KRW na dorosłego **jeśli** COEX się odbędzie (bez niego tylko ~+5k); brak zniżki dla dzieci → dzieci kupują bilety pojedynczo |
+| [Busan](busan.md) | Visit Busan Pass | **Nie (domyślnie)** | Tylko jeden użyteczny dzień; opłaca się dopiero, jeśli dodacie dzień tarasów widokowych w Haeundae (dorosły **BIG3** wybierz-3 + X the Sky, albo 24H + X the Sky + SEA LIFE) |
+| [Taipei](taipei.md) | Taipei Fun Pass + alternatywy | **Dorośli: tak, jeśli na własną rękę / nie, jeśli z przewodnikiem; dzieci nie** | Wszystko zależy od **dnia na wybrzeżu 23 sie** — na własną rękę → 3-dniowy pass dla dorosłych; wycieczka z przewodnikiem → EasyCard + bilety |
+| [Taichung](taichung.md) | — | **Nie** | Wszystkie punkty bezpłatne; NT$0 |
+| [Tainan](tainan.md) | Historic Site Pass | **Nie** | Dorośli wychodzą *na zero* wobec passa, kupując pojedynczo (NT$210 = NT$210); dzieci mają **taniej** za obiekt (NT$105 vs NT$210); płaćcie za każdy obiekt osobno |
+| [Kaohsiung](kaohsiung.md) | MRT / Fun Pass | **Nie** | Atrakcje niemal wszystkie bezpłatne; przykładajcie EasyCard, do zapłaty ~NT$139 wstępów |
 
-*"BIG3" = Busan's pick-3 attraction pass (choose 3 attractions, 45,000 KRW). See [busan.md](busan.md).*
+*„BIG3" = pass w Busan na 3 wybrane atrakcje (3 atrakcje do wyboru, 45,000 KRW). Zobacz [busan.md](busan.md).*
 
-## What to buy — counts shown per group
+## Co kupić — liczby podane na grupę
 
-- **Seoul — Discover Seoul Pass 48h (adults), activate the afternoon of Aug 16.** Buy **3 adult passes → Group 1: 1, Group 2: 2.** Kids 9 & 11: discounted individual Lotte World + N Seoul Tower tickets (a pass loses money for them). The **15-year-old**: a pass only if you'll definitely do COEX, otherwise à la carte.
-  - ⚠️ **The +33k/adult assumes you do COEX Aquarium (Aug 18) — currently only an "Also Nearby," not locked in.** Without COEX an adult pass is only **~+5k**, and you must squeeze COEX in before the 48h expires (~Aug 18 afternoon). If COEX is doubtful: either step up to the **72h pass** for timing safety, or **skip the pass** and buy discounted individual Lotte World + N Seoul Tower tickets.
-  - Everyone (both groups) pays out of pocket for **Seoul Sky, the Namsan Cable Car, and the Nami zipline** — none are on the pass.
-- **Busan — no pass by default.** Pay gates (Beach Train + Busan Tower). Book the **Sky Capsule** separately (see the deadline box above — **one capsule per group**). Buy a pass **only** if you deliberately add a Haeundae observation-deck day → adult **BIG3 (45,000 KRW) + Busan X the Sky**. No pass for the kids.
-- **Taipei — decide the Aug 23 coast day first.**
-  - **DIY the coast day → 3 adult Fun Pass Unlimited 3-day** (Group 1: 1, Group 2: 2), activate the **morning of Aug 22** (covers Aug 22–24). **No pass for any kid or the 15-year-old** (NPM free under 18; the teen pays the adult pass price for near-child value).
-  - **Guided coast tour → no passes for anyone;** EasyCard + discounted individual tickets.
-  - Either way, **Aug 27 Maokong + Aug 28–29 are EasyCard + gate tickets** (they fall outside the pass window). A Klook pick-3 only beats à-la-carte if a tier prices under ~NT$900.
-- **Taichung / Tainan / Kaohsiung — no cards.** One Taiwan-wide **EasyCard/iPASS** per person; pay the few small gate fees à la carte.
+- **Seoul — Discover Seoul Pass 48 h (dorośli), aktywacja po południu 16 sie.** Kupcie **3 passy dla dorosłych → Grupa 1: 1, Grupa 2: 2.** Dzieci 9 i 11 lat: pojedyncze bilety ze zniżką na Lotte World + N Seoul Tower (pass im się nie opłaca). **15-latek**: pass tylko wtedy, gdy COEX jest pewny, w przeciwnym razie bilety pojedynczo.
+  - ⚠️ **Te +33k na dorosłego zakładają, że robicie COEX Aquarium (18 sie) — na razie to tylko pozycja „Also Nearby", nie ustalona na pewno.** Bez COEX pass dla dorosłego daje tylko **~+5k**, a COEX trzeba wcisnąć przed upływem 48 h (~18 sie po południu). Jeśli COEX jest niepewny: albo wybierzcie **pass 72 h** dla bezpieczeństwa czasowego, albo **zrezygnujcie z passa** i kupcie pojedyncze bilety ze zniżką na Lotte World + N Seoul Tower.
+  - Wszyscy (obie grupy) płacą z własnej kieszeni za **Seoul Sky, kolejkę linową Namsan i zipline na Nami** — żadne z nich nie jest objęte passem.
+- **Busan — domyślnie bez passa.** Płacicie w kasach (Beach Train + Busan Tower). **Sky Capsule** rezerwujcie osobno (patrz ramka z deadline'em wyżej — **jedna kapsuła na grupę**). Pass kupcie **tylko** wtedy, gdy świadomie dodacie dzień tarasów widokowych w Haeundae → dorosły **BIG3 (45,000 KRW) + Busan X the Sky**. Dla dzieci żadnego passa.
+- **Taipei — najpierw zdecydujcie o dniu na wybrzeżu 23 sie.**
+  - **Dzień na wybrzeżu na własną rękę → 3 × Fun Pass Unlimited 3-day dla dorosłych** (Grupa 1: 1, Grupa 2: 2), aktywacja **rano 22 sie** (obejmuje 22–24 sie). **Żadnego passa dla dzieci ani dla 15-latka** (NPM bezpłatnie do 18 lat; nastolatek płaci cenę passa dorosłego, a korzysta prawie jak dziecko).
+  - **Wycieczka na wybrzeże z przewodnikiem → żadnych passów dla nikogo;** EasyCard + pojedyncze bilety ze zniżką.
+  - Tak czy inaczej **27 sie Maokong + 28–29 sie to EasyCard + bilety w kasach** (wypadają poza okresem ważności passa). Pakiet wybierz-3 na Klook wygrywa z zakupem pojedynczym tylko wtedy, gdy któryś próg wychodzi poniżej ~NT$900.
+- **Taichung / Tainan / Kaohsiung — bez kart.** Jedna **EasyCard/iPASS** na osobę, działająca na całym Tajwanie; kilka drobnych opłat za wstęp płaćcie pojedynczo.
 
-## Rough out-of-pocket per person (attraction tickets/passes only — approx, re-verify)
+## Szacunkowe wydatki z własnej kieszeni na osobę (tylko bilety/passy do atrakcji — przybliżone, zweryfikuj ponownie)
 
-| City | Adult | Child 9 & 11 | Not covered / extra |
+| Miasto | Dorosły | Dziecko 9 i 11 lat | Nieobjęte / dodatkowo |
 |------|-------|--------------|---------------------|
-| Seoul | 70,000 KRW (48h pass) | ~45,000–59,000 (Lotte World + N Tower; lower end with online discounts) | Seoul Sky ~31k, cable car ~15k, Nami zip ~44k |
-| Busan | ~24,000 KRW gates + Sky Capsule share | lower gates + capsule share | Sky Capsule ~35–40k/1–2-pax (more for 3) |
-| Taipei — **DIY** | ~NT$2,000 (3-day pass) + ~NT$250 Aug-27 Maokong/Zoo | ~NT$900 à la carte (NPM free) | Beitou onsen 350–600, airport MRT; ballpark — see taipei.md |
-| Taipei — **guided** | ~NT$1,400 tickets + tour NT$1,500–2,000 | ~NT$700 tickets + tour | coast items are inside the tour; ballpark — see taipei.md |
+| Seoul | 70,000 KRW (pass 48 h) | ~45,000–59,000 (Lotte World + N Tower; dolna granica przy zniżkach online) | Seoul Sky ~31k, kolejka linowa ~15k, zipline na Nami ~44k |
+| Busan | ~24,000 KRW wstępy + udział w Sky Capsule | niższe wstępy + udział w kapsule | Sky Capsule ~35–40k za 1–2 os. (za 3 więcej) |
+| Taipei — **na własną rękę** | ~NT$2,000 (pass 3-dniowy) + ~NT$250 na Maokong/zoo 27 sie | ~NT$900 pojedynczo (NPM bezpłatnie) | onsen w Beitou 350–600, MRT na lotnisko; rząd wielkości — zobacz taipei.md |
+| Taipei — **z przewodnikiem** | ~NT$1,400 bilety + wycieczka NT$1,500–2,000 | ~NT$700 bilety + wycieczka | punkty na wybrzeżu są w cenie wycieczki; rząd wielkości — zobacz taipei.md |
 | Taichung | NT$0 | NT$0 | — |
 | Tainan | NT$210 | NT$105 | — |
-| Kaohsiung | ~NT$139 | ~NT$139 (no child rate at the Consulate) | MRT taps (kids pay adult fare) |
+| Kaohsiung | ~NT$139 | ~NT$139 (w Konsulacie brak stawki dziecięcej) | przejazdy MRT (dzieci płacą jak dorośli) |
 
-## Cross-cutting notes
+## Uwagi przekrojowe
 
-- **Korean city passes (Seoul, Busan) are foreigners-only and flat-priced for all ages** — no child discount. (Seoul confirmed; **Busan's flat pricing is unconfirmed — verify at checkout.**) Because children's *gate* prices are lower, these passes are systematically **worse value for kids than adults** — default to buying them for adults only.
-- **Taiwan:** one **EasyCard/iPASS** works nationwide (Taipei/Taichung/Tainan/Kaohsiung MRT, LRT, buses, Cijin ferry). No separate transit card per city. The **airport MRT** in Taipei is *not* on the Fun Pass. **Non-resident kids aged 6+ get no fare concession** — budget adult transit fares for all three children.
-- **NPM (Taipei) is free for everyone under 18** — all three kids enter free; never buy a child ticket or spend a pass slot on it.
-- **Age tiers matter** (see [CLAUDE.md](../CLAUDE.md) → "Skład rodziny"): the 15-year-old is adult-priced on the Taipei Fun Pass (child tier is 6–11) but still free at NPM; 9 & 11 get child rates.
-- **Prices drift — re-verify every price ~2 weeks before travel** (Korean passes have risen notably); each file lists its recheck items. One to reconcile specifically: the **Discover Seoul Pass 48h price** — the whole "+33k/adult" rests on it being **70,000 KRW**, and some listings show a lower ~50,000 figure (likely the 24h price mislabelled). Confirm before relying on the margin.
+- **Koreańskie passy miejskie (Seoul, Busan) są tylko dla obcokrajowców i mają jedną cenę dla wszystkich grup wiekowych** — bez zniżki dla dzieci. (Seoul potwierdzony; **jednolita cena w Busan jest niepotwierdzona — sprawdź przy zakupie.**) Ponieważ ceny *w kasach* dla dzieci są niższe, te passy są systematycznie **mniej opłacalne dla dzieci niż dla dorosłych** — domyślnie kupujcie je tylko dorosłym.
+- **Tajwan:** jedna **EasyCard/iPASS** działa w całym kraju (metro w Taipei/Taichung/Tainan/Kaohsiung, LRT, autobusy, prom na Cijin). Nie trzeba osobnej karty transportowej w każdym mieście. **MRT na lotnisko** w Taipei *nie* jest objęte Fun Passem. **Dzieci od 6 lat bez statusu rezydenta nie mają zniżki na przejazdy** — dla wszystkich trojga dzieci licz stawki dorosłych.
+- **NPM (Taipei) jest bezpłatne dla wszystkich do 18 lat** — wszystkie trzy dzieci wchodzą bezpłatnie; nigdy nie kupujcie biletu dziecięcego ani nie zużywajcie na to miejsca w passie.
+- **Progi wiekowe mają znaczenie** (patrz [CLAUDE.md](../CLAUDE.md) → „Skład rodziny"): 15-latek płaci cenę dorosłego za Taipei Fun Pass (próg dziecięcy to 6–11 lat), ale w NPM wchodzi bezpłatnie; 9- i 11-latek mają stawki dziecięce.
+- **Ceny się zmieniają — zweryfikuj każdą cenę ~2 tygodnie przed wyjazdem** (koreańskie passy wyraźnie podrożały); każdy plik ma własną listę rzeczy do ponownego sprawdzenia. Jedna wymaga szczególnego wyjaśnienia: **cena Discover Seoul Pass 48 h** — całe „+33k na dorosłego" opiera się na tym, że kosztuje **70,000 KRW**, a część ofert podaje niższą kwotę ~50,000 (prawdopodobnie źle opisana cena wersji 24 h). Potwierdź, zanim będziesz liczyć na ten zysk.
 
-## Corrections applied to the day files
+## Poprawki wprowadzone do plików dni
 
-Two errors this analysis caught in the itinerary's day files (now fixed):
-- **[aug-16](../days/aug-16-myeongdong-namsan.md):** the Namsan Cable Car was shown as "Pass or ~15,000" — the Discover Seoul Pass does **not** cover the cable car (only the tower observatory); corrected.
-- **[aug-19](../days/aug-19-busan.md):** the Sky Capsule was shown at ~50,000/2-pax — corrected to ~35,000–40,000 (1–2 pax, one-way).
+Dwa błędy, które ta analiza wykryła w plikach dni w planie (już poprawione):
+- **[aug-16](../days/aug-16-myeongdong-namsan.md):** kolejka linowa Namsan była pokazana jako „Pass albo ~15,000" — Discover Seoul Pass **nie** obejmuje kolejki (tylko taras widokowy na wieży); poprawione.
+- **[aug-19](../days/aug-19-busan.md):** Sky Capsule była pokazana za ~50,000 za 2 os. — poprawione na ~35,000–40,000 (1–2 os., w jedną stronę).
 
-## How these files were built
+## Jak powstały te pliki
 
-Researched by five parallel agents (one per card/cluster), synthesised here, then checked by fact- and math-critics. They're now also **surfaced on the web app as a "Cards" tab** — `generate_site_data.py` parses `cards/*.md` into the `CARDS` global in `docs/data.js`, rendered by `docs/app.js`. See [passes.md](../passes.md) for the transport/transit/eSIM details.
+Zbadane przez pięciu równoległych agentów (po jednym na kartę/klaster), zsyntetyzowane tutaj, a potem sprawdzone przez krytyków faktów i obliczeń. Są też **pokazywane w aplikacji WWW jako zakładka „Cards"** — `generate_site_data.py` parsuje `cards/*.md` do globalnej zmiennej `CARDS` w `docs/data.js`, renderowanej przez `docs/app.js`. Szczegóły dotyczące transportu/komunikacji/eSIM znajdziesz w [passes.md](../passes.md).

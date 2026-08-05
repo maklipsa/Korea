@@ -1,38 +1,38 @@
-# Aug 24 (Mon) — TAIPEI DAY 3: Kids' Science Day + Shilin Night Market
-> Badges: closed:Maokong & NPM closed Mon
+# Aug 24 (Mon) — Taipei dzień 3: dzień nauki dla dzieci + Shilin Night Market
+> Badges: closed:Maokong i NPM zamknięte w pon.
 
-Monday: Maokong Gondola closed, NPM closed, Beitou Museum closed. But the Shilin science complex — Children's Amusement Park, Science Education Center (NTSEC), and Astronomical Museum — is open: all three open Mondays during summer vacation. VERIFIED: Aug 24 falls within Taiwan's school summer break (Jul 1 – Aug 31, 2026), so the Monday-open exception applies to all three.
+Poniedziałek: Maokong Gondola zamknięta, NPM zamknięte, Beitou Museum zamknięte. Ale kompleks naukowy w Shilin — Children's Amusement Park, Science Education Center (NTSEC) i Astronomical Museum — jest otwarty: wszystkie trzy otwarte w poniedziałki w czasie wakacji. SPRAWDZONE: 24 sie wypada w tajwańskich wakacjach szkolnych (1 lip – 31 sie 2026), więc wyjątek „otwarte w poniedziałek" obowiązuje we wszystkich trzech.
 
-**Transport (compact — bike-friendly):** The amusement park / science centre / planetarium sit ~1–2 km apart in Shilin — walk or **YouBike** — then MRT to Shilin Night Market.
+**Transport (zwarty — przyjazny rowerom):** Park rozrywki / centrum nauki / planetarium leżą ~1–2 km od siebie w Shilin — pieszo albo **YouBike** — potem metrem do Shilin Night Market.
 
 ## Route Map
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Taipei+Childrens+Amusement+Park&destination=Shilin+Night+Market+Taipei&waypoints=National+Taiwan+Science+Education+Center+Taipei|Taipei+Astronomical+Museum|Miramar+Entertainment+Park+Taipei&travelmode=walking)
+[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Taipei+Childrens+Amusement+Park&destination=Shilin+Night+Market+Taipei&waypoints=National+Taiwan+Science+Education+Center+Taipei|Taipei+Astronomical+Museum|Miramar+Entertainment+Park+Taipei&travelmode=walking)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:00 | **[★★★★☆ 🏛️🧒 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei)** — Interactive exhibits (life/physical/earth sciences), floors 3-6. Great for 9-year-olds. **Front-loaded to the morning** (opens 09:00, closes 18:00) so the museums come while everyone's freshest, ahead of the rides. Permanent exhibition NT$120 (students w/ ID NT$90; under-6 free). | NT$120 |
-| 11:00 | **[★★★☆☆ 🏛️🧒 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum)** — Space exhibits, planetarium/Cosmic Theater (dome) + 3D theater. Next door to the science center. Opens 09:00 (Mon summer exception; normally closed Mon). Exhibition NT$40 (children 6-12 / students NT$20); dome or 3D theater NT$100 (under-12 / students NT$50) — book theater slots on arrival. | NT$40 + theater NT$100 |
-| 12:30 | Lunch nearby. |  |
-| 13:30 | **[★★★☆☆ 🎡🧒 Taipei Children's Amusement Park](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park)** — Drop tower, roller coaster, pirate ship, bumper cars, arcades. Incredibly cheap! No entrance fee (pay per ride): major rides NT$30, other rides NT$20, or all-day pass NT$200 (unlimited on rides #1-13). Right next door to the science center. Open Mon in summer vacation to 20:00 (verified). Under-6 free. **The rides now anchor the afternoon** — but note they're mostly outdoor, so in peak August heat you may prefer to flip this back (park in the cooler 9am slot, AC museums during midday heat). | NT$200 day pass |
-| 16:30 | *Optional sunset detour* — separate MRT hop E to Dazhi / Jiannan Rd; skip if you'd rather head straight to Shilin. |  |
-|  | **[★★★☆☆ 🎡🗼 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei)** — 70m rooftop Ferris wheel (100m up) with city + sunset views, plus a mall, cinema and food court to cool off in. | Ferris wheel ~NT$150 |
-| 17:00 | Explore Shilin area / walk toward the night market. (Pokémon Center & Donguri Republic moved to the Aug 22 Xinyi/Taipei 101 day — they're at Shin Kong Mitsukoshi Xinyi, not Shilin.) |  |
-| 18:30 | **[★★★★☆ 🏮🍜 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei)** — Taiwan's largest (since 1909). 500+ vendors. Large sausages, chicken cutlets, salt-crisp fried chicken with basil. Giant portions. | ~NT$200-400/person |
+| 9:00 | **[★★★★☆ 🏛️🧒 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei)** — Interaktywne ekspozycje (nauki o życiu, fizyczne, o Ziemi), piętra 3–6. Świetne dla 9-latka. **Przesunięte na przód dnia** (otwarcie 9:00, zamknięcie 18:00), żeby muzea wypadły, gdy wszyscy są najświeżsi, przed karuzelami. Ekspozycja stała NT$120 (uczniowie/studenci z legitymacją NT$90; do 6 lat wstęp wolny). | NT$120 |
+| 11:00 | **[★★★☆☆ 🏛️🧒 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum)** — Ekspozycje o kosmosie, planetarium/Cosmic Theater (kopuła) + kino 3D. Tuż obok centrum nauki. Otwarcie 9:00 (poniedziałkowy wyjątek wakacyjny; normalnie zamknięte w pon.). Ekspozycja NT$40 (dzieci 6–12 / uczniowie NT$20); kopuła lub kino 3D NT$100 (do 12 lat / uczniowie NT$50) — miejsca na seanse zarezerwuj na miejscu. | NT$40 + kino NT$100 |
+| 12:30 | Lunch w okolicy. |  |
+| 13:30 | **[★★★☆☆ 🎡🧒 Taipei Children's Amusement Park](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park)** — Wieża swobodnego spadania, rollercoaster, statek piracki, autka zderzaki, salony gier. Niesamowicie tanio! Bez opłaty za wejście (płatność za każdą atrakcję): duże atrakcje NT$30, pozostałe NT$20, albo pass całodniowy NT$200 (bez limitu na atrakcje #1–13). Dosłownie obok centrum nauki. Otwarte w pon. w czasie wakacji do 20:00 (sprawdzone). Do 6 lat wstęp wolny. **Atrakcje są teraz kotwicą popołudnia** — ale pamiętaj, że są głównie na zewnątrz, więc w sierpniowym upale możesz woleć odwrócić kolejność (park w chłodniejszym oknie o 9:00, klimatyzowane muzea w największy upał). | pass całodniowy NT$200 |
+| 16:30 | *Opcjonalny objazd na zachód słońca* — osobny skok metrem na wschód do Dazhi / Jiannan Rd; pomiń, jeśli wolisz jechać prosto do Shilin. |  |
+|  | **[★★★☆☆ 🎡🗼 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei)** — Diabelski młyn na dachu, 70 m wysokości (100 m nad ziemią), z widokiem na miasto i zachód słońca, plus centrum handlowe, kino i food court, żeby się ochłodzić. | diabelski młyn ~NT$150 |
+| 17:00 | Zwiedzanie okolicy Shilin / spacer w stronę nocnego targu. (Pokémon Center i Donguri Republic przeniesione na dzień Xinyi/Taipei 101 z 22 sie — są w Shin Kong Mitsukoshi Xinyi, nie w Shilin.) |  |
+| 18:30 | **[★★★★☆ 🏮🍜 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei)** — Największy na Tajwanie (od 1909). Ponad 500 stoisk. Wielkie kiełbaski, kotlety z kurczaka, chrupiący kurczak solony z bazylią. Gigantyczne porcje. | ~NT$200–400/osoba |
 
 ---
 
 ## Also Nearby
 
-### More Taipei Activities
-- ★★★☆☆ 📸🧒 Airport Alley (Songshan Airport) — Watch planes land just meters away; free, thrilling for kids
+### Więcej atrakcji w Taipei
+- ★★★☆☆ 📸🧒 Airport Alley (Songshan Airport) — Samoloty lądujące kilka metrów od ciebie; bezpłatnie, dla dzieci przeżycie
 
-### Themed Cafes
-- [★★☆☆☆ ☕🤪 Alice is Coming Cafe](https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei) — Wonderland-themed; immersive restrooms
-- [★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei) — Taipei's first capybara cafe; plus rabbits, ducks
+### Kawiarnie tematyczne
+- [★★☆☆☆ ☕🤪 Alice is Coming Cafe](https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei) — W stylu Krainy Czarów; toalety jak z bajki
+- [★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei) — Pierwsza kawiarnia z kapibarami w Taipei; plus króliki i kaczki
 
-### Bubble Tea & Desserts
-- [★★★☆☆ 🧋 50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — Iconic local boba chain; pearl milk tea essential
-- [★★☆☆☆ ☕ Come Eat Sweets](https://www.google.com/maps/search/Lai+Ja+Tian+Taipei) — Near Main Station; hot tang yuan in ground peanuts over shaved ice
-- [★★☆☆☆ ☕ Nice Cream](https://www.google.com/maps/search/Nice+Cream+Taipei) — Vegan gelato; Earl Grey waffle; daily rotating flavors
+### Bubble tea i desery
+- [★★★☆☆ 🧋 50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — Kultowa lokalna sieć boba; pearl milk tea obowiązkowa
+- [★★☆☆☆ ☕ Come Eat Sweets](https://www.google.com/maps/search/Lai+Ja+Tian+Taipei) — Blisko dworca głównego; gorące tang yuan w mielonych orzeszkach na kruszonym lodzie
+- [★★☆☆☆ ☕ Nice Cream](https://www.google.com/maps/search/Nice+Cream+Taipei) — Wegańskie gelato; wafel Earl Grey; smaki zmieniane codziennie

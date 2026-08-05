@@ -71,10 +71,10 @@ def _day_list(nums) -> str:
     nums = sorted(nums)
     if len(nums) == 1:
         d = nums[0]
-        return f"Day {d} (Aug {d + 10})"
+        return f"Dzień {d} ({d + 10} sie)"
     days = ", ".join(str(d) for d in nums)
     dates = ", ".join(str(d + 10) for d in nums)
-    return f"Days {days} (Aug {dates})"
+    return f"Dni {days} ({dates} sie)"
 
 
 def build_marker(info) -> str:
@@ -84,7 +84,7 @@ def build_marker(info) -> str:
     if visit:
         segs.append("**" + _day_list(visit) + "**")
     if nearby:
-        segs.append("*near " + _day_list(nearby) + "*")
+        segs.append("*blisko: " + _day_list(nearby) + "*")
     return "📅 " + " · ".join(segs) if segs else ""
 
 

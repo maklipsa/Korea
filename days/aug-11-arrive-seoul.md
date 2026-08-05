@@ -1,52 +1,52 @@
-# Aug 11 (Tue) — ARRIVE SEOUL + AFTERNOON EXPLORING
+# Aug 11 (Tue) — Przylot do Seoulu + popołudniowe zwiedzanie
 
-Gyeongbokgung closed Tuesdays — no conflict. **Landing 9:25 at ICN (confirmed).** Allow 60–90 min from landing to AREX boarding — immigration, baggage, T-money purchase — before the times below.
+Gyeongbokgung zamknięte we wt. — brak kolizji. **Lądowanie 9:25 na ICN (potwierdzone).** Doliczcie 60–90 min od lądowania do wejścia do AREX — kontrola paszportowa, bagaż, zakup T-money — przed godzinami poniżej.
 
-**Transport:** AREX train ICN → Seoul (~43–55 min), then central Seoul on foot + short subway hops. (Jet-lag day — trains and walking, not bikes.)
+**Transport:** pociąg AREX ICN → Seoul (~43–55 min), potem centrum miasta pieszo + krótkie przejazdy metrem. (Dzień jet lagu — pociągi i spacery, nie rowery.)
 
-**Timing note:** the two free indoor museums (Dongdaemun History Museum + Seoul City Wall Museum) both **close 18:00**, so the afternoon front-loads them before the Ikseon-dong cafe/dinner stretch — both are AC refuges right on the DDP–Heunginjimun route, no detour. It's a full afternoon after a flight: the **natural drops are Sindang tteokbokki and the Naksan/Ihwa walk**, then Heunginjimun. (Lunch at Tosokchon is a trek out west near Gyeongbokgung — lovely, but say the word and I'll swap in a samgyetang/hearty option nearer the DDP hotel to keep the day tight.)
+**Uwaga o czasie:** oba bezpłatne muzea pod dachem (Dongdaemun History Museum + Seoul City Wall Museum) **zamykają się o 18:00**, więc popołudnie stawia je na początku, przed odcinkiem z kawiarnią i kolacją w Ikseon-dong — oba są schronieniem z AC dokładnie na trasie DDP–Heunginjimun, bez nadkładania drogi. To pełne popołudnie po locie: **naturalni kandydaci do pominięcia to Sindang tteokbokki i spacer Naksan/Ihwa**, potem Heunginjimun. (Lunch w Tosokchon to wyprawa na zachód, w okolice Gyeongbokgung — pięknie, ale wystarczy słowo i podmienię go na samgyetang/coś sytego bliżej hotelu przy DDP, żeby dzień był zwarty.)
 
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/126.97799,37.56918,Cheonggye+Plaza:127.00990,37.56707,Dongdaemun+Design+Plaza:127.01515,37.56300,Sindang+Tteokbokki/walk)
-[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Tosokchon+Samgyetang+Seoul&destination=Ikseon-dong+Seoul&waypoints=Cheonggyecheon+Stream+Seoul|Dongdaemun+Design+Plaza+Seoul|Sindang+Tteokbokki+Town+Seoul&travelmode=transit)
+[Trasa w Naver Map](https://map.naver.com/p/directions/126.9716,37.5778,Tosokchon+Samgyetang/126.9900,37.5730,Ikseon-dong/126.97799,37.56918,Cheonggye+Plaza:127.00990,37.56707,Dongdaemun+Design+Plaza:127.01515,37.56300,Sindang+Tteokbokki/walk)
+[Wszystkie punkty w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Tosokchon+Samgyetang+Seoul&destination=Ikseon-dong+Seoul&waypoints=Cheonggyecheon+Stream+Seoul|Dongdaemun+Design+Plaza+Seoul|Sindang+Tteokbokki+Town+Seoul&travelmode=transit)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:25 | Land at Incheon (ICN). | |
-| | Buy **T-money card** at convenience store, load ~50,000 KRW. | |
-| 10:30 | **Airport Express (AREX)** to Seoul (~43 min direct to Seoul Station / ~55 min all-stop to Hongdae). | 4,150 KRW (all-stop) or 9,500 KRW (direct) |
-| ~11:15 | *(⚠️ OPTIONAL — top-tier art, but only if you go **straight from the airport, before the hotel**)* **[★★★★★ 🎨📷 piknic](https://www.google.com/maps/search/piknic+Seoul)** — Cult art/design/photography space (Saul Leiter, Ryuichi Sakamoto shows) + superb rooftop, a few minutes from the AREX terminus at Seoul Station. Doing it means **detouring with luggage, before check-in** — a real ask on no sleep, so skip it unless the group is game. Tue open 10:00–18:00 (last entry 17:00); timed tickets, book ahead; verify the Aug-2026 show. | ~15,000 KRW (verify tiers) |
-| 11:30 | Check in hotel, drop bags, freshen up. | |
-| 12:30 | Lunch: **[★★★☆☆ 🍜 Tosokchon Samgyetang](https://www.google.com/maps/search/Tosokchon+Samgyetang+Seoul)** — Famous ginseng chicken soup (whole young chicken stuffed with rice, ginseng, jujubes). Restorative after a long flight. Always a queue but moves fast. Near Gyeongbokgung. Open daily 10:00–22:00 (no Tue closure); one order per person. | ~20,000 KRW/person |
-| 14:00 | **[★★★☆☆ 🌳🚶 Cheonggyecheon Stream](https://www.google.com/maps/search/Cheonggyecheon+Stream+Seoul)** — 10.9km restored urban stream running through central Seoul. Shaded, a few degrees cooler than street level. Start at Cheonggye Plaza waterfall and walk east. | Free |
-| 15:00 | **[★★★☆☆ 📸🎨 Dongdaemun Design Plaza (DDP)](https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul)** — Zaha Hadid's silver spaceship. LED Rose Garden (25,550 LED roses — one for each day in 70 years of liberation; lights up at sunset) + flowing outdoor terraces, then **head inside for the AC**: the Design Museum + rotating (often interactive) design/art exhibitions. Kids love the architecture. 10:00–20:00; outdoor free, some shows ticketed (Aug-2026 lineup unconfirmed — verify). | Free (outdoor) |
-| 15:40 | **[★★★☆☆ 🏛️🧒 Dongdaemun History Museum (1398) + Igansu Gate & City Wall excavation](https://www.google.com/maps/search/Dongdaemun+History+Museum+Seoul)** — Right in the DDP park: excavated Joseon relics, excavation blueprints etched into the floor, AR experiences, and the preserved arched floodgate (Igansumun) + original Seoul City Wall sections. Cool, free, genuinely a museum. Closes 18:00. | Free |
-| 16:15 | **[★★☆☆☆ 🏯📸 Heunginjimun (Dongdaemun Gate)](https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul)** — Original Seoul Fortress gate (1398), a floodlit stone island ~5 min from DDP. (Skipping the Dongdaemun malls — Doota / Hyundai City Outlet aren't worth a stop.) | Free |
-| | Beside it, **[★★★☆☆ 🏛️ Seoul City Wall Museum](https://www.google.com/maps/search/Seoul+City+Wall+Museum+Seoul)** — Hanyang-fortress history + a big scale model; free, but **last entry 17:30 / closes 18:00**, so go briskly. | Free |
-| (drop) | *(Natural drop now the museums are in — only if you skipped one and want a snack; ~1 stop SE of DDP.)* **[★★★☆☆ 🍜🧒 Sindang-dong Tteokbokki Town](https://www.google.com/maps/search/Sindang+Tteokbokki+Town+Seoul)** — Birthplace of Korea's tteokbokki craze; legendary rabokki (tteokbokki + ramen) with sundae. | ~10,000 KRW |
-| 17:00 | Walk to **[★★★★☆ 🚶 Ikseon-dong](https://www.google.com/maps/search/Ikseon-dong+Seoul)** (10 min from DDP) — Seoul's oldest hanok village turned hip cafe/restaurant district. Wander narrow alleys, browse boutique shops. | |
-| 17:30 | **⚖️ Choose one — Ikseon-dong cafe stop.** Both open daily. | |
-| | **Option A ·** **[★★☆☆☆ ☕ Cheong Su Dang](https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul)** — stepping stones over water inside the cafe; can have long waits (souffle castella baked to order). | |
-| | **Option B ·** **[★★☆☆☆ ☕ Seoul Coffee](https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong)** — squid-ink butter bread. | |
-| 19:00 | Dinner in Ikseon-dong hanok restaurants — Fusion dishes in renovated hanoks. Try the swirl omelet rice or tteokbokki carbonara. | |
+| 9:25 | Lądowanie w Incheon (ICN). | |
+| | Kupcie **kartę T-money** w sklepie całodobowym, załadujcie ~50,000 KRW. | |
+| 10:30 | **Airport Express (AREX)** do Seoulu (~43 min bezpośrednim do Seoul Station / ~55 min pociągiem ze wszystkimi przystankami do Hongdae). | 4,150 KRW (all-stop) lub 9,500 KRW (bezpośredni) |
+| ~11:15 | *(⚠️ OPCJONALNIE — sztuka najwyższej klasy, ale tylko jeśli jedziecie **prosto z lotniska, przed hotelem**)* **[★★★★★ 🎨📷 piknic](https://www.google.com/maps/search/piknic+Seoul)** — Kultowa przestrzeń sztuki/designu/fotografii (wystawy Saula Leitera, Ryuichiego Sakamoto) + znakomity dach, kilka minut od końcowej stacji AREX przy Seoul Station. Oznacza to **nadłożenie drogi z bagażami, przed zameldowaniem** — spore wyzwanie bez snu, więc pomińcie, chyba że grupa ma ochotę. We wt. otwarte 10:00–18:00 (ostatnie wejście 17:00); bilety na godziny, rezerwacja z góry; sprawdźcie wystawę na sie 2026. | ~15,000 KRW (sprawdź progi) |
+| 11:30 | Zameldowanie w hotelu, zostawienie bagaży, odświeżenie się. | |
+| 12:30 | Lunch: **[★★★☆☆ 🍜 Tosokchon Samgyetang](https://www.google.com/maps/search/Tosokchon+Samgyetang+Seoul)** — Słynna zupa z kurczaka z żeń-szeniem (całe młode kurczę faszerowane ryżem, żeń-szeniem i jujubami). Stawia na nogi po długim locie. Zawsze jest kolejka, ale szybko się posuwa. Blisko Gyeongbokgung. Otwarte codziennie 10:00–22:00 (bez zamknięcia we wt.); jedno zamówienie na osobę. | ~20,000 KRW/osoba |
+| 14:00 | **[★★★☆☆ 🌳🚶 Cheonggyecheon Stream](https://www.google.com/maps/search/Cheonggyecheon+Stream+Seoul)** — Odrestaurowany miejski strumień o długości 10,9 km, biegnący przez centrum Seoulu. Zacieniony, o kilka stopni chłodniejszy niż poziom ulicy. Start przy wodospadzie na Cheonggye Plaza i spacer na wschód. | Bezpłatnie |
+| 15:00 | **[★★★☆☆ 📸🎨 Dongdaemun Design Plaza (DDP)](https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul)** — Srebrny statek kosmiczny Zahy Hadid. LED Rose Garden (25,550 diodowych róż — jedna za każdy dzień 70 lat od wyzwolenia; zapala się o zachodzie słońca) + falujące tarasy na zewnątrz, a potem **do środka po AC**: Design Museum + zmieniające się (często interaktywne) wystawy designu i sztuki. Dzieci uwielbiają tę architekturę. 10:00–20:00; teren zewnętrzny bezpłatny, część wystaw biletowana (program na sie 2026 niepotwierdzony — sprawdź). | Bezpłatnie (na zewnątrz) |
+| 15:40 | **[★★★☆☆ 🏛️🧒 Dongdaemun History Museum (1398) + Igansu Gate & City Wall excavation](https://www.google.com/maps/search/Dongdaemun+History+Museum+Seoul)** — W samym parku DDP: wykopane zabytki z czasów Joseon, plany wykopalisk wyryte w podłodze, doświadczenia AR oraz zachowana łukowa śluza powodziowa (Igansumun) + oryginalne fragmenty Seoul City Wall. Chłodno, bezpłatnie, naprawdę muzeum. Zamknięcie o 18:00. | Bezpłatnie |
+| 16:15 | **[★★☆☆☆ 🏯📸 Heunginjimun (Dongdaemun Gate)](https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul)** — Oryginalna brama twierdzy Seoul Fortress (1398), oświetlona reflektorami kamienna wyspa ~5 min od DDP. (Pomijamy centra handlowe w Dongdaemun — Doota / Hyundai City Outlet nie są warte przystanku.) | Bezpłatnie |
+| | Obok, **[★★★☆☆ 🏛️ Seoul City Wall Museum](https://www.google.com/maps/search/Seoul+City+Wall+Museum+Seoul)** — Historia twierdzy Hanyang + duża makieta; bezpłatnie, ale **ostatnie wejście 17:30 / zamknięcie 18:00**, więc ruszajcie się żwawo. | Bezpłatnie |
+| (pomiń) | *(Naturalny kandydat do pominięcia teraz, gdy w planie są muzea — tylko jeśli któreś odpuściliście i chcecie przekąskę; ~1 przystanek na południowy wschód od DDP.)* **[★★★☆☆ 🍜🧒 Sindang-dong Tteokbokki Town](https://www.google.com/maps/search/Sindang+Tteokbokki+Town+Seoul)** — Kolebka koreańskiego szału na tteokbokki; legendarne rabokki (tteokbokki + ramen) z sundae. | ~10,000 KRW |
+| 17:00 | Spacer do **[★★★★☆ 🚶 Ikseon-dong](https://www.google.com/maps/search/Ikseon-dong+Seoul)** (10 min od DDP) — Najstarsza wioska hanoków w Seoulu, dziś modna dzielnica kawiarni i restauracji. Włóczcie się wąskimi zaułkami, zaglądajcie do butików. | |
+| 17:30 | **⚖️ Wybierzcie jedno — przystanek na kawę w Ikseon-dong.** Oba otwarte codziennie. | |
+| | **Opcja A ·** **[★★☆☆☆ ☕ Cheong Su Dang](https://www.google.com/maps/search/Cheong+Su+Dang+Ikseon-dong+Seoul)** — kamienne stopnie nad wodą wewnątrz kawiarni; kolejki bywają długie (souffle castella pieczone na zamówienie). | |
+| | **Opcja B ·** **[★★☆☆☆ ☕ Seoul Coffee](https://www.google.com/maps/search/Seoul+Coffee+Ikseon-dong)** — maślany chleb z atramentem z kalmara. | |
+| 19:00 | Kolacja w restauracjach w hanokach w Ikseon-dong — Dania fusion w odnowionych hanokach. Spróbujcie zawijanego omletu z ryżem albo tteokbokki carbonara. | |
 
 ---
 
 ## Also Nearby
 
-### More Cafes
-- [★☆☆☆☆ ☕ Cheese Industry](https://www.google.com/maps/search/Cheese+Industry+Ikseon-dong+Seoul) — Ikseon-dong; artisan cheese cafe
-- [★★☆☆☆ ☕ Miik Flo Kaymak](https://www.google.com/maps/search/Miik+Flo+Dongdaemun+Seoul) — Near DDP; pastel cafe; kaymak cream desserts from 3,900 KRW
+### Więcej kawiarni
+- [★☆☆☆☆ ☕ Cheese Industry](https://www.google.com/maps/search/Cheese+Industry+Ikseon-dong+Seoul) — Ikseon-dong; kawiarnia z rzemieślniczymi serami
+- [★★☆☆☆ ☕ Miik Flo Kaymak](https://www.google.com/maps/search/Miik+Flo+Dongdaemun+Seoul) — Blisko DDP; pastelowa kawiarnia; desery ze śmietanką kaymak od 3,900 KRW
 
-### More Food
-- [★★☆☆☆ 🍜 Kkangtong Mandu](https://www.google.com/maps/search/Kkangtong+Mandu+Seoul) — Hidden alley dumplings and cold noodles
+### Więcej jedzenia
+- [★★☆☆☆ 🍜 Kkangtong Mandu](https://www.google.com/maps/search/Kkangtong+Mandu+Seoul) — Pierogi mandu i zimny makaron w ukrytym zaułku
 
-### More to See
-- [★★☆☆☆ 🌳🚶 Seoullo 7017](https://www.google.com/maps/search/Seoullo+7017+Seoul) — Elevated walkway/park on former highway overpass
-- [★★☆☆☆ 🌳 Naksan Park](https://www.google.com/maps/search/Naksan+Park+Seoul) — Uphill from Heunginjimun; a quiet Seoul City Wall segment with city views — a good leg-stretch if there's energy left
-- [★★☆☆☆ 🚶🎨 Ihwa Mural Village](https://www.google.com/maps/search/Ihwa+Mural+Village+Seoul) — Mural/street-art neighborhood on the Naksan slope; free, faded in parts but a fun wander (the first thing to drop if the day's run long)
+### Więcej do zobaczenia
+- [★★☆☆☆ 🌳🚶 Seoullo 7017](https://www.google.com/maps/search/Seoullo+7017+Seoul) — Podniesiony deptak/park na dawnej estakadzie
+- [★★☆☆☆ 🌳 Naksan Park](https://www.google.com/maps/search/Naksan+Park+Seoul) — W górę od Heunginjimun; spokojny odcinek Seoul City Wall z widokami na miasto — dobre rozprostowanie nóg, jeśli zostało sił
+- [★★☆☆☆ 🚶🎨 Ihwa Mural Village](https://www.google.com/maps/search/Ihwa+Mural+Village+Seoul) — Dzielnica murali i street-artu na zboczu Naksan; bezpłatnie, miejscami wyblakłe, ale fajny spacer (pierwsza rzecz do pominięcia, jeśli dzień się przedłuży)
 
-### Workshops
-- [★★☆☆☆ 🎨 Ikseon Gongbang](https://www.google.com/maps/search/Ikseon+Gongbang+Seoul) — Make herbariums, sand candles, plaster fresheners, diffusers
+### Warsztaty
+- [★★☆☆☆ 🎨 Ikseon Gongbang](https://www.google.com/maps/search/Ikseon+Gongbang+Seoul) — Tworzenie zielników, świec z piasku, gipsowych odświeżaczy, dyfuzorów

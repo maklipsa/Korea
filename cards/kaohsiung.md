@@ -1,39 +1,39 @@
-# Kaohsiung — Discount Cards
+# Kaohsiung — karty zniżkowe
 
-**Purpose of this file:** confirm whether any discount card is worth buying in Kaohsiung for our plan (Aug 26 afternoon → Aug 27 midday).
+**Cel tego pliku:** ustalić, czy w Kaohsiung warto kupić jakąkolwiek kartę zniżkową pod nasz plan (26 sie po południu → 27 sie w południe).
 
-> **TL;DR — No card.** Our Kaohsiung sights are almost all free; the two paid items are tiny. Tap **EasyCard/iPASS** for MRT + LRT + the Cijin ferry, and pay the British Consulate at the gate. Ticket cost per person: **~NT$139 for adults and kids alike** (no documented child rate at the Consulate) (+ a little transit).
-
----
-
-## Cards available (none worthwhile)
-
-- **Kaohsiung MRT 24h pass NT$150 / 48h NT$250** — a half-day of ~3–4 rides is only ~NT$80–140 pay-as-you-go (single fares NT$20–35), so the day pass doesn't break even. **EasyCard PAYG wins.**
-- **Kaohsiung FunPASS (3-day ≈ NT$1,400–2,200 total) and the separate Klook Pass Kaohsiung** — both bundle *premium paid* attractions (E-Da World, Suzuka Circuit, Science Museum, etc.) we don't visit. Our sights are free, so either costs far more than our ~NT$140 of real entries — **not worth it** (reconfirm exact price at booking).
-- **EasyCard/iPASS** already covers Kaohsiung MRT, LRT, buses **and the Cijin ferry** Taiwan-wide — no separate card needed.
+> **TL;DR — bez karty.** Nasze punkty programu w Kaohsiung są niemal wszystkie bezpłatne, a dwa płatne to drobiazgi. Przykładaj **EasyCard/iPASS** w MRT + LRT + na promie na Cijin, a wstęp do British Consulate zapłać w kasie. Koszt biletów na osobę: **~NT$139 tak samo dla dorosłych i dzieci** (brak udokumentowanej stawki dziecięcej w Consulate) (+ trochę na transport).
 
 ---
 
-## Coverage & our schedule
+## Dostępne karty (żadna się nie opłaca)
 
-| Attraction | Gate (adult) | Gate (child) | Card covers? | Our day |
+- **Kaohsiung MRT pass 24 h NT$150 / 48 h NT$250** — pół dnia z ~3–4 przejazdami to tylko ~NT$80–140 w rozliczeniu za przejazd (bilety jednorazowe NT$20–35), więc pass dobowy się nie zwraca. **Wygrywa EasyCard PAYG.**
+- **Kaohsiung FunPASS (3-dniowy ≈ NT$1,400–2,200 łącznie) i osobny Klook Pass Kaohsiung** — oba pakują *płatne atrakcje premium* (E-Da World, Suzuka Circuit, Science Museum itd.), do których nie idziemy. Nasze punkty programu są bezpłatne, więc każdy z nich kosztuje znacznie więcej niż nasze realne wstępy za ~NT$140 — **nie warto** (potwierdź dokładną cenę przy rezerwacji).
+- **EasyCard/iPASS** obsługuje już Kaohsiung MRT, LRT, autobusy **oraz prom na Cijin** w całym Tajwanie — osobna karta nie jest potrzebna.
+
+---
+
+## Zakres a nasz plan
+
+| Atrakcja | Kasa (dorosły) | Kasa (dziecko) | Karta obejmuje? | Nasz dzień |
 |------------|--------------|--------------|--------------|---------|
-| Dome of Light / Formosa Blvd | FREE | FREE | n/a | Aug 26 PM |
-| Pier-2 Art Center (outdoor) | FREE | FREE | n/a | Aug 26 PM |
-| Lotus Pond & Dragon-Tiger Pagodas | FREE | FREE | n/a | Aug 27 AM |
-| Love River walk | FREE | FREE | n/a | Aug 26 PM |
-| Cijin ferry (each way) | 30 cash / **20 EasyCard** | ~10–15 (EasyCard) | EasyCard tap | Aug 26/27 |
-| British Consulate at Takao | **99** (partly redeemable) | ~99 (no documented child rate) | skip pass, pay gate | Aug 27 |
-| Kaohsiung MRT (per ride) | 20–35 | 20–35 (no non-resident concession) | EasyCard tap | both |
+| Dome of Light / Formosa Blvd | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie po poł. |
+| Pier-2 Art Center (na zewnątrz) | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie po poł. |
+| Lotus Pond i Dragon-Tiger Pagodas | BEZPŁATNIE | BEZPŁATNIE | n/d | 27 sie przed poł. |
+| Spacer nad Love River | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie po poł. |
+| Prom na Cijin (w jedną stronę) | 30 gotówką / **20 EasyCard** | ~10–15 (EasyCard) | przyłóż EasyCard | 26/27 sie |
+| British Consulate at Takao | **99** (częściowo do odzyskania) | ~99 (brak udokumentowanej stawki dziecięcej) | pomiń pass, płać w kasie | 27 sie |
+| Kaohsiung MRT (za przejazd) | 20–35 | 20–35 (brak zniżki dla nierezydentów) | przyłóż EasyCard | oba dni |
 
 ---
 
-## Recommendation
+## Rekomendacja
 
-**Buy no card.** Tap **EasyCard/iPASS** for all MRT/LRT rides and the Cijin ferry (PAYG beats the NT$150 day pass for a half-day), and pay the **British Consulate** at the gate — the ticket is partly redeemable on-site (≈NT$30 coupon; some sources say the full amount), so it's not pure cost.
+**Nie kupuj żadnej karty.** Przykładaj **EasyCard/iPASS** przy wszystkich przejazdach MRT/LRT i na promie na Cijin (przy pół dnia PAYG bije pass dobowy za NT$150), a wstęp do **British Consulate** zapłać w kasie — bilet jest częściowo do odzyskania na miejscu (kupon ≈NT$30; część źródeł podaje pełną kwotę), więc to nie czysty koszt.
 
-Per person, excluding transit: **adult ≈ NT$139** (ferry round-trip 40 + Consulate 99); **kids ≈ the same ~NT$139** (no documented child rate at the Consulate). Add ~NT$80–140 each of MRT taps (kids pay adult fares).
+Na osobę, bez transportu: **dorosły ≈ NT$139** (prom w obie strony 40 + Consulate 99); **dzieci ≈ tyle samo, ~NT$139** (brak udokumentowanej stawki dziecięcej w Consulate). Dolicz po ~NT$80–140 na przejazdy MRT (dzieci płacą jak dorośli).
 
-## Sources & confidence
+## Źródła i pewność
 
-Official Kaohsiung MRT fares (**high**); MRT day-pass and Fun Pass prices via KKday/Klook (**medium** — reconfirm NT$ at booking); Cijin ferry fares (**high**); British Consulate at Takao NT$99 regular, partly redeemable (**medium** — NT$49 is the Kaohsiung-resident rate, **not** a child rate; no child/student discount is documented, so budget NT$99 for the kids too; re-verify).
+Oficjalne taryfy Kaohsiung MRT (**wysoka**); ceny passa dobowego MRT i Fun Pass według KKday/Klook (**średnia** — potwierdź NT$ przy rezerwacji); taryfy promu na Cijin (**wysoka**); British Consulate at Takao NT$99 normalny, częściowo do odzyskania (**średnia** — NT$49 to stawka dla mieszkańców Kaohsiung, **nie** stawka dziecięca; żadna zniżka dziecięca/studencka nie jest udokumentowana, więc dla dzieci też zaplanuj NT$99; zweryfikuj ponownie).

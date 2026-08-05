@@ -1,92 +1,92 @@
-# Busan — Discount Cards (Visit Busan Pass)
+# Busan — karty zniżkowe (Visit Busan Pass)
 
-**Purpose of this file:** list Busan's discount cards, map them to what we actually do (essentially **one usable day, Aug 19** — we arrive the evening of Aug 18 and fly out the morning of Aug 20), calculate profitability, and decide whether/what to buy.
+**Cel tego pliku:** zebrać karty zniżkowe w Busan, dopasować je do tego, co faktycznie robimy (w praktyce **jeden użyteczny dzień, 19 sie** — przylatujemy wieczorem 18 sie, a wylatujemy rankiem 20 sie), policzyć opłacalność i zdecydować, czy i co kupić.
 
-> **TL;DR** — With only one day and a temple/market-focused plan, **no pass pays off as things stand**. Beach Train + Busan Tower = only ~24,000 KRW of coverable value, far below the 55,000 KRW 24H pass. A pass makes sense **only if you deliberately add Busan X the Sky (and ideally SEA LIFE) at Haeundae** — then the **BIG3 pick-3 pass (45,000)** is the least-bad option, for **adults only**. **Sky Capsule is not on any pass** — book it separately.
-> **Buy: nothing by default. Pay gate prices. (Optional: adult BIG3 + X the Sky if you want an observation-deck day.)**
+> **TL;DR** — Przy tylko jednym dniu i planie skupionym na świątyniach i targach **żaden pass się nie opłaca w obecnym układzie**. Beach Train + Busan Tower = zaledwie ~24,000 KRW wartości do pokrycia, znacznie poniżej passa 24H za 55,000 KRW. Pass ma sens **tylko wtedy, gdy świadomie dołożycie Busan X the Sky (a najlepiej też SEA LIFE) w Haeundae** — wtedy **pass BIG3 z wyborem 3 atrakcji (45,000)** jest najmniej złą opcją, i to **tylko dla dorosłych**. **Sky Capsule nie jest objęty żadnym passem** — rezerwuj osobno.
+> **Kup: domyślnie nic. Płaćcie ceny w kasie. (Opcjonalnie: BIG3 dla dorosłych + X the Sky, jeśli chcecie dzień z tarasami widokowymi.)**
 
 ---
 
-## Cards available
+## Dostępne karty
 
-Like the Seoul pass, the **Visit Busan Pass** is **foreigners-only** and appears to be a **single flat price with no adult/child distinction** (verify at checkout) — which again makes it worse value for kids than adults.
+Podobnie jak pass w Seoulu, **Visit Busan Pass** jest **tylko dla obcokrajowców** i wygląda na to, że ma **jedną, płaską cenę bez podziału na dorosłych i dzieci** (sprawdź przy zakupie) — co znowu czyni go mniej opłacalnym dla dzieci niż dla dorosłych.
 
-| Card | Structure | Price (all ages) | Relevance |
+| Karta | Struktura | Cena (każdy wiek) | Przydatność |
 |------|-----------|------------------|-----------|
-| **Visit Busan Pass 24H** | unlimited attractions, rolling 24h from first scan | **55,000 KRW** | The only time-pass that could fit one day |
-| Visit Busan Pass 48H | unlimited, rolling 48h | 85,000 KRW | ❌ irrelevant — only one usable day |
-| **BIG3 (Free-choice)** | pick **3** (1 Group A + 2 Group B), 180-day validity, one entry each | **45,000 KRW** | ⭐ best-fit "pass" for a single day |
-| BIG5 (Free-choice) | pick **5** (2 Group A + 3 Group B), 180-day | 65,000 KRW | Too many attractions for one day |
+| **Visit Busan Pass 24H** | atrakcje bez limitu, ruchome 24 h od pierwszego skanu | **55,000 KRW** | Jedyny pass czasowy, który mógłby zmieścić się w jednym dniu |
+| Visit Busan Pass 48H | bez limitu, ruchome 48 h | 85,000 KRW | ❌ bez znaczenia — tylko jeden użyteczny dzień |
+| **BIG3 (Free-choice)** | wybierasz **3** (1 z Grupy A + 2 z Grupy B), ważność 180 dni, jedno wejście na każdą | **45,000 KRW** | ⭐ najlepiej dopasowany „pass" na jeden dzień |
+| BIG5 (Free-choice) | wybierasz **5** (2 z Grupy A + 3 z Grupy B), 180 dni | 65,000 KRW | Za dużo atrakcji na jeden dzień |
 
-**Clock:** the 24H/48H activate at first QR scan and run rolling hours. BIG3/BIG5 are not time-clocked (180-day window). **Sold as a mobile QR pass only** — the physical card (which used to double as a transit card) has been suspended on all channels since ~Oct 2024, so assume mobile-only.
+**Zegar:** 24H/48H aktywują się przy pierwszym skanie kodu QR i liczą godziny w trybie ruchomym. BIG3/BIG5 nie mają zegara (okno 180 dni). **Sprzedawane wyłącznie jako mobilny pass QR** — fizyczna karta (która działała też jako karta transportowa) jest zawieszona we wszystkich kanałach od ~października 2024, więc zakładaj wersję tylko mobilną.
 
 ---
 
-## Coverage & our schedule
+## Zakres i nasz plan
 
-| Attraction | On the pass? | Gate (adult) | Gate (child) | In our plan? — day |
+| Atrakcja | W passie? | Kasa (dorosły) | Kasa (dziecko) | W naszym planie? — dzień |
 |------------|--------------|--------------|--------------|--------------------|
-| **Blueline Park — Beach Train** | ✅ Free | 12,000 (16,000 all-stop) | flat by ride, not age | ✅ Aug 19 |
-| **Blueline Park — Sky Capsule** | ❌ **Not covered** (separate ticket) | ~35,000–40,000 / 1–2-pax capsule, one-way | — | ✅ Aug 19 (pay separately) |
-| **Busan Tower (Yongdusan)** | ✅ Free | ~12,000 | ~9,000 | ✅ Aug 19 |
-| Busan X the Sky | ✅ Free | 27,000–29,000 | 24,000 | ➖ not scheduled (candidate add, Haeundae) |
-| SEA LIFE Busan Aquarium | ✅ Free | 29,000 | ~24,000 | ➖ not scheduled (candidate add, Haeundae) |
-| Songdo Marine Cable Car (Air Cruise) | ✅ Free (standard round trip) | 17,000 | ~13,000 | ➖ not scheduled (far west, awkward) |
-| Spa Land, Shinsegae Centum City | ✅ Free | ~20,000 | age limits | ➖ not scheduled |
-| Taejongdae Danubi Train | ✅ Free | ~4,000 | ~2,000 | ➖ not scheduled |
-| Lotte World Adventure Busan | ✅ Free (premium/Group A) | 47,000 | — | ➖ not scheduled |
-| Trick Eye / Science Museum | ⚠️ Likely free (verify) | ~15,000 / nominal | — | ➖ not scheduled |
-| Haedong Yonggungsa, Gamcheon, Jagalchi/Gukje/BIFF/Bupyeong, Oryukdo Skywalk | n/a (free anyway) | 0 | 0 | ✅ Aug 19 — no pass value |
+| **Blueline Park — Beach Train** | ✅ Bezpłatnie | 12,000 (16,000 z wszystkimi przystankami) | stała stawka za przejazd, nie od wieku | ✅ 19 sie |
+| **Blueline Park — Sky Capsule** | ❌ **Nieobjęty** (osobny bilet) | ~35,000–40,000 / kapsuła 1–2 os., w jedną stronę | — | ✅ 19 sie (płatne osobno) |
+| **Busan Tower (Yongdusan)** | ✅ Bezpłatnie | ~12,000 | ~9,000 | ✅ 19 sie |
+| Busan X the Sky | ✅ Bezpłatnie | 27,000–29,000 | 24,000 | ➖ nie w planie (kandydat do dodania, Haeundae) |
+| SEA LIFE Busan Aquarium | ✅ Bezpłatnie | 29,000 | ~24,000 | ➖ nie w planie (kandydat do dodania, Haeundae) |
+| Songdo Marine Cable Car (Air Cruise) | ✅ Bezpłatnie (standardowy przejazd w obie strony) | 17,000 | ~13,000 | ➖ nie w planie (daleko na zachodzie, niewygodne) |
+| Spa Land, Shinsegae Centum City | ✅ Bezpłatnie | ~20,000 | ograniczenia wiekowe | ➖ nie w planie |
+| Taejongdae Danubi Train | ✅ Bezpłatnie | ~4,000 | ~2,000 | ➖ nie w planie |
+| Lotte World Adventure Busan | ✅ Bezpłatnie (premium/Grupa A) | 47,000 | — | ➖ nie w planie |
+| Trick Eye / Science Museum | ⚠️ Prawdopodobnie bezpłatnie (sprawdź) | ~15,000 / symboliczna | — | ➖ nie w planie |
+| Haedong Yonggungsa, Gamcheon, Jagalchi/Gukje/BIFF/Bupyeong, Oryukdo Skywalk | nie dotyczy (i tak wstęp wolny) | 0 | 0 | ✅ 19 sie — pass nic nie daje |
 
 ---
 
-## Profitability (per person) — the one-day reality
+## Opłacalność (na osobę) — realia jednego dnia
 
-**Coverable value we'd actually use on Aug 19 as planned:** Beach Train (12,000) + Busan Tower (12,000) = **24,000/adult**. (Sky Capsule is off-pass either way.)
+**Wartość do pokrycia, którą faktycznie wykorzystamy 19 sie zgodnie z planem:** Beach Train (12,000) + Busan Tower (12,000) = **24,000/dorosły**. (Sky Capsule i tak jest poza passem.)
 
-**24H pass (55,000):**
+**Pass 24H (55,000):**
 
-| Scenario (Aug 19) | Coverable value (adult) | vs 55,000 | Verdict |
+| Scenariusz (19 sie) | Wartość do pokrycia (dorosły) | vs 55,000 | Ocena |
 |-------------------|-------------------------|-----------|---------|
-| As planned (Beach Train + Busan Tower) | 24,000 | −31,000 | ❌ clear no |
-| + Busan X the Sky | 51,000 | −4,000 | ❌ still short |
-| + X the Sky **and** SEA LIFE (both Haeundae) | 80,000 | **+25,000** | ✅ only way it pays — but 4 ticketed stops on a packed day |
+| Zgodnie z planem (Beach Train + Busan Tower) | 24,000 | −31,000 | ❌ wyraźnie nie |
+| + Busan X the Sky | 51,000 | −4,000 | ❌ nadal za mało |
+| + X the Sky **i** SEA LIFE (oba w Haeundae) | 80,000 | **+25,000** | ✅ jedyny sposób, żeby się opłaciło — ale 4 biletowane punkty w napchanym dniu |
 
-**BIG3 pass (45,000) — the least-bad option:**
+**Pass BIG3 (45,000) — najmniej zła opcja:**
 
-| Combo | Value (adult) | vs 45,000 | Verdict |
+| Zestaw | Wartość (dorosły) | vs 45,000 | Ocena |
 |-------|---------------|-----------|---------|
-| Beach Train + Busan Tower + X the Sky | 51,000 | **+6,000** | ✅ small win, only 3 stops |
-| X the Sky + SEA LIFE + Beach Train | 68,000 | **+23,000** | ✅ *if* group rules allow both premiums |
+| Beach Train + Busan Tower + X the Sky | 51,000 | **+6,000** | ✅ mały zysk, tylko 3 punkty |
+| X the Sky + SEA LIFE + Beach Train | 68,000 | **+23,000** | ✅ *jeśli* zasady grup pozwolą na dwie atrakcje premium |
 
-**Kids:** with lower child gate prices and a flat pass price, the 24H can't break even, and a child BIG3 (X the Sky + Beach Train + Busan Tower ≈ 45,000) merely **ties** the pass price. **No pass for the children.**
-
----
-
-## Recommendation — what & how long to buy
-
-- **Default: buy no pass.** For a temple-, market- and Gamcheon-focused Aug 19, pay gate prices: ~24,000/adult for Beach Train + Busan Tower, plus the **Sky Capsule** separately (~35,000–40,000 for a 1–2-person capsule one-way; a 3–4-person capsule costs more).
-- **48H is pointless** (one usable day). **24H (55,000) is a no** unless you turn Aug 19 into an observation-deck/aquarium day by adding **both Busan X the Sky and SEA LIFE** at Haeundae.
-- **If you want a pass anyway → adult BIG3 (45,000) + Busan X the Sky** (saves ~6,000/adult; ~23,000 if you also swap in SEA LIFE and the Group A/B rules allow it). **Buy it for the 3 adults only** — not the kids (flat price wipes out their gate discounts).
-- **Best single move:** decide first whether you actually want to add a Haeundae observation deck. If not, skip all passes; the plan is mostly free sights + two cheap tickets.
-
-**The Sky Capsule (book early!):** it's a separate, per-capsule, **one-way** ticket (typical play: Sky Capsule one way + Beach Train back, which *is* on the pass). Sunset/Mipo-start slots sell out **weeks** ahead — book at **bluelinepark.com** as soon as the window opens (**Tuesdays, 4 weeks / 28 days out** — confirm the exact opening time on the site). For 6 people you'll need **2 capsules** (up to 4 seats each); note the ~35,000–40,000 figure is the **1–2-passenger** rate, so a filled 3–4-person capsule costs more.
+**Dzieci:** przy niższych cenach dziecięcych w kasie i płaskiej cenie passa 24H nie ma szans się zwrócić, a dziecięcy BIG3 (X the Sky + Beach Train + Busan Tower ≈ 45,000) tylko **wychodzi na zero** wobec ceny passa. **Żadnego passa dla dzieci.**
 
 ---
 
-## Additional info & gotchas
+## Rekomendacja — co i na jak długo kupić
 
-- **One entry per attraction**, non-transferable, foreigners-only.
-- **Songdo Cable Car:** the pass covers the standard **Air Cruise** round trip (17,000); the glass-floor **Crystal Cruise** (22,000) may need a top-up.
-- **BIG3/BIG5 Group A/B lists aren't published in guides** — X the Sky and Lotte World Busan are almost certainly Group A (premium); Beach Train, Busan Tower, Taejongdae, SEA LIFE more likely Group B. **Verify the live groupings in the app** before buying — the profitable combos above depend on it.
-- **Where to buy:** visitbusanpass.com or Klook / KKday / Trazy / Creatrip (**mobile QR only — the physical card was discontinued ~Oct 2024**; occasional promo discounts — worth a price check).
-- **⚠️ Re-verify before Aug 2026:** child pass pricing (believed flat), SEA LIFE / Trick Eye / Science Museum coverage, the Group A/B assignments, and all gate prices (they've been drifting up — the 24H was ~35–45k in prior years, now 55k).
+- **Domyślnie: nie kupujcie passa.** Przy 19 sie skupionym na świątyniach, targach i Gamcheon płaćcie ceny w kasie: ~24,000/dorosły za Beach Train + Busan Tower, plus osobno **Sky Capsule** (~35,000–40,000 za kapsułę 1–2-osobową w jedną stronę; kapsuła 3–4-osobowa kosztuje więcej).
+- **48H nie ma sensu** (jeden użyteczny dzień). **24H (55,000) to nie** — chyba że zamienicie 19 sie w dzień tarasów widokowych i akwarium, dodając **zarówno Busan X the Sky, jak i SEA LIFE** w Haeundae.
+- **Jeśli i tak chcecie pass → BIG3 dla dorosłych (45,000) + Busan X the Sky** (oszczędność ~6,000/dorosły; ~23,000, jeśli dorzucicie jeszcze SEA LIFE i pozwolą na to zasady Grupy A/B). **Kupujcie tylko dla 3 dorosłych** — nie dla dzieci (płaska cena zjada ich zniżki w kasie).
+- **Najlepszy pojedynczy ruch:** najpierw zdecydujcie, czy naprawdę chcecie dodać taras widokowy w Haeundae. Jeśli nie — pomiń wszystkie passy; plan to głównie bezpłatne atrakcje + dwa tanie bilety.
 
-### Correction applied to the day file
-[days/aug-19-busan.md](../days/aug-19-busan.md) previously listed the **Sky Capsule** at "~50,000 KRW/capsule (2-pax)". Current sources show **~35,000–40,000 for a 1–2-person capsule, one-way**, so that line now reads "Sky Capsule ~35,000–40,000/capsule (1–2 pax, one-way)".
+**Sky Capsule (rezerwuj wcześnie!):** to osobny bilet, za kapsułę, **w jedną stronę** (typowy układ: Sky Capsule w jedną stronę + Beach Train z powrotem, który *jest* objęty passem). Terminy na zachód słońca i ze startem w Mipo wyprzedają się **tygodnie** wcześniej — rezerwujcie na **bluelinepark.com** natychmiast po otwarciu okna sprzedaży (**wtorki, 4 tygodnie / 28 dni wcześniej** — dokładną godzinę otwarcia potwierdź na stronie). Dla 6 osób potrzebne będą **2 kapsuły** (do 4 miejsc każda); pamiętajcie, że kwota ~35,000–40,000 to stawka za **1–2 pasażerów**, więc pełna kapsuła 3–4-osobowa kosztuje więcej.
 
 ---
 
-## Sources & confidence
+## Dodatkowe informacje i haczyki
 
-Official Visit Busan Pass site + guidebook PDF, plus Creatrip / KKday / South Korea Hallyu 2026 pass guides and venue ticket pages. **High confidence** on pass structure, the one-day verdict, Sky Capsule exclusion, and Beach Train/Busan Tower/X the Sky coverage. **Medium/low** on child pass pricing, SEA LIFE/Trick Eye/Science coverage, Group A/B assignments, and exact gate prices (upward drift likely) — re-check ~2 weeks out.
+- **Jedno wejście na atrakcję**, bez możliwości przekazania, tylko dla obcokrajowców.
+- **Songdo Cable Car:** pass pokrywa standardowy przejazd **Air Cruise** w obie strony (17,000); **Crystal Cruise** ze szklaną podłogą (22,000) może wymagać dopłaty.
+- **Listy Grupy A/B dla BIG3/BIG5 nie są publikowane w przewodnikach** — X the Sky i Lotte World Busan to niemal pewnie Grupa A (premium); Beach Train, Busan Tower, Taejongdae i SEA LIFE raczej Grupa B. **Sprawdź aktualny podział w aplikacji** przed zakupem — opłacalne zestawy powyżej od tego zależą.
+- **Gdzie kupić:** visitbusanpass.com albo Klook / KKday / Trazy / Creatrip (**tylko mobilny QR — fizyczna karta została wycofana ~października 2024**; okazjonalne promocje — warto sprawdzić ceny).
+- **⚠️ Sprawdź ponownie przed sierpniem 2026:** cenę passa dla dzieci (podobno płaska), objęcie SEA LIFE / Trick Eye / Science Museum, przypisanie do Grupy A/B oraz wszystkie ceny w kasie (idą w górę — 24H kosztował ~35–45 tys. w poprzednich latach, teraz 55 tys.).
+
+### Poprawka wprowadzona w pliku dnia
+[days/aug-19-busan.md](../days/aug-19-busan.md) podawał wcześniej **Sky Capsule** w cenie „~50,000 KRW/kapsuła (2 os.)". Aktualne źródła wskazują **~35,000–40,000 za kapsułę 1–2-osobową, w jedną stronę**, więc ta linia brzmi teraz „Sky Capsule ~35,000–40,000/kapsuła (1–2 os., w jedną stronę)".
+
+---
+
+## Źródła i poziom pewności
+
+Oficjalna strona Visit Busan Pass + przewodnik PDF, a także poradniki o passach z Creatrip / KKday / South Korea Hallyu 2026 oraz strony biletowe obiektów. **Wysoka pewność** co do struktury passów, wniosku o jednym użytecznym dniu, wyłączenia Sky Capsule oraz objęcia Beach Train / Busan Tower / X the Sky. **Średnia/niska** co do ceny passa dla dzieci, objęcia SEA LIFE / Trick Eye / Science, przypisania do Grupy A/B i dokładnych cen w kasie (prawdopodobny wzrost) — sprawdź ponownie ~2 tygodnie przed wyjazdem.

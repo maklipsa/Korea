@@ -1,63 +1,63 @@
-# Aug 13 (Thu) — DMZ MORNING + WAR MEMORIAL + ITAEWON/HANNAM
+# Aug 13 (Thu) — Poranek w DMZ + War Memorial + Itaewon/Hannam
 
-**Transport:** DMZ morning is a **booked guided tour with hotel pickup/drop-off** — no logistics on you. Afternoon (War Memorial → Itaewon/Hannam) is one subway ride + short walks.
+**Transport:** Poranek w DMZ to **zarezerwowana wycieczka z przewodnikiem z odbiorem i odwozem do hotelu** — żadnej logistyki po waszej stronie. Popołudnie (War Memorial → Itaewon/Hannam) to jeden przejazd metrem + krótkie spacery.
 
-**Which DMZ tour? → DECIDED: the standard half-day, *no* defector Q&A** (Option B). It covers the 3rd Tunnel + Dora Observatory and frees the afternoon for the War Memorial cluster; we're skipping the full-day defector Q&A. See the [DMZ tour options page](#dmz) for the age/passport/dress-code/booking must-knows. **Book ~2 weeks ahead** (all 6 passport numbers needed at booking; a shared tour needs 6 seats on one Thursday, so don't leave it late — if 6 can't sit together, book a private/family tour).
+**Która wycieczka do DMZ? → DECYZJA: standardowa półdniowa, *bez* Q&A z uciekinierem z Korei Północnej** (Opcja B). Obejmuje 3rd Tunnel + Dora Observatory i uwalnia popołudnie na klaster wokół War Memorial; rezygnujemy z całodniowej wycieczki z Q&A z uciekinierem. Zobacz [stronę z opcjami wycieczek do DMZ](#dmz) po niezbędne informacje o wieku, paszportach, dress codzie i rezerwacji. **Rezerwuj ~2 tygodnie wcześniej** (przy rezerwacji potrzebne numery wszystkich 6 paszportów; wycieczka grupowa wymaga 6 miejsc w jeden czwartek, więc nie zostawiaj tego na ostatnią chwilę — jeśli 6 osób nie zmieści się razem, zarezerwuj wycieczkę prywatną/rodzinną).
 
-**⚠️ Contingencies for this linchpin day** (weather/refund + booking details on the [DMZ page](#dmz)):
-- **Weather (peak monsoon):** rain/haze can grey out the Dora view and operators *do* cancel — book one with a bad-weather refund/reschedule policy. The **indoor War Memorial galleries are the rain-proof anchor** (its outdoor tanks/planes are weather-exposed).
-- **If the tour runs late** (some return ~15:00+ vs the usual ~14:00): if you're not at the War Memorial by ~15:30, treat it as the **only afternoon museum** and cut the National Museum and Leeum — don't rush the 9-year-old through three museums after a pre-dawn start.
-- **Lunch:** half-day tours usually **don't include lunch** — eat at Imjingak or grab a quick bite near the War Memorial on arrival (it has a cafe/food court); dinner isn't until 19:00.
+**⚠️ Plany awaryjne na ten kluczowy dzień** (pogoda/zwroty + szczegóły rezerwacji na [stronie DMZ](#dmz)):
+- **Pogoda (szczyt monsunu):** deszcz i zamglenie mogą całkiem zaszarzyć widok z Dora Observatory, a operatorzy *naprawdę* odwołują wyjazdy — wybierz takiego z polityką zwrotu lub przeniesienia przy złej pogodzie. **Wewnętrzne galerie War Memorial są punktem odpornym na deszcz** (zewnętrzne czołgi i samoloty są wystawione na pogodę).
+- **Jeśli wycieczka się przedłuży** (niektóre wracają ~15:00+ zamiast typowych ~14:00): jeśli nie będziecie w War Memorial do ~15:30, potraktujcie je jako **jedyne muzeum popołudnia** i odpuśćcie National Museum oraz Leeum — nie przeganiaj 9-latka przez trzy muzea po pobudce przed świtem.
+- **Lunch:** wycieczki półdniowe zwykle **nie obejmują lunchu** — zjedzcie w Imjingak albo coś szybkiego przy War Memorial po dotarciu (jest tam kawiarnia i food court); kolacja dopiero o 19:00.
 
 ## Route Map
-[View route on Naver Map](https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/126.98032,37.52395,National+Museum+of+Korea:126.99910,37.53808,Leeum+Museum:126.99381,37.53509,Maple+Tree+House:126.99019,37.53462,Vatos+Itaewon/walk)
-[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Itaewon+Seoul&waypoints=National+Museum+Korea+Seoul|Leeum+Museum+of+Art+Seoul|Maple+Tree+House+Seoul&travelmode=transit)
+[Trasa w Naver Map](https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.9897,37.5340,Itaewon/126.98032,37.52395,National+Museum+of+Korea:126.99910,37.53808,Leeum+Museum:126.99381,37.53509,Maple+Tree+House:126.99019,37.53462,Vatos+Itaewon/walk)
+[Wszystkie punkty w Google Maps](https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Itaewon+Seoul&waypoints=National+Museum+Korea+Seoul|Leeum+Museum+of+Art+Seoul|Maple+Tree+House+Seoul&travelmode=transit)
 
-(DMZ is a guided tour with pickup/dropoff — not shown on map.)
+(DMZ to wycieczka z przewodnikiem z odbiorem i odwozem — nie pokazana na mapie.)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 7:30 | **DMZ Tour pickup — standard half-day (no defector Q&A)** (confirm exact point — many operators use a downtown meeting spot, not the hotel door). **Physical passports required for all 6** (no digital/ID-card) — standard tour needs numbers ~5-7 days ahead, but book ~2 weeks out for August availability. Min age varies by operator (commonly 7+) — all our kids clear it. Standard DMZ tours run **Tue-Sun (DMZ sites closed Mon + weekday national holidays**; Aug 13 is Thu & not a holiday, so OK — Aug 15 Liberation Day falls on a **Sat, so sites stay OPEN**; the Mon Aug 17 substitute holiday is moot as Mondays are already closed). **JSA/Panmunjom stays closed to general tourists** (UNC civilian tours suspended since 2023; JSA visitor center partially reopened 2025, but the blue conference buildings remain off-limits) — the standard half-day tour here is what's bookable. | ~50,000-75,000 KRW |
+| 7:30 | **Odbiór na wycieczkę do DMZ — standardowa półdniowa (bez Q&A z uciekinierem)** (potwierdź dokładne miejsce — wielu operatorów zbiera się w centrum, nie pod drzwiami hotelu). **Fizyczne paszporty wymagane dla wszystkich 6 osób** (bez wersji cyfrowej ani dowodu) — standardowa wycieczka potrzebuje numerów ~5-7 dni wcześniej, ale rezerwuj ~2 tygodnie naprzód, żeby złapać miejsca w sierpniu. Minimalny wiek zależy od operatora (zwykle 7+) — wszystkie nasze dzieci się kwalifikują. Standardowe wycieczki do DMZ jeżdżą **wt.-niedz. (obiekty w DMZ zamknięte w pon. + w święta państwowe wypadające w tygodniu**; 13 sie to czw. i nie święto, więc OK — 15 sie, Święto Wyzwolenia, wypada w **sob., więc obiekty są OTWARTE**; zastępcze święto w pon. 17 sie nie ma znaczenia, bo poniedziałki są i tak zamknięte). **JSA/Panmunjom pozostaje zamknięte dla zwykłych turystów** (cywilne wycieczki UNC zawieszone od 2023; centrum dla zwiedzających JSA częściowo otwarte ponownie w 2025, ale niebieskie budynki konferencyjne wciąż niedostępne) — rezerwowalna jest tu standardowa wycieczka półdniowa. | ~50,000-75,000 KRW |
 |  | ★★★★☆ Imjingak Peace Park. |  |
-|  | ★★★★★ 3rd Infiltration Tunnel — 73m underground, helmets provided. **No photos, phones into lockers** inside the tunnel — brief the kids. |  |
-|  | ★★★★☆ Dora Observatory — binoculars into North Korea. **Yellow photo-line** — no shots past it; brief the kids. |  |
-|  | ★★★☆☆ Dorasan Station — last stop before Pyongyang (*not on every half-day; confirm the stop list*). |  |
-|  | Half-day tour returns **~13:30–14:00** to a **central drop-off** (Hongik Univ / City Hall / Myeongdong), **not** to Yongsan — add 20–40 min transit to War Memorial, so realistic arrival there is **~14:40–15:00** and the 14:30 start below slips accordingly. (We deliberately skipped the full-day defector-Q&A tour, which returns ~17:00 and would kill the afternoon museum cluster.) |  |
-| 14:30 (nominal — realistic arrival ~14:45) | **[★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul)** — Kids climb on real tanks, planes, ships outdoors. Indoor exhibits on Korean War history. Closes 18:00 (last entry 17:00). ⚠️ The interactive **Children's Museum** here needs its **own free timed reservation** (like the National Museum's) — book it ahead, or the kids get only the tanks + general galleries. | Free |
-| 16:00 | **[★★★★★ 🏛️🧒 National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul)** — Massive collection. Children's Museum (target age 5–9) suits the 9-year-old; steer the 11 & 15-year-olds to the main galleries (Ten-Storey Pagoda etc.). Beautiful grounds. **Summer hours (Jul 27-Aug 17, 2026): Thu 09:00-18:00, last entry 17:30** — 2 hrs is the *ideal*, but if you still want Leeum (17:30 last entry, a subway ride away) keep this to **~45-60 min and leave by ~16:45**; focus on Children's Museum + Ten-Storey Pagoda. (Kids' Children's Museum requires a **free timed reservation** — book ahead, up to 30 days out; no on-site tickets.) ⚠️ The **National Hangeul Museum** next door is **CLOSED** (Feb 2025 fire, reopening ~Oct 2028) — not an option this trip. | Free |
-| 17:00 | **[★★★☆☆ 🏛️🎨🎫 Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul)** — Third museum of the day: Samsung's free, world-class museum in Hannam (Botta/Nouvel/Koolhaas buildings) pairing Korean celadon and folk painting with blue-chip contemporary art. ⚠️ **This is the day's tightest stop and the natural first-to-drop:** with the DMZ tour returning late, its **17:30 last entry** is only reachable if you keep the National Museum brief and leave Ichon by ~16:45. If the afternoon runs long, drop Leeum rather than rushing — closed Mon (Thu OK). It sits in **Hannam-dong**, so it drops you straight into tonight's Itaewon/Hannam dinner cluster. | Free |
-| 18:00 | **⚖️ Choose one — cafe vs. tea house before dinner.** ⚠️ ~~Anthracite Hannam~~ is **permanently closed** (Dec 2025). |  |
-|  | **Option A ·** **[★★☆☆☆ ☕ Dotori](https://www.google.com/maps/search/Dotori+cafe+Yongsan+Seoul)** — Studio Ghibli vibes, Yongridan-gil. |  |
-|  | **Option B ·** **[★★★☆☆ 🍵 OSULLOC Tea House Hannam](https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul)** — green tea, black lava rock walls. |  |
-| 19:00 | **⚖️ Choose one — dinner in Itaewon/Hannam.** The BBQ is the sit-down option; the other two are lighter. |  |
-|  | **Option A ·** **[★★★☆☆ 🍜 Maple Tree House](https://www.google.com/maps/search/Maple+Tree+House+Seoul)** — Upscale Itaewon Korean BBQ (galbi, marinated short rib), staff grill for you. |  |
-|  | **Option B ·** **[★★☆☆☆ 🍜 Vatos Urban Tacos](https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul)** — Korean-Mexican fusion. |  |
-|  | **Option C ·** **[★☆☆☆☆ 🍜 Chompi](https://www.google.com/maps/search/Chompi+Hannam+Seoul)** — poke bowls, BTS SUGA's brother's place. |  |
+|  | ★★★★★ 3rd Infiltration Tunnel — 73m pod ziemią, kaski zapewnione. **Bez zdjęć, telefony do szafek** w środku tunelu — uprzedź dzieci. |  |
+|  | ★★★★☆ Dora Observatory — lornetki skierowane na Koreę Północną. **Żółta linia zdjęciowa** — za nią żadnych fotografii; uprzedź dzieci. |  |
+|  | ★★★☆☆ Dorasan Station — ostatnia stacja przed Pjongjangiem (*nie ma jej w każdej wersji półdniowej; potwierdź listę przystanków*). |  |
+|  | Wycieczka półdniowa wraca **~13:30–14:00** w **centralne miejsce wysadzenia** (Hongik Univ / City Hall / Myeongdong), a **nie** do Yongsan — dolicz 20–40 min dojazdu do War Memorial, więc realne dotarcie tam to **~14:40–15:00**, a start 14:30 poniżej przesuwa się odpowiednio. (Świadomie odpuściliśmy całodniową wycieczkę z Q&A z uciekinierem, która wraca ~17:00 i zabiłaby popołudniowy klaster muzeów.) |  |
+| 14:30 (nominalnie — realne dotarcie ~14:45) | **[★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul)** — Dzieci wchodzą na prawdziwe czołgi, samoloty i okręty na zewnątrz. W środku wystawy o historii wojny koreańskiej. Zamknięcie 18:00 (ostatnie wejście 17:00). ⚠️ Interaktywne **Children's Museum** wymaga **własnej bezpłatnej rezerwacji na godzinę** (tak jak w National Museum) — zarezerwuj z wyprzedzeniem, inaczej dzieciom zostaną tylko czołgi + galerie ogólne. | Bezpłatnie |
+| 16:00 | **[★★★★★ 🏛️🧒 National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul)** — Ogromna kolekcja. Children's Museum (dla wieku 5–9) pasuje do 9-latka; 11- i 15-latka skieruj do głównych galerii (Ten-Storey Pagoda itd.). Piękny teren. **Godziny letnie (27 lip-17 sie 2026): czw. 09:00-18:00, ostatnie wejście 17:30** — 2 godz. to *ideał*, ale jeśli nadal chcecie zdążyć do Leeum (ostatnie wejście 17:30, jeden przejazd metrem), ograniczcie się tu do **~45-60 min i wyjdźcie do ~16:45**; skupcie się na Children's Museum + Ten-Storey Pagoda. (Children's Museum dla dzieci wymaga **bezpłatnej rezerwacji na godzinę** — zarezerwuj z wyprzedzeniem, do 30 dni naprzód; brak biletów na miejscu.) ⚠️ Sąsiednie **National Hangeul Museum** jest **ZAMKNIĘTE** (pożar w lut. 2025, ponowne otwarcie ~paź. 2028) — nie wchodzi w grę na tym wyjeździe. | Bezpłatnie |
+| 17:00 | **[★★★☆☆ 🏛️🎨🎫 Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul)** — Trzecie muzeum dnia: bezpłatne, światowej klasy muzeum Samsunga w Hannam (budynki Botty/Nouvela/Koolhaasa), łączące koreańską ceramikę celadon i malarstwo ludowe z najwyższej próby sztuką współczesną. ⚠️ **To najciaśniejszy punkt dnia i naturalny kandydat do pominięcia w pierwszej kolejności:** przy późnym powrocie z DMZ **ostatnie wejście o 17:30** jest osiągalne tylko wtedy, gdy National Museum zwiedzicie krótko i wyjdziecie z Ichon do ~16:45. Jeśli popołudnie się przedłuży, odpuść Leeum, zamiast się spieszyć — zamknięte w pon. (czw. OK). Leży w **Hannam-dong**, więc wyprowadza was prosto w wieczorny klaster kolacyjny Itaewon/Hannam. | Bezpłatnie |
+| 18:00 | **⚖️ Wybierz jedno — kawiarnia czy herbaciarnia przed kolacją.** ⚠️ ~~Anthracite Hannam~~ jest **zamknięta na stałe** (grudzień 2025). |  |
+|  | **Opcja A ·** **[★★☆☆☆ ☕ Dotori](https://www.google.com/maps/search/Dotori+cafe+Yongsan+Seoul)** — Klimat Studia Ghibli, Yongridan-gil. |  |
+|  | **Opcja B ·** **[★★★☆☆ 🍵 OSULLOC Tea House Hannam](https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul)** — zielona herbata, ściany z czarnej skały lawowej. |  |
+| 19:00 | **⚖️ Wybierz jedno — kolacja w Itaewon/Hannam.** BBQ to opcja na siedząco; pozostałe dwie są lżejsze. |  |
+|  | **Opcja A ·** **[★★★☆☆ 🍜 Maple Tree House](https://www.google.com/maps/search/Maple+Tree+House+Seoul)** — Elegancki koreański BBQ w Itaewon (galbi, marynowane krótkie żeberka), obsługa grilluje za was. |  |
+|  | **Opcja B ·** **[★★☆☆☆ 🍜 Vatos Urban Tacos](https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul)** — Fuzja koreańsko-meksykańska. |  |
+|  | **Opcja C ·** **[★☆☆☆☆ 🍜 Chompi](https://www.google.com/maps/search/Chompi+Hannam+Seoul)** — poke bowls, lokal brata SUGI z BTS. |  |
 
 ---
 
 ## Also Nearby
 
-### More Cafes
-- [★★☆☆☆ ☕🤪 Le Montblanc HBC](https://www.google.com/maps/search/Le+Montblanc+Haebangchon+Seoul) — Yarn-themed cafe; desserts shaped like yarn balls; rooftop
-- [★★☆☆☆ ☕ Cafe MOONEE HBC](https://www.google.com/maps/search/Cafe+MOONEE+Haebangchon+Seoul) — 3-story rooftop with sunset views and Namsan Tower panorama
-- [★★★☆☆ 🍵 OSULLOC Tea House Hannam](https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul) — Green tea specialty; black lava rock walls
-- [★★☆☆☆ ☕ Hyundai Card Music Library](https://www.google.com/maps/search/Hyundai+Card+Music+Library+Hannam+Seoul) — Vinyl/cassette/CD listening cafe with headphones
-- [★★☆☆☆ ☕🧒 Book Park Blue Square](https://www.google.com/maps/search/Blue+Square+Seoul) — 50,000+ books, cafe, children's zone
+### Więcej kawiarni
+- [★★☆☆☆ ☕🤪 Le Montblanc HBC](https://www.google.com/maps/search/Le+Montblanc+Haebangchon+Seoul) — Kawiarnia w motywie włóczki; deserty w kształcie kłębków; taras na dachu
+- [★★☆☆☆ ☕ Cafe MOONEE HBC](https://www.google.com/maps/search/Cafe+MOONEE+Haebangchon+Seoul) — Trzykondygnacyjny taras na dachu z widokiem na zachód słońca i panoramą Namsan Tower
+- [★★★☆☆ 🍵 OSULLOC Tea House Hannam](https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul) — Specjalność to zielona herbata; ściany z czarnej skały lawowej
+- [★★☆☆☆ ☕ Hyundai Card Music Library](https://www.google.com/maps/search/Hyundai+Card+Music+Library+Hannam+Seoul) — Kawiarnia do słuchania winyli, kaset i CD w słuchawkach
+- [★★☆☆☆ ☕🧒 Book Park Blue Square](https://www.google.com/maps/search/Blue+Square+Seoul) — 50,000+ książek, kawiarnia, strefa dla dzieci
 
-### More Food
-- [★★☆☆☆ 🍜 Linus' BBQ](https://www.google.com/maps/search/Linus+BBQ+Haebangchon+Seoul) — American-style BBQ on the HBC hill
+### Więcej jedzenia
+- [★★☆☆☆ 🍜 Linus' BBQ](https://www.google.com/maps/search/Linus+BBQ+Haebangchon+Seoul) — BBQ w stylu amerykańskim na wzgórzu HBC
 
-### More Museums (all FREE)
-- [★★★☆☆ 🏛️🎫 MMCA](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) — National Museum of Modern & Contemporary Art (open daily incl. Mon; Wed & Sat until 21:00). Left as a nearby-only option because the main branch is in Sogyeok-dong (Jongno) — a genuine detour from this Yongsan/Itaewon day, not walkable from the route.
+### Więcej muzeów (wszystkie BEZPŁATNE)
+- [★★★☆☆ 🏛️🎫 MMCA](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) — National Museum of Modern & Contemporary Art (otwarte codziennie, także w pon.; śr. i sob. do 21:00). Zostawione tylko jako opcja „w okolicy", bo główny oddział jest w Sogyeok-dong (Jongno) — to prawdziwy objazd względem tego dnia w Yongsan/Itaewon, nie do przejścia pieszo z trasy.
 
-### Shopping & Stores
-- [★★☆☆☆ 🛍️ Sounds Hannam](https://www.google.com/maps/search/Sounds+Hannam+Seoul) — Trendy complex; Saint Laurent to Aesop
-- [★☆☆☆☆ 🛍️☕ Elves and Espresso](https://www.google.com/maps/search/Elves+Espresso+Itaewon+Seoul) — Board game/card game store and cafe (MTG, D&D)
-- ★★☆☆☆ 🚶🛍️ Gyeongnidan-gil — Bohemian street with vintage shops
-- ★★☆☆☆ 🚶🛍️ Yongridan-gil — Trendy indie shops
+### Zakupy i sklepy
+- [★★☆☆☆ 🛍️ Sounds Hannam](https://www.google.com/maps/search/Sounds+Hannam+Seoul) — Modny kompleks; od Saint Laurent do Aesop
+- [★☆☆☆☆ 🛍️☕ Elves and Espresso](https://www.google.com/maps/search/Elves+Espresso+Itaewon+Seoul) — Sklep z grami planszowymi i karcianymi połączony z kawiarnią (MTG, D&D)
+- ★★☆☆☆ 🚶🛍️ Gyeongnidan-gil — Bohemska ulica ze sklepami vintage
+- ★★☆☆☆ 🚶🛍️ Yongridan-gil — Modne niezależne sklepy
 
-### Walks
-- [★★☆☆☆ 🌳 Ichon Hangang Park](https://www.google.com/maps/search/Ichon+Hangang+Park+Seoul) — Riverside cycling and picnics
+### Spacery
+- [★★☆☆☆ 🌳 Ichon Hangang Park](https://www.google.com/maps/search/Ichon+Hangang+Park+Seoul) — Rowery i pikniki nad rzeką

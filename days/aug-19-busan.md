@@ -1,65 +1,65 @@
-# Aug 19 (Wed) — BUSAN FULL DAY
-> Badges: pass:Activate Busan Pass 24h
+# Aug 19 (Wed) — Busan — cały dzień
+> Badges: pass:Aktywuj Busan Pass 24 h
 
-**Activate Visit Busan Pass 24h today.**
+**Dziś aktywuj Visit Busan Pass 24 h.**
 
-Wednesday: Jagalchi open (closed 1st/3rd Tue → Aug 4 & 18; not the 19th). Gukje open (closed 1st/3rd Sun → Aug 2 & 16). Oryukdo closed 1st Mon of month only. All clear for Wed Aug 19. (Verified 2026-07.)
+Środa: Jagalchi otwarte (zamknięte w 1./3. wt. → 4 i 18 sie; nie 19.). Gukje otwarte (zamknięte w 1./3. niedz. → 2 i 16 sie). Oryukdo zamknięte tylko w 1. pon. miesiąca. W śr. 19 sie wszystko otwarte. (Zweryfikowano 2026-07.)
 
-**Very full, spread-out day:** temple (far NE, Gijang) → Haeundae/Mipo (E) → Gamcheon (far W) → Nampo cluster (central). The Haeundae→Gamcheon leg is ~1 hr+ by transit — leave Haeundae by ~9:45 to hit Gamcheon by 11:00. **Aug 20 is a 09:00 PUS→Taipei flight (at Gimhae airport by ~06:15), so keep the night-market dinner from running past ~21:00.** Activate the Busan Pass by ~09:00 (before the Beach Train) so its 24h window still covers the Busan Tower at 17:00.
+**Bardzo napięty, rozciągnięty dzień:** świątynia (daleki NE, Gijang) → Haeundae/Mipo (E) → Gamcheon (daleki W) → skupisko Nampo (centrum). Odcinek Haeundae→Gamcheon to ~1 h z górą komunikacją — wyjedź z Haeundae ok. 9:45, żeby być w Gamcheon na 11:00. **20 sie macie lot PUS→Taipei o 09:00 (na lotnisku Gimhae ok. 06:15), więc kolacja na nocnym targu nie może przeciągnąć się po ~21:00.** Aktywuj Busan Pass ok. 09:00 (przed Beach Train), żeby jego okno 24 h wciąż obejmowało Busan Tower o 17:00.
 
-**Transport (spread-out day — taxis realistic, no rental car):** Metro + buses do it (**bus #181** to Yonggungsa), but Yonggungsa and the Haeundae → Gamcheon leg are slow — budget a few taxis, or a **half-day chartered driver/van**, to keep this packed day moving.
+**Transport (rozciągnięty dzień — taksówki mają sens, bez wynajmu auta):** Metro + autobusy wystarczą (**autobus #181** do Yonggungsa), ale Yonggungsa i odcinek Haeundae → Gamcheon są wolne — doliczcie kilka taksówek albo **wynajętego kierowcę/vana na pół dnia**, żeby ten napchany dzień nie stanął.
 
 ## Route Map
 
-**Main loop:**
-[View route on Naver Map](https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Market/129.17283,35.15817,Haeundae+Blueline+Park:129.00879,35.09634,Gamcheon+Culture+Village:129.03069,35.09663,Jagalchi+Market:129.02802,35.10062,Gukje+Market:129.03223,35.10130,Busan+Tower/car)
-[View all pins on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Haedong+Yonggungsa+Temple+Busan&destination=Bupyeong+Kkangtong+Night+Market+Busan&waypoints=Haeundae+Blueline+Park+Busan|Gamcheon+Culture+Village+Busan|Jagalchi+Fish+Market+Busan|Gukje+Market+Busan|Busan+Tower+Yongdusan+Park&travelmode=transit)
+**Główna pętla:**
+[Trasa w Naver Map](https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Market/129.17283,35.15817,Haeundae+Blueline+Park:129.00879,35.09634,Gamcheon+Culture+Village:129.03069,35.09663,Jagalchi+Market:129.02802,35.10062,Gukje+Market:129.03223,35.10130,Busan+Tower/car)
+[Wszystkie punkty w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Haedong+Yonggungsa+Temple+Busan&destination=Bupyeong+Kkangtong+Night+Market+Busan&waypoints=Haeundae+Blueline+Park+Busan|Gamcheon+Culture+Village+Busan|Jagalchi+Fish+Market+Busan|Gukje+Market+Busan|Busan+Tower+Yongdusan+Park&travelmode=transit)
 
-**Optional SE-coast detour (Gwangalli · Igidae · Oryukdo):**
-[View route on Naver Map](https://map.naver.com/p/directions/129.11870,35.15320,Gwangalli+Beach/129.12473,35.10057,Oryukdo+Skywalk/129.12092,35.13040,Igidae/walk)
-[View walking route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Gwangalli+Beach+Busan&destination=Oryukdo+Skywalk+Busan&waypoints=Igidae+Coastal+Walk+Busan&travelmode=walking)
+**Opcjonalny objazd wybrzeżem SE (Gwangalli · Igidae · Oryukdo):**
+[Trasa w Naver Map](https://map.naver.com/p/directions/129.11870,35.15320,Gwangalli+Beach/129.12473,35.10057,Oryukdo+Skywalk/129.12092,35.13040,Igidae/walk)
+[Trasa piesza w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Gwangalli+Beach+Busan&destination=Oryukdo+Skywalk+Busan&waypoints=Igidae+Coastal+Walk+Busan&travelmode=walking)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 7:00 | **[★★★★★ 🏯📸 Haedong Yonggungsa Temple](https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan)** — Oceanside temple, 108 stone steps, spectacular at dawn. Go early before tour buses! Bus #181 from Haeundae. | Free |
-| 7:30 | *(Optional temple swap — far N, Geumjeong-gu; only if you skip the Blueline or trim Gamcheon.)* **[★★★☆☆ 🏯🌳 Beomeosa Temple](https://www.google.com/maps/search/Beomeosa+Temple+Busan)** — Serene 678-AD mountain temple in ancient pine forest, far less touristy than Yonggungsa. |  |
-|  | **[★★★☆☆ 🍜 Dongnae Halmae Pajeon](https://www.google.com/maps/search/Dongnae+Halmae+Pajeon+Busan)** — Pair it with the temple on the way back: a four-generation Dongnae *pajeon* (seafood-scallion pancake) institution. |  |
-| 9:00 | **[★★★★☆ 🚡🧒 Haeundae Blueline Park — Sky Capsule](https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan)** — Colorful pods on elevated rail along the coast. Sky Capsule runs **Mipo ↔ Cheongsapo only** (Beach Train goes the full Mipo → Songjeong route). **Sky Capsule is PRE-BOOKED.** (For reference: online reservations open ~**2 weeks** ahead — every Tuesday for the week 2 weeks out, per bluelinepark.com; NOT 4 weeks. Aug hours 09:00–20:30.) Beach Train is on the Busan Pass; Sky Capsule is not. | Pass (Beach Train) / Sky Capsule one-way per capsule: **35,000 (1–2 pax) / 45,000 (3) / 50,000 (4)** |
-| 11:00 | **[★★★★★ 🚶📸 Gamcheon Culture Village](https://www.google.com/maps/search/Gamcheon+Culture+Village+Busan)** — "Machu Picchu of Korea." Get the **Stamp Tour map** (2,000 KRW) = scavenger hunt through colorful alleys for kids. Little Prince statue, BTS mural. Allow 2-3 hours. | Free (map 2,000 KRW) |
-| 11:30 | Cafe: [★★☆☆☆ ☕ Coffee It House](https://www.google.com/maps/search/Coffee+It+House+Gamcheon+Busan) rooftop (best panoramic view). |  |
-| 13:30 | **⚖️ Choose one — the Nampo-dong afternoon, or the SE-coast detour.** The detour replaces the Jagalchi → BIFF → Gukje → Busan Tower rows below; see the "Optional SE-coast detour" route above. |  |
-|  | **Option A ·** Head to **Nampo-dong** area (subway or taxi) for the timed rows below. |  |
-|  | **Option B ·** *(SE-coast alternative to the Gamcheon/Nampo afternoon.)* **[★★★☆☆ 🌳🚶 Igidae Coastal Walk](https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan)** (volcanic-rock cliff trail, sea caves) → **[★★★☆☆ 🗼📸 Oryukdo Skywalk](https://www.google.com/maps/search/Oryukdo+Skywalk+Busan)** (glass bridge 35m over the sea, 09:00–19:00) → **[★★★★☆ 🌳📸 Gwangalli Beach](https://www.google.com/maps/search/Gwangalli+Beach+Busan)** (Gwangan Bridge views; M drone show Sat/Sun only — not Wed). |  |
-| 13:30 | *(Optional Busan-signature meal — central Seomyeon, 24h, on the Haeundae→Nampo transit path.)* **[★★★☆☆ 🍜 Seomyeon Dwaeji Gukbap Street](https://www.google.com/maps/search/Seomyeon+Dwaeji+Gukbap+Busan)** — A whole street of *dwaeji gukbap*, pork-bone-broth rice soup, Busan's defining comfort dish. |  |
-| 14:00 | **[★★★★☆ 🍜🧒 Jagalchi Fish Market](https://www.google.com/maps/search/Jagalchi+Fish+Market+Busan)** — Korea's largest seafood market. Buy fish on first floor, have it cooked upstairs (~3,000-5,000 KRW prep fee). Live octopus, crabs, abalone — kids will be fascinated. |  |
-| 15:30 | **★★★☆☆ BIFF Square** — Ssiat Hotteok (Busan's signature: fried pancakes with seeds, nuts, cinnamon, ~1,000-2,000 KRW). Celebrity handprints. |  |
-| 16:00 | **[★★★☆☆ 🛍️ Gukje Market](https://www.google.com/maps/search/Gukje+Market+Busan)** — Massive market. Souvenirs, food, Korean goods. |  |
-| 17:00 | **[★★★☆☆ 🗼 Busan Tower (Yongdusan Park)](https://www.google.com/maps/search/Busan+Tower+Yongdusan+Park)** — Harbor/city views from 120m (aka Diamond Tower). Ride outdoor escalators up. Note: sunset is ~19:15 in mid-Aug, so 17:00 = late-afternoon light, not sunset. Confirmed free on the Visit Busan Pass. | Pass (free) or 12,000 adult / 9,000 child |
-| 19:00 | Dinner: **[★★★☆☆ 🏮 Bupyeong Kkangtong Night Market](https://www.google.com/maps/search/Bupyeong+Kkangtong+Night+Market+Busan)** — Opens 7:30pm. Korea's first permanent night market. Bibim dangmyeon, egg hotteok, grilled pork belly. | ~10,000-20,000 KRW |
+| 7:00 | **[★★★★★ 🏯📸 Haedong Yonggungsa Temple](https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan)** — Świątynia nad oceanem, 108 kamiennych stopni, spektakularna o świcie. Przyjedźcie wcześnie, przed autokarami! Autobus #181 z Haeundae. | Bezpłatnie |
+| 7:30 | *(Opcjonalna zamiana świątyni — daleka N, Geumjeong-gu; tylko jeśli pominiecie Blueline albo skrócicie Gamcheon.)* **[★★★☆☆ 🏯🌳 Beomeosa Temple](https://www.google.com/maps/search/Beomeosa+Temple+Busan)** — Spokojna górska świątynia z 678 r. w wiekowym sosnowym lesie, znacznie mniej turystyczna niż Yonggungsa. |  |
+|  | **[★★★☆☆ 🍜 Dongnae Halmae Pajeon](https://www.google.com/maps/search/Dongnae+Halmae+Pajeon+Busan)** — Połączcie ze świątynią po drodze powrotnej: kultowy lokal z Dongnae *pajeon* (placek z owocami morza i dymką) prowadzony przez cztery pokolenia. |  |
+| 9:00 | **[★★★★☆ 🚡🧒 Haeundae Blueline Park — Sky Capsule](https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan)** — Kolorowe kapsuły na estakadzie wzdłuż wybrzeża. Sky Capsule jeździ **tylko Mipo ↔ Cheongsapo** (Beach Train pokonuje pełną trasę Mipo → Songjeong). **Sky Capsule wymaga REZERWACJI Z GÓRY.** (Dla orientacji: rezerwacje online otwierają się ok. **2 tygodnie** wcześniej — co wtorek na tydzień wypadający 2 tygodnie później, zgodnie z bluelinepark.com; NIE 4 tygodnie. Godziny w sie 09:00–20:30.) Beach Train jest w Busan Pass; Sky Capsule nie. | Pass (Beach Train) / Sky Capsule w jedną stronę za kapsułę: **35,000 (1–2 os.) / 45,000 (3) / 50,000 (4)** |
+| 11:00 | **[★★★★★ 🚶📸 Gamcheon Culture Village](https://www.google.com/maps/search/Gamcheon+Culture+Village+Busan)** — „Machu Picchu Korei". Weźcie **mapę Stamp Tour** (2,000 KRW) = poszukiwanie skarbów po kolorowych zaułkach dla dzieci. Pomnik Małego Księcia, mural BTS. Zaplanujcie 2-3 godziny. | Bezpłatnie (mapa 2,000 KRW) |
+| 11:30 | Kawiarnia: [★★☆☆☆ ☕ Coffee It House](https://www.google.com/maps/search/Coffee+It+House+Gamcheon+Busan) na dachu (najlepszy widok panoramiczny). |  |
+| 13:30 | **⚖️ Wybierzcie jedno — popołudnie w Nampo-dong albo objazd wybrzeżem SE.** Objazd zastępuje poniższe wiersze Jagalchi → BIFF → Gukje → Busan Tower; patrz trasa „Opcjonalny objazd wybrzeżem SE" powyżej. |  |
+|  | **Opcja A ·** Przejazd w okolice **Nampo-dong** (metro lub taksówka) na poniższe wiersze z godzinami. |  |
+|  | **Opcja B ·** *(Alternatywa na wybrzeżu SE zamiast popołudnia Gamcheon/Nampo.)* **[★★★☆☆ 🌳🚶 Igidae Coastal Walk](https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan)** (szlak po klifach z wulkanicznej skały, groty morskie) → **[★★★☆☆ 🗼📸 Oryukdo Skywalk](https://www.google.com/maps/search/Oryukdo+Skywalk+Busan)** (szklany most 35 m nad morzem, 09:00–19:00) → **[★★★★☆ 🌳📸 Gwangalli Beach](https://www.google.com/maps/search/Gwangalli+Beach+Busan)** (widoki na Gwangan Bridge; pokaz dronów M tylko w sob./niedz. — nie w śr.). |  |
+| 13:30 | *(Opcjonalny posiłek ze sztandarowym daniem Busan — centralne Seomyeon, całą dobę, na trasie przejazdu Haeundae→Nampo.)* **[★★★☆☆ 🍜 Seomyeon Dwaeji Gukbap Street](https://www.google.com/maps/search/Seomyeon+Dwaeji+Gukbap+Busan)** — Cała ulica lokali z *dwaeji gukbap*, zupą ryżową na wywarze z kości wieprzowych, najbardziej rozpoznawalnym daniem pocieszenia Busan. |  |
+| 14:00 | **[★★★★☆ 🍜🧒 Jagalchi Fish Market](https://www.google.com/maps/search/Jagalchi+Fish+Market+Busan)** — Największy targ rybny w Korei. Kupcie rybę na parterze, każcie ją przyrządzić na górze (~3,000-5,000 KRW za przygotowanie). Żywe ośmiornice, kraby, uchowce — dzieci będą zachwycone. |  |
+| 15:30 | **★★★☆☆ BIFF Square** — Ssiat Hotteok (sztandarowy przysmak Busan: smażone placki z nasionami, orzechami i cynamonem, ~1,000-2,000 KRW). Odciski dłoni gwiazd. |  |
+| 16:00 | **[★★★☆☆ 🛍️ Gukje Market](https://www.google.com/maps/search/Gukje+Market+Busan)** — Ogromny targ. Pamiątki, jedzenie, koreańskie towary. |  |
+| 17:00 | **[★★★☆☆ 🗼 Busan Tower (Yongdusan Park)](https://www.google.com/maps/search/Busan+Tower+Yongdusan+Park)** — Widoki na port i miasto z 120 m (znana też jako Diamond Tower). W górę odkrytymi schodami ruchomymi. Uwaga: w połowie sie zachód słońca jest ok. 19:15, więc 17:00 = światło późnego popołudnia, nie zachód. Potwierdzone jako bezpłatne z Visit Busan Pass. | Pass (bezpłatnie) lub 12,000 dorosły / 9,000 dziecko |
+| 19:00 | Kolacja: **[★★★☆☆ 🏮 Bupyeong Kkangtong Night Market](https://www.google.com/maps/search/Bupyeong+Kkangtong+Night+Market+Busan)** — Otwarcie 19:30. Pierwszy stały nocny targ w Korei. Bibim dangmyeon, egg hotteok, grillowany boczek. | ~10,000-20,000 KRW |
 
 ---
 
 ## Also Nearby
 
-### Haeundae — Photography / Culture
-- [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) — Busan's dedicated **fine-art photography museum**, in Haeundae (16 Haeundae-ro 452beon-gil, near the beach). A genuine gallery of photographs; **free**, 10:00–18:00, **closed Mon** (Wed Aug 19 OK). ⏰ Opens 10:00, so it only fits if you slow the Haeundae morning — the natural trade is the paid **Sky Capsule** ride (a photo-op, not culture) for this. Highly recommended for this family.
+### Haeundae — fotografia / kultura
+- [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) — Jedyne w Busan **muzeum fotografii artystycznej**, w Haeundae (16 Haeundae-ro 452beon-gil, blisko plaży). Prawdziwa galeria fotografii; **bezpłatnie**, 10:00–18:00, **zamknięte w pon.** (śr. 19 sie OK). ⏰ Otwiera o 10:00, więc zmieści się tylko, jeśli zwolnicie poranek w Haeundae — naturalna wymiana to oddanie za to płatnego przejazdu **Sky Capsule** (photo-op, nie kultura). Bardzo polecane dla tej rodziny.
 
-### Gamcheon Extras
-- [★★☆☆☆ ☕🏛️ Cafe Avant Garde](https://www.google.com/maps/search/Cafe+Avant+Garde+Gamcheon+Busan) — Retro/vintage records and radios; also a gallery
-- ★★☆☆☆ 📸 BTS Mural (Jungkook and Jimin) — Popular photo spot
-- ★★★☆☆ 📸 The Little Prince & the Fox statue — Most photographed spot
+### Gamcheon — dodatki
+- [★★☆☆☆ ☕🏛️ Cafe Avant Garde](https://www.google.com/maps/search/Cafe+Avant+Garde+Gamcheon+Busan) — Retro/vintage płyty i radia; również galeria
+- ★★☆☆☆ 📸 BTS Mural (Jungkook i Jimin) — Popularne miejsce na zdjęcia
+- ★★★☆☆ 📸 Pomnik Małego Księcia i Lisa — Najczęściej fotografowane miejsce
 
-### Nampo Extras
-- [★★☆☆☆ 🎁 K-POP FRIENDS Nampo](https://www.google.com/maps/search/KPOP+FRIENDS+Nampo+Busan) — K-pop merch, albums, photo cards
+### Nampo — dodatki
+- [★★☆☆☆ 🎁 K-POP FRIENDS Nampo](https://www.google.com/maps/search/KPOP+FRIENDS+Nampo+Busan) — Gadżety K-pop, albumy, photo cards
 
-### Gwangalli (evening option)
-- [★★☆☆☆ 🍜 Millak Raw Fish Center](https://www.google.com/maps/search/Millak+Raw+Fish+Center+Busan) — Buy fresh fish downstairs, eat upstairs (near Gwangalli, now in the SE-coast detour above)
+### Gwangalli (opcja wieczorna)
+- [★★☆☆☆ 🍜 Millak Raw Fish Center](https://www.google.com/maps/search/Millak+Raw+Fish+Center+Busan) — Kupujecie świeżą rybę na dole, jecie na górze (blisko Gwangalli, teraz w objeździe wybrzeżem SE powyżej)
 
-### Seomyeon (if passing through)
-- [★★☆☆☆ ☕ Jeonpo Cafe Street](https://www.google.com/maps/search/Jeonpo+Cafe+Street+Busan) — Neighborhood of indie cafes
-- [★★☆☆☆ 🛍️🤪 ARTBOX Seomyeon](https://www.google.com/maps/search/ARTBOX+Seomyeon+Busan) — Korean stationery, gifts, quirky novelties
+### Seomyeon (jeśli będziecie przejeżdżać)
+- [★★☆☆☆ ☕ Jeonpo Cafe Street](https://www.google.com/maps/search/Jeonpo+Cafe+Street+Busan) — Dzielnica niezależnych kawiarni
+- [★★☆☆☆ 🛍️🤪 ARTBOX Seomyeon](https://www.google.com/maps/search/ARTBOX+Seomyeon+Busan) — Koreańskie artykuły papiernicze, upominki, dziwaczne gadżety
 
-### Desserts
-- [★★☆☆☆ ☕ Yonghodong Halme Patbingsu](https://www.google.com/maps/search/Yonghodong+Halme+Patbingsu+Busan) — Since 1983; traditional shaved ice
+### Desery
+- [★★☆☆☆ ☕ Yonghodong Halme Patbingsu](https://www.google.com/maps/search/Yonghodong+Halme+Patbingsu+Busan) — Działa od 1983 r.; tradycyjny deser z kruszonego lodu

@@ -1,37 +1,37 @@
-# Tainan — Discount Cards
+# Tainan — karty zniżkowe
 
-**Purpose of this file:** confirm whether any discount card is worth buying in Tainan for our plan (Aug 25 afternoon → Aug 26 midday).
+**Cel tego pliku:** sprawdzić, czy w Tainan opłaca się kupić jakąkolwiek kartę zniżkową przy naszym planie (25 sie po południu → 26 sie w południe).
 
-> **TL;DR — No card.** A **Tainan Historic Site Pass (~NT$210)** bundles 4 sites; our 3 sites cost **NT$210 à la carte (adult) / NT$105 (child)** — the **same** as the pass for adults, so the pass only wins if you also do its 4th site (Eternal Golden Castle), which we skip. Pay per site (kids are half-price); tap EasyCard/iPASS for buses.
-
----
-
-## Cards available
-
-- **Tainan Historic Site Pass — ~NT$210:** covers Anping Old Fort (Fort Zeelandia) + Chihkan Tower + Anping Tree House + **Eternal Golden Castle**. For our 3 sites, à-la-carte (NT$210 adult) *ties* the pass — no saving either way — so it only pays off if you add the 4th site, which isn't in our plan. Reconfirm availability/price, but the verdict (buy nothing) stands.
-- No worthwhile transit card — **EasyCard/iPASS** covers Tainan buses.
-
-Kids aged 9+ pay **half price** at every historic site.
+> **TL;DR — żadna karta.** **Tainan Historic Site Pass (~NT$210)** obejmuje 4 obiekty; nasze 3 obiekty to **NT$210 w pojedynczych biletach (dorosły) / NT$105 (dziecko)** — **tyle samo** co pass dla dorosłych, więc pass wygrywa tylko wtedy, gdy zaliczycie też jego 4. obiekt (Eternal Golden Castle), który pomijamy. Płaćcie za każdy obiekt osobno (dzieci połowa ceny); w autobusach przykładajcie EasyCard/iPASS.
 
 ---
 
-## Coverage & our schedule
+## Dostępne karty
 
-| Attraction | Gate (adult) | Gate (child, half) | Card covers? | Our day |
+- **Tainan Historic Site Pass — ~NT$210:** obejmuje Anping Old Fort (Fort Zeelandia) + Chihkan Tower + Anping Tree House + **Eternal Golden Castle**. Przy naszych 3 obiektach pojedyncze bilety (NT$210 dorosły) *wychodzą na to samo* co pass — żadnej oszczędności w którąkolwiek stronę — więc opłaca się tylko wtedy, gdy dołożycie 4. obiekt, którego nie mamy w planie. Potwierdźcie ponownie dostępność/cenę, ale wniosek (nie kupować nic) pozostaje.
+- Brak sensownej karty transportowej — **EasyCard/iPASS** obsługuje autobusy w Tainan.
+
+Dzieci od 9 lat płacą **połowę ceny** w każdym obiekcie historycznym.
+
+---
+
+## Zakres i nasz harmonogram
+
+| Atrakcja | Bilet (dorosły) | Bilet (dziecko, połowa) | Karta obejmuje? | Nasz dzień |
 |------------|--------------|--------------------|--------------|---------|
-| Fort Zeelandia / Anping Old Fort | 70 | 35 | in the NT$210 pass | Aug 25 PM |
-| Anping Tree House | 70 | 35 | in the NT$210 pass | Aug 25 PM |
-| Chihkan Tower | 70 | 35 | in the NT$210 pass | Aug 26 AM |
-| Temples, Shennong St, Hayashi Dept Store, night markets | FREE | FREE | n/a | both |
+| Fort Zeelandia / Anping Old Fort | 70 | 35 | w passie za NT$210 | 25 sie po poł. |
+| Anping Tree House | 70 | 35 | w passie za NT$210 | 25 sie po poł. |
+| Chihkan Tower | 70 | 35 | w passie za NT$210 | 26 sie przed poł. |
+| Świątynie, Shennong St, Hayashi Dept Store, nocne targi | BEZPŁATNIE | BEZPŁATNIE | nie dot. | oba |
 
-**À-la-carte total for our 3 sites: adult NT$210 / child NT$105** — the same as the NT$210 pass (adult); kids come out ahead paying per site at half price.
+**Suma pojedynczych biletów do naszych 3 obiektów: dorosły NT$210 / dziecko NT$105** — tyle samo co pass za NT$210 (dorosły); dzieci wychodzą taniej, płacąc za każdy obiekt osobno po połowie ceny.
 
 ---
 
-## Recommendation
+## Rekomendacja
 
-**Buy no card — pay the three gate fees individually** (adult NT$210, child NT$105 total) and tap EasyCard for buses. The combo pass merely *ties* for our 3 sites and only wins if you add Eternal Golden Castle, which we're not doing.
+**Nie kupujcie żadnej karty — zapłaćcie trzy bilety osobno** (dorosły NT$210, dziecko NT$105 łącznie) i przykładajcie EasyCard w autobusach. Pass łączony przy naszych 3 obiektach jedynie *wychodzi na to samo* i wygrywa tylko wtedy, gdy dołożycie Eternal Golden Castle, czego nie robimy.
 
-## Sources & confidence
+## Źródła i pewność
 
-Official Tainan historic-sites site (historic.tainan.gov.tw) for Fort Zeelandia & Chihkan Tower prices (**high**); twtainan.net (official) for Anping Tree House **NT$70 / half NT$35** (**high**); Historic Site Pass via TripAdvisor product listing (**low-medium** — reconfirm, but it doesn't change the verdict).
+Oficjalna strona zabytków Tainan (historic.tainan.gov.tw) dla cen Fort Zeelandia i Chihkan Tower (**wysoka**); twtainan.net (oficjalna) dla Anping Tree House **NT$70 / połowa NT$35** (**wysoka**); Historic Site Pass z oferty produktowej na TripAdvisor (**niska-średnia** — potwierdzić ponownie, ale to nie zmienia wniosku).

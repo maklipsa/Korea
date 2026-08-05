@@ -39,7 +39,20 @@ ACRONYMS = {
     "MRT", "BTS", "SEA", "LIFE", "UNESCO",
 }
 # Words kept lowercase in a title unless they are the first word.
-SMALL_WORDS = {"to", "and", "of", "the", "a", "an", "at", "by", "on", "in", "or", "vs"}
+# English leftovers (district names, "Day Trip from …") plus the Polish
+# prepositions/conjunctions that now appear in the translated headings.
+SMALL_WORDS = {
+    "to", "and", "of", "the", "a", "an", "at", "by", "on", "in", "or", "vs",
+    "i", "oraz", "albo", "lub", "a", "w", "we", "z", "ze", "do", "na", "od",
+    "po", "przy", "dla", "nad", "pod", "za", "u", "o",
+}
+
+# Polish diacritics folded away when building an id/slug (the slug alphabet is
+# ASCII, so without this "Łódź" would collapse to "d").
+_PL_FOLD = str.maketrans({
+    "ą": "a", "ć": "c", "ę": "e", "ł": "l", "ń": "n",
+    "ó": "o", "ś": "s", "ź": "z", "ż": "z",
+})
 
 
 # --- inline markdown helpers ------------------------------------------------
@@ -95,7 +108,7 @@ def smart_title(text: str) -> str:
 
 
 def slugify(text: str, n_words: int = 6) -> str:
-    words = re.findall(r"[a-z0-9]+", md_plain(text).lower())
+    words = re.findall(r"[a-z0-9]+", md_plain(text).lower().translate(_PL_FOLD))
     return "-".join(words[:n_words]) or "item"
 
 
@@ -135,7 +148,8 @@ def parse_checklist():
     for line in ITINERARY.read_text(encoding="utf-8").splitlines():
         st = line.strip()
         if st.startswith("## "):
-            in_section = "BEFORE YOU GO" in st.upper()
+            head = st.upper()
+            in_section = "PRZED WYJAZDEM" in head or "BEFORE YOU GO" in head
             continue
         if not in_section:
             continue
@@ -161,6 +175,10 @@ def parse_checklist():
 
 # --- passes.md --------------------------------------------------------------
 
+# H2 sections of passes.md whose "### Name — price" entries become pass cards.
+PASS_SECTIONS = ("Karty miejskie", "Karty transportowe", "City Passes", "Transport Passes")
+
+
 def parse_passes():
     """Parse city + transport passes (those with a price in the heading)."""
     lines = PASSES_MD.read_text(encoding="utf-8").splitlines()
@@ -170,7 +188,7 @@ def parse_passes():
         st = lines[i].strip()
         if st.startswith("## "):
             h2 = st[3:].strip()
-        elif st.startswith("### ") and " — " in st and h2 in ("City Passes", "Transport Passes"):
+        elif st.startswith("### ") and " — " in st and h2 in PASS_SECTIONS:
             name, _, price = st[4:].partition(" — ")
             block = []
             i += 1
@@ -183,6 +201,11 @@ def parse_passes():
     return passes
 
 
+_BUY_RE = re.compile(r"^(?:Kup|Buy):\s*", re.IGNORECASE)
+_VALUE_RE = re.compile(r"\*\*(Wartość|Uwaga|Razem|Value|Note|Total)")
+_ACTIVATE_RE = re.compile(r"^(?:Aktywacja|Activate):\s*")
+
+
 def _build_pass(name, price, block):
     includes, activate, value, buy = [], "", "", ""
     for raw in block:
@@ -191,12 +214,12 @@ def _build_pass(name, price, block):
             continue
         if st.startswith("- "):
             includes.append(md_plain(st[2:]))
-        elif st.startswith("Buy:"):
-            buy = md_plain(st[4:]).strip()
-        elif re.match(r"\*\*(Value|Note|Total)", st):
+        elif _BUY_RE.match(st):
+            buy = md_plain(_BUY_RE.sub("", st)).strip()
+        elif _VALUE_RE.match(st):
             value = md_plain(st)
-        elif not activate and (st.startswith("**") or "Any " in st):
-            activate = re.sub(r"^Activate:\s*", "", md_plain(st))
+        elif not activate and st.startswith("**"):
+            activate = _ACTIVATE_RE.sub("", md_plain(st))
     return {
         "name": name,
         "price": price,
@@ -303,7 +326,7 @@ def parse_naver(lines):
     for line in lines:
         m = re.search(r"\[([^\]]*Naver[^\]]*)\]\((https?://[^)]+)\)", line)
         if m:
-            return [{"label": "Naver Map route", "url": m.group(2)}]
+            return [{"label": "Trasa w Naver Map", "url": m.group(2)}]
     return []
 
 
@@ -480,7 +503,7 @@ def build_cards():
         stem = f.lower()
         cards.append({
             "id": "card-overview" if stem == "readme" else "card-" + stem,
-            "nav": "Overview" if stem == "readme" else f.capitalize(),
+            "nav": "Przegląd" if stem == "readme" else f.capitalize(),
             "title": title or f,
             "html": render_card_markdown(text, anchors),
         })
@@ -495,8 +518,8 @@ def build_cards():
 # the existing .card-doc / .card-nav styles.
 
 _NAV_OVERRIDES = {
-    "Taiwan Must-Try Dishes Checklist": "Dishes",
-    "Day Trips From Seoul": "Seoul Day Trips",
+    "Tajwan": "Potrawy",                        # '## Tajwan — potrawy do spróbowania'
+    "Wycieczki jednodniowe z Seoulu": "Wycieczki z Seoulu",
 }
 
 
@@ -520,7 +543,7 @@ def build_places():
     sections, title, body = [], None, []
 
     def flush():
-        if not title or title.strip().lower() == "emoji key":
+        if not title or title.strip().lower() in ("klucz emoji", "emoji key"):
             return                              # legend already lives on Overview
         # Promote headings one level (#### -> ###, ### -> ##) so render_card_markdown
         # maps them onto the styled .card-doc h3/h4 (it renders H2+ and skips H1).
