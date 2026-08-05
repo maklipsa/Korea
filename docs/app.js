@@ -74,6 +74,72 @@ function updateSyncStatus(connected) {
   }
 }
 
+// === PACKING TICKS ===
+// The packing list (generated from packing.md into PACKING) is one long set of
+// '- [ ]' items. Ticking is per-device and deliberately NOT Firebase-synced:
+// each traveller packs their own bag, so sharing one state across phones would
+// fight. Keys hash the item text, so they survive reordering/regeneration of
+// packing.md and only reset when the wording of that item itself changes.
+const PACKING_STORE = 'trip-packing';
+let packingState = {};
+
+function loadPackingState() {
+  try {
+    packingState = JSON.parse(localStorage.getItem(PACKING_STORE) || '{}');
+  } catch (e) {
+    packingState = {};
+  }
+}
+
+function packKey(text) {
+  let h = 5381;
+  const s = text.trim().replace(/\s+/g, ' ');
+  for (let i = 0; i < s.length; i++) h = (((h * 33) ^ s.charCodeAt(i)) >>> 0);
+  return h.toString(36);
+}
+
+function savePackingState() {
+  try {
+    localStorage.setItem(PACKING_STORE, JSON.stringify(packingState));
+  } catch (e) { /* private mode / quota — ticks just won't persist */ }
+}
+
+function updatePackingProgress() {
+  const items = document.querySelectorAll('.packing-page li.task');
+  const done = document.querySelectorAll('.packing-page li.task.checked').length;
+  const el = document.querySelector('.packing-progress-text');
+  if (el) el.textContent = `Zapakowane: ${done} z ${items.length}`;
+  const bar = document.querySelector('.packing-progress-bar span');
+  if (bar) bar.style.width = items.length ? (done / items.length * 100) + '%' : '0%';
+}
+
+function bindPackingTicks() {
+  document.querySelectorAll('.packing-page li.task').forEach(li => {
+    const textEl = li.querySelector('.task-text');
+    const key = packKey(textEl ? textEl.textContent : li.textContent);
+    li.dataset.packKey = key;
+    // '- [x]' in the Markdown = ticked by default until the user says otherwise.
+    const preDone = !!li.querySelector('.task-box-done');
+    const checked = key in packingState ? !!packingState[key] : preDone;
+    li.classList.toggle('checked', checked);
+    li.addEventListener('click', (e) => {
+      if (e.target.tagName === 'A') return;       // let links through
+      packingState[key] = !li.classList.contains('checked');
+      li.classList.toggle('checked', packingState[key]);
+      savePackingState();
+      updatePackingProgress();
+    });
+  });
+  updatePackingProgress();
+}
+
+function resetPacking() {
+  packingState = {};
+  savePackingState();
+  document.querySelectorAll('.packing-page li.task').forEach(li => li.classList.remove('checked'));
+  updatePackingProgress();
+}
+
 // === TAB NAVIGATION ===
 let activeTab = 'overview';
 
@@ -131,6 +197,7 @@ function renderContent() {
       toggleCheckItem(el.dataset.id);
     });
   });
+  if (activeTab === 'packing') bindPackingTicks();
   // Re-bind day card clicks
   document.querySelectorAll('.day-card').forEach(el => {
     el.addEventListener('click', () => switchTab(el.dataset.tab));
@@ -385,9 +452,38 @@ function renderPasses() {
 }
 
 function renderPacking() {
+  // The list itself is GENERATED from packing.md into PACKING (data.js) \u2014 edit
+  // the Markdown, not this function. Only the weather/strategy grid, the
+  // closed-day tables and the swap cards below are hand-written here.
+  let listHTML = '<div class="overview-section"><p>Brak danych pakowania \u2014 uruchom <code>python generate_site_data.py</code>.</p></div>';
+  if (typeof PACKING !== 'undefined' && PACKING && PACKING.sections.length) {
+    const nav = '<div class="card-nav">' +
+      PACKING.sections.map(s => `<a class="card-nav-chip" href="#${s.id}">${s.nav}</a>`).join('') +
+      '</div>';
+    const sections = PACKING.sections.map(s =>
+      `<section class="card-doc" id="${s.id}"><h2 class="card-doc-title">${s.title}</h2>${s.html}</section>`
+    ).join('');
+    listHTML = `
+      <div class="packing-hero">
+        <h2>${PACKING.title}</h2>
+        ${PACKING.intro}
+        <div class="packing-progress">
+          <div class="packing-progress-bar"><span></span></div>
+          <div class="packing-progress-row">
+            <span class="packing-progress-text"></span>
+            <button class="packing-reset" onclick="resetPacking()">Odznacz wszystko</button>
+          </div>
+          <p class="packing-hint">Kliknij pozycj\u0119, \u017ceby j\u0105 odhaczy\u0107 \u2014 stan zapisuje si\u0119 w tej przegl\u0105darce (ka\u017cdy pakuje si\u0119 sam).</p>
+        </div>
+      </div>
+      ${nav}${sections}`;
+  }
+
   return `
+    <div class="cards-page packing-page">
+    ${listHTML}
     <div class="overview-section">
-      <h2>Pogoda i pakowanie na sierpie\u0144</h2>
+      <h2>Pogoda i strategia dnia</h2>
       <div class="packing-grid">
         <div class="packing-card">
           <h3>Korea: 28\u201333\u00b0C</h3>
@@ -403,18 +499,6 @@ function renderPacking() {
             <li>Przy tej wilgotno\u015bci odczuwalne 38\u201345\u00b0C</li>
             <li>Popo\u0142udniowe burze to norma</li>
             <li>Szczyt sezonu tajfunowego</li>
-          </ul>
-        </div>
-        <div class="packing-card">
-          <h3>Do walizki</h3>
-          <ul>
-            <li>Lekkie, przewiewne ubrania (len, bawe\u0142na, szybkoschn\u0105ce)</li>
-            <li>Ma\u0142a kurtka przeciwdeszczowa albo parasol (NIEZB\u0118DNE)</li>
-            <li>Krem z filtrem SPF 50+, czapka, okulary s\u0142oneczne</li>
-            <li>Wygodne buty do chodzenia, radz\u0105ce sobie z mokrym terenem</li>
-            <li>Wentylator podr\u0119czny / r\u0119cznik ch\u0142odz\u0105cy</li>
-            <li>Wodoodporne etui na telefon</li>
-            <li>Butelka wielokrotnego u\u017cytku</li>
           </ul>
         </div>
         <div class="packing-card">
@@ -469,6 +553,7 @@ function renderPacking() {
         <h3>Alishan albo Sun Moon Lake?</h3>
         <ul><li>Trzeba 1\u20132 dni wi\u0119cej. Do wyci\u0119cia Tainan albo Kaohsiung. Sun Moon Lake da si\u0119 zrobi\u0107 jako wycieczk\u0119 jednodniow\u0105 z Taichung.</li></ul>
       </div>
+    </div>
     </div>`;
 }
 
@@ -512,6 +597,8 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.tab').forEach(tab => {
     tab.addEventListener('click', () => switchTab(tab.dataset.tab));
   });
+
+  loadPackingState();   // before the first render, so ticks show immediately
 
   // Initial render — honor a deep-link hash (e.g. #dmz) if present.
   const hashTab = location.hash.slice(1);

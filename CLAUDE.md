@@ -15,6 +15,7 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 | `days/aug-NN-*.md` | One file per day (19 days, `aug-11` … `aug-29`). |
 | `passes.md` | City/transport/transit passes, transit cards, eSIM/connectivity. |
 | `places.md` | Master place catalog (region → district → category). Parsed by the Python tool. |
+| `packing.md` | Packing list (adults + kids), in Polish. Source of the site's **Pakowanie** tab — each `##` becomes one section, every `- [ ]` a tickable item. |
 | *(trip-planner plugin)* | The taste/planning tooling lives in the **`trip-planner`** Claude Code plugin (marketplace `trip-tools` at `c:\src\trip-planner`), not in this repo: skills `find-places`, `add-place`, `split-into-days`, plus the rules skills **`priorities`** (priority ladder + 1–5 ★ rubric) and **`day-planning`** (day-shape & clustering). Enable via `.claude/settings.local.json`. |
 | `gmaps_saver.py` / `maps_automator.py` / `markdown_parser.py` | Maps saver: CLI / Playwright automation / Markdown→`Place` parser. |
 | `generate_site_data.py` | Generates `docs/data.js` from the Markdown (stdlib only). |
@@ -72,7 +73,7 @@ python gmaps_saver.py places.md --list-name "Korea 2026"
 
 Vanilla-JS SPA, no framework/bundler. Open `docs/index.html` directly to preview; push to `main` to deploy.
 
-**Markdown is the single source of truth.** `docs/data.js` holds the `DAYS`, `CHECKLIST`, `PASSES` globals and is **generated — never hand-edit it.** After editing any Markdown, regenerate:
+**Markdown is the single source of truth.** `docs/data.js` holds the `DAYS`, `CHECKLIST`, `PASSES`, `PACKING`, `CARDS`, `PLACES`, `DMZ` globals and is **generated — never hand-edit it.** After editing any Markdown, regenerate:
 
 ```bash
 python generate_site_data.py    # rewrites docs/data.js
@@ -80,7 +81,9 @@ python generate_site_data.py    # rewrites docs/data.js
 
 The workflows keep `data.js` in sync on push, but run it locally anyway so previews and the committed diff stay current.
 
-Hand-written HTML in `app.js` (**not** generated, edit directly, and it is in **Polish**): Packing tab, Closed-Day rule tables, eSIM/transit notes in `renderPasses`, "Optional Swaps" cards, the emoji legend (`LEGEND_GROUPS`). Tab labels live in `index.html` — translate the label, never the `data-tab` id.
+Hand-written HTML in `app.js` (**not** generated, edit directly, and it is in **Polish**): the weather/strategy grid + Closed-Day rule tables + "Optional Swaps" cards on the Packing tab, eSIM/transit notes in `renderPasses`, the emoji legend (`LEGEND_GROUPS`). Tab labels live in `index.html` — translate the label, never the `data-tab` id.
+
+**Packing tab:** the list itself is **generated from `packing.md`** into `PACKING` — edit the Markdown, not `renderPacking()`. Every `- [ ]` becomes a tickable row; ticks are stored per-device in `localStorage` (`trip-packing`), keyed by a hash of the item text, so reordering `packing.md` keeps the ticks and only rewording an item resets that one. Deliberately **not** Firebase-synced — each traveller packs their own bag. `- [x]` in `packing.md` = ticked by default (still un-tickable, unlike the booking checklist).
 
 `firebase-config.js` = optional Realtime Database sync for the checklist; empty falls back to `localStorage`. No real secrets.
 
@@ -93,7 +96,7 @@ Hand-written HTML in `app.js` (**not** generated, edit directly, and it is in **
 - **Culture is the main goal — NOT Instagram.** A "photo gallery" means a gallery of *photographs* (photography as an art form), never a photo-op backdrop. Gimmicky selfie/"fun" attractions — trick-eye / trick-art museums, selfie museums, optical-illusion & AR photo-op spots (e.g. Trickeye, Alive Museum) — are **not culture and never count as a museum/gallery.** Don't schedule them as priority stops or as a substitute for a real museum; at most keep one as a minor kids' optional, clearly labeled as a selfie spot. When in doubt, pick the genuine cultural venue.
 - **Concentrate on the locally distinctive — skip what you can also see at home.** A stop only earns its slot if it's distinctively Korean/Taiwanese; down-weight anything the family could just as easily do in Poland/Europe (petting-zoo animal parks, generic theme villages like Petite France, chain attractions, imported-concept spots). When in Korea/Taiwan, spend the time on things you *can't* get at home. Pairs with the culture-not-Instagram rule above.
 - Prefer editing Markdown over code. Times, prices, and closed-day rules are load-bearing — preserve them.
-- After editing `itinerary.md`, `passes.md`, or any `days/*.md`, run `python generate_site_data.py`.
+- After editing `itinerary.md`, `passes.md`, `packing.md`, `places.md`, `dmz.md`, `cards/*.md`, or any `days/*.md`, run `python generate_site_data.py`.
 - Keep surfaces consistent: `itinerary.md` (index + rules + summaries), `days/*.md` (detail), `places.md` (catalog).
 - Prices in local currency (KRW / NT$); dates absolute (Aug 2026).
 

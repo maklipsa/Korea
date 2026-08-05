@@ -87,7 +87,7 @@ Pass zarabia na siebie na trzech pozycjach skupionych **16→18 sie**: N Seoul T
 
 ## Dodatkowe informacje i haczyki
 
-- **Zegar startuje przy pierwszym skanie w *atrakcji*** — nie przy zakupie ani nie od dnia kalendarzowego. **Źródła nie są zgodne, czy wydanie bezpłatnego kodu AREX też uruchamia zegar**, więc traktujcie benefit AREX jako uruchamiający zegar: nie wykorzystujcie go, jeśli nie zamierzacie aktywować passa. *Dla nas bez znaczenia* — przylatujemy 11 sie, ale aktywujemy dopiero 16 sie, więc przejazdu AREX z passa i tak nie użyjemy.
+- **Zegar startuje przy pierwszym skanie w atrakcji** — nie przy zakupie ani nie od dnia kalendarzowego. **Źródła nie są zgodne, czy wydanie bezpłatnego kodu AREX też uruchamia zegar**, więc traktujcie benefit AREX jako uruchamiający zegar: nie wykorzystujcie go, jeśli nie zamierzacie aktywować passa. *Dla nas bez znaczenia* — przylatujemy 11 sie, ale aktywujemy dopiero 16 sie, więc przejazdu AREX z passa i tak nie użyjemy.
 - **Brak dziennego limitu** bezpłatnych atrakcji (passy czasowe) — zwiedzajcie tyle, ile pozwoli zegar, **każdą raz**.
 - **Lotte World = wstęp na cały dzień, ale NIE Magic Pass** do pomijania kolejek. Weźcie bezpłatny „Magic Day Pass" na dany dzień w stanowisku w parku (pierwszych ~100 gości) albo po prostu stójcie w kolejce.
 - **Ważność vouchera** ~5 lat przed aktywacją; zwrot możliwy w ciągu 30 dni, jeśli niewykorzystany, po aktywacji bez zwrotu.

@@ -815,6 +815,144 @@ main {
 .card-table tr:last-child td { border-bottom: none; }
 .card-table td strong { color: var(--gray-800); }
 
+/* === Packing tab (generated from packing.md) === */
+.card-doc ol {
+  list-style: decimal;
+  padding-left: 1.35rem;
+  margin: 0.5rem 0;
+}
+
+.card-doc ol > li { padding: 0.3rem 0; }
+
+/* '- [ ]' items: tappable rows with their own box, ticked state kept in
+   localStorage by bindPackingTicks(). */
+.card-doc ul.task-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.5rem 0;
+}
+
+.card-doc li.task {
+  display: flex;
+  gap: 0.625rem;
+  align-items: flex-start;
+  padding: 0.5rem 0.625rem;
+  border: 1px solid var(--gray-200);
+  border-radius: var(--radius-sm);
+  background: white;
+  margin-bottom: 0.375rem;
+  cursor: pointer;
+  transition: background 0.12s, border-color 0.12s, opacity 0.12s;
+}
+
+.card-doc li.task:hover { border-color: var(--gray-300); background: var(--gray-100); }
+
+.task-box {
+  flex: 0 0 auto;
+  width: 1.125rem;
+  height: 1.125rem;
+  margin-top: 0.1rem;
+  border: 2px solid var(--gray-300);
+  border-radius: 4px;
+  background: white;
+  position: relative;
+}
+
+.card-doc li.task.checked { opacity: 0.55; background: var(--gray-100); }
+.card-doc li.task.checked .task-text { text-decoration: line-through; }
+
+.card-doc li.task.checked .task-box {
+  background: var(--korea);
+  border-color: var(--korea);
+}
+
+.card-doc li.task.checked .task-box::after {
+  content: '';
+  position: absolute;
+  left: 3px;
+  top: 0px;
+  width: 6px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.task-text { flex: 1; }
+
+.packing-hero { margin-bottom: 1.5rem; }
+
+.packing-hero h2 {
+  font-size: 1.375rem;
+  font-weight: 700;
+  color: var(--gray-900);
+  margin-bottom: 0.5rem;
+}
+
+.packing-hero p {
+  font-size: 0.875rem;
+  color: var(--gray-700);
+  margin: 0.5rem 0;
+}
+
+.packing-progress {
+  margin-top: 1rem;
+  padding: 0.875rem 1rem;
+  background: white;
+  border: 1px solid var(--gray-200);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+}
+
+.packing-progress-bar {
+  height: 6px;
+  border-radius: 999px;
+  background: var(--gray-200);
+  overflow: hidden;
+}
+
+.packing-progress-bar span {
+  display: block;
+  height: 100%;
+  width: 0;
+  background: var(--korea);
+  transition: width 0.2s;
+}
+
+.packing-progress-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.packing-progress-text {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--gray-700);
+}
+
+.packing-reset {
+  padding: 0.3rem 0.7rem;
+  border: 1px solid var(--gray-200);
+  border-radius: 999px;
+  background: white;
+  color: var(--gray-600);
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.packing-reset:hover { background: var(--gray-100); }
+
+/* .packing-hero p sets 0.875rem/gray-700, so qualify to keep the hint quiet. */
+.packing-hero .packing-hint {
+  font-size: 0.75rem;
+  color: var(--gray-500);
+  margin: 0.5rem 0 0;
+}
+
 /* === Responsive === */
 @media (min-width: 640px) {
   main { padding: 2rem 1.5rem 4rem; }

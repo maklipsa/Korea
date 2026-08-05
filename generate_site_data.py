@@ -1,8 +1,8 @@
 """Generate docs/data.js from the Markdown source of truth.
 
-Reads itinerary.md, passes.md, days/*.md, and cards/*.md and emits docs/data.js,
-which defines the `DAYS`, `CHECKLIST`, `PASSES`, and `CARDS` globals consumed by
-docs/app.js.
+Reads itinerary.md, passes.md, packing.md, days/*.md, and cards/*.md and emits
+docs/data.js, which defines the `DAYS`, `CHECKLIST`, `PASSES`, `PACKING`, and
+`CARDS` globals consumed by docs/app.js.
 
 Run after editing any of the Markdown files:
 
@@ -20,6 +20,7 @@ ROOT = Path(__file__).parent
 ITINERARY = ROOT / "itinerary.md"
 PASSES_MD = ROOT / "passes.md"
 PLACES_MD = ROOT / "places.md"
+PACKING_MD = ROOT / "packing.md"
 DMZ_MD = ROOT / "dmz.md"
 DAYS_DIR = ROOT / "days"
 OUT = ROOT / "docs" / "data.js"
@@ -420,24 +421,50 @@ def _card_table(rows, anchors):
             f"<thead><tr>{head}</tr></thead><tbody>{trs}</tbody></table></div>")
 
 
-def _card_list(items, anchors):
+_TASK_RE = re.compile(r"^\[([ xX])\]\s+")       # '- [ ] item' / '- [x] item'
+
+
+def _card_list(items, anchors, ordered=False):
+    """Bullet/ordered list -> HTML, with GitHub-style task items.
+
+    A '- [ ]' / '- [x]' item renders as a .task <li> carrying its own checkbox
+    box element (packing.md is one long set of these); plain bullets are
+    untouched, so the cards/places/dmz pages render exactly as before.
+    """
     root = []
     stack = [(-1, root)]
     for ln in items:
         indent = len(ln) - len(ln.lstrip(" "))
-        node = {"text": card_inline(re.sub(r"^\s*[-*]\s+", "", ln), anchors), "children": []}
+        text = re.sub(r"^\s*(?:[-*]|\d+\.)\s+", "", ln)
+        task = _TASK_RE.match(text)
+        if task:
+            text = _TASK_RE.sub("", text)
+        node = {
+            "text": card_inline(text, anchors),
+            "task": bool(task),
+            "done": bool(task) and task.group(1).lower() == "x",
+            "children": [],
+        }
         while len(stack) > 1 and indent <= stack[-1][0]:
             stack.pop()
         stack[-1][1].append(node)
         stack.append((indent, node["children"]))
 
-    def build(nodes):
-        out = "<ul>"
+    def build(nodes, ordered):
+        tag = "ol" if ordered else "ul"
+        cls = ' class="task-list"' if any(nd["task"] for nd in nodes) else ""
+        out = f"<{tag}{cls}>"
         for nd in nodes:
-            out += "<li>" + nd["text"] + (build(nd["children"]) if nd["children"] else "") + "</li>"
-        return out + "</ul>"
+            if nd["task"]:
+                box = "task-box task-box-done" if nd["done"] else "task-box"
+                out += (f'<li class="task"><span class="{box}"></span>'
+                        f'<span class="task-text">{nd["text"]}</span>')
+            else:
+                out += "<li>" + nd["text"]
+            out += (build(nd["children"], False) if nd["children"] else "") + "</li>"
+        return out + f"</{tag}>"
 
-    return build(root)
+    return build(root, ordered)
 
 
 def render_card_markdown(md, anchors):
@@ -483,6 +510,13 @@ def render_card_markdown(md, anchors):
             while i < n and re.match(r"^\s*[-*]\s+", lines[i]):
                 items.append(lines[i]); i += 1
             html.append(_card_list(items, anchors))
+            continue
+        if re.match(r"^\s*\d+\.\s+", raw):      # '1. …' numbered list -> <ol>
+            flush()
+            items = []
+            while i < n and re.match(r"^\s*\d+\.\s+", lines[i]):
+                items.append(lines[i]); i += 1
+            html.append(_card_list(items, anchors, ordered=True))
             continue
         para.append(st); i += 1
     flush()
@@ -571,6 +605,59 @@ def build_places():
     return sections
 
 
+# --- packing.md -------------------------------------------------------------
+# The packing list is rich Markdown (## section / '- [ ]' task items / a per-day
+# gear table), so it reuses the card block-to-HTML converter. Each ## section
+# becomes one block of the Packing tab, mirroring the CARDS/PLACES shape
+# ({id, nav, title, html}) plus the intro prose above the first ##.
+
+def _packing_nav(title):
+    """Short nav-chip label from a packing section heading."""
+    t = re.sub(r"\s*\(.*?\)\s*", " ", title)        # drop parentheticals
+    t = re.sub(r"\s+", " ", t).strip()
+    if len(t) > 26:                                 # too long for a chip: keep the head
+        t = re.split(r"\s+—\s+|,\s+", t)[0].strip()
+    return t
+
+
+def build_packing():
+    if not PACKING_MD.exists():
+        return None
+    lines = PACKING_MD.read_text(encoding="utf-8").splitlines()
+    title = next((md_plain(ln[2:]) for ln in lines if ln.startswith("# ")), "Pakowanie")
+
+    sections, intro, head, body = [], [], None, []
+
+    def flush():
+        html = render_card_markdown("\n".join(body), {})
+        if head and html.strip():
+            sections.append({
+                "id": "pack-" + slugify(_packing_nav(head)),
+                "nav": _packing_nav(head),
+                "title": md_plain(head),
+                "html": html,
+            })
+
+    for ln in lines:
+        if ln.startswith("# "):                     # H1 = page title, already taken
+            continue
+        m = re.match(r"^##\s+(.*)$", ln)            # H2 only ('### ' has '#' after '##')
+        if m:
+            flush()
+            head, body = m.group(1).strip(), []
+        elif head is None:
+            intro.append(ln)
+        else:
+            body.append(ln)
+    flush()
+
+    return {
+        "title": title,
+        "intro": render_card_markdown("\n".join(intro), {}),
+        "sections": sections,
+    }
+
+
 # --- dmz.md -----------------------------------------------------------------
 # Standalone research page (its own top-level tab). Single rich-Markdown doc,
 # rendered with the same block-to-HTML converter as the card/place subsites.
@@ -624,6 +711,7 @@ def main():
     cards = build_cards()
     places = build_places()
     dmz = build_dmz()
+    packing = build_packing()
 
     header = (
         "// === ITINERARY DATA ===\n"
@@ -637,13 +725,15 @@ def main():
         + js_block("PASSES", passes) + "\n\n"
         + js_block("CARDS", cards) + "\n\n"
         + js_block("PLACES", places) + "\n\n"
-        + js_block("DMZ", dmz) + "\n",
+        + js_block("DMZ", dmz) + "\n\n"
+        + js_block("PACKING", packing) + "\n",
         encoding="utf-8",
     )
     print(f"Wrote {OUT.relative_to(ROOT)}")
     print(f"  {len(days)} days, {len(checklist)} checklist items, "
           f"{len(passes)} passes, {len(cards)} cards, {len(places)} place regions, "
-          f"dmz={'yes' if dmz else 'no'}")
+          f"dmz={'yes' if dmz else 'no'}, "
+          f"packing={len(packing['sections']) if packing else 0} sections")
     stamp_asset_versions()
 
 
