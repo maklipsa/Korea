@@ -53,7 +53,8 @@
 - **Zakupy to cecha konkretnej oferty, nie gwarancja typu wycieczki.** Tańsze wycieczki do DMZ (~₩45,000–50,000) nadrabiają cenę obowiązkowym 45–60-minutowym postojem na żeń-szeń / ametysty / duty-free; dopłać ~₩10–15 tys. za ofertę, której tytuł wyraźnie mówi **„No Forced Shopping" / „without shopping stop".** Operatorzy reklamujący wycieczki do DMZ bez zakupów: **VIP Travel** (vviptravel.com) i **KKday** (osobna oferta); Viator/GetYourGuide też mają oferty „without shopping stop". **Sprawdź to w dokładnej ofercie.**
 - **Uważaj na koszty dodatkowe**, nie zawsze wliczone w cenę z nagłówka: **monorail w 3rd Tunnel ₩12,200** (vs **₩9,200 pieszo** — dopłata ~₩3,000), a na części wycieczek **Imjingak Peace Gondola (~₩12,000–15,000 dorosły, zależnie od typu kabiny / ~₩10,000 dziecko, w obie strony)**.
 - **Jedź z rana**, żeby wyprzedzić tłumy (standardowa półdniówka i tak jest w porannym slocie).
-- **Rezerwuj kilka tygodni wcześniej.** Sierpień bywa oblegany, a popularne terminy się zapełniają — dla grupy 6 osób rezerwuj ~2 tygodnie wcześniej, na spokojnie. (Zastrzeżenie: lipiec–sierpień to pora monsunowa, która *zmniejsza* popyt w dni deszczowe i o słabej widoczności, więc wyprzedanie nie jest pewne. Na **koniec lip. 2026 do 13 sie zostaje ~19 dni — mieścimy się w sensownym okienku rezerwacyjnym, więc rezerwuj szybko.**)
+- **🔴 REZERWUJ TERAZ — zostało 8 dni.** Na **5 sie 2026 do czw. 13 sie zostaje 8 dni**, nie ~19 (poprzednia wersja tej strony liczyła od końca lipca). Rekomendowane wyprzedzenie dla standardowej wycieczki to **1+ tydzień** (numery paszportów zwykle ~5–7 dni wcześniej), więc **jesteśmy dokładnie na granicy okienka** — dla 6 osób w jednym autobusie rezerwuj w ciągu 1–2 dni. (Zastrzeżenie: lipiec–sierpień to pora monsunowa, która *zmniejsza* popyt w dni deszczowe i o słabej widoczności, więc wyprzedanie nie jest pewne — ale przy 8 dniach nie ma już zapasu na szukanie alternatyw.)
+- **Sprawdź „military training days".** Poza poniedziałkami i świętami operatorzy odwołują wyjazdy również w **dni ćwiczeń wojskowych** (VIP Travel wymienia je wprost jako trzeci powód zamknięcia). Nie da się ich przewidzieć z kalendarza — potwierdź u operatora, że **13 sie jest operacyjny**, zanim zapłacisz.
 
 ---
 
@@ -62,6 +63,52 @@
 **Joint Security Area** (niebieskie baraki konferencyjne na samej granicy) jest **zamknięty dla zwykłych turystów od incydentu z przekroczeniem granicy w lipcu 2023**, a UN Command od tego czasu **trwale przebudowało** program wycieczki orientacyjnej, usuwając przejście przez niebieski budynek — więc nawet przyszłe ponowne otwarcie nie przywróci „wejścia do Korei Północnej". Na 2026 **nie ogłoszono żadnej daty ponownego otwarcia**, a dostęp dla cywilów jest niepewny. *Centrum dla zwiedzających* JSA (rejon Camp Bonifas) częściowo otwarto ponownie w 2025, ale Freedom House i niebieskie sale konferencyjne pozostają niedostępne.
 
 ⚠️ **Nadal znajdziesz aktywne, dostępne do rezerwacji oferty „JSA / Panmunjom"** — w trzech odmianach: **(1) prawdziwe wycieczki na zezwolenie** (np. VIP Travel, ~₩195,000), które otwierają tylko terminy przyznane przez UN Command ~1–2 miesiące wcześniej, szybko się wyprzedają, wymagają paszportów + rezerwacji ~7 dni wcześniej i mają **100% opłatę za anulowanie w ciągu 7 dni** przed terminem, przy czym odwołanie w dniu wycieczki jest zawsze możliwe; **(2) standardowe wycieczki do DMZ pod nazwą „JSA"** z doklejoną *spekulacyjną* próbą wejścia — jeśli JSA jest tego dnia zamknięte (a zwykle jest), robisz tylko część DMZ, czasem po zapłaceniu dopłaty; oraz **(3) replikę „JSA Experience Museum"** w Unification Village (nie prawdziwą granicę). **Zakładaj, że niebieskie budynki NIE są w programie; przeczytaj drobny druk każdej oferty, zanim zapłacisz dopłatę za JSA (~₩150,000–195,000).** Dla gwarantowanej, pewnej wizyty rezerwuj zamiast tego **standardową półdniówkę do DMZ** (3rd Tunnel + Dora Observatory).
+
+---
+
+## Konkretne oferty — research 5 sie 2026
+
+Przeszukane pod nasze kryteria Opcji B: **poranna półdniówka, 3rd Tunnel + Dora Observatory, bez przymusowych zakupów, 9-latek przyjmowany, 6 osób razem, powrót na tyle wcześnie, by uratować popołudnie (War Memorial + National Museum)**.
+
+> **⚠️ Kalibracja oczekiwań: „półdniówka" w DMZ to realnie 6–7 h, nie 4–5 h.** Żadna z faktycznie dostępnych ofert nie wraca przed 13:30 — typowy powrót to **13:30 (Hongdae) / 14:00–14:30 (City Hall)**, bo przejazd + trzy punkty kontrolne pochłaniają czas niezależnie od programu. Górna widełka „4–5 h" z tabeli A vs. B jest zbyt optymistyczna; planuj Dzień 3 od **~14:00–14:30 w centrum**.
+
+| | **✅ VIP Travel** *(rekomendacja)* | **Trazy** | **Klook** | **OnedayKorea** *(prywatna)* |
+|---|---|---|---|---|
+| Oferta | Best DMZ Tour from Seoul (No Forced Shopping) | Korea DMZ Tour from Seoul (Morning) | DMZ Half Day Guided Tour from Seoul | Korea DMZ Private Tour |
+| Cena | **₩80,000** /dorosły | brak publicznej — pytaj | ~$38 (~₩55,000) | **$89 /os. przy 6 os.** = $534 (~₩780,000) |
+| Czas / powrót | 7:00 → ~7 h, City Hall | 7:30–8:00 → 14:00 Hongdae / 14:30 City Hall | 7:30 z Myeongdong/Hongdae → ~7 h | 07:20–07:40 → **~13:30 pod hotel** |
+| Odbiór | **darmowy z hotelu** ✅ | z punktu przy noclegu ✅ | punkt zbiórki ⚠️ | **z hotelu i pod hotel** ✅ |
+| 3rd Tunnel + Dora | ✅ | ✅ | ✅ | ✅ |
+| Dorasan Station | ❌ | **✅** (jedyna półdniówka, która ma to wprost) | ❌ | ❌ |
+| Bonus | JSA Museum (replika) + Unification Village; opcje gondola / most +₩10–20k | DMZ Theater, przejazd obok Unification Village | **opcjonalne Q&A z uciekinierem + JSA Museum jako dopłata** | prywatne tempo, pewne 6 miejsc razem |
+| Zakupy | **„NO forced shopping" jako ich znak firmowy** ✅ | brak w programie ✅ | wg porównań bez przymusowych ✅ | ⚠️ postój na pamiątki w Unification Village |
+| Anulowanie | **darmowe do 24 h** ✅ | 3 dni = 100% zwrotu, **≤2 dni = 0%** ⚠️ | wg oferty (Klook zwykle 24–72 h) | 14+ dni pełny zwrot; **1–14 dni: 20% zadatku przepada** ⚠️ |
+| Wiek | ⚠️ **nie podany — potwierdź 9-latka** | min. 2 lata ✅ | „bez ograniczeń" ✅ | nie podany ⚠️ |
+| Progi cenowe | nieopublikowane — pytaj | **dorosły 11+ / dziecko 2–10** ⚠️ | pytaj | tylko <3 lata darmo |
+| Ocena | 4,89/5 | — | „traveler favorite" | — |
+
+**Rekomendacja → VIP Travel, półdniówka „No Forced Shopping" (₩80,000/dorosły).** Wygrywa na trzech rzeczach, których dmz.md wymaga wprost:
+1. **Brak zakupów to ich model biznesowy, nie obietnica w drobnym druku** — plik ostrzegał, że zakupy to cecha konkretnej oferty; tu jest cechą operatora.
+2. **Darmowe anulowanie do 24 h** — to jedyna z porównywanych opcji, która realnie realizuje wymagany „plan awaryjny na pogodę". Przy sierpniowym monsunie możemy podjąć decyzję wieczorem 12 sie, patrząc na prognozę.
+3. **Darmowy odbiór z hotelu** — przy 6 osobach z trójką dzieci i porannym wyjazdem ~7:00 to znika cała logistyka dojazdu z DDP na punkt zbiórki (Cosmojin liczy za to ₩10,000/os. w każdą stronę).
+
+Cena ₩80,000 jest w górnej połowie widełek z checklisty (50–75k), ale mieści się w realiach rynku (₩55–95k) i kupuje elastyczność pogodową, która przy jednorezerwacyjnym dniu jest warta więcej niż ₩10k oszczędności.
+
+**Kiedy wybrać co innego:**
+- **Zależy nam na Dorasan Station** → **Trazy**. Jedyna półdniówka, która ma tę stację wprost w programie, i ma jasny limit wieku (2+), więc 9-latek jest bezpieczny. Koszt: brak polityki pogodowej (**po 11 sie rezerwacja jest bezzwrotna**) i gorsze progi — **11-latek płaci już jak dorosły**.
+- **Chcemy zachować furtkę do Q&A z uciekinierem** → **Klook**. Ma je jako **opcjonalną dopłatę** do półdniówki, a nie jako całodniową Opcję A — czyli dałoby się mieć rozmowę bez poświęcania popołudnia. Najtańsza opcja, ale ze punktu zbiórki, nie z hotelu.
+- **Chcemy gwarancji, że 6 osób jedzie razem i wracamy 13:30 pod hotel** → **OnedayKorea** (prywatna, ~₩780,000 za grupę = ~+₩300,000 wobec VIP Travel). Rozwiązuje ryzyko „nie posadzą nas razem" i pozwala dostosować tempo w tunelu do 9-latka. Uwaga: **jesteśmy już w oknie 1–14 dni, więc 20% zadatku jest bezzwrotne od razu.**
+- **Odpada: Cosmojin.** Najlepsze progi wiekowe (dorosły 12+, dziecko 3–11 → 9- i 11-latek jako dzieci), ale zbiórka City Hall Exit 7 o 06:00–07:30 i program **06:00–15:30 (9,5 h)** — to de facto cały dzień, zabija popołudniowe muzea. Do tego hotel pickup za dopłatą i anulowanie tylko do 9:00 dnia poprzedniego.
+
+**Do potwierdzenia na piśmie przed zapłatą (w tej kolejności):**
+1. **9-latek jest przyjmowany w tej konkretnej ofercie** — VIP Travel nie publikuje minimum wieku, a plik wyżej ostrzega, że co najmniej jeden operator ma ukryty zakaz <11 lat.
+2. **Cena all-in z podziałem na 3 dorosłych + 9/11/15 lat** — żaden z operatorów nie publikuje progów dziecięcych dla półdniówki. Przy progu „dorosły 11+" (jak u Trazy) tylko 9-latek płaci mniej i różnica wobec 6× dorosły jest niewielka.
+3. **13 sie 2026 nie jest dniem ćwiczeń wojskowych** i wyjazd jest potwierdzony.
+4. **Wszystkie 6 osób w jednym autobusie** — jeśli nie na piśmie, przejdź na opcję prywatną.
+5. **Godzina i miejsce powrotu** — potrzebne do przeliczenia Dnia 3 (dojazd do War Memorial 20–40 min od punktu wysadzenia).
+6. **Monorail w tunelu**: ₩12,200 z monorailem vs ₩9,200 pieszo (dopłata ~₩3,000) — **bilety wyprzedają się do południa**, więc zamów z góry, jeśli chcemy oszczędzić 9-latkowi powrotu 350 m rampy w sierpniowym upale.
+
+**Samodzielnie, bez wycieczki (backup, jeśli wszystko wyprzedane):** oficjalny system Paju — **dmz.paju.go.kr**, nowe terminy otwierają się **codziennie o 10:00 KST** na okres od następnego dnia do miesiąca w przód; bilet ₩12,200 z monorailem / ₩9,200 pieszo. Rezerwacje same-day niedostępne, a dojazd komunikacją do Imjingak trzeba ogarnąć samemu — traktuj to jako awaryjne, nie jako plan.
 
 ---
 
