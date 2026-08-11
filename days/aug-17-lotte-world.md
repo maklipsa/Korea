@@ -21,30 +21,30 @@ Changdeokgung, War Memorial, Leeum, SeMoCA, MMCA — wszystkie zamknięte w poni
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 10:00 | **[★★★★★ 🎡🧒🎫 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul)** — Zacznij od części zadaszonej (największy park pod dachem na świecie — świetny na sierpniowy upał!). Potem atrakcje na zewnątrz. | DSP obejmuje, inaczej w kasie: dziecko 50k / młodzież(13-18) 58k / dorosły 67k KRW |
+| 10:00 | **[★★★★★ 🎡🧒🎫 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul) [N](https://map.naver.com/p/search/롯데월드)** — Zacznij od części zadaszonej (największy park pod dachem na świecie — świetny na sierpniowy upał!). Potem atrakcje na zewnątrz. | DSP obejmuje, inaczej w kasie: dziecko 50k / młodzież(13-18) 58k / dorosły 67k KRW |
 | 13:00 | Lunch na terenie Lotte World. |  |
-| 13:30 | *(Opcjonalny wybór dla dzieci — przyległy kompleks Lotte World, 4 piętro; pomijaj jako pierwsze, jeśli park się przedłuża.)* **[★★★☆☆ 🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil)** — Miasteczko zawodów w skali dziecka: 90+ profesji (pilot, chirurg, strażak, prezenter wiadomości) dla wieku 4–14, wielki hit u 9- i 11-latka. Zajmuje 3–4 h, więc traktuj to jako **wymianę** za popołudniową sesję w Lotte World (albo kup osobny bilet), nie jako dodatek. | ~35,000 KRW (sprawdź progi wiekowe) |
-| 15:00 | **[★★★★☆ 🗼🧒 Seoul Sky](https://www.google.com/maps/search/Lotte+World+Tower+Seoul)** — Taras widokowy ze szklaną podłogą na wysokości 500 m w Lotte World Tower (piętra 117-123). Najwyższy w Korei. | dziecko(3-12) 27k / dorosły(13+) 31k KRW |
-| 16:00 | *(Opcjonalna przerwa na sztukę w klimatyzacji — 7 piętro kompleksu Avenuel/Lotte World Tower, otwarte w pon.; pomiń, jeśli park + Seoul Sky już wypełniły dzień.)* **[★★★★☆ 🏛️🎨🎫 LOTTE Museum of Art (LOMA)](https://www.google.com/maps/search/Lotte+Museum+of+Art+Seoul)** — Muzeum sztuki współczesnej z ambitnymi wystawami międzynarodowymi; otwarte codziennie 10:30–19:00 (ostatnie wejście 18:30). | DSP obejmuje, inaczej ~20,000 dorosły / 13,000 młodzież i dziecko KRW |
-| 17:00 | Spacer wokół **[★★☆☆☆ 🌳🚶 Seokchon Lake](https://www.google.com/maps/search/Seokchon+Lake+Seoul)** — Widokowe jezioro okalające Lotte World. |  |
+| 13:30 | *(Opcjonalny wybór dla dzieci — przyległy kompleks Lotte World, 4 piętro; pomijaj jako pierwsze, jeśli park się przedłuża.)* **[★★★☆☆ 🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) [N](https://map.naver.com/p/search/키자니아%20서울)** — Miasteczko zawodów w skali dziecka: 90+ profesji (pilot, chirurg, strażak, prezenter wiadomości) dla wieku 4–14, wielki hit u 9- i 11-latka. Zajmuje 3–4 h, więc traktuj to jako **wymianę** za popołudniową sesję w Lotte World (albo kup osobny bilet), nie jako dodatek. | ~35,000 KRW (sprawdź progi wiekowe) |
+| 15:00 | **[★★★★☆ 🗼🧒 Seoul Sky](https://www.google.com/maps/search/Lotte+World+Tower+Seoul) [N](https://map.naver.com/p/search/롯데월드타워)** — Taras widokowy ze szklaną podłogą na wysokości 500 m w Lotte World Tower (piętra 117-123). Najwyższy w Korei. | dziecko(3-12) 27k / dorosły(13+) 31k KRW |
+| 16:00 | *(Opcjonalna przerwa na sztukę w klimatyzacji — 7 piętro kompleksu Avenuel/Lotte World Tower, otwarte w pon.; pomiń, jeśli park + Seoul Sky już wypełniły dzień.)* **[★★★★☆ 🏛️🎨🎫 LOTTE Museum of Art (LOMA)](https://www.google.com/maps/search/Lotte+Museum+of+Art+Seoul) [N](https://map.naver.com/p/search/롯데뮤지엄)** — Muzeum sztuki współczesnej z ambitnymi wystawami międzynarodowymi; otwarte codziennie 10:30–19:00 (ostatnie wejście 18:30). | DSP obejmuje, inaczej ~20,000 dorosły / 13,000 młodzież i dziecko KRW |
+| 17:00 | Spacer wokół **[★★☆☆☆ 🌳🚶 Seokchon Lake](https://www.google.com/maps/search/Seokchon+Lake+Seoul) [N](https://map.naver.com/p/search/석촌호수)** — Widokowe jezioro okalające Lotte World. |  |
 | 18:00 | **Songnidan-gil** — Modna ulica jedzeniowa na południe od jeziora. |  |
 | 18:30 | **⚖️ Wybierz jedno — przystanek na kawę.** Megakawiarnia w leśnym stylu vs. koreańskie kręcone pączki. |  |
-|  | **Opcja A ·** **[★★☆☆☆ ☕ Mountain Nook](https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul)** — Megakawiarnia w leśnym stylu. |  |
-|  | **Opcja B ·** **[★★☆☆☆ ☕ Bontemps](https://www.google.com/maps/search/Bontemps+Songnidan+Seoul)** — Koreańskie kręcone pączki. |  |
+|  | **Opcja A ·** **[★★☆☆☆ ☕ Mountain Nook](https://www.google.com/maps/search/Mountain+Nook+cafe+Songpa+Seoul) [N](https://map.naver.com/p/search/Mountain%20Nook%20송파)** — Megakawiarnia w leśnym stylu. |  |
+|  | **Opcja B ·** **[★★☆☆☆ ☕ Bontemps](https://www.google.com/maps/search/Bontemps+Songnidan+Seoul) [N](https://map.naver.com/p/search/Bontemps%20송리단길)** — Koreańskie kręcone pączki. |  |
 | 19:30 | **⚖️ Wybierz jedno — kolacja.** Oba to pizza: w stylu Detroit vs. z pieca opalanego drewnem. |  |
-|  | **Opcja A ·** **[★★☆☆☆ 🍜 Motor City](https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul)** — Pizza w stylu Detroit. |  |
-|  | **Opcja B ·** **[★★☆☆☆ 🍜 Pizzeria Lago](https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul)** — Pizza z pieca opalanego drewnem. |  |
+|  | **Opcja A ·** **[★★☆☆☆ 🍜 Motor City](https://www.google.com/maps/search/Motor+City+pizza+Songnidan+Seoul) [N](https://map.naver.com/p/search/Motor%20City%20송리단길)** — Pizza w stylu Detroit. |  |
+|  | **Opcja B ·** **[★★☆☆☆ 🍜 Pizzeria Lago](https://www.google.com/maps/search/Pizzeria+Lago+Songnidan+Seoul) [N](https://map.naver.com/p/search/Pizzeria%20Lago%20송리단길)** — Pizza z pieca opalanego drewnem. |  |
 
 ---
 
 ## Also Nearby
 
 ### Więcej do zobaczenia
-- [★★☆☆☆ 🌳 Olympic Park](https://www.google.com/maps/search/Olympic+Park+Seoul) — Teren Igrzysk Olimpijskich w Seoulu 1988; ogromna przestrzeń zieleni, rzeźby, Peace Gate
+- [★★☆☆☆ 🌳 Olympic Park](https://www.google.com/maps/search/Olympic+Park+Seoul) [N](https://map.naver.com/p/search/올림픽공원) — Teren Igrzysk Olimpijskich w Seoulu 1988; ogromna przestrzeń zieleni, rzeźby, Peace Gate
 - 🌳🧒 Rowerki wodne na Seokchon Lake — Sezonowo
 
 ### Więcej kawiarni
-- [★★☆☆☆ ☕ Lala Bread](https://www.google.com/maps/search/Lala+Bread+Songnidan+Seoul) — Można patrzeć na wypiek świeżego chleba; słynne wypieki
+- [★★☆☆☆ ☕ Lala Bread](https://www.google.com/maps/search/Lala+Bread+Songnidan+Seoul) [N](https://map.naver.com/p/search/Lala%20Bread%20송리단길) — Można patrzeć na wypiek świeżego chleba; słynne wypieki
 
 ### Więcej jedzenia
-- [★★☆☆☆ 🍜🚶 Bangimatol Food Alley](https://www.google.com/maps/search/Bangimatol+Bangi+Seoul) — „Ulica smakoszy" pełna najlepszych restauracji
+- [★★☆☆☆ 🍜🚶 Bangimatol Food Alley](https://www.google.com/maps/search/Bangimatol+Bangi+Seoul) [N](https://map.naver.com/p/search/방이맛골) — „Ulica smakoszy" pełna najlepszych restauracji

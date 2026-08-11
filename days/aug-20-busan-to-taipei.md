@@ -40,10 +40,10 @@ Poranek w podróży — brak trasy zwiedzania. Lotnisko Gimhae → lotnisko Taoy
 
 ### Dodatki na poranek w Busan (tylko jeśli przestawicie plan)
 Przy locie o 9:00 **nie ma poranka w Busan**. Żeby zaliczyć którekolwiek z tych miejsc, wciśnijcie je w **19 sie** albo zamieńcie dzień:
-- [★★★☆☆ 🚡🧒 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan) — 1,62 km nad oceanem, Crystal Cabin (szklana podłoga!)
-- [★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium) — 250 gatunków, tunel oceaniczny, budowle z LEGO
-- [★★★☆☆ ♨️ Spa Land at Shinsegae](https://www.google.com/maps/search/Shinsegae+Centum+City+Busan) — jjimjilbang z 22 tematycznymi saunami
-- [★★★☆☆ 🌳🚶 Taejongdae Resort Park](https://www.google.com/maps/search/Taejongdae+Busan) — Nadmorskie klify, Yeongdo Lighthouse, Danubi Train; szlak 3,5 km
-- [★★★★☆ 🗼☕ Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) — Taras widokowy na piętrach 98-100; także najwyższy Starbucks na świecie
-- [★★★☆☆ 🏛️🧒 Busan National Science Museum](https://www.google.com/maps/search/Busan+National+Science+Museum) — Interaktywne eksponaty, symulacje kosmiczne, robotyka; świetne dla 9+
-- [★★☆☆☆ 📸🧒 Trick Eye Museum Haeundae](https://www.google.com/maps/search/Trick+Eye+Museum+Haeundae+Busan) — Immersyjne złudzenia optyczne
+- [★★★☆☆ 🚡🧒 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan) [N](https://map.naver.com/p/search/송도해상케이블카) — 1,62 km nad oceanem, Crystal Cabin (szklana podłoga!)
+- [★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium) [N](https://map.naver.com/p/search/씨라이프%20부산아쿠아리움) — 250 gatunków, tunel oceaniczny, budowle z LEGO
+- [★★★☆☆ ♨️ Spa Land at Shinsegae](https://www.google.com/maps/search/Shinsegae+Centum+City+Busan) [N](https://map.naver.com/p/search/신세계백화점%20센텀시티점) — jjimjilbang z 22 tematycznymi saunami
+- [★★★☆☆ 🌳🚶 Taejongdae Resort Park](https://www.google.com/maps/search/Taejongdae+Busan) [N](https://map.naver.com/p/search/태종대) — Nadmorskie klify, Yeongdo Lighthouse, Danubi Train; szlak 3,5 km
+- [★★★★☆ 🗼☕ Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) [N](https://map.naver.com/p/search/부산엑스더스카이) — Taras widokowy na piętrach 98-100; także najwyższy Starbucks na świecie
+- [★★★☆☆ 🏛️🧒 Busan National Science Museum](https://www.google.com/maps/search/Busan+National+Science+Museum) [N](https://map.naver.com/p/search/국립부산과학관) — Interaktywne eksponaty, symulacje kosmiczne, robotyka; świetne dla 9+
+- [★★☆☆☆ 📸🧒 Trick Eye Museum Haeundae](https://www.google.com/maps/search/Trick+Eye+Museum+Haeundae+Busan) [N](https://map.naver.com/p/search/트릭아이미술관%20해운대) — Immersyjne złudzenia optyczne
