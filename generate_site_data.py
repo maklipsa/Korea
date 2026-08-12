@@ -37,7 +37,7 @@ VERSIONED_ASSETS = ("style.css", "firebase-config.js", "data.js", "app.js")
 # Acronyms to keep uppercase when title-casing an ALL-CAPS heading.
 ACRONYMS = {
     "DMZ", "DDP", "NPM", "COEX", "HSR", "KTX", "TPE", "PUS", "ICN",
-    "MRT", "BTS", "SEA", "LIFE", "UNESCO",
+    "MRT", "BTS", "SEA", "LIFE", "UNESCO", "MMCA", "HOMA",
 }
 # Words kept lowercase in a title unless they are the first word.
 # English leftovers (district names, "Day Trip from …") plus the Polish

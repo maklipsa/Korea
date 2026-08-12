@@ -46,11 +46,11 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 | Dzień | Data | Podsumowanie | Link |
 |-----|------|---------|------|
 | 1 | 11 sie (wt) | Przylot do Seoul + Cheonggyecheon + DDP + Ikseon-dong | [aug-11-arrive-seoul.md](days/aug-11-arrive-seoul.md) |
-| 2 | 12 sie (śr) | Pałace + Seochon + Bukchon + Insadong (kolacja do ustalenia) | [aug-12-palaces-seochon.md](days/aug-12-palaces-seochon.md) |
+| 2 | 12 sie (śr) | Gyeongbokgung + muzea pałacowe + Bukchon + MMCA i Kumho (resztę przeniesiono na 16 sie) | [aug-12-palaces-seochon.md](days/aug-12-palaces-seochon.md) |
 | 3 | 13 sie (czw) | Wycieczka do DMZ + War Memorial + Itaewon/Hannam | [aug-13-dmz-itaewon.md](days/aug-13-dmz-itaewon.md) |
 | 4 | 14 sie (pt) | Hongdae + Yeonnam + Mangwon (zwierzęta, dziwne lody, busking) + samgyetang na Malbok | [aug-14-hongdae-yeonnam.md](days/aug-14-hongdae-yeonnam.md) |
 | 5 | 15 sie (sob) | Dzień Wyzwolenia: Nami Island + Gapyeong (zip-line, prom do świątyni nad jeziorem Soyang) | [aug-15-nami-island.md](days/aug-15-nami-island.md) |
-| 6 | 16 sie (niedz) | Myeongdong + Namsan Tower + Namdaemun + Euljiro | [aug-16-myeongdong-namsan.md](days/aug-16-myeongdong-namsan.md) |
+| 6 | 16 sie (niedz) | Namsan Tower + Myeongdong + Jongno nadrobione z 12 sie (Museum Hanmi, Kukje, Changdeokgung, Insadong) | [aug-16-myeongdong-namsan.md](days/aug-16-myeongdong-namsan.md) |
 | 7 | 17 sie (pon) | Lotte World + Seoul Sky + Songnidan-gil | [aug-17-lotte-world.md](days/aug-17-lotte-world.md) |
 | 8 | 18 sie (wt) | Seoul Forest + Seongsu + COEX → KTX do Busan | [aug-18-seoul-to-busan.md](days/aug-18-seoul-to-busan.md) |
 | 9 | 19 sie (śr) | Cały dzień w Busan (świątynia, Gamcheon, Jagalchi, targi) | [aug-19-busan.md](days/aug-19-busan.md) |
