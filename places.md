@@ -18,6 +18,8 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 
 **Zakres passa:** 🎫 wstęp wolny z **Discover Seoul Pass** (tylko Seoul; ~75 atrakcji z bezpłatnym wejściem — czy pass się opłaca, patrz [cards/seoul.md](cards/seoul.md)). Oznacza wyłącznie bezpłatny *wstęp* — dodatki takie jak kolejka linowa na Namsan, zipline na Nami czy Secret Garden w Changdeokgung są nadal płatne.
 
+**Dziennik podróży:** ✅ **Widziane** — byliśmy, z naszą oceną po fakcie w skali 1–5 (np. `✅ **Widziane: Dzień 1 (11 sie) — 4/5**`) · ⏭️ **Pominięte** — było w planie dnia, ale odpuściliśmy. To osobna skala od gwiazdek ★ z przodu nazwy — te zostają, bo mówią, jak ważne było miejsce **przy planowaniu**.
+
 ---
 
 ## KOREA — SEOUL
@@ -35,7 +37,7 @@ Wszystko do obejścia pieszo w jednym ciągu — historyczne serce Seoulu.
 - [★★★★★ 🏯🌳🎫 Changdeokgung Palace & Secret Garden](https://www.google.com/maps/search/Changdeokgung+Palace+Seoul) [N](https://map.naver.com/p/search/창덕궁) — Światowe dziedzictwo UNESCO; do Secret Garden wymagane zwiedzanie z przewodnikiem 📅 **Dzień 2 (12 sie)**
 - [★★★☆☆ 🏯🎫 Changgyeonggung Palace](https://www.google.com/maps/search/Changgyeonggung+Palace+Seoul) [N](https://map.naver.com/p/search/창경궁) — Mniej zatłoczony pałac, piękny wieczorem podczas sezonowych iluminacji 📅 *blisko: Dzień 2 (12 sie)*
 - [★★★★☆ 🏯🎫 Jongmyo Shrine](https://www.google.com/maps/search/Jongmyo+Shrine+Seoul) [N](https://map.naver.com/p/search/종묘) — Konfucjański chram królewski, UNESCO 📅 **Dzień 2 (12 sie)**
-- [★★★☆☆ 🏯 Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) [N](https://map.naver.com/p/search/조계사) — Główna świątynia buddyzmu zen; olbrzymie stare drzewa i zdobne lampiony 📅 *blisko: Dzień 2 (12 sie)*
+- [★★★☆☆ 🏯 Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) [N](https://map.naver.com/p/search/조계사) — Główna świątynia buddyzmu zen; olbrzymie stare drzewa i zdobne lampiony ✅ **Widziane: Dzień 1 (11 sie) — 5/5** 📅 **Dzień 1 (11 sie)** · *blisko: Dzień 2 (12 sie)*
 - [★★★★★ 🚶🏯 Bukchon Hanok Village](https://www.google.com/maps/search/Bukchon+Hanok+Village+Seoul) [N](https://map.naver.com/p/search/북촌한옥마을) — 600+ tradycyjnych domów; **Red Zone (Bukchon-ro 11-gil) zamknięta dla turystów 17:00-10:00, przepis obowiązuje od listopada 2024, mandat 100,000 KRW** 📅 **Dzień 2 (12 sie)**
 - [~~★☆☆☆☆ 🏯 Cheongwadae (former Blue House)~~](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) [N](https://map.naver.com/p/search/청와대) — ⚠️ ZAMKNIĘTE dla zwiedzających od sierpnia 2025 (prezydent wrócił do rezydencji); zwiedzanie zawieszone na 2026 — pomiń 📅 *blisko: Dzień 2 (12 sie)*
 - [★★☆☆☆ 🌳🏯 Tapgol Park](https://www.google.com/maps/search/Tapgol+Park+Seoul) [N](https://map.naver.com/p/search/탑골공원) — Historyczny park z 10-kondygnacyjną marmurową pagodą; miejsce Ruchu Niepodległościowego 1 Marca 📅 *blisko: Dzień 2 (12 sie)*
@@ -45,7 +47,7 @@ Wszystko do obejścia pieszo w jednym ciągu — historyczne serce Seoulu.
 #### Parki i spacery
 - [★★☆☆☆ 🌳 Samcheong Park](https://www.google.com/maps/search/Samcheong+Park+Seoul) [N](https://map.naver.com/p/search/삼청공원) — Brama na szlak górski Bugaksan i mury miejskie Seoulu 📅 *blisko: Dzień 2 (12 sie)*
 - [★★★☆☆ 🌳 Bugaksan Mountain Trail](https://www.google.com/maps/search/Bugaksan+Seoul) [N](https://map.naver.com/p/search/북악산) — Wędrówka wzdłuż murów twierdzy Seoul z panoramicznymi widokami 📅 *blisko: Dzień 2 (12 sie)*
-- [★★★☆☆ 🌳🚶 Cheonggyecheon Stream](https://www.google.com/maps/search/Cheonggyecheon+Stream+Seoul) [N](https://map.naver.com/p/search/청계천) — 10 km odtworzonej promenady nad miejskim strumieniem; kamienie do przechodzenia i sezonowe instalacje świetlne 📅 **Dzień 1 (11 sie)**
+- [★★★☆☆ 🌳🚶 Cheonggyecheon Stream](https://www.google.com/maps/search/Cheonggyecheon+Stream+Seoul) [N](https://map.naver.com/p/search/청계천) — 10 km odtworzonej promenady nad miejskim strumieniem; kamienie do przechodzenia i sezonowe instalacje świetlne ✅ **Widziane: Dzień 1 (11 sie) — 3/5** 📅 **Dzień 1 (11 sie)**
 - [★★☆☆☆ 🌳 Naksan Park](https://www.google.com/maps/search/Naksan+Park+Seoul) [N](https://map.naver.com/p/search/낙산공원) — Mniej turystyczny odcinek murów miejskich Seoulu z widokami na miasto 📅 *blisko: Dzień 1 (11 sie)*
 - [★★☆☆☆ 🚶🎨 Ihwa Mural Village](https://www.google.com/maps/search/Ihwa+Mural+Village+Seoul) [N](https://map.naver.com/p/search/이화벽화마을) — Osiedle na zboczu pełne murali i street artu, przy spacerze wzdłuż murów w Naksan Park, powyżej Heunginjimun; bezpłatnie, miejscami wyblakłe, ale przyjemna wędrówka w górę z widokami na miasto. 📅 *blisko: Dzień 1 (11 sie)*
 
@@ -68,7 +70,7 @@ Wszystko do obejścia pieszo w jednym ciągu — historyczne serce Seoulu.
 - [★★☆☆☆ ☕ Jilsiru Tteok Cafe](https://www.google.com/maps/search/Jilsiru+Tteok+Cafe+Insadong+Seoul) [N](https://map.naver.com/p/search/질시루%20인사동) — Kawiarnia z tradycyjnymi koreańskimi ciastkami ryżowymi; dziesiątki odmian tteok 📅 *blisko: Dzień 2 (12 sie)*
 
 #### Dziwne / ciekawe jedzenie
-- [★★★★★ 🍜🛍️ Gwangjang Market](https://www.google.com/maps/search/Gwangjang+Market+Seoul) [N](https://map.naver.com/p/search/광장시장) — Pierwszy stały targ w Korei (1905); bindaetteok (placki z fasoli mung ~5,000 won), mayak gimbap („uzależniające" mini rolki ryżowe ~3,000 won), yukhoe (tatar z surowej wołowiny z żółtkiem), sundae (kaszanka), Knife-Cut Noodle Lady z Netflixa; WEŹ GOTÓWKĘ; najlepiej w dni powszednie z rana 📅 **Dzień 2 (12 sie)**
+- [★★★★★ 🍜🛍️ Gwangjang Market](https://www.google.com/maps/search/Gwangjang+Market+Seoul) [N](https://map.naver.com/p/search/광장시장) — Pierwszy stały targ w Korei (1905); bindaetteok (placki z fasoli mung ~5,000 won), mayak gimbap („uzależniające" mini rolki ryżowe ~3,000 won), yukhoe (tatar z surowej wołowiny z żółtkiem), sundae (kaszanka), Knife-Cut Noodle Lady z Netflixa; WEŹ GOTÓWKĘ; najlepiej w dni powszednie z rana ✅ **Widziane: Dzień 1 (11 sie) — 4/5** 📅 **Dzień 1 (11 sie)**
 
 #### Deserty i lody
 - [★☆☆☆☆ ☕ Scooper Gelato Jongno](https://www.google.com/maps/search/Scooper+Gelato+Jongno+Seoul) [N](https://map.naver.com/p/search/스쿠퍼젤라또%20종로) — Croissant z gelato i szynką: szynka parmeńska, waniliowe gelato i czarny pieprz 📅 *blisko: Dzień 2 (12 sie)*
@@ -102,10 +104,10 @@ Zakupy, street food, widoki na miasto i ukryte retro bary.
 - [★★★☆☆ 🚡 Namsan Cable Car](https://www.google.com/maps/search/Namsan+Cable+Car+Seoul) [N](https://map.naver.com/p/search/남산케이블카) — Widokowy 3-minutowy przejazd gondolą 📅 **Dzień 6 (16 sie)**
 - [★★★☆☆ 🏯 Namdaemun (Sungnyemun Gate)](https://www.google.com/maps/search/Namdaemun+Gate+Seoul) [N](https://map.naver.com/p/search/숭례문) — Skarb Narodowy nr 1; Wielka Brama Południowa, zbudowana w 1398 📅 **Dzień 6 (16 sie)**
 - [★★☆☆☆ ⛪ Myeongdong Cathedral](https://www.google.com/maps/search/Myeongdong+Cathedral+Seoul) [N](https://map.naver.com/p/search/명동성당) — Gotycka katedra (1898); najstarszy kościół parafialny w Seoulu 📅 *blisko: Dzień 6 (16 sie)*
-- [★★★☆☆ 📸🎨 Dongdaemun Design Plaza (DDP)](https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul) [N](https://map.naver.com/p/search/동대문디자인플라자) — Ikoniczny budynek Zahy Hadid; futurystyczne krzywe + LED Rose Garden na zewnątrz, **Design Museum i zmienne (często interaktywne) wystawy w środku** — wejdź choćby po AC. 10:00–20:00; teren zewnętrzny bezpłatny, część wystaw biletowana (program na sierpień 2026 niepotwierdzony); zwiedzanie dachu do rezerwacji. 📅 **Dzień 1 (11 sie)**
+- [★★★☆☆ 📸🎨 Dongdaemun Design Plaza (DDP)](https://www.google.com/maps/search/Dongdaemun+Design+Plaza+Seoul) [N](https://map.naver.com/p/search/동대문디자인플라자) — Ikoniczny budynek Zahy Hadid; futurystyczne krzywe + LED Rose Garden na zewnątrz, **Design Museum i zmienne (często interaktywne) wystawy w środku** — wejdź choćby po AC. 10:00–20:00; teren zewnętrzny bezpłatny, część wystaw biletowana (program na sierpień 2026 niepotwierdzony); zwiedzanie dachu do rezerwacji. ✅ **Widziane: Dzień 1 (11 sie) — 4/5** 📅 **Dzień 1 (11 sie)**
 - [★★★☆☆ 🏛️🧒 Dongdaemun History Museum (1398) + Igansu Gate i wykopaliska murów miejskich](https://www.google.com/maps/search/Dongdaemun+History+Museum+Seoul) [N](https://map.naver.com/p/search/동대문역사관) — Wykopane zabytki z czasów Joseon, plany wykopalisk wyryte w podłodze, doświadczenia AR oraz zachowana łukowa śluza (Igansumun) i oryginalne odcinki murów miejskich Seoulu w parku DDP. 10:00–18:00, zamknięte w pon.; bezpłatnie. 📅 **Dzień 1 (11 sie)**
 - [★★☆☆☆ 🏯 Heunginjimun (Dongdaemun Gate)](https://www.google.com/maps/search/Heunginjimun+Dongdaemun+Seoul) [N](https://map.naver.com/p/search/흥인지문) — Oryginalna brama twierdzy Seoul, zbudowana w 1398 📅 **Dzień 1 (11 sie)**
-- [★★★☆☆ 🏛️ Seoul City Wall Museum (Hanyangdoseong)](https://www.google.com/maps/search/Seoul+City+Wall+Museum+Seoul) [N](https://map.naver.com/p/search/한양도성박물관) — Solidne muzeum historii twierdzy Hanyang (sale stałe + czasowe, duży model w skali) w Dongdaemun City Wall Park przy Heunginjimun. 09:00–18:00 (ostatnie wejście 17:30), zamknięte w pon.; bezpłatnie. 📅 **Dzień 1 (11 sie)**
+- [★★★☆☆ 🏛️ Seoul City Wall Museum (Hanyangdoseong)](https://www.google.com/maps/search/Seoul+City+Wall+Museum+Seoul) [N](https://map.naver.com/p/search/한양도성박물관) — Solidne muzeum historii twierdzy Hanyang (sale stałe + czasowe, duży model w skali) w Dongdaemun City Wall Park przy Heunginjimun. 09:00–18:00 (ostatnie wejście 17:30), zamknięte w pon.; bezpłatnie. ⏭️ **Pominięte: Dzień 1 (11 sie)** 📅 **Dzień 1 (11 sie)**
 - [★★☆☆☆ 🛍️ Sewoon Sangga](https://www.google.com/maps/search/Sewoon+Sangga+Seoul) [N](https://map.naver.com/p/search/세운상가) — Wielkie centrum elektroniki i majsterkowania z lat 60.; ogród na dachu z widokami na miasto 📅 **Dzień 6 (16 sie)**
 
 #### Parki i spacery
@@ -136,7 +138,7 @@ Zakupy, street food, widoki na miasto i ukryte retro bary.
 
 #### Nocne targi
 - ★★★☆☆ 🏮 Nocny targ w Myeongdong — 100-150+ straganów z jedzeniem codziennie wieczorem 16:00–23:00; ogon homara z serem, grillowana kałamarnica, egg bread
-- [★★★★★ 🍜🛍️ Gwangjang Market](https://www.google.com/maps/search/Gwangjang+Market+Seoul) [N](https://map.naver.com/p/search/광장시장) — Patrz wyżej (graniczy z Dongdaemun) 📅 **Dzień 2 (12 sie)**
+- [★★★★★ 🍜🛍️ Gwangjang Market](https://www.google.com/maps/search/Gwangjang+Market+Seoul) [N](https://map.naver.com/p/search/광장시장) — Patrz wyżej (graniczy z Dongdaemun) ✅ **Widziane: Dzień 1 (11 sie) — 4/5** 📅 **Dzień 1 (11 sie)**
 
 #### Dla dzieci
 - ★★★★★ 🗼🎫 N Seoul Tower — Cyfrowe obserwatorium, taras z kłódkami miłości
@@ -476,7 +478,7 @@ Druga, bardziej niszowa runda — galerie, dodatkowe góry, wyspecjalizowane uli
 - [★★★★☆ 🏛️🎨 SONGEUN Art and Cultural Foundation](https://www.google.com/maps/search/SONGEUN+Art+Cultural+Foundation+Seoul) [N](https://map.naver.com/p/search/송은문화재단) — Bezpłatna sztuka współczesna w spektakularnym betonowym budynku Herzog & de Meuron, Cheongdam. Pon.–sob. 11:00–19:00, zamknięte w niedz. (sprawdź); bezpłatnie.
 - [★★★★☆ 🏛️🎨 K Museum of Contemporary Art](https://www.google.com/maps/search/K+Museum+of+Contemporary+Art+Seoul) [N](https://map.naver.com/p/search/K현대미술관) — Największe muzeum sztuki w Gangnam (6 pięter, Seolleung); immersyjne wystawy współczesne oparte na mediach. 10:00–19:00, zamknięte w pon.; ~15,000 wonów (zniżki dla uczniów i dzieci).
 - [★★★★☆ 🏛️🎨 SOMA — Seoul Olympic Museum of Art](https://www.google.com/maps/search/SOMA+Seoul+Olympic+Museum+of+Art) [N](https://map.naver.com/p/search/소마미술관) — Muzeum sztuki współczesnej + park rzeźby pod otwartym niebem w Olympic Park (Songpa). Wt.–niedz. 10:00–18:00 (ostatnie wejście 17:00), bezpłatnie (część wystaw płatna). ⚠️ **Zamknięte w pon. — czyli NIE 17 sie (pon.);** teren z rzeźbami pozostaje otwarty, jeśli tylko przechodzicie.
-- [★★★★★ 🎨📷 piknic](https://www.google.com/maps/search/piknic+Seoul) [N](https://map.naver.com/p/search/피크닉%20중구) — Kultowa przestrzeń sztuki, designu i fotografii w przebudowanym budynku z lat 70. blisko Namsan/Seoul Station (były tu wystawy Saula Leitera i Ryuichiego Sakamoto); znakomity taras na dachu. Wt.–niedz. 10:00–18:00 (ostatnie wejście 17:00), zamknięte w pon.; ~15,000 wonów, bilety na godzinę — **sprawdź wystawę na sie. 2026 i zarezerwuj z wyprzedzeniem.** ⚠️ Opcja na dzień 1 **tylko jeśli zrobicie to wprost z lotniska (AREX → Seoul Station) *przed* zameldowaniem w hotelu** — blisko końcowej stacji AREX; w przeciwnym razie pomińcie w dniu przylotu. 📅 **Dzień 1 (11 sie)**
+- [★★★★★ 🎨📷 piknic](https://www.google.com/maps/search/piknic+Seoul) [N](https://map.naver.com/p/search/피크닉%20중구) — Kultowa przestrzeń sztuki, designu i fotografii w przebudowanym budynku z lat 70. blisko Namsan/Seoul Station (były tu wystawy Saula Leitera i Ryuichiego Sakamoto); znakomity taras na dachu. Wt.–niedz. 10:00–18:00 (ostatnie wejście 17:00), zamknięte w pon.; ~15,000 wonów, bilety na godzinę — **sprawdź wystawę na sie. 2026 i zarezerwuj z wyprzedzeniem.** ⚠️ Opcja na dzień 1 **tylko jeśli zrobicie to wprost z lotniska (AREX → Seoul Station) *przed* zameldowaniem w hotelu** — blisko końcowej stacji AREX; w przeciwnym razie pomińcie w dniu przylotu. ✅ **Widziane: Dzień 1 (11 sie) — 5/5 — bardzo dobre** 📅 **Dzień 1 (11 sie)**
 - [★★★★☆ 🏛️🎨🎫 Space K Seoul](https://www.google.com/maps/search/Space+K+Seoul+Magok) [N](https://map.naver.com/p/search/스페이스K%20서울) — Bezpłatne muzeum sztuki współczesnej (Kolon) w falującym budynku z trawiastym dachem, Magok. ~10:00–18:00, zamknięte w pon. (sprawdź); bezpłatnie. ⚠️ Daleko na zachodzie (Gangseo) — poza trasą dni w Gangnam i Seongsu.
 - [★★★★☆ 🏛️🎨 Whanki Museum (Buam-dong)](https://www.google.com/maps/search/Whanki+Museum+Seoul) [N](https://map.naver.com/p/search/환기미술관) — Muzeum mistrza abstrakcji Kima Whankiego w nagradzanym budynku Kyu Sung Woo (Nagroda Kima Swoo-geuna 1994); ponownie otwarte po remoncie 2024–25. 10:00–18:00 (ostatnie 17:00), zamknięte w pon.; wstęp zależy od wystawy (~₩12,000–18,000 dorosły, zniżka dla uczniów i młodzieży) — sprawdź. Buam-dong, autobus od Gyeongbokgung.
 - [★★★★☆ 🏛️🎨 Kansong Art Museum (Bohwagak)](https://www.google.com/maps/search/Kansong+Art+Museum+Seoul) [N](https://map.naver.com/p/search/간송미술관) — Pierwsze prywatne muzeum w Korei; niedościgniona kolekcja malarstwa klasycznego (Sin Yun-bok, Jeong Seon) + skarby narodowe. ⚠️ Otwierane TYLKO na wiosenne i jesienne wystawy specjalne (po ~45 dni) — **spodziewajcie się, że w sierpniu będzie ZAMKNIĘTE**; sprawdź daty na 2026. Seongbuk-dong, stacja Hansung Univ.
@@ -657,12 +659,12 @@ Pogrupowane według dzielnic.
 - [★★★★☆ 🌳 Haeundae Beach](https://www.google.com/maps/search/Haeundae+Beach+Busan) [N](https://map.naver.com/p/search/해운대해수욕장) — Najbardziej ikoniczna plaża Busan: 1,5 km białego piasku 📅 **Dzień 8 (18 sie)**
 - [★★★★★ 🏯 Haedong Yonggungsa Temple](https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan) [N](https://map.naver.com/p/search/해동용궁사) — Świątynia nad oceanem zbudowana w 1376 r.; dojście po 108 kamiennych stopniach w dół; najlepiej o wschodzie słońca; wstęp wolny 📅 **Dzień 9 (19 sie)**
 - [★★★☆☆ 🌳 Dongbaekseom (Dongbaek Island)](https://www.google.com/maps/search/Dongbaekseom+Busan) [N](https://map.naver.com/p/search/동백섬) — Nadmorska ścieżka od Haeundae Beach; APEC Nurimaru House; wstęp wolny 📅 **Dzień 8 (18 sie)**
-- [★★★★☆ 🗼 Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) [N](https://map.naver.com/p/search/부산엑스더스카이) — Taras widokowy na 98.–100. piętrze LCT Tower; także najwyższy Starbucks na świecie 📅 **Dzień 8 (18 sie)** · *blisko: Dzień 10 (20 sie)*
-- [★★★☆☆ 🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan) [N](https://map.naver.com/p/search/달맞이고개) — „Wzgórze Księżycowe"; galerie sztuki, kawiarnie, wiśnie; świetne widoki na zachód słońca 📅 **Dzień 8 (18 sie)**
+- [★★★★☆ 🗼 Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) [N](https://map.naver.com/p/search/부산엑스더스카이) — Taras widokowy na 98.–100. piętrze LCT Tower; także najwyższy Starbucks na świecie 📅 **Dzień 8 (18 sie)** · *blisko: Dni 10, 11 (20, 21 sie)*
+- [★★★☆☆ 🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan) [N](https://map.naver.com/p/search/달맞이고개) — „Wzgórze Księżycowe"; galerie sztuki, kawiarnie, wiśnie; świetne widoki na zachód słońca 📅 **Dni 8, 10 (18, 20 sie)**
 
 #### Sztuka i fotografia
-- [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) [N](https://map.naver.com/p/search/고은사진미술관) — Jedyne w Busan **muzeum fotografii artystycznej** (Haeundae, blisko plaży); prawdziwa galeria fotografii. **Wstęp wolny**; 10:00–18:00, **zamknięte w pon.** ⏰ Otwiera o 10:00 — w napiętym dniu 19 sie konkuruje z porankiem w Haeundae; naturalna wymiana to odpuszczenie płatnego przejazdu Sky Capsule na rzecz muzeum. 📅 *blisko: Dzień 9 (19 sie)*
-- [★★★★☆ 🎨 Johyun Gallery](https://www.google.com/maps/search/Johyun+Gallery+Busan) [N](https://map.naver.com/p/search/조현화랑) — Flagowa galeria sztuki współczesnej w Busan, przy Dalmaji-gil (Haeundae); reprezentuje Nam June Paika, Juliana Opie, Georges'a Rousse'a; malarstwo/rzeźba/instalacja. Wstęp wolny; wt.–niedz. 10:00–19:00, zamknięte w pon. **Łączy się z Dalmaji Hill + GoEun** w jedną oś sztuki w Haeundae.
+- [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) [N](https://map.naver.com/p/search/고은사진미술관) — Jedyne w Busan **muzeum fotografii artystycznej** (Haeundae, blisko plaży); prawdziwa galeria fotografii. **Wstęp wolny**; 10:00–18:00, **zamknięte w pon.** ⏰ Otwiera o 10:00 — w napiętym dniu 19 sie konkuruje z porankiem w Haeundae; naturalna wymiana to odpuszczenie płatnego przejazdu Sky Capsule na rzecz muzeum. 📅 **Dzień 10 (20 sie)** · *blisko: Dzień 9 (19 sie)*
+- [★★★★☆ 🎨 Johyun Gallery](https://www.google.com/maps/search/Johyun+Gallery+Busan) [N](https://map.naver.com/p/search/조현화랑) — Flagowa galeria sztuki współczesnej w Busan, przy Dalmaji-gil (Haeundae); reprezentuje Nam June Paika, Juliana Opie, Georges'a Rousse'a; malarstwo/rzeźba/instalacja. Wstęp wolny; wt.–niedz. 10:00–19:00, zamknięte w pon. **Łączy się z Dalmaji Hill + GoEun** w jedną oś sztuki w Haeundae. 📅 **Dzień 10 (20 sie)**
 - [★★★☆☆ 🎨 Gallery Woo](https://www.google.com/maps/search/Gallery+Woo+Haeundae+Busan) [N](https://map.naver.com/p/search/갤러리우) — Uznana galeria komercyjna w Busan (koreańskie współczesne malarstwo/rzeźba/ceramika) w hotelowym pasie Haeundae. Wstęp wolny; godziny zależą od wystawy — sprawdź.
 
 #### Nadmorskie spacery i aktywności
@@ -687,9 +689,9 @@ Pogrupowane według dzielnic.
 
 ### Dzielnica Gwangalli
 
-- [★★★★☆ 🌳 Gwangalli Beach](https://www.google.com/maps/search/Gwangalli+Beach+Busan) [N](https://map.naver.com/p/search/광안리해수욕장) — Wyluzowana plaża z nocnym widokiem na most 📅 **Dzień 9 (19 sie)**
+- [★★★★☆ 🌳 Gwangalli Beach](https://www.google.com/maps/search/Gwangalli+Beach+Busan) [N](https://map.naver.com/p/search/광안리해수욕장) — Wyluzowana plaża z nocnym widokiem na most 📅 **Dzień 10 (20 sie)**
 - [★★★☆☆ 📸 Gwangan Bridge](https://www.google.com/maps/search/Gwangan+Bridge+Busan) [N](https://map.naver.com/p/search/광안대교) — Nocą podświetlony zmieniającymi się kolorami; sobotnie wieczorne pokazy dronów (300+ dronów; z plaży bezpłatnie)
-- [★★☆☆☆ 🍜 Millak Raw Fish Center](https://www.google.com/maps/search/Millak+Raw+Fish+Center+Busan) [N](https://map.naver.com/p/search/민락회센터) — Kup świeżą rybę na dole, zanieś na górę do restauracji, która ją poda 📅 *blisko: Dzień 9 (19 sie)*
+- [★★☆☆☆ 🍜 Millak Raw Fish Center](https://www.google.com/maps/search/Millak+Raw+Fish+Center+Busan) [N](https://map.naver.com/p/search/민락회센터) — Kup świeżą rybę na dole, zanieś na górę do restauracji, która ją poda 📅 **Dzień 10 (20 sie)** · *blisko: Dzień 9 (19 sie)*
 
 ---
 
@@ -734,22 +736,22 @@ Pogrupowane według dzielnic.
 ### Centum City / Taejongdae / Songdo / Igidae
 
 #### Centum City
-- [★★★☆☆ 🛍️♨️ Shinsegae Centum City](https://www.google.com/maps/search/Shinsegae+Centum+City+Busan) [N](https://map.naver.com/p/search/신세계백화점%20센텀시티점) — Największy dom towarowy świata według Księgi Guinnessa; w środku Spa Land (jjimjilbang/sauna — świetne na zmęczone nogi), lodowisko, kino 📅 *blisko: Dzień 10 (20 sie)*
+- [★★★☆☆ 🛍️♨️ Shinsegae Centum City](https://www.google.com/maps/search/Shinsegae+Centum+City+Busan) [N](https://map.naver.com/p/search/신세계백화점%20센텀시티점) — Największy dom towarowy świata według Księgi Guinnessa; w środku Spa Land (jjimjilbang/sauna — świetne na zmęczone nogi), lodowisko, kino 📅 *blisko: Dzień 11 (21 sie)*
 
 #### Nadmorskie spacery
-- [★★★☆☆ 🌳 Taejongdae Resort Park](https://www.google.com/maps/search/Taejongdae+Busan) [N](https://map.naver.com/p/search/태종대) — Klify nadmorskie, Yeongdo Lighthouse, kolejka Danubi Train po parku; szlak 3,5 km 📅 *blisko: Dzień 10 (20 sie)*
-- [★★★☆☆ 🚡 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan) [N](https://map.naver.com/p/search/송도해상케이블카) — 1,62 km nad oceanem na wysokości 86 m; wybierz Crystal Cabin (przezroczysta podłoga); przejazd 15-20 min 📅 *blisko: Dzień 10 (20 sie)*
-- [★★★☆☆ 🌳 Igidae Coastal Walk](https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan) [N](https://map.naver.com/p/search/이기대) — Szlak 4,7 km; skały wulkaniczne, groty morskie; zaplanuj 2,5 godziny; do przejścia od 9 lat 📅 **Dzień 9 (19 sie)**
-- [★★★☆☆ 🗼 Oryukdo Skywalk](https://www.google.com/maps/search/Oryukdo+Skywalk+Busan) [N](https://map.naver.com/p/search/오륙도스카이워크) — Szklany pomost wysunięty 35 m nad klifem; wstęp wolny 📅 **Dzień 9 (19 sie)**
+- [★★★☆☆ 🌳 Taejongdae Resort Park](https://www.google.com/maps/search/Taejongdae+Busan) [N](https://map.naver.com/p/search/태종대) — Klify nadmorskie, Yeongdo Lighthouse, kolejka Danubi Train po parku; szlak 3,5 km 📅 **Dzień 10 (20 sie)** · *blisko: Dzień 11 (21 sie)*
+- [★★★☆☆ 🚡 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan) [N](https://map.naver.com/p/search/송도해상케이블카) — 1,62 km nad oceanem na wysokości 86 m; wybierz Crystal Cabin (przezroczysta podłoga); przejazd 15-20 min 📅 **Dzień 10 (20 sie)** · *blisko: Dzień 11 (21 sie)*
+- [★★★☆☆ 🌳 Igidae Coastal Walk](https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan) [N](https://map.naver.com/p/search/이기대) — Szlak 4,7 km; skały wulkaniczne, groty morskie; zaplanuj 2,5 godziny; do przejścia od 9 lat 📅 *blisko: Dzień 10 (20 sie)*
+- [★★★☆☆ 🗼 Oryukdo Skywalk](https://www.google.com/maps/search/Oryukdo+Skywalk+Busan) [N](https://map.naver.com/p/search/오륙도스카이워크) — Szklany pomost wysunięty 35 m nad klifem; wstęp wolny 📅 **Dzień 10 (20 sie)**
 
 #### Świątynie
 - [★★★☆☆ 🏯 Beomeosa Temple](https://www.google.com/maps/search/Beomeosa+Temple+Busan) [N](https://map.naver.com/p/search/범어사) — „Świątynia Ryby Nirwany"; zbudowana w 678 r. n.e.; stare lasy; znacznie mniej turystyczna niż Haedong Yonggungsa 📅 **Dzień 9 (19 sie)**
 
 #### Dla dzieci
-- [★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium) [N](https://map.naver.com/p/search/씨라이프%20부산아쿠아리움) — 250 gatunków; łódź ze szklanym dnem, tunel oceaniczny, karmienie rekinów/pingwinów; jest też Brickman Cities (zabytki z LEGO) 📅 *blisko: Dzień 10 (20 sie)*
-- [★★★☆☆ 🏛️🧒 Busan National Science Museum](https://www.google.com/maps/search/Busan+National+Science+Museum) [N](https://map.naver.com/p/search/국립부산과학관) — Interaktywne eksponaty, symulacje kosmiczne, robotyka; znakomite od 9 lat 📅 *blisko: Dzień 10 (20 sie)*
+- [★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium) [N](https://map.naver.com/p/search/씨라이프%20부산아쿠아리움) — 250 gatunków; łódź ze szklanym dnem, tunel oceaniczny, karmienie rekinów/pingwinów; jest też Brickman Cities (zabytki z LEGO) 📅 *blisko: Dni 10, 11 (20, 21 sie)*
+- [★★★☆☆ 🏛️🧒 Busan National Science Museum](https://www.google.com/maps/search/Busan+National+Science+Museum) [N](https://map.naver.com/p/search/국립부산과학관) — Interaktywne eksponaty, symulacje kosmiczne, robotyka; znakomite od 9 lat 📅 *blisko: Dni 10, 11 (20, 21 sie)*
 - [★★★★☆ 🎡🧒 Lotte World Adventure Busan](https://www.google.com/maps/search/Lotte+World+Adventure+Busan) [N](https://map.naver.com/p/search/롯데월드%20어드벤처%20부산) — Pełnowymiarowy park rozrywki w Gijang
-- [★★☆☆☆ 🏛️🧒 Trick Eye Museum Haeundae](https://www.google.com/maps/search/Trick+Eye+Museum+Haeundae+Busan) [N](https://map.naver.com/p/search/트릭아이미술관%20해운대) — Immersyjne złudzenia optyczne 📅 *blisko: Dzień 10 (20 sie)*
+- [★★☆☆☆ 🏛️🧒 Trick Eye Museum Haeundae](https://www.google.com/maps/search/Trick+Eye+Museum+Haeundae+Busan) [N](https://map.naver.com/p/search/트릭아이미술관%20해운대) — Immersyjne złudzenia optyczne 📅 *blisko: Dzień 11 (21 sie)*
 - [★★☆☆☆ 🎨🧒 Busan Solomon Law Park](https://www.google.com/maps/search/Busan+Solomon+Law+Park) [N](https://map.naver.com/p/search/솔로몬로파크%20부산) — Park w motywie prawa; dzieci prowadzą symulowane rozprawy i śledztwa kryminalistyczne
 
 #### Desery w Busan
@@ -769,33 +771,33 @@ Pogrupowane według kategorii. **Realia:** okno na Busan jest krótkie (18 sie w
 - [★★☆☆☆ 🚶 40-Step Culture & Tourism Theme Street](https://www.google.com/maps/search/40+Step+Culture+Tourism+Theme+Street+Busan) [N](https://map.naver.com/p/search/40계단문화관광테마거리) — 450m deptaka przy stacji Jungang (wyjście 11), brązowe rzeźby z życia uchodźców z lat 50.–60. Bezpłatnie, 30–60 min. Bez fajerwerków; warte zboczenia tylko wtedy, gdy i tak idziecie Yongdusan↔Gukje.
 
 #### B. Muzea
-- [★★★★☆ 🏛️🧒 Korea National Maritime Museum](https://www.google.com/maps/search/Korea+National+Maritime+Museum+Busan) [N](https://map.naver.com/p/search/국립해양박물관) — Trzecie największe muzeum w Korei, budynek w formie kropli wody na Yeongdo; 14,000+ obiektów morskich w 8 salach plus osobna sala dla dzieci. Bezpłatnie (poza wystawami specjalnymi); wt.–pt. 9:00–18:00, weekendy 9:00–19:00, zamknięte w pon. Dobra opcja awaryjna: AC i schronienie przed złą pogodą.
+- [★★★★☆ 🏛️🧒 Korea National Maritime Museum](https://www.google.com/maps/search/Korea+National+Maritime+Museum+Busan) [N](https://map.naver.com/p/search/국립해양박물관) — Trzecie największe muzeum w Korei, budynek w formie kropli wody na Yeongdo; 14,000+ obiektów morskich w 8 salach plus osobna sala dla dzieci. Bezpłatnie (poza wystawami specjalnymi); wt.–pt. 9:00–18:00, weekendy 9:00–19:00, zamknięte w pon. Dobra opcja awaryjna: AC i schronienie przed złą pogodą. 📅 **Dzień 10 (20 sie)**
 - [★★★★☆ 🏛️ Busan Museum](https://www.google.com/maps/search/Busan+Museum+Busan) [N](https://map.naver.com/p/search/부산박물관) — Flagowe muzeum historyczne miasta: od prehistorycznego Busan do czasów współczesnych, 6,000+ obiektów, pagody i zabytki na zewnątrz, obok UN Peace Park. Bezpłatnie; zwykle zamknięte w pon.
 - [★★★☆☆ 🏛️ Bokcheon Museum](https://www.google.com/maps/search/Bokcheon+Museum+Busan) [N](https://map.naver.com/p/search/복천박물관) — Zbudowane przy kompleksie grobowców z epoki Gaya w Bokcheon-dong (na zewnątrz spacer między kurhanami); historia żelaza i grobowców Busan. Bezpłatnie lub tanio, blisko Dongnaeeupseong.
 - [★★☆☆☆ 🏛️ Busan Modern & Contemporary History Museum](https://www.google.com/maps/search/Busan+Modern+History+Museum+Busan) [N](https://map.naver.com/p/search/부산근현대역사관) — W budynku kolonialnym z 1929 (później siedziba US Information Service); otwarcie portu, okupacja, wojna, industrializacja. Bezpłatnie, tuż przy Yongdusan Park — dodatek na 20–30 min.
 
 #### C. Sztuka
 - [★★★★☆ 🏛️🎨 F1963](https://www.google.com/maps/search/F1963+Busan) [N](https://map.naver.com/p/search/F1963) — Dawna fabryka drutu (1963–2008) przekształcona w flagowy kompleks sztuki w Busan: filia Kukje Gallery, efektowna biblioteka albumów i książek z drugiej ręki, bambusowa alejka na zewnątrz, kawiarnie i sala koncertowa (jedna z lokalizacji Busan Biennale). Wejście na teren bezpłatne; obiekty wt.–niedz. 10:00–18:00, zamknięte w pon. Bardzo fotogeniczne, spokojne pół dnia, dobre dla nastolatków.
-- [★★★★☆ 🏛️☕🌊 P.ARK (Yeongdo)](https://www.google.com/maps/search/P.ARK+Yeongdo+Busan) [N](https://map.naver.com/p/search/피아크) — Architektonicznie najambitniejsza realizacja na Yeongdo: monumentalny, wielopoziomowy kompleks kultury i piekarni-kawiarni z surowego betonu i przemysłowego szkła, schodzący kaskadami w stronę widoku na port i morze (palarnia kawy, schodkowe siedziska, taras na dachu). Naprzeciwko Arte Museum. Wejście bezpłatne (kup napój); długie godziny codziennie. Pasuje do pętli po Yeongdo (Arte/Huinnyeoul/Maritime Museum).
+- [★★★★☆ 🏛️☕🌊 P.ARK (Yeongdo)](https://www.google.com/maps/search/P.ARK+Yeongdo+Busan) [N](https://map.naver.com/p/search/피아크) — Architektonicznie najambitniejsza realizacja na Yeongdo: monumentalny, wielopoziomowy kompleks kultury i piekarni-kawiarni z surowego betonu i przemysłowego szkła, schodzący kaskadami w stronę widoku na port i morze (palarnia kawy, schodkowe siedziska, taras na dachu). Naprzeciwko Arte Museum. Wejście bezpłatne (kup napój); długie godziny codziennie. Pasuje do pętli po Yeongdo (Arte/Huinnyeoul/Maritime Museum). 📅 **Dzień 10 (20 sie)**
 - [★★★★☆ 🏛️☕🌊 Waveon Coffee (Gijang)](https://www.google.com/maps/search/Waveon+Coffee+Gijang+Busan) [N](https://map.naver.com/p/search/웨이브온커피) — Ikona prasy architektonicznej (Dezeen/DETAIL) autorstwa IDMM Architects (2016): bryły z betonu odlewanego w deskowaniu, ułożone i obrócone na skalistym przylądku tak, by kadrować widok na Morze Wschodnie; taras na dachu. Kawiarnia, do której idzie się po budynek. Bezpłatnie (zamów napój). ⚠️ Daleko na północno-wschodnim skraju (Gijang) — łącz z Ahopsan Forest / Gijang Market, nie z centrum Busan.
 - [★★★★☆ 🏯 Samgwangsa Temple](https://www.google.com/maps/search/Samgwangsa+Temple+Busan) [N](https://map.naver.com/p/search/삼광사) — Ogromna nowoczesna (1983) świątynia na zboczu góry w Busanjin-gu: górująca 9-kondygnacyjna pagoda Daebotap i wielkie hale — świątynia jako architektoniczny spektakl, znacznie większa, niż się wydaje. Bezpłatnie, w godzinach dziennych. Blisko Busan Children's Grand Park; łączy się z Seomyeon.
 - [★★★★☆ 🏛️ Provisional Capital Memorial Hall](https://www.google.com/maps/search/Provisional+Capital+Memorial+Hall+Busan) [N](https://map.naver.com/p/search/임시수도기념관) — Muzeum uchodźczej stolicy z czasów wojny koreańskiej, w rezydencji gubernatora z 1926 (okres japoński), która była siedzibą prezydenta, gdy Busan było tymczasową stolicą Korei (1950–53); zrekonstruowany gabinet prezydenta i wystawy o życiu uchodźców w czasie wojny. Bezpłatnie; wt.–niedz. 9:00–18:00, zamknięte w pon. Stacja Toseong (linia 1) — ten sam punkt startowy co Gamcheon, więc wpasowuje się w blok Gamcheon 19 sie.
 - [★★★☆☆ 🏯 Chungnyeolsa Shrine](https://www.google.com/maps/search/Chungnyeolsa+Shrine+Busan) [N](https://map.naver.com/p/search/충렬사%20부산) — Konfucjański chram pamięci obrońców Dongnae poległych podczas japońskiej inwazji w 1592; kompleks 90,000 m² z główną halą, stawem, parkiem i początkiem szlaku na Dongnae Fortress. Bezpłatnie; kwi.–wrz. 9:00–21:00. Stacja Chungnyeolsa (linia 1/4), Dongnae-gu. ⚠️ Poza nadmorską osią 19 sie (skupisko Dongnae w głębi lądu).
 - [★★☆☆☆ 🏯 Dongnae Hyanggyo (Confucian School)](https://www.google.com/maps/search/Dongnae+Hyanggyo+Busan) [N](https://map.naver.com/p/search/동래향교) — Jedna z najstarszych lokalnych szkół konfucjańskich w Korei (zał. 1413, obecne budynki 1813): hala wykładowa Myeongnyundang, akademiki i chram Daeseongjeon, gdzie dwa razy w roku wciąż odprawiane są obrzędy Hyangsa. Bezpłatnie. Dongnae-gu — dodatek do skupiska kultury ludowej razem z Chungnyeolsa, niski priorytet.
-- [★★★★☆ 📸🎭 Busan Cinema Center](https://www.google.com/maps/search/Busan+Cinema+Center+Busan) [N](https://map.naver.com/p/search/영화의전당) — Siedziba Busan Int'l Film Festival w Centum City; jego „Big Roof" ma rekord Guinnessa w najdłuższym wsporniku (163m), nocą podświetlany LED-ami, z efektownym wejściem Double Cone. Oglądanie i fotografowanie placu bezpłatne. Łatwy dodatek blisko Shinsegae Centum / Spa Land.
+- [★★★★☆ 📸🎭 Busan Cinema Center](https://www.google.com/maps/search/Busan+Cinema+Center+Busan) [N](https://map.naver.com/p/search/영화의전당) — Siedziba Busan Int'l Film Festival w Centum City; jego „Big Roof" ma rekord Guinnessa w najdłuższym wsporniku (163m), nocą podświetlany LED-ami, z efektownym wejściem Double Cone. Oglądanie i fotografowanie placu bezpłatne. Łatwy dodatek blisko Shinsegae Centum / Spa Land. 📅 *blisko: Dzień 10 (20 sie)*
 - [★★★☆☆ 🏛️🎨 Museum of Contemporary Art Busan (MOCA Busan)](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Busan) [N](https://map.naver.com/p/search/부산현대미술관) — Sztuka współczesna nad wodą, w estuarium Nakdong/Eulsukdo; zmieniające się wystawy przez 2026–27. Niewysoki wstęp, prawdopodobnie zamknięte w pon. Łączy się z Nakdong Eco Center.
-- [★★★☆☆ 🏛️🎨 Busan Museum of Art (BMA) / Lee Ufan Space](https://www.google.com/maps/search/Busan+Museum+of+Art+Busan) [N](https://map.naver.com/p/search/부산시립미술관) — Miejskie muzeum sztuki (5 pięter, park rzeźby) plus przylegająca minimalistyczna przestrzeń Lee Ufana. Zamknięte w pon. Dobra opcja wewnątrz, z AC.
+- [★★★☆☆ 🏛️🎨 Busan Museum of Art (BMA) / Lee Ufan Space](https://www.google.com/maps/search/Busan+Museum+of+Art+Busan) [N](https://map.naver.com/p/search/부산시립미술관) — Miejskie muzeum sztuki (5 pięter, park rzeźby) plus przylegająca minimalistyczna przestrzeń Lee Ufana. Zamknięte w pon. Dobra opcja wewnątrz, z AC. 📅 **Dzień 10 (20 sie)**
 
 #### D. Zabytki i widoki
-- [★★★☆☆ 🗼🧒 Songdo Beach & Cloud Trails Skywalk](https://www.google.com/maps/search/Songdo+Skywalk+Cloud+Trails+Busan) [N](https://map.naver.com/p/search/송도구름산책로) — Pierwsza publiczna plaża w Korei (1913) z podniesionym skywalkiem o długości ~365–396m (odcinki ze szklaną podłogą nad wodą) i sztucznym wodospadem. Latem ok. 9:00–18:00 (zweryfikuj). To nie to samo co Songdo Marine Cable Car — zrób jedno i drugie razem.
+- [★★★☆☆ 🗼🧒 Songdo Beach & Cloud Trails Skywalk](https://www.google.com/maps/search/Songdo+Skywalk+Cloud+Trails+Busan) [N](https://map.naver.com/p/search/송도구름산책로) — Pierwsza publiczna plaża w Korei (1913) z podniesionym skywalkiem o długości ~365–396m (odcinki ze szklaną podłogą nad wodą) i sztucznym wodospadem. Latem ok. 9:00–18:00 (zweryfikuj). To nie to samo co Songdo Marine Cable Car — zrób jedno i drugie razem. 📅 **Dzień 10 (20 sie)**
 - [★★★☆☆ 🗼🍺 The Bay 101 (Marine City)](https://www.google.com/maps/search/The+Bay+101+Busan) [N](https://map.naver.com/p/search/더베이101) — Nadwodny kompleks gastronomiczno-handlowy z widokiem na panoramę Haeundae i Gwangan Bridge; punkt startu publicznych rejsów jachtem (~30–50 min) po zatoce Suyeong. Najlepiej o zachodzie słońca lub nocą; w weekendowe wieczory tłoczno.
 
 #### E. Przyroda i parki
-- [★★★★☆ 🚶📸 Huinnyeoul Culture Village & Jeoryeong Coastal Walk](https://www.google.com/maps/search/Huinnyeoul+Culture+Village+Busan) [N](https://map.naver.com/p/search/흰여울문화마을) — „Santorini Busan" na klifie Yeongdo: dawna osada uchodźcza pełna kawiarni i murali nad 3km trasą Jeoryeong Coastal Walk z 70m tunelem nad morzem. Bezpłatnie; najlepiej chłodnym rankiem. Autobus 7/71/508 z Nampo lub stacji Busan. Bardzo fotogeniczne.
+- [★★★★☆ 🚶📸 Huinnyeoul Culture Village & Jeoryeong Coastal Walk](https://www.google.com/maps/search/Huinnyeoul+Culture+Village+Busan) [N](https://map.naver.com/p/search/흰여울문화마을) — „Santorini Busan" na klifie Yeongdo: dawna osada uchodźcza pełna kawiarni i murali nad 3km trasą Jeoryeong Coastal Walk z 70m tunelem nad morzem. Bezpłatnie; najlepiej chłodnym rankiem. Autobus 7/71/508 z Nampo lub stacji Busan. Bardzo fotogeniczne. 📅 **Dzień 10 (20 sie)**
 - [★★★★☆ 🏯🚡🌳 Geumjeongsanseong Fortress + Geumgang Park Cable Car](https://www.google.com/maps/search/Geumjeongsanseong+Fortress+Busan) [N](https://map.naver.com/p/search/금정산성) — Największa górska twierdza w Korei (1703, 18,845m murów) na grzbiecie Geumjeongsan; kolejka linowa z lat 60. z Geumgang Park (blisko stacji Oncheonjang) wjeżdża ~5 min w stronę Południowej Bramy, mijając ukrytą świątynię Seokbulsa. Kolejka ~KRW 8,000–9,000 w obie strony (zweryfikuj). Wędrówka na całe przedpołudnie albo krótka próbka z kolejki.
 - [★★★★☆ 🌊📸🧒 Dadaepo Beach & Sunset Fountain of Dreams](https://www.google.com/maps/search/Dadaepo+Sunset+Fountain+of+Dreams+Busan) [N](https://map.naver.com/p/search/다대포꿈의낙조분수) — Rekordowa fontanna o wysokości 55m i szerokości 60m z choreografią wody, światła i muzyki, na plaży Dadaepo (linia 1, stacja Dadaepo Beach, wyjście 4). Kwi.–paź.; w sierpniu pokazy w dni powszednie 20:00–20:20, w weekendy dodatkowo 21:00–21:20 — bezpłatnie. Znacznie mniej zatłoczona i bardzo efektowna wieczorna alternatywa dla Haeundae/Gwangalli; potwierdź harmonogram na 2026.
 - [★★☆☆☆ 🌳🧒 Busan Citizens Park](https://www.google.com/maps/search/Busan+Citizens+Park+Busan) [N](https://map.naver.com/p/search/부산시민공원) — Duży park na terenie dawnego amerykańskiego Camp Hialeah; las, strumienie, place zabaw. Bezpłatnie. Wentyl bezpieczeństwa na deszczowy dzień albo gdy dzieci muszą się wybiegać.
-- [★★☆☆☆ 🌳🚶 Amnam Park](https://www.google.com/maps/search/Amnam+Park+Busan) [N](https://map.naver.com/p/search/암남공원) — Nadmorski park przy stacji końcowej kolejki Songdo od strony Songdo; szlaki po klifach 0,9–2,9km. Bezpłatnie. Opcjonalne krótkie przedłużenie po kolejce.
+- [★★☆☆☆ 🌳🚶 Amnam Park](https://www.google.com/maps/search/Amnam+Park+Busan) [N](https://map.naver.com/p/search/암남공원) — Nadmorski park przy stacji końcowej kolejki Songdo od strony Songdo; szlaki po klifach 0,9–2,9km. Bezpłatnie. Opcjonalne krótkie przedłużenie po kolejce. 📅 *blisko: Dzień 10 (20 sie)*
 - [★★☆☆☆ 🌳🐾 Nakdong Estuary Eco Center (Eulsukdo)](https://www.google.com/maps/search/Nakdong+Estuary+Eco+Center+Busan) [N](https://map.naver.com/p/search/낙동강하구에코센터) — Ekopark na terenach podmokłych, najważniejszy rezerwat ptaków w Korei; ponownie otwarty w maju 2024. Bezpłatnie, zamknięte w pon., ok. 9:00–18:00. ⚠️ Sierpień to poza sezonem — ptaki migrujące przylatują od paź. do mar.; traktuj jako przerwę od upału (mokradła + AC), nie jako birdwatching.
 
 #### F. Parki rozrywki i rodzina
@@ -806,12 +808,12 @@ Pogrupowane według kategorii. **Realia:** okno na Busan jest krótkie (18 sie w
 - [★★★☆☆ 🍜🍺 Bupyeong-dong Jokbal (Pig's Trotter) Alley](https://www.google.com/maps/search/Bupyeong-dong+Jokbal+Street+Busan) [N](https://map.naver.com/p/search/부평동족발골목) — Ok. 20 lokali z jokbal jeden przy drugim w Jung-gu, blisko Movie Alley w Nampo; popisowe naengchae jokbal (chłodzone nóżki z ogórkiem, meduzą i musztardą). Wieczór, neony. ⚠️ To inna atrakcja niż skatalogowany Bupyeong Kkangtong Night Market (ta sama okolica, inne dni i godziny).
 
 #### I. Kawiarnie i sklepy
-- [★★★☆☆ 🚶📸 Bosu-dong Book Street](https://www.google.com/maps/search/Bosu-dong+Book+Street+Busan) [N](https://map.naver.com/p/search/보수동책방골목) — 200m zaułek z ~30 antykwariatami, wyrosły z uchodźczej historii wojny koreańskiej, blisko Nampo/BIFF (stacja Jungang, wyjście 7). Przeglądanie bezpłatne; sklepy z komiksami dla nastolatka.
+- [★★★☆☆ 🚶📸 Bosu-dong Book Street](https://www.google.com/maps/search/Bosu-dong+Book+Street+Busan) [N](https://map.naver.com/p/search/보수동책방골목) — 200m zaułek z ~30 antykwariatami, wyrosły z uchodźczej historii wojny koreańskiej, blisko Nampo/BIFF (stacja Jungang, wyjście 7). Przeglądanie bezpłatne; sklepy z komiksami dla nastolatka. 📅 *blisko: Dzień 10 (20 sie)*
 - [★★☆☆☆ 🛍️ Gwangbok-ro Culture & Fashion Street](https://www.google.com/maps/search/Gwangbok-ro+Fashion+Street+Busan) [N](https://map.naver.com/p/search/광복로문화패션거리) — „Mini Myeongdong" Busan: ~600m deptaka handlowego (ubrania, K-beauty, kawiarnie) od stacji Nampo, wyjście 7, do Gukje Market. Żywy łącznik na spacer, najlepiej wieczorem.
 
 #### J. Doświadczenia i warsztaty
 - [★★★★☆ ♨️ Heosimcheong Spa (Hurshimchung)](https://www.google.com/maps/search/Heosimcheong+Spa+Busan) [N](https://map.naver.com/p/search/허심청) — Historyczny mega-jjimjilbang w Dongnae zasilany naturalnym gorącym źródłem (kąpali się w nim królowie Silla); podobno największe spa termalne w Azji (do 3,000 osób). Kąpiele ziołowe, jacuzzi, wanny aromaterapeutyczne. Zweryfikuj cenę wstępu (historycznie niewysoka). Regeneracja w klasie flagowej dla zmęczonych nóg rodziny w trybie „przepakowany plan, 25 tys. kroków dziennie".
-- [★★★☆☆ 🎨🍜🧒 Samjin Amook Fish Cake Museum & Hands-On](https://www.google.com/maps/search/Samjin+Amook+Busan) [N](https://map.naver.com/p/search/삼진어묵) — Najstarszy producent eomuk (kotlecików rybnych) w Busan (1953), na Yeongdo: sklep z pomysłowymi wariantami (ser, curry, krewetka-ziemniak), na 1. piętrze Fish Cake History Museum z podglądem linii produkcyjnej i warsztaty robienia eomuk (mogą wymagać rezerwacji z wyprzedzeniem). Przekąska tylko z Busan plus przerwa w AC.
+- [★★★☆☆ 🎨🍜🧒 Samjin Amook Fish Cake Museum & Hands-On](https://www.google.com/maps/search/Samjin+Amook+Busan) [N](https://map.naver.com/p/search/삼진어묵) — Najstarszy producent eomuk (kotlecików rybnych) w Busan (1953), na Yeongdo: sklep z pomysłowymi wariantami (ser, curry, krewetka-ziemniak), na 1. piętrze Fish Cake History Museum z podglądem linii produkcyjnej i warsztaty robienia eomuk (mogą wymagać rezerwacji z wyprzedzeniem). Przekąska tylko z Busan plus przerwa w AC. 📅 **Dzień 10 (20 sie)**
 - [★★★☆☆ 🎁🧒 Wypożyczalnia hanbok w Gamcheon](https://www.google.com/maps/search/Hanbok+Rental+Gamcheon+Culture+Village+Busan) [N](https://map.naver.com/p/search/감천문화마을%20한복대여) — Wypożyczenie stroju w Gamcheon Culture Village, z fryzurą i dodatkami oraz tłami do zdjęć w całej wiosce. ⚠️ Dziecięce rozmiary hanbok są ograniczone i dostępne tylko na miejscu — zarezerwuj z wyprzedzeniem dla 9- i 11-latka.
 - [★★☆☆☆ 🍺 Kyungsung/Pukyong University Street](https://www.google.com/maps/search/Kyungsung+University+Street+Busan) [N](https://map.naver.com/p/search/경성대부경대역) — Gęsta siatka tanich knajp, kawiarni, sklepów vintage, salonów gier i barów (Nam-gu), najżywsze nocne życie w Busan. Za dnia salony gier i jedzenie dla 15-latka; po zmroku dominują bary. Wymienne z Seomyeon.
 
@@ -837,7 +839,7 @@ Głębsze typy z Busan plus bliska okolica (Gijang, Gimhae, Yangsan) w zasięgu 
 - [★★★☆☆ 🏛️🧒 Busan 119 Safety Experience Center](https://www.google.com/maps/search/Busan+119+Safety+Experience+Center+Busan) [N](https://map.naver.com/p/search/부산119안전체험관) — Bezpłatny interaktywny symulator katastrof i bezpieczeństwa pożarowego (11 ścieżek) plus zewnętrzny Kids Land (do 12 lat). 9:00–18:00, zamknięte w pon. Wymagana rezerwacja (strona domowa; obcokrajowcy dzwonią pod +82-51-760-5870).
 
 #### C. Sztuka
-- [★★☆☆☆ 🎨🤳 Arte Museum Busan](https://www.google.com/maps/search/Arte+Museum+Busan+Yeongdo) [N](https://map.naver.com/p/search/아르떼뮤지엄%20부산) — Jedna z największych na świecie immersyjnych przestrzeni projekcji digital media, Yeongdo-gu. Codziennie 10:00–21:00; ~₩22–25k dorosły / 18–21k młodzież / 15–18k dziecko. Instagramowy spektakl świetlny — dla nas niski priorytet (wolimy prawdziwe muzea i galerie); trzymaj tylko jako opcję awaryjną z AC na deszczowy dzień lub dla dzieci przy pętli po Yeongdo.
+- [★★☆☆☆ 🎨🤳 Arte Museum Busan](https://www.google.com/maps/search/Arte+Museum+Busan+Yeongdo) [N](https://map.naver.com/p/search/아르떼뮤지엄%20부산) — Jedna z największych na świecie immersyjnych przestrzeni projekcji digital media, Yeongdo-gu. Codziennie 10:00–21:00; ~₩22–25k dorosły / 18–21k młodzież / 15–18k dziecko. Instagramowy spektakl świetlny — dla nas niski priorytet (wolimy prawdziwe muzea i galerie); trzymaj tylko jako opcję awaryjną z AC na deszczowy dzień lub dla dzieci przy pętli po Yeongdo. 📅 *blisko: Dzień 10 (20 sie)*
 - [★★☆☆☆ 🎨🚶 Dakbatgol Mural Village](https://www.google.com/maps/search/Dakbatgol+Mural+Village+Busan) [N](https://map.naver.com/p/search/닥밭골벽화마을) — Mniej znana wioska murali, spokojniejsze towarzystwo dla Gamcheon; jest tu maleńka winda skośna „Stairway of Wishes", zbudowana dla starszych mieszkańców. Bezpłatnie.
 
 #### D. Zabytki i widoki
@@ -873,7 +875,7 @@ Głębsze typy z Busan plus bliska okolica (Gijang, Gimhae, Yangsan) w zasięgu 
 - [★★☆☆☆ 🛍️ Lotte Premium Outlet Dongbusan (Osiria)](https://www.google.com/maps/search/Lotte+Premium+Outlet+Dongbusan+Gijang+Busan) [N](https://map.naver.com/p/search/롯데프리미엄아울렛%20동부산점) — Największy outlet w Korei, 500+ marek, dokładnie naprzeciwko Lotte World Adventure Busan. Opcja na deszczowy dzień: AC plus food court.
 
 #### J. Doświadczenia i warsztaty
-- [★★★★☆ ♨️ Spa Land Centum City](https://www.google.com/maps/search/Spa+Land+Centum+City+Busan) [N](https://map.naver.com/p/search/스파랜드%20센텀시티) — Największy luksusowy jjimjilbang w Busan (18 basenów termalnych, 13 saun tematycznych) w Shinsegae Centum City. Otwarcie 9:00 (nie całodobowo); ~₩25,000 dorosły / 20,000 uczeń za bazowy bilet na 4 h. Inna skala niż Hurshimchung — dobre pół dnia na ochłodzenie, także jako bufor na złą pogodę.
+- [★★★★☆ ♨️ Spa Land Centum City](https://www.google.com/maps/search/Spa+Land+Centum+City+Busan) [N](https://map.naver.com/p/search/스파랜드%20센텀시티) — Największy luksusowy jjimjilbang w Busan (18 basenów termalnych, 13 saun tematycznych) w Shinsegae Centum City. Otwarcie 9:00 (nie całodobowo); ~₩25,000 dorosły / 20,000 uczeń za bazowy bilet na 4 h. Inna skala niż Hurshimchung — dobre pół dnia na ochłodzenie, także jako bufor na złą pogodę. 📅 *blisko: Dzień 10 (20 sie)*
 - [★★★☆☆ 🚡🌊 Rejs jachtem po zatoce Suyeong (zachód słońca / wieczór)](https://www.google.com/maps/search/Suyeong+Bay+Yacht+Cruise+Busan) [N](https://map.naver.com/p/search/수영만요트경기장) — ~50-minutowy rejs katamaranem obok Gwangan Bridge, Marine City i The Bay 101; w sobotę połącz z bezpłatnym pokazem dronów w Gwangalli. Rezerwacja bezpośrednio u operatora. ⚠️ Zależne od pogody — sierpień to szczyt sezonu tajfunów, rezerwuj z elastycznym odwołaniem.
 - [★★★☆☆ 🏯 Tongdosa Templestay (Yangsan)](https://www.google.com/maps/search/Tongdosa+Templestay+Yangsan) [N](https://map.naver.com/p/search/통도사%20템플스테이) — Pół- lub całodniowe zanurzenie w życiu klasztornym (robienie lampionów, ceremonia herbaty, medytacja, kuchnia świątynna). ⚠️ Nie ma tego na templestay.com — skontaktuj się ze świątynią bezpośrednio, z wyprzedzeniem. Najlepsze dla 15-latka i dorosłych.
 
@@ -1234,27 +1236,27 @@ Pogrupowane według dzielnic.
 Stare Taipei — najstarsza świątynia, historyczne kwartały, dziwaczne lody, kultura młodzieżowa.
 
 #### Świątynie
-- [★★★★★ 🏯 Longshan Temple](https://www.google.com/maps/search/Longshan+Temple+Taipei) — Najstarsza w Taipei (1738); bogato rzeźbiona; tonie w dymie kadzidła 📅 **Dzień 11 (21 sie)**
-- [★★☆☆☆ 🏯 Qingshui Temple](https://www.google.com/maps/search/Qingshui+Zushi+Temple+Taipei) — Klimatyczna świątynia z czasów dynastii Qing 📅 *blisko: Dzień 11 (21 sie)*
-- [★★☆☆☆ 🏯 Qingshan Temple](https://www.google.com/maps/search/Qingshan+Temple+Taipei) — Król Zielonej Góry; piękne rzeźby w kamieniu 📅 *blisko: Dzień 11 (21 sie)*
+- [★★★★★ 🏯 Longshan Temple](https://www.google.com/maps/search/Longshan+Temple+Taipei) — Najstarsza w Taipei (1738); bogato rzeźbiona; tonie w dymie kadzidła 📅 **Dzień 12 (22 sie)**
+- [★★☆☆☆ 🏯 Qingshui Temple](https://www.google.com/maps/search/Qingshui+Zushi+Temple+Taipei) — Klimatyczna świątynia z czasów dynastii Qing 📅 *blisko: Dzień 12 (22 sie)*
+- [★★☆☆☆ 🏯 Qingshan Temple](https://www.google.com/maps/search/Qingshan+Temple+Taipei) — Król Zielonej Góry; piękne rzeźby w kamieniu 📅 *blisko: Dzień 12 (22 sie)*
 
 #### Zabytki
-- [★★★☆☆ 🚶🏯 Bopiliao Historic Block](https://www.google.com/maps/search/Bopiliao+Historic+Block+Taipei) — Najlepiej zachowana historyczna ulica; architektura z czasów Qing i japońska; bezpłatne galerie; interaktywne centrum dziedzictwa; BEZPŁATNIE 📅 **Dzień 11 (21 sie)**
-- [★★★☆☆ 📸🛍️ Ximen Red House](https://www.google.com/maps/search/Ximen+Red+House+Taipei) — Hala targowa z 1908 r.; dziś rękodzieło, sklepy pop-up, kawiarnie 📅 **Dzień 11 (21 sie)**
-- [★★★★★ 📸🏛️ Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei) — Marmurowy gmach o wysokości 76 m; zmiana warty co godzinę od 9:00; tai chi na terenie o świcie 📅 **Dni 10, 11 (20, 21 sie)**
-- [★★★☆☆ 🌳🏛️ 228 Peace Memorial Park](https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei) — Zielona oaza z National Taiwan Museum 📅 **Dzień 11 (21 sie)**
-- [★★★★☆ 📷🏛️ National Center of Photography and Images (NCPI)](https://www.google.com/maps/search/National+Center+of+Photography+and+Images+Taipei) — Tajwańskie **narodowe muzeum fotografii** w odrestaurowanym budynku z 1937 r. z czasów japońskich, ~10 min od Taipei Main / obok Ximending; prawdziwe galerie fotografii. Wt.–niedz. 10:00–18:00, zamknięte w pon.; **BEZPŁATNIE** 📅 **Dzień 11 (21 sie)**
+- [★★★☆☆ 🚶🏯 Bopiliao Historic Block](https://www.google.com/maps/search/Bopiliao+Historic+Block+Taipei) — Najlepiej zachowana historyczna ulica; architektura z czasów Qing i japońska; bezpłatne galerie; interaktywne centrum dziedzictwa; BEZPŁATNIE 📅 **Dzień 12 (22 sie)**
+- [★★★☆☆ 📸🛍️ Ximen Red House](https://www.google.com/maps/search/Ximen+Red+House+Taipei) — Hala targowa z 1908 r.; dziś rękodzieło, sklepy pop-up, kawiarnie 📅 **Dzień 12 (22 sie)**
+- [★★★★★ 📸🏛️ Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei) — Marmurowy gmach o wysokości 76 m; zmiana warty co godzinę od 9:00; tai chi na terenie o świcie 📅 **Dni 11, 12 (21, 22 sie)**
+- [★★★☆☆ 🌳🏛️ 228 Peace Memorial Park](https://www.google.com/maps/search/228+Peace+Memorial+Park+Taipei) — Zielona oaza z National Taiwan Museum 📅 **Dzień 12 (22 sie)**
+- [★★★★☆ 📷🏛️ National Center of Photography and Images (NCPI)](https://www.google.com/maps/search/National+Center+of+Photography+and+Images+Taipei) — Tajwańskie **narodowe muzeum fotografii** w odrestaurowanym budynku z 1937 r. z czasów japońskich, ~10 min od Taipei Main / obok Ximending; prawdziwe galerie fotografii. Wt.–niedz. 10:00–18:00, zamknięte w pon.; **BEZPŁATNIE** 📅 **Dzień 12 (22 sie)**
 - ★★★☆☆ 🚶 Strefa piesza Ximending — Centrum kultury młodzieżowej; artyści uliczni, graffiti, całodobowe Don Don Donki
 
 #### Desery i lody (DZIWNE RZECZY!)
-- [★★★☆☆ ☕🤪 Snow King Ice Cream](https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei) — Od 1947 r.; smaki: SUSZONA WATA MIĘSNA, golonka, kurczak w oleju sezamowym, wasabi, curry, piwo, papryczka chili, fasola; dzieci będą oszalałe z zachwytu 📅 **Dzień 11 (21 sie)**
+- [★★★☆☆ ☕🤪 Snow King Ice Cream](https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei) — Od 1947 r.; smaki: SUSZONA WATA MIĘSNA, golonka, kurczak w oleju sezamowym, wasabi, curry, piwo, papryczka chili, fasola; dzieci będą oszalałe z zachwytu 📅 **Dzień 12 (22 sie)**
 - ★★☆☆☆ ☕ Star Fruit Ice (Chengdu Yangto Bing) w Ximending — Kruszony lód z karamboli posypany orzechowym cukierkiem i kolendrą
 
 #### Nocny targ
-- [★★★☆☆ 🏮 Huaxi Street Night Market (Snake Alley)](https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei) — Najstarszy nocny targ; zupy na ziołach, potrawy z węgorza; klimatyczny, mniej zatłoczony 📅 **Dzień 11 (21 sie)**
+- [★★★☆☆ 🏮 Huaxi Street Night Market (Snake Alley)](https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei) — Najstarszy nocny targ; zupy na ziołach, potrawy z węgorza; klimatyczny, mniej zatłoczony 📅 **Dzień 12 (22 sie)**
 
 #### Restauracje tematyczne
-- [★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant](https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei) — Siedzi się na deskach sedesowych; jedzenie w muszlach klozetowych; czekoladowe lody „kupka"; dzieci będą się bawić bez końca 📅 **Dzień 11 (21 sie)**
+- [★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant](https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei) — Siedzi się na deskach sedesowych; jedzenie w muszlach klozetowych; czekoladowe lody „kupka"; dzieci będą się bawić bez końca 📅 **Dzień 12 (22 sie)**
 
 ---
 
@@ -1263,22 +1265,23 @@ Stare Taipei — najstarsza świątynia, historyczne kwartały, dziwaczne lody, 
 Najstarsze ulice Taipei, najlepszy lokalny nocny targ, zakupy w second-handach.
 
 #### Świątynie
-- [★★★★☆ 🏯 Dalongdong Bao-An Temple](https://www.google.com/maps/search/Dalongdong+Bao-An+Temple+Taipei) — Nagroda dziedzictwa UNESCO; spektakularny dziedziniec; najpiękniejsza świątynia w Taipei 📅 **Dzień 11 (21 sie)**
-- [★★★☆☆ 🏯 Taipei Confucius Temple](https://www.google.com/maps/search/Taipei+Confucius+Temple) — Tuż obok Bao-An; elegancki styl południowego Fujianu 📅 **Dzień 11 (21 sie)**
+- [★★★★☆ 🏯 Dalongdong Bao-An Temple](https://www.google.com/maps/search/Dalongdong+Bao-An+Temple+Taipei) — Nagroda dziedzictwa UNESCO; spektakularny dziedziniec; najpiękniejsza świątynia w Taipei 📅 **Dzień 12 (22 sie)**
+- [★★★☆☆ 🏯 Taipei Confucius Temple](https://www.google.com/maps/search/Taipei+Confucius+Temple) — Tuż obok Bao-An; elegancki styl południowego Fujianu 📅 **Dzień 12 (22 sie)**
 
 #### Zabytki i ulice
-- [★★★★☆ 🚶🛍️ Dihua Street](https://www.google.com/maps/search/Dihua+Street+Taipei) — Najstarsza ulica handlowa Taipei (lata 1850.); barokowe fasady; suszone towary, zioła, herbata i medycyna chińska w opakowaniach jak sprzed lat 📅 **Dzień 11 (21 sie)**
-- [★★★☆☆ 🚶🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei) — Bary w kontenerach, street food, widoki na zachód słońca 📅 **Dzień 11 (21 sie)**
-- [★★☆☆☆ 🛍️ Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei) — Second-handy, oryginalne kawiarnie, niezależne akcesoria 📅 **Dzień 18 (28 sie)** · *blisko: Dzień 11 (21 sie)*
-- [★★☆☆☆ 🛍️ Zhongshan Underground Book Street (Eslite R79)](https://www.google.com/maps/search/Eslite+R79+Taipei) — Podziemna galeria z księgarniami, winylami, papeterią i pamiątkami 📅 **Dzień 18 (28 sie)** · *blisko: Dzień 11 (21 sie)*
-- [★★★☆☆ 🎡🗼 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — Diabelski młyn o wysokości 95 m; świetne widoki na zachód słońca 📅 **Dzień 14 (24 sie)**
+- [★★★★☆ 🚶🛍️ Dihua Street](https://www.google.com/maps/search/Dihua+Street+Taipei) — Najstarsza ulica handlowa Taipei (lata 1850.); barokowe fasady; suszone towary, zioła, herbata i medycyna chińska w opakowaniach jak sprzed lat 📅 **Dzień 12 (22 sie)**
+- [★★★☆☆ 🚶🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei) — Bary w kontenerach, street food, widoki na zachód słońca 📅 **Dzień 12 (22 sie)**
+- [★★☆☆☆ 🛍️ Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei) — Second-handy, oryginalne kawiarnie, niezależne akcesoria 📅 *blisko: Dni 12, 19 (22, 29 sie)*
+- [★★☆☆☆ 🛍️ Zhongshan Underground Book Street (Eslite R79)](https://www.google.com/maps/search/Eslite+R79+Taipei) — Podziemna galeria z księgarniami, winylami, papeterią i pamiątkami 📅 *blisko: Dni 12, 19 (22, 29 sie)*
+- [★★★☆☆ 🎡🗼 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — Diabelski młyn o wysokości 95 m; świetne widoki na zachód słońca 📅 **Dzień 15 (25 sie)**
 
 #### Kawiarnie
-- [★★☆☆☆ ☕ ABCD (A Better Coffee & Doughnuts)](https://www.google.com/maps/search/ABCD+cafe+Taipei) — Wejście w kształcie wielkiego pączka; kreatywne pączki 📅 *blisko: Dzień 11 (21 sie)*
-- [★★☆☆☆ ☕🐾 Kitten Coffee Garden](https://www.google.com/maps/search/Kitten+Coffee+Garden+Taipei) — 13 kotów i 2 psy, od 1998 r. 📅 *blisko: Dzień 11 (21 sie)*
+- [★★☆☆☆ ☕ ABCD (A Better Coffee & Doughnuts)](https://www.google.com/maps/search/ABCD+cafe+Taipei) — Wejście w kształcie wielkiego pączka; kreatywne pączki 📅 *blisko: Dzień 12 (22 sie)*
+- [★★☆☆☆ ☕🐾 Kitten Coffee Garden](https://www.google.com/maps/search/Kitten+Coffee+Garden+Taipei) — 13 kotów i 2 psy, od 1998 r. 📅 *blisko: Dzień 12 (22 sie)*
 
 #### Nocny targ
-- [★★★☆☆ 🏮 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei) — Najbardziej lokalny klimat; konkretne stragany: Piaoxiang Beef Noodle, Liu Yu Zi (smażone kulki taro), Yuen Huan Pien (omlet z ostrygami), Fang Chia Shredded Chicken Rice 📅 **Dni 10, 11 (20, 21 sie)**
+- [★★★☆☆ 🏮 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei) — Najbardziej lokalny klimat; konkretne stragany: Piaoxiang Beef Noodle, Liu Yu Zi (smażone kulki taro), Yuen Huan Pien (omlet z ostrygami), Fang Chia Shredded Chicken Rice 📅 **Dni 11, 12 (21, 22 sie)**
+- [★★★☆☆ 🏮 Shuanglian Night Market](https://www.google.com/maps/search/Shuanglian+Night+Market+Taipei) — Wąski, podłużny targ wzdłuż dawnego torowiska przy stacji MRT Shuanglian, 2 przystanki od Ningxia i w tym samym korytarzu Zhongshan/Dadaocheng: mniej turystyczny, mocny w owoce, tofu i zupy. Przydaje się, bo **21 i 22 sie oba wieczory wypadają koło Ningxia** — to naturalna zamiana na jeden z nich. 📅 **Dzień 11 (21 sie)**
 
 #### Zakupy
 - 🛍️ Boczne uliczki Zhongshan — Najlepszy kierunek na vintage i second-handy; w każdej alejce butiki i niezależni projektanci
@@ -1290,33 +1293,33 @@ Najstarsze ulice Taipei, najlepszy lokalny nocny targ, zakupy w second-handach.
 Nowoczesne Taipei, ikoniczna wieża, najlepsza ulica jedzenia w Azji, nocne targi.
 
 #### Zabytki
-- [★★★★★ 🗼 Taipei 101](https://www.google.com/maps/search/Taipei+101) — Taras widokowy na 88-89. piętrze; odkryty taras na 91. piętrze 📅 **Dzień 12 (22 sie)**
-- [★★★☆☆ 🎨🛍️ Songshan Cultural and Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei) — Dawna fabryka tytoniu; galerie pop-up, butiki 📅 **Dzień 12 (22 sie)**
-- [★★☆☆☆ 🚶🛍️ 44 South Military Village (Si Si Nan Cun)](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Retro osiedle; kawiarnie, rękodzieło, wystawy 📅 *blisko: Dzień 12 (22 sie)*
-- [★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Okazała, barwna świątynia Mazu przy Raohe Night Market 📅 *blisko: Dzień 12 (22 sie)*
+- [★★★★★ 🗼 Taipei 101](https://www.google.com/maps/search/Taipei+101) — Taras widokowy na 88-89. piętrze; odkryty taras na 91. piętrze 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ 🎨🛍️ Songshan Cultural and Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei) — Dawna fabryka tytoniu; galerie pop-up, butiki 📅 **Dzień 13 (23 sie)**
+- [★★☆☆☆ 🚶🛍️ 44 South Military Village (Si Si Nan Cun)](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Retro osiedle; kawiarnie, rękodzieło, wystawy 📅 *blisko: Dzień 13 (23 sie)*
+- [★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Okazała, barwna świątynia Mazu przy Raohe Night Market 📅 *blisko: Dzień 13 (23 sie)*
 
 #### Parki i szlaki
-- [★★★★☆ 🌳🗼 Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei) — Krótkie, ale strome podejście (10-20 min); ikoniczne zdjęcie Taipei 101 z punktu widokowego „Six Boulders"; bezpłatnie; 9-latki dadzą radę 📅 **Dzień 12 (22 sie)**
-- [★★★☆☆ 🌳 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) — „Central Park" Taipei; 26 hektarów, staw, place zabaw, obserwacja ptaków 📅 **Dzień 10 (20 sie)** · *blisko: Dzień 12 (22 sie)*
+- [★★★★☆ 🌳🗼 Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei) — Krótkie, ale strome podejście (10-20 min); ikoniczne zdjęcie Taipei 101 z punktu widokowego „Six Boulders"; bezpłatnie; 9-latki dadzą radę 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ 🌳 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) — „Central Park" Taipei; 26 hektarów, staw, place zabaw, obserwacja ptaków 📅 **Dzień 11 (21 sie)** · *blisko: Dzień 13 (23 sie)*
 
 #### Jedzenie (bez sieciówek)
-- [★★★★☆ 🍜 Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei) — Uznana przez TimeOut za 4. najfajniejszą ulicę świata; nr 1 w Azji 📅 **Dzień 17 (27 sie)**
-  - [★★★☆☆ 🍜 Yongkang Beef Noodles](https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei) — Od 1963 r.; esencjonalny bulion; otwarte 11:00-20:30 📅 **Dzień 17 (27 sie)**
-  - [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Od 1963 r.; słynne smażone pierożki pot-sticker 📅 **Dzień 17 (27 sie)** · *blisko: Dzień 12 (22 sie)*
-  - [★★★★☆ 🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Pierwotna lokalizacja (od 2025 r. tylko na wynos); weź xiao long bao i zjedz w parku 📅 **Dzień 17 (27 sie)** · *blisko: Dzień 12 (22 sie)*
+- [★★★★☆ 🍜 Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei) — Uznana przez TimeOut za 4. najfajniejszą ulicę świata; nr 1 w Azji 📅 **Dzień 18 (28 sie)**
+  - [★★★☆☆ 🍜 Yongkang Beef Noodles](https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei) — Od 1963 r.; esencjonalny bulion; otwarte 11:00-20:30 📅 **Dzień 18 (28 sie)**
+  - [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Od 1963 r.; słynne smażone pierożki pot-sticker 📅 **Dzień 18 (28 sie)** · *blisko: Dzień 13 (23 sie)*
+  - [★★★★☆ 🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Pierwotna lokalizacja (od 2025 r. tylko na wynos); weź xiao long bao i zjedz w parku 📅 **Dzień 18 (28 sie)** · *blisko: Dzień 13 (23 sie)*
 
 #### Nocne targi
-- [★★★★☆ 🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei) — Uznawany za najlepszy w Taipei dla foodies; 6 straganów z wyróżnieniem Michelin; Fuzhou Black Pepper Buns przy wejściu (wieczna kolejka) 📅 **Dzień 12 (22 sie)**
-- [★★★☆☆ 🏮 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei) — Najbardziej „wyrafinowany" nocny targ; nowatorskie bubble tea, kiełbaski gourmet 📅 **Dzień 17 (27 sie)** · *blisko: Dzień 12 (22 sie)*
+- [★★★★☆ 🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei) — Uznawany za najlepszy w Taipei dla foodies; 6 straganów z wyróżnieniem Michelin; Fuzhou Black Pepper Buns przy wejściu (wieczna kolejka) 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ 🏮 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei) — Najbardziej „wyrafinowany" nocny targ; nowatorskie bubble tea, kiełbaski gourmet 📅 **Dzień 18 (28 sie)** · *blisko: Dzień 13 (23 sie)*
 
 #### Desery
 - ☕ Lokale z kruszonym lodem z mango przy Yongkang Street (sezonowo)
 
 #### Zakupy
-- [★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — Kamienice z lat 60. dziś z niezależnymi butikami i kawiarniami z własną paloną kawą 📅 *blisko: Dzień 12 (22 sie)*
-- [★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Dzielnica odzieżowa; ciuchy dla nastolatków w cenach hurtowych 📅 *blisko: Dzień 12 (22 sie)*
-- [★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) — Najpopularniejsza w Taipei cukiernia z ciastkami ananasowymi (Nanjing E Rd, Songshan); codziennie ~08:30–20:30, spodziewaj się kolejek — idź wcześnie. Obowiązkowy przystanek na pamiątki. 📅 **Dni 18, 19 (28, 29 sie)**
-- [★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei) — Nadzienie w 100% z ananasa; bezpłatna degustacja z filiżanką oolongu (flagowy sklep Minsheng, Songshan); codziennie ~10:00–20:00 📅 **Dni 18, 19 (28, 29 sie)**
+- [★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — Kamienice z lat 60. dziś z niezależnymi butikami i kawiarniami z własną paloną kawą 📅 *blisko: Dzień 13 (23 sie)*
+- [★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Dzielnica odzieżowa; ciuchy dla nastolatków w cenach hurtowych 📅 *blisko: Dzień 13 (23 sie)*
+- [★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) — Najpopularniejsza w Taipei cukiernia z ciastkami ananasowymi (Nanjing E Rd, Songshan); codziennie ~08:30–20:30, spodziewaj się kolejek — idź wcześnie. Obowiązkowy przystanek na pamiątki. 📅 **Dzień 19 (29 sie)**
+- [★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei) — Nadzienie w 100% z ananasa; bezpłatna degustacja z filiżanką oolongu (flagowy sklep Minsheng, Songshan); codziennie ~10:00–20:00 📅 **Dzień 19 (29 sie)**
 
 ---
 
@@ -1325,15 +1328,15 @@ Nowoczesne Taipei, ikoniczna wieża, najlepsza ulica jedzenia w Azji, nocne targ
 Najlepszy dzień dla dzieci w Taipei — nauka, kosmos, karuzele, a potem nocny targ.
 
 #### Muzea (dla dzieci)
-- [★★★★★ 🏛️ National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei) — Największa kolekcja sztuki chińskiej na świecie; galeria dla dzieci; wstęp wolny do 17 lat; otwarte wt.-niedz. 9:00-17:00 (zamknięte w pon.) 📅 **Dzień 12 (22 sie)**
-- [★★★★☆ 🏛️🧒 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei) — Interaktywne wystawy; świetne dla 9-latków 📅 **Dzień 14 (24 sie)**
-- [★★★☆☆ 🏛️🧒 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum) — Planetarium, IMAX, wystawy o kosmosie; obok Science Center 📅 **Dzień 14 (24 sie)**
+- [★★★★★ 🏛️ National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei) — Największa kolekcja sztuki chińskiej na świecie; galeria dla dzieci; wstęp wolny do 17 lat; otwarte wt.-niedz. 9:00-17:00 (zamknięte w pon.) 📅 **Dzień 13 (23 sie)**
+- [★★★★☆ 🏛️🧒 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei) — Interaktywne wystawy; świetne dla 9-latków 📅 **Dzień 15 (25 sie)**
+- [★★★☆☆ 🏛️🧒 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum) — Planetarium, IMAX, wystawy o kosmosie; obok Science Center 📅 **Dzień 15 (25 sie)**
 
 #### Dla dzieci
-- [★★★☆☆ 🎡🧒 Taipei Children's Amusement Park](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park) — Wieża swobodnego spadania, rollercoaster, statek piracki, samochodziki; wstęp NT$30; atrakcje NT$20-100; otwarte 9:00-17:00 (w sob. do 20:00); zamknięte w pon. 📅 **Dzień 14 (24 sie)**
+- [★★★☆☆ 🎡🧒 Taipei Children's Amusement Park](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park) — Wieża swobodnego spadania, rollercoaster, statek piracki, samochodziki; wstęp NT$30; atrakcje NT$20-100; otwarte 9:00-17:00 (w sob. do 20:00); zamknięte w pon. 📅 **Dzień 15 (25 sie)**
 
 #### Nocny targ
-- [★★★★☆ 🏮 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei) — Największy na Tajwanie (od 1909 r.); ponad 500 stoisk; wielkie kiełbaski, kotlety z kurczaka, smażone bułeczki 📅 **Dzień 14 (24 sie)**
+- [★★★★☆ 🏮 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei) — Największy na Tajwanie (od 1909 r.); ponad 500 stoisk; wielkie kiełbaski, kotlety z kurczaka, smażone bułeczki 📅 **Dzień 15 (25 sie)**
 
 ---
 
@@ -1342,39 +1345,39 @@ Najlepszy dzień dla dzieci w Taipei — nauka, kosmos, karuzele, a potem nocny 
 Naturalne gorące źródła rano, plantacje herbaty i gondola po południu.
 
 #### Beitou
-- [★★★☆☆ 🏛️♨️ Beitou Hot Spring Museum](https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei) — Odrestaurowana japońska łaźnia z 1913 r.; BEZPŁATNIE 📅 **Dzień 12 (22 sie)**
-- [★★★★☆ 🌊♨️ Thermal Valley (Hell Valley)](https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei) — Parujące, intensywnie zielone jezioro siarkowe (80-100°C); BEZPŁATNIE; nie z tego świata 📅 **Dzień 12 (22 sie)**
-- [★★★☆☆ ♨️🧒 Spring City Resort](https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei) — Najlepsze publiczne gorące źródła dla dzieci; kilka basenów, przyjazne rodzinom 📅 **Dzień 12 (22 sie)**
-- [★★☆☆☆ 🌳♨️ Beitou Park](https://www.google.com/maps/search/Beitou+Park+Taipei) — Centrum edukacyjne o gorących źródłach, strefa zabaw w gorącej wodzie dla dzieci 📅 *blisko: Dzień 12 (22 sie)*
+- [★★★☆☆ 🏛️♨️ Beitou Hot Spring Museum](https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei) — Odrestaurowana japońska łaźnia z 1913 r.; BEZPŁATNIE 📅 **Dzień 13 (23 sie)**
+- [★★★★☆ 🌊♨️ Thermal Valley (Hell Valley)](https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei) — Parujące, intensywnie zielone jezioro siarkowe (80-100°C); BEZPŁATNIE; nie z tego świata 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ ♨️🧒 Spring City Resort](https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei) — Najlepsze publiczne gorące źródła dla dzieci; kilka basenów, przyjazne rodzinom 📅 **Dzień 13 (23 sie)**
+- [★★☆☆☆ 🌳♨️ Beitou Park](https://www.google.com/maps/search/Beitou+Park+Taipei) — Centrum edukacyjne o gorących źródłach, strefa zabaw w gorącej wodzie dla dzieci 📅 *blisko: Dzień 13 (23 sie)*
 
 #### Maokong
-- [★★★★☆ 🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei) — 30-minutowa przejażdżka nad plantacjami herbaty i dolinami; dostępna kabina ze szklaną podłogą (NT$50 dopłaty); dzieci to uwielbiają; NT$180 za przejazd lub NT$300 za pass na dzień 📅 **Dzień 17 (27 sie)**
+- [★★★★☆ 🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei) — 30-minutowa przejażdżka nad plantacjami herbaty i dolinami; dostępna kabina ze szklaną podłogą (NT$50 dopłaty); dzieci to uwielbiają; NT$180 za przejazd lub NT$300 za pass na dzień 📅 **Dzień 18 (28 sie)**
 - 🍵 Herbaciarnie na szczycie — Mountain Tea House, Found Your Tea, The Big Tea Pot
-- ★★★☆☆ Połącz z [🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) przy dolnej stacji gondoli — Jedno z największych w Azji 📅 **Dzień 17 (27 sie)**
+- ★★★☆☆ Połącz z [🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) przy dolnej stacji gondoli — Jedno z największych w Azji 📅 **Dzień 18 (28 sie)**
 
 ---
 
 ### Inne atrakcje w Taipei
 
 #### Wyjątkowe doświadczenia
-- [★★★☆☆ 🎨🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei) — Opuszczona osada zamieniona w kolonię artystów; warsztaty robotów, neonowe instalacje, rzeźby na wolnym powietrzu 📅 **Dzień 18 (28 sie)**
-- [★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) — Dawne miasteczko górnicze; setki przyjaznych kotów; mostki w kształcie kotów; łatwy dojazd pociągiem z Taipei 📅 **Dzień 18 (28 sie)**
+- [★★★☆☆ 🎨🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei) — Opuszczona osada zamieniona w kolonię artystów; warsztaty robotów, neonowe instalacje, rzeźby na wolnym powietrzu 📅 *blisko: Dzień 19 (29 sie)*
+- [★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) — Dawne miasteczko górnicze; setki przyjaznych kotów; mostki w kształcie kotów; łatwy dojazd pociągiem z Taipei 📅 *blisko: Dzień 19 (29 sie)*
 - ★★★☆☆ 📸🧒 Airport Alley (lotnisko Songshan) — Samoloty lądują kilka metrów od ciebie; bezpłatnie, dla dzieci wielkie przeżycie
-- [★★★☆☆ 🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) — Największy na Tajwanie; gadżety dostępne tylko tutaj 📅 **Dzień 12 (22 sie)**
-- [★★★☆☆ 🎁🧒 Donguri Republic (Studio Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Najwyższe piętro Shin Kong Mitsukoshi A8; wielki kotobus Totoro, do którego dzieci mogą wejść 📅 **Dzień 12 (22 sie)**
-- [★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum of Cake and Pastry](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei) — 2-godzinne warsztaty pieczenia ciastek ananasowych; ikoniczne tajwańskie ciastka ananasowe robione od podstaw 📅 **Dzień 18 (28 sie)**
+- [★★★☆☆ 🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) — Największy na Tajwanie; gadżety dostępne tylko tutaj 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ 🎁🧒 Donguri Republic (Studio Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Najwyższe piętro Shin Kong Mitsukoshi A8; wielki kotobus Totoro, do którego dzieci mogą wejść 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum of Cake and Pastry](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei) — 2-godzinne warsztaty pieczenia ciastek ananasowych; ikoniczne tajwańskie ciastka ananasowe robione od podstaw 📅 *blisko: Dzień 19 (29 sie)*
 
 #### Kawiarnie tematyczne
-- [★★☆☆☆ ☕ Alice is Coming Cafe](https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei) — W stylu Krainy Czarów; toalety jak z bajki 📅 *blisko: Dni 14, 18 (24, 28 sie)*
-- [★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei) — Pierwsza kawiarnia z kapibarami w Taipei; a do tego króliki i kaczki 📅 **Dzień 18 (28 sie)** · *blisko: Dzień 14 (24 sie)*
+- [★★☆☆☆ ☕ Alice is Coming Cafe](https://www.google.com/maps/search/Alice+is+Coming+Cafe+Taipei) — W stylu Krainy Czarów; toalety jak z bajki 📅 *blisko: Dzień 15 (25 sie)*
+- [★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei) — Pierwsza kawiarnia z kapibarami w Taipei; a do tego króliki i kaczki 📅 *blisko: Dni 15, 19 (25, 29 sie)*
 
 #### Bubble tea i desery
-- [★★★☆☆ 🧋 50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — Jedna z najbardziej ikonicznych lokalnych sieci boba na Tajwanie; pearl milk tea obowiązkowo 📅 *blisko: Dni 12, 14 (22, 24 sie)*
-- [★★☆☆☆ ☕ Come Eat Sweets (Lai Ja Tian)](https://www.google.com/maps/search/Lai+Ja+Tian+Taipei) — Blisko Main Station; gorące tang yuan (kulki ryżowe) w startych orzeszkach ziemnych na kruszonym lodzie 📅 *blisko: Dzień 14 (24 sie)*
-- [★★☆☆☆ ☕ Nice Cream](https://www.google.com/maps/search/Nice+Cream+Taipei) — Wegańskie gelato; gofr Earl Grey; smaki zmieniane codziennie 📅 *blisko: Dni 14, 18 (24, 28 sie)*
+- [★★★☆☆ 🧋 50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — Jedna z najbardziej ikonicznych lokalnych sieci boba na Tajwanie; pearl milk tea obowiązkowo 📅 *blisko: Dni 13, 15 (23, 25 sie)*
+- [★★☆☆☆ ☕ Come Eat Sweets (Lai Ja Tian)](https://www.google.com/maps/search/Lai+Ja+Tian+Taipei) — Blisko Main Station; gorące tang yuan (kulki ryżowe) w startych orzeszkach ziemnych na kruszonym lodzie 📅 *blisko: Dzień 15 (25 sie)*
+- [★★☆☆☆ ☕ Nice Cream](https://www.google.com/maps/search/Nice+Cream+Taipei) — Wegańskie gelato; gofr Earl Grey; smaki zmieniane codziennie 📅 *blisko: Dzień 15 (25 sie)*
 
 #### Więcej nocnych targów
-- [★★★☆☆ 🏮 Nanjichang Night Market](https://www.google.com/maps/search/Nanjichang+Night+Market+Taipei) — Najbardziej lokalny klimat; stragany wyróżnione przez Michelin; Smelly Boss (najbardziej cuchnące stinky tofu); tajwańskie burrito (Run Bing) 📅 **Dzień 11 (21 sie)**
+- [★★★☆☆ 🏮 Nanjichang Night Market](https://www.google.com/maps/search/Nanjichang+Night+Market+Taipei) — Najbardziej lokalny klimat; stragany wyróżnione przez Michelin; Smelly Boss (najbardziej cuchnące stinky tofu); tajwańskie burrito (Run Bing) 📅 **Dzień 12 (22 sie)**
 
 ---
 
@@ -1393,18 +1396,18 @@ Pogrupowane według kategorii; część układa się blisko istniejących planó
 - [★★☆☆☆ 🏯📸 Zhongshan Hall](https://www.google.com/maps/search/Zhongshan+Hall+Taipei) — Gmach zgromadzeń z 1936 r., w którym Japonia formalnie przekazała Tajwan (1945); blisko Ximending/CKS Hall; ogród na dachu. ⚠️ Sprawdź, czy jest otwarty i czy nie trwa remont; godziny mogą być nieregularne.
 
 #### B. Muzea
-- [★★★★☆ 🏛️🧒 Miniatures Museum of Taiwan](https://www.google.com/maps/search/Miniatures+Museum+of+Taiwan+Taipei) — Zapierające dech dioramy w skali domku dla lalek (Titanic, zamki, malutkie działające światełka); wielki magnes na dzieci. Wt.–niedz. 10:00–18:00 (ostatnie wejście 17:00), zamknięte w pon.; bilet łączony z National Taiwan Museum i MOCA. 📅 **Dzień 18 (28 sie)**
+- [★★★★☆ 🏛️🧒 Miniatures Museum of Taiwan](https://www.google.com/maps/search/Miniatures+Museum+of+Taiwan+Taipei) — Zapierające dech dioramy w skali domku dla lalek (Titanic, zamki, malutkie działające światełka); wielki magnes na dzieci. Wt.–niedz. 10:00–18:00 (ostatnie wejście 17:00), zamknięte w pon.; bilet łączony z National Taiwan Museum i MOCA. 📅 **Dzień 19 (29 sie)**
 - [★★★★☆ 🏛️🎨🧒 Yingge Ceramics Museum (New Taipei)](https://www.google.com/maps/search/Yingge+Ceramics+Museum+New+Taipei) — Jedyne muzeum ceramiki na Tajwanie; warsztaty przy kole garncarskim i lepienia z gliny dla dzieci plus zewnętrzny plac z wodnymi dyszami (świetny w sierpniu). NT$80; dni powszednie 9:30–17:00, weekendy do 18:00, zamknięte w pierwszy pon. miesiąca. Połącz z Yingge Old Street.
-- [★★★☆☆ 🏛️ National Taiwan Museum (Main Building)](https://www.google.com/maps/search/National+Taiwan+Museum+228+Park+Taipei) — Neoklasycystyczny budynek z kopułą z 1915 r. w 228 Peace Park; historia naturalna i artefakty ludów rdzennych. Wt.–niedz. 9:30–17:00, zamknięte w pon.; dostępny bilet łączony. 📅 **Dzień 11 (21 sie)**
+- [★★★☆☆ 🏛️ National Taiwan Museum (Main Building)](https://www.google.com/maps/search/National+Taiwan+Museum+228+Park+Taipei) — Neoklasycystyczny budynek z kopułą z 1915 r. w 228 Peace Park; historia naturalna i artefakty ludów rdzennych. Wt.–niedz. 9:30–17:00, zamknięte w pon.; dostępny bilet łączony. 📅 **Dzień 12 (22 sie)**
 - [★★★☆☆ 🏛️🧒 Museum of World Religions (Yonghe)](https://www.google.com/maps/search/Museum+of+World+Religions+Yonghe+New+Taipei) — Interaktywna „Golden Hall" plus wystawy o religiach świata zrobione z myślą o dzieciach (modele, których można dotykać, labirynt dla dzieci). Wt.–niedz. 10:00–17:00, zamknięte w pon.; MRT Dingxi.
 - [★★★☆☆ 🏛️🎨🧒 Suho Memorial Paper Museum](https://www.google.com/maps/search/Suho+Memorial+Paper+Museum+Taipei) — Małe muzeum z prawdziwymi warsztatami czerpania papieru (zrobisz własną kartkę). Śr.–niedz. ~9:30–16:30 (sprawdź). Dobry godzinny przystanek na deszczowy dzień.
-- [★★★☆☆ 🏛️ Shung Ye Museum of Formosan Aborigines](https://www.google.com/maps/search/Shung+Ye+Museum+Formosan+Aborigines+Taipei) — Artefakty kultury ludów rdzennych dosłownie po drugiej stronie ulicy od National Palace Museum — dodatek niemal bez kosztu logistycznego. ~NT$150 (sprawdź), zamknięte w pon. 📅 **Dzień 12 (22 sie)**
+- [★★★☆☆ 🏛️ Shung Ye Museum of Formosan Aborigines](https://www.google.com/maps/search/Shung+Ye+Museum+Formosan+Aborigines+Taipei) — Artefakty kultury ludów rdzennych dosłownie po drugiej stronie ulicy od National Palace Museum — dodatek niemal bez kosztu logistycznego. ~NT$150 (sprawdź), zamknięte w pon. 📅 **Dzień 13 (23 sie)**
 - [★★★☆☆ 🏛️🧒 Postal Museum](https://www.google.com/maps/search/Postal+Museum+Taipei) — Interaktywne wystawy o drukowaniu znaczków i sortowaniu poczty blisko CKS Hall; ~NT$20–30, zamknięte w pon. Dobra 45-minutowa przerwa w klimatyzacji.
 
 #### C. Sztuka
-- [★★★★☆ 🚶🎨🧒📸🤳 Huashan 1914 Creative Park (+ teamLab Future Park)](https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei) — Dawna gorzelnia zamieniona w główną **dzielnicę** sztuki kreatywnej w Taipei: galerie, sklepy z designem, niezależne butiki i otwarte trawniki, po których warto pochodzić jako po całości (wejście do parku bezpłatne) — to właśnie ta dzielnica jest atrakcją. Działa tu też od dawna immersyjna instalacja cyfrowa teamLab „Future Park" (🤳) — opcjonalny dodatek o niskim priorytecie, jeśli 9- i 11-latek będą chcieli, a nie powód, by tu przyjść. ⚠️ Sprawdź, czy teamLab wciąż działa w sie 2026 (termin wielokrotnie przedłużany) i kup bilety na godzinę. 📅 **Dzień 18 (28 sie)**
-- [★★★★☆ 🏛️🎨 Taipei Fine Arts Museum (TFAM)](https://www.google.com/maps/search/Taipei+Fine+Arts+Museum+Taipei) — Najważniejsze muzeum sztuki nowoczesnej na Tajwanie; w 2026 r. m.in. wystawa dźwiękowo-medialna Ryuichiego Sakamoto i „Surrealism: Worlds in Dialogue". Wt.–pt. i niedz. 9:30–17:30, sob. do 20:30 (w sob. 17:00–20:30 bezpłatnie), zamknięte w pon. 📅 *blisko: Dzień 18 (28 sie)*
-- [★★★☆☆ 🏛️🎨 Museum of Contemporary Art Taipei (MOCA)](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei) — Sztuka współczesna w urokliwym budynku dawnej szkoły z początku XX w. blisko Zhongshan. NT$100; wt.–niedz. 10:00–18:00 (ostatnie wejście 17:30), zamknięte w pon. 📅 **Dzień 18 (28 sie)**
+- [★★★★☆ 🚶🎨🧒📸🤳 Huashan 1914 Creative Park (+ teamLab Future Park)](https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei) — Dawna gorzelnia zamieniona w główną **dzielnicę** sztuki kreatywnej w Taipei: galerie, sklepy z designem, niezależne butiki i otwarte trawniki, po których warto pochodzić jako po całości (wejście do parku bezpłatne) — to właśnie ta dzielnica jest atrakcją. Działa tu też od dawna immersyjna instalacja cyfrowa teamLab „Future Park" (🤳) — opcjonalny dodatek o niskim priorytecie, jeśli 9- i 11-latek będą chcieli, a nie powód, by tu przyjść. ⚠️ Sprawdź, czy teamLab wciąż działa w sie 2026 (termin wielokrotnie przedłużany) i kup bilety na godzinę. 📅 **Dzień 19 (29 sie)**
+- [★★★★☆ 🏛️🎨 Taipei Fine Arts Museum (TFAM)](https://www.google.com/maps/search/Taipei+Fine+Arts+Museum+Taipei) — Najważniejsze muzeum sztuki nowoczesnej na Tajwanie; w 2026 r. m.in. wystawa dźwiękowo-medialna Ryuichiego Sakamoto i „Surrealism: Worlds in Dialogue". Wt.–pt. i niedz. 9:30–17:30, sob. do 20:30 (w sob. 17:00–20:30 bezpłatnie), zamknięte w pon. 📅 *blisko: Dzień 19 (29 sie)*
+- [★★★☆☆ 🏛️🎨 Museum of Contemporary Art Taipei (MOCA)](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei) — Sztuka współczesna w urokliwym budynku dawnej szkoły z początku XX w. blisko Zhongshan. NT$100; wt.–niedz. 10:00–18:00 (ostatnie wejście 17:30), zamknięte w pon. 📅 **Dzień 19 (29 sie)**
 - [★★★☆☆ 🎨 C-LAB (Taiwan Contemporary Culture Lab)](https://www.google.com/maps/search/C-LAB+Taipei) — Bezpłatny kampus sztuki i kultury eksperymentalnej na terenie dawnej kwatery głównej lotnictwa; „Creative Expo Taiwan 2026" trwa 1–31 sie, czyli przez cały pobyt w Taipei.
 
 #### D. Zabytki i widoki
@@ -1468,7 +1471,7 @@ Drugie, bardziej niszowe przeszukanie — świątynie bez dymu kadzidła, sala z
 
 #### B. Muzea
 - [★★★★☆ 🏛️🧒 National Taiwan Museum — Land Bank Exhibition Hall („muzeum dinozaurów")](https://www.google.com/maps/search/National+Taiwan+Museum+Land+Bank+Exhibition+Hall+Taipei) — Dawny bank z lat 30. XX w., nazywany tak od replik tarbozaura, triceratopsa i welociraptora w naturalnej wielkości, plus wielkie skarbce, „teleskopy dinozaurowe" VR i wykopywanie skamieniałości. Wt.–niedz. 9:30–17:00, zamknięte w pon.; NT$30/15 — bilet obejmuje też główny gmach NTM obok. Mocny magnes dla 9- i 11-latka.
-- [★★★★☆ 🏛️🧒 National Railway Museum (Taipei Railway Workshop)](https://www.google.com/maps/search/National+Railway+Museum+Taipei) — Zupełnie nowe (2024/25), rozległe warsztaty kolejowe z epoki japońskiej z prawdziwymi lokomotywami, parowozowniami i taborem, który można obejść. Wt.–niedz. 9:30–17:00 (ostatnie wejście 16:30), zamknięte w pon.; NT$100. Prawdziwy magnes dla fanów kolei, spokojnie 2+ godziny; jeszcze poza radarem większości turystów. 📅 **Dzień 18 (28 sie)**
+- [★★★★☆ 🏛️🧒 National Railway Museum (Taipei Railway Workshop)](https://www.google.com/maps/search/National+Railway+Museum+Taipei) — Zupełnie nowe (2024/25), rozległe warsztaty kolejowe z epoki japońskiej z prawdziwymi lokomotywami, parowozowniami i taborem, który można obejść. Wt.–niedz. 9:30–17:00 (ostatnie wejście 16:30), zamknięte w pon.; NT$100. Prawdziwy magnes dla fanów kolei, spokojnie 2+ godziny; jeszcze poza radarem większości turystów. 📅 **Dzień 19 (29 sie)**
 - [★★★☆☆ 🏛️ Taipei Story House](https://www.google.com/maps/search/Taipei+Story+House+Taipei) — Fantazyjna willa z 1913 łącząca styl tudorowski z barokiem, zbudowana przez kupca herbacianego, obok TFAM; bezpłatne zwiedzanie z przewodnikiem po chińsku 11:00 i 15:30. Wt.–niedz. 10:00–17:30, zamknięte w pon.; NT$50/40. Szybkie 20–30 min do doklejenia w okolicy TFAM.
 
 #### C. Sztuka
@@ -1538,39 +1541,39 @@ Drugie, bardziej niszowe przeszukanie — świątynie bez dymu kadzidła, sala z
 Luki wychwycone przy przeglądzie Lonely Planet wobec (już gęstego) katalogu — w większości drobne dodatki; Design Museum to jedyne poważne przeoczenie.
 
 #### Muzea
-- [★★★★☆ 🏛️🎨 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei) — Narodowe muzeum designu Tajwanu (TDRI) w Songshan Cultural & Creative Park; współczesne wystawy designu tajwańskiego i światowego — wysoko na osi nowoczesność/design. Wt.–niedz. 10:00–18:00 (ostatni bilet 17:30), zamknięte w pon.; NT$50 (sprawdź progi dla dzieci i młodzieży). Łączy się z Songshan Park / Not Just Library. 📅 *blisko: Dzień 12 (22 sie)*
-- [★★★☆☆ 🏛️ Discovery Center of Taipei](https://www.google.com/maps/search/Discovery+Center+of+Taipei) — Bezpłatne muzeum historii miasta na kondygnacjach 1–4 ratusza Taipei: makiety pokazujące Taipei od miasta w murach do metropolii + film historyczny 360°. Wt.–niedz. 9:00–17:00, zamknięte w pon. i święta; BEZPŁATNIE. Kilka minut od Taipei 101 / Sun Yat-sen Memorial Hall. 📅 *blisko: Dzień 12 (22 sie)*
-- [★★★☆☆ 🏛️🚶 Museum 207](https://www.google.com/maps/search/Museum+207+Dihua+Street+Taipei) — Malutkie, bezpłatne muzeum w kamienicy przy Dihua St 207 (dawny sklep z medycyną chińską z 1962); rotacyjne wystawy o tajwańskiej kulturze materialnej + dach z widokiem na tradycyjne dachy Minnan. Wpisuje się w spacer po Dihua St. ~10:00–17:00, zamknięte we **wtorek** (nie w pon.); wstęp wolny. 📅 *blisko: Dzień 11 (21 sie)*
+- [★★★★☆ 🏛️🎨 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei) — Narodowe muzeum designu Tajwanu (TDRI) w Songshan Cultural & Creative Park; współczesne wystawy designu tajwańskiego i światowego — wysoko na osi nowoczesność/design. Wt.–niedz. 10:00–18:00 (ostatni bilet 17:30), zamknięte w pon.; NT$50 (sprawdź progi dla dzieci i młodzieży). Łączy się z Songshan Park / Not Just Library. 📅 *blisko: Dzień 13 (23 sie)*
+- [★★★☆☆ 🏛️ Discovery Center of Taipei](https://www.google.com/maps/search/Discovery+Center+of+Taipei) — Bezpłatne muzeum historii miasta na kondygnacjach 1–4 ratusza Taipei: makiety pokazujące Taipei od miasta w murach do metropolii + film historyczny 360°. Wt.–niedz. 9:00–17:00, zamknięte w pon. i święta; BEZPŁATNIE. Kilka minut od Taipei 101 / Sun Yat-sen Memorial Hall. 📅 *blisko: Dzień 13 (23 sie)*
+- [★★★☆☆ 🏛️🚶 Museum 207](https://www.google.com/maps/search/Museum+207+Dihua+Street+Taipei) — Malutkie, bezpłatne muzeum w kamienicy przy Dihua St 207 (dawny sklep z medycyną chińską z 1962); rotacyjne wystawy o tajwańskiej kulturze materialnej + dach z widokiem na tradycyjne dachy Minnan. Wpisuje się w spacer po Dihua St. ~10:00–17:00, zamknięte we **wtorek** (nie w pon.); wstęp wolny. 📅 *blisko: Dzień 12 (22 sie)*
 
 #### Przyroda i parki
-- [★★★☆☆ 🌳🗼📸 Jinmianshan Trail](https://www.google.com/maps/search/Jinmianshan+Trail+Taipei) — Krótka miejska wspinaczka po skałach (stałe liny na ~60–70° ścianie kwarcytowej) na grzbiet z widokiem na Taipei 101 i całą nizinę, 15 min od MRT Xihu; prawdziwy magnes dla dzieci, 9-latek da radę z uwagą. Bezpłatnie, od świtu do zmierzchu. Łączy się ze skupiskiem galerii w Neihu. ⚠️ Sierpień to sezon tajfunowy — mokra skała jest groźnie śliska; tylko suche poranki. 📅 *blisko: Dzień 18 (28 sie)*
+- [★★★☆☆ 🌳🗼📸 Jinmianshan Trail](https://www.google.com/maps/search/Jinmianshan+Trail+Taipei) — Krótka miejska wspinaczka po skałach (stałe liny na ~60–70° ścianie kwarcytowej) na grzbiet z widokiem na Taipei 101 i całą nizinę, 15 min od MRT Xihu; prawdziwy magnes dla dzieci, 9-latek da radę z uwagą. Bezpłatnie, od świtu do zmierzchu. Łączy się ze skupiskiem galerii w Neihu. ⚠️ Sierpień to sezon tajfunowy — mokra skała jest groźnie śliska; tylko suche poranki.
 
 ## TAIWAN — NORTHEAST COAST (wycieczka jednodniowa z Taipei)
 
 Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 
 ### Shifen
-- [★★★★☆ 🚶📸 Shifen Old Street](https://www.google.com/maps/search/Shifen+Old+Street+Taiwan) — Tory kolejowe biegną środkiem targowej ulicy; pociągi przejeżdżają centymetry od stoisk 📅 **Dzień 13 (23 sie)**
+- [★★★★☆ 🚶📸 Shifen Old Street](https://www.google.com/maps/search/Shifen+Old+Street+Taiwan) — Tory kolejowe biegną środkiem targowej ulicy; pociągi przejeżdżają centymetry od stoisk 📅 **Dzień 14 (24 sie)**
 - ★★★★★ 🎨🧒 Wypuszczanie lampionów — Napisz życzenia na lampionie i wypuść go w niebo; magia dla dzieci
-- [★★★☆☆ 🌊 Shifen Waterfall](https://www.google.com/maps/search/Shifen+Waterfall+Taiwan) — Najszerszy na Tajwanie; „mała Niagara"; krótki spacer od starej ulicy 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ 🌊 Shifen Waterfall](https://www.google.com/maps/search/Shifen+Waterfall+Taiwan) — Najszerszy na Tajwanie; „mała Niagara"; krótki spacer od starej ulicy 📅 **Dzień 14 (24 sie)**
 
 ### Jiufen
-- [★★★★★ 🚶📸 Jiufen Old Street](https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan) — Dawne górnicze miasteczko złota na szczycie góry; wąskie zaułki, czerwone lampiony, klimat rodem ze „Spirited Away" 📅 **Dzień 13 (23 sie)**
-- [★★★★☆ 🍵📸 A-Mei Tea House](https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen) — Najbardziej ikoniczna herbaciarnia; 3 kondygnacje; rozległe widoki na zatokę Keelung; czerwone lampiony o zmierzchu 📅 **Dzień 13 (23 sie)**
+- [★★★★★ 🚶📸 Jiufen Old Street](https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan) — Dawne górnicze miasteczko złota na szczycie góry; wąskie zaułki, czerwone lampiony, klimat rodem ze „Spirited Away" 📅 **Dzień 14 (24 sie)**
+- [★★★★☆ 🍵📸 A-Mei Tea House](https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen) — Najbardziej ikoniczna herbaciarnia; 3 kondygnacje; rozległe widoki na zatokę Keelung; czerwone lampiony o zmierzchu 📅 **Dzień 14 (24 sie)**
 - ★★★☆☆ ☕ Lai Ah Po Taro Balls — Pierwotny sklep z kulkami taro
 - ★★☆☆☆ ☕ Ah Zhu Peanut Ice Cream Roll — Strugany cukier orzechowy, kolendra i lody w cienkim naleśniku; dziwne i pyszne
 - Przyjedź wcześnie (przed 9:00) albo wybierz się wieczorem; w święta obowiązują ograniczenia ruchu
 
 ### Jinguashi
-- [★★★☆☆ 🏛️ Gold Museum](https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan) — Na wolnym powietrzu, w większości bezpłatnie; wystawy z czasów gorączki złota 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ 🏛️ Gold Museum](https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan) — Na wolnym powietrzu, w większości bezpłatnie; wystawy z czasów gorączki złota 📅 **Dzień 14 (24 sie)**
 - ★★★☆☆ 🌳 Szlak na Teapot Mountain — 2-3 godziny; widoki 360 stopni; do przejścia dla aktywnych 9-latków
 
 ### Yehliu
-- [★★★★☆ 🌊🧒 Yehliu Geopark](https://www.google.com/maps/search/Yehliu+Geopark+Taiwan) — Nieziemskie formacje skalne; Głowa Królowej; dzieci kochają ten kosmiczny krajobraz; 1-2 godziny 📅 **Dzień 13 (23 sie)**
+- [★★★★☆ 🌊🧒 Yehliu Geopark](https://www.google.com/maps/search/Yehliu+Geopark+Taiwan) — Nieziemskie formacje skalne; Głowa Królowej; dzieci kochają ten kosmiczny krajobraz; 1-2 godziny 📅 **Dzień 14 (24 sie)**
 - [★★★★☆ 🏛️🎨🧒 Juming Museum (朱銘美術館)](https://www.google.com/maps/search/Juming+Museum+Jinshan) — Rozległy **park rzeźby nowoczesnej** rzeźbiarza Ju Minga na zboczu (seria Taichi, Living World) + galerie wewnętrzne w Jinshan, ~15 min od Yehliu. Maj–paź 10:00–18:00 (ostatnie wejście 17:00), zamknięte w pon.; dorosły NT$280, uczeń/student i senior NT$250, do 6 lat bezpłatnie (**North Coast Art Festival 17.07–27.09.2026 = NT$200 taniej**, obejmuje wasze daty). ⚠️ Łączy się z Yehliu, ale wymaga ~2–3 h — konkuruje o czas z osią Shifen/Jiufen.
 
 ### Inne
-- [★★★☆☆ 🌊 Golden Waterfall](https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan) — Wodospad o pomarańczowym odcieniu od osadów mineralnych; bardzo fotogeniczny 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ 🌊 Golden Waterfall](https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan) — Wodospad o pomarańczowym odcieniu od osadów mineralnych; bardzo fotogeniczny 📅 **Dzień 14 (24 sie)**
 
 ---
 
@@ -1579,42 +1582,42 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 1 h 45 min z Taipei pociągiem HSR. Jedzenie jest wyraźnie słodsze; porcje celowo małe — po to, żeby spróbować wielu potraw.
 
 ### Świątynie
-- [★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple) — Zbudowana w 1665; najstarsza na Tajwanie; 15 budynków 📅 *blisko: Dzień 15 (25 sie)*
-- [★★★☆☆ 🏯 Grand Matsu Temple (Da Tianhou Gong)](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) — Pierwotnie pałac księcia z dynastii Ming Południowych (1664); największa kolekcja dawnych tablic z inskrypcjami 📅 **Dzień 16 (26 sie)** · *blisko: Dzień 15 (25 sie)*
-- [★★★★☆ 🏯 Chihkan Tower (Fort Provintia)](https://www.google.com/maps/search/Chihkan+Tower+Tainan) — Zbudowana przez Holendrów w 1653; pięknie podświetlona nocą 📅 **Dzień 16 (26 sie)**
-- [★★★☆☆ 🏯 Koxinga Shrine](https://www.google.com/maps/search/Koxinga+Shrine+Tainan) — Czerwono-złoty chram bohatera, który wypędził Holendrów 📅 *blisko: Dzień 15 (25 sie)*
+- [★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple) — Zbudowana w 1665; najstarsza na Tajwanie; 15 budynków 📅 *blisko: Dzień 16 (26 sie)*
+- [★★★☆☆ 🏯 Grand Matsu Temple (Da Tianhou Gong)](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) — Pierwotnie pałac księcia z dynastii Ming Południowych (1664); największa kolekcja dawnych tablic z inskrypcjami 📅 **Dzień 17 (27 sie)** · *blisko: Dzień 16 (26 sie)*
+- [★★★★☆ 🏯 Chihkan Tower (Fort Provintia)](https://www.google.com/maps/search/Chihkan+Tower+Tainan) — Zbudowana przez Holendrów w 1653; pięknie podświetlona nocą 📅 **Dzień 17 (27 sie)**
+- [★★★☆☆ 🏯 Koxinga Shrine](https://www.google.com/maps/search/Koxinga+Shrine+Tainan) — Czerwono-złoty chram bohatera, który wypędził Holendrów 📅 *blisko: Dzień 16 (26 sie)*
 
 ### Potrawy obowiązkowe (z konkretnymi miejscami)
-- [★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan) — Danzai noodles od 1895; garnek z rosołem podobno nigdy w pełni nieumyty od ponad 130 lat; codziennie 11:00–20:00 📅 **Dzień 16 (26 sie)**
-- [★★★☆☆ 🍜 Yi Wei Pin at Yongle Market](https://www.google.com/maps/search/Yi+Wei+Pin+Yongle+Market+Tainan) — Michelin Bib Gourmand; bowl rice cake + gęsta zupa z ryby mlecznej; 5:00–17:00 📅 *blisko: Dzień 15 (25 sie)*
-- [★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan) — Idź wczesnym rankiem; to jedzenie śniadaniowe. ⚠️ Zamknięte pon.–śr. (otwarte czw.–niedz. 05:00–11:00) — w środę rano idź zamiast tego do A Cun Beef Soup (阿村)
-- [★★★☆☆ 🍜 A Cun Beef Soup 阿村牛肉湯](https://www.google.com/maps/search/A+Cun+Beef+Soup+Tainan) — Śniadaniowa zupa wołowa z Tainanu wyróżniona w Michelin; świeża wołowina z ciepłego uboju; Guohua St / Bao'an Rd; w śr. otwarte od ~4:00 (alternatywa dla Six Thousand na środowy poranek) 📅 **Dzień 16 (26 sie)**
+- [★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan) — Danzai noodles od 1895; garnek z rosołem podobno nigdy w pełni nieumyty od ponad 130 lat; codziennie 11:00–20:00 📅 **Dzień 17 (27 sie)**
+- [★★★☆☆ 🍜 Yi Wei Pin at Yongle Market](https://www.google.com/maps/search/Yi+Wei+Pin+Yongle+Market+Tainan) — Michelin Bib Gourmand; bowl rice cake + gęsta zupa z ryby mlecznej; 5:00–17:00 📅 *blisko: Dzień 16 (26 sie)*
+- [★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan) — Idź wczesnym rankiem; to jedzenie śniadaniowe. ⚠️ Zamknięte pon.–śr. (otwarte czw.–niedz. 05:00–11:00) — w środę rano idź zamiast tego do A Cun Beef Soup (阿村) 📅 **Dzień 17 (27 sie)**
+- [★★★☆☆ 🍜 A Cun Beef Soup 阿村牛肉湯](https://www.google.com/maps/search/A+Cun+Beef+Soup+Tainan) — Śniadaniowa zupa wołowa z Tainanu wyróżniona w Michelin; świeża wołowina z ciepłego uboju; Guohua St / Bao'an Rd; w śr. otwarte od ~4:00 (alternatywa dla Six Thousand na środowy poranek) 📅 **Dzień 17 (27 sie)**
 - 🍜 Coffin Bread (Guan Cai Ban) — Gruby tost wydrążony w środku, wypełniony gęstą zupą z owoców morza i smażony w głębokim tłuszczu
-- [★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan) — Słynne na Anping Old Street 📅 **Dzień 15 (25 sie)**
-- [★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan) — Jedwabiste douhua na Anping Old Street 📅 **Dzień 15 (25 sie)**
-- [★★★☆☆ 🍜 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan) — Główna arteria jedzeniowa; stoisko za stoiskiem 📅 **Dzień 16 (26 sie)**
+- [★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan) — Słynne na Anping Old Street 📅 **Dzień 16 (26 sie)**
+- [★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan) — Jedwabiste douhua na Anping Old Street 📅 **Dzień 16 (26 sie)**
+- [★★★☆☆ 🍜 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan) — Główna arteria jedzeniowa; stoisko za stoiskiem 📅 **Dzień 17 (27 sie)**
 
 ### Historyczne ulice
-- [★★★★☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan) — Z czasów dynastii Qing; modne kawiarnie w starych kamienicach; doroczny festiwal lampionów; piękna dniem i nocą 📅 **Dzień 15 (25 sie)**
+- [★★★★☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan) — Z czasów dynastii Qing; modne kawiarnie w starych kamienicach; doroczny festiwal lampionów; piękna dniem i nocą 📅 **Dzień 16 (26 sie)**
 - ★★☆☆☆ 🚶🤪 Snail Alley — Ukryta okolica; figurki ślimaków wszędzie; zamień to w podchody z dziećmi
-- [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Blisko Fort Zeelandia; stoiska z jedzeniem, krakersy krewetkowe 📅 **Dzień 15 (25 sie)** · *blisko: Dzień 16 (26 sie)*
+- [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Blisko Fort Zeelandia; stoiska z jedzeniem, krakersy krewetkowe 📅 **Dzień 16 (26 sie)** · *blisko: Dzień 17 (27 sie)*
 
 ### Zabytki
-- [★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan) — Magazyn pochłonięty przez korzenie figowca banyan; przejście wśród splecionych drzew; codziennie 8:30–17:30; na miejscu lody Ninao 📅 **Dzień 15 (25 sie)**
-- [★★★☆☆ 🛍️📸 Hayashi Department Store](https://www.google.com/maps/search/Hayashi+Department+Store+Tainan) — Budynek z 1932 przywrócony do blasku lat 30.; herbaty, pamiątki w stylu vintage; chram shintō na dachu (jedyny na Tajwanie) 📅 **Dzień 16 (26 sie)**
-- [★★☆☆☆ 🎨🛍️ Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Dawne mieszkania służbowe sądownictwa; sklepy z rękodziełem, instalacje artystyczne 📅 *blisko: Dni 15, 16 (25, 26 sie)*
-- [★★★☆☆ 🏯 Fort Zeelandia (Anping Old Fort)](https://www.google.com/maps/search/Fort+Zeelandia+Tainan) — Zbudowany przez Holendrów w 1624 📅 **Dzień 15 (25 sie)**
+- [★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan) — Magazyn pochłonięty przez korzenie figowca banyan; przejście wśród splecionych drzew; codziennie 8:30–17:30; na miejscu lody Ninao 📅 **Dzień 16 (26 sie)**
+- [★★★☆☆ 🛍️📸 Hayashi Department Store](https://www.google.com/maps/search/Hayashi+Department+Store+Tainan) — Budynek z 1932 przywrócony do blasku lat 30.; herbaty, pamiątki w stylu vintage; chram shintō na dachu (jedyny na Tajwanie) 📅 **Dzień 17 (27 sie)**
+- [★★☆☆☆ 🎨🛍️ Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Dawne mieszkania służbowe sądownictwa; sklepy z rękodziełem, instalacje artystyczne 📅 *blisko: Dni 16, 17 (26, 27 sie)*
+- [★★★☆☆ 🏯 Fort Zeelandia (Anping Old Fort)](https://www.google.com/maps/search/Fort+Zeelandia+Tainan) — Zbudowany przez Holendrów w 1624 📅 **Dzień 16 (26 sie)**
 
 ### Kawiarnie
-- [★★☆☆☆ ☕ Kokoni Cafe](https://www.google.com/maps/search/Kokoni+Cafe+Tainan) — Blisko Chihkan Tower; pancake'i z boba i mlekiem, shaved ice z mango i klejącym ryżem 📅 *blisko: Dzień 15 (25 sie)*
-- [★★☆☆☆ ☕🍺 Swallow Tainan](https://www.google.com/maps/search/Swallow+Tainan) — Industrialny chic; rzemieślnicza kawa w ciągu dnia, bar koktajlowy wieczorem 📅 *blisko: Dzień 15 (25 sie)*
+- [★★☆☆☆ ☕ Kokoni Cafe](https://www.google.com/maps/search/Kokoni+Cafe+Tainan) — Blisko Chihkan Tower; pancake'i z boba i mlekiem, shaved ice z mango i klejącym ryżem 📅 *blisko: Dzień 16 (26 sie)*
+- [★★☆☆☆ ☕🍺 Swallow Tainan](https://www.google.com/maps/search/Swallow+Tainan) — Industrialny chic; rzemieślnicza kawa w ciągu dnia, bar koktajlowy wieczorem 📅 *blisko: Dzień 16 (26 sie)*
 
 ### Nocne targi
 - [★★★★☆ 🏮 Garden Night Market (Hua Yuan)](https://www.google.com/maps/search/Garden+Night+Market+Tainan) — Największy w Tainanie; ~400 stoisk; wieczory czw.–niedz.
-- [★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan) — ~300-350 stoisk; pon., wt., pt. od 18:00 do 1:30; food truck Ancient Scallion Pancake (najpopularniejsze stoisko) 📅 **Dzień 15 (25 sie)**
+- [★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan) — ~300-350 stoisk; pon., wt., pt. od 18:00 do 1:30; food truck Ancient Scallion Pancake (najpopularniejsze stoisko)
 
 ### Muzeum
-- [★★★☆☆ 🏛️ Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum) 📅 **Dzień 16 (26 sie)**
+- [★★★☆☆ 🏛️ Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum) 📅 **Dzień 17 (27 sie)**
 - [★★★☆☆ 📷🏛️ Fotoaura Institute of Photography (海馬迴光畫館)](https://www.google.com/maps/search/Fotoaura+Institute+of+Photography+Tainan) — Mała niezależna przestrzeń sztuki fotograficznej (od 2009), Chenggong Rd 83, 2. kondygnacja; prawdziwa galeria fotografii. Śr.–niedz. ~13:00–20:00 (⚠️ sprawdź — dane o godzinach są stare). ⚠️ Otwarcie o 13:00, a Tainan to tylko *poranny* przystanek 26 sie → raczej się nie zmieści; skatalogowane dla porządku.
 - [★★★☆☆ 🎨📷 B.B.ART](https://www.google.com/maps/search/B.B.ART+Tainan) — Galeria sztuki współczesnej w dawnym domu towarowym z lat 30. przy Minquan Rd (Zhongxi): rotacyjne wystawy na 1. i 3. kondygnacji, kawiarnia na 2.; wstęp wolny. Wt.–niedz. 11:30–19:00 (w niedz. do 18:00), zamknięte w pon. ⚠️ Otwarcie 11:30 — ciasno przy tylko porannym Tainanie 26 sie.
 - [★★★☆☆ 🎨📷🧒 Soulangh Cultural Park (蕭壠文化園區)](https://www.google.com/maps/search/Soulangh+Cultural+Park+Tainan) — Kompleks cukrowni z epoki japońskiej przemieniony w kampus sztuki współczesnej i rezydencji artystycznych, z rotacyjnymi wystawami i halami o kulturze Siraya; wstęp wolny. ~Wt.–niedz. 09:00–17:00, zamknięte w pon. (część hal także we wt. — sprawdź). ⚠️ Jiali, ~30–40 min na północ od Tainanu — za daleko na przejazdowo napięty poranek 26 sie; tylko do wiadomości.
@@ -1627,7 +1630,7 @@ Pogrupowane według kategorii. **Uwaga o sierpniu:** szczyt upałów i sezon taj
 
 #### A. Historia i dziedzictwo
 - [★★★★☆ 🏯 Kaiyuan Temple](https://www.google.com/maps/search/Kaiyuan+Temple+Tainan) — Największy i najstarszy kompleks świątyni buddyjskiej w Tainan (przebudowany w 1690 z rezydencji księcia lojalnego dynastii Ming); najstarszy dzwon z brązu na Tajwanie (1695) i wielkie dziedzińce w cieniu banianów. Zabytek narodowy, wstęp wolny, ~30–60 min. Spokojniej niż w Confucius Temple.
-- [★★★★☆ 🏯📸 Eternal Golden Castle (Erkunshen Fort)](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan) — Gwiaździsta forteca z czasów dynastii Qing (1874–76, projekt francuskiego inżyniera wojskowego) z armatami, fosą i mostem zwodzonym — to *inny* fort niż Fort Zeelandia. ~NT$50 (do potwierdzenia). 5 min pieszo od skupiska przy Anping Treehouse. 📅 **Dzień 15 (25 sie)**
+- [★★★★☆ 🏯📸 Eternal Golden Castle (Erkunshen Fort)](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan) — Gwiaździsta forteca z czasów dynastii Qing (1874–76, projekt francuskiego inżyniera wojskowego) z armatami, fosą i mostem zwodzonym — to *inny* fort niż Fort Zeelandia. ~NT$50 (do potwierdzenia). 5 min pieszo od skupiska przy Anping Treehouse. 📅 **Dzień 16 (26 sie)**
 - [★★★☆☆ 🏯🤪 Taiwanfu City God Temple](https://www.google.com/maps/search/Taiwanfu+City+God+Temple+Tainan) — Klimatyczna świątynia „biurokracji zaświatów" z gigantycznym liczydłem do zliczania dobrych i złych czynów zmarłych; starsze dzieci (11/15) zapamiętają ten mroczny, straszny nastrój. 10 min pieszo na południowy zachód od dworca. Wstęp wolny.
 - [★★★☆☆ 🏯 Anping Grand Mazu Temple](https://www.google.com/maps/search/Anping+Grand+Mazu+Temple+Tainan) — Podobno najstarsza nieprzerwanie działająca świątynia Matsu na Tajwanie (wśród relikwii drewniane stołki z czasów dynastii Song). Łatwy dodatek przy pętli Anping Old Fort/Treehouse.
 - [★★★☆☆ 🏯 Wufei Temple (Temple of Five Concubines)](https://www.google.com/maps/search/Wufei+Temple+Tainan) — Mały, spokojny chram i grobowiec pięciu konkubin ostatniego księcia lojalnego Mingom, które odebrały sobie życie, gdy Qing zajęli Tajwan (1683); przejmujące, ciche, zacienione. Wstęp wolny, ~15 min.
@@ -1656,7 +1659,7 @@ Pogrupowane według kategorii. **Uwaga o sierpniu:** szczyt upałów i sezon taj
 - [★★★★☆ 🎡🧒 Ten Drum Culture Village (Rende)](https://www.google.com/maps/search/Ten+Drum+Culture+Village+Tainan) — Dawna cukrownia odrodzona jako miejsce pokazów bębnów i park przygody: tyrolki nad starymi silosami, pokazy bębnów, instalacje artystyczne, strefy zabaw dla dzieci. Blisko Chimei Museum i dworca Tainan HSR — połącz w jeden dzień w Rende. ⚠️ Sprawdź godziny i ceny na 2026 na tendrum.com.tw.
 
 #### G. Targi i street food
-- [★★★☆☆ 🏮 Wusheng Night Market](https://www.google.com/maps/search/Wusheng+Night+Market+Tainan) — Trzeci największy nocny targ w Tainan, działa w śr. i sob. — użytecznie wypełnia lukę w wieczory, gdy Garden i Dadong są zamknięte.
+- [★★★☆☆ 🏮 Wusheng Night Market](https://www.google.com/maps/search/Wusheng+Night+Market+Tainan) — Trzeci największy nocny targ w Tainan, działa w śr. i sob. — użytecznie wypełnia lukę w wieczory, gdy Garden i Dadong są zamknięte. 📅 **Dzień 16 (26 sie)**
 - [★★★☆☆ 🛍️🍜 Shuixian Gong Market](https://www.google.com/maps/search/Shuixian+Gong+Market+Tainan) — Autentyczny (nieturystyczny) poranny targ spożywczy z cenionym barem sushi w środku; prawdziwy lokalny koloryt, jeśli rodzina wstanie wcześnie.
 
 #### H. Potrawy do spróbowania
@@ -1718,10 +1721,10 @@ Głębsze typy z Tainan. Te same zastrzeżenia: sierpniowy upał i tajfuny; Mies
 Skupisko świątyń w centrum starego miasta plus dwie galerie z przeglądu Lonely Planet. Wszystkie świątynie bezpłatne; dwa miejsca oznaczone jako słabo pasujące do wyłącznie porannego okienka w Tainan 26 sie.
 
 #### Historia i dziedzictwo
-- [★★★★☆ 🏯 Official God of War Temple (祀典武廟)](https://www.google.com/maps/search/Official+God+of+War+Temple+Tainan) — Najstarsza i najlepiej zachowana świątynia Guandi na Tajwanie (ok. 1665); długi ceglastoczerwony mur dokładnie naprzeciwko Chihkan Tower, obok Grand Mazu — na głównej pętli praktycznie zero dodatkowego chodzenia. Codziennie ~06:00–21:00; wstęp wolny. 📅 *blisko: Dzień 16 (26 sie)*
-- [★★★☆☆ 🏯 Altar of Heaven (天壇 Tiantan)](https://www.google.com/maps/search/Altar+of+Heaven+Tiantan+Tainan) — Pierwszy na Tajwanie Ołtarz Nieba (1854) poświęcony Nefrytowemu Cesarzowi; żywa, czynna świątynia ludowa, znana z jednokreskowego napisu „Jeden" (一). Kilka minut od Tainan Weather Observatory. Codziennie ~05:00–22:00; wstęp wolny. 📅 *blisko: Dzień 16 (26 sie)*
-- [★★★☆☆ 🏯🤪 Dongyue Temple (東嶽殿)](https://www.google.com/maps/search/Dongyue+Temple+Tainan) — Hala „zaświatów" z 1693 r. z dosłownymi, boschowskimi malowidłami piekła (wypruwanie wnętrzności, gotowanie) — naprawdę zapada w pamięć 11- i 15-latkowi, w tym samym duchu co City God Temple. Minquan Rd, blisko B.B.ART. Codziennie ~06:30–21:00; wstęp wolny. 📅 *blisko: Dzień 16 (26 sie)*
-- [★★★☆☆ 🏯🧒 Great South Gate (大南門城)](https://www.google.com/maps/search/Great+South+Gate+Tainan) — Jedyna zachowana brama miejska Tainan z nienaruszonym murem: armaty, oplecione korzeniami wały, na które dzieci mogą się wspiąć, 60+ stel z czasów Qing w zacienionym banianami parku tuż na południe od Confucius Temple. Codziennie 09:00–17:00; wstęp wolny. 📅 *blisko: Dzień 16 (26 sie)*
+- [★★★★☆ 🏯 Official God of War Temple (祀典武廟)](https://www.google.com/maps/search/Official+God+of+War+Temple+Tainan) — Najstarsza i najlepiej zachowana świątynia Guandi na Tajwanie (ok. 1665); długi ceglastoczerwony mur dokładnie naprzeciwko Chihkan Tower, obok Grand Mazu — na głównej pętli praktycznie zero dodatkowego chodzenia. Codziennie ~06:00–21:00; wstęp wolny. 📅 *blisko: Dzień 17 (27 sie)*
+- [★★★☆☆ 🏯 Altar of Heaven (天壇 Tiantan)](https://www.google.com/maps/search/Altar+of+Heaven+Tiantan+Tainan) — Pierwszy na Tajwanie Ołtarz Nieba (1854) poświęcony Nefrytowemu Cesarzowi; żywa, czynna świątynia ludowa, znana z jednokreskowego napisu „Jeden" (一). Kilka minut od Tainan Weather Observatory. Codziennie ~05:00–22:00; wstęp wolny. 📅 *blisko: Dzień 17 (27 sie)*
+- [★★★☆☆ 🏯🤪 Dongyue Temple (東嶽殿)](https://www.google.com/maps/search/Dongyue+Temple+Tainan) — Hala „zaświatów" z 1693 r. z dosłownymi, boschowskimi malowidłami piekła (wypruwanie wnętrzności, gotowanie) — naprawdę zapada w pamięć 11- i 15-latkowi, w tym samym duchu co City God Temple. Minquan Rd, blisko B.B.ART. Codziennie ~06:30–21:00; wstęp wolny. 📅 *blisko: Dzień 17 (27 sie)*
+- [★★★☆☆ 🏯🧒 Great South Gate (大南門城)](https://www.google.com/maps/search/Great+South+Gate+Tainan) — Jedyna zachowana brama miejska Tainan z nienaruszonym murem: armaty, oplecione korzeniami wały, na które dzieci mogą się wspiąć, 60+ stel z czasów Qing w zacienionym banianami parku tuż na południe od Confucius Temple. Codziennie 09:00–17:00; wstęp wolny. 📅 *blisko: Dzień 17 (27 sie)*
 - [★★☆☆☆ 🏯 Lady Linshui's Temple (臨水夫人媽廟)](https://www.google.com/maps/search/Lady+Linshui+Temple+Tainan) — Świątynia ludowa, w której matki modlą się za dzieci; wzdłuż ścian 36 nisz z figurkami opiekunek. Klimatyczna, ale jedna z wielu — dodatek łatwy do pominięcia, w narożniku Confucius Temple / Great South Gate. Codziennie ~06:00–21:00; wstęp wolny.
 - [★★☆☆☆ 🏯 Wind God Temple (風神廟)](https://www.google.com/maps/search/Wind+God+Temple+Tainan) — Rzadka świątynia Boga Wiatru, zachowany fragment kompleksu oficjalnych przyjęć z czasów Qing (z kamiennym łukiem powitalnym); szybki, charakterny przystanek w rejonie Shennong St / Water Fairy. Codziennie ~07:00–21:00; wstęp wolny.
 - [★★☆☆☆ 🏯 Fahua Temple (法華寺)](https://www.google.com/maps/search/Fahua+Temple+Tainan) — Jedna z dwóch najstarszych świątyń buddyjskich w Tainan, powściągliwa, z malowidłami Pan Lishui na murach skrzydłowych; typ dla kompletystów, trochę na południe od głównej pętli. Codziennie ~06:00–21:00; wstęp wolny.
@@ -1735,21 +1738,21 @@ Skupisko świątyń w centrum starego miasta plus dwie galerie z przeglądu Lone
 1 godz. 35 min z Taipei pociągiem HSR. Miasto portowe, subtropikalny klimat, świetna sztuka w przestrzeni publicznej.
 
 ### Zabytki
-- [★★★★☆ 🌳🏯 Lotus Pond (Lianchihtan)](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung) — Jezioro o długości 1,4 km, świątynia za świątynią 📅 **Dzień 17 (27 sie)**
+- [★★★★☆ 🌳🏯 Lotus Pond (Lianchihtan)](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung) — Jezioro o długości 1,4 km, świątynia za świątynią 📅 **Dzień 18 (28 sie)**
   - [★★★★☆ 🏯📸 Dragon and Tiger Pagodas](https://www.google.com/maps/search/Dragon+Tiger+Pagodas+Kaohsiung) — Wejdź przez paszczę smoka, wyjdź przez tygrysią — na szczęście
   - ★★★☆☆ 🏯 Spring and Autumn Pavilions — Posąg smoka, przez którego się przechodzi
-- [★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung) — Największa na świecie szklana instalacja artystyczna; 4,000+ elementów ze szkła; pokazy świetlne o 10:00, 11:00, 13:00, 15:00, 18:00, 19:00, 20:00, 21:00; BEZPŁATNIE 📅 **Dzień 16 (26 sie)**
-- [★★★☆☆ 🎨🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung) — Portowe magazyny zamienione w galerie; murale na zewnątrz, dziwaczne rzeźby (bezpłatnie). **Wewnętrzne sale sztuki współczesnej i wystaw zmiennych** (fotografia, nowe media, design) to część biletowana — combo ~NT$99. 📅 **Dzień 16 (26 sie)**
+- [★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung) — Największa na świecie szklana instalacja artystyczna; 4,000+ elementów ze szkła; pokazy świetlne o 10:00, 11:00, 13:00, 15:00, 18:00, 19:00, 20:00, 21:00; BEZPŁATNIE 📅 **Dzień 17 (27 sie)**
+- [★★★☆☆ 🎨🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung) — Portowe magazyny zamienione w galerie; murale na zewnątrz, dziwaczne rzeźby (bezpłatnie). **Wewnętrzne sale sztuki współczesnej i wystaw zmiennych** (fotografia, nowe media, design) to część biletowana — combo ~NT$99. 📅 **Dzień 17 (27 sie)**
 - [★★★★☆ 🏛️🎨📷 ALIEN Art Centre (金馬賓館當代美術館)](https://www.google.com/maps/search/Alien+Art+Centre+Kaohsiung) — Hostel wojskowy z 1967 r. przekształcony w poważne muzeum sztuki współczesnej z kuratorowanymi wystawami międzynarodowymi (rzeźba, instalacje immersyjne, fotografia); przy Silks Club w Gushan — pieszo od skupiska Pier-2 i promu na Cijin. wt.–niedz. 10:00–18:00, zamknięte w pon.; dorosły NT$250 / ulgowy NT$150 (bilet działa też jako kredyt w kawiarni).
-- [★★★☆☆ 🌳🚶 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung) — 5 min promem; Cijin Old Street (owoce morza!), Black Sand Beach, latarnia morska, Rainbow Church; wypożyczcie rowery i pojedźcie wzdłuż wyspy 📅 **Dzień 16 (26 sie)**
-- [★★★☆☆ 🏯🗼 British Consulate at Takow](https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung) — Czerwona cegła z 1865 r.; zachwycające widoki na zatokę Sizihwan 📅 **Dzień 17 (27 sie)**
-- [★★★☆☆ 🌳🚡 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — Wieczorny rejs; nocą podświetlona 📅 **Dzień 17 (27 sie)** · *blisko: Dzień 16 (26 sie)*
-- [★★★☆☆ 🎭📸 Weiwuying (National Kaohsiung Center for the Arts)](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — Największe na świecie centrum sztuk scenicznych pod jednym dachem; warsztaty rodzinne 📅 *blisko: Dni 16, 17 (26, 27 sie)*
-- [★★★★☆ 🏯🏛️ Fo Guang Shan Monastery & Buddha Museum](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — Największy klasztor buddyjski na Tajwanie; największy posąg Buddy; BEZPŁATNIE 📅 *blisko: Dzień 16 (26 sie)*
+- [★★★☆☆ 🌳🚶 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung) — 5 min promem; Cijin Old Street (owoce morza!), Black Sand Beach, latarnia morska, Rainbow Church; wypożyczcie rowery i pojedźcie wzdłuż wyspy 📅 **Dzień 17 (27 sie)**
+- [★★★☆☆ 🏯🗼 British Consulate at Takow](https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung) — Czerwona cegła z 1865 r.; zachwycające widoki na zatokę Sizihwan 📅 **Dzień 18 (28 sie)**
+- [★★★☆☆ 🌳🚡 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — Wieczorny rejs; nocą podświetlona 📅 **Dzień 18 (28 sie)** · *blisko: Dzień 17 (27 sie)*
+- [★★★☆☆ 🎭📸 Weiwuying (National Kaohsiung Center for the Arts)](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — Największe na świecie centrum sztuk scenicznych pod jednym dachem; warsztaty rodzinne 📅 *blisko: Dni 17, 18 (27, 28 sie)*
+- [★★★★☆ 🏯🏛️ Fo Guang Shan Monastery & Buddha Museum](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — Największy klasztor buddyjski na Tajwanie; największy posąg Buddy; BEZPŁATNIE 📅 *blisko: Dzień 17 (27 sie)*
 
 ### Nocne targi
-- [★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung) — Największy i najlepszy w Kaohsiung; 500+ stoisk; zamknięte w pon. i śr. 📅 *blisko: Dzień 16 (26 sie)*
-- [★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung) — Przyjazny turystom; mocny w owocach morza 📅 **Dzień 16 (26 sie)**
+- [★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung) — Największy i najlepszy w Kaohsiung; 500+ stoisk; zamknięte w pon. i śr. 📅 **Dzień 17 (27 sie)**
+- [★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung) — Przyjazny turystom; mocny w owocach morza 📅 **Dzień 17 (27 sie)**
 
 ---
 
@@ -1758,7 +1761,7 @@ Skupisko świątyń w centrum starego miasta plus dwie galerie z przeglądu Lone
 Kilka pozycji łatwo wpasować w istniejącą trasę Lotus Pond/Pier-2/Cijin (Zuoying Old City jest przy Lotus Pond; Takao Railway Museum przy Pier-2; Cihou Fort/Sizihwan/Shoushan przy British Consulate). E-DA World i Meinong to zobowiązania na cały lub pół dnia i potrzebują własnego okienka. **Uwaga o sierpniu:** nadmorskie i portowe typy mogą paść z powodu tajfunu — trzymajcie zapasy pod dachem (Chimei/NMTH już na liście, plus KMFA, Dream Mall, Takao Railway Museum).
 
 #### A. Historia i dziedzictwo
-- [★★★★☆ 🏛️🧒 Takao Railway Museum & Hamasen Railway Cultural Park](https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung) — Odrestaurowana stacja Takao z 1908 r. z 30+ historycznymi lokomotywami i wagonami na oryginalnych torach oraz wskrzeszonym pociągiem retro Hamasen Express (weekendy/święta). Przylega do Pier-2 — banalne do wpasowania. Muzeum wt.–niedz. 10:00–18:00. Mocny magnes dla dzieci kochających pociągi. 📅 **Dzień 16 (26 sie)**
+- [★★★★☆ 🏛️🧒 Takao Railway Museum & Hamasen Railway Cultural Park](https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung) — Odrestaurowana stacja Takao z 1908 r. z 30+ historycznymi lokomotywami i wagonami na oryginalnych torach oraz wskrzeszonym pociągiem retro Hamasen Express (weekendy/święta). Przylega do Pier-2 — banalne do wpasowania. Muzeum wt.–niedz. 10:00–18:00. Mocny magnes dla dzieci kochających pociągi. 📅 **Dzień 17 (27 sie)**
 - [★★★★☆ 🏯 Zuoying Old City Wall & Fengyi Gate](https://www.google.com/maps/search/Zuoying+Old+City+Fengyi+Gate+Kaohsiung) — Zbudowany w 1825 r.; najstarszy i największy dobrze zachowany fragment murów miejskich na Tajwanie (500 m+ oryginalnego muru z koralowca i granitu wokół Wschodniej Bramy). W Zuoying — ta sama okolica co Lotus Pond — więc naturalny (bezpłatny) dodatek przed pagodami lub po nich.
 - [★★★☆☆ 🏯📸 Cihou Fort (Qihou Fort)](https://www.google.com/maps/search/Cihou+Fort+Kaohsiung) — Wzgórzowy fort Qing z 1875 r. na wyspie Cijin z rozległymi widokami na port i cieśninę; wstęp wolny, codziennie ~9:00–17:00. Łatwy dodatek do zaplanowanego przystanku na Cijin.
 
@@ -1814,7 +1817,7 @@ Głębsze typy z Kaohsiung plus okolice Cishan/Meinong/Tianliao. Zwróć uwagę 
 
 #### F. Parki rozrywki i rodzina
 - [★★★★☆ 🎡🧒🛍️ SKM Park Outlets (Caoya)](https://www.google.com/maps/search/SKM+Park+Outlets+Kaohsiung) — Odkryte centrum outletowe z licencjonowanym torem gokartowym w stylu toru Suzuka (~NT$100+ za przejazd), centrum VR i karuzelą, przy stacji metra Caoya blisko lotniska. W dni powszednie 11:00–21:30, w weekendy od 10:30. Dobra opcja na deszczowy dzień albo ostatni dzień przed lotem (blisko lotniska).
-- [★★☆☆☆ 🎨🤳🧒 teamLab Future Park @ Nat'l Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — Immersyjne, interaktywne instalacje sztuki cyfrowej, hit u dzieci, gdy działa (edycja 2025 od czerwca do października, ~NT$490 dorosły), ale u nas niski priorytet. ⚠️ NIEPOTWIERDZONE na sierpień 2026 — nie znaleziono potwierdzonej edycji 2026 w Kaohsiung; sprawdź NSTM / teamLab przed planowaniem dnia wokół tego. (Samo muzeum nauki jest solidnym przystankiem niezależnie — i zgodnie z naszym priorytetem STEM *to* jest powód, żeby tam pójść, a nie teamLab.) 📅 *blisko: Dzień 17 (27 sie)*
+- [★★☆☆☆ 🎨🤳🧒 teamLab Future Park @ Nat'l Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — Immersyjne, interaktywne instalacje sztuki cyfrowej, hit u dzieci, gdy działa (edycja 2025 od czerwca do października, ~NT$490 dorosły), ale u nas niski priorytet. ⚠️ NIEPOTWIERDZONE na sierpień 2026 — nie znaleziono potwierdzonej edycji 2026 w Kaohsiung; sprawdź NSTM / teamLab przed planowaniem dnia wokół tego. (Samo muzeum nauki jest solidnym przystankiem niezależnie — i zgodnie z naszym priorytetem STEM *to* jest powód, żeby tam pójść, a nie teamLab.) 📅 *blisko: Dzień 18 (28 sie)*
 
 #### G. Targi i street food
 - [★★★☆☆ 🏮🍜 Jin-Zuan Night Market](https://www.google.com/maps/search/Jin+Zuan+Night+Market+Kaohsiung) — Jeden z największych nocnych targów w Kaohsiung (500+ stoisk, 30,000 m²); otwarty wt./czw./pt./sob./niedz. 17:00–02:00, ⚠️ zamknięty w pon. i śr. — zestawcie z Ruifeng (też zamknięty w pon. i śr.) oraz Liuhe, żeby żaden wieczór nie został bez targu.
@@ -1839,33 +1842,33 @@ Głębsze typy z Kaohsiung plus okolice Cishan/Meinong/Tianliao. Zwróć uwagę 
 Luki wychwycone po przeglądzie Lonely Planet — na czele z National Science & Technology Museum (punkt STEM wskazany w skillu priorities). Żaden pass dla Kaohsiung z passes.md nie obejmuje żadnego z tych miejsc.
 
 #### Historia i dziedzictwo
-- [★★★☆☆ 🏛️🚶 Zuoying Military Dependents' Village (Cultural Park)](https://www.google.com/maps/search/Zuoying+Military+Dependents+Village+Kaohsiung) — Odrestaurowana osada marynarki (juancun) zamieniona w park kulturowy: domy opowiadające historię odwrotu KMT i wysiedleń, ekspozycje o obecności amerykańskiej, galeria poetów z Zuoying — warstwa historyczna, której nie pokrywa wpis o Zuoying Old City Wall. Wt.–niedz. ~10:00–18:00 (część sal 11:00–17:00), zamknięte w pon.; bezpłatnie/tanio. Spacerowy dodatek do dnia Lotus Pond / Old City. 📅 *blisko: Dzień 17 (27 sie)*
-- [★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung) — Najstarsza świątynia Mazu na Cijin (1673), zabytek pod ochroną krajową przy Cijin Old Street; najbardziej historyczny punkt na wyspie. Bezpłatnie, codziennie w ciągu dnia. Zero nadkładania drogi w dniu promu na Cijin. 📅 *blisko: Dzień 16 (26 sie)*
+- [★★★☆☆ 🏛️🚶 Zuoying Military Dependents' Village (Cultural Park)](https://www.google.com/maps/search/Zuoying+Military+Dependents+Village+Kaohsiung) — Odrestaurowana osada marynarki (juancun) zamieniona w park kulturowy: domy opowiadające historię odwrotu KMT i wysiedleń, ekspozycje o obecności amerykańskiej, galeria poetów z Zuoying — warstwa historyczna, której nie pokrywa wpis o Zuoying Old City Wall. Wt.–niedz. ~10:00–18:00 (część sal 11:00–17:00), zamknięte w pon.; bezpłatnie/tanio. Spacerowy dodatek do dnia Lotus Pond / Old City. 📅 *blisko: Dzień 18 (28 sie)*
+- [★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung) — Najstarsza świątynia Mazu na Cijin (1673), zabytek pod ochroną krajową przy Cijin Old Street; najbardziej historyczny punkt na wyspie. Bezpłatnie, codziennie w ciągu dnia. Zero nadkładania drogi w dniu promu na Cijin. 📅 *blisko: Dzień 17 (27 sie)*
 
 #### Muzea
-- [★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — Ogromne interaktywne muzeum STEM z kopułą IMAX o każdej godzinie, punkt trzeciego poziomu wskazany w skillu priorities (do tej pory wspominany tylko pośrednio). Wt.–niedz. 9:00–17:00 (do 18:00 w czasie letnich wakacji szkolnych), zamknięte w pon.; dorosły NT$100 / uczeń i dziecko ulgowo ~NT$70 / do 6 lat bezpłatnie (3 dorosłych pełny bilet, 15-latek jako uczeń, 9- i 11-latek ulgowo); IMAX i wystawy czasowe dodatkowo. ⚠️ Zamknięte 14 kwietnia–31 maja 2026 z powodu remontu — otwarcie przed sierpniem; potwierdź. Sanmin — wpisuje się w pas KMFA / muzeum Hakka. ⚠️ Obiekt na pół dnia, ciasno w ~1,5-dniowym okienku w Kaohsiung. 📅 *blisko: Dzień 17 (27 sie)*
-- [★★☆☆☆ 🏛️ Kaohsiung Film Archive](https://www.google.com/maps/search/Kaohsiung+Film+Archive) — Archiwum kina tajwańskiego na zachodnim brzegu Love River; bezpłatne wystawy + dwie sale filmu artystycznego (bardziej kino niż muzeum z ekspozycją). Przestrzenie publiczne bezpłatnie, pokazy biletowane; zamknięte w pon. (sprawdź godziny). Na wieczornej trasie Yancheng / Pier-2. 📅 *blisko: Dzień 16 (26 sie)*
+- [★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — Ogromne interaktywne muzeum STEM z kopułą IMAX o każdej godzinie, punkt trzeciego poziomu wskazany w skillu priorities (do tej pory wspominany tylko pośrednio). Wt.–niedz. 9:00–17:00 (do 18:00 w czasie letnich wakacji szkolnych), zamknięte w pon.; dorosły NT$100 / uczeń i dziecko ulgowo ~NT$70 / do 6 lat bezpłatnie (3 dorosłych pełny bilet, 15-latek jako uczeń, 9- i 11-latek ulgowo); IMAX i wystawy czasowe dodatkowo. ⚠️ Zamknięte 14 kwietnia–31 maja 2026 z powodu remontu — otwarcie przed sierpniem; potwierdź. Sanmin — wpisuje się w pas KMFA / muzeum Hakka. ⚠️ Obiekt na pół dnia, ciasno w ~1,5-dniowym okienku w Kaohsiung. 📅 *blisko: Dzień 18 (28 sie)*
+- [★★☆☆☆ 🏛️ Kaohsiung Film Archive](https://www.google.com/maps/search/Kaohsiung+Film+Archive) — Archiwum kina tajwańskiego na zachodnim brzegu Love River; bezpłatne wystawy + dwie sale filmu artystycznego (bardziej kino niż muzeum z ekspozycją). Przestrzenie publiczne bezpłatnie, pokazy biletowane; zamknięte w pon. (sprawdź godziny). Na wieczornej trasie Yancheng / Pier-2. 📅 *blisko: Dzień 17 (27 sie)*
 - [★★☆☆☆ 🏛️🎨 Museum 50](https://www.google.com/maps/search/Museum+50+Kaohsiung) — Prywatne jednosalowe muzeum wysokiej klasy japońskiej rzeźby, netsuke i antyków z poł. XIX–XX w. (to nie to samo co ALIEN Art Centre). ⚠️ **Tylko po uzgodnieniu terminu** — napisz do właściciela ~miesiąc wcześniej, minimum ~8 zwiedzających (grupa 6 osób musi dołączyć do innych). Wpisuj tylko, jeśli zdecydujecie się zarezerwować; w przeciwnym razie pomiń.
 
 #### Przyroda i parki
-- [★★★☆☆ 🐾🧒 Shoushan Zoo (Kaohsiung Zoo)](https://www.google.com/maps/search/Shoushan+Zoo+Kaohsiung) — Świeżo wyremontowane zoo bez klatek w Shoushan Park, z podniesionymi „korytarzami powietrznymi" i Children's Ranch; prawdziwy magnes dla dzieci w klastrze Shoushan / konsulat brytyjski. Wt.–niedz. 9:00–17:00 (ostatnie wejście 16:30), zamknięte w pon.; dorosły NT$40 / NT$20 dla 6 lat–do 18 lat (wszystkie 3 dzieci) / do 6 lat bezpłatnie. 📅 *blisko: Dzień 17 (27 sie)*
+- [★★★☆☆ 🐾🧒 Shoushan Zoo (Kaohsiung Zoo)](https://www.google.com/maps/search/Shoushan+Zoo+Kaohsiung) — Świeżo wyremontowane zoo bez klatek w Shoushan Park, z podniesionymi „korytarzami powietrznymi" i Children's Ranch; prawdziwy magnes dla dzieci w klastrze Shoushan / konsulat brytyjski. Wt.–niedz. 9:00–17:00 (ostatnie wejście 16:30), zamknięte w pon.; dorosły NT$40 / NT$20 dla 6 lat–do 18 lat (wszystkie 3 dzieci) / do 6 lat bezpłatnie. 📅 *blisko: Dzień 18 (28 sie)*
 
 #### Targi i street food
-- [★★★☆☆ 🛍️🍜 Neiwei Afternoon Market](https://www.google.com/maps/search/Neiwei+Market+Kaohsiung) — LP nazywa go „być może jednym z najbardziej autentycznych doświadczeń na Tajwanie": *dzienny* targ z jedzeniem na wynos (grillowany kurczak, bułki z farszem, sushi, owoce) — dobry kontrast dla nocnych targów. Godziny popołudniowe (najtłoczniej w weekendy); zwiedzanie bezpłatne. Jedna stacja MRT od Zuoying/HSR. 📅 *blisko: Dzień 17 (27 sie)*
+- [★★★☆☆ 🛍️🍜 Neiwei Afternoon Market](https://www.google.com/maps/search/Neiwei+Market+Kaohsiung) — LP nazywa go „być może jednym z najbardziej autentycznych doświadczeń na Tajwanie": *dzienny* targ z jedzeniem na wynos (grillowany kurczak, bułki z farszem, sushi, owoce) — dobry kontrast dla nocnych targów. Godziny popołudniowe (najtłoczniej w weekendy); zwiedzanie bezpłatne. Jedna stacja MRT od Zuoying/HSR. 📅 *blisko: Dzień 18 (28 sie)*
 
 ## TAIWAN — TAICHUNG (47 min od Taipei pociągiem HSR)
 
 ### Trzeba zobaczyć
-- [★★★★☆ 📸🎨 Rainbow Village](https://www.google.com/maps/search/Rainbow+Village+Taichung) — Każda powierzchnia pomalowana ręcznie przez emerytowanego żołnierza „Grandpa Rainbow"; przyjdź na 8:00, żeby wyprzedzić tłumy; bezpłatnie 📅 **Dzień 15 (25 sie)**
-- [★★★★☆ ☕📸 Miyahara Ice Cream Shop](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung) — Dawna klinika okulistyczna z lat 40.; wnętrze jak z „Harry'ego Pottera"; niesamowite gelato, piękne ciastka i czekoladki w ozdobnych opakowaniach; sam budynek JEST atrakcją 📅 **Dzień 15 (25 sie)**
-- [★★★★☆ 🎭📸 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater) — Projekt Toyo Ito, laureata Nagrody Pritzkera; zachwycający falujący beton; zwiedzanie bezpłatne; ogród na dachu 📅 **Dzień 15 (25 sie)**
-- [★★★☆☆ 🌳 Gaomei Wetlands](https://www.google.com/maps/search/Gaomei+Wetlands+Taichung) — Rozległe płycizny pływowe; najlepiej o zachodzie słońca; drewniany pomost nad mulistym dnem; bezpłatnie 📅 *blisko: Dzień 15 (25 sie)*
-- [★★☆☆☆ 🚶🌳 Calligraphy Greenway](https://www.google.com/maps/search/Calligraphy+Greenway+Taichung) — Ścieżka 3,6 km; rzeźby, weekendowe stragany z rękodziełem 📅 *blisko: Dzień 15 (25 sie)*
-- [★★★☆☆ 🛍️🍜 Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market) — Historyczny targ; przyjdź na śniadanie; ryż z duszoną wieprzowiną ze stuletnich stoisk 📅 **Dzień 15 (25 sie)**
-- [★★★☆☆ 📸🧒 Fan-Shaped Train Garage](https://www.google.com/maps/search/Fan+Shaped+Train+Garage+Taichung) — Ostatnia tego rodzaju na Tajwanie; świetna dla dzieci zakręconych na pociągach 📅 *blisko: Dzień 15 (25 sie)*
+- [★★★★☆ 📸🎨 Rainbow Village](https://www.google.com/maps/search/Rainbow+Village+Taichung) — Każda powierzchnia pomalowana ręcznie przez emerytowanego żołnierza „Grandpa Rainbow"; przyjdź na 8:00, żeby wyprzedzić tłumy; bezpłatnie 📅 **Dzień 16 (26 sie)**
+- [★★★★☆ ☕📸 Miyahara Ice Cream Shop](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung) — Dawna klinika okulistyczna z lat 40.; wnętrze jak z „Harry'ego Pottera"; niesamowite gelato, piękne ciastka i czekoladki w ozdobnych opakowaniach; sam budynek JEST atrakcją 📅 **Dzień 16 (26 sie)**
+- [★★★★☆ 🎭📸 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater) — Projekt Toyo Ito, laureata Nagrody Pritzkera; zachwycający falujący beton; zwiedzanie bezpłatne; ogród na dachu 📅 **Dzień 16 (26 sie)**
+- [★★★☆☆ 🌳 Gaomei Wetlands](https://www.google.com/maps/search/Gaomei+Wetlands+Taichung) — Rozległe płycizny pływowe; najlepiej o zachodzie słońca; drewniany pomost nad mulistym dnem; bezpłatnie 📅 *blisko: Dzień 16 (26 sie)*
+- [★★☆☆☆ 🚶🌳 Calligraphy Greenway](https://www.google.com/maps/search/Calligraphy+Greenway+Taichung) — Ścieżka 3,6 km; rzeźby, weekendowe stragany z rękodziełem 📅 *blisko: Dzień 16 (26 sie)*
+- [★★★☆☆ 🛍️🍜 Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market) — Historyczny targ; przyjdź na śniadanie; ryż z duszoną wieprzowiną ze stuletnich stoisk 📅 **Dzień 16 (26 sie)**
+- [★★★☆☆ 📸🧒 Fan-Shaped Train Garage](https://www.google.com/maps/search/Fan+Shaped+Train+Garage+Taichung) — Ostatnia tego rodzaju na Tajwanie; świetna dla dzieci zakręconych na pociągach 📅 *blisko: Dzień 16 (26 sie)*
 
 ### Nocny targ
-- [★★★★☆ 🏮 Fengjia Night Market](https://www.google.com/maps/search/Fengjia+Night+Market+Taichung) — Największy na Tajwanie pod względem powierzchni; setki stoisk do ~2:00; energia miasteczka studenckiego 📅 *blisko: Dzień 15 (25 sie)*
+- [★★★★☆ 🏮 Fengjia Night Market](https://www.google.com/maps/search/Fengjia+Night+Market+Taichung) — Największy na Tajwanie pod względem powierzchni; setki stoisk do ~2:00; energia miasteczka studenckiego 📅 *blisko: Dzień 16 (26 sie)*
 
 ---
 
@@ -1933,7 +1936,7 @@ Pogrupowane według kategorii; Lukang/Baguashan (Changhua) i Janfusun (Yunlin) l
 Luki wychwycone po przeglądzie Lonely Planet. Dzień 15 (25 sie) to tylko przejazdowy poranek w Taichung, więc większość z tych miejsc to materiał katalogowy / na wycieczkę jednodniową, a nie zaplanowane przystanki. (Klaster Puli / Chung Tai + CheCheng w Nantou jest w TAIWAN — INNE KIERUNKI → Puli & Chung Tai.)
 
 #### Historia i dziedzictwo
-- [★★★☆☆ 🏯🧒 Paochueh Temple](https://www.google.com/maps/search/Paochueh+Temple+Taichung) — Świątynia buddyjska z 1927 r. zwieńczona 27-metrowym siedzącym złotym śmiejącym się Buddą (Maitreja) + dzwonnica i ogrody; gigantyczny posąg to prawdziwy magnes dla dzieci. Codziennie 09:00–17:00; bezpłatnie. Dzielnica North — łączy się z klastrem Confucius Temple / Martyrs' Shrine. 📅 *blisko: Dzień 15 (25 sie)*
+- [★★★☆☆ 🏯🧒 Paochueh Temple](https://www.google.com/maps/search/Paochueh+Temple+Taichung) — Świątynia buddyjska z 1927 r. zwieńczona 27-metrowym siedzącym złotym śmiejącym się Buddą (Maitreja) + dzwonnica i ogrody; gigantyczny posąg to prawdziwy magnes dla dzieci. Codziennie 09:00–17:00; bezpłatnie. Dzielnica North — łączy się z klastrem Confucius Temple / Martyrs' Shrine. 📅 *blisko: Dzień 16 (26 sie)*
 - [★★☆☆☆ 📸 Taichung Baseball Field](https://www.google.com/maps/search/Taichung+Baseball+Field+Taichung) — Drugi najstarszy używany stadion baseballowy na Tajwanie (1935, czasy japońskie); nostalgiczna architektura sportowa z klimatem, dostęp tylko z zewnątrz / ograniczony. Z zewnątrz bezpłatnie. Dodatek o najniższym priorytecie obok Paochueh Temple — naturalny kandydat do pominięcia.
 - [★★★☆☆ 🏯📸 Pi-Lu Monastery](https://www.google.com/maps/search/Pi-Lu+Monastery+Houli+Taichung) — Architektonicznie nietypowy klasztor buddyjski z lat 20. XX w., który wygląda jak neobarokowa rezydencja (elewacja z czerwonej cegły, kolumny doryckie), z białym kolumbarium pod kopułą; cicho i nieoczywiście. Godziny ~za dnia; bezpłatnie. Houli (pogórze NW) — warte zachodu tylko wtedy, gdy jesteście już w Houli Horse Ranch.
 

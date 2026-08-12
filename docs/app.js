@@ -290,6 +290,10 @@ const LEGEND_GROUPS = [
     ['\ud83e\udd2a', 'Miejsca dziwne / nietypowe'],
     ['\ud83c\udf81', 'Sklepy z maskotkami i gad\u017cetami'],
   ]},
+  { title: 'Dziennik podr\u00f3\u017cy', items: [
+    ['\u2705', 'Widziane \u2014 byli\u015bmy, z nasz\u0105 ocen\u0105 1\u20135 po fakcie (osobna skala od \u2605 przy nazwie, kt\u00f3re m\u00f3wi\u0105 o wa\u017cno\u015bci przy planowaniu)'],
+    ['\u23ed\ufe0f', 'Pomini\u0119te \u2014 by\u0142o w planie dnia, ale odpu\u015bcili\u015bmy'],
+  ]},
 ];
 
 function renderLegend() {
@@ -524,22 +528,26 @@ function renderPacking() {
       <h3>Busan</h3>
       <table class="closed-table">
         <tr><th>Dzie\u0144</th><th>Co zamkni\u0119te</th></tr>
-        <tr><td>Poniedzia\u0142ek</td><td>Oryukdo Skywalk, Busan Science Museum, Museum of Art, Taejongdae Danubi Train</td></tr>
+        <tr><td>Poniedzia\u0142ek</td><td>Oryukdo Skywalk (tylko 1. pon.), Busan Science Museum, Museum of Art, Taejongdae Danubi Train, GoEun Museum of Photography, Johyun Gallery, Korea National Maritime Museum, F1963</td></tr>
         <tr><td>1. i 3. wtorek</td><td>Jagalchi Fish Market</td></tr>
         <tr><td>1. i 3. niedziela</td><td>Gukje Market</td></tr>
+        <tr><td>Nasze dni</td><td>19 sie (\u015br.) + 20 sie (czw.) \u2014 nic z powy\u017cszego nie wypada</td></tr>
       </table>
       <h3>Tajwan</h3>
       <table class="closed-table">
         <tr><th>Dzie\u0144</th><th>Co zamkni\u0119te</th></tr>
         <tr><td>Poniedzia\u0142ek</td><td>National Palace Museum, Maokong Gondola, Beitou Hot Spring Museum, Tainan Art Museum</td></tr>
         <tr><td>Wtorek</td><td>Fo Guang Shan Buddha Museum</td></tr>
+        <tr><td>Poniedzia\u0142ek + \u015broda</td><td>Ruifeng Night Market (Kaohsiung) \u2014 jeste\u015bmy tam w czw. 27 sie, wi\u0119c dost\u0119pny</td></tr>
+        <tr><td>Nocne targi w Tainan</td><td>Rotacja: pon./wt./pt. = Dadong, \u015br./sob. = Wusheng, czw./niedz. = Garden. Nasz wiecz\u00f3r to \u015br. 26 sie \u2192 Dadong zamkni\u0119ty, idziemy na Wusheng</td></tr>
+        <tr><td>Tylko czw.\u2013niedz.</td><td>Six Thousand Beef Soup (Tainan) \u2014 jeste\u015bmy tam w czw. 27 sie, wi\u0119c otwarte</td></tr>
       </table>
     </div>
     <div class="overview-section">
       <h2>Opcjonalne zamiany</h2>
       <div class="packing-card">
         <h3>Chcecie Gyeongju?</h3>
-        <ul><li>Odpu\u015b\u0107cie Nami Island (15 sie) albo Lotte World (17 sie). Wcze\u015bniej KTX do Busan. 18 sie na wycieczk\u0119 do Gyeongju.</li></ul>
+        <ul><li>Po przesuni\u0119ciu lotu nie trzeba ju\u017c nic wycina\u0107: <strong>20 sie to wolny dzie\u0144 w Busan</strong> \u2014 zamie\u0144cie go na wycieczk\u0119 do Gyeongju (autobus z terminalu Nopo, ~50 min): Bulguksa, Seokguram, kurhany Daereungwon, Gyeongju National Museum. Kosztem jest ca\u0142a zawarto\u015b\u0107 20 sie \u2014 Yeongdo, Songdo i o\u015b sztuki w Haeundae (przepada GoEun Museum of Photography). Wracajcie wcze\u015bnie: nazajutrz wyjazd z hotelu o 5:30.</li></ul>
       </div>
       <div class="packing-card">
         <h3>Everland zamiast Lotte World?</h3>
@@ -547,7 +555,7 @@ function renderPacking() {
       </div>
       <div class="packing-card">
         <h3>Wi\u0119cej Taipei?</h3>
-        <ul><li>Pomi\u0144cie Taichung (poranek 25 sie) i jed\u017acie HSR wprost do Tainan. Wolne p\u00f3\u0142 dnia na Treasure Hill albo Houtong Cat Village.</li></ul>
+        <ul><li>Pomi\u0144cie Taichung (poranek 26 sie) i jed\u017acie HSR wprost do Tainan. Wolne p\u00f3\u0142 dnia na Treasure Hill albo Houtong Cat Village.</li></ul>
       </div>
       <div class="packing-card">
         <h3>Alishan albo Sun Moon Lake?</h3>

@@ -1,9 +1,11 @@
 # Taipei — karty zniżkowe (Taipei Fun Pass i alternatywy)
 
-**Cel tego pliku:** zebrać passy dostępne w Taipei i ich alternatywy, przypisać je do tego, co faktycznie robimy (Taipei w dniach 20–24 sie oraz 27–29 sie, plus jednodniowy wypad na północno-wschodnie wybrzeże 23 sie), policzyć opłacalność i zdecydować, **który produkt, dla kogo, na ile dni**.
+**Cel tego pliku:** zebrać passy dostępne w Taipei i ich alternatywy, przypisać je do tego, co faktycznie robimy (Taipei w dniach 21–25 sie oraz 28–29 sie, plus jednodniowy wypad na północno-wschodnie wybrzeże 24 sie), policzyć opłacalność i zdecydować, **który produkt, dla kogo, na ile dni**.
 
-> **TL;DR** — Cała decyzja sprowadza się do **jednego pytania: czy 23 sie robimy dzień na wybrzeżu (Yehliu + Shifen) sami, czy bierzemy wycieczkę z przewodnikiem?**
-> - **Jeśli sami** → **Taipei Fun Pass Unlimited 3-day (22–24 sie)** opłaca się **dla 3 dorosłych** — kasowo prawie wychodzi na zero, ale obejmuje Yehliu + puszczanie lampionów + pociąg linią Pingxi, więc **zastępuje wycieczkę z przewodnikiem za ~NT$1,500–2,000** i pozwala ominąć kolejki do kas. **Dla dzieci bez passa.**
+> ⚠️ **Wszystkie daty w tym pliku przesunięte o +1 dzień** — lot Busan → Taipei poszedł z 20 na 21 sie, więc cały Tajwan wskoczył o dobę. Sama logika i liczby się nie zmieniają (przylot i odlot nadal ograniczają okno passa z obu stron, dni z płatnymi atrakcjami nadal są trzy pod rząd), ale **zniknął dawny „ostatni pełny dzień w Taipei" 28 sie** — jego resztki są teraz w 29 sie i tak samo leżą poza oknem passa.
+
+> **TL;DR** — Cała decyzja sprowadza się do **jednego pytania: czy 24 sie robimy dzień na wybrzeżu (Yehliu + Shifen) sami, czy bierzemy wycieczkę z przewodnikiem?**
+> - **Jeśli sami** → **Taipei Fun Pass Unlimited 3-day (23–25 sie)** opłaca się **dla 3 dorosłych** — kasowo prawie wychodzi na zero, ale obejmuje Yehliu + puszczanie lampionów + pociąg linią Pingxi, więc **zastępuje wycieczkę z przewodnikiem za ~NT$1,500–2,000** i pozwala ominąć kolejki do kas. **Dla dzieci bez passa.**
 > - **Jeśli wycieczka z przewodnikiem** → **pomiń pass dla wszystkich**; wystarczy **EasyCard + przecenione bilety pojedyncze**.
 > W obu wariantach pass to **wyraźna strata dla wszystkich trojga dzieci** (NPM ma wstęp wolny do 18 lat, Taipei 101 jest tani w taryfie zniżkowej, a próg „child" w passie to tylko 6–11 lat — więc **15-latek płaci pełną cenę passa dla dorosłego**).
 
@@ -31,38 +33,38 @@
 
 | Atrakcja | W passie Unlimited? | Kasa (dorosły) | Kasa (dziecko, 9/11) | W naszym planie? — dzień |
 |------------|--------------------|--------------|--------------------|--------------------|
-| **Taipei 101 Observatory** | ✅ Bezpłatnie | 600 | 540 zniżkowy (≥115 cm; &lt;115 cm bezpłatnie) | ✅ 22 sie |
-| **National Palace Museum** | ✅ Bezpłatnie | 350 | **0 — wstęp wolny do 18 lat** | ✅ 22 sie |
-| **Maokong Gondola** | ✅ Bezpłatnie (1-dniowy pass na gondolę) | 180/przejazd (300 za pass 1-dniowy) | 50/przejazd (100 za pass dzienny) zniżkowo | ✅ 27 sie (dzień odosobniony) |
-| **Yehliu Geopark** | ✅ Bezpłatnie | 120 | 60 | ✅ 23 sie |
-| **Shifen sky lantern** | ✅ Wliczone jako „przeżycie" (+ bezpłatny pociąg linią Pingxi) | ~150–200 (wspólny/lampion) | tak samo | ✅ 23 sie |
-| **Children's Amusement Park** | ✅ Bezpłatne **wejście** (karuzele/opaska nieobjęte) | wejście 30 (karuzele na cały dzień 200) | wejście 30 | ✅ 24 sie |
-| **Science Education Center** | ✅ Bezpłatnie (wystawa stała) | 100 | ~70 | ✅ 24 sie |
-| **Astronomical Museum** | ✅ Bezpłatna wystawa (IMAX/kopuła dodatkowo) | 40 (+100 IMAX) | ~20 (+70 IMAX) | ✅ 24 sie |
-| **Taipei Zoo** | ✅ Bezpłatnie | 60 | 30 | ⚠️ 27 sie (opcjonalnie) |
+| **Taipei 101 Observatory** | ✅ Bezpłatnie | 600 | 540 zniżkowy (≥115 cm; &lt;115 cm bezpłatnie) | ✅ 23 sie |
+| **National Palace Museum** | ✅ Bezpłatnie | 350 | **0 — wstęp wolny do 18 lat** | ✅ 23 sie |
+| **Maokong Gondola** | ✅ Bezpłatnie (1-dniowy pass na gondolę) | 180/przejazd (300 za pass 1-dniowy) | 50/przejazd (100 za pass dzienny) zniżkowo | ✅ 28 sie (dzień odosobniony) |
+| **Yehliu Geopark** | ✅ Bezpłatnie | 120 | 60 | ✅ 24 sie |
+| **Shifen sky lantern** | ✅ Wliczone jako „przeżycie" (+ bezpłatny pociąg linią Pingxi) | ~150–200 (wspólny/lampion) | tak samo | ✅ 24 sie |
+| **Children's Amusement Park** | ✅ Bezpłatne **wejście** (karuzele/opaska nieobjęte) | wejście 30 (karuzele na cały dzień 200) | wejście 30 | ✅ 25 sie |
+| **Science Education Center** | ✅ Bezpłatnie (wystawa stała) | 100 | ~70 | ✅ 25 sie |
+| **Astronomical Museum** | ✅ Bezpłatna wystawa (IMAX/kopuła dodatkowo) | 40 (+100 IMAX) | ~20 (+70 IMAX) | ✅ 25 sie |
+| **Taipei Zoo** | ✅ Bezpłatnie | 60 | 30 | ⚠️ 28 sie (opcjonalnie) |
 | Miramar Ferris Wheel | ✅ Bezpłatnie | 200 | ~150 | ➖ nie w planie |
-| **Beitou Spring City Resort** (gorące źródła) | ❌ **Nieobjęte** (prywatny resort) | 350–600 | 350–600 | ✅ 22 sie (płatność na miejscu) |
-| Taoyuan **Airport MRT** | ❌ Nieobjęte | 160 | ~ | ✅ przylot 20 sie / odlot 29 sie |
+| **Beitou Spring City Resort** (gorące źródła) | ❌ **Nieobjęte** (prywatny resort) | 350–600 | 350–600 | ✅ 23 sie (płatność na miejscu) |
+| Taoyuan **Airport MRT** | ❌ Nieobjęte | 160 | ~ | ✅ przylot 21 sie / odlot 29 sie |
 
 **I tak bezpłatne (pass nic tu nie daje):** Longshan Temple, Chiang Kai-shek Memorial, Bopiliao, Dihua St, Elephant Mountain, wszystkie nocne targi, Beitou Hot Spring Museum i Thermal Valley.
 
-**Kluczowe odkrycie:** Yehliu + puszczanie lampionów + pociąg linią Pingxi **są w passie** — więc 3-dniowy pass może realnie *zastąpić* płatną wycieczkę na wybrzeże 23 sie, jeśli tego dnia zwiedzacie sami.
+**Kluczowe odkrycie:** Yehliu + puszczanie lampionów + pociąg linią Pingxi **są w passie** — więc 3-dniowy pass może realnie *zastąpić* płatną wycieczkę na wybrzeże 24 sie, jeśli tego dnia zwiedzacie sami.
 
 ---
 
 ## Opłacalność (na osobę)
 
-Płatne atrakcje skupiają się w **trzech kolejnych dniach — 22, 23 i 24 sie** — co mieści się w jednym 3-dniowym passie. 27 sie (Maokong) to dzień odosobniony, którego nie da się dołączyć bez drugiego passa.
+Płatne atrakcje skupiają się w **trzech kolejnych dniach — 23, 24 i 25 sie** — co mieści się w jednym 3-dniowym passie. 28 sie (Maokong) to dzień odosobniony, którego nie da się dołączyć bez drugiego passa.
 
-**Dorosły, 3-dniowy Unlimited (NT$2,000), 22–24 sie, dzień na wybrzeżu samodzielnie:**
+**Dorosły, 3-dniowy Unlimited (NT$2,000), 23–25 sie, dzień na wybrzeżu samodzielnie:**
 - Wartość atrakcji: 101 (600) + NPM (350) + Yehliu (120) + lampion (~150) + wejście do parku (30) + Science (100) + Astro (40) = **~1,390**
 - Zaoszczędzony transport (EasyCard PAYG przez 3 intensywne dni wraz z wypadem za miasto): **~480**
 - **Razem ~1,870 wobec 2,000 → około −130 (kasowo na zero)** — *ale* dodatkowo pozwala **odpuścić wycieczkę z przewodnikiem za NT$1,500–2,000** i ominąć kolejki. **Bilans: dla dorosłych opłaca się w scenariuszu samodzielnym.**
-- 2-dniowy (22–23 sie): ~1,620 wobec 1,700 → −80 (wypadają mało wartościowe muzea z 24 sie; też w porządku).
+- 2-dniowy (23–24 sie): ~1,620 wobec 1,700 → −80 (wypadają mało wartościowe muzea z 25 sie; też w porządku).
 
-**Dorosły, jeśli ZOSTAJE wycieczka z przewodnikiem 23 sie:** nie zostaje już żadna gęsta seria kolejnych dni. Najlepszy jest sam 22 sie (~1,100 wartości) wobec NT$1,300 za pass 1-dniowy → **wychodzi na minus. Pomiń pass**, weź EasyCard + bilety w kasach.
+**Dorosły, jeśli ZOSTAJE wycieczka z przewodnikiem 24 sie:** nie zostaje już żadna gęsta seria kolejnych dni. Najlepszy jest sam 23 sie (~1,100 wartości) wobec NT$1,300 za pass 1-dniowy → **wychodzi na minus. Pomiń pass**, weź EasyCard + bilety w kasach.
 
-**Dziecko (9, 11), 3-dniowy Unlimited (NT$1,700), 22–24 sie samodzielnie:**
+**Dziecko (9, 11), 3-dniowy Unlimited (NT$1,700), 23–25 sie samodzielnie:**
 - 101 zniżkowy (540) + **NPM 0** + Yehliu (60) + lampion (~150) + park (30) + Science (~70) + Astro (~20) = **~870** + transport ~480 (dzieci płacą taryfę dla dorosłych) = **~1,350 wobec 1,700 → −350.** ❌ nadal wyraźna strata.
 
 **Nastolatek (15):** płaci za pass cenę **dla dorosłego** (NT$2,000), a wartość biletów ma jak dziecko (NPM wstęp wolny do 18 lat; Taipei 101 zniżkowo NT$540). → **najgorszy stosunek wartości do ceny.** Bez passa.
@@ -75,12 +77,12 @@ Płatne atrakcje skupiają się w **trzech kolejnych dniach — 22, 23 i 24 sie*
 
 **Drzewo decyzyjne:**
 
-**① Jeśli 23 sie robicie wybrzeże sami (polecane, jeśli lubicie zwiedzać bez przewodnika):**
-- **3 dorosłych → Taipei Fun Pass Unlimited 3-day, aktywacja rano 22 sie (obejmuje 22–24 sie).** Kasowo prawie na zero, ale zastępuje wycieczkę na wybrzeże z przewodnikiem i pozwala ominąć kolejki do Taipei 101 / muzeów.
+**① Jeśli 24 sie robicie wybrzeże sami (polecane, jeśli lubicie zwiedzać bez przewodnika):**
+- **3 dorosłych → Taipei Fun Pass Unlimited 3-day, aktywacja rano 23 sie (obejmuje 23–25 sie).** Kasowo prawie na zero, ale zastępuje wycieczkę na wybrzeże z przewodnikiem i pozwala ominąć kolejki do Taipei 101 / muzeów.
 - **3 dzieci (9, 11, 15) → bez passa.** Ich kilka tanich biletów kupcie pojedynczo (101 zniżkowo, muzea za pół ceny; NPM wstęp wolny), a do transportu EasyCard.
-- **27 sie (Maokong ± Zoo) oraz 28–29 sie →** EasyCard + bilety w kasach dla wszystkich (nie da się tego wcisnąć w okno ważności passa).
+- **28 sie (Maokong ± Zoo) oraz 29 sie →** EasyCard + bilety w kasach dla wszystkich (nie da się tego wcisnąć w okno ważności passa).
 
-**② Jeśli zostaje wycieczka z przewodnikiem 23 sie (polecane, jeśli samodzielna logistyka w dwóch kierunkach wydaje się z dziećmi zbyt karkołomna):**
+**② Jeśli zostaje wycieczka z przewodnikiem 24 sie (polecane, jeśli samodzielna logistyka w dwóch kierunkach wydaje się z dziećmi zbyt karkołomna):**
 - **Pomiń pass dla wszystkich.** Wystarczy **EasyCard z płatnością za przejazd + przecenione pojedyncze e-bilety** (Taipei 101 kupcie online, żeby ominąć kolejkę). Najtańsza opcja pokrywająca plan przy pobycie rozbitym na dwie części.
 
 **Alternatywy warte szybkiego sprawdzenia cen (dla sceptyków opcji ①):**
@@ -94,12 +96,12 @@ Płatne atrakcje skupiają się w **trzech kolejnych dniach — 22, 23 i 24 sie*
 ## Dodatkowe informacje i haczyki
 
 - **NPM jest bezpłatne dla wszystkich do 18 lat** (bez względu na narodowość) — nigdy nie „zużywaj" na nie slotu w passie ani nie kupuj do niego biletu dziecięcego.
-- **Beitou Spring City Resort** (22 sie) to opłata w prywatnym onsenie, **żaden** pass tego nie obejmuje — płacimy na miejscu (publiczne źródła Millennium obok to tylko ~NT$60).
+- **Beitou Spring City Resort** (23 sie) to opłata w prywatnym onsenie, **żaden** pass tego nie obejmuje — płacimy na miejscu (publiczne źródła Millennium obok to tylko ~NT$60).
 - **Children's Amusement Park:** pass obejmuje **wejście** (NT$30); kwota NT$200 za cały dzień to wejście + pakiet biletów na karuzele, które nie są objęte.
 - **Airport MRT 29 sie (~NT$160/dorosły) nigdy nie jest objęty** — doliczcie go osobno.
 - **Aktywuj rano**, żeby wykorzystać pełny pierwszy dzień kalendarzowy passa liczonego w kolejnych dniach.
 - **Gdzie kupić:** oficjalnie na funpass.travel.taipei (odbiór na Taoyuan Airport / Taipei Main Station) albo Klook/KKday/Trip.com; EasyCard po przylocie na dowolnej stacji MRT lub w sklepie całodobowym.
-- **⚠️ Sprawdź ponownie przed sierpniem 2026:** (1) cenę dla dorosłego NT$1,300/1,700/2,000 wobec NT$1,500/1,900/2,200 u resellera; (2) czy „przeżycie kulturowe" jest tylko jedno, czy kilka; (3) czy opaska na karuzele w parku rozrywki / IMAX w muzeum są objęte, czy tylko samo wejście; (4) dokładne ceny biletów dziecięcych w muzeach z 24 sie; (5) aktualne progi cenowe Klook Pass (ich strona blokuje scrapowanie).
+- **⚠️ Sprawdź ponownie przed sierpniem 2026:** (1) cenę dla dorosłego NT$1,300/1,700/2,000 wobec NT$1,500/1,900/2,200 u resellera; (2) czy „przeżycie kulturowe" jest tylko jedno, czy kilka; (3) czy opaska na karuzele w parku rozrywki / IMAX w muzeum są objęte, czy tylko samo wejście; (4) dokładne ceny biletów dziecięcych w muzeach z 25 sie; (5) aktualne progi cenowe Klook Pass (ich strona blokuje scrapowanie).
 
 ---
 

@@ -34,6 +34,15 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 
 **Importance rating prefix** — each real place carries a **1–5 ★ importance rating** inside the link text, before the emoji type-tags: `- [★★★★☆ 🏛️ Place Name](url) — description`. Keep a place's stars + emoji **identical** across `places.md` and any `days/*.md`. The rating rubric and the priority ladder (what to hunt vs. skip) are canonical in the **`priorities`** skill (trip-planner plugin); the emoji type-tag key is canonical at the top of `places.md`. Don't rate generic dish bullets or "Must-Try Dishes" checklists.
 
+**Trip-diary markers (seen / skipped)** — once the trip is under way, a visited place gets a verdict marker appended to its description; the 1–5 ★ prefix stays untouched (it's the *planning importance*, a separate axis from the after-the-fact verdict):
+
+```markdown
+… description ✅ **Widziane: Dzień 1 (11 sie) — 4/5** 📅 **Dzień 1 (11 sie)**
+… description ⏭️ **Pominięte: Dzień 1 (11 sie)** 📅 **Dzień 1 (11 sie)**
+```
+
+⚠️ **The marker must come BEFORE the ` 📅 …` day marker.** `annotate_places.py` strips everything from the 📅 sentinel to end-of-line (`MARKER_RE`), so anything placed after it is destroyed on the next `--write`. In `days/*.md` the day is implicit, so the short form `✅ **Widziane — 4/5.**` / `⏭️ **Pominięte.**` goes at the **front of the Activity cell**; use the explicit `Widziane już w Dzień N (NN sie)` form when a place was seen on a *different* day than the one whose file it sits in. Record off-plan stops in the day's notes paragraph (between H1 and `## Route Map`) — that text lands in the site's day `notes` and is indexed by `annotate_places.py` as a Day-N visit, but is **not** picked up by `buildGoogleMapsPinsUrl` (schedule-only), so the route link stays intact.
+
 **`places.md` headings** drive the parser's section label: `##` = region/city (e.g. `KOREA — SEOUL`), `###` = day combo/district. `####` (Kawiarnie, Jedzenie, …) is informational, not parsed. The `KOREA — ` / `TAIWAN — ` prefixes stay in English — `_place_nav` strips them to build the nav chip.
 
 **Language: the content is Polish, the parser keys are English.** All prose, descriptions, schedule cells, headings and site UI are in **Polish**; place names, dish names, station/line names and pass names stay in their original romanized form (Seoul, Busan, Taipei, Taichung, Tainan, Kaohsiung — not Seul/Tajpej), because the Maps search URLs and link texts depend on them. Country names are Polish in prose (Korea, Tajwan). These strings are **load-bearing keys — keep them exactly as-is in English**:

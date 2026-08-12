@@ -1,4 +1,4 @@
-# Aug 27 (Thu) — Kaohsiung rano → HSR do Taipei → Maokong
+# Aug 28 (Fri) — Kaohsiung rano → HSR do Taipei → Maokong
 > Badges: pass:HSR Pass dzień 2 z 2
 
 **Wykorzystaj Taiwan HSR Flexible 2-day Pass (dzień 2 z 2).**
@@ -23,10 +23,10 @@
 | 11:30 | Lunch w Kaohsiung (papaya milk — specjalność Kaohsiung!). |  |
 | 12:30 | **HSR Zuoying (Kaohsiung) → Taipei** (1 h 35 min). | HSR Pass |
 | 14:30 | Przyjazd do Taipei. Zostaw bagaże w hotelu lub w skrytkach. |  |
-| 15:00 | **[★★★★☆ 🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei)** — 30-minutowy przejazd nad plantacjami herbaty. Weź **Crystal Cabin ze szklaną podłogą** (NT$50 dopłaty). Dzieci to uwielbiają. W czw. otwarte (zamknięte w pon.). | NT$180/przejazd lub NT$300 pass dzienny |
+| 15:00 | **[★★★★☆ 🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei)** — 30-minutowy przejazd nad plantacjami herbaty. Weź **Crystal Cabin ze szklaną podłogą** (NT$50 dopłaty). Dzieci to uwielbiają. W pt. otwarte i dłużej niż w tygodniu — pt./sob. kolejka jeździ do ~22:00 (zamknięte w pon.), więc na herbatę w Maokong po zmierzchu jest teraz więcej czasu. | NT$180/przejazd lub NT$300 pass dzienny |
 | 16:00 | **Herbaciarnie w Maokong** — Mountain Tea House lub The Big Tea Pot. Herbata z widokiem na dolinę. |  |
 | 17:30 | Gondolą w dół. |  |
-|  | Opcjonalnie: **[★★★☆☆ 🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo)** u dolnej stacji — ostatnie wejście 16:00, ale dziś jest czw., zamykają o 17:00, więc pomiń. | NT$100 dorosły / NT$60 dziecko 6–12 i uczniowie |
+|  | Opcjonalnie: **[★★★☆☆ 🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo)** u dolnej stacji — ostatnie wejście 16:00, ale dziś jest pt., zamykają o 17:00, więc pomiń. | NT$100 dorosły / NT$60 dziecko 6–12 i uczniowie |
 | 18:30 | MRT w okolice Da'an. |  |
 | 19:00 | **⚖️ Wybierz jedno — pożegnalna kolacja na [★★★★☆ 🍜🚶 Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei).** Trzy klasyki na tej samej ulicy jedzenia; wybierz tę kolejkę, którą zniesiesz. |  |
 |  | **Opcja A ·** **[★★★★☆ 🍜 Din Tai Fung](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei)** — miejsce narodzin sieci (pierwotny flagowy lokal na Xinyi Rd; oryginał działa dziś tylko na wynos, na miejscu je się w filii na 330 miejsc po przeciwnej stronie — xiao long bao warte kolejki). |  |

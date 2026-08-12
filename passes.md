@@ -14,29 +14,40 @@ Obejmuje wstęp wolny do:
 
 Kup: Klook, KKday lub strona Discover Seoul Pass. Aktywacja przez zeskanowanie przy pierwszej atrakcji.
 
-### Visit Busan Pass (24 godz.) — 49,000 KRW
-**Aktywacja: 19 sie rano**
+### Visit Busan Pass BIG3 (wybierz 3 atrakcje) — 45,000 KRW
+**Aktywacja: bez zegara — ważność 180 dni, więc jeden pass obejmuje i 19, i 20 sie**
 
-Obejmuje wstęp wolny do:
-- Blueline Park Beach Train (wartość 7,000-11,000 KRW)
-- Busan Tower (wartość 12,000 KRW)
-- SEA LIFE Aquarium (wartość 29,000 KRW) — jeśli wykorzystane 20 sie
-- Songdo Cable Car (wartość 17,000-22,000 KRW) — jeśli wykorzystane
-- Spa Land (wartość 20,000 KRW) — jeśli wykorzystane
+⚠️ **Zmiana rekomendacji po przesunięciu lotu na 21 sie.** Busan ma teraz **dwa pełne dni (19 i 20 sie)**, więc:
+- **24 h (55,000 KRW) — odpada.** Ruchome okno 24 h nie obejmie obu dni, a rozdzielenie go w pół (aktywacja 19 sie po południu) traci najlepsze punkty obu dni.
+- **48 h (85,000 KRW) — odpada.** Za drogie: cała pula wartości w naszym planie to ~45,000/dorosły.
+- **BIG3 (45,000) / BIG5 (65,000) — teraz najlepsze**, bo nie mają zegara (okno 180 dni) i naturalnie spinają oba dni.
 
-**Uwaga:** Sky Capsule NIE jest wliczony (tylko Beach Train). Sky Capsule trzeba zarezerwować osobno — rezerwacje na godziny otwierają się we wtorek przed datą przejazdu (źródła się różnią: ≈2–4 tygodnie wcześniej), więc sprawdzaj [bluelinepark.com](https://www.bluelinepark.com) lub Klook wcześnie i rezerwuj w momencie, gdy pojawi się Wasza data. Sam pass kupuj na Klook lub w aplikacji Visit Busan Pass.
+Pula wartości, którą realnie wykorzystamy przez oba dni (dorosły):
+- Blueline Park Beach Train (12,000) — 19 sie
+- Busan Tower (12,000) — 19 sie
+- Songdo Cable Car, standardowy Air Cruise (17,000) — 20 sie, Opcja B
+- Taejongdae Danubi Train (~4,000) — 20 sie
+- Busan X the Sky (27,000–29,000) albo SEA LIFE (29,000) albo Spa Land (20,000) — tylko jeśli świadomie dołożycie
+
+**Razem bez dodatków: ~45,000/dorosły** — czyli BIG3 wychodzi na zero, a dopiero dołożenie **Busan X the Sky** albo **SEA LIFE** daje realny zysk (~+13,000/dorosły przy zestawie Songdo + Busan Tower + X the Sky). **Dla dzieci żaden pass się nie zwraca** (płaska cena kontra tanie bilety dziecięce w kasie) — pełny rachunek w [cards/busan.md](cards/busan.md).
+
+**Uwaga:** Sky Capsule NIE jest wliczony w żaden pass (tylko Beach Train). Sky Capsule trzeba zarezerwować osobno — rezerwacje na godziny otwierają się we wtorek przed datą przejazdu (źródła się różnią: ≈2–4 tygodnie wcześniej), więc sprawdzaj [bluelinepark.com](https://www.bluelinepark.com) lub Klook wcześnie i rezerwuj w momencie, gdy pojawi się Wasza data. Crystal Cabin w Songdo (22,000) może wymagać dopłaty ponad standardowy Air Cruise.
+
+Kup: visitbusanpass.com, Klook, KKday, Trazy lub Creatrip — **tylko mobilny pass QR** (fizyczna karta wycofana ~października 2024).
 
 ### Taipei Fun Pass Unlimited (2 dni) — ~NT$1,700
-**Aktywacja: 21 sie rano** (obejmuje 21-22 sie). Wersja dziecięca = 6–11 lat; od 12 lat płaci się jak dorosły, więc 15-latek potrzebuje passu dla dorosłego, a 9- i 11-latek passów dziecięcych.
+**Aktywacja: 22 sie rano** (obejmuje 22-23 sie). ⚠️ **Nie 21 sie** — po przesunięciu lotu 21 sie jest dniem przelotu: w miasto wchodzicie ~12:15 i nie odwiedzacie żadnej płatnej atrakcji, więc odbicie passu tego dnia spaliłoby połowę jego ważności. 21 sie jeździcie na EasyCard. Wersja dziecięca = 6–11 lat; od 12 lat płaci się jak dorosły, więc 15-latek potrzebuje passu dla dorosłego, a 9- i 11-latek passów dziecięcych.
 
 Obejmuje:
-- Taipei 101 Observatory (wartość NT$600) — 22 sie
-- National Palace Museum (wartość NT$350) — 22 sie
+- Taipei 101 Observatory (wartość NT$600) — 23 sie
+- National Palace Museum (wartość NT$350) — 23 sie
 - 30+ atrakcji
 - Nielimitowane przejazdy MRT + autobusami (oszczędność ~NT$100-200/dzień)
 - Część atrakcji: lampion w Pingxi, herbata w Maokong, własne ciastka ananasowe
 
 **Wartość: NT$950+ już z samego Taipei 101 + NPM + transportu. Zdecydowanie warto.**
+
+**Uwaga — [cards/taipei.md](cards/taipei.md) rekomenduje inny wariant:** pass **3-dniowy z aktywacją 23 sie** (obejmuje 23–25 sie = NPM/Taipei 101 + wybrzeże NE + dzień nauki dla dzieci), bo Yehliu, lampion w Shifen i pociąg linią Pingxi też są w passie, więc 3-dniowy potrafi **zastąpić płatną wycieczkę na wybrzeże** (~NT$1,500–2,000/os.). Ta rozbieżność istniała w planie już wcześniej i **nie wynika z przesunięcia terminów** — rozstrzygnijcie ją po decyzji, czy 24 sie jedziecie na wybrzeże sami czy z przewodnikiem. Wersja 2-dniowa powyżej jest wariantem „z przewodnikiem".
 
 Kup: Klook, KKday lub strona Taipei Fun Pass.
 
@@ -47,9 +58,9 @@ Kup: Klook, KKday lub strona Taipei Fun Pass.
 ### Taiwan HSR Flexible 2-day Pass — NT$2,500
 **Tylko dla obcokrajowców** (okaż paszport). Dowolne 2 dni w ciągu 7 dni.
 
-Wykorzystanie:
-- 25 sie: Taipei → Taichung (NT$700) + Taichung → Tainan (NT$650) = NT$1,350
-- 27 sie: Kaohsiung → Taipei (NT$1,490) = NT$1,490
+Wykorzystanie (daty przesunięte o dzień wraz z całym Tajwanem):
+- 26 sie: Taipei → Taichung (NT$700) + Taichung → Tainan (NT$650) = NT$1,350
+- 28 sie: Kaohsiung → Taipei (NT$1,490) = NT$1,490
 
 **Razem cena normalna: NT$2,840. Oszczędność NT$340.** Plus wygoda nielimitowanych przejazdów w te dni.
 

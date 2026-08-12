@@ -1,9 +1,11 @@
 # Busan — karty zniżkowe (Visit Busan Pass)
 
-**Cel tego pliku:** zebrać karty zniżkowe w Busan, dopasować je do tego, co faktycznie robimy (w praktyce **jeden użyteczny dzień, 19 sie** — przylatujemy wieczorem 18 sie, a wylatujemy rankiem 20 sie), policzyć opłacalność i zdecydować, czy i co kupić.
+**Cel tego pliku:** zebrać karty zniżkowe w Busan, dopasować je do tego, co faktycznie robimy, policzyć opłacalność i zdecydować, czy i co kupić.
 
-> **TL;DR** — Przy tylko jednym dniu i planie skupionym na świątyniach i targach **żaden pass się nie opłaca w obecnym układzie**. Beach Train + Busan Tower = zaledwie ~24,000 KRW wartości do pokrycia, znacznie poniżej passa 24H za 55,000 KRW. Pass ma sens **tylko wtedy, gdy świadomie dołożycie Busan X the Sky (a najlepiej też SEA LIFE) w Haeundae** — wtedy **pass BIG3 z wyborem 3 atrakcji (45,000)** jest najmniej złą opcją, i to **tylko dla dorosłych**. **Sky Capsule nie jest objęty żadnym passem** — rezerwuj osobno.
-> **Kup: domyślnie nic. Płaćcie ceny w kasie. (Opcjonalnie: BIG3 dla dorosłych + X the Sky, jeśli chcecie dzień z tarasami widokowymi.)**
+> ⚠️ **ZAKTUALIZOWANO — lot Busan → Taipei przesunął się z 20 na 21 sie.** Busan ma teraz **dwa pełne dni: 19 sie (śr.) i 20 sie (czw.)**, plus wieczór przyjazdu 18 sie, i **3 noce**. Wcześniej ten plik liczył wszystko przy założeniu „jeden użyteczny dzień, 19 sie" — ten warunek już nie obowiązuje i **zmienia rekomendację**.
+
+> **TL;DR** — Dwa dni zmieniają arytmetykę na trzy sposoby: (1) **pass 24H (55,000) odpada definitywnie** — ruchome okno 24 h nie obejmie 19 i 20 sie, a dzielenie go w pół traci najlepsze punkty obu dni; (2) **BIG3/BIG5 zyskują**, bo **nie mają zegara** (okno 180 dni), więc jeden zakup naturalnie spina oba dni; (3) do puli wartości dochodzą dwie pozycje, które wcześniej „nie były w planie": **Songdo Cable Car (17,000)** i **Taejongdae Danubi Train (~4,000)** — oba są w [days/aug-20-busan-day2.md](../days/aug-20-busan-day2.md). Pula bez dodatków rośnie z ~24,000 do **~45,000/dorosły**, czyli dokładnie do ceny BIG3 — więc BIG3 **wychodzi na zero** i realny zysk daje dopiero dołożenie **Busan X the Sky** albo **SEA LIFE**. **Sky Capsule nie jest objęty żadnym passem** — rezerwuj osobno.
+> **Kup: BIG3 tylko dla 3 dorosłych i tylko jeśli dołożycie X the Sky lub SEA LIFE (wtedy ~+13,000 do +23,000/dorosły). W przeciwnym razie nic — płaćcie ceny w kasie. Dla dzieci żadnego passa.**
 
 ---
 
@@ -13,10 +15,10 @@ Podobnie jak pass w Seoulu, **Visit Busan Pass** jest **tylko dla obcokrajowców
 
 | Karta | Struktura | Cena (każdy wiek) | Przydatność |
 |------|-----------|------------------|-----------|
-| **Visit Busan Pass 24H** | atrakcje bez limitu, ruchome 24 h od pierwszego skanu | **55,000 KRW** | Jedyny pass czasowy, który mógłby zmieścić się w jednym dniu |
-| Visit Busan Pass 48H | bez limitu, ruchome 48 h | 85,000 KRW | ❌ bez znaczenia — tylko jeden użyteczny dzień |
-| **BIG3 (Free-choice)** | wybierasz **3** (1 z Grupy A + 2 z Grupy B), ważność 180 dni, jedno wejście na każdą | **45,000 KRW** | ⭐ najlepiej dopasowany „pass" na jeden dzień |
-| BIG5 (Free-choice) | wybierasz **5** (2 z Grupy A + 3 z Grupy B), 180 dni | 65,000 KRW | Za dużo atrakcji na jeden dzień |
+| Visit Busan Pass 24H | atrakcje bez limitu, ruchome 24 h od pierwszego skanu | 55,000 KRW | ❌ **nie obejmie obu naszych dni** (19 + 20 sie) |
+| Visit Busan Pass 48H | bez limitu, ruchome 48 h | 85,000 KRW | ❌ obejmuje oba dni, ale ~2× droższy niż nasza pula wartości (~45,000) |
+| **BIG3 (Free-choice)** | wybierasz **3** (1 z Grupy A + 2 z Grupy B), ważność 180 dni, jedno wejście na każdą | **45,000 KRW** | ⭐ najlepszy wybór — brak zegara, więc spina 19 i 20 sie |
+| BIG5 (Free-choice) | wybierasz **5** (2 z Grupy A + 3 z Grupy B), 180 dni | 65,000 KRW | ✅ teraz realny (dwa dni = 5 atrakcji da się wypełnić), ale opłaca się tylko z dwiema pozycjami premium |
 
 **Zegar:** 24H/48H aktywują się przy pierwszym skanie kodu QR i liczą godziny w trybie ruchomym. BIG3/BIG5 nie mają zegara (okno 180 dni). **Sprzedawane wyłącznie jako mobilny pass QR** — fizyczna karta (która działała też jako karta transportowa) jest zawieszona we wszystkich kanałach od ~października 2024, więc zakładaj wersję tylko mobilną.
 
@@ -29,46 +31,62 @@ Podobnie jak pass w Seoulu, **Visit Busan Pass** jest **tylko dla obcokrajowców
 | **Blueline Park — Beach Train** | ✅ Bezpłatnie | 12,000 (16,000 z wszystkimi przystankami) | stała stawka za przejazd, nie od wieku | ✅ 19 sie |
 | **Blueline Park — Sky Capsule** | ❌ **Nieobjęty** (osobny bilet) | ~35,000–40,000 / kapsuła 1–2 os., w jedną stronę | — | ✅ 19 sie (płatne osobno) |
 | **Busan Tower (Yongdusan)** | ✅ Bezpłatnie | ~12,000 | ~9,000 | ✅ 19 sie |
-| Busan X the Sky | ✅ Bezpłatnie | 27,000–29,000 | 24,000 | ➖ nie w planie (kandydat do dodania, Haeundae) |
-| SEA LIFE Busan Aquarium | ✅ Bezpłatnie | 29,000 | ~24,000 | ➖ nie w planie (kandydat do dodania, Haeundae) |
-| Songdo Marine Cable Car (Air Cruise) | ✅ Bezpłatnie (standardowy przejazd w obie strony) | 17,000 | ~13,000 | ➖ nie w planie (daleko na zachodzie, niewygodne) |
-| Spa Land, Shinsegae Centum City | ✅ Bezpłatnie | ~20,000 | ograniczenia wiekowe | ➖ nie w planie |
-| Taejongdae Danubi Train | ✅ Bezpłatnie | ~4,000 | ~2,000 | ➖ nie w planie |
+| Busan X the Sky | ✅ Bezpłatnie | 27,000–29,000 | 24,000 | ➖ kandydat do dodania (20 sie, Haeundae — „Also Nearby") |
+| SEA LIFE Busan Aquarium | ✅ Bezpłatnie | 29,000 | ~24,000 | ➖ kandydat do dodania (20 sie, Haeundae — „Also Nearby") |
+| **Songdo Marine Cable Car (Air Cruise)** | ✅ Bezpłatnie (standardowy przejazd w obie strony) | 17,000 | ~13,000 | ✅ **20 sie, Opcja B** — nowa pozycja dzięki przesunięciu lotu |
+| Spa Land, Shinsegae Centum City | ✅ Bezpłatnie | ~20,000 | ograniczenia wiekowe | ➖ kandydat do dodania (20 sie — „Also Nearby") |
+| **Taejongdae Danubi Train** | ✅ Bezpłatnie | ~4,000 | ~2,000 | ✅ **20 sie** — nowa pozycja dzięki przesunięciu lotu |
 | Lotte World Adventure Busan | ✅ Bezpłatnie (premium/Grupa A) | 47,000 | — | ➖ nie w planie |
 | Trick Eye / Science Museum | ⚠️ Prawdopodobnie bezpłatnie (sprawdź) | ~15,000 / symboliczna | — | ➖ nie w planie |
 | Haedong Yonggungsa, Gamcheon, Jagalchi/Gukje/BIFF/Bupyeong, Oryukdo Skywalk | nie dotyczy (i tak wstęp wolny) | 0 | 0 | ✅ 19 sie — pass nic nie daje |
 
 ---
 
-## Opłacalność (na osobę) — realia jednego dnia
+## Opłacalność (na osobę) — realia DWÓCH dni (19 + 20 sie)
 
-**Wartość do pokrycia, którą faktycznie wykorzystamy 19 sie zgodnie z planem:** Beach Train (12,000) + Busan Tower (12,000) = **24,000/dorosły**. (Sky Capsule i tak jest poza passem.)
+**Wartość do pokrycia, którą faktycznie wykorzystamy przez oba dni zgodnie z planem** (dorosły):
 
-**Pass 24H (55,000):**
+| Pozycja | Dzień | Wartość |
+|---------|-------|---------|
+| Blueline Park Beach Train | 19 sie | 12,000 |
+| Busan Tower (Yongdusan) | 19 sie | 12,000 |
+| Songdo Marine Cable Car (Air Cruise) | 20 sie, Opcja B | 17,000 |
+| Taejongdae Danubi Train | 20 sie | ~4,000 |
+| **Razem** | | **~45,000/dorosły** |
 
-| Scenariusz (19 sie) | Wartość do pokrycia (dorosły) | vs 55,000 | Ocena |
-|-------------------|-------------------------|-----------|---------|
-| Zgodnie z planem (Beach Train + Busan Tower) | 24,000 | −31,000 | ❌ wyraźnie nie |
-| + Busan X the Sky | 51,000 | −4,000 | ❌ nadal za mało |
-| + X the Sky **i** SEA LIFE (oba w Haeundae) | 80,000 | **+25,000** | ✅ jedyny sposób, żeby się opłaciło — ale 4 biletowane punkty w napchanym dniu |
+(Sky Capsule i tak jest poza passem. Gamcheon, Jagalchi, Gukje, Oryukdo, GoEun, Johyun i muzea na Yeongdo są bezpłatne albo tanie i **pass nic tam nie daje** — dlatego pula nie rośnie proporcjonalnie do liczby dni.)
 
-**Pass BIG3 (45,000) — najmniej zła opcja:**
+⚠️ **Uwaga o Opcji B:** Songdo Cable Car (17,000, czyli największa pojedyncza pozycja) jest w **Opcji B** dnia 20 sie. Jeśli wybierzecie **Opcję A (oś sztuki: GoEun + Johyun + BMA — rekomendowaną)**, pula spada do **~28,000/dorosły** i **żaden pass się nie opłaca**. Decyzję o passie podejmijcie więc **po** wyborze wariantu 20 sie, nie przed.
 
-| Zestaw | Wartość (dorosły) | vs 45,000 | Ocena |
+**Pass 24H (55,000) — odpada mechanicznie:** ruchome okno 24 h nie obejmie i 19, i 20 sie. Aktywacja 19 sie rano traci cały 20 sie; aktywacja 19 sie po południu traci Beach Train (poranek 19 sie) i wygasa ~13:30 dnia 20 sie, czyli **przed** Songdo. Żaden podział nie działa.
+
+**Pass BIG3 (45,000) — najlepszy wybór, ale tylko z dodatkiem:**
+
+| Zestaw (3 atrakcje z obu dni) | Wartość (dorosły) | vs 45,000 | Ocena |
 |-------|---------------|-----------|---------|
-| Beach Train + Busan Tower + X the Sky | 51,000 | **+6,000** | ✅ mały zysk, tylko 3 punkty |
-| X the Sky + SEA LIFE + Beach Train | 68,000 | **+23,000** | ✅ *jeśli* zasady grup pozwolą na dwie atrakcje premium |
+| Songdo + Busan Tower + Beach Train (sam plan) | 41,000 | −4,000 | ❌ wychodzi poniżej zera |
+| Songdo + Busan Tower + **X the Sky** | 58,000 | **+13,000** | ✅ najlepszy realistyczny zestaw |
+| **X the Sky + SEA LIFE** + Songdo | 75,000 | **+30,000** | ✅ *jeśli* zasady Grupy A/B pozwolą na dwie pozycje premium |
 
-**Dzieci:** przy niższych cenach dziecięcych w kasie i płaskiej cenie passa 24H nie ma szans się zwrócić, a dziecięcy BIG3 (X the Sky + Beach Train + Busan Tower ≈ 45,000) tylko **wychodzi na zero** wobec ceny passa. **Żadnego passa dla dzieci.**
+**Pass BIG5 (65,000) — teraz w ogóle wykonalny (dwa dni = da się wypełnić 5 pozycji):**
+
+| Zestaw | Wartość (dorosły) | vs 65,000 | Ocena |
+|-------|---------------|-----------|---------|
+| Cały plan (Songdo + Tower + Beach Train + Danubi) + **X the Sky** | 74,000 | **+9,000** | ✅ mały zysk, ale 5 biletowanych punktów w dwóch napiętych dniach |
+| ...z **SEA LIFE** zamiast Danubi | 99,000 | **+34,000** | ✅ najmocniejszy zestaw, jeśli zasady grup pozwolą |
+
+**Pass 48H (85,000):** obejmuje oba dni (aktywacja 19 sie rano → wygaśnięcie 21 sie rano, dokładnie przed lotem), ale żeby się zwrócił, trzeba dołożyć **i X the Sky, i SEA LIFE** (45,000 + 58,000 = 103,000 → +18,000). To 6 biletowanych atrakcji w dwa dni, w których jest już świątynia, Gamcheon, Nampo, Yeongdo i trzy muzea. **Nierealne — pomiń.**
+
+**Dzieci:** bez zmian — przy niższych cenach dziecięcych w kasie i płaskiej cenie passa nic się nie zwraca. Dziecięcy BIG3 (Songdo ~13,000 + Busan Tower 9,000 + X the Sky 24,000 ≈ 46,000) tylko **wychodzi na zero** wobec 45,000. **Żadnego passa dla dzieci.**
 
 ---
 
 ## Rekomendacja — co i na jak długo kupić
 
-- **Domyślnie: nie kupujcie passa.** Przy 19 sie skupionym na świątyniach, targach i Gamcheon płaćcie ceny w kasie: ~24,000/dorosły za Beach Train + Busan Tower, plus osobno **Sky Capsule** (~35,000–40,000 za kapsułę 1–2-osobową w jedną stronę; kapsuła 3–4-osobowa kosztuje więcej).
-- **48H nie ma sensu** (jeden użyteczny dzień). **24H (55,000) to nie** — chyba że zamienicie 19 sie w dzień tarasów widokowych i akwarium, dodając **zarówno Busan X the Sky, jak i SEA LIFE** w Haeundae.
-- **Jeśli i tak chcecie pass → BIG3 dla dorosłych (45,000) + Busan X the Sky** (oszczędność ~6,000/dorosły; ~23,000, jeśli dorzucicie jeszcze SEA LIFE i pozwolą na to zasady Grupy A/B). **Kupujcie tylko dla 3 dorosłych** — nie dla dzieci (płaska cena zjada ich zniżki w kasie).
-- **Najlepszy pojedynczy ruch:** najpierw zdecydujcie, czy naprawdę chcecie dodać taras widokowy w Haeundae. Jeśli nie — pomiń wszystkie passy; plan to głównie bezpłatne atrakcje + dwa tanie bilety.
+- **Kolejność decyzji się zmieniła: najpierw wybierzcie wariant 20 sie, potem pass.** Opcja A (oś sztuki — GoEun, Johyun, BMA) to prawie wyłącznie **bezpłatne** instytucje → pula spada do ~28,000/dorosły → **żaden pass się nie opłaca**. Opcja B (Songdo + wybrzeże SE) wnosi Songdo Cable Car (17,000) i dopiero wtedy pass wchodzi w grę.
+- **24H (55,000) i 48H (85,000) — odpadają.** 24H mechanicznie nie obejmie obu dni; 48H obejmuje, ale wymaga dołożenia i X the Sky, i SEA LIFE, czyli 6 biletowanych atrakcji w dwa i tak przeładowane dni.
+- **Jeśli chcecie pass → BIG3 dla 3 dorosłych (45,000): Songdo Cable Car + Busan Tower + Busan X the Sky** (~+13,000/dorosły; ~+30,000, jeśli zamiast Busan Tower wejdzie SEA LIFE i pozwolą na to zasady Grupy A/B). **BIG5 (65,000)** ma sens tylko wtedy, gdy naprawdę zaliczycie 5 biletowanych punktów. **Nigdy dla dzieci** — płaska cena zjada ich zniżki w kasie.
+- **Najlepszy pojedynczy ruch:** zdecydujcie, czy 20 sie ma być dniem sztuki (Opcja A — rekomendowana dla tej rodziny, wtedy **żadnego passa**), czy dniem widoków i kolejek dla dzieci (Opcja B — wtedy **BIG3 dla dorosłych + X the Sky**).
 
 **Sky Capsule (rezerwuj wcześnie!):** to osobny bilet, za kapsułę, **w jedną stronę** (typowy układ: Sky Capsule w jedną stronę + Beach Train z powrotem, który *jest* objęty passem). Terminy na zachód słońca i ze startem w Mipo wyprzedają się **tygodnie** wcześniej — rezerwujcie na **bluelinepark.com** natychmiast po otwarciu okna sprzedaży (**wtorki, 4 tygodnie / 28 dni wcześniej** — dokładną godzinę otwarcia potwierdź na stronie). Dla 6 osób potrzebne będą **2 kapsuły** (do 4 miejsc każda); pamiętajcie, że kwota ~35,000–40,000 to stawka za **1–2 pasażerów**, więc pełna kapsuła 3–4-osobowa kosztuje więcej.
 

@@ -1,6 +1,10 @@
-# Aug 20 (Thu) — Lot Busan → Taipei + popołudnie w Taipei
+# Aug 21 (Fri) — Lot Busan → Taipei + popołudnie w Taipei
 
 Wczesny lot: **PUS → TPE odlot 9:00, przylot do Taipei (Taoyuan) 10:30** (czas lokalny na Tajwanie; Korea jest +1 h, więc lot trwa ~2 h 30). Dziś nie ma poranka w Busan — bądźcie na **Gimhae T2 (International) około 6:15**, czyli **2,5–3 h przed lotem międzynarodowym** (sierpień to szczyt sezonu podróży, a okno 5:00–8:00 jest na Gimhae najbardziej zatłoczone), więc wyjazd z hotelu ~5:30. Wylądujecie z bonusowym pół dniem w Taipei — ale doliczcie kontrolę paszportową i bagaż w Taoyuan, więc realnie w mieście ~13:00.
+
+**Lot przesunięty z 20 na 21 sie.** Busan dostał dzięki temu **pełny drugi dzień (20 sie)** — Yeongdo, Songdo, wybrzeże SE i muzea, patrz [aug-20-busan-day2.md](aug-20-busan-day2.md) — a w Busan śpicie **3 noce (18/19/20 sie)**. Nadal jednak wyjeżdżacie z hotelu o 5:30, więc **20 sie zakończcie wcześnie** i spakujcie się wieczorem.
+
+**Taipei Fun Pass aktywujcie dopiero jutro (22 sie), nie dziś** — dziś jeździcie po mieście dopiero od ~12:15 i nie wchodzicie do żadnej płatnej atrakcji, więc odbicie passu dzisiaj spaliłoby prawie cały pierwszy z dwóch dni jego ważności. Dziś wystarczy EasyCard.
 
 **Transport (dzień przelotu):** lot PUS → TPE (na Gimhae ~06:15), potem Airport MRT/autobus do Taipei; po południu lekko — MRT i spacery.
 
@@ -31,15 +35,15 @@ Poranek w podróży — brak trasy zwiedzania. Lotnisko Gimhae → lotnisko Taoy
 |  | **Opcja A ·** **[★★★☆☆ 🏛️ Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei)** — Otwarte codziennie 9:00–18:00, wstęp wolny; na zewnątrz **zmiana warty honorowej co godzinę, o pełnej godzinie 9:00–17:00** na Democracy Boulevard — złapcie 15:00/16:00/17:00. | Bezpłatnie |
 |  | **Opcja B ·** **[★★★☆☆ 🌳🚶 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei)** — Otwarty 24 h, wstęp wolny. | Bezpłatnie |
 |  | **Opcja C ·** Po prostu spokojne wejście w miasto w okolicy hotelu. |  |
-| 18:00 | Wczesny nocny targ na kolację — np. [★★★☆☆ 🍜 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei) (~17:00–24:00; większość przewodników podaje, że działa codziennie, ale część źródeł wskazuje **czwartek jako dzień wolny** — sprawdźcie tego samego dnia albo zostawcie Ningxia na 21 sie/pt. i wybierzcie dziś targ bliżej hotelu). |  |
+| 18:00 | Wczesny nocny targ na kolację — [★★★☆☆ 🍜 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei) (~17:00–24:00). ✅ Po przesunięciu terminów **wątpliwość „czy Ningxia zamyka w czwartki" przestaje mieć znaczenie** — dziś jest piątek. ⚠️ Ale jutrzejsza (22 sie) trasa spacerowa też kończy się na Ningxia: albo zjedzcie Ningxia dziś i zamieńcie jutrzejszy finisz na **[★★★☆☆ 🍜 Shuanglian Night Market](https://www.google.com/maps/search/Shuanglian+Night+Market+Taipei)** (2 przystanki MRT, ten sam korytarz Zhongshan/Dadaocheng), albo wybierzcie dziś targ najbliżej hotelu i zostawcie Ningxia na jutro. |  |
 | 20:30 | Powrót do hotelu — nabierzcie sił na pełny dzień w Taipei jutro. |  |
 
 ---
 
 ## Also Nearby
 
-### Dodatki na poranek w Busan (tylko jeśli przestawicie plan)
-Przy locie o 9:00 **nie ma poranka w Busan**. Żeby zaliczyć którekolwiek z tych miejsc, wciśnijcie je w **19 sie** albo zamieńcie dzień:
+### Dodatki w Busan — już zaplanowane na 20 sie
+Przy locie o 9:00 **nie ma poranka w Busan**, ale po przesunięciu lotu z 20 na 21 sie te miejsca **nie są już „tylko jeśli przestawicie plan"** — wszystkie mają swój slot w [aug-20-busan-day2.md](aug-20-busan-day2.md). Lista zostaje tu jako spis tego, co ląduje w tamtym dniu:
 - [★★★☆☆ 🚡🧒 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan) [N](https://map.naver.com/p/search/송도해상케이블카) — 1,62 km nad oceanem, Crystal Cabin (szklana podłoga!)
 - [★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium) [N](https://map.naver.com/p/search/씨라이프%20부산아쿠아리움) — 250 gatunków, tunel oceaniczny, budowle z LEGO
 - [★★★☆☆ ♨️ Spa Land at Shinsegae](https://www.google.com/maps/search/Shinsegae+Centum+City+Busan) [N](https://map.naver.com/p/search/신세계백화점%20센텀시티점) — jjimjilbang z 22 tematycznymi saunami

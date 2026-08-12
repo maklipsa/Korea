@@ -1,6 +1,6 @@
 # Tainan — karty zniżkowe
 
-**Cel tego pliku:** sprawdzić, czy w Tainan opłaca się kupić jakąkolwiek kartę zniżkową przy naszym planie (25 sie po południu → 26 sie w południe).
+**Cel tego pliku:** sprawdzić, czy w Tainan opłaca się kupić jakąkolwiek kartę zniżkową przy naszym planie (26 sie po południu → 27 sie w południe).
 
 > **TL;DR — żadna karta.** **Tainan Historic Site Pass (~NT$210)** obejmuje 4 obiekty; nasze 3 obiekty to **NT$210 w pojedynczych biletach (dorosły) / NT$105 (dziecko)** — **tyle samo** co pass dla dorosłych, więc pass wygrywa tylko wtedy, gdy zaliczycie też jego 4. obiekt (Eternal Golden Castle), który pomijamy. Płaćcie za każdy obiekt osobno (dzieci połowa ceny); w autobusach przykładajcie EasyCard/iPASS.
 
@@ -19,9 +19,9 @@ Dzieci od 9 lat płacą **połowę ceny** w każdym obiekcie historycznym.
 
 | Atrakcja | Bilet (dorosły) | Bilet (dziecko, połowa) | Karta obejmuje? | Nasz dzień |
 |------------|--------------|--------------------|--------------|---------|
-| Fort Zeelandia / Anping Old Fort | 70 | 35 | w passie za NT$210 | 25 sie po poł. |
-| Anping Tree House | 70 | 35 | w passie za NT$210 | 25 sie po poł. |
-| Chihkan Tower | 70 | 35 | w passie za NT$210 | 26 sie przed poł. |
+| Fort Zeelandia / Anping Old Fort | 70 | 35 | w passie za NT$210 | 26 sie po poł. |
+| Anping Tree House | 70 | 35 | w passie za NT$210 | 26 sie po poł. |
+| Chihkan Tower | 70 | 35 | w passie za NT$210 | 27 sie przed poł. |
 | Świątynie, Shennong St, Hayashi Dept Store, nocne targi | BEZPŁATNIE | BEZPŁATNIE | nie dot. | oba |
 
 **Suma pojedynczych biletów do naszych 3 obiektów: dorosły NT$210 / dziecko NT$105** — tyle samo co pass za NT$210 (dorosły); dzieci wychodzą taniej, płacąc za każdy obiekt osobno po połowie ceny.

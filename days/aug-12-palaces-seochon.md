@@ -1,12 +1,12 @@
-# Aug 12 (Wed) — Pałace + Seochon + Insadong + Gwangjang Market
+# Aug 12 (Wed) — Pałace + Seochon + Bukchon + Insadong
 
 Wielki dzień tradycyjnego Seoulu. W środy wszystko otwarte.
 
 **Transport:** Dzień spacerowy po dzielnicy pałaców — pieszo plus przystanek lub dwa metrem. Uliczki pałacowe i hanokowe nie są przyjazne rowerom.
 
 ## Route Map
-[Trasa w Naver Map](https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.9995,37.5702,Gwangjang+Market/126.97000,37.58076,Tongin+Market:126.99170,37.58239,Changdeokgung+Palace:126.98586,37.58239,Bukchon+Hanok+Village:126.9819,37.5852,Museum+Hanmi:126.98068,37.57887,MMCA+Seoul:126.98053,37.58075,Kukje+Gallery:126.98597,37.57437,Insadong/walk)
-[Wszystkie punkty w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Gyeongbokgung+Palace+Seoul&destination=Gwangjang+Market+Seoul&waypoints=Tongin+Market+Seoul|Changdeokgung+Palace+Seoul|Bukchon+Hanok+Village+Seoul|Museum+Hanmi+Samcheong+Seoul|MMCA+Seoul|Kukje+Gallery+Seoul|Insadong-gil+Seoul&travelmode=transit)
+[Trasa w Naver Map](https://map.naver.com/p/directions/126.9770,37.5796,Gyeongbokgung+Palace/126.98597,37.57437,Insadong/126.97000,37.58076,Tongin+Market:126.99170,37.58239,Changdeokgung+Palace:126.98586,37.58239,Bukchon+Hanok+Village:126.9819,37.5852,Museum+Hanmi:126.98068,37.57887,MMCA+Seoul:126.98053,37.58075,Kukje+Gallery/walk)
+[Wszystkie punkty w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Gyeongbokgung+Palace+Seoul&destination=Insadong-gil+Seoul&waypoints=Tongin+Market+Seoul|Changdeokgung+Palace+Seoul|Bukchon+Hanok+Village+Seoul|Museum+Hanmi+Samcheong+Seoul|MMCA+Seoul|Kukje+Gallery+Seoul&travelmode=transit)
 
 ## Schedule
 
@@ -27,14 +27,14 @@ Wielki dzień tradycyjnego Seoulu. W środy wszystko otwarte.
 | 17:20 | **[★★★★☆ 🏛️🎨 Kukje Gallery](https://www.google.com/maps/search/Kukje+Gallery+Seoul) [N](https://map.naver.com/p/search/국제갤러리)** — Wiodąca galeria sztuki współczesnej w Seoulu; ogród rzeźb. ⚠️ **Naturalny kandydat do pominięcia, jeśli pałace się przedłużyły** — priorytet mają Museum Hanmi + MMCA. | Bezpłatnie |
 | 17:40 | Kawa w **[★★★☆☆ ☕ Cafe Onion Anguk](https://www.google.com/maps/search/Cafe+Onion+Anguk+Seoul) [N](https://map.naver.com/p/search/카페%20어니언%20안국)** — 100-letni hanok, chleb solny. |  |
 | 18:00 | **[★★★★☆ 🚶🛍️ Insadong](https://www.google.com/maps/search/Insadong-gil+Seoul) [N](https://map.naver.com/p/search/인사동길)** — Spiralny kompleks Ssamziegil, rzeźbienie pieczątek z imieniem (dzieci dostaną własną koreańską pieczęć), sklepy z rękodziełem. | Pieczątka ~10,000-20,000 KRW |
-| 19:00 | Kolacja: **[★★★★★ 🍜 Gwangjang Market](https://www.google.com/maps/search/Gwangjang+Market+Seoul) [N](https://map.naver.com/p/search/광장시장)** — Bindaetteok (placki z fasoli mung ~5,000), mayak gimbap (~3,000), yukhoe (tatar z surowej wołowiny), Netflix Knife-Cut Noodle Lady. **WEŹ GOTÓWKĘ.** | ~15,000 KRW/os. |
+| 19:00 | 🍽️ **Kolacja — DO USTALENIA.** Gwangjang Market wypadł z planu tego dnia: ✅ **byliśmy tam już w Dzień 1 (11 sie) — 4/5**, więc dziś nie wracamy. Kandydaci do wyboru są niżej w `Also Nearby` → *Więcej jedzenia*: **Hwangsaengga Kalguksu** (Michelin Bib Gourmand, makaron krojony nożem) i **Samcheongdong Sujebi** (Michelin Guide) — oba oznaczają ~15 min powrotu na północ w stronę Bukchon. Trzecia opcja poza tym dniem: **Sindang-dong Tteokbokki Town**, 1 przystanek metra od hotelu przy DDP, czyli po drodze do domu (i odzyskuje punkt pominięty w Dniu 1). | — |
 
 ---
 
 ## Also Nearby
 
 ### Więcej świątyń i zabytków
-- [★★★☆☆ 🏯 Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) [N](https://map.naver.com/p/search/조계사) — Główna świątynia buddyzmu zen; olbrzymie stare drzewa i zdobne lampiony
+- [★★★☆☆ 🏯 Jogyesa Temple](https://www.google.com/maps/search/Jogyesa+Temple+Seoul) [N](https://map.naver.com/p/search/조계사) — Główna świątynia buddyzmu zen; olbrzymie stare drzewa i zdobne lampiony ✅ **Widziane już w Dzień 1 (11 sie) — 5/5**
 - [~~★☆☆☆☆ 🏯 Cheongwadae (dawny Blue House)~~](https://www.google.com/maps/search/Cheongwadae+Blue+House+Seoul) [N](https://map.naver.com/p/search/청와대) — ⚠️ ZAMKNIĘTE dla publiczności od sie 2025 (prezydent wrócił do rezydencji); zwiedzanie zawieszone na 2026 — pomiń
 - [★★★☆☆ 🏯🎫 Changgyeonggung Palace](https://www.google.com/maps/search/Changgyeonggung+Palace+Seoul) [N](https://map.naver.com/p/search/창경궁) — Mniej zatłoczony pałac, piękny nocą
 - [★★☆☆☆ 🌳🏯 Tapgol Park](https://www.google.com/maps/search/Tapgol+Park+Seoul) [N](https://map.naver.com/p/search/탑골공원) — Historyczny park z 10-kondygnacyjną marmurową pagodą

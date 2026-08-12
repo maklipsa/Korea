@@ -1,4 +1,4 @@
-# Aug 25 (Tue) — HSR do Taichung → Tainan
+# Aug 26 (Wed) — HSR do Taichung → Tainan
 > Badges: pass:HSR Pass dzień 1 z 2
 
 **Wykorzystaj Taiwan HSR Flexible 2-day Pass (dzień 1 z 2).**
@@ -13,7 +13,7 @@
 [Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Rainbow+Village+Taichung&destination=Taichung+Second+Market&waypoints=Miyahara+Ice+Cream+Taichung|National+Taichung+Theater&travelmode=driving)
 
 **Tainan (okolice Anping):**
-[Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Fort+Zeelandia+Tainan&destination=Dadong+Night+Market+Tainan&waypoints=Anping+Treehouse+Tainan|Eternal+Golden+Castle+Tainan|Zhous+Shrimp+Rolls+Anping+Tainan|Tongji+Tofu+Pudding+Anping+Tainan|Shennong+Street+Tainan&travelmode=driving)
+[Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Fort+Zeelandia+Tainan&destination=Wusheng+Night+Market+Tainan&waypoints=Anping+Treehouse+Tainan|Eternal+Golden+Castle+Tainan|Zhous+Shrimp+Rolls+Anping+Tainan|Tongji+Tofu+Pudding+Anping+Tainan|Shennong+Street+Tainan&travelmode=driving)
 
 ## Schedule
 
@@ -22,9 +22,9 @@
 | 8:00 | **HSR Taipei → Taichung** (~50 min; tylko szybkie pociągi z ograniczoną liczbą przystanków — sprawdź rozkład). | HSR Pass |
 |  | Zostaw bagaż w **skrytkach na HSR Taichung**. |  |
 | 9:00 | Taksówka/autobus HSR Taichung → Rainbow Village (~6–12 min). |  |
-|  | **[★★★★☆ 📸🧒 Rainbow Village](https://www.google.com/maps/search/Rainbow+Village+Taichung)** — Ręcznie pomalowana przez „Grandpa Rainbow" (Huang Yung-fu, zm. 2024). **Otwarte wt.–niedz. 9:00–17:00, zamknięte w pon. (wt. = OK).** Uwaga: wiele przemalowano podczas sporu o zarządzanie w latach 2022–23, więc wygląda inaczej niż na starszych zdjęciach — nadal bezpłatnie i warte krótkiego przystanku. Przyjedź wcześnie, żeby wyprzedzić tłumy. | Bezpłatnie |
+|  | **[★★★★☆ 📸🧒 Rainbow Village](https://www.google.com/maps/search/Rainbow+Village+Taichung)** — Ręcznie pomalowana przez „Grandpa Rainbow" (Huang Yung-fu, zm. 2024). **Otwarte wt.–niedz. 9:00–17:00, zamknięte w pon. (śr. = OK).** Uwaga: wiele przemalowano podczas sporu o zarządzanie w latach 2022–23, więc wygląda inaczej niż na starszych zdjęciach — nadal bezpłatnie i warte krótkiego przystanku. Przyjedź wcześnie, żeby wyprzedzić tłumy. | Bezpłatnie |
 | 10:30 | **[★★★★☆ ☕📸 Miyahara Ice Cream](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung)** — Dawna klinika okulistyczna z lat 40. z wnętrzem jak z „Harry'ego Pottera". Niesamowite gelato, piękne opakowania ciastek i czekolady (świetne pamiątki). Sam budynek JEST atrakcją. |  |
-| 11:30 | **[★★★★☆ 📸🎭 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater)** — Toyo Ito, architekt z Nagrodą Pritzkera. Zachwycający, falujący beton. Zwiedzanie bezpłatne + ogród na dachu. **Otwarcie 11:30; zamknięte w pon. (wt. = otwarte).** | Bezpłatnie |
+| 11:30 | **[★★★★☆ 📸🎭 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater)** — Toyo Ito, architekt z Nagrodą Pritzkera. Zachwycający, falujący beton. Zwiedzanie bezpłatne + ogród na dachu. **Otwarcie 11:30; zamknięte w pon. (śr. = otwarte).** | Bezpłatnie |
 | 12:30 | Obiad: **[★★★☆☆ 🍜🛍️ Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market)** — Historyczny targ. Stuletnie stragany z ryżem z duszoną wieprzowiną. |  |
 | 13:30 | Odbierz bagaż ze **skrytek na HSR Taichung**. |  |
 |  | **HSR Taichung → Tainan** (~40 min). | HSR Pass |
@@ -38,7 +38,7 @@
 |  | Przystanek na przekąskę przy tej ulicy: **[★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan)**. |  |
 |  | Przystanek na deser przy tej samej ulicy: **[★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan)**. |  |
 | 18:00 | **[★★★★☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan)** — Z czasów dynastii Qing. Piękna w dzień i w nocy. Kawiarnie w stuletnich budynkach. |  |
-| 19:00 | **[★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan)** — ~300 straganów (otwarte pon./wt./pt., 18:00–1:30. **Wt. = otwarte!**). Furgonetka Ancient Scallion Pancake (najpopularniejszy stragan). | ~NT$200-400/osoba |
+| 19:00 | **[★★★☆☆ 🏮 Wusheng Night Market](https://www.google.com/maps/search/Wusheng+Night+Market+Tainan)** — ⚠️ **Zmiana wymuszona przesunięciem planu:** nocne targi w Tainan działają rotacyjnie („大大武花大武花" — pon./wt./pt. Dadong, **śr./sob. Wusheng**, czw./niedz. Garden). Ten dzień był wcześniej wtorkiem z **Dadong**; dziś jest **śr., więc Dadong jest ZAMKNIĘTY**, a czynny jest Wusheng (Ximen Rd Sec. 3, ~18:00–24:00) — mniejszy niż Dadong, ale kompletny zestaw tainańskich klasyków. Potwierdźcie rotację tego samego dnia (bywają zmiany świąteczne). | ~NT$200-400/osoba |
 
 ---
 
@@ -52,7 +52,7 @@
 - [★★★☆☆ 🏯🧒 Paochueh Temple](https://www.google.com/maps/search/Paochueh+Temple+Taichung) — Świątynia z 1927 r. z 27-metrowym złotym śmiejącym się Buddą; zabytek, który przyciąga dzieci, dzielnica North. Codziennie 9–17; bezpłatnie
 
 ### Więcej w Tainan
-- [★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple) — Zbudowana w 1665 r.; najstarsza na Tajwanie; 15 budynków (centrum Tainan — patrz poranna trasa po świątyniach 26 sie)
+- [★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple) — Zbudowana w 1665 r.; najstarsza na Tajwanie; 15 budynków (centrum Tainan — patrz poranna trasa po świątyniach 27 sie)
 - [★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) — Pierwotnie pałac księcia z dynastii Południowej Ming (1664)
 - [★★★☆☆ 🏯 Koxinga Shrine](https://www.google.com/maps/search/Koxinga+Shrine+Tainan) — Czerwono-złoty chram bohatera, który wypędził Holendrów
 - [★★☆☆☆ 🎨🚶 Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Dawny akademik dla pracowników sądu; instalacje artystyczne

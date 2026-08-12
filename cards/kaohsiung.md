@@ -1,6 +1,6 @@
 # Kaohsiung — karty zniżkowe
 
-**Cel tego pliku:** ustalić, czy w Kaohsiung warto kupić jakąkolwiek kartę zniżkową pod nasz plan (26 sie po południu → 27 sie w południe).
+**Cel tego pliku:** ustalić, czy w Kaohsiung warto kupić jakąkolwiek kartę zniżkową pod nasz plan (27 sie po południu → 28 sie w południe).
 
 > **TL;DR — bez karty.** Nasze punkty programu w Kaohsiung są niemal wszystkie bezpłatne, a dwa płatne to drobiazgi. Przykładaj **EasyCard/iPASS** w MRT + LRT + na promie na Cijin, a wstęp do British Consulate zapłać w kasie. Koszt biletów na osobę: **~NT$139 tak samo dla dorosłych i dzieci** (brak udokumentowanej stawki dziecięcej w Consulate) (+ trochę na transport).
 
@@ -18,12 +18,12 @@
 
 | Atrakcja | Kasa (dorosły) | Kasa (dziecko) | Karta obejmuje? | Nasz dzień |
 |------------|--------------|--------------|--------------|---------|
-| Dome of Light / Formosa Blvd | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie po poł. |
-| Pier-2 Art Center (na zewnątrz) | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie po poł. |
-| Lotus Pond i Dragon-Tiger Pagodas | BEZPŁATNIE | BEZPŁATNIE | n/d | 27 sie przed poł. |
-| Spacer nad Love River | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie po poł. |
-| Prom na Cijin (w jedną stronę) | 30 gotówką / **20 EasyCard** | ~10–15 (EasyCard) | przyłóż EasyCard | 26/27 sie |
-| British Consulate at Takao | **99** (częściowo do odzyskania) | ~99 (brak udokumentowanej stawki dziecięcej) | pomiń pass, płać w kasie | 27 sie |
+| Dome of Light / Formosa Blvd | BEZPŁATNIE | BEZPŁATNIE | n/d | 27 sie po poł. |
+| Pier-2 Art Center (na zewnątrz) | BEZPŁATNIE | BEZPŁATNIE | n/d | 27 sie po poł. |
+| Lotus Pond i Dragon-Tiger Pagodas | BEZPŁATNIE | BEZPŁATNIE | n/d | 28 sie przed poł. |
+| Spacer nad Love River | BEZPŁATNIE | BEZPŁATNIE | n/d | 27 sie po poł. |
+| Prom na Cijin (w jedną stronę) | 30 gotówką / **20 EasyCard** | ~10–15 (EasyCard) | przyłóż EasyCard | 27/28 sie |
+| British Consulate at Takao | **99** (częściowo do odzyskania) | ~99 (brak udokumentowanej stawki dziecięcej) | pomiń pass, płać w kasie | 28 sie |
 | Kaohsiung MRT (za przejazd) | 20–35 | 20–35 (brak zniżki dla nierezydentów) | przyłóż EasyCard | oba dni |
 
 ---
