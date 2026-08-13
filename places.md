@@ -206,7 +206,7 @@ Międzynarodowy klimat, bezpłatne muzea światowej klasy, klimatyczne uliczki n
 #### Zabytki i muzea (wszystkie BEZPŁATNIE)
 - [★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul) [N](https://map.naver.com/p/search/전쟁기념관) — Ogromne muzeum z czołgami, samolotami i okrętami na zewnątrz, po których dzieci mogą się wspinać 📅 **Dni 3, 4 (13, 14 sie)**
 - [★★★★★ 🏛️ National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul) [N](https://map.naver.com/p/search/국립중앙박물관) — Wielki hol, dziesięciopiętrowa pagoda, Children's Museum; piękny teren wokół 📅 **Dni 3, 4 (13, 14 sie)**
-- [★★★☆☆ 🏛️🎫 Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) [N](https://map.naver.com/p/search/리움미술관) — Bezpłatne muzeum sztuki światowej klasy 📅 **Dzień 3 (13 sie)**
+- [★★★☆☆ 🏛️🎫 Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) [N](https://map.naver.com/p/search/리움미술관) — Bezpłatne muzeum sztuki światowej klasy ✅ **Widziane: Dzień 3 (13 sie) — 4,5/5** 📅 **Dzień 3 (13 sie)**
 - [★★★☆☆ 🏛️🎫 MMCA National Museum of Modern and Contemporary Art](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) [N](https://map.naver.com/p/search/국립현대미술관%20서울) ✅ **Widziane: Dzień 2 (12 sie) — 5/5** 📅 **Dzień 2 (12 sie)** · *blisko: Dzień 3 (13 sie)*
 
 #### Parki i spacery
@@ -239,7 +239,7 @@ Międzynarodowy klimat, bezpłatne muzea światowej klasy, klimatyczne uliczki n
 #### Dla dzieci
 - ★★★★☆ 🏛️🧒 War Memorial of Korea — Czołgi, samoloty i okręty na zewnątrz do wspinania; BEZPŁATNIE
 - ★★★★☆ 🏛️🧒 Children's Museum w National Museum of Korea — Interaktywne; BEZPŁATNIE
-- ★★★☆☆ 🏛️🎫 Leeum Samsung Museum — Sztuka światowej klasy; BEZPŁATNIE
+- ★★★☆☆ 🏛️🎫 Leeum Samsung Museum — Sztuka światowej klasy; BEZPŁATNIE ✅ **Widziane: Dzień 3 (13 sie) — 4,5/5** (patrz wpis wyżej)
 - [★★☆☆☆ 🛍️ Book Park Blue Square](https://www.google.com/maps/search/Blue+Square+Seoul) [N](https://map.naver.com/p/search/블루스퀘어%20북파크) — Strefa dla dzieci; 50,000 książek 📅 *blisko: Dzień 3 (13 sie)*
 - ★★☆☆☆ 🌳 Ichon Hangang Park — Jazda na rowerze nad rzeką Han
 
