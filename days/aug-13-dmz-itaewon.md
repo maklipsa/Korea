@@ -2,6 +2,8 @@
 
 **Transport:** Poranek w DMZ to zarezerwowana wycieczka z przewodnikiem; **wysadzenie o 15:30 przy stacji City Hall** (potwierdzone). Stamtąd jeden przejazd do Hannam (~25 min: L2 → Euljiro 3-ga → L3 → Yaksu → L6 → Hangangjin, albo autobus 402/405 do Itaewon), a dalej wszystko pieszo w klastrze Hannam/Itaewon.
 
+**✅ Jak wyszło (zrealizowane):** wycieczka do DMZ **3/5** — solidnie, ale bez rewelacji, a **powrót 15:30 zamiast ~13:30–14:00** zjadł całe popołudnie (patrz uwaga niżej: para muzeów z Yongsan przeszła na 18 sie). Leeum — ocena do dopisania.
+
 **Która wycieczka do DMZ? → DECYZJA: standardowa półdniowa, *bez* Q&A z uciekinierem z Korei Północnej** (Opcja B). Obejmuje 3rd Tunnel + Dora Observatory i uwalnia popołudnie na klaster wokół War Memorial; rezygnujemy z całodniowej wycieczki z Q&A z uciekinierem. Zobacz [stronę z opcjami wycieczek do DMZ](#dmz) po niezbędne informacje o wieku, paszportach, dress codzie i rezerwacji. **Rezerwuj ~2 tygodnie wcześniej** (przy rezerwacji potrzebne numery wszystkich 6 paszportów; wycieczka grupowa wymaga 6 miejsc w jeden czwartek, więc nie zostawiaj tego na ostatnią chwilę — jeśli 6 osób nie zmieści się razem, zarezerwuj wycieczkę prywatną/rodzinną).
 
 **⚠️ Plany awaryjne na ten kluczowy dzień** (pogoda/zwroty + szczegóły rezerwacji na [stronie DMZ](#dmz)):
@@ -20,7 +22,7 @@
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 7:30 | **Odbiór na wycieczkę do DMZ — standardowa półdniowa (bez Q&A z uciekinierem)** (potwierdź dokładne miejsce — wielu operatorów zbiera się w centrum, nie pod drzwiami hotelu). **Fizyczne paszporty wymagane dla wszystkich 6 osób** (bez wersji cyfrowej ani dowodu) — standardowa wycieczka potrzebuje numerów ~5-7 dni wcześniej, ale rezerwuj ~2 tygodnie naprzód, żeby złapać miejsca w sierpniu. Minimalny wiek zależy od operatora (zwykle 7+) — wszystkie nasze dzieci się kwalifikują. Standardowe wycieczki do DMZ jeżdżą **wt.-niedz. (obiekty w DMZ zamknięte w pon. + w święta państwowe wypadające w tygodniu**; 13 sie to czw. i nie święto, więc OK — 15 sie, Święto Wyzwolenia, wypada w **sob., więc obiekty są OTWARTE**; zastępcze święto w pon. 17 sie nie ma znaczenia, bo poniedziałki są i tak zamknięte). **JSA/Panmunjom pozostaje zamknięte dla zwykłych turystów** (cywilne wycieczki UNC zawieszone od 2023; centrum dla zwiedzających JSA częściowo otwarte ponownie w 2025, ale niebieskie budynki konferencyjne wciąż niedostępne) — rezerwowalna jest tu standardowa wycieczka półdniowa. | ~50,000-75,000 KRW |
+| 7:30 | ✅ **Widziane — 3/5.** **Odbiór na wycieczkę do DMZ — standardowa półdniowa (bez Q&A z uciekinierem)** (potwierdź dokładne miejsce — wielu operatorów zbiera się w centrum, nie pod drzwiami hotelu). **Fizyczne paszporty wymagane dla wszystkich 6 osób** (bez wersji cyfrowej ani dowodu) — standardowa wycieczka potrzebuje numerów ~5-7 dni wcześniej, ale rezerwuj ~2 tygodnie naprzód, żeby złapać miejsca w sierpniu. Minimalny wiek zależy od operatora (zwykle 7+) — wszystkie nasze dzieci się kwalifikują. Standardowe wycieczki do DMZ jeżdżą **wt.-niedz. (obiekty w DMZ zamknięte w pon. + w święta państwowe wypadające w tygodniu**; 13 sie to czw. i nie święto, więc OK — 15 sie, Święto Wyzwolenia, wypada w **sob., więc obiekty są OTWARTE**; zastępcze święto w pon. 17 sie nie ma znaczenia, bo poniedziałki są i tak zamknięte). **JSA/Panmunjom pozostaje zamknięte dla zwykłych turystów** (cywilne wycieczki UNC zawieszone od 2023; centrum dla zwiedzających JSA częściowo otwarte ponownie w 2025, ale niebieskie budynki konferencyjne wciąż niedostępne) — rezerwowalna jest tu standardowa wycieczka półdniowa. | ~50,000-75,000 KRW |
 |  | ★★★★☆ Imjingak Peace Park. |  |
 |  | ★★★★★ 3rd Infiltration Tunnel — 73m pod ziemią, kaski zapewnione. **Bez zdjęć, telefony do szafek** w środku tunelu — uprzedź dzieci. |  |
 |  | ★★★★☆ Dora Observatory — lornetki skierowane na Koreę Północną. **Żółta linia zdjęciowa** — za nią żadnych fotografii; uprzedź dzieci. |  |
@@ -32,10 +34,9 @@
 | 18:00 | **⚖️ Wybierz jedno — kawiarnia czy herbaciarnia przed kolacją.** ⚠️ ~~Anthracite Hannam~~ jest **zamknięta na stałe** (grudzień 2025). |  |
 |  | **Opcja A ·** **[★★☆☆☆ ☕ Dotori](https://www.google.com/maps/search/Dotori+cafe+Yongsan+Seoul) [N](https://map.naver.com/p/search/도토리%20용산)** — Klimat Studia Ghibli, Yongridan-gil. |  |
 |  | **Opcja B ·** **[★★★☆☆ 🍵 OSULLOC Tea House Hannam](https://www.google.com/maps/search/OSULLOC+Tea+House+Hannam+Seoul) [N](https://map.naver.com/p/search/오설록%20티하우스%20한남)** — zielona herbata, ściany z czarnej skały lawowej. |  |
-| 19:00 | **⚖️ Wybierz jedno — kolacja w Itaewon/Hannam.** BBQ to opcja na siedząco; pozostałe dwie są lżejsze. |  |
-|  | **Opcja A ·** **[★★★☆☆ 🍜 Maple Tree House](https://www.google.com/maps/search/Maple+Tree+House+Seoul) [N](https://map.naver.com/p/search/메이플트리하우스%20이태원)** — Elegancki koreański BBQ w Itaewon (galbi, marynowane krótkie żeberka), obsługa grilluje za was. |  |
-|  | **Opcja B ·** **[★★☆☆☆ 🍜 Vatos Urban Tacos](https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul) [N](https://map.naver.com/p/search/바토스%20이태원)** — Fuzja koreańsko-meksykańska. |  |
-|  | **Opcja C ·** **[★☆☆☆☆ 🍜 Chompi](https://www.google.com/maps/search/Chompi+Hannam+Seoul) [N](https://map.naver.com/p/search/Chompi%20한남)** — poke bowls, lokal brata SUGI z BTS. |  |
+| 19:00 | **⚖️ Wybierz jedno — kolacja w Itaewon. Dziś celujemy w koreańskiego smażonego kurczaka**, bo BBQ było wczoraj w Ikseon Galmaegi. |  |
+|  | **Opcja A · ⭐ REKOMENDACJA — [★★★★☆ 🍜🍺 Friend Chicken (후렌드치킨)](https://www.google.com/maps/search/Friend+Chicken+Itaewon+Seoul) [N](https://map.naver.com/p/search/후렌드치킨)** — **Chimaek** (치맥: kurczak + piwo) w stylu *옛날치킨*, staroszkolnym, w bocznej alejce Itaewonu (Itaewon-dong 225-112, ~5 min od stacji). Bierzcie **양념반 후라이드반** — pół w słodko-ostrej glazurze, pół sama panierka — do lanego piwa i coli dla dzieci. Niezależny lokal, nie sieć; **5,0 w DiningCode**. Otwarcie ~17:00 do późna. ⚠️ Mały, ciasny lokal: przy szóstce albo przyjdźcie bliżej 18:30, albo liczcie się z czekaniem — **sprawdźcie godziny na Naverze przed wyjściem** (podawane 17:00–03:00, nie udało się tego potwierdzić z drugiego źródła). | ~20,000-25,000 KRW/os. |
+|  | **Opcja B ·** **[★★★☆☆ 🍜 Maple Tree House](https://www.google.com/maps/search/Maple+Tree+House+Seoul) [N](https://map.naver.com/p/search/메이플트리하우스%20이태원)** — Elegancki koreański BBQ w Itaewon (galbi, marynowane krótkie żeberka), obsługa grilluje za was. ⚠️ **To znowu BBQ, dzień po Ikseon Galmaegi** — trzymamy to jako plan B, jeśli w Friend Chicken jest kolejka albo zamknięte. |  |
 
 ---
 
@@ -49,6 +50,8 @@
 - [★★☆☆☆ ☕🧒 Book Park Blue Square](https://www.google.com/maps/search/Blue+Square+Seoul) [N](https://map.naver.com/p/search/블루스퀘어%20북파크) — 50,000+ książek, kawiarnia, strefa dla dzieci
 
 ### Więcej jedzenia
+- [★★☆☆☆ 🍜 Vatos Urban Tacos](https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul) [N](https://map.naver.com/p/search/바토스%20이태원) — Tacos koreańsko-meksykańskie. ⏬ **Zeszło z harmonogramu kolacji** — szukamy dziś kuchni koreańskiej, a tacos zjecie i w Polsce.
+- [★☆☆☆☆ 🍜 Chompi Hannam](https://www.google.com/maps/search/Chompi+Hannam+Seoul) [N](https://map.naver.com/p/search/Chompi%20한남) — Poke bowls; lokal brata SUGI z BTS. ⏬ **Zeszło z harmonogramu kolacji** — poke to nie Korea, a ★☆☆☆☆ nie broni slotu.
 - [★★☆☆☆ 🍜 Linus' BBQ](https://www.google.com/maps/search/Linus+BBQ+Haebangchon+Seoul) [N](https://map.naver.com/p/search/Linus%20BBQ%20해방촌) — BBQ w stylu amerykańskim na wzgórzu HBC
 
 ### Więcej muzeów (wszystkie BEZPŁATNE)

@@ -223,9 +223,10 @@ Międzynarodowy klimat, bezpłatne muzea światowej klasy, klimatyczne uliczki n
 - [★★☆☆☆ 🛍️ Book Park Blue Square](https://www.google.com/maps/search/Blue+Square+Seoul) [N](https://map.naver.com/p/search/블루스퀘어%20북파크) — 50,000+ książek, kawiarnia, strefa dla dzieci, galeria sztuki 📅 *blisko: Dzień 3 (13 sie)*
 
 #### Jedzenie (bez sieciówek)
-- [★★☆☆☆ 🍜 Vatos Urban Tacos](https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul) [N](https://map.naver.com/p/search/바토스%20이태원) — Tacos w stylu fusion koreańsko-meksykańskim 📅 **Dzień 3 (13 sie)**
+- [★★★★☆ 🍜🍺 Friend Chicken (후렌드치킨)](https://www.google.com/maps/search/Friend+Chicken+Itaewon+Seoul) [N](https://map.naver.com/p/search/후렌드치킨) — **Chimaek** (치맥 = kurczak + piwo) w wersji *옛날치킨*, czyli staroszkolnego koreańskiego smażonego kurczaka, w bocznej alejce Itaewonu; Itaewon-dong 225-112. Klasyk to **półna pół** (양념반 후라이드반 — połowa w słodko-ostrej glazurze, połowa sama panierka) do lanego piwa. Lokal niezależny, nie sieć; **5,0 w DiningCode**. Otwarcie ~17:00 do późna (podawane 17:00–03:00 — potwierdź na Naverze w dniu wizyty). ⚠️ Ciasny, alejkowy lokal — przy szóstce warto przyjść wcześniej albo być gotowym poczekać. 📅 **Dzień 3 (13 sie)**
+- [★★☆☆☆ 🍜 Vatos Urban Tacos](https://www.google.com/maps/search/Vatos+Urban+Tacos+Itaewon+Seoul) [N](https://map.naver.com/p/search/바토스%20이태원) — Tacos w stylu fusion koreańsko-meksykańskim 📅 *blisko: Dzień 3 (13 sie)*
 - [★★☆☆☆ 🍜 Linus' BBQ](https://www.google.com/maps/search/Linus+BBQ+Haebangchon+Seoul) [N](https://map.naver.com/p/search/Linus%20BBQ%20해방촌) — BBQ w stylu amerykańskim na wzgórzu Haebangchon 📅 *blisko: Dzień 3 (13 sie)*
-- [★☆☆☆☆ 🍜 Chompi Hannam](https://www.google.com/maps/search/Chompi+Hannam+Seoul) [N](https://map.naver.com/p/search/Chompi%20한남) — Poke bowls; należy do brata SUGI z BTS 📅 **Dzień 3 (13 sie)**
+- [★☆☆☆☆ 🍜 Chompi Hannam](https://www.google.com/maps/search/Chompi+Hannam+Seoul) [N](https://map.naver.com/p/search/Chompi%20한남) — Poke bowls; należy do brata SUGI z BTS 📅 *blisko: Dzień 3 (13 sie)*
 - [★★★☆☆ 🍜 Maple Tree House BBQ](https://www.google.com/maps/search/Maple+Tree+House+Seoul) [N](https://map.naver.com/p/search/메이플트리하우스%20이태원) — Ekskluzywne koreańskie BBQ 📅 **Dzień 3 (13 sie)**
 
 #### Zakupy i sklepy
@@ -922,9 +923,11 @@ Głębsze typy z Busan plus bliska okolica (Gijang, Gimhae, Yangsan) w zasięgu 
 
 ---
 
-### Wycieczka do DMZ (pół dnia — wyjazd z Seoulu ok. 8:00, powrót ok. 14:00)
+### Wycieczka do DMZ (pół dnia — odbiór 7:30, powrót do Seoulu 15:30)
 
 Rezerwacja obowiązkowo przez autoryzowanego organizatora. Weźcie paszporty.
+
+✅ **Zrealizowane: Dzień 3 (13 sie) — 3/5.** ⚠️ Godziny w nagłówku są już *rzeczywiste*: odbiór 7:30, powrót przy City Hall **15:30**, a nie ~14:00, jak zakładał plan — to półtorej do dwóch godzin więcej, niż podają opisy „półdniówki". Kto planuje ten dzień od nowa: **nie licz na muzeum przed 16:00.**
 
 - [★★★★☆ 🏛️ Imjingak Peace Park](https://www.google.com/maps/search/Imjingak+Peace+Park) [N](https://map.naver.com/p/search/임진각) — Wystawy, Peace Bell, Freedom Bridge, podziurawione kulami pociągi
 - ★★★★★ 🏯 3rd Infiltration Tunnel — Zejście 73m pod ziemię, do północnokoreańskiego tunelu; kaski zapewnione; OK od 9 lat

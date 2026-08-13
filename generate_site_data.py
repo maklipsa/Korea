@@ -59,8 +59,13 @@ _PL_FOLD = str.maketrans({
 # --- inline markdown helpers ------------------------------------------------
 
 def md_inline(s: str) -> str:
-    """Convert inline Markdown (bold, links, strikethrough) to the HTML the site expects."""
+    """Convert inline Markdown (bold, italics, links, strikethrough) to the HTML the site expects."""
     s = re.sub(r"~~([^~]+)~~", r"<del>\1</del>", s)  # before links: works inside link text too
+    # italics first, so a nested *italic* inside **bold** doesn't break the bold
+    # match below (whose [^*]+ cannot cross an asterisk). Same order as the
+    # cards renderer. Without this, the bold's closing ** pairs with a LATER
+    # bold's opening **, emitting a literal ** and an unclosed <strong>.
+    s = re.sub(r"(?<!\*)\*(?!\s)([^*\n]+?)\*(?!\*)", r"<em>\1</em>", s)
     s = re.sub(
         r"\*\*\[([^\]]+)\]\(([^)]+)\)\*\*",
         r'<strong><a href="\2" target="_blank">\1</a></strong>',
@@ -76,6 +81,7 @@ def md_plain(s: str) -> str:
     s = re.sub(r"~~([^~]+)~~", r"\1", s)
     s = re.sub(r"\*\*\[([^\]]+)\]\([^)]+\)\*\*", r"\1", s)
     s = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", s)
+    s = re.sub(r"(?<!\*)\*(?!\s)([^*\n]+?)\*(?!\*)", r"\1", s)  # italics before bold, as in md_inline
     s = re.sub(r"\*\*([^*]+)\*\*", r"\1", s)
     return s.strip()
 
