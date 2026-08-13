@@ -203,8 +203,8 @@ Połączone przez Gyeongui Line Forest Park — kultura indie, kawiarnie ze zwie
 Międzynarodowy klimat, bezpłatne muzea światowej klasy, klimatyczne uliczki na zboczu wzgórza.
 
 #### Zabytki i muzea (wszystkie BEZPŁATNIE)
-- [★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul) [N](https://map.naver.com/p/search/전쟁기념관) — Ogromne muzeum z czołgami, samolotami i okrętami na zewnątrz, po których dzieci mogą się wspinać 📅 **Dzień 3 (13 sie)**
-- [★★★★★ 🏛️ National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul) [N](https://map.naver.com/p/search/국립중앙박물관) — Wielki hol, dziesięciopiętrowa pagoda, Children's Museum; piękny teren wokół 📅 **Dzień 3 (13 sie)**
+- [★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul) [N](https://map.naver.com/p/search/전쟁기념관) — Ogromne muzeum z czołgami, samolotami i okrętami na zewnątrz, po których dzieci mogą się wspinać 📅 **Dni 3, 8 (13, 18 sie)**
+- [★★★★★ 🏛️ National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul) [N](https://map.naver.com/p/search/국립중앙박물관) — Wielki hol, dziesięciopiętrowa pagoda, Children's Museum; piękny teren wokół 📅 **Dni 3, 8 (13, 18 sie)**
 - [★★★☆☆ 🏛️🎫 Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) [N](https://map.naver.com/p/search/리움미술관) — Bezpłatne muzeum sztuki światowej klasy 📅 **Dzień 3 (13 sie)**
 - [★★★☆☆ 🏛️🎫 MMCA National Museum of Modern and Contemporary Art](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) [N](https://map.naver.com/p/search/국립현대미술관%20서울) ✅ **Widziane: Dzień 2 (12 sie) — 5/5** 📅 **Dzień 2 (12 sie)** · *blisko: Dzień 3 (13 sie)*
 
@@ -248,13 +248,13 @@ Międzynarodowy klimat, bezpłatne muzea światowej klasy, klimatyczne uliczki n
 Nowoczesny Seoul, centra handlowe z kontenerów, dziwaczne serniki i przebudowane magazyny.
 
 #### Zabytki
-- [★★★☆☆ 📸 Starfield Library (COEX Mall)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) [N](https://map.naver.com/p/search/별마당도서관) — Ogromne regały z książkami; bezpłatnie 📅 **Dzień 8 (18 sie)**
-- [★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul) [N](https://map.naver.com/p/search/봉은사) — Duża świątynia buddyjska naprzeciwko COEX; spokój wśród wieżowców 📅 **Dzień 8 (18 sie)**
-- [★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul) [N](https://map.naver.com/p/search/커먼그라운드) — Pierwsze w Korei Południowej centrum handlowe z kontenerów morskich (Seongsu) 📅 **Dzień 8 (18 sie)**
+- [★★★☆☆ 📸 Starfield Library (COEX Mall)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) [N](https://map.naver.com/p/search/별마당도서관) — Ogromne regały z książkami; bezpłatnie 📅 *blisko: Dzień 8 (18 sie)*
+- [★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul) [N](https://map.naver.com/p/search/봉은사) — Duża świątynia buddyjska naprzeciwko COEX; spokój wśród wieżowców
+- [★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul) [N](https://map.naver.com/p/search/커먼그라운드) — Pierwsze w Korei Południowej centrum handlowe z kontenerów morskich (Seongsu)
 - [★★★☆☆ 🏯🎫 Seonjeongneung Royal Tombs](https://www.google.com/maps/search/Seonjeongneung+Royal+Tombs+Seoul) [N](https://map.naver.com/p/search/선정릉) — Królewskie grobowce dynastii Joseon (UNESCO) w środku Gangnamu 📅 *blisko: Dzień 8 (18 sie)*
 
 #### Parki
-- [★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul) [N](https://map.naver.com/p/search/서울숲) — 400,000+ drzew; wybieg z karmieniem jeleni, owadziarnia, ogród motyli, place zabaw, ogród różany 📅 **Dzień 8 (18 sie)**
+- [★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul) [N](https://map.naver.com/p/search/서울숲) — 400,000+ drzew; wybieg z karmieniem jeleni, owadziarnia, ogród motyli, place zabaw, ogród różany 📅 *blisko: Dzień 8 (18 sie)*
 - [★★☆☆☆ 🌳 Ttukseom Hangang Park](https://www.google.com/maps/search/Ttukseom+Hangang+Park+Seoul) [N](https://map.naver.com/p/search/뚝섬한강공원) — Plac zabaw, ścianka wspinaczkowa, skatepark; letni basen 📅 *blisko: Dzień 8 (18 sie)*
 
 #### Kawiarnie
@@ -276,11 +276,11 @@ Nowoczesny Seoul, centra handlowe z kontenerów, dziwaczne serniki i przebudowan
 
 #### Zakupy
 - [★★★☆☆ 🛍️ Garosugil (Sinsa-dong)](https://www.google.com/maps/search/Garosugil+Seoul) [N](https://map.naver.com/p/search/가로수길) — Obsadzona drzewami ulica z butikami projektantów, niezależnymi sklepami i pracowniami artystycznymi
-- [★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul) [N](https://map.naver.com/p/search/올리브영%20N%20성수) — Pięciopiętrowy flagowy sklep z kosmetykami K-beauty 📅 **Dzień 8 (18 sie)**
+- [★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul) [N](https://map.naver.com/p/search/올리브영%20N%20성수) — Pięciopiętrowy flagowy sklep z kosmetykami K-beauty
 - [★★★☆☆ 🛍️ COEX Mall](https://www.google.com/maps/search/COEX+Mall+Seoul) [N](https://map.naver.com/p/search/코엑스몰) — Podziemne megacentrum handlowe
 
 #### Dla dzieci
-- [★★★☆☆ 🐾🧒🎫 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) [N](https://map.naver.com/p/search/코엑스아쿠아리움) — Największe akwarium w Seoulu; rekiny, płaszczki, strefy tematyczne 📅 **Dzień 8 (18 sie)**
+- [★★★☆☆ 🐾🧒🎫 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) [N](https://map.naver.com/p/search/코엑스아쿠아리움) — Największe akwarium w Seoulu; rekiny, płaszczki, strefy tematyczne
 - [★★☆☆☆ 🎡🧒 Vaunce Trampoline Park](https://www.google.com/maps/search/Vaunce+Trampoline+Park+Samseong+Seoul) [N](https://map.naver.com/p/search/Vaunce%20Trampoline%20Park%20삼성동) — Pierwszy park trampolin w Korei; sesje 2-godzinne 📅 *blisko: Dzień 8 (18 sie)*
 - ★★★☆☆ 🌳🧒 Seoul Forest Park — Karmienie jeleni, owadziarnia, ogród motyli, place zabaw
 - 🎨 Retro studia do samodzielnych zdjęć w Seongsu (Eternalog i inne) — Budki z portretami czarno-białymi ~4,000-6,000 won
@@ -411,7 +411,7 @@ Miejsca znalezione w pogłębionym researchu, pogrupowane według kategorii, a n
 - [★★★☆☆ 🏛️ National Museum of Korean Contemporary History](https://www.google.com/maps/search/National+Museum+of+Korean+Contemporary+History+Seoul) [N](https://map.naver.com/p/search/대한민국역사박물관) — Bezpłatne, szybkie i przystępne dla dzieci kalendarium od epoki kolonialnej przez wojnę, industrializację po K-wave. Kilka kroków od Gwanghwamun. 9:00–18:00 (śr./sob. do 21:00); sprawdź dzień zamknięcia.
 
 #### C. Sztuka
-- [★★★★☆ 🏛️🎨📸 D Museum (Seongsu)](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul) [N](https://map.naver.com/p/search/디뮤지엄%20성수) — Kuratorowane przez Daelim muzeum współczesnego designu i fotografii (D Tower, przy Seoul Forest); zmienne wystawy wielkoformatowe (design, fotografia, popkultura), bardzo lubiane przez nastolatków — prawdziwe muzeum, a nie sala z projekcjami. ⚠️ „House of Taste 2" kończy się 22 lut. 2026 — do sierpnia prawdopodobnie będzie nowa wystawa; sprawdź i kup bilety na godzinę. Wt.–niedz. 11:00–18:00, zamknięte w pon.; ~12,000/6,000 KRW. Blisko Seoul Forest i kawiarni w Seongsu. 📅 **Dzień 8 (18 sie)**
+- [★★★★☆ 🏛️🎨📸 D Museum (Seongsu)](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul) [N](https://map.naver.com/p/search/디뮤지엄%20성수) — Kuratorowane przez Daelim muzeum współczesnego designu i fotografii (D Tower, przy Seoul Forest); zmienne wystawy wielkoformatowe (design, fotografia, popkultura), bardzo lubiane przez nastolatków — prawdziwe muzeum, a nie sala z projekcjami. ⚠️ „House of Taste 2" kończy się 22 lut. 2026 — do sierpnia prawdopodobnie będzie nowa wystawa; sprawdź i kup bilety na godzinę. Wt.–niedz. 11:00–18:00, zamknięte w pon.; ~12,000/6,000 KRW. Blisko Seoul Forest i kawiarni w Seongsu. 📅 *blisko: Dzień 8 (18 sie)*
 - [★★☆☆☆ 🎨🤳📸 WAVE — d'strict digital media art (COEX)](https://www.google.com/maps/search/WAVE+COEX+Digital+Art+Seoul) [N](https://map.naver.com/p/search/코엑스) — Bezpłatna wielka fotorealistyczna iluzja „fali w szklanym akwarium" na zakrzywionym ekranie LED zwróconym w stronę Yeongdong-daero przy COEX; odtwarzana ~raz na godzinę przez ~1 min. Instagramowy spektakl na publicznym ekranie — dobry jako bezpłatny, minutowy dodatek przy COEX Mall, nie cel sam w sobie.
 - [★★★☆☆ 🎨🚶 Mullae Art Village](https://www.google.com/maps/search/Mullae+Art+Village+Seoul) [N](https://map.naver.com/p/search/문래창작촌) — Wciąż działająca dzielnica warsztatów stalowych (~1,000 zakładów metalowych) zawłaszczona przez murale, rzeźby ze złomu i małe galerie — surowsza niż Ikseon czy Seongsu. Bezpłatnie; najlepiej późnym popołudniem. Stacja Mullae (linia 2).
 - [★★★☆☆ 🎨🌳 Mapo Oil Tank Culture Park](https://www.google.com/maps/search/Mapo+Oil+Tank+Culture+Park+Seoul) [N](https://map.naver.com/p/search/문화비축기지) — Pięć wyłączonych z użytku zbiorników paliwa z lat 70. przerobionych na galerie, kopułę i amfiteatr, z trawiastymi wzgórzami dla dzieci. Teren bezpłatny/24 h; hale 10:00–18:00, wystawy zamknięte w pon. (w pt. 14 sie otwarte). Blisko stacji World Cup Stadium, ~1 przystanek na północny zachód od Mangwon — prawdziwy kulturalny punkt zaczepienia tego przedpołudnia. 📅 **Dzień 4 (14 sie)**
