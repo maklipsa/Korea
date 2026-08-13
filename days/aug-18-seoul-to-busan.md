@@ -2,7 +2,7 @@
 
 Gyeongbokgung zamknięty we wt. — brak konfliktu. **War Memorial i National Museum są zamknięte tylko w pon., więc wtorek jest OK.**
 
-**➡️ Zmiana: poranek przenosi się z Seongsu do Yongsan.** 13 sie wycieczka do DMZ wróciła 15:30–16:00 (dwie godziny po założeniu), więc **War Memorial (★★★★☆) i National Museum of Korea (★★★★★) nie weszły w tamto popołudnie** — a leżą 15 min pieszo od siebie i mają sens tylko jako para. To jedyny pozostały dzień, w którym oba są otwarte: 17 sie to poniedziałek (oba zamknięte), a 14–16 sie są zajęte.
+**➡️ Zmiana: poranek przenosi się z Seongsu do Yongsan.** 13 sie wycieczka do DMZ wróciła o 15:30 (dwie godziny po założeniu), więc **War Memorial (★★★★☆) i National Museum of Korea (★★★★★) nie weszły w tamto popołudnie** — a leżą 15 min pieszo od siebie i mają sens tylko jako para. To jedyny pozostały dzień, w którym oba są otwarte: 17 sie to poniedziałek (oba zamknięte), a 14–16 sie są zajęte.
 
 **Bonus logistyczny:** oba muzea są **1–2 przystanki od Seoul Station**, podczas gdy Seongsu/COEX to ~40 min z bagażami. Ten dzień jest więc *bezpieczniejszy* pod KTX niż był. Plan na bagaże: **schowki na Seoul Station z samego rana**, potem muzea bez walizek.
 
