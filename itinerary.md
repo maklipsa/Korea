@@ -48,11 +48,11 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 | 1 | 11 sie (wt) | Przylot do Seoul + Cheonggyecheon + DDP + Ikseon-dong | [aug-11-arrive-seoul.md](days/aug-11-arrive-seoul.md) |
 | 2 | 12 sie (śr) | Gyeongbokgung + muzea pałacowe + Bukchon + MMCA i Kumho (resztę przeniesiono na 16 sie) | [aug-12-palaces-seochon.md](days/aug-12-palaces-seochon.md) |
 | 3 | 13 sie (czw) | Wycieczka do DMZ (w Seoulu 15:30) + Leeum + Itaewon/Hannam | [aug-13-dmz-itaewon.md](days/aug-13-dmz-itaewon.md) |
-| 4 | 14 sie (pt) | Hongdae + Yeonnam + Mangwon (zwierzęta, dziwne lody) + samgyetang na Malbok + D Museum w Seongsu | [aug-14-hongdae-yeonnam.md](days/aug-14-hongdae-yeonnam.md) |
+| 4 | 14 sie (pt) | Hongdae rano (HOMA, samgyetang na Malbok, zwierzęta) → **Yongsan: National Museum of Korea + War Memorial** (nadrobione z 13 sie) → Seonyudo | [aug-14-hongdae-yeonnam.md](days/aug-14-hongdae-yeonnam.md) |
 | 5 | 15 sie (sob) | Dzień Wyzwolenia: Nami Island + Gapyeong (zip-line, prom do świątyni nad jeziorem Soyang) | [aug-15-nami-island.md](days/aug-15-nami-island.md) |
 | 6 | 16 sie (niedz) | **Dzień odwrócony:** Jongno rano nadrobione z 12 sie (Jongmyo bez przewodnika + Changdeokgung + Museum Hanmi + Kukje + Insadong) → Myeongdong i N Seoul Tower po ciemku | [aug-16-myeongdong-namsan.md](days/aug-16-myeongdong-namsan.md) |
 | 7 | 17 sie (pon) | Lotte World + Seoul Sky + Songnidan-gil | [aug-17-lotte-world.md](days/aug-17-lotte-world.md) |
-| 8 | 18 sie (wt) | Yongsan rano: War Memorial + National Museum of Korea (nadrobione z 13 sie) → KTX do Busan | [aug-18-seoul-to-busan.md](days/aug-18-seoul-to-busan.md) |
+| 8 | 18 sie (wt) | Seoul Forest + Seongsu (D Museum) + COEX → KTX do Busan | [aug-18-seoul-to-busan.md](days/aug-18-seoul-to-busan.md) |
 | 9 | 19 sie (śr) | Cały dzień w Busan (świątynia, Gamcheon, Jagalchi, targi) | [aug-19-busan.md](days/aug-19-busan.md) |
 | 10 | 20 sie (czw) | Busan dzień 2: Yeongdo + oś sztuki (GoEun, BMA) + Songdo/Gwangalli | [aug-20-busan-day2.md](days/aug-20-busan-day2.md) |
 

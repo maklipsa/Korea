@@ -1,34 +1,35 @@
-# Aug 18 (Tue) — Yongsan rano (War Memorial + National Museum) + KTX do Busan
+# Aug 18 (Tue) — Seoul rano + KTX do Busan
 
-Gyeongbokgung zamknięty we wt. — brak konfliktu. **War Memorial i National Museum są zamknięte tylko w pon., więc wtorek jest OK.**
+Gyeongbokgung zamknięty we wt. — brak konfliktu.
 
-**➡️ Zmiana: poranek przenosi się z Seongsu do Yongsan.** 13 sie wycieczka do DMZ wróciła o 15:30 (dwie godziny po założeniu), więc **War Memorial (★★★★☆) i National Museum of Korea (★★★★★) nie weszły w tamto popołudnie** — a leżą 15 min pieszo od siebie i mają sens tylko jako para. To jedyny pozostały dzień, w którym oba są otwarte: 17 sie to poniedziałek (oba zamknięte), a 14–16 sie są zajęte.
-
-**Bonus logistyczny:** oba muzea są **1–2 przystanki od Seoul Station**, podczas gdy Seongsu/COEX to ~40 min z bagażami. Ten dzień jest więc *bezpieczniejszy* pod KTX niż był. Plan na bagaże: **schowki na Seoul Station z samego rana**, potem muzea bez walizek.
-
-⚠️ **Koszt:** wypadają Seoul Forest, Starfield Library i dodatki przy COEX — zeszły do `Also Nearby`. ✅ **D Museum NIE jest już stratą** — przeniesione na pt. 14 sie o 16:20, więc para z Yongsan i muzeum designu mieszczą się oba.
-
-**Transport (główny przejazd):** **KTX Seoul → Busan** (~2 h 15 min — zarezerwuj miejsca, sierpień to szczyt sezonu). Rano: L4 z DDP do Seoul Station (~12 min), **bagaże do schowków**, potem 2 przystanki do Samgakji (War Memorial) i 1 do Ichon (National Museum) — oba wracają na Seoul Station w ~10 min. Wieczorem Haeundae to osobne skupisko do przejścia pieszo.
+**Transport (główny przejazd):** **KTX Seoul → Busan** (~2 h 15 min — zarezerwuj miejsca, sierpień to szczyt sezonu). Poranne Seongsu i wieczorne Haeundae to dwa osobne skupiska do przejścia pieszo; przechowanie bagażu ogarnij przed pociągiem.
 
 ## Route Map
 
-**Seoul rano (Yongsan):**
-[Trasa w Naver Map](https://map.naver.com/p/directions/126.9771,37.5353,War+Memorial+of+Korea/126.97194,37.55611,Seoul+Station/126.98032,37.52395,National+Museum+of+Korea/walk)
+**Seoul rano:**
+[Trasa w Naver Map](https://map.naver.com/p/directions/127.0398,37.5448,Seoul+Forest/127.0589,37.5119,Starfield+Library+COEX/127.04419,37.54386,D+Museum:127.06562,37.54122,Common+Ground:127.05508,37.54439,Olive+Young+Seongsu:127.05722,37.51556,Bongeunsa:127.05861,37.51318,COEX+Aquarium/walk)
 
 **Busan wieczorem:**
 [Trasa w Naver Map](https://map.naver.com/p/directions/129.1604,35.1587,Haeundae+Beach/129.1626,35.1631,Haeundae+Traditional+Market/129.15222,35.15389,Dongbaekseom:129.16900,35.16031,Busan+X+the+Sky/walk)
 
-[Wszystkie punkty w Google Maps](https://www.google.com/maps/dir/?api=1&origin=War+Memorial+Korea+Seoul&destination=Haeundae+Beach+Busan&waypoints=National+Museum+Korea+Seoul|Seoul+Station+Seoul&travelmode=transit)
+[Wszystkie punkty w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Seoul+Forest+Seoul&destination=Haeundae+Beach+Busan&waypoints=D+Museum+Seongsu+Seoul|Common+Ground+Seoul|Olive+Young+Seongsu+Seoul|Starfield+Library+COEX+Seoul|Bongeunsa+Temple+Seoul|COEX+Aquarium+Seoul&travelmode=transit)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 8:45 | **Wyjazd z hotelu z bagażami** → L4 do **Seoul Station** (~12 min) → **bagaże do schowków** (duże skrytki bywają zajęte w szczycie — jeśli nie ma miejsca, użyjcie przechowalni T-Luggage / Seoul Station Storage w hali głównej). Dalej muzea już bez walizek. |  |
-| 9:40 | ➡️ **Przeniesione z 13 sie.** **[★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul) [N](https://map.naver.com/p/search/전쟁기념관)** (Samgakji, 2 przystanki L4 od Seoul Station) — Dzieci wchodzą na prawdziwe czołgi, samoloty, helikoptery i okręty na zewnątrz (70+ maszyn, wiele dostępnych z bliska), w środku wystawy o wojnie koreańskiej. **Otwarte od 9:30**, zamknięcie 18:00. Idzie pierwsze, bo National Museum otwiera dopiero o 10:00. ⚠️ Interaktywne **Children's Museum** wymaga własnej bezpłatnej rezerwacji na godzinę — bez niej zostają czołgi + galerie ogólne. | Bezpłatnie |
-| 11:20 | Przejście War Memorial → National Museum (~15 min pieszo przez teren, albo 1 przystanek). |  |
-| 11:35 | ➡️ **Przeniesione z 13 sie.** **[★★★★★ 🏛️🧒 National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul) [N](https://map.naver.com/p/search/국립중앙박물관)** (Ichon) — Ogromna kolekcja; Ten-Storey Pagoda, galerie główne dla 11- i 15-latka, Children's Museum (5–9 lat) dla 9-latka. ⚠️ **Uwaga na godziny: letnie okno (27 lip–17 sie) KOŃCZY SIĘ 17 sie**, więc dziś obowiązują normalne wtorkowe **10:00–18:00** — muzeum jest już otwarte, gdy tu dotrzecie, ale nie przyjdźcie wcześniej. Macie tu **~1 h 40 min** — tym razem to prawdziwa wizyta, nie 30 min w biegu. (Children's Museum: bezpłatna rezerwacja na godzinę, do 30 dni naprzód, brak biletów na miejscu.) ⚠️ Sąsiednie **National Hangeul Museum** ZAMKNIĘTE (pożar 2025, otwarcie ~2028). | Bezpłatnie |
-| 13:15 | **Ichon → Seoul Station** (L4, ~10 min), odbiór bagaży. 🍜 **Lunch bierzemy na Seoul Station** — hala główna ma food court i piekarnie, więc jedzenie do pociągu kupujecie po drodze (kolacja dopiero w Haeundae). ⚠️ To jedyny twardy limit dnia — nie przeciągajcie National Museum poza 13:15. |  |
+| 9:00 | **[★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul) [N](https://map.naver.com/p/search/서울숲)** w Seongsu-dong — Strefa karmienia jeleni, ogród motyli, ogród różany. Park bezpłatny i otwarty 24 h (ogród motyli otwiera się o 10:00, maj–paź, zamknięty w pon.). | Bezpłatnie |
+|  | **[★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul) [N](https://map.naver.com/p/search/커먼그라운드)** — Centrum handlowe z kontenerów morskich (okolice Konkuk Univ). ⚠️ Common Ground **otwiera się codziennie o 11:00** — za wcześnie na to okno 9:00–10:00; pomiń albo przestaw. |  |
+| 10:30 | **⚖️ Wybierz jedno — kawiarnie w halach czy flagowy sklep K-beauty.** |  |
+|  | **Opcja A ·** **Kawiarnie w halach w Seongsu** — Kilkadziesiąt kawiarni w industrialnym stylu w dawnych fabrykach. |  |
+|  | **Opcja B ·** **[★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul) [N](https://map.naver.com/p/search/올리브영%20N%20성수)** — Flagowy sklep K-beauty na 5 piętrach. |  |
+| 11:00 | *(Kuratorowane muzeum designu i fotografii, a Seongsu to jedyna okazja, żeby je zobaczyć — otwarcie 11:00, ~1,5 h, więc idzie na wymianę z dodatkami przy COEX przed KTX o 14:00.)* **[★★★★☆ 🏛️🎨📸 D Museum](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul) [N](https://map.naver.com/p/search/디뮤지엄%20성수)** — Kuratorowane muzeum współczesnego designu i fotografii grupy Daelim (D Tower, przy Seoul Forest); zmienne wystawy wielkoformatowe, ulubione miejsce nastolatków — prawdziwe muzeum, nie sala z projekcjami do zdjęć. ⚠️ Sprawdź aktualną wystawę i kup bilety na godzinę. | ~12,000/6,000 KRW |
+| 11:30 | Szybki przystanek: **[★★★☆☆ 📸 Starfield Library (COEX)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) [N](https://map.naver.com/p/search/별마당도서관)** — Zapierające dech, wysokie regały z książkami. Bezpłatnie. |  |
+| 11:45 | **⚖️ Wybierz jedno (albo pomiń) — opcjonalny dodatek przy COEX przed pociągiem.** Wybierz najwyżej jedno; wychodzicie do 13:00. |  |
+|  | **Opcja A ·** **[★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul) [N](https://map.naver.com/p/search/봉은사)** — Tysiącletnia świątynia buddyjska dokładnie po drugiej stronie ulicy od COEX; spokojne ~20-minutowe przejście u stóp wielkiego posągu Buddy Maitreji. |  |
+|  | **Opcja B ·** **[★★★☆☆ 🐾🧒🎫 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) [N](https://map.naver.com/p/search/코엑스아쿠아리움)** — W środku centrum handlowego (rekiny, płaszczki, pingwiny), ale trzeba na to ~1,5 h, więc tylko jeśli pominęliście Seoul Forest. |  |
+| 12:30 | Lunch w okolicy COEX albo jedzenie na wynos do pociągu. |  |
+| 13:00 | Ruszamy na Seoul Station. ⚠️ COEX/Samseong → Seoul Station to ~40–50 min metrem (linia 2 + przesiadka) — wyjdźcie około 13:00, a nie 13:30, żeby spokojnie zdążyć na pociąg o 14:00 z 6 osobami i bagażem. Uwaga: hotel przy DDP jest już wymeldowany, więc bagaż nosicie/przechowujecie przez cały poranek (w Seongsu jest mało skrytek — rozważcie zostawienie torb na Seoul Station po drodze albo usługę przewozu bagażu). |  |
 | **14:00** | **KTX Seoul → Busan** (~2 h 15 min najszybszymi pociągami; część kursów 2 h 30 min–2 h 50 min). ⚠️ Sierpień to szczyt sezonu — **zarezerwuj miejsca z wyprzedzeniem** (Korail / aplikacja Let's Korail). Standardowy bilet dla dorosłego ~59,800 KRW; 4–12 lat ~połowa; do 4 lat bezpłatnie. | ~59,800 KRW |
 | ~16:20 | Przyjazd do Busan (Busan Station). |  |
 |  | Metro/taksówka Busan Station → Haeundae (~30 min). |  |
@@ -47,9 +48,6 @@ Gyeongbokgung zamknięty we wt. — brak konfliktu. **War Memorial i National Mu
 ## Also Nearby
 
 ### Dodatki na poranek w Seoulu
-- [★★★★☆ 🏛️🎨📸 D Museum](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul) [N](https://map.naver.com/p/search/디뮤지엄%20성수) — Kuratorowane muzeum współczesnego designu i fotografii grupy Daelim (D Tower, przy Seoul Forest); wielkoformatowe wystawy, prawdziwe muzeum, nie sala do zdjęć. Wt.–niedz. 11:00–18:00, zamknięte w pon. ✅ **URATOWANE — przeniesione na pt. 14 sie, 16:20** (Hongdae → Seongsu, L2 bez przesiadki), kosztem cmentarza Yanghwajin i muzeum w Jeoldusan. Nic już nie tracimy tu z tego punktu.
-- [★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul) [N](https://map.naver.com/p/search/서울숲) — Karmienie jeleni, ogród motyli (od 10:00, zamknięty w pon.), ogród różany; bezpłatnie, 24 h. ⏬ Zeszło z harmonogramu.
-- [★★★☆☆ 📸 Starfield Library (COEX)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) [N](https://map.naver.com/p/search/스타필드%20도서관) — Wielka biblioteka-atrium w COEX. ⏬ Zeszło z harmonogramu razem z całym blokiem COEX (Bongeunsa, COEX Aquarium, Common Ground, Olive Young N Seongsu).
 - [★★★☆☆ 🏯🎫 Seonjeongneung Royal Tombs](https://www.google.com/maps/search/Seonjeongneung+Royal+Tombs+Seoul) [N](https://map.naver.com/p/search/선정릉) — Królewskie grobowce dynastii Joseon z listy UNESCO w środku Gangnam, ~10 min od COEX; pomiń, chyba że wycięliście coś innego — poranek jest napięty przed KTX o 14:00
 - [★★☆☆☆ 🌳🧒 Ttukseom Hangang Park](https://www.google.com/maps/search/Ttukseom+Hangang+Park+Seoul) [N](https://map.naver.com/p/search/뚝섬한강공원) — Plac zabaw, ścianka wspinaczkowa, skatepark; letni basen
 - [★★☆☆☆ 🎡🧒 Vaunce Trampoline Park](https://www.google.com/maps/search/Vaunce+Trampoline+Park+Samseong+Seoul) [N](https://map.naver.com/p/search/Vaunce%20Trampoline%20Park%20삼성동) — Pierwszy park trampolin w Korei; sesje 2-godzinne

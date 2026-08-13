@@ -154,12 +154,12 @@ Zakupy, street food, widoki na miasto i ukryte retro bary.
 Połączone przez Gyeongui Line Forest Park — kultura indie, kawiarnie ze zwierzętami, dziwne lody.
 
 #### Zabytki i parki
-- [★★★☆☆ 🌳 Gyeongui Line Forest Park](https://www.google.com/maps/search/Gyeongui+Line+Forest+Park+Seoul) [N](https://map.naver.com/p/search/경의선숲길) — Dawna linia kolejowa zamieniona w piękny park liniowy z kawiarniami po obu stronach 📅 **Dzień 4 (14 sie)**
+- [★★★☆☆ 🌳 Gyeongui Line Forest Park](https://www.google.com/maps/search/Gyeongui+Line+Forest+Park+Seoul) [N](https://map.naver.com/p/search/경의선숲길) — Dawna linia kolejowa zamieniona w piękny park liniowy z kawiarniami po obu stronach 📅 *blisko: Dzień 4 (14 sie)*
 - [★★☆☆☆ 🌳 Hongdae Children's Playground](https://www.google.com/maps/search/Hongdae+Playground+Seoul) [N](https://map.naver.com/p/search/홍대놀이터) — Miejsce weekendowego pchlego targu; artyści uliczni 📅 *blisko: Dzień 4 (14 sie)*
 - [★★☆☆☆ 🌳 Mangwon Hangang Park](https://www.google.com/maps/search/Mangwon+Hangang+Park+Seoul) [N](https://map.naver.com/p/search/망원한강공원) — Bezpośredni dostęp do brzegu rzeki; rowery i pikniki 📅 *blisko: Dzień 4 (14 sie)*
 
 #### Kawiarnie (nietypowe / tematyczne)
-- [★★★☆☆ ☕🧒 943 Kings Cross (kawiarnia Harry Potter)](https://www.google.com/maps/search/943+Kings+Cross+Hongdae+Seoul) [N](https://map.naver.com/p/search/943킹스크로스) — 7 pięter w stylu Hogwartu; kremowe piwo i tematyczne napoje 📅 **Dzień 4 (14 sie)**
+- [★★★☆☆ ☕🧒 943 Kings Cross (kawiarnia Harry Potter)](https://www.google.com/maps/search/943+Kings+Cross+Hongdae+Seoul) [N](https://map.naver.com/p/search/943킹스크로스) — 7 pięter w stylu Hogwartu; kremowe piwo i tematyczne napoje 📅 *blisko: Dzień 4 (14 sie)*
 - [★★★☆☆ ☕🐾🧒 Table A (kawiarnia ze zwierzętami)](https://www.google.com/maps/search/Table+A+Animal+Cafe+Hongdae+Seoul) [N](https://map.naver.com/p/search/테이블에이%20홍대) — Szopy i surykatki na 3 piętrach; wejście 10,000 won 📅 **Dzień 4 (14 sie)**
 - [★★★☆☆ ☕🐾🧒 Meerkat Friends](https://www.google.com/maps/search/Meerkat+Friends+Hongdae+Seoul) [N](https://map.naver.com/p/search/미어캣프렌즈%20홍대) — Surykatki, żenety, walabie, lis polarny, szopy 📅 **Dzień 4 (14 sie)**
 - [~~★☆☆☆☆ ☕🐾🧒 Blind Alley (kawiarnia ze szopami)~~](https://www.google.com/maps/search/Blind+Alley+Raccoon+Cafe+Seoul) [N](https://map.naver.com/p/search/Blind%20Alley%20Raccoon%20Cafe%20Hongdae) — ⚠️ ZAMKNIĘTE NA STAŁE (szopy przeniesiono do zoo) — zamiast tego Meerkat Friends
@@ -171,16 +171,16 @@ Połączone przez Gyeongui Line Forest Park — kultura indie, kawiarnie ze zwie
 - [★★★☆☆ 🍜 Baeknyeon Tojong Samgyetang (백년토종삼계탕)](https://www.google.com/maps/search/Baeknyeon+Tojong+Samgyetang+Hongdae+Seoul) [N](https://map.naver.com/p/search/백년토종삼계탕) — Samgyetang (rosół z młodego kurczaka z żeń-szeniem) w 30-letniej jadłodajni wielokrotnie notowanej w Michelin Guide; Yanghwa-ro 118, Seogyo-dong. **5 min pieszo (330 m) od Hongik Univ. wyjście 9, 7 min (500 m) od Hapjeong wyjście 3** — czyli wprost na odcinku Hongdae → Hapjeong. Codziennie 10:00–20:00. ⚠️ **Zamiennik pominiętego Tosokchon** i celowo wpisany na **pt. 14 sie = Malbok**, tradycyjny dzień na samgyetang („upał zwalcza się upałem"). 📅 **Dzień 4 (14 sie)**
 - [★★☆☆☆ 🍜 Pungcheon Eel](https://www.google.com/maps/search/Pungcheon+Eel+Hongdae+Seoul) [N](https://map.naver.com/p/search/풍천장어%20홍대) — Żywe węgorze słodkowodne grillowane na węglu drzewnym 📅 **Dzień 4 (14 sie)**
 - [★★☆☆☆ 🍜 Honkaz](https://www.google.com/maps/search/Honkaz+Hongdae+Seoul) [N](https://map.naver.com/p/search/혼가츠%20홍대) — Słynny tonkatsu faszerowany serem 📅 **Dzień 4 (14 sie)**
-- [★★★☆☆ 🍜🛍️ Mangwon Market](https://www.google.com/maps/search/Mangwon+Market+Seoul) [N](https://map.naver.com/p/search/망원시장) — Żywy tradycyjny targ; mniej turystyczny; tteokbokki, hotteok, dakgangjeong (słodki chrupiący kurczak); najlepiej rano 10:00–12:00 lub wieczorem 17:00–20:00 📅 **Dzień 4 (14 sie)**
+- [★★★☆☆ 🍜🛍️ Mangwon Market](https://www.google.com/maps/search/Mangwon+Market+Seoul) [N](https://map.naver.com/p/search/망원시장) — Żywy tradycyjny targ; mniej turystyczny; tteokbokki, hotteok, dakgangjeong (słodki chrupiący kurczak); najlepiej rano 10:00–12:00 lub wieczorem 17:00–20:00 📅 *blisko: Dzień 4 (14 sie)*
 - [★★☆☆☆ 🍜 Ildeung Sikdang](https://www.google.com/maps/search/Ildeung+Sikdang+Mangwon+Seoul) [N](https://map.naver.com/p/search/일등식당%20망원) — Zupa z kości wołowych od 1986; jedno danie firmowe 📅 *blisko: Dzień 4 (14 sie)*
 - [★☆☆☆☆ 🍜 Oshi](https://www.google.com/maps/search/Oshi+Mangwon+Seoul) [N](https://map.naver.com/p/search/오시%20망원) — Okonomiyaki w stylu Osaki 📅 *blisko: Dzień 4 (14 sie)*
 
 #### Deserty i lody (DZIWNE SMAKI!)
-- [★★☆☆☆ ☕ Fell + Cole](https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul) [N](https://map.naver.com/p/search/Fell%20Cole%20Hongdae) — Zmienne dziwne smaki: makgeolli, piwna stracciatella, miso z wanilią, liść perilli 📅 **Dzień 4 (14 sie)**
+- [★★☆☆☆ ☕ Fell + Cole](https://www.google.com/maps/search/Fell+Cole+Hongdae+Seoul) [N](https://map.naver.com/p/search/Fell%20Cole%20Hongdae) — Zmienne dziwne smaki: makgeolli, piwna stracciatella, miso z wanilią, liść perilli
 - [★★☆☆☆ ☕ Gelateria Eta](https://www.google.com/maps/search/Gelateria+Eta+Hongdae+Seoul) [N](https://map.naver.com/p/search/Gelateria%20Eta%20Hongdae) — Gelato bylica-figa-serek śmietankowy, gelato czekoladowe z Jack Daniel's 📅 *blisko: Dzień 4 (14 sie)*
 - [★★☆☆☆ ☕ Melted](https://www.google.com/maps/search/Melted+gelato+Hongdae+Seoul) [N](https://map.naver.com/p/search/Melted%20Hongdae) — Mocha z kukurydzą, prażony ryż brązowy, czekolada knafeh 📅 *blisko: Dzień 4 (14 sie)*
 - [~~★☆☆☆☆ ☕ Molly's Pops~~](https://www.google.com/maps/search/Mollys+Pops+Hongdae+Seoul) [N](https://map.naver.com/p/search/Mollys%20Pops%20Hongdae) — ⚠️ Wygląda na zamknięte na stałe (brak aktywności od ~2015) — sprawdź, zanim na to postawisz
-- [★★☆☆☆ ☕ SOBOK](https://www.google.com/maps/search/SOBOK+Hongdae+Seoul) [N](https://map.naver.com/p/search/소복%20홍대) — Naturalne lody kręcone na bazie ryżu; firmowe kulki lodowe injeolmi 📅 **Dzień 4 (14 sie)**
+- [★★☆☆☆ ☕ SOBOK](https://www.google.com/maps/search/SOBOK+Hongdae+Seoul) [N](https://map.naver.com/p/search/소복%20홍대) — Naturalne lody kręcone na bazie ryżu; firmowe kulki lodowe injeolmi
 - ☕ Stragany z owocami w karmelu (tanghulu) przy ulicy handlowej
 
 #### Zakupy i sklepy
@@ -204,8 +204,8 @@ Połączone przez Gyeongui Line Forest Park — kultura indie, kawiarnie ze zwie
 Międzynarodowy klimat, bezpłatne muzea światowej klasy, klimatyczne uliczki na zboczu wzgórza.
 
 #### Zabytki i muzea (wszystkie BEZPŁATNIE)
-- [★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul) [N](https://map.naver.com/p/search/전쟁기념관) — Ogromne muzeum z czołgami, samolotami i okrętami na zewnątrz, po których dzieci mogą się wspinać 📅 **Dni 3, 8 (13, 18 sie)**
-- [★★★★★ 🏛️ National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul) [N](https://map.naver.com/p/search/국립중앙박물관) — Wielki hol, dziesięciopiętrowa pagoda, Children's Museum; piękny teren wokół 📅 **Dni 3, 8 (13, 18 sie)**
+- [★★★★☆ 🏛️🧒 War Memorial of Korea](https://www.google.com/maps/search/War+Memorial+Korea+Seoul) [N](https://map.naver.com/p/search/전쟁기념관) — Ogromne muzeum z czołgami, samolotami i okrętami na zewnątrz, po których dzieci mogą się wspinać 📅 **Dni 3, 4 (13, 14 sie)**
+- [★★★★★ 🏛️ National Museum of Korea](https://www.google.com/maps/search/National+Museum+Korea+Seoul) [N](https://map.naver.com/p/search/국립중앙박물관) — Wielki hol, dziesięciopiętrowa pagoda, Children's Museum; piękny teren wokół 📅 **Dni 3, 4 (13, 14 sie)**
 - [★★★☆☆ 🏛️🎫 Leeum Museum of Art](https://www.google.com/maps/search/Leeum+Museum+of+Art+Seoul) [N](https://map.naver.com/p/search/리움미술관) — Bezpłatne muzeum sztuki światowej klasy 📅 **Dzień 3 (13 sie)**
 - [★★★☆☆ 🏛️🎫 MMCA National Museum of Modern and Contemporary Art](https://www.google.com/maps/search/MMCA+National+Museum+of+Modern+and+Contemporary+Art+Seoul) [N](https://map.naver.com/p/search/국립현대미술관%20서울) ✅ **Widziane: Dzień 2 (12 sie) — 5/5** 📅 **Dzień 2 (12 sie)** · *blisko: Dzień 3 (13 sie)*
 
@@ -250,13 +250,13 @@ Międzynarodowy klimat, bezpłatne muzea światowej klasy, klimatyczne uliczki n
 Nowoczesny Seoul, centra handlowe z kontenerów, dziwaczne serniki i przebudowane magazyny.
 
 #### Zabytki
-- [★★★☆☆ 📸 Starfield Library (COEX Mall)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) [N](https://map.naver.com/p/search/별마당도서관) — Ogromne regały z książkami; bezpłatnie 📅 *blisko: Dzień 8 (18 sie)*
-- [★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul) [N](https://map.naver.com/p/search/봉은사) — Duża świątynia buddyjska naprzeciwko COEX; spokój wśród wieżowców
-- [★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul) [N](https://map.naver.com/p/search/커먼그라운드) — Pierwsze w Korei Południowej centrum handlowe z kontenerów morskich (Seongsu)
+- [★★★☆☆ 📸 Starfield Library (COEX Mall)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) [N](https://map.naver.com/p/search/별마당도서관) — Ogromne regały z książkami; bezpłatnie 📅 **Dzień 8 (18 sie)**
+- [★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul) [N](https://map.naver.com/p/search/봉은사) — Duża świątynia buddyjska naprzeciwko COEX; spokój wśród wieżowców 📅 **Dzień 8 (18 sie)**
+- [★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul) [N](https://map.naver.com/p/search/커먼그라운드) — Pierwsze w Korei Południowej centrum handlowe z kontenerów morskich (Seongsu) 📅 **Dzień 8 (18 sie)**
 - [★★★☆☆ 🏯🎫 Seonjeongneung Royal Tombs](https://www.google.com/maps/search/Seonjeongneung+Royal+Tombs+Seoul) [N](https://map.naver.com/p/search/선정릉) — Królewskie grobowce dynastii Joseon (UNESCO) w środku Gangnamu 📅 *blisko: Dzień 8 (18 sie)*
 
 #### Parki
-- [★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul) [N](https://map.naver.com/p/search/서울숲) — 400,000+ drzew; wybieg z karmieniem jeleni, owadziarnia, ogród motyli, place zabaw, ogród różany 📅 *blisko: Dzień 8 (18 sie)*
+- [★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul) [N](https://map.naver.com/p/search/서울숲) — 400,000+ drzew; wybieg z karmieniem jeleni, owadziarnia, ogród motyli, place zabaw, ogród różany 📅 **Dzień 8 (18 sie)**
 - [★★☆☆☆ 🌳 Ttukseom Hangang Park](https://www.google.com/maps/search/Ttukseom+Hangang+Park+Seoul) [N](https://map.naver.com/p/search/뚝섬한강공원) — Plac zabaw, ścianka wspinaczkowa, skatepark; letni basen 📅 *blisko: Dzień 8 (18 sie)*
 
 #### Kawiarnie
@@ -278,11 +278,11 @@ Nowoczesny Seoul, centra handlowe z kontenerów, dziwaczne serniki i przebudowan
 
 #### Zakupy
 - [★★★☆☆ 🛍️ Garosugil (Sinsa-dong)](https://www.google.com/maps/search/Garosugil+Seoul) [N](https://map.naver.com/p/search/가로수길) — Obsadzona drzewami ulica z butikami projektantów, niezależnymi sklepami i pracowniami artystycznymi
-- [★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul) [N](https://map.naver.com/p/search/올리브영%20N%20성수) — Pięciopiętrowy flagowy sklep z kosmetykami K-beauty
+- [★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul) [N](https://map.naver.com/p/search/올리브영%20N%20성수) — Pięciopiętrowy flagowy sklep z kosmetykami K-beauty 📅 **Dzień 8 (18 sie)**
 - [★★★☆☆ 🛍️ COEX Mall](https://www.google.com/maps/search/COEX+Mall+Seoul) [N](https://map.naver.com/p/search/코엑스몰) — Podziemne megacentrum handlowe
 
 #### Dla dzieci
-- [★★★☆☆ 🐾🧒🎫 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) [N](https://map.naver.com/p/search/코엑스아쿠아리움) — Największe akwarium w Seoulu; rekiny, płaszczki, strefy tematyczne
+- [★★★☆☆ 🐾🧒🎫 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) [N](https://map.naver.com/p/search/코엑스아쿠아리움) — Największe akwarium w Seoulu; rekiny, płaszczki, strefy tematyczne 📅 **Dzień 8 (18 sie)**
 - [★★☆☆☆ 🎡🧒 Vaunce Trampoline Park](https://www.google.com/maps/search/Vaunce+Trampoline+Park+Samseong+Seoul) [N](https://map.naver.com/p/search/Vaunce%20Trampoline%20Park%20삼성동) — Pierwszy park trampolin w Korei; sesje 2-godzinne 📅 *blisko: Dzień 8 (18 sie)*
 - ★★★☆☆ 🌳🧒 Seoul Forest Park — Karmienie jeleni, owadziarnia, ogród motyli, place zabaw
 - 🎨 Retro studia do samodzielnych zdjęć w Seongsu (Eternalog i inne) — Budki z portretami czarno-białymi ~4,000-6,000 won
@@ -413,10 +413,10 @@ Miejsca znalezione w pogłębionym researchu, pogrupowane według kategorii, a n
 - [★★★☆☆ 🏛️ National Museum of Korean Contemporary History](https://www.google.com/maps/search/National+Museum+of+Korean+Contemporary+History+Seoul) [N](https://map.naver.com/p/search/대한민국역사박물관) — Bezpłatne, szybkie i przystępne dla dzieci kalendarium od epoki kolonialnej przez wojnę, industrializację po K-wave. Kilka kroków od Gwanghwamun. 9:00–18:00 (śr./sob. do 21:00); sprawdź dzień zamknięcia.
 
 #### C. Sztuka
-- [★★★★☆ 🏛️🎨📸 D Museum (Seongsu)](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul) [N](https://map.naver.com/p/search/디뮤지엄%20성수) — Kuratorowane przez Daelim muzeum współczesnego designu i fotografii (D Tower, przy Seoul Forest); zmienne wystawy wielkoformatowe (design, fotografia, popkultura), bardzo lubiane przez nastolatków — prawdziwe muzeum, a nie sala z projekcjami. ⚠️ „House of Taste 2" kończy się 22 lut. 2026 — do sierpnia prawdopodobnie będzie nowa wystawa; sprawdź i kup bilety na godzinę. Wt.–niedz. 11:00–18:00, zamknięte w pon.; ~12,000/6,000 KRW. Blisko Seoul Forest i kawiarni w Seongsu. 📅 **Dzień 4 (14 sie)** · *blisko: Dzień 8 (18 sie)*
+- [★★★★☆ 🏛️🎨📸 D Museum (Seongsu)](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul) [N](https://map.naver.com/p/search/디뮤지엄%20성수) — Kuratorowane przez Daelim muzeum współczesnego designu i fotografii (D Tower, przy Seoul Forest); zmienne wystawy wielkoformatowe (design, fotografia, popkultura), bardzo lubiane przez nastolatków — prawdziwe muzeum, a nie sala z projekcjami. ⚠️ „House of Taste 2" kończy się 22 lut. 2026 — do sierpnia prawdopodobnie będzie nowa wystawa; sprawdź i kup bilety na godzinę. Wt.–niedz. 11:00–18:00, zamknięte w pon.; ~12,000/6,000 KRW. Blisko Seoul Forest i kawiarni w Seongsu. 📅 **Dzień 8 (18 sie)**
 - [★★☆☆☆ 🎨🤳📸 WAVE — d'strict digital media art (COEX)](https://www.google.com/maps/search/WAVE+COEX+Digital+Art+Seoul) [N](https://map.naver.com/p/search/코엑스) — Bezpłatna wielka fotorealistyczna iluzja „fali w szklanym akwarium" na zakrzywionym ekranie LED zwróconym w stronę Yeongdong-daero przy COEX; odtwarzana ~raz na godzinę przez ~1 min. Instagramowy spektakl na publicznym ekranie — dobry jako bezpłatny, minutowy dodatek przy COEX Mall, nie cel sam w sobie.
 - [★★★☆☆ 🎨🚶 Mullae Art Village](https://www.google.com/maps/search/Mullae+Art+Village+Seoul) [N](https://map.naver.com/p/search/문래창작촌) — Wciąż działająca dzielnica warsztatów stalowych (~1,000 zakładów metalowych) zawłaszczona przez murale, rzeźby ze złomu i małe galerie — surowsza niż Ikseon czy Seongsu. Bezpłatnie; najlepiej późnym popołudniem. Stacja Mullae (linia 2).
-- [★★★☆☆ 🎨🌳 Mapo Oil Tank Culture Park](https://www.google.com/maps/search/Mapo+Oil+Tank+Culture+Park+Seoul) [N](https://map.naver.com/p/search/문화비축기지) — Pięć wyłączonych z użytku zbiorników paliwa z lat 70. przerobionych na galerie, kopułę i amfiteatr, z trawiastymi wzgórzami dla dzieci. Teren bezpłatny/24 h; hale 10:00–18:00, wystawy zamknięte w pon. (w pt. 14 sie otwarte). Blisko stacji World Cup Stadium, ~1 przystanek na północny zachód od Mangwon — prawdziwy kulturalny punkt zaczepienia tego przedpołudnia. 📅 **Dzień 4 (14 sie)**
+- [★★★☆☆ 🎨🌳 Mapo Oil Tank Culture Park](https://www.google.com/maps/search/Mapo+Oil+Tank+Culture+Park+Seoul) [N](https://map.naver.com/p/search/문화비축기지) — Pięć wyłączonych z użytku zbiorników paliwa z lat 70. przerobionych na galerie, kopułę i amfiteatr, z trawiastymi wzgórzami dla dzieci. Teren bezpłatny/24 h; hale 10:00–18:00, wystawy zamknięte w pon. (w pt. 14 sie otwarte). Blisko stacji World Cup Stadium, ~1 przystanek na północny zachód od Mangwon — prawdziwy kulturalny punkt zaczepienia tego przedpołudnia. 📅 *blisko: Dzień 4 (14 sie)*
 
 #### D. Zabytki i punkty widokowe
 - [★★★★☆ 🌊📸 Banpo Bridge Moonlight Rainbow Fountain](https://www.google.com/maps/search/Banpo+Bridge+Rainbow+Fountain+Seoul) [N](https://map.naver.com/p/search/반포대교%20달빛무지개분수) — Najdłuższa mostowa fontanna na świecie: tęczowe łuki zsynchronizowane z muzyką, ~20 min, kilka razy każdego wieczoru, bezpłatnie z Banpo Hangang Park. ~kwi.–paź. (obejmuje sierpień); ~20:00/20:30/21:30 — potwierdź tego samego dnia, odwoływana przy wiatrze i deszczu. Bez chodzenia — dobry wieczór dla zmęczonych dzieci.
@@ -516,7 +516,7 @@ Druga, bardziej niszowa runda — galerie, dodatkowe góry, wyspecjalizowane uli
 - [★★★☆☆ 🎨 Atelier Aki](https://www.google.com/maps/search/Atelier+Aki+Seoul+Forest) [N](https://map.naver.com/p/search/아뜰리에아키) — Galeria sztuki współczesnej w Galleria Foret przy Seoul Forest, Seongsu — bez nadkładania drogi razem z D Museum. ~11:00–19:00, zamknięte w pon. (sprawdź); bezpłatnie.
 - [★★★★☆ 🎨📷 Space22](https://www.google.com/maps/search/Space22+Gallery+Gangnam+Seoul) [N](https://map.naver.com/p/search/스페이스22) — Bezpłatna galeria fotografii artystycznej na wysokim piętrze nad Gangnam, widoki na miasto. ~pon.–sob. 11:00–19:00 (sprawdź); bezpłatnie.
 - [★★★★☆ 📷🎨 Ilwoo Space](https://www.google.com/maps/search/Ilwoo+Space+Seoul) [N](https://map.naver.com/p/search/일우스페이스) — Galeria fotografii artystycznej (Fundacja Ilwoo, budynek Korean Air) blisko Deoksugung/SeMA; siedziba nagrody Ilwoo Photography Award. Pon.–sob. ~10:00–18:30, bezpłatnie. ⚠️ Prawdopodobnie **zamknięte w niedz. — czyli nie 16 sie (niedz.)**, o ile się nie potwierdzi inaczej.
-- [★★★☆☆ 🏛️🎨📷 KT&G SangsangMadang Hongdae](https://www.google.com/maps/search/KT%26G+SangsangMadang+Hongdae+Seoul) [N](https://map.naver.com/p/search/상상마당%20홍대) — Kompleks artystyczny w Hongdae z prawdziwą galerią sztuki współczesnej i fotografii (2F), kinem niezależnym i sklepem z designem — jedyny autentyczny przystanek ze sztuką w Hongdae. ~11:00–21:00 codziennie; bezpłatnie / niska opłata. 📅 **Dzień 4 (14 sie)**
+- [★★★☆☆ 🏛️🎨📷 KT&G SangsangMadang Hongdae](https://www.google.com/maps/search/KT%26G+SangsangMadang+Hongdae+Seoul) [N](https://map.naver.com/p/search/상상마당%20홍대) — Kompleks artystyczny w Hongdae z prawdziwą galerią sztuki współczesnej i fotografii (2F), kinem niezależnym i sklepem z designem — jedyny autentyczny przystanek ze sztuką w Hongdae. ~11:00–21:00 codziennie; bezpłatnie / niska opłata. 📅 *blisko: Dzień 4 (14 sie)*
 - [★★★☆☆ 🏛️🎨 HOMA — Hongik University Museum of Art](https://www.google.com/maps/search/Hongik+University+Museum+of+Art+Seoul) [N](https://map.naver.com/p/search/홍익대학교%20현대미술관) — Muzeum sztuki na kampusie Hongik (najlepsza uczelnia artystyczna w Korei), zmienne wystawy z wydziału sztuki — prawdziwa galeria w samym centrum Hongdae. Śr.–sob. 10:00–18:00, niedz. 14:00–18:00, zamknięte w pon. i wt. (w pt. 14 sie otwarte); bezpłatnie. ⚠️ Potwierdź sierpniową wystawę i wakacyjne godziny, zanim oprzecie na tym plan. 📅 **Dzień 4 (14 sie)**
 - [★★★☆☆ 🏛️🎨 Hangaram Art Museum (Seoul Arts Center)](https://www.google.com/maps/search/Hangaram+Art+Museum+Seoul+Arts+Center) [N](https://map.naver.com/p/search/한가람미술관) — Duże sale wystaw objazdowych w Seocho (wystawa Goi zaplanowana do 30 wrz. 2026). Mar.–paź. 11:00–20:00 (ostatnie wejście 19:00); cena zależy od wystawy. ⚠️ Sprawdź, czy otwarte — od paź. 2025 zapowiedziano przebudowę.
 - [★★★☆☆ 🏛️🎨 Total Museum of Contemporary Art](https://www.google.com/maps/search/Total+Museum+of+Contemporary+Art+Seoul) [N](https://map.naver.com/p/search/토탈미술관) — Pierwszy prywatny instytut sztuki w Korei, Pyeongchang-dong (obok Gana Art Center). Wystawy współczesne; ~wt.–niedz. 11:00–18:00, zamknięte w pon., ~₩5,000 — sprawdź.
