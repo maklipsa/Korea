@@ -6,7 +6,7 @@ Gyeongbokgung zamknięty we wt. — brak konfliktu. **War Memorial i National Mu
 
 **Bonus logistyczny:** oba muzea są **1–2 przystanki od Seoul Station**, podczas gdy Seongsu/COEX to ~40 min z bagażami. Ten dzień jest więc *bezpieczniejszy* pod KTX niż był. Plan na bagaże: **schowki na Seoul Station z samego rana**, potem muzea bez walizek.
 
-⚠️ **Koszt:** wypadają **D Museum (★★★★☆, design i fotografia)**, Seoul Forest, Starfield Library i dodatki przy COEX — wszystkie zeszły do `Also Nearby`. D Museum było opisane jako „jedyna okazja", więc to realna strata; jeśli wolicie D Museum od pary z Yongsan, powiedzcie i wracam do poprzedniego układu.
+⚠️ **Koszt:** wypadają Seoul Forest, Starfield Library i dodatki przy COEX — zeszły do `Also Nearby`. ✅ **D Museum NIE jest już stratą** — przeniesione na pt. 14 sie o 16:20, więc para z Yongsan i muzeum designu mieszczą się oba.
 
 **Transport (główny przejazd):** **KTX Seoul → Busan** (~2 h 15 min — zarezerwuj miejsca, sierpień to szczyt sezonu). Rano: L4 z DDP do Seoul Station (~12 min), **bagaże do schowków**, potem 2 przystanki do Samgakji (War Memorial) i 1 do Ichon (National Museum) — oba wracają na Seoul Station w ~10 min. Wieczorem Haeundae to osobne skupisko do przejścia pieszo.
 
@@ -47,7 +47,7 @@ Gyeongbokgung zamknięty we wt. — brak konfliktu. **War Memorial i National Mu
 ## Also Nearby
 
 ### Dodatki na poranek w Seoulu
-- [★★★★☆ 🏛️🎨📸 D Museum](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul) [N](https://map.naver.com/p/search/디뮤지엄%20성수) — Kuratorowane muzeum współczesnego designu i fotografii grupy Daelim (D Tower, przy Seoul Forest); wielkoformatowe wystawy, prawdziwe muzeum, nie sala do zdjęć. Otwarcie 11:00, ~1,5 h. ⏬ **ZESZŁO Z HARMONOGRAMU**, gdy poranek przeniósł się do Yongsan — **to najmocniejsza rzecz, którą tracimy tego dnia** (★★★★☆, i nie ma go w żadnym innym dniu). Wraca do gry tylko zamiast pary War Memorial + National Museum.
+- [★★★★☆ 🏛️🎨📸 D Museum](https://www.google.com/maps/search/D+Museum+Seongsu+Seoul) [N](https://map.naver.com/p/search/디뮤지엄%20성수) — Kuratorowane muzeum współczesnego designu i fotografii grupy Daelim (D Tower, przy Seoul Forest); wielkoformatowe wystawy, prawdziwe muzeum, nie sala do zdjęć. Wt.–niedz. 11:00–18:00, zamknięte w pon. ✅ **URATOWANE — przeniesione na pt. 14 sie, 16:20** (Hongdae → Seongsu, L2 bez przesiadki), kosztem cmentarza Yanghwajin i muzeum w Jeoldusan. Nic już nie tracimy tu z tego punktu.
 - [★★★☆☆ 🌳🧒 Seoul Forest Park](https://www.google.com/maps/search/Seoul+Forest+Seoul) [N](https://map.naver.com/p/search/서울숲) — Karmienie jeleni, ogród motyli (od 10:00, zamknięty w pon.), ogród różany; bezpłatnie, 24 h. ⏬ Zeszło z harmonogramu.
 - [★★★☆☆ 📸 Starfield Library (COEX)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) [N](https://map.naver.com/p/search/스타필드%20도서관) — Wielka biblioteka-atrium w COEX. ⏬ Zeszło z harmonogramu razem z całym blokiem COEX (Bongeunsa, COEX Aquarium, Common Ground, Olive Young N Seongsu).
 - [★★★☆☆ 🏯🎫 Seonjeongneung Royal Tombs](https://www.google.com/maps/search/Seonjeongneung+Royal+Tombs+Seoul) [N](https://map.naver.com/p/search/선정릉) — Królewskie grobowce dynastii Joseon z listy UNESCO w środku Gangnam, ~10 min od COEX; pomiń, chyba że wycięliście coś innego — poranek jest napięty przed KTX o 14:00
