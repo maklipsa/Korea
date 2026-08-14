@@ -50,7 +50,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 | 3 | 13 sie (czw) | Wycieczka do DMZ (w Seoulu 15:30) + Leeum + Itaewon/Hannam | [aug-13-dmz-itaewon.md](days/aug-13-dmz-itaewon.md) |
 | 4 | 14 sie (pt) | **Yongsan rano: National Museum of Korea + War Memorial** (nadrobione z 13 sie) → lekkie Hongdae (HOMA, zwierzęta, samgyetang na Malbok) → Seonyudo o zachodzie | [aug-14-hongdae-yeonnam.md](days/aug-14-hongdae-yeonnam.md) |
 | 5 | 15 sie (sob) | Dzień Wyzwolenia: Nami Island + Gapyeong (zip-line, prom do świątyni nad jeziorem Soyang) | [aug-15-nami-island.md](days/aug-15-nami-island.md) |
-| 6 | 16 sie (niedz) | **Dzień odwrócony:** Jongno rano nadrobione z 12 sie (Jongmyo bez przewodnika + Changdeokgung + Museum Hanmi + Kukje + Insadong) → Myeongdong i N Seoul Tower po ciemku | [aug-16-myeongdong-namsan.md](days/aug-16-myeongdong-namsan.md) |
+| 6 | 16 sie (niedz) | **Photo SeMA (Martin Parr) o 10:00** → Jongno nadrobione z 12 sie (Jongmyo + Changdeokgung + Kukje + Museum Hanmi + Insadong) → Myeongdong i N Seoul Tower po ciemku | [aug-16-myeongdong-namsan.md](days/aug-16-myeongdong-namsan.md) |
 | 7 | 17 sie (pon) | Lotte World + Seoul Sky + Songnidan-gil | [aug-17-lotte-world.md](days/aug-17-lotte-world.md) |
 | 8 | 18 sie (wt) | Seoul Forest + Seongsu (D Museum) + COEX → KTX do Busan | [aug-18-seoul-to-busan.md](days/aug-18-seoul-to-busan.md) |
 | 9 | 19 sie (śr) | Cały dzień w Busan (świątynia, Gamcheon, Jagalchi, targi) | [aug-19-busan.md](days/aug-19-busan.md) |

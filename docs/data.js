@@ -951,10 +951,10 @@ const DAYS = [
     "id": "day-6",
     "day": 6,
     "date": "16 sie (niedz)",
-    "title": "Jongno nadrobione z 12 sie (Jongmyo, Changdeokgung, Museum Hanmi) + Myeongdong i Namsan wieczorem",
+    "title": "Photo SeMA (Martin Parr) + Jongno nadrobione z 12 sie + Myeongdong i Namsan wieczorem",
     "country": "korea",
-    "summary": "<strong>Dzień odwrócony:</strong> Jongno rano nadrobione z 12 sie (Jongmyo bez przewodnika + Changdeokgung + Museum Hanmi + Kukje + Insadong) → Myeongdong i N Seoul Tower po ciemku",
-    "notes": "<strong>Aktywuj dziś Discover Seoul Pass 48 h</strong> (obejmuje Namsan Tower + Lotte World jutro). <strong>Transport:</strong> <strong>Dzień odwrócony</strong> — rano linią 5 wprost z DDP do Jongno 3-ga, potem cały blok Jongno pieszo w jednym ciągu (Jongmyo → Changdeokgung → Samcheong-dong → Kukje → Insadong), wieczorem jeden przeskok metrem Anguk → Myeongdong i kolejka linowa na Namsan po ciemku. Wokół Namsan pagórkowato — nie na rower. <strong>Opcjonalny wypad kulturalny — „We Are Martin Parr\" w Photo SeMA:</strong> Dla miłośników fotografii — otwórz dzień na północy w <strong><a href=\"https://www.google.com/maps/search/Photography+Seoul+Museum+of+Art+Chang-dong+Seoul\" target=\"_blank\">★★★★☆ 📷🏛️ Photography Seoul Museum of Art (Photo SeMA)</a> <a href=\"https://map.naver.com/p/search/서울시립사진미술관\" target=\"_blank\">N</a></strong> w Dobong — pierwsze w Korei <em>publiczne</em> muzeum poświęcone wyłącznie fotografii (odważny nowy budynek, otwarty w 2025), obecnie z wystawą <strong>„We Are Martin Parr\" (16 lip–18 paź 2026)</strong>, wielką retrospektywą Magnum trwającą w czasie waszego wyjazdu. Niedz. 10:00–19:00 (ostatnie wejście 18:00), zamknięte w pon., <strong>wstęp wolny</strong>. 3 min od Chang-dong Stn (linie 1 i 4); stamtąd <strong>bezpośrednia linia 4</strong> dowozi prosto na dół do Myeongdong/Namsan (~35 min). <span style=\"color:red\">⚠️ <strong>Ta opcja NIE wchodzi już w ten dzień.</strong> Dzień jest teraz zajęty od tury w Jongmyo o 10:00 do wieży o 20:15; Photo SeMA leży w Dobong, na drugim końcu miasta, więc wejście na nie kasuje cały blok Jongno. Dobra wiadomość: <strong>Museum Hanmi o 14:00 to też prawdziwe muzeum fotografii</strong>, więc priorytet fotograficzny dnia jest obsłużony. Martina Parra da się ratować tylko jako osobny poranek 18 sie <strong>zamiast</strong> D Museum — oba ★★★★☆, czyli wymiana jeden za jednego, nie zysk.</span>",
+    "summary": "<strong>Photo SeMA (Martin Parr) o 10:00</strong> → Jongno nadrobione z 12 sie (Jongmyo + Changdeokgung + Kukje + Museum Hanmi + Insadong) → Myeongdong i N Seoul Tower po ciemku",
+    "notes": "<strong>Aktywuj dziś Discover Seoul Pass 48 h</strong> (obejmuje Namsan Tower + Lotte World jutro). <strong>Transport:</strong> Rano <strong>L4 z DDP na północ do Chang-dong</strong> (~35 min) na Photo SeMA, potem <strong>L1 wprost w dół do Jongno 3-ga</strong> (~30 min). Dalej cały blok Jongno pieszo w jednym ciągu (Jongmyo → Changdeokgung → lunch w Samcheong-dong → Kukje → Museum Hanmi → Insadong), wieczorem jeden przeskok Anguk → Myeongdong i kolejka linowa na Namsan po ciemku. Wokół Namsan pagórkowato — nie na rower. <strong>📷 Photo SeMA wchodzi do planu — o 10:00, na otwarcie.</strong> Pierwsze w Korei <em>publiczne</em> muzeum fotografii (Dobong, 3 min od Chang-dong, L1/L4) z <strong>potwierdzoną</strong> retrospektywą Magnum <strong>„We Are Martin Parr\" (16 lip – 18 paź 2026)</strong>; niedz. 10:00–19:00, zamknięte w pon., wstęp wolny. To był ostatni realny termin: 15 sie wracamy z Nami po 18:00, 17 sie muzeum jest zamknięte, a 18 sie o 14:00 mamy KTX. <span style=\"color:red\">⚠️ <strong>Cena: to najgęstszy dzień wyjazdu — siedem dużych punktów i późny lunch o 14:45.</strong> Twarde granice, których nie ruszamy: <strong>Kukje zamyka 17:00</strong>, <strong>Museum Hanmi ostatnie wejście 17:00</strong>. Jeśli dzień się posypie, <strong>odpuśćcie Insadong</strong> — jest najtańszy w tej stawce, choć to już drugie przeniesienie tego punktu.</span>",
     "badges": [
       {
         "type": "pass",
@@ -965,6 +965,10 @@ const DAYS = [
         "text": "Kukje w niedz. tylko do 17:00"
       },
       {
+        "type": "closed",
+        "text": "Museum Hanmi — ostatnie wejście 17:00"
+      },
+      {
         "type": "holiday",
         "text": "Jongmyo w niedz. bez przewodnika i bez rezerwacji"
       }
@@ -972,33 +976,43 @@ const DAYS = [
     "maps": [
       {
         "label": "Trasa w Naver Map",
-        "url": "https://map.naver.com/p/directions/126.99416,37.57258,Jongmyo/126.98828,37.55127,N+Seoul+Tower/126.99170,37.58239,Changdeokgung+Palace:126.9819,37.5852,Museum+Hanmi:126.98053,37.58075,Kukje+Gallery:126.98597,37.57437,Insadong:126.9860,37.5612,Myeongdong/walk"
+        "url": "https://map.naver.com/p/directions/127.04746,37.65306,Photography+Seoul+Museum+of+Art/126.98828,37.55127,N+Seoul+Tower/126.99416,37.57258,Jongmyo:126.99170,37.58239,Changdeokgung+Palace:126.98053,37.58075,Kukje+Gallery:126.9819,37.5852,Museum+Hanmi:126.98597,37.57437,Insadong/walk"
       }
     ],
     "schedule": [
       {
         "time": "9:20",
-        "activity": "<strong>Metro L5 z hotelu przy DDP → Jongno 3-ga</strong> (~6 min, bez przesiadki), potem ~5 min pieszo do Jongmyo. ⚠️ <strong>Dzień jest ODWRÓCONY</strong> względem pierwotnego planu: blok Jongno idzie rano, Namsan i Myeongdong wieczorem. Powód (już <strong>nie</strong> godziny tur — w niedzielę wchodzimy do Jongmyo samodzielnie): <strong>N Seoul Tower jest w niedzielę otwarta do 23:00</strong>, więc jako jedyny punkt tego dnia znosi przesunięcie na wieczór, a dzięki temu <strong>Museum Hanmi (ostatnie wejście 17:00) i Kukje (niedz. do 17:00) wypadają spokojnie w środku popołudnia, a nie w biegu pod zamknięcie</strong> — i Insadong dostaje pełną godzinę z kwadransem, nie resztki. Bonus: wieża po ciemku, z miastem w światłach.",
+        "activity": "<strong>Metro L4 z hotelu przy DDP → Chang-dong</strong> (~35 min, bez przesiadki). ⚠️ <strong>Dzień zaczyna się na północy</strong>, w Dobong, żeby zmieścić Photo SeMA — potem L1 wprost na dół do Jongno. To najbardziej upakowany dzień wyjazdu: <strong>siedem dużych punktów</strong>. Jeśli coś się posypie, <strong>pierwsze do odpuszczenia jest Insadong</strong> (i tak było już raz przenoszone), a <strong>nie</strong> Kukje ani Museum Hanmi, bo oba mają twarde 17:00.",
         "price": ""
       },
       {
         "time": "10:00",
+        "activity": "📷 <strong><a href=\"https://www.google.com/maps/search/Photography+Seoul+Museum+of+Art+Chang-dong+Seoul\" target=\"_blank\">★★★★☆ 📷🏛️ Photography Seoul Museum of Art (Photo SeMA)</a> <a href=\"https://map.naver.com/p/search/서울시립사진미술관\" target=\"_blank\">N</a></strong> — Pierwsze w Korei <strong>publiczne</strong> muzeum poświęcone wyłącznie fotografii (nowy budynek, otwarty 2025), 3 min od stacji Chang-dong. Trwa <strong>„We Are Martin Parr\" (16 lip – 18 paź 2026)</strong> — wielka retrospektywa Magnum, <strong>potwierdzona</strong>, więc w przeciwieństwie do części wystaw nie ma tu ryzyka trafienia w przerwę. Niedz. 10:00–19:00, zamknięte w pon.; <strong>wstęp wolny</strong>. Wchodzicie na otwarcie — 1,5 h.",
+        "price": "Bezpłatnie"
+      },
+      {
+        "time": "11:35",
+        "activity": "<strong>Chang-dong → Jongno 3-ga linią 1</strong> (~30 min, bez przesiadki) — Jongmyo jest przy tej stacji.",
+        "price": ""
+      },
+      {
+        "time": "12:15",
         "activity": "➡️ <strong>Przeniesione z 12 sie.</strong> <strong><a href=\"https://www.google.com/maps/search/Jongmyo+Shrine+Seoul\" target=\"_blank\">★★★★☆ 🏯🎫 Jongmyo Shrine</a> <a href=\"https://map.naver.com/p/search/종묘\" target=\"_blank\">N</a></strong> — Królewski chram konfucjański z listy UNESCO. ✅ <strong>Bez rezerwacji i bez przewodnika: 16 sie to niedziela, a w weekendy i święta państwowe Jongmyo wpuszcza samodzielnie</strong> (obowiązek zwiedzania z przewodnikiem dotyczy tylko dni powszednich). Cze.–sie. otwarte 9:00–18:30, zamknięte we wt. Godzina jest więc elastyczna — 10:00 to tylko wygodny start, żeby zrobić chram przed upałem.",
         "price": "1,000 (dorosły); do 19 lat wstęp wolny"
       },
       {
-        "time": "11:10",
+        "time": "13:15",
         "activity": "Spacer Jongmyo → Changdeokgung (~10 min na północ — sąsiadują ze sobą).",
         "price": ""
       },
       {
-        "time": "11:20",
+        "time": "13:25",
         "activity": "➡️ <strong>Przeniesione z 12 sie.</strong> <strong><a href=\"https://www.google.com/maps/search/Changdeokgung+Palace+Seoul\" target=\"_blank\">★★★★★ 🏯🌳🎫 Changdeokgung Palace</a> <a href=\"https://map.naver.com/p/search/창덕궁\" target=\"_blank\">N</a></strong> — Lista UNESCO; otwarte od 9:00, w niedz. czynne (zamknięte w pon.). <span style=\"color:red\">⚠️ <strong>Secret Garden</strong> to osobna 90-minutowa tura o stałych godzinach (ang. 10:30/11:30/<strong>14:30</strong>/15:30), do rezerwacji. Po odwróceniu dnia tura 14:30 <strong>wchodzi w Museum Hanmi</strong> — jeśli chcecie ogród, powiedzcie: Hanmi przesunę na 16:00 (ostatnie wejście 17:00, jeszcze się mieści), kosztem Kukje.</span>",
         "price": "Pałac 3,000 (dorosły) / 1,500 (7–18); w hanboku wstęp wolny"
       },
       {
-        "time": "12:45",
-        "activity": "<strong>⚖️ Wybierz jedno — lunch po drodze na północ do Samcheong-dong.</strong> Oba były wcześniej kandydatami na kolację 12 sie.",
+        "time": "14:45",
+        "activity": "<strong>⚖️ Wybierz jedno — późny lunch po drodze na północ do Samcheong-dong.</strong> ⏰ Tak, 14:45 to późno — to cena za Photo SeMA rano; weźcie coś małego na rękę w Jongmyo, jeśli dzieci nie dotrwają. Oba były wcześniej kandydatami na kolację 12 sie.",
         "price": ""
       },
       {
@@ -1012,32 +1026,32 @@ const DAYS = [
         "price": "~13,000 KRW"
       },
       {
-        "time": "14:00",
-        "activity": "➡️ <strong>Przeniesione z 12 sie.</strong> <strong><a href=\"https://www.google.com/maps/search/Museum+Hanmi+Samcheong+Seoul\" target=\"_blank\">★★★★☆ 📷🏛️ Museum Hanmi</a> <a href=\"https://map.naver.com/p/search/뮤지엄한미%20삼청\" target=\"_blank\">N</a></strong> — Pierwsze w Korei muzeum fotografii artystycznej (zał. 2003), efektowny budynek w Samcheong-dong; prawdziwa galeria fotografii, nie tło do zdjęć. Niedz. 10:00–18:00, ostatnie wejście ~17:00 (zamknięte w pon.).",
-        "price": "15,000 / młodzież (7–18) 7,500 — wszystkie 3 dzieci jako młodzież"
-      },
-      {
-        "time": "15:15",
-        "activity": "➡️ <strong>Przeniesione z 12 sie.</strong> <strong><a href=\"https://www.google.com/maps/search/Kukje+Gallery+Seoul\" target=\"_blank\">★★★★☆ 🏛️🎨 Kukje Gallery</a> <a href=\"https://map.naver.com/p/search/국제갤러리\" target=\"_blank\">N</a></strong> — Wiodąca galeria sztuki współczesnej w Seoulu (od 1982), Sogyeok-dong: budynki K1/K2/K3 + ogród rzeźb, bezpłatnie. ⚠️ <strong>W niedzielę zamyka o 17:00</strong> (pon.–sob. do 18:00) — dlatego idzie przed Insadong, nie po.",
+        "time": "15:40",
+        "activity": "➡️ <strong>Przeniesione z 12 sie.</strong> <strong><a href=\"https://www.google.com/maps/search/Kukje+Gallery+Seoul\" target=\"_blank\">★★★★☆ 🏛️🎨 Kukje Gallery</a> <a href=\"https://map.naver.com/p/search/국제갤러리\" target=\"_blank\">N</a></strong> — Wiodąca galeria sztuki współczesnej w Seoulu (od 1982), Sogyeok-dong: budynki K1/K2/K3 + ogród rzeźb, bezpłatnie. ⚠️ <strong>W niedzielę zamyka o 17:00</strong> (pon.–sob. do 18:00). <strong>Po dodaniu Photo SeMA to Kukje, a nie Museum Hanmi, idzie pierwsze</strong> — Hanmi wpuszcza do 17:00 i zamyka 18:00, więc znosi późniejsze wejście, a Kukje nie.",
         "price": "Bezpłatnie"
       },
       {
-        "time": "16:15",
+        "time": "16:35",
+        "activity": "➡️ <strong>Przeniesione z 12 sie.</strong> <strong><a href=\"https://www.google.com/maps/search/Museum+Hanmi+Samcheong+Seoul\" target=\"_blank\">★★★★☆ 📷🏛️ Museum Hanmi</a> <a href=\"https://map.naver.com/p/search/뮤지엄한미%20삼청\" target=\"_blank\">N</a></strong> — Pierwsze w Korei muzeum fotografii artystycznej (zał. 2003), efektowny budynek w Samcheong-dong; prawdziwa galeria fotografii, nie tło do zdjęć. Niedz. 10:00–18:00, <strong>ostatnie wejście ~17:00 — wchodzicie 16:35, czyli tuż przed granicą.</strong> Zamknięte w pon.",
+        "price": "15,000 / młodzież (7–18) 7,500 — wszystkie 3 dzieci jako młodzież"
+      },
+      {
+        "time": "17:55",
         "activity": "➡️ <strong>Przeniesione z 12 sie.</strong> <strong><a href=\"https://www.google.com/maps/search/Insadong-gil+Seoul\" target=\"_blank\">★★★★☆ 🚶🛍️ Insadong</a> <a href=\"https://map.naver.com/p/search/인사동길\" target=\"_blank\">N</a></strong> — Spiralny kompleks Ssamziegil, rzeźbienie pieczątek z imieniem (dzieci dostaną własną koreańską pieczęć), sklepy z rękodziełem i papeterią. Sklepy zaczynają zamykać ~19:00.",
         "price": "Pieczątka ~10,000-20,000 KRW"
       },
       {
-        "time": "17:30",
+        "time": "18:45",
         "activity": "<strong>Metro Anguk → Myeongdong</strong> (L3 → L4 przez Chungmuro, ~12 min).",
         "price": ""
       },
       {
-        "time": "18:00",
+        "time": "19:00",
         "activity": "Kolacja na <strong>★★★☆☆ Myeongdong Night Market</strong> (16:00–23:00) — 100+ budek. Ogon homara z serem, grillowana kałamarnica, egg bread. 🛍️ <strong>Tu też wchodzą zakupy K-beauty</strong> — Olive Young, Innisfree i Laneige działają do ~22:00, więc dzieci testują próbki bez osobnego slotu.",
         "price": ""
       },
       {
-        "time": "19:45",
+        "time": "19:55",
         "activity": "<strong>⚖️ Wybierz jedno — wjazd na Namsan.</strong> O tej porze kolejka to oczywisty wybór.",
         "price": ""
       },
@@ -1052,7 +1066,7 @@ const DAYS = [
         "price": ""
       },
       {
-        "time": "20:15",
+        "time": "20:25",
         "activity": "<strong><a href=\"https://www.google.com/maps/search/Namsan+Tower+Seoul\" target=\"_blank\">★★★★★ 🗼🧒🎫 N Seoul Tower</a> <a href=\"https://map.naver.com/p/search/N서울타워\" target=\"_blank\">N</a></strong> — <strong>Wersja nocna:</strong> obserwatorium w niedz./święta 10:00–23:00 (ostatnie wejście 22:30), taras z zamkami miłości. Zachód słońca ok. 19:25, więc o 20:15 miasto jest już w pełni w światłach — lepszy widok niż w dzień. Bezpłatne z Discover Seoul Pass.",
         "price": "Pass, inaczej 21,000 KRW dorosły / 16,000 KRW dziecko (≤12); 15-latek jako dorosły"
       },
@@ -1063,16 +1077,6 @@ const DAYS = [
       }
     ],
     "extras": [
-      {
-        "category": "Fotografia (wypad kulturalny)",
-        "items": [
-          {
-            "name": "<a href=\"https://www.google.com/maps/search/Photography+Seoul+Museum+of+Art+Chang-dong+Seoul\" target=\"_blank\">★★★★☆ 📷🏛️ Photography Seoul Museum of Art (Photo SeMA)</a> <a href=\"https://map.naver.com/p/search/서울시립사진미술관\" target=\"_blank\">N</a>",
-            "url": "",
-            "desc": "Pierwsze w Korei publiczne muzeum poświęcone wyłącznie fotografii (Dobong, 3 min od Chang-dong Stn L1/L4). <strong>„We Are Martin Parr\" 16 lip–18 paź 2026.</strong> Niedz. 10:00–19:00 (ostatnie wejście 18:00), zamknięte w pon., bezpłatnie. Bezpośrednią linią 4 z powrotem do Myeongdong."
-          }
-        ]
-      },
       {
         "category": "Więcej zabytków",
         "items": [
