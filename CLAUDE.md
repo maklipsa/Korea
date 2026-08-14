@@ -39,7 +39,10 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 ```markdown
 … description ✅ **Widziane: Dzień 1 (11 sie) — 4/5** 📅 **Dzień 1 (11 sie)**
 … description ⏭️ **Pominięte: Dzień 1 (11 sie)** 📅 **Dzień 1 (11 sie)**
+… description 🚫 **ZAMKNIĘTE: Dzień 4 (14 sie)** 📅 **Dzień 4 (14 sie)**
 ```
+
+**Three outcome states, not two.** `✅ Widziane` = went, with a 1–5 verdict. `⏭️ Pominięte` = chose not to go. `🚫 ZAMKNIĘTE` = wanted to, but the place was shut — record it separately, because it says something about the *source data* rather than about us, and it should trigger a correction to that place's opening hours. HOMA on 14 sie is the worked example: listed Wed–Sat, shut on a Friday in August because of the university vacation break.
 
 **Moves: once a move lands, delete the trace from the source day.** A `➡️ PRZENIESIONE na …` row is scaffolding for the decision, not a record to keep. As soon as the place is scheduled on its new day, **remove the row from the source day's `## Schedule` and remove the corresponding sentence from that day's notes block.** The destination day's row keeps its `➡️ Przeniesione z <date>` label — that one explains why it's there. Skips are different: `⏭️ Pominięte` rows stay, because a skip has no other home and the record is the point. Rationale: leftover move-rows go stale silently — the Aug 13 ghosts still pointed at 18 sie long after the pair had been re-homed to 14 sie, and nothing flags that.
 
