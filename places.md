@@ -106,7 +106,7 @@ Wszystko do obejścia pieszo w jednym ciągu — historyczne serce Seoulu.
 Zakupy, street food, widoki na miasto i ukryte retro bary.
 
 #### Zabytki
-- [★★★★★ 🗼🎫 N Seoul Tower (Namsan Tower)](https://www.google.com/maps/search/Namsan+Tower+Seoul) [N](https://map.naver.com/p/search/N서울타워) — Panoramiczne widoki; kolejka linowa ~15,000 won w obie strony; 10:00–23:00 📅 **Dzień 6 (16 sie)**
+- [★★★☆☆ 🗼🎫 N Seoul Tower (Namsan Tower)](https://www.google.com/maps/search/Namsan+Tower+Seoul) [N](https://map.naver.com/p/search/N서울타워) — Panoramiczne widoki; kolejka linowa ~15,000 won w obie strony; 10:00–23:00 ✅ **Widziane: Dzień 6 (16 sie) — 2/6.** <span style="color:red">⚠️ **Widok spod wieży jest lepszy niż z płatnego tarasu** — wjazd nie jest wart ani czasu, ani pieniędzy (21,000/dorosły + 16,000/dziecko, bez passa ~110,000 za szóstkę). **Wejdźcie na Namsan, pooglądajcie panoramę z terenu u podnóża wieży i darujcie sobie obserwatorium.** Obniżone z ★★★★★ do ★★★☆☆.</span> 📅 **Dzień 6 (16 sie)**
 - [★★★☆☆ 🚡 Namsan Cable Car](https://www.google.com/maps/search/Namsan+Cable+Car+Seoul) [N](https://map.naver.com/p/search/남산케이블카) — Widokowy 3-minutowy przejazd gondolą 📅 **Dzień 6 (16 sie)**
 - [★★★☆☆ 🏯 Namdaemun (Sungnyemun Gate)](https://www.google.com/maps/search/Namdaemun+Gate+Seoul) [N](https://map.naver.com/p/search/숭례문) — Skarb Narodowy nr 1; Wielka Brama Południowa, zbudowana w 1398 📅 *blisko: Dzień 6 (16 sie)*
 - [★★☆☆☆ ⛪ Myeongdong Cathedral](https://www.google.com/maps/search/Myeongdong+Cathedral+Seoul) [N](https://map.naver.com/p/search/명동성당) — Gotycka katedra (1898); najstarszy kościół parafialny w Seoulu 📅 *blisko: Dzień 6 (16 sie)*
@@ -148,7 +148,7 @@ Zakupy, street food, widoki na miasto i ukryte retro bary.
 - [★★★★★ 🍜🛍️ Gwangjang Market](https://www.google.com/maps/search/Gwangjang+Market+Seoul) [N](https://map.naver.com/p/search/광장시장) — Patrz wyżej (graniczy z Dongdaemun) ✅ **Widziane: Dzień 1 (11 sie) — 4/6** 📅 **Dzień 1 (11 sie)**
 
 #### Dla dzieci
-- ★★★★★ 🗼🎫 N Seoul Tower — Cyfrowe obserwatorium, taras z kłódkami miłości
+- ★★★☆☆ 🗼🎫 N Seoul Tower — Cyfrowe obserwatorium, taras z kłódkami miłości ✅ **2/6 (16 sie)** — patrz wpis wyżej: widok spod wieży lepszy niż z tarasu.
 - ★★★☆☆ 🚡 Przejazd kolejką linową Namsan Cable Car
 - [★★☆☆☆ 🏛️🧒 Alive Museum Myeongdong](https://www.google.com/maps/search/Alive+Museum+Myeongdong+Seoul) [N](https://map.naver.com/p/search/Alive%20Museum%20Myeongdong) — Muzeum trick-eye 📅 *blisko: Dzień 6 (16 sie)*
 - ★★★☆☆ 🏛️ Wystawy w DDP — Zmienne wystawy designu i sztuki w środku DDP, wiele interaktywnych (patrz DDP wyżej) 📅 **Day 1 (Aug 11)**
