@@ -131,6 +131,7 @@ Zakupy, street food, widoki na miasto i ukryte retro bary.
 - [★★☆☆☆ 🍜 Hadongkwan](https://www.google.com/maps/search/Hadongkwan+Seoul) [N](https://map.naver.com/p/search/하동관) — Od lat 30. XX w.; gomtang (zupa z kości wołowych) i suyuk (gotowana wołowina) 📅 *blisko: Dzień 6 (16 sie)*
 - [★★☆☆☆ 🍜 Namdaemun Specialty Hotteok](https://www.google.com/maps/search/Namdaemun+Hotteok+Seoul) [N](https://map.naver.com/p/search/남대문%20명물%20호떡) — Od 1998; hotteok w wersjach z miodem, japchae, kimchi i owocami morza
 - [★★★☆☆ 🍜 Sindang-dong Tteokbokki Town](https://www.google.com/maps/search/Sindang+Tteokbokki+Town+Seoul) [N](https://map.naver.com/p/search/신당동떡볶이타운) — Skupisko jadłodajni; legendarne tteokbokki z sundae (kaszanką) 📅 **Dzień 1 (11 sie)**
+- [★★★★☆ 🍜🍺 7.8 Euljiro (7.8 을지로)](https://www.google.com/maps/search/7.8+Euljiro+Seoul) [N](https://naver.me/GUTlEBfY) — **Makgeolli-bar (술집) w retro-industrialnym Euljiro**, Jugyo-dong 58-11 (Jung-gu), okolice Euljiro 4-ga; notowany w DiningCode. Klimat starych warsztatowych oficyn, do makgeolli sensowne anju. ✅ **Widziane: Dzień 6 (16 sie) — 5,5/6.** 📅 **Dzień 6 (16 sie)**
 - [★★☆☆☆ 🍜🍺 Euljiro Nogari Alley](https://www.google.com/maps/search/Euljiro+Nogari+Alley+Seoul) [N](https://map.naver.com/p/search/을지로%20노가리골목) — Retro uliczka pubów; suszony mintaj do taniego piwa 📅 *blisko: Dzień 6 (16 sie)*
 
 #### Deserty i lody
