@@ -5,8 +5,8 @@ Gyeongbokgung zamknięty we wt. — brak konfliktu.
 <span style="color:red">⚖️ **DECYZJA DO PODJĘCIA — poranek 18 sie: Seongsu czy Jongno?**</span>
 **Kukje Gallery (★★★★☆) i Museum Hanmi (★★★★☆) przepadły 16 sie** — oba były zamknięte przez długi weekend Gwangbokjeol. Wtorek jest **ostatnią szansą**: Museum Hanmi jest czynne wt.–niedz., Kukje pon.–sob., oba ~15 min od Seoul Station.
 
-- **Opcja A — zostaje jak jest:** Seoul Forest → **D Museum** (11:00) → Starfield/COEX → Seoul Station. ⚠️ Program D Museum na sie. 2026 **niepotwierdzony**, a muzeum bywa zamknięte między wystawami.
-- **Opcja B — zamiana na Jongno:** **Kukje 10:00–11:00 → Museum Hanmi 11:15–12:45 → Seoul Station 13:15 → KTX 14:00.** Kosztem całego bloku Seongsu/COEX (D Museum, Seoul Forest, Starfield). Dwa pewne ★★★★☆ zamiast jednego niepewnego, a Museum Hanmi to muzeum fotografii z samego szczytu priorytetów.
+- **Opcja A — zostaje jak jest:** Seoul Forest → **D Museum** (11:00) → Starfield → Seoul Station. ⚠️ Program na sie. 2026 **niepotwierdzony**, a muzeum bywa zamknięte między wystawami. <span style="color:red">⚠️ **Nadal NIEZALICZONE — 16 sie zabrakło 5 minut do ostatniego wejścia.** D Museum otwiera **dopiero 11:00** (najpóźniej z całej trójki), więc na ten poranek zostaje wąskie okno przed KTX.</span>
+- **Opcja B — zamiana na Jongno:** **Kukje 10:00–11:00 → Museum Hanmi 11:15–12:45 → Seoul Station 13:15 → KTX 14:00.** Kosztem całego bloku Seongsu/COEX (D Museum, Seoul Forest, Starfield). Dwa pewne ★★★★☆ zamiast jednego niepewnego, a Museum Hanmi to muzeum fotografii z samego szczytu priorytetów — a fotografia dała wam jedyną **6/6** wyjazdu. **Kukje otwiera 10:00, Hanmi 10:00** — czyli start godzinę wcześniej niż D Museum i większy luz przed pociągiem. **Wtorek to zwykły dzień roboczy, więc świąteczne zamknięcia z 15–17 sie już nie obowiązują.**
 
 **Nic nie jest jeszcze przestawione — harmonogram niżej to wciąż Opcja A.** Powiedzcie, którą bierzemy, a przebuduję.
 
