@@ -1,7 +1,7 @@
 # Aug 16 (Sun) — Photo SeMA (Martin Parr) + Jongno nadrobione z 12 sie + Myeongdong i Namsan wieczorem
-> Badges: pass:Aktywuj Discover Seoul Pass 48 h; closed:Kukje w niedz. tylko do 17:00; closed:Museum Hanmi — ostatnie wejście 17:00
+> Badges: closed:Bez Discover Seoul Pass — płacimy pojedynczo; closed:Kukje w niedz. tylko do 17:00; closed:Museum Hanmi — ostatnie wejście 17:00
 
-**Aktywuj dziś Discover Seoul Pass 48 h** (obejmuje Namsan Tower + Lotte World jutro).
+<span style="color:red">❌ **DECYZJA (16 sie): NIE kupujemy Discover Seoul Pass.** Po skreśleniu COEX Aquarium bilans spadł do ~+5,000 KRW na dorosłego — za mało, żeby wiązać się z zegarem 48 h. **Wszystko płacimy pojedynczo.**</span>
 
 **Transport:** Rano **L4 z DDP na północ do Chang-dong** (~35 min) na Photo SeMA, potem **L1 wprost w dół do Jongno 3-ga** (~30 min). Dalej cały blok Jongno pieszo w jednym ciągu (Jongmyo → Changdeokgung → lunch w Samcheong-dong → Kukje → Museum Hanmi → Insadong), wieczorem jeden przeskok Anguk → Myeongdong i kolejka linowa na Namsan po ciemku. Wokół Namsan pagórkowato — nie na rower.
 
@@ -43,7 +43,7 @@
 | 19:55 | **⚖️ Wybierz jedno — wjazd na Namsan.** O tej porze kolejka to oczywisty wybór. |  |
 |  | **Opcja A ·** **[★★★☆☆ 🚡🗼 Namsan Cable Car](https://www.google.com/maps/search/Namsan+Cable+Car+Seoul) [N](https://map.naver.com/p/search/남산케이블카)** — Jeździ ~10:00–23:00; bilet w obie strony. | ~15,000 KRW dorosły / 11,500 KRW dziecko (nie w passie) |
 |  | **Opcja B ·** Wejście pieszo na **Namsan Mountain** — po całym dniu na nogach realne tylko dla najbardziej chętnych. |  |
-| 20:25 | **[★★★★★ 🗼🧒🎫 N Seoul Tower](https://www.google.com/maps/search/Namsan+Tower+Seoul) [N](https://map.naver.com/p/search/N서울타워)** — **Wersja nocna:** obserwatorium w niedz./święta 10:00–23:00 (ostatnie wejście 22:30), taras z zamkami miłości. Zachód słońca ok. 19:25, więc o 20:15 miasto jest już w pełni w światłach — lepszy widok niż w dzień. Bezpłatne z Discover Seoul Pass. | Pass, inaczej 21,000 KRW dorosły / 16,000 KRW dziecko (≤12); 15-latek jako dorosły |
+| 20:25 | **[★★★★★ 🗼🧒🎫 N Seoul Tower](https://www.google.com/maps/search/Namsan+Tower+Seoul) [N](https://map.naver.com/p/search/N서울타워)** — **Wersja nocna:** obserwatorium w niedz./święta 10:00–23:00 (ostatnie wejście 22:30), taras z zamkami miłości. Zachód słońca ok. 19:25, więc o 20:15 miasto jest już w pełni w światłach — lepszy widok niż w dzień. Bez passa **płacicie w kasie**. | 21,000 KRW dorosły / 16,000 KRW dziecko (≤12); 15-latek jako dorosły |
 | 21:45 | Zjazd i desery w Myeongdong: [★★☆☆☆ ☕ SOFTREE](https://www.google.com/maps/search/SOFTREE+Myeongdong+Seoul) [N](https://map.naver.com/p/search/소프트리%20명동) (❓ filia w Myeongdong NIEPOTWIERDZONA; potwierdzone to Hongdae/Garosugil/Lotte World Mall), tanghulu i Dragon's Beard Candy z budek. ⚠️ Budki nocnego targu działają do 23:00, więc desery łapiecie i po zjeździe. |  |
 ---
 

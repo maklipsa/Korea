@@ -17,7 +17,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 - [ ] **Nocleg w Busan: 3 noce, nie 2** (18/19/20 sie) — po przesunięciu lotu dochodzi noc z 20 na 21 sie. Sprawdźcie, czy rezerwacja to obejmuje.
 - [ ] **Nocleg w Taipei: 8 nocy** (21–28 sie) zamiast 9 — pierwsza noc przesunięta z 20 na 21 sie.
 - [ ] Warsztat lepienia eomuk w **Samjin Amook** (20 sie, Yeongdo) — wymaga rezerwacji z wyprzedzeniem; bez niej zostaje samo muzeum + sklep.
-- [ ] 🔴 **Bilety do Lotte World (17 sie) — KUPIĆ PRZEZ KANAŁ DLA OBCOKRAJOWCÓW.** Koreańska aplikacja i strona pokazują „brak biletów" na każdą datę; to **nie wyprzedanie** — park jest otwarty codziennie (연중무휴). **Przyczyny nie ustaliliśmy** (nie chodzi o narodowość — kalendarz jest pusty, zanim cokolwiek o nią zapyta). ⚠️ Oficjalny sklep stoi na **osobnej domenie mticket.lotteworld.com**, nie na adventure.lotteworld.com. Sprzedają też: **Klook / Trazy / Trip.com / MyRealTrip / Interpark(NOL) / Creatrip / Seoul Travel Pass**. ✅ **Dorośli mają wstęp w Discover Seoul Pass — dokupić tylko dzieciom.** Online ~39,200 vs ~64,000 w kasie; kasa czynna 10:00–18:00, w święto bilety mogą się skończyć.
+- [ ] 🔴 **Bilety do Lotte World (17 sie) — KUPIĆ PRZEZ KANAŁ DLA OBCOKRAJOWCÓW.** Koreańska aplikacja i strona pokazują „brak biletów" na każdą datę; to **nie wyprzedanie** — park jest otwarty codziennie (연중무휴). **Przyczyny nie ustaliliśmy** (nie chodzi o narodowość — kalendarz jest pusty, zanim cokolwiek o nią zapyta). ⚠️ Oficjalny sklep stoi na **osobnej domenie mticket.lotteworld.com**, nie na adventure.lotteworld.com. Sprzedają też: **Klook / Trazy / Trip.com / MyRealTrip / Interpark(NOL) / Creatrip / Seoul Travel Pass**. ⚠️ **Bez passa — bilety dla całej szóstki.** Online ~39,200 vs ~64,000 w kasie; kasa czynna 10:00–18:00, w święto bilety mogą się skończyć.
 
 ### Rezerwuj jak najszybciej (bilety puszczane w konkretnym terminie)
 - [ ] Haeundae Blueline Park Sky Capsule (19 sie) — bilety na godziny, **rezerwacja z góry konieczna**. Rezerwacje otwierają się we **wtorek** przed datą przejazdu; źródła nie są zgodne co do dokładnego wyprzedzenia (≈2–4 tygodnie), więc **sprawdzaj [bluelinepark.com](https://www.bluelinepark.com) / Klook już teraz i rezerwuj w chwili, gdy pojawi się 19 sie**. W sierpniu wyprzedaje się w kilka minut; w dzień powszedni jest łatwiej.
@@ -34,7 +34,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 - [ ] **EasyCard** (Tajwan) — dowolny sklep całodobowy lub stacja MRT na lotnisku Taoyuan. Na start doładuj ~NT$500.
 
 ### Passy do kupienia (szczegóły w [passes.md](passes.md))
-- [ ] **Discover Seoul Pass 48h** (69,000 KRW) — aktywuj 16 sie
+- [x] ~~**Discover Seoul Pass 48h** (69,000 KRW)~~ — ❌ **NIE kupujemy (decyzja 16 sie):** po skreśleniu COEX Aquarium zysk spadł do ~+5,000 KRW/dorosłego, za mało wobec presji zegara 48 h. Wszystko płacone pojedynczo.
 - [ ] **Visit Busan Pass — NIE bierzcie wersji 24 h** (55,000 KRW): przy dwóch dniach w Busan (19 + 20 sie) jej ruchome okno nie obejmie obu. Jeśli w ogóle kupujecie pass, to **BIG3 (45,000) albo BIG5 (65,000)** — nie mają zegara (180 dni), więc spinają oba dni. Rachunek w [cards/busan.md](cards/busan.md).
 - [ ] **Taipei Fun Pass Unlimited 2-day** (~NT$1,700) — aktywuj **22 sie** (nie 21 sie: 21 sie to dzień przelotu, w miasto wchodzicie ~12:15 i nie wchodzicie do żadnej płatnej atrakcji, więc odbicie passu spaliłoby połowę jego ważności)
 - [ ] **Taiwan HSR Flexible 2-day Pass** (NT$2,500) — na **26 sie + 28 sie**

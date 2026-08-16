@@ -1,5 +1,9 @@
 # Seoul — karty zniżkowe (Discover Seoul Pass)
 
+<span style="color:red">❌ **DECYZJA (16 sie): NIE kupujemy Discover Seoul Pass.** Po skreśleniu COEX Aquarium bilans spadł do ~+5,000 KRW na dorosłego — za mało, żeby wiązać się z zegarem 48 h. **Wszystko płacimy pojedynczo.**</span>
+
+Analiza niżej zostaje jako zapis rozumowania — to ona doprowadziła do tej decyzji.
+
 **Cel tego pliku:** zebrać karty zniżkowe dostępne w Seoulu, zestawić je z atrakcjami, które *faktycznie zwiedzamy* (11–18 sie), policzyć, czy każda się opłaca, i zdecydować, **którą kartę, dla kogo i na jak długo** kupić.
 
 > **TL;DR** — <span style="color:red">⚠️ **COEX Aquarium zostało skreślone z planu (16 sie), więc wariant „+33,000" jest już nieaktualny.**</span> Realny bilans **Discover Seoul Pass 48h dla dorosłego to ≈ +5,000 KRW** — pass wychodzi na lekki plus na samym łańcuchu **N Seoul Tower (16 sie) + Lotte World (17 sie)**, i tyle. Nie jest stratą, ale i nie jest już „wyraźnym zyskiem". Dla dzieci wychodzi **od zera do straty** (nie ma zniżki dla dzieci), więc **nie kupujcie go dla 9- i 11-latka** — zamiast tego kupcie im zniżkowe pojedyncze bilety do Lotte World + N Seoul Tower. Dla 15-latka to rzut monetą: kupujcie tylko, jeśli COEX jest potwierdzony.
