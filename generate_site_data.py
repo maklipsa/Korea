@@ -96,7 +96,13 @@ def _case_subword(word: str, is_first: bool) -> str:
         return word
     if core.lower() in SMALL_WORDS and not is_first:
         return word.lower()
-    return word.capitalize()
+    # Capitalize the first LETTER, not str.capitalize(): capitalize() uppercases
+    # index 0 only, so a word starting with punctuation — "(D" in
+    # "(D Museum + Kukje ...)" — came out as "(d".
+    for i, ch in enumerate(word):
+        if ch.isalpha():
+            return word[:i] + ch.upper() + word[i + 1:].lower()
+    return word
 
 
 def smart_title(text: str) -> str:

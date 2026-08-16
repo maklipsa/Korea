@@ -23,7 +23,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 - [ ] Haeundae Blueline Park Sky Capsule (19 sie) — bilety na godziny, **rezerwacja z góry konieczna**. Rezerwacje otwierają się we **wtorek** przed datą przejazdu; źródła nie są zgodne co do dokładnego wyprzedzenia (≈2–4 tygodnie), więc **sprawdzaj [bluelinepark.com](https://www.bluelinepark.com) / Klook już teraz i rezerwuj w chwili, gdy pojawi się 19 sie**. W sierpniu wyprzedaje się w kilka minut; w dzień powszedni jest łatwiej.
 
 ### Kup przed wyjazdem
-- [ ] KTX Seoul → Busan (18 sie, ~14:00) — **nie jest pilne**: ~69 pociągów dziennie, jeden co 20–40 min, a 18 sie to zwykły wtorek (bez święta), więc realnie nie ma ryzyka wyprzedania. Zarezerwuj kilka dni wcześniej na [letskorail.com](https://www.letskorail.com) / w aplikacji Korail — głównie po to, by zablokować **6 miejsc razem** w pociągu ~14:00; kupno na dworcu w dniu wyjazdu to dobra opcja awaryjna, jeśli godzina odjazdu jest elastyczna. Klasa standard ~59,800 KRW/dorosły (dziecko 4–12 lat ~50% taniej). Rezerwuj tygodnie wcześniej tylko wtedy, gdy data przesunie się na pt./weekend albo blisko święta.
+- [ ] KTX Seoul → Busan (18 sie, **~16:00 — przesunięty z 14:00, żeby zmieścić trzy muzea**) — **nie jest pilne**: ~69 pociągów dziennie, jeden co 20–40 min, a 18 sie to zwykły wtorek (bez święta), więc realnie nie ma ryzyka wyprzedania. Zarezerwuj kilka dni wcześniej na [letskorail.com](https://www.letskorail.com) / w aplikacji Korail — głównie po to, by zablokować **6 miejsc razem** w pociągu ~14:00; kupno na dworcu w dniu wyjazdu to dobra opcja awaryjna, jeśli godzina odjazdu jest elastyczna. Klasa standard ~59,800 KRW/dorosły (dziecko 4–12 lat ~50% taniej). Rezerwuj tygodnie wcześniej tylko wtedy, gdy data przesunie się na pt./weekend albo blisko święta.
 - [ ] **eSIM** — Airalo, Saily lub Holafly. Wybierz plan obejmujący jednocześnie Koreę I Tajwan albo kup dwa osobne. Holafly ma nielimitowane dane ~$19-47 zależnie od długości.
 - [x] **Ubezpieczenie podróżne** — sierpień = sezon tajfunów na Tajwanie. Bardzo zalecane.
 - [ ] **K-ETA** (zezwolenie na wjazd do Korei) — sprawdź na [k-eta.go.kr](https://www.k-eta.go.kr), czy tymczasowe zwolnienie dla Twojego paszportu obowiązuje jeszcze w 2026. Jeśli nie ma zwolnienia, złóż wniosek ≥72 h przed wylotem.
@@ -52,7 +52,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 | 5 | 15 sie (sob) | Dzień Wyzwolenia: Nami Island + Gapyeong (zip-line, prom do świątyni nad jeziorem Soyang) | [aug-15-nami-island.md](days/aug-15-nami-island.md) |
 | 6 | 16 sie (niedz) | **Photo SeMA (Martin Parr) o 10:00** → Jongno nadrobione z 12 sie (Jongmyo + Changdeokgung + Kukje + Museum Hanmi + Insadong) → Myeongdong i N Seoul Tower po ciemku | [aug-16-myeongdong-namsan.md](days/aug-16-myeongdong-namsan.md) |
 | 7 | 17 sie (pon) | Lotte World + Seoul Sky + Songnidan-gil | [aug-17-lotte-world.md](days/aug-17-lotte-world.md) |
-| 8 | 18 sie (wt) | Seoul Forest + Seongsu (D Museum) + COEX → KTX do Busan | [aug-18-seoul-to-busan.md](days/aug-18-seoul-to-busan.md) |
+| 8 | 18 sie (wt) | **Trzy muzea: D Museum + Kukje + Museum Hanmi** → **KTX 16:00** do Busan (wieczór w Busan krótszy) | [aug-18-seoul-to-busan.md](days/aug-18-seoul-to-busan.md) |
 | 9 | 19 sie (śr) | Cały dzień w Busan (świątynia, Gamcheon, Jagalchi, targi) | [aug-19-busan.md](days/aug-19-busan.md) |
 | 10 | 20 sie (czw) | Busan dzień 2: Yeongdo + oś sztuki (GoEun, BMA) + Songdo/Gwangalli | [aug-20-busan-day2.md](days/aug-20-busan-day2.md) |
 

@@ -141,7 +141,7 @@ Zakupy, street food, widoki na miasto i ukryte retro bary.
 - [★★☆☆☆ 🛍️ Dongdaemun Shopping Complex](https://www.google.com/maps/search/Dongdaemun+Shopping+Complex+Seoul) [N](https://map.naver.com/p/search/동대문종합시장) — Tkaniny, jedwab, koraliki, guziki, hafty; zakupy przez całą dobę 📅 *blisko: Dzień 6 (16 sie)*
 
 #### Nocne targi
-- ★★★☆☆ 🏮 Nocny targ w Myeongdong — 100-150+ straganów z jedzeniem codziennie wieczorem 16:00–23:00; ogon homara z serem, grillowana kałamarnica, egg bread
+- [★★★☆☆ 🏮 Nocny targ w Myeongdong (Myeongdong Night Market)](https://www.google.com/maps/search/Myeongdong+Night+Market+Seoul) [N](https://map.naver.com/p/search/명동거리) — 100-150+ straganów z jedzeniem codziennie wieczorem 16:00–23:00. ⚠️ **Nie jest to osobny obiekt** — stragany rozstawiają się wzdłuż **Myeongdong-gil i sąsiednich uliczek**, dlatego link Navera prowadzi na **명동거리 (ulicę)**, a nie na „targ"; ogon homara z serem, grillowana kałamarnica, egg bread 📅 **Dzień 6 (16 sie)**
 - [★★★★★ 🍜🛍️ Gwangjang Market](https://www.google.com/maps/search/Gwangjang+Market+Seoul) [N](https://map.naver.com/p/search/광장시장) — Patrz wyżej (graniczy z Dongdaemun) ✅ **Widziane: Dzień 1 (11 sie) — 4/6** 📅 **Dzień 1 (11 sie)**
 
 #### Dla dzieci
@@ -253,9 +253,9 @@ Międzynarodowy klimat, bezpłatne muzea światowej klasy, klimatyczne uliczki n
 Nowoczesny Seoul, centra handlowe z kontenerów, dziwaczne serniki i przebudowane magazyny.
 
 #### Zabytki
-- [★★★☆☆ 📸 Starfield Library (COEX Mall)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) [N](https://map.naver.com/p/search/별마당도서관) — Ogromne regały z książkami; bezpłatnie 📅 **Dzień 8 (18 sie)**
-- [★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul) [N](https://map.naver.com/p/search/봉은사) — Duża świątynia buddyjska naprzeciwko COEX; spokój wśród wieżowców 📅 **Dzień 8 (18 sie)**
-- [★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul) [N](https://map.naver.com/p/search/커먼그라운드) — Pierwsze w Korei Południowej centrum handlowe z kontenerów morskich (Seongsu) 📅 **Dzień 8 (18 sie)**
+- [★★★☆☆ 📸 Starfield Library (COEX Mall)](https://www.google.com/maps/search/Starfield+Library+COEX+Seoul) [N](https://map.naver.com/p/search/별마당도서관) — Ogromne regały z książkami; bezpłatnie
+- [★★★☆☆ 🏯 Bongeunsa Temple](https://www.google.com/maps/search/Bongeunsa+Temple+Seoul) [N](https://map.naver.com/p/search/봉은사) — Duża świątynia buddyjska naprzeciwko COEX; spokój wśród wieżowców
+- [★★☆☆☆ 🛍️ Common Ground](https://www.google.com/maps/search/Common+Ground+Seoul) [N](https://map.naver.com/p/search/커먼그라운드) — Pierwsze w Korei Południowej centrum handlowe z kontenerów morskich (Seongsu)
 - [★★★☆☆ 🏯🎫 Seonjeongneung Royal Tombs](https://www.google.com/maps/search/Seonjeongneung+Royal+Tombs+Seoul) [N](https://map.naver.com/p/search/선정릉) — Królewskie grobowce dynastii Joseon (UNESCO) w środku Gangnamu 📅 *blisko: Dzień 8 (18 sie)*
 
 #### Parki
@@ -281,7 +281,7 @@ Nowoczesny Seoul, centra handlowe z kontenerów, dziwaczne serniki i przebudowan
 
 #### Zakupy
 - [★★★☆☆ 🛍️ Garosugil (Sinsa-dong)](https://www.google.com/maps/search/Garosugil+Seoul) [N](https://map.naver.com/p/search/가로수길) — Obsadzona drzewami ulica z butikami projektantów, niezależnymi sklepami i pracowniami artystycznymi
-- [★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul) [N](https://map.naver.com/p/search/올리브영%20N%20성수) — Pięciopiętrowy flagowy sklep z kosmetykami K-beauty 📅 **Dzień 8 (18 sie)**
+- [★★☆☆☆ 🛍️ Olive Young N Seongsu](https://www.google.com/maps/search/Olive+Young+Seongsu+Seoul) [N](https://map.naver.com/p/search/올리브영%20N%20성수) — Pięciopiętrowy flagowy sklep z kosmetykami K-beauty
 - [★★★☆☆ 🛍️ COEX Mall](https://www.google.com/maps/search/COEX+Mall+Seoul) [N](https://map.naver.com/p/search/코엑스몰) — Podziemne megacentrum handlowe
 
 #### Dla dzieci
@@ -496,8 +496,8 @@ Druga, bardziej niszowa runda — galerie, dodatkowe góry, wyspecjalizowane uli
 - [★★★★☆ 🏛️🎨 Culture Station Seoul 284](https://www.google.com/maps/search/Culture+Station+Seoul+284) [N](https://map.naver.com/p/search/문화역서울284) — Stary dworzec Seoul Station z 1925 r. odrestaurowany jako bezpłatna przestrzeń kultury ze zmiennymi wystawami sztuki i designu; duża wystawa kolejowa KORAIL trwa do 17 sie. 2026. ~wt.–niedz. 10:00–19:00, zamknięte w pon.; bezpłatnie (część wystaw płatna). Przy Seoul Station.
 
 #### C. Sztuka
-- [★★★★☆ 📷🏛️ Museum Hanmi (Samcheong)](https://www.google.com/maps/search/Museum+Hanmi+Samcheong+Seoul) [N](https://map.naver.com/p/search/뮤지엄한미%20삼청) — Pierwsze w Korei **muzeum fotografii artystycznej** (zał. 2003); prawdziwa galeria fotografii w efektownym budynku w Samcheong-dong, kilka kroków od Kukje/MMCA. Wt.–niedz. 10:00–18:00 (ostatnie wejście ~17:00), zamknięte w pon. <span style="color:red">⚠️ **BYŁO ZAMKNIĘTE w niedz. 16 sie 2026** — długi weekend Gwangbokjeol. Grafik „wt.–niedz." nie obowiązuje w weekend świąteczny; potwierdzaj w dniu wizyty.</span> 🚫 **ZAMKNIĘTE: Dzień 6 (16 sie)**; dorośli 15,000 / młodzież 7–18 lat 7,500 wonów. 📅 *blisko: Dzień 8 (18 sie)*
-- [★★★★☆ 🏛️🎨 Kukje Gallery](https://www.google.com/maps/search/Kukje+Gallery+Seoul) [N](https://map.naver.com/p/search/국제갤러리) — Czołowa galeria sztuki współczesnej w Seoulu (od 1982), Sogyeok-dong blisko Gyeongbokgung; budynki K1/K2/K3 + ogród rzeźby, bezpłatnie, wystawy na światowym poziomie. Pon.–sob. 10:00–18:00, niedz. 10:00–17:00. <span style="color:red">⚠️ **BYŁO ZAMKNIĘTE w niedz. 16 sie 2026** — długi weekend Gwangbokjeol (15 sie sob. + zastępcze święto pon. 17 sie). Podane godziny niedzielne NIE obowiązują w święta i w weekend świąteczny — dzwoń albo sprawdź Naver tego samego dnia.</span> 🚫 **ZAMKNIĘTE: Dzień 6 (16 sie)** 📅 *blisko: Dzień 8 (18 sie)*
+- [★★★★☆ 📷🏛️ Museum Hanmi (Samcheong)](https://www.google.com/maps/search/Museum+Hanmi+Samcheong+Seoul) [N](https://map.naver.com/p/search/뮤지엄한미%20삼청) — Pierwsze w Korei **muzeum fotografii artystycznej** (zał. 2003); prawdziwa galeria fotografii w efektownym budynku w Samcheong-dong, kilka kroków od Kukje/MMCA. Wt.–niedz. 10:00–18:00 (ostatnie wejście ~17:00), zamknięte w pon. <span style="color:red">⚠️ **BYŁO ZAMKNIĘTE w niedz. 16 sie 2026** — długi weekend Gwangbokjeol. Grafik „wt.–niedz." nie obowiązuje w weekend świąteczny; potwierdzaj w dniu wizyty.</span> 🚫 **ZAMKNIĘTE: Dzień 6 (16 sie)**; dorośli 15,000 / młodzież 7–18 lat 7,500 wonów. 📅 **Dzień 8 (18 sie)**
+- [★★★★☆ 🏛️🎨 Kukje Gallery](https://www.google.com/maps/search/Kukje+Gallery+Seoul) [N](https://map.naver.com/p/search/국제갤러리) — Czołowa galeria sztuki współczesnej w Seoulu (od 1982), Sogyeok-dong blisko Gyeongbokgung; budynki K1/K2/K3 + ogród rzeźby, bezpłatnie, wystawy na światowym poziomie. Pon.–sob. 10:00–18:00, niedz. 10:00–17:00. <span style="color:red">⚠️ **BYŁO ZAMKNIĘTE w niedz. 16 sie 2026** — długi weekend Gwangbokjeol (15 sie sob. + zastępcze święto pon. 17 sie). Podane godziny niedzielne NIE obowiązują w święta i w weekend świąteczny — dzwoń albo sprawdź Naver tego samego dnia.</span> 🚫 **ZAMKNIĘTE: Dzień 6 (16 sie)** 📅 **Dzień 8 (18 sie)**
 - [★★★★☆ 🏛️🎨 PKM Gallery](https://www.google.com/maps/search/PKM+Gallery+Seoul) [N](https://map.naver.com/p/search/PKM갤러리) — Wpływowa galeria koreańskich artystów, kilka kroków od Kukje w skupisku Samcheong. Bezpłatnie.
 - [★★★★☆ 🏛️🎨 Hakgojae Gallery](https://www.google.com/maps/search/Hakgojae+Gallery+Seoul) [N](https://map.naver.com/p/search/학고재갤러리) — Koreańska sztuka na styku tradycji i współczesności, Samcheong-ro. Wt.–sob. 10:00–18:00, bezpłatnie.
 - [★★★★☆ 🏛️🎨 Gana Art Center](https://www.google.com/maps/search/Gana+Art+Center+Seoul) [N](https://map.naver.com/p/search/가나아트센터) — Duża galeria (od 1983) u podnóża Bukhansan, Pyeongchang-dong. Wt.–niedz. 10:00–19:00, zamknięte w pon., bezpłatnie.
@@ -662,11 +662,11 @@ Pogrupowane według dzielnic.
 ### Dzielnica Haeundae
 
 #### Zabytki i punkty widokowe
-- [★★★★☆ 🌳 Haeundae Beach](https://www.google.com/maps/search/Haeundae+Beach+Busan) [N](https://map.naver.com/p/search/해운대해수욕장) — Najbardziej ikoniczna plaża Busan: 1,5 km białego piasku 📅 **Dzień 8 (18 sie)**
+- [★★★★☆ 🌳 Haeundae Beach](https://www.google.com/maps/search/Haeundae+Beach+Busan) [N](https://map.naver.com/p/search/해운대해수욕장) — Najbardziej ikoniczna plaża Busan: 1,5 km białego piasku
 - [★★★★★ 🏯 Haedong Yonggungsa Temple](https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan) [N](https://map.naver.com/p/search/해동용궁사) — Świątynia nad oceanem zbudowana w 1376 r.; dojście po 108 kamiennych stopniach w dół; najlepiej o wschodzie słońca; wstęp wolny 📅 **Dzień 9 (19 sie)**
-- [★★★☆☆ 🌳 Dongbaekseom (Dongbaek Island)](https://www.google.com/maps/search/Dongbaekseom+Busan) [N](https://map.naver.com/p/search/동백섬) — Nadmorska ścieżka od Haeundae Beach; APEC Nurimaru House; wstęp wolny 📅 **Dzień 8 (18 sie)**
+- [★★★☆☆ 🌳 Dongbaekseom (Dongbaek Island)](https://www.google.com/maps/search/Dongbaekseom+Busan) [N](https://map.naver.com/p/search/동백섬) — Nadmorska ścieżka od Haeundae Beach; APEC Nurimaru House; wstęp wolny
 - [★★★★☆ 🗼 Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) [N](https://map.naver.com/p/search/부산엑스더스카이) — Taras widokowy na 98.–100. piętrze LCT Tower; także najwyższy Starbucks na świecie 📅 **Dzień 8 (18 sie)** · *blisko: Dni 10, 11 (20, 21 sie)*
-- [★★★☆☆ 🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan) [N](https://map.naver.com/p/search/달맞이고개) — „Wzgórze Księżycowe"; galerie sztuki, kawiarnie, wiśnie; świetne widoki na zachód słońca 📅 **Dni 8, 10 (18, 20 sie)**
+- [★★★☆☆ 🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan) [N](https://map.naver.com/p/search/달맞이고개) — „Wzgórze Księżycowe"; galerie sztuki, kawiarnie, wiśnie; świetne widoki na zachód słońca 📅 **Dzień 10 (20 sie)**
 
 #### Sztuka i fotografia
 - [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) [N](https://map.naver.com/p/search/고은사진미술관) — Jedyne w Busan **muzeum fotografii artystycznej** (Haeundae, blisko plaży); prawdziwa galeria fotografii. **Wstęp wolny**; 10:00–18:00, **zamknięte w pon.** ⏰ Otwiera o 10:00 — w napiętym dniu 19 sie konkuruje z porankiem w Haeundae; naturalna wymiana to odpuszczenie płatnego przejazdu Sky Capsule na rzecz muzeum. 📅 **Dzień 10 (20 sie)** · *blisko: Dzień 9 (19 sie)*
