@@ -1222,7 +1222,7 @@ const DAYS = [
     "schedule": [
       {
         "time": "10:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Lotte+World+Adventure+Seoul\" target=\"_blank\">★★★★★ 🎡🧒🎫 Lotte World Adventure</a> <a href=\"https://map.naver.com/p/search/롯데월드\" target=\"_blank\">N</a></strong> — Zacznij od części zadaszonej (największy park pod dachem na świecie — świetny na sierpniowy upał!). Potem atrakcje na zewnątrz.",
+        "activity": "<span style=\"color:red\">⚠️ <strong>BILETY: koreańska aplikacja/strona pokazuje „brak biletów\" na KAŻDĄ datę — to NIE jest wyprzedanie.</strong> Park działa <strong>연중무휴, bez dni zamkniętych</strong>, w pon. 10:00–21:00. Koreańskie kanały sprzedaży wymagają <strong>본인인증 (weryfikacji koreańskim dowodem) i koreańskiej karty</strong>, więc obcokrajowcom nie renderuje się żaden termin. <strong>Kupujcie kanałami dla obcokrajowców: <a href=\"https://www.klook.com/activity/251-lotte-world-seoul/\" target=\"_blank\">Klook</a>, <a href=\"https://www.trazy.com/experience/detail/lotte-world-seoul-discount-ticket\" target=\"_blank\">Trazy</a>, <a href=\"https://creatrip.com/en/blog/4515\" target=\"_blank\">Creatrip</a> albo <a href=\"https://www.seoultravelpass.com/en/products/41-lotte-world-lotte-world-aquarium-day-pass-foreigners-only\" target=\"_blank\">Seoul Travel Pass „Foreigners ONLY\"</a>.</strong> ✅ <strong>3 dorosłych ma wstęp w Discover Seoul Pass</strong> — bilety trzeba dokupić tylko dzieciom. Kasa na miejscu działa (10:00–18:00), ale <strong>~64,000 zamiast ~39,200 online</strong> i w święto może zabraknąć.</span> <strong><a href=\"https://www.google.com/maps/search/Lotte+World+Adventure+Seoul\" target=\"_blank\">★★★★★ 🎡🧒🎫 Lotte World Adventure</a> <a href=\"https://map.naver.com/p/search/롯데월드\" target=\"_blank\">N</a></strong> — Zacznij od części zadaszonej (największy park pod dachem na świecie — świetny na sierpniowy upał!). Potem atrakcje na zewnątrz.",
         "price": "DSP obejmuje, inaczej w kasie: dziecko 50k / młodzież(13-18) 58k / dorosły 67k KRW"
       },
       {
@@ -3323,9 +3323,9 @@ const CHECKLIST = [
     "text": "Warsztat lepienia eomuk w <strong>Samjin Amook</strong> (20 sie, Yeongdo) — wymaga rezerwacji z wyprzedzeniem; bez niej zostaje samo muzeum + sklep."
   },
   {
-    "id": "bilety-do-everland-lub-lotte-world",
+    "id": "bilety-do-lotte-world-17-sie",
     "category": "Rezerwuj 2-4 tygodnie wcześniej",
-    "text": "Bilety do Everland lub Lotte World online (17 sie) — 10-20% taniej niż w kasie na miejscu."
+    "text": "🔴 <strong>Bilety do Lotte World (17 sie) — KUPIĆ PRZEZ KANAŁ DLA OBCOKRAJOWCÓW.</strong> Koreańska aplikacja i strona pokazują „brak biletów\" na każdą datę; to <strong>nie wyprzedanie</strong> — park jest otwarty codziennie (연중무휴), a koreańska sprzedaż wymaga 본인인증 i koreańskiej karty. Działają: <strong>Klook / Trazy / Creatrip / Seoul Travel Pass (Foreigners ONLY)</strong>. ✅ <strong>Dorośli mają wstęp w Discover Seoul Pass — dokupić tylko dzieciom.</strong> Online ~39,200 vs ~64,000 w kasie; kasa czynna 10:00–18:00, w święto bilety mogą się skończyć."
   },
   {
     "id": "haeundae-blueline-park-sky-capsule-19",
