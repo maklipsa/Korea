@@ -16,6 +16,8 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 
 **Rekreacja i transport:** 🚌 autobus turystyczny / lotniskowy · 🚴 miejskie rowery · ⛸️ lodowisko · ⚽ piłka nożna / stadion
 
+**Praktyczne ostrzeżenie:** 👔 **wymagany schludniejszy strój** — starsze, formalne lokale (białe obrusy, instytucje z tradycją, restauracje hotelowe). To **nie jest ocena jakości** — miejsce z 👔 może mieć ★★★★★. Chodzi o to, że po całym dniu marszu wchodzicie tam w sandałach i kapeluszach i czujecie się nie na miejscu. Takie miejsca planować **na lunch albo wcześnie**, nie na kolację po 25 tys. kroków.
+
 **Zakres passa:** 🎫 wstęp wolny z **Discover Seoul Pass** (tylko Seoul; ~75 atrakcji z bezpłatnym wejściem — czy pass się opłaca, patrz [cards/seoul.md](cards/seoul.md)). Oznacza wyłącznie bezpłatny *wstęp* — dodatki takie jak kolejka linowa na Namsan, zipline na Nami czy Secret Garden w Changdeokgung są nadal płatne.
 
 **Dziennik podróży:** 🚫 **ZAMKNIĘTE** — chcieliśmy, ale było zamknięte (i wtedy poprawiamy godziny w tym wpisie) · ✅ **Widziane** — byliśmy, z naszą oceną po fakcie **w skali 1–6, gdzie 6 = nadzwyczajne** (rezerwowane dla rzeczy, które wychodzą poza skalę; na razie jedno: Photo SeMA / Martin Parr) (np. `✅ **Widziane: Dzień 1 (11 sie) — 4/6**`) · ⏭️ **Pominięte** — było w planie dnia, ale odpuściliśmy. To osobna skala od gwiazdek ★ z przodu nazwy — te zostają, bo mówią, jak ważne było miejsce **przy planowaniu**.
@@ -125,7 +127,7 @@ Zakupy, street food, widoki na miasto i ukryte retro bary.
 
 #### Jedzenie (bez sieciówek)
 - [★★★☆☆ 🍜 Myeongdong Kyoja](https://www.google.com/maps/search/Myeongdong+Kyoja+Seoul) [N](https://map.naver.com/p/search/명동교자) — Od 1966; legendarne pierogi mandu i zupa z makaronem; Michelin Bib Gourmand 📅 **Dzień 6 (16 sie)**
-- [★★★☆☆ 🍜 Woo Lae Oak](https://www.google.com/maps/search/Woo+Lae+Oak+Seoul) [N](https://map.naver.com/p/search/우래옥) — Od 1946; słynny Pyongyang naengmyeon (zimny makaron gryczany) 📅 **Dzień 6 (16 sie)**
+- [★★★☆☆ 🍜👔 Woo Lae Oak](https://www.google.com/maps/search/Woo+Lae+Oak+Seoul) [N](https://map.naver.com/p/search/우래옥) — Od 1946; słynny Pyongyang naengmyeon (zimny makaron gryczany) 👔 **Formalna, starsza sala — wymaga schludniejszego stroju.** ✅ **Widziane: Dzień 6 (16 sie)** — jedzenie w porządku, ale **weszliśmy po całym dniu w sandałach i kapeluszach i nie pasowaliśmy do miejsca.** Planować na lunch, nie na kolację po całym dniu chodzenia. 📅 **Dzień 6 (16 sie)**
 - [★★☆☆☆ 🍜 Hadongkwan](https://www.google.com/maps/search/Hadongkwan+Seoul) [N](https://map.naver.com/p/search/하동관) — Od lat 30. XX w.; gomtang (zupa z kości wołowych) i suyuk (gotowana wołowina) 📅 *blisko: Dzień 6 (16 sie)*
 - [★★☆☆☆ 🍜 Namdaemun Specialty Hotteok](https://www.google.com/maps/search/Namdaemun+Hotteok+Seoul) [N](https://map.naver.com/p/search/남대문%20명물%20호떡) — Od 1998; hotteok w wersjach z miodem, japchae, kimchi i owocami morza
 - [★★★☆☆ 🍜 Sindang-dong Tteokbokki Town](https://www.google.com/maps/search/Sindang+Tteokbokki+Town+Seoul) [N](https://map.naver.com/p/search/신당동떡볶이타운) — Skupisko jadłodajni; legendarne tteokbokki z sundae (kaszanką) 📅 **Dzień 1 (11 sie)**
