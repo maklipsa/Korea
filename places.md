@@ -123,8 +123,8 @@ Zakupy, street food, widoki na miasto i ukryte retro bary.
 - [★★☆☆☆ ☕ Gonggan Gab](https://www.google.com/maps/search/Gonggan+Gab+Euljiro+Seoul) [N](https://map.naver.com/p/search/공간갑%20을지로) — Surowy beton; Vanilla Custard Pudding Bingsu; Mint Chocolate Basque Cheesecake 📅 *blisko: Dzień 6 (16 sie)*
 
 #### Jedzenie (bez sieciówek)
-- [★★★☆☆ 🍜 Myeongdong Kyoja](https://www.google.com/maps/search/Myeongdong+Kyoja+Seoul) [N](https://map.naver.com/p/search/명동교자) — Od 1966; legendarne pierogi mandu i zupa z makaronem; Michelin Bib Gourmand
-- [★★★☆☆ 🍜 Woo Lae Oak](https://www.google.com/maps/search/Woo+Lae+Oak+Seoul) [N](https://map.naver.com/p/search/우래옥) — Od 1946; słynny Pyongyang naengmyeon (zimny makaron gryczany) 📅 *blisko: Dzień 6 (16 sie)*
+- [★★★☆☆ 🍜 Myeongdong Kyoja](https://www.google.com/maps/search/Myeongdong+Kyoja+Seoul) [N](https://map.naver.com/p/search/명동교자) — Od 1966; legendarne pierogi mandu i zupa z makaronem; Michelin Bib Gourmand 📅 **Dzień 6 (16 sie)**
+- [★★★☆☆ 🍜 Woo Lae Oak](https://www.google.com/maps/search/Woo+Lae+Oak+Seoul) [N](https://map.naver.com/p/search/우래옥) — Od 1946; słynny Pyongyang naengmyeon (zimny makaron gryczany) 📅 **Dzień 6 (16 sie)**
 - [★★☆☆☆ 🍜 Hadongkwan](https://www.google.com/maps/search/Hadongkwan+Seoul) [N](https://map.naver.com/p/search/하동관) — Od lat 30. XX w.; gomtang (zupa z kości wołowych) i suyuk (gotowana wołowina) 📅 *blisko: Dzień 6 (16 sie)*
 - [★★☆☆☆ 🍜 Namdaemun Specialty Hotteok](https://www.google.com/maps/search/Namdaemun+Hotteok+Seoul) [N](https://map.naver.com/p/search/남대문%20명물%20호떡) — Od 1998; hotteok w wersjach z miodem, japchae, kimchi i owocami morza
 - [★★★☆☆ 🍜 Sindang-dong Tteokbokki Town](https://www.google.com/maps/search/Sindang+Tteokbokki+Town+Seoul) [N](https://map.naver.com/p/search/신당동떡볶이타운) — Skupisko jadłodajni; legendarne tteokbokki z sundae (kaszanką) 📅 **Dzień 1 (11 sie)**
