@@ -2,6 +2,14 @@
 
 Gyeongbokgung zamknięty we wt. — brak konfliktu.
 
+<span style="color:red">⚖️ **DECYZJA DO PODJĘCIA — poranek 18 sie: Seongsu czy Jongno?**</span>
+**Kukje Gallery (★★★★☆) i Museum Hanmi (★★★★☆) przepadły 16 sie** — oba były zamknięte przez długi weekend Gwangbokjeol. Wtorek jest **ostatnią szansą**: Museum Hanmi jest czynne wt.–niedz., Kukje pon.–sob., oba ~15 min od Seoul Station.
+
+- **Opcja A — zostaje jak jest:** Seoul Forest → **D Museum** (11:00) → Starfield/COEX → Seoul Station. ⚠️ Program D Museum na sie. 2026 **niepotwierdzony**, a muzeum bywa zamknięte między wystawami.
+- **Opcja B — zamiana na Jongno:** **Kukje 10:00–11:00 → Museum Hanmi 11:15–12:45 → Seoul Station 13:15 → KTX 14:00.** Kosztem całego bloku Seongsu/COEX (D Museum, Seoul Forest, Starfield). Dwa pewne ★★★★☆ zamiast jednego niepewnego, a Museum Hanmi to muzeum fotografii z samego szczytu priorytetów.
+
+**Nic nie jest jeszcze przestawione — harmonogram niżej to wciąż Opcja A.** Powiedzcie, którą bierzemy, a przebuduję.
+
 **Transport (główny przejazd):** **KTX Seoul → Busan** (~2 h 15 min — zarezerwuj miejsca, sierpień to szczyt sezonu). Poranne Seongsu i wieczorne Haeundae to dwa osobne skupiska do przejścia pieszo; przechowanie bagażu ogarnij przed pociągiem.
 
 ## Route Map
@@ -48,6 +56,8 @@ Gyeongbokgung zamknięty we wt. — brak konfliktu.
 ## Also Nearby
 
 ### Dodatki na poranek w Seoulu
+- [★★★★☆ 🏛️🎨 Kukje Gallery](https://www.google.com/maps/search/Kukje+Gallery+Seoul) [N](https://map.naver.com/p/search/국제갤러리) — ⚖️ **Kandydat na poranek 18 sie (Opcja B)** — przepadł 16 sie przez zamknięcie świąteczne. Pon.–sob. 10:00–18:00, bezpłatnie.
+- [★★★★☆ 📷🏛️ Museum Hanmi (Samcheong)](https://www.google.com/maps/search/Museum+Hanmi+Samcheong+Seoul) [N](https://map.naver.com/p/search/뮤지엄한미%20삼청) — ⚖️ **Kandydat na poranek 18 sie (Opcja B)** — przepadł 16 sie. Wt.–niedz. 10:00–18:00, ostatnie wejście ~17:00. Muzeum fotografii, najwyższy priorytet.
 - [★★★☆☆ 🏯🎫 Seonjeongneung Royal Tombs](https://www.google.com/maps/search/Seonjeongneung+Royal+Tombs+Seoul) [N](https://map.naver.com/p/search/선정릉) — Królewskie grobowce dynastii Joseon z listy UNESCO w środku Gangnam, ~10 min od COEX; pomiń, chyba że wycięliście coś innego — poranek jest napięty przed KTX o 14:00
 - [★★☆☆☆ 🌳🧒 Ttukseom Hangang Park](https://www.google.com/maps/search/Ttukseom+Hangang+Park+Seoul) [N](https://map.naver.com/p/search/뚝섬한강공원) — Plac zabaw, ścianka wspinaczkowa, skatepark; letni basen
 - [★★☆☆☆ 🎡🧒 Vaunce Trampoline Park](https://www.google.com/maps/search/Vaunce+Trampoline+Park+Samseong+Seoul) [N](https://map.naver.com/p/search/Vaunce%20Trampoline%20Park%20삼성동) — Pierwszy park trampolin w Korei; sesje 2-godzinne
