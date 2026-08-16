@@ -34,10 +34,12 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 
 **Importance rating prefix** — each real place carries a **1–5 ★ importance rating** inside the link text, before the emoji type-tags: `- [★★★★☆ 🏛️ Place Name](url) — description`. Keep a place's stars + emoji **identical** across `places.md` and any `days/*.md`. The rating rubric and the priority ladder (what to hunt vs. skip) are canonical in the **`priorities`** skill (trip-planner plugin); the emoji type-tag key is canonical at the top of `places.md`. Don't rate generic dish bullets or "Must-Try Dishes" checklists.
 
-**Trip-diary markers (seen / skipped)** — once the trip is under way, a visited place gets a verdict marker appended to its description; the 1–5 ★ prefix stays untouched (it's the *planning importance*, a separate axis from the after-the-fact verdict):
+**Trip-diary markers (seen / skipped)** — once the trip is under way, a visited place gets a verdict marker appended to its description; the 1–5 ★ prefix stays untouched (it's the *planning importance*, a separate axis from the after-the-fact verdict).
+
+**⚠️ Two different scales — do not conflate them.** The ★ prefix is **1–5** and measures *planning importance*. The verdict is **1–6** and measures *how it actually was*, with **6 reserved for extraordinary** — something that broke the scale. Only one 6 has been awarded (Photo SeMA / "We Are Martin Parr", 16 sie). The scale was widened from 1–5 to 1–6 on 16 sie; existing verdicts kept their numerator (a 5 stayed a 5, it was not promoted), so 6 is genuinely a new top tier rather than a renaming of the old one.
 
 ```markdown
-… description ✅ **Widziane: Dzień 1 (11 sie) — 4/5** 📅 **Dzień 1 (11 sie)**
+… description ✅ **Widziane: Dzień 1 (11 sie) — 4/6** 📅 **Dzień 1 (11 sie)**
 … description ⏭️ **Pominięte: Dzień 1 (11 sie)** 📅 **Dzień 1 (11 sie)**
 … description 🚫 **ZAMKNIĘTE: Dzień 4 (14 sie)** 📅 **Dzień 4 (14 sie)**
 ```
@@ -46,7 +48,7 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 
 **Moves: once a move lands, delete the trace from the source day.** A `➡️ PRZENIESIONE na …` row is scaffolding for the decision, not a record to keep. As soon as the place is scheduled on its new day, **remove the row from the source day's `## Schedule` and remove the corresponding sentence from that day's notes block.** The destination day's row keeps its `➡️ Przeniesione z <date>` label — that one explains why it's there. Skips are different: `⏭️ Pominięte` rows stay, because a skip has no other home and the record is the point. Rationale: leftover move-rows go stale silently — the Aug 13 ghosts still pointed at 18 sie long after the pair had been re-homed to 14 sie, and nothing flags that.
 
-⚠️ **The marker must come BEFORE the ` 📅 …` day marker.** `annotate_places.py` strips everything from the 📅 sentinel to end-of-line (`MARKER_RE`), so anything placed after it is destroyed on the next `--write`. In `days/*.md` the day is implicit, so the short form `✅ **Widziane — 4/5.**` / `⏭️ **Pominięte.**` goes at the **front of the Activity cell**; use the explicit `Widziane już w Dzień N (NN sie)` form when a place was seen on a *different* day than the one whose file it sits in. Record off-plan stops in the day's notes paragraph (between H1 and `## Route Map`) — that text lands in the site's day `notes` and is indexed by `annotate_places.py` as a Day-N visit, but is **not** picked up by `buildGoogleMapsPinsUrl` (schedule-only), so the route link stays intact.
+⚠️ **The marker must come BEFORE the ` 📅 …` day marker.** `annotate_places.py` strips everything from the 📅 sentinel to end-of-line (`MARKER_RE`), so anything placed after it is destroyed on the next `--write`. In `days/*.md` the day is implicit, so the short form `✅ **Widziane — 4/6.**` / `⏭️ **Pominięte.**` goes at the **front of the Activity cell**; use the explicit `Widziane już w Dzień N (NN sie)` form when a place was seen on a *different* day than the one whose file it sits in. Record off-plan stops in the day's notes paragraph (between H1 and `## Route Map`) — that text lands in the site's day `notes` and is indexed by `annotate_places.py` as a Day-N visit, but is **not** picked up by `buildGoogleMapsPinsUrl` (schedule-only), so the route link stays intact.
 
 **`places.md` headings** drive the parser's section label: `##` = region/city (e.g. `KOREA — SEOUL`), `###` = day combo/district. `####` (Kawiarnie, Jedzenie, …) is informational, not parsed. The `KOREA — ` / `TAIWAN — ` prefixes stay in English — `_place_nav` strips them to build the nav chip.
 
