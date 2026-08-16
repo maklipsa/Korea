@@ -20,7 +20,7 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 
 **Dziennik podróży:** 🚫 **ZAMKNIĘTE** — chcieliśmy, ale było zamknięte (i wtedy poprawiamy godziny w tym wpisie) · ✅ **Widziane** — byliśmy, z naszą oceną po fakcie **w skali 1–6, gdzie 6 = nadzwyczajne** (rezerwowane dla rzeczy, które wychodzą poza skalę; na razie jedno: Photo SeMA / Martin Parr) (np. `✅ **Widziane: Dzień 1 (11 sie) — 4/6**`) · ⏭️ **Pominięte** — było w planie dnia, ale odpuściliśmy. To osobna skala od gwiazdek ★ z przodu nazwy — te zostają, bo mówią, jak ważne było miejsce **przy planowaniu**.
 
-**Czego nie szukamy (wnioski z tego wyjazdu):** ⏭️ **muzea historii** — sprawdzone dwa razy, dwa razy odpadło (National Museum of Korean Contemporary History 14 sie, Seoul Museum of History 16 sie). Nie proponować muzeów historii najnowszej, miejskiej ani politycznej. **Nie dotyczy** pałaców, chramów, muzeów sztuki, fotografii i rzemiosła — te punktują 4–5/6.
+**Czego nie szukamy (wnioski z tego wyjazdu):** ⏭️ **muzea historii** — sprawdzone dwa razy, dwa razy odpadło (National Museum of Korean Contemporary History 14 sie, Seoul Museum of History 16 sie). Nie proponować muzeów historii najnowszej, miejskiej ani politycznej. **Nie dotyczy** pałaców, chramów, muzeów sztuki, fotografii i rzemiosła — te punktują 4–5/6. ⏭️ **Druga rzecz, która nie działa: video art i powolne kino galeryjne** (długie projekcje, narracja z offu) — SeMA 16 sie, 2/6. Fotografia, malarstwo, rzeźba i rzemiosło tak; ekrany z wolnym montażem nie. Przy galeriach **sprawdzać program, nie tylko instytucję.**
 
 ---
 
@@ -83,7 +83,7 @@ Wszystko do obejścia pieszo w jednym ciągu — historyczne serce Seoulu.
 
 #### Zakupy i sklepy
 - [★★★☆☆ 🛍️🎨 Ssamziegil Complex](https://www.google.com/maps/search/Ssamziegil+Insadong+Seoul) [N](https://map.naver.com/p/search/쌈지길) — Spiralna zewnętrzna promenada z niezależnymi sklepami rzemieślniczymi, warsztatami i widokami z dachu
-- [★★★★☆ 🛍️ Insadong-gil](https://www.google.com/maps/search/Insadong-gil+Seoul) [N](https://map.naver.com/p/search/인사동길) — W weekendy bez samochodów; sklepy ze sztuką tradycyjną, kaligrafią i rzemiosłem 📅 **Dzień 6 (16 sie)**
+- [★★★★☆ 🛍️ Insadong-gil](https://www.google.com/maps/search/Insadong-gil+Seoul) [N](https://map.naver.com/p/search/인사동길) — **To ULICA (aleja) pełna sklepów, nie kompleks handlowy** — ~700 m sklepów ze sztuką tradycyjną, kaligrafią, papeterią hanji, herbatą i rękodziełem, plus boczne zaułki. ⚠️ Nie mylić ze **[Ssamziegil](https://www.google.com/maps/search/Ssamziegil+Insadong+Seoul)** — to osobny, spiralny budynek *przy* tej ulicy (patrz wpis wyżej). W weekendy odcinek bez samochodów. ✅ **Widziane: Dzień 6 (16 sie) — 5/6, bardzo trafiona rekomendacja.** 📅 **Dzień 6 (16 sie)**
 - ★☆☆☆☆ 🛍️ Sklepy z tradycyjnymi materiałami papierniczymi (Insadong) — 90% koreańskiej tradycyjnej papeterii jest właśnie tutaj
 - ★★☆☆☆ 🛍️ Pracownie pieczątek z imieniem (Insadong) — Wyryj swoje imię w tradycyjnej koreańskiej pieczęci
 - [★★☆☆☆ 🎨 Ikseon Gongbang](https://www.google.com/maps/search/Ikseon+Gongbang+Seoul) [N](https://map.naver.com/p/search/익선공방) — Warsztaty: zielniki, świece z piasku, gipsowe odświeżacze, dyfuzory 📅 *blisko: Dzień 1 (11 sie)*
