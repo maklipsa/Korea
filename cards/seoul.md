@@ -2,7 +2,7 @@
 
 **Cel tego pliku:** zebrać karty zniżkowe dostępne w Seoulu, zestawić je z atrakcjami, które *faktycznie zwiedzamy* (11–18 sie), policzyć, czy każda się opłaca, i zdecydować, **którą kartę, dla kogo i na jak długo** kupić.
 
-> **TL;DR** — **Discover Seoul Pass 48h** to **wyraźny zysk dla 3 dorosłych** (≈ +33,000 KRW na osobę), *jeśli* zaliczą COEX Aquarium 18 sie, a na granicy opłacalności (+5,000), jeśli nie. Dla dzieci wychodzi **od zera do straty** (nie ma zniżki dla dzieci), więc **nie kupujcie go dla 9- i 11-latka** — zamiast tego kupcie im zniżkowe pojedyncze bilety do Lotte World + N Seoul Tower. Dla 15-latka to rzut monetą: kupujcie tylko, jeśli COEX jest potwierdzony.
+> **TL;DR** — <span style="color:red">⚠️ **COEX Aquarium zostało skreślone z planu (16 sie), więc wariant „+33,000" jest już nieaktualny.**</span> Realny bilans **Discover Seoul Pass 48h dla dorosłego to ≈ +5,000 KRW** — pass wychodzi na lekki plus na samym łańcuchu **N Seoul Tower (16 sie) + Lotte World (17 sie)**, i tyle. Nie jest stratą, ale i nie jest już „wyraźnym zyskiem". Dla dzieci wychodzi **od zera do straty** (nie ma zniżki dla dzieci), więc **nie kupujcie go dla 9- i 11-latka** — zamiast tego kupcie im zniżkowe pojedyncze bilety do Lotte World + N Seoul Tower. Dla 15-latka to rzut monetą: kupujcie tylko, jeśli COEX jest potwierdzony.
 > **Kup: pass 48h × 3 dorosłych (aktywacja po południu 16 sie). Dzieci: à la carte.**
 
 ---
@@ -34,7 +34,7 @@ Ceny kasowe: dorosły / dziecko. „W naszym planie?" = czy jest aktualnie w pla
 | **Namsan Cable Car** (w obie strony) | ❌ **Nie objęte** (objęty jest tylko taras widokowy) | ~15,000 | ~11,500 | ✅ 16 sie |
 | **Lotte World Adventure** (wstęp na cały dzień) | ✅ Bezpłatnie (pomijanie kolejek do atrakcji *nie* wchodzi) | ~59,000 | ~47,000 | ✅ 17 sie |
 | **Seoul Sky / Lotte World Tower** | ❌ **Nie objęte** (w najlepszym razie kupon zniżkowy) | ~31,000 | ~27,000 | ✅ 17 sie |
-| **COEX Aquarium (SEA LIFE)** | ✅ Bezpłatnie | ~28,000–33,000 | ~25,000–29,000 | ⚠️ 18 sie (sekcja „Also Nearby", niepotwierdzone) |
+| ~~**COEX Aquarium (SEA LIFE)**~~ | ✅ Bezpłatnie | ~28,000–33,000 | ~25,000–29,000 | ⏭️ **SKREŚLONE z planu 16 sie** — nie liczcie go już do bilansu passa |
 | **Changdeokgung Palace** | ✅ Bezpłatnie (zbędne — w hanboku i tak wstęp wolny) | 3,000 | 1,500 | ✅ 12 sie |
 | Secret Garden (Huwon) | ⚠️ Niepewne (osobne zwiedzanie z rezerwacją) | 5,000 | 2,500 | ✅ 12 sie |
 | Wstęp na **Nami Island** | ✅ Bezpłatnie (zipline ~44,000 i shuttle z Gapyeong **nie** są objęte) | ~16,000 | ~10,000–13,000 | ✅ 15 sie (wchodzimy ziplinem — patrz uwaga) |

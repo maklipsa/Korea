@@ -284,7 +284,7 @@ Nowoczesny Seoul, centra handlowe z kontenerów, dziwaczne serniki i przebudowan
 - [★★★☆☆ 🛍️ COEX Mall](https://www.google.com/maps/search/COEX+Mall+Seoul) [N](https://map.naver.com/p/search/코엑스몰) — Podziemne megacentrum handlowe
 
 #### Dla dzieci
-- [★★★☆☆ 🐾🧒🎫 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) [N](https://map.naver.com/p/search/코엑스아쿠아리움) — Największe akwarium w Seoulu; rekiny, płaszczki, strefy tematyczne 📅 **Dzień 8 (18 sie)**
+- [★☆☆☆☆ 🐾🧒🎫 COEX Aquarium](https://www.google.com/maps/search/COEX+Aquarium+Seoul) [N](https://map.naver.com/p/search/코엑스아쿠아리움) — Największe akwarium w Seoulu; rekiny, płaszczki, strefy tematyczne
 - [★★☆☆☆ 🎡🧒 Vaunce Trampoline Park](https://www.google.com/maps/search/Vaunce+Trampoline+Park+Samseong+Seoul) [N](https://map.naver.com/p/search/Vaunce%20Trampoline%20Park%20삼성동) — Pierwszy park trampolin w Korei; sesje 2-godzinne 📅 *blisko: Dzień 8 (18 sie)*
 - ★★★☆☆ 🌳🧒 Seoul Forest Park — Karmienie jeleni, owadziarnia, ogród motyli, place zabaw
 - 🎨 Retro studia do samodzielnych zdjęć w Seongsu (Eternalog i inne) — Budki z portretami czarno-białymi ~4,000-6,000 won
