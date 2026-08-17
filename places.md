@@ -301,7 +301,7 @@ Nowoczesny Seoul, centra handlowe z kontenerów, dziwaczne serniki i przebudowan
 Dzień w parku rozrywki + modna ulica z jedzeniem + spacer nad jeziorem.
 
 #### Zabytki
-- [★★★★☆ 🗼 Lotte World Tower / Seoul Sky](https://www.google.com/maps/search/Lotte+World+Tower+Seoul) [N](https://map.naver.com/p/search/롯데월드타워) — 555 m; taras widokowy Seoul Sky na piętrach 117-123; szklana podłoga 📅 **Dzień 7 (17 sie)**
+- [★★★★☆ 🗼 Lotte World Tower / Seoul Sky](https://www.google.com/maps/search/Lotte+World+Tower+Seoul) [N](https://map.naver.com/p/search/롯데월드타워) — 555 m; taras widokowy Seoul Sky na piętrach 117-123; szklana podłoga ⏭️ **Pominięte: Dzień 7 (17 sie)** — po N Seoul Tower (2/6, „widok spod wieży lepszy niż z góry") świadomie odpuszczone. **Oszczędność ~174,000 KRW** za szóstkę (31,000 × 3 dorosłych + 27,000 × 3 dzieci). Ostrzeżenie o płatnych tarasach zadziałało. 📅 **Dzień 7 (17 sie)**
 - [★★★★☆ 🏛️🎨🎫 LOTTE Museum of Art (LOMA)](https://www.google.com/maps/search/Lotte+Museum+of+Art+Seoul) [N](https://map.naver.com/p/search/롯데뮤지엄) — Muzeum sztuki współczesnej na 7. piętrze Avenuel/Lotte World Tower (ten sam kompleks co Lotte World); ambitne wystawy międzynarodowe. Otwarte codziennie 10:30–19:00 (ostatnie wejście 18:30); ~20,000 KRW dorosły / 13,000 młodzież (13–18) i dziecko (3–12), **bezpłatnie z Discover Seoul Pass**; idealna klimatyzowana przerwa na sztukę w dniu parku rozrywki. 📅 **Dzień 7 (17 sie)**
 - [★★★☆☆ 🎡🧒🎫 Lotte World Adventure](https://www.google.com/maps/search/Lotte+World+Adventure+Seoul) [N](https://map.naver.com/p/search/롯데월드) — Park rozrywki w hali i pod gołym niebem; karuzele, pokazy, parady; największy zadaszony park rozrywki na świecie ✅ **Widziane: Dzień 7 (17 sie) — 3,5/6.** <span style="color:red">⚠️ **Tłok i atrakcje „takie sobie" — King Kong wypadł okropnie.** Obniżone z ★★★★★ do ★★★☆☆. To **czwarty** punkt ★★★★★ tego wyjazdu, który nie dowiózł (po N Seoul Tower 2/6, Bukchon 3/6, Gwangjang 4/6) — „sławne + zatłoczone + biletowane = rozczarowanie" jest już regułą, nie przypadkiem.</span> 📅 **Dzień 7 (17 sie)**
 - [★★★★☆ 🍜 Gom Ba Wie (곰바위)](https://www.google.com/maps/search/Gom+Ba+Wie+Samseong+Seoul) [N](https://map.naver.com/p/search/곰바위) — Koreański grill od 1983, **notowany w Michelin Guide**, Samseong-dong przy Bongeunsa (kilka przystanków od Jamsil): **한우** i popisowe **대창구이** (grillowane jelito grube). ✅ **Widziane: Dzień 7 (17 sie) — 5/6.** ⚠️ Nazwa dopasowana fonetycznie z „gom na wie" — jeśli to była inna knajpa, popraw. 📅 **Dzień 7 (17 sie)**
@@ -320,7 +320,7 @@ Dzień w parku rozrywki + modna ulica z jedzeniem + spacer nad jeziorem.
 
 #### Dla dzieci
 - ★★★★★ 🎡🧒🎫 Lotte World Adventure — Atrakcje parku rozrywki dla każdego wieku; część zadaszona niezależna od pogody
-- ★★★★☆ 🗼 Seoul Sky — Taras widokowy ze szklaną podłogą na wysokości 500 m; najwyższy w Korei
+- ★★★★☆ 🗼 Seoul Sky — Taras widokowy ze szklaną podłogą na wysokości 500 m; najwyższy w Korei ⏭️ **Pominięte: Dzień 7 (17 sie)** — patrz wpis wyżej.
 - [★★★☆☆ 🎡🧒 KidZania Seoul](https://www.google.com/maps/search/KidZania+Seoul+Jamsil) [N](https://map.naver.com/p/search/키자니아%20서울) — Ponad 90 zawodów do odgrywania, dla dzieci w wieku 4-14 lat 📅 **Dzień 7 (17 sie)**
 - ★★☆☆☆ 🌳 Rowerki wodne na Seokchon Lake — Sezonowo
 - ★★☆☆☆ 🌳 Jazda na rowerze w Olympic Park
