@@ -31,7 +31,7 @@ Pula wartości, którą realnie wykorzystamy przez oba dni (dorosły):
 
 **Razem bez dodatków: ~45,000/dorosły** — czyli BIG3 wychodzi na zero, a dopiero dołożenie **Busan X the Sky** albo **SEA LIFE** daje realny zysk (~+13,000/dorosły przy zestawie Songdo + Busan Tower + X the Sky). **Dla dzieci żaden pass się nie zwraca** (płaska cena kontra tanie bilety dziecięce w kasie) — pełny rachunek w [cards/busan.md](cards/busan.md).
 
-**Uwaga:** Sky Capsule NIE jest wliczony w żaden pass (tylko Beach Train). Sky Capsule trzeba zarezerwować osobno — rezerwacje na godziny otwierają się we wtorek przed datą przejazdu (źródła się różnią: ≈2–4 tygodnie wcześniej), więc sprawdzaj [bluelinepark.com](https://www.bluelinepark.com) lub Klook wcześnie i rezerwuj w momencie, gdy pojawi się Wasza data. Crystal Cabin w Songdo (22,000) może wymagać dopłaty ponad standardowy Air Cruise.
+**Uwaga:** Sky Capsule NIE jest wliczony w żaden pass (tylko Beach Train). ⏭️ **Sprawdzone w praktyce 19 sie: bez rezerwacji z góry kapsuły po prostu nie ma** — sierpniowe terminy były wyprzedane, pojechaliśmy Beach Trainem na passie (i tak jedyny, który robi pełną trasę Mipo ↔ Songjeong). Sky Capsule trzeba zarezerwować osobno — rezerwacje na godziny otwierają się we wtorek przed datą przejazdu (źródła się różnią: ≈2–4 tygodnie wcześniej), więc sprawdzaj [bluelinepark.com](https://www.bluelinepark.com) lub Klook wcześnie i rezerwuj w momencie, gdy pojawi się Wasza data. Crystal Cabin w Songdo (22,000) może wymagać dopłaty ponad standardowy Air Cruise.
 
 Kup: visitbusanpass.com, Klook, KKday, Trazy lub Creatrip — **tylko mobilny pass QR** (fizyczna karta wycofana ~października 2024).
 

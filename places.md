@@ -675,14 +675,14 @@ Pogrupowane według dzielnic.
 - [★★★☆☆ 🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan) [N](https://map.naver.com/p/search/달맞이고개) — „Wzgórze Księżycowe"; galerie sztuki, kawiarnie, wiśnie; świetne widoki na zachód słońca 📅 **Dzień 10 (20 sie)**
 
 #### Sztuka i fotografia
-- [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) [N](https://map.naver.com/p/search/고은사진미술관) — Jedyne w Busan **muzeum fotografii artystycznej** (Haeundae, blisko plaży); prawdziwa galeria fotografii. **Wstęp wolny**; 10:00–18:00, **zamknięte w pon.** ⏰ Otwiera o 10:00 — w napiętym dniu 19 sie konkuruje z porankiem w Haeundae; naturalna wymiana to odpuszczenie płatnego przejazdu Sky Capsule na rzecz muzeum. 📅 **Dzień 10 (20 sie)** · *blisko: Dzień 9 (19 sie)*
-- [★★★★☆ 🎨 Johyun Gallery](https://www.google.com/maps/search/Johyun+Gallery+Busan) [N](https://map.naver.com/p/search/조현화랑) — Flagowa galeria sztuki współczesnej w Busan, przy Dalmaji-gil (Haeundae); reprezentuje Nam June Paika, Juliana Opie, Georges'a Rousse'a; malarstwo/rzeźba/instalacja. Wstęp wolny; wt.–niedz. 10:00–19:00, zamknięte w pon. **Łączy się z Dalmaji Hill + GoEun** w jedną oś sztuki w Haeundae. 📅 **Dzień 10 (20 sie)**
+- [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) [N](https://map.naver.com/p/search/고은사진미술관) — Jedyne w Busan **muzeum fotografii artystycznej** (Haeundae, blisko plaży); prawdziwa galeria fotografii. **Wstęp wolny**; 10:00–18:00, **zamknięte w pon.** ⏰ Otwiera o 10:00 — w napiętym dniu 19 sie konkuruje z porankiem w Haeundae; naturalna wymiana to odpuszczenie płatnego przejazdu Sky Capsule na rzecz muzeum. 📅 **Dni 9, 10 (19, 20 sie)**
+- [★★★★☆ 🎨 Johyun Gallery](https://www.google.com/maps/search/Johyun+Gallery+Busan) [N](https://map.naver.com/p/search/조현화랑) — Flagowa galeria sztuki współczesnej w Busan, przy Dalmaji-gil (Haeundae); reprezentuje Nam June Paika, Juliana Opie, Georges'a Rousse'a; malarstwo/rzeźba/instalacja. Wstęp wolny; wt.–niedz. 10:00–19:00, zamknięte w pon. **Łączy się z Dalmaji Hill + GoEun** w jedną oś sztuki w Haeundae. 📅 **Dni 9, 10 (19, 20 sie)**
 - [★★★★☆ 🎨 Gallery Woo](https://www.google.com/maps/search/Gallery+Woo+Haeundae+Busan) [N](https://map.naver.com/p/search/갤러리우) — Uznana galeria komercyjna w Busan (koreańskie współczesne malarstwo/rzeźba/ceramika) w hotelowym pasie Haeundae. Wstęp wolny; godziny zależą od wystawy — sprawdź.
 
 #### Nadmorskie spacery i aktywności
-- [★★★★☆ 🚡🌳 Haeundae Blueline Park](https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan) [N](https://map.naver.com/p/search/해운대블루라인파크) — 4,8 km po opuszczonej linii kolejowej nad morzem; Beach Train albo Sky Capsule (kolorowe kapsuły na estakadzie); od Mipo do Songjeong; ZAREZERWUJ SKY CAPSULE Z WYPRZEDZENIEM 📅 **Dzień 9 (19 sie)**
+- [★★★★☆ 🚡🌳 Haeundae Blueline Park](https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan) [N](https://map.naver.com/p/search/해운대블루라인파크) — 4,8 km po opuszczonej linii kolejowej nad morzem; Beach Train albo Sky Capsule (kolorowe kapsuły na estakadzie); od Mipo do Songjeong. ⏭️ **Sky Capsule pominięty 19 sie — brak wolnych kapsuł** (sierpniowe terminy schodzą w kilka minut w dniu otwarcia rezerwacji, ~2 tyg. wcześniej; bez rezerwacji z góry nie ma po co podchodzić do kasy). **Pojechaliśmy Beach Trainem, Songjeong → Mipo — jest w Busan Pass i pokonuje całą trasę, której kapsuła i tak nie robi** (kapsuła kursuje tylko Mipo ↔ Cheongsapo) 📅 **Dzień 9 (19 sie)**
 - [★★★☆☆ 🚶🗼 Cheongsapo](https://www.google.com/maps/search/Cheongsapo+Busan) [N](https://map.naver.com/p/search/청사포) — Mała wioska rybacka; Daritdol Observatory — skywalk ze szklaną podłogą nad klifami
-- [★★★☆☆ 🌳 Songjeong Beach](https://www.google.com/maps/search/Songjeong+Beach+Busan) [N](https://map.naver.com/p/search/송정해수욕장) — Spokojniejsza niż Haeundae; popularna wśród surferów
+- [★★★☆☆ 🌳 Songjeong Beach](https://www.google.com/maps/search/Songjeong+Beach+Busan) [N](https://map.naver.com/p/search/송정해수욕장) — Spokojniejsza niż Haeundae; popularna wśród surferów 📅 **Dzień 9 (19 sie)**
 
 #### Kawiarnie
 - [★★☆☆☆ ☕ Edge 993](https://www.google.com/maps/search/Edge+993+Dalmaji+Busan) [N](https://map.naver.com/p/search/엣지993) — Dach z panoramicznym widokiem na ocean
@@ -710,7 +710,7 @@ Pogrupowane według dzielnic.
 ### Nampo-dong / BIFF Square / Jung-gu
 
 #### Zabytki
-- [★★★☆☆ 🗼 Yongdusan Park & Busan Tower](https://www.google.com/maps/search/Busan+Tower+Yongdusan+Park) [N](https://map.naver.com/p/search/용두산공원) — Park na wzgórzu; 120-metrowa wieża z panoramą; ruchome schody na zewnątrz 📅 **Dzień 9 (19 sie)**
+- [★★★☆☆ 🗼 Yongdusan Park & Busan Tower](https://www.google.com/maps/search/Busan+Tower+Yongdusan+Park) [N](https://map.naver.com/p/search/용두산공원) — Park na wzgórzu; 120-metrowa wieża z panoramą; ruchome schody na zewnątrz ⏭️ **Pominięte: Dzień 9 (19 sie)** — sama wieża wypada z planu; park pozostaje bezpłatnym przejściem. Skutek dla passa: Busan Tower był wart 12,000 w puli BIG3/BIG5.
 - [★★★☆☆ 🚶🍜 BIFF Square](https://www.google.com/maps/search/BIFF+Square+Busan) [N](https://map.naver.com/p/search/BIFF광장) — Odciski dłoni gwiazd w bruku; nieustający targ street foodu
 
 #### Targi i jedzenie
@@ -820,7 +820,7 @@ Pogrupowane według kategorii. **Realia:** okno na Busan jest krótkie (18 sie w
 - [★★★☆☆ 🍜🍺 Bupyeong-dong Jokbal (Pig's Trotter) Alley](https://www.google.com/maps/search/Bupyeong-dong+Jokbal+Street+Busan) [N](https://map.naver.com/p/search/부평동족발골목) — Ok. 20 lokali z jokbal jeden przy drugim w Jung-gu, blisko Movie Alley w Nampo; popisowe naengchae jokbal (chłodzone nóżki z ogórkiem, meduzą i musztardą). Wieczór, neony. ⚠️ To inna atrakcja niż skatalogowany Bupyeong Kkangtong Night Market (ta sama okolica, inne dni i godziny).
 
 #### I. Kawiarnie i sklepy
-- [★★★☆☆ 🚶📸 Bosu-dong Book Street](https://www.google.com/maps/search/Bosu-dong+Book+Street+Busan) [N](https://map.naver.com/p/search/보수동책방골목) — 200m zaułek z ~30 antykwariatami, wyrosły z uchodźczej historii wojny koreańskiej, blisko Nampo/BIFF (stacja Jungang, wyjście 7). Przeglądanie bezpłatne; sklepy z komiksami dla nastolatka. 📅 *blisko: Dzień 10 (20 sie)*
+- [★★★☆☆ 🚶📸 Bosu-dong Book Street](https://www.google.com/maps/search/Bosu-dong+Book+Street+Busan) [N](https://map.naver.com/p/search/보수동책방골목) — 200m zaułek z ~30 antykwariatami, wyrosły z uchodźczej historii wojny koreańskiej, blisko Nampo/BIFF (stacja Jungang, wyjście 7). Przeglądanie bezpłatne; sklepy z komiksami dla nastolatka. 📅 **Dzień 9 (19 sie)** · *blisko: Dzień 10 (20 sie)*
 - [★★☆☆☆ 🛍️ Gwangbok-ro Culture & Fashion Street](https://www.google.com/maps/search/Gwangbok-ro+Fashion+Street+Busan) [N](https://map.naver.com/p/search/광복로문화패션거리) — „Mini Myeongdong" Busan: ~600m deptaka handlowego (ubrania, K-beauty, kawiarnie) od stacji Nampo, wyjście 7, do Gukje Market. Żywy łącznik na spacer, najlepiej wieczorem.
 
 #### J. Doświadczenia i warsztaty

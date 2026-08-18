@@ -29,7 +29,7 @@ Podobnie jak pass w Seoulu, **Visit Busan Pass** jest **tylko dla obcokrajowców
 | Atrakcja | W passie? | Kasa (dorosły) | Kasa (dziecko) | W naszym planie? — dzień |
 |------------|--------------|--------------|--------------|--------------------|
 | **Blueline Park — Beach Train** | ✅ Bezpłatnie | 12,000 (16,000 z wszystkimi przystankami) | stała stawka za przejazd, nie od wieku | ✅ 19 sie |
-| **Blueline Park — Sky Capsule** | ❌ **Nieobjęty** (osobny bilet) | ~35,000–40,000 / kapsuła 1–2 os., w jedną stronę | — | ✅ 19 sie (płatne osobno) |
+| ~~**Blueline Park — Sky Capsule**~~ | ❌ **Nieobjęty** (osobny bilet) | ~35,000–40,000 / kapsuła 1–2 os., w jedną stronę | — | ⏭️ **19 sie: brak wolnych kapsuł** — pojechaliśmy Beach Trainem (w passie) |
 | **Busan Tower (Yongdusan)** | ✅ Bezpłatnie | ~12,000 | ~9,000 | ✅ 19 sie |
 | Busan X the Sky | ✅ Bezpłatnie | 27,000–29,000 | 24,000 | ➖ kandydat do dodania (20 sie, Haeundae — „Also Nearby") |
 | SEA LIFE Busan Aquarium | ✅ Bezpłatnie | 29,000 | ~24,000 | ➖ kandydat do dodania (20 sie, Haeundae — „Also Nearby") |
@@ -48,11 +48,18 @@ Podobnie jak pass w Seoulu, **Visit Busan Pass** jest **tylko dla obcokrajowców
 
 | Pozycja | Dzień | Wartość |
 |---------|-------|---------|
-| Blueline Park Beach Train | 19 sie | 12,000 |
-| Busan Tower (Yongdusan) | 19 sie | 12,000 |
+| ~~Blueline Park Beach Train~~ | 19 sie | ~~12,000~~ → 0 — **kupione osobno 19 sie (60,000 za szóstkę), pass tego nie odzyska** |
+| ~~Busan Tower (Yongdusan)~~ | ⏭️ **skreślony 19 sie** | ~~12,000~~ → 0 |
 | Songdo Marine Cable Car (Air Cruise) | 20 sie, Opcja B | 17,000 |
 | Taejongdae Danubi Train | 20 sie | ~4,000 |
-| **Razem** | | **~45,000/dorosły** |
+| **Razem** | | **~21,000/dorosły** (45,000 → 33,000 po skreśleniu wieży → 21,000 po opłaceniu Beach Trainu z własnej kieszeni) |
+
+🔴 **Stan na 19 sie rano: pass przestał się spinać.** Z puli wypadły dwie z czterech pozycji — Busan Tower (skreślony) i Beach Train (kupiony osobno). Zostają **Songdo Cable Car (17,000) + Danubi Train (~4,000)**. Żeby BIG3 (45,000) wyszedł na plus, trzeba by **do planu dołożyć X the Sky (29,000) i jeszcze coś** — czyli kupować atrakcje pod pass, a nie pass pod plan. **Jeśli pass nie jest jeszcze kupiony: nie kupujcie go.** Songdo i Danubi zapłaćcie w kasie (~21,000/dorosły) — to i tak mniej niż najtańszy pass.
+
+🔻 **Skutek skreślenia Busan Tower — inny dla BIG3 niż dla BIG5:**
+- **BIG3 (45,000): bez zmian.** Wieża i Beach Train są warte dokładnie tyle samo (po 12,000), a BIG3 to „dowolne 3" — Beach Train po prostu wchodzi na zwolnione miejsce. Najlepszy zestaw to nadal **Songdo (17,000) + X the Sky (29,000) + Beach Train (12,000) = 58,000, czyli +13,000**.
+- **BIG5 (65,000): traci margines.** Z planu zostają tylko trzy biletowane pozycje (Beach Train + Songdo + Danubi ≈ 33,000), więc do piątki trzeba dołożyć **dwie** rzeczy premium (X the Sky **i** SEA LIFE albo Spa Land) — inaczej pass schodzi pod zero. Przy jednym dodatku wychodzi ~62,000 wobec 65,000 = **−3,000**.
+- **Wniosek: jeśli w ogóle bierzecie pass, to BIG3 z X the Sky.** Bez X the Sky żaden wariant się nie zwraca.
 
 (Sky Capsule i tak jest poza passem. Gamcheon, Jagalchi, Gukje, Oryukdo, GoEun, Johyun i muzea na Yeongdo są bezpłatne albo tanie i **pass nic tam nie daje** — dlatego pula nie rośnie proporcjonalnie do liczby dni.)
 
