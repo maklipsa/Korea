@@ -21,6 +21,7 @@ on:
       - 'cards/*.md'
       - 'annotate_places.py'
       - 'generate_site_data.py'
+      - 'generate_brief.py'
       # asset edits change their content hash → re-stamp index.html
       - 'docs/app.js'
       - 'docs/style.css'
@@ -36,6 +37,10 @@ concurrency:
 jobs:
   regenerate:
     runs-on: ubuntu-latest
+    # brief.txt keys off "today"; match the daily cron's timezone (see
+    # refresh-brief.yml for why Asia/Taipei and not Asia/Seoul).
+    env:
+      TZ: Asia/Taipei
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -51,14 +56,17 @@ jobs:
       - name: Regenerate docs/data.js + docs/data.json
         run: python generate_site_data.py
 
+      - name: Regenerate docs/brief.txt
+        run: python generate_brief.py
+
       - name: Commit if changed
         run: |
-          if [ -n "$(git status --porcelain places.md docs/data.js docs/data.json docs/index.html)" ]; then
+          if [ -n "$(git status --porcelain places.md docs/data.js docs/data.json docs/brief.txt docs/index.html)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add places.md docs/data.js docs/data.json docs/index.html
-            git commit -m "chore: annotate places.md visit days + regenerate docs/data.js and data.json"
+            git add places.md docs/data.js docs/data.json docs/brief.txt docs/index.html
+            git commit -m "chore: annotate places.md visit days + regenerate data.js, data.json, brief.txt"
             git push
           else
-            echo "places.md, docs/data.js and docs/data.json already up to date — nothing to commit."
+            echo "places.md and the generated docs/ files are already up to date — nothing to commit."
           fi

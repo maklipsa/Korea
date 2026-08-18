@@ -20,8 +20,9 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 | *(trip-planner plugin)* | The taste/planning tooling lives in the **`trip-planner`** Claude Code plugin (marketplace `trip-tools`, checked out at **`~/.claude/plugins/marketplaces/trip-tools/`** — skills live under `plugins/trip-planner/skills/<name>/SKILL.md`. It is its own git repo, **github.com/maklipsa/trip-planner**, branch **`master`** not `main`, and it has **no git identity configured** — set `user.name`/`user.email` locally before committing. ⚠️ An earlier note in this file gave `c:\src\trip-planner`; that path does not exist), not in this repo: skills `find-places`, `add-place`, `split-into-days`, plus the rules skills **`priorities`** (priority ladder + 1–5 ★ rubric) and **`day-planning`** (day-shape & clustering). Enable via `.claude/settings.local.json`. |
 | `gmaps_saver.py` / `maps_automator.py` / `markdown_parser.py` | Maps saver: CLI / Playwright automation / Markdown→`Place` parser. |
 | `generate_site_data.py` | Generates `docs/data.js` **and `docs/data.json`** from the Markdown (stdlib only) — one payload, two artifacts. |
-| `docs/` | Static Pages site: `index.html`, `app.js`, `data.js` + `data.json` (both generated), `style.css`, `firebase-config.js`. |
-| `.github/workflows/` | `regen-data.yml` (regen + commit `data.js`/`data.json` on push) and `deploy-pages.yml` (regen + deploy all of `docs/` to Pages). |
+| `generate_brief.py` | Generates **`docs/brief.txt`** — the shareable slice: **today + every remaining day, nothing else** (no packing/dmz/cards/passes/places). ~10× smaller than `data.json` and shrinking daily, so other people's AI tools can read it whole. Day content is copied **verbatim** from `days/*.md`. ⚠️ It's a **date-keyed snapshot** — see the workflow note below. |
+| `docs/` | Static Pages site: `index.html`, `app.js`, `data.js` + `data.json` + `brief.txt` (all generated), `style.css`, `firebase-config.js`. |
+| `.github/workflows/` | `regen-data.yml` (regen + commit generated files on push), `deploy-pages.yml` (regen + deploy all of `docs/` to Pages), `refresh-brief.yml` (**daily cron** for `brief.txt`). |
 
 ## Content conventions — follow exactly
 
@@ -104,6 +105,22 @@ The workflows keep both files in sync on push, but run it locally anyway so prev
 |------|--------|--------------|
 | `docs/data.js` | `const DAYS = …;` globals + `<script>` tag | **The site.** `app.js` reads the globals synchronously, and `fetch()` is CORS-blocked on `file://` — so this is what keeps `docs/index.html` openable straight from disk. **Don't convert the site to fetch `data.json`** without also accepting the loss of file:// preview and making `app.js` init async. |
 | `docs/data.json` | plain JSON, same keys | **Everything that isn't the site** — AI tools, scripts, other trip members. Served publicly alongside the site, so it needs no auth. |
+
+### `docs/brief.txt` — two gotchas worth knowing
+
+**1. The `.txt` extension is deliberate — do not "fix" it to `.md`.** GitHub Pages derives `Content-Type` from the file extension and offers no override (no `_headers` support); Cloudflare, which fronts the site, just passes it through. `.md` is served as `text/markdown; charset=utf-8`, `.txt` as `text/plain; charset=utf-8` — the latter is what we want for a file handed to other people's tools. The body is still Markdown.
+
+**2. It goes stale at midnight even when no Markdown changed**, because it keys off "today". Three workflows keep it honest, and all three pin `TZ: Asia/Taipei`:
+
+| Trigger | Why |
+|---|---|
+| `refresh-brief.yml` (cron 16:10 UTC = 00:10 Taipei) | catches the date rollover; a push-triggered job never can |
+| `regen-data.yml` (content push) | content edits land in the brief immediately |
+| `deploy-pages.yml` (every deploy) | regenerated-not-committed, so the deployed copy is right for today |
+
+⚠️ **`TZ: Asia/Taipei`, not `Asia/Seoul`, is a correctness choice.** Taipei (UTC+8) runs *behind* Seoul (UTC+9). Erring "behind" keeps one already-finished day in the file for an extra hour; erring "ahead" would **drop the day you are currently living through**. Only one direction is harmless.
+
+⚠️ **A `GITHUB_TOKEN` push does not trigger other workflows**, so the cron's commit would never reach Pages on its own — `refresh-brief.yml` therefore ends by dispatching `deploy-pages.yml` explicitly (needs `actions: write`). Any future workflow that commits generated files has the same trap.
 
 ⚠️ Adding a new top-level Markdown source means touching **three** places: a `build_*` + `payload` entry in `generate_site_data.py`, the `paths:` trigger list in `regen-data.yml` (otherwise a content edit ships stale data), and — if it gets its own tab — `FIXED_TABS` + a render branch in `app.js` plus a `data-tab` button in `index.html`. `car.md` is the worked example.
 

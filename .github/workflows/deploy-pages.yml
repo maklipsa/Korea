@@ -35,6 +35,13 @@ jobs:
       - name: Generate site data from Markdown
         run: python generate_site_data.py
 
+      # Regenerated (not committed) so the deployed copy is correct for today
+      # even if the last commit predates midnight.
+      - name: Generate docs/brief.txt
+        env:
+          TZ: Asia/Taipei
+        run: python generate_brief.py
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

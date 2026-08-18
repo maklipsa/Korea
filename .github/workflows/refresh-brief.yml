@@ -1,0 +1,63 @@
+name: Refresh brief.txt daily
+
+# docs/brief.txt contains "today + every remaining day", so it goes stale at
+# local midnight even when no Markdown changed. A push-triggered workflow can
+# never catch that, hence a schedule.
+#
+# TZ is Asia/Taipei ON PURPOSE. generate_brief.py takes "today" from the runner
+# clock, and Taipei (UTC+8) runs BEHIND Seoul (UTC+9). Erring "behind" keeps one
+# already-finished day in the file for an extra hour; erring "ahead" would drop
+# the day you are currently living through. Only one of those is harmless.
+on:
+  schedule:
+    - cron: '10 16 * * *'   # 00:10 Asia/Taipei (16:10 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write            # needed to dispatch the Pages deploy below
+
+concurrency:
+  group: refresh-brief
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Taipei
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Regenerate docs/brief.txt
+        run: python generate_brief.py
+
+      - name: Commit if changed
+        id: commit
+        run: |
+          if [ -n "$(git status --porcelain docs/brief.txt)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/brief.txt
+            git commit -m "chore: refresh docs/brief.txt ($(date +%F) Asia/Taipei)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "docs/brief.txt already current — nothing to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # A GITHUB_TOKEN push does NOT trigger other workflows, so deploy-pages.yml
+      # will not fire on the commit above and the refreshed file would sit in the
+      # repo without ever shipping. Ask for the deploy explicitly.
+      - name: Deploy the refreshed file to Pages
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy-pages.yml --ref main

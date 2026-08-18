@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate docs/brief.md — a compact, shareable slice of the plan.
+"""Generate docs/brief.txt — a compact, shareable slice of the plan.
 
 Contains **today plus every remaining day, and nothing else**. Deliberately
 drops packing.md, dmz.md, cards/*.md, passes.md and the places.md catalog: this
@@ -9,6 +9,12 @@ export at ~950 kB; this lands around a tenth of that and shrinks every day.
 
 Day content is copied **verbatim** from days/*.md — no re-rendering, so there is
 no second formatting path that could drift from the source of truth.
+
+⚠️ The extension is .txt ON PURPOSE, do not "fix" it to .md. GitHub Pages picks
+Content-Type from the file extension and offers no way to override it (no _headers
+support), and Cloudflare in front just passes it through. A .md file is served as
+`text/markdown; charset=utf-8`; .txt gets `text/plain; charset=utf-8`, which is what
+we want for a file handed to other people's tools. The body is still Markdown.
 
 ⚠️ The output is a SNAPSHOT keyed to the date it ran. It goes stale every
 midnight even if no Markdown changed. Regenerate before sharing the link.
@@ -30,7 +36,7 @@ from pathlib import Path
 
 from generate_site_data import ITINERARY, DAYS_DIR, ROOT, parse_itinerary_days
 
-OUT = ROOT / "docs" / "brief.md"
+OUT = ROOT / "docs" / "brief.txt"
 SITE_URL = "https://indexoutofrange.com/Korea"
 FULL_JSON_URL = f"{SITE_URL}/data.json"
 
