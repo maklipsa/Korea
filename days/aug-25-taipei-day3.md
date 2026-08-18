@@ -5,6 +5,8 @@ Wtorek — po przesunięciu planu ten dzień **nie jest już dniem „awaryjnym 
 
 **Transport (zwarty — przyjazny rowerom):** Park rozrywki / centrum nauki / planetarium leżą ~1–2 km od siebie w Shilin — pieszo albo **YouBike** — potem metrem do Shilin Night Market.
 
+🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Trzy punkty dnia stoją 1–2 km od siebie w jednej dzielnicy, a wieczór to nocny targ; auto stałoby zaparkowane. Zestawienie wszystkich dni: [car.md](../car.md).
+
 ## Route Map
 [Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Taipei+Childrens+Amusement+Park&destination=Shilin+Night+Market+Taipei&waypoints=National+Taiwan+Science+Education+Center+Taipei|Taipei+Astronomical+Museum&travelmode=walking)
 

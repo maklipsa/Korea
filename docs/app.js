@@ -143,7 +143,7 @@ function resetPacking() {
 // === TAB NAVIGATION ===
 let activeTab = 'overview';
 
-const FIXED_TABS = ['overview', 'passes', 'packing', 'cards', 'places', 'dmz'];
+const FIXED_TABS = ['overview', 'passes', 'packing', 'cards', 'places', 'dmz', 'car'];
 
 // A tab is deep-linkable via the URL hash (e.g. #dmz, #day-3). Used both to
 // restore the tab on load and to let in-content links (checklist, day notes)
@@ -185,6 +185,8 @@ function renderContent() {
     main.innerHTML = renderPlaces();
   } else if (activeTab === 'dmz') {
     main.innerHTML = renderDmz();
+  } else if (activeTab === 'car') {
+    main.innerHTML = renderCar();
   } else {
     const day = DAYS.find(d => d.id === activeTab);
     if (day) main.innerHTML = renderDay(day);
@@ -597,6 +599,13 @@ function renderDmz() {
     return '<div class="overview-section"><p>Brak danych DMZ — uruchom <code>python generate_site_data.py</code>.</p></div>';
   }
   return `<div class="cards-page"><section class="card-doc" id="dmz"><h2 class="card-doc-title">${DMZ.title}</h2>${DMZ.html}</section></div>`;
+}
+
+function renderCar() {
+  if (typeof CAR === 'undefined' || !CAR) {
+    return '<div class="overview-section"><p>Brak danych o aucie — uruchom <code>python generate_site_data.py</code>.</p></div>';
+  }
+  return `<div class="cards-page"><section class="card-doc" id="car"><h2 class="card-doc-title">${CAR.title}</h2>${CAR.html}</section></div>`;
 }
 
 // === INIT ===

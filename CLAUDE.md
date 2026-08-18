@@ -16,11 +16,12 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 | `passes.md` | City/transport/transit passes, transit cards, eSIM/connectivity. |
 | `places.md` | Master place catalog (region → district → category). Parsed by the Python tool. |
 | `packing.md` | Packing list (adults + kids), in Polish. Source of the site's **Pakowanie** tab — each `##` becomes one section, every `- [ ]` a tickable item. |
+| `car.md` | Rental-car decision layer for the **Taiwan** leg → site's **Auto** tab. Which days a car changes (24, 26, 27, 28 sie) vs. which it doesn't, IDP rules, the 6-people-with-luggage vehicle trap, costs, and the knock-on effect on the HSR pass. The hour-by-hour car variants live in the day files as a trailing `## Wariant z samochodem` section — placed **after `## Also Nearby`** so `parse_table` still picks the no-car `## Schedule` as the first table. |
 | *(trip-planner plugin)* | The taste/planning tooling lives in the **`trip-planner`** Claude Code plugin (marketplace `trip-tools`, checked out at **`~/.claude/plugins/marketplaces/trip-tools/`** — skills live under `plugins/trip-planner/skills/<name>/SKILL.md`. It is its own git repo, **github.com/maklipsa/trip-planner**, branch **`master`** not `main`, and it has **no git identity configured** — set `user.name`/`user.email` locally before committing. ⚠️ An earlier note in this file gave `c:\src\trip-planner`; that path does not exist), not in this repo: skills `find-places`, `add-place`, `split-into-days`, plus the rules skills **`priorities`** (priority ladder + 1–5 ★ rubric) and **`day-planning`** (day-shape & clustering). Enable via `.claude/settings.local.json`. |
 | `gmaps_saver.py` / `maps_automator.py` / `markdown_parser.py` | Maps saver: CLI / Playwright automation / Markdown→`Place` parser. |
-| `generate_site_data.py` | Generates `docs/data.js` from the Markdown (stdlib only). |
-| `docs/` | Static Pages site: `index.html`, `app.js`, `data.js` (generated), `style.css`, `firebase-config.js`. |
-| `.github/workflows/` | `regen-data.yml` (regen + commit `data.js` on push) and `deploy-pages.yml` (regen + deploy to Pages). |
+| `generate_site_data.py` | Generates `docs/data.js` **and `docs/data.json`** from the Markdown (stdlib only) — one payload, two artifacts. |
+| `docs/` | Static Pages site: `index.html`, `app.js`, `data.js` + `data.json` (both generated), `style.css`, `firebase-config.js`. |
+| `.github/workflows/` | `regen-data.yml` (regen + commit `data.js`/`data.json` on push) and `deploy-pages.yml` (regen + deploy all of `docs/` to Pages). |
 
 ## Content conventions — follow exactly
 
@@ -89,13 +90,22 @@ python gmaps_saver.py places.md --list-name "Korea 2026"
 
 Vanilla-JS SPA, no framework/bundler. Open `docs/index.html` directly to preview; push to `main` to deploy.
 
-**Markdown is the single source of truth.** `docs/data.js` holds the `DAYS`, `CHECKLIST`, `PASSES`, `PACKING`, `CARDS`, `PLACES`, `DMZ` globals and is **generated — never hand-edit it.** After editing any Markdown, regenerate:
+**Markdown is the single source of truth.** `docs/data.js` holds the `DAYS`, `CHECKLIST`, `PASSES`, `PACKING`, `CARDS`, `PLACES`, `DMZ`, `CAR` globals and is **generated — never hand-edit it.** After editing any Markdown, regenerate:
 
 ```bash
-python generate_site_data.py    # rewrites docs/data.js
+python generate_site_data.py    # rewrites docs/data.js AND docs/data.json
 ```
 
-The workflows keep `data.js` in sync on push, but run it locally anyway so previews and the committed diff stay current.
+The workflows keep both files in sync on push, but run it locally anyway so previews and the committed diff stay current.
+
+**Two artifacts, one payload.** `main()` builds a single `payload` dict and writes it twice, so the files cannot drift:
+
+| File | Format | Who reads it |
+|------|--------|--------------|
+| `docs/data.js` | `const DAYS = …;` globals + `<script>` tag | **The site.** `app.js` reads the globals synchronously, and `fetch()` is CORS-blocked on `file://` — so this is what keeps `docs/index.html` openable straight from disk. **Don't convert the site to fetch `data.json`** without also accepting the loss of file:// preview and making `app.js` init async. |
+| `docs/data.json` | plain JSON, same keys | **Everything that isn't the site** — AI tools, scripts, other trip members. Served publicly alongside the site, so it needs no auth. |
+
+⚠️ Adding a new top-level Markdown source means touching **three** places: a `build_*` + `payload` entry in `generate_site_data.py`, the `paths:` trigger list in `regen-data.yml` (otherwise a content edit ships stale data), and — if it gets its own tab — `FIXED_TABS` + a render branch in `app.js` plus a `data-tab` button in `index.html`. `car.md` is the worked example.
 
 Hand-written HTML in `app.js` (**not** generated, edit directly, and it is in **Polish**): the weather/strategy grid + Closed-Day rule tables + "Optional Swaps" cards on the Packing tab, eSIM/transit notes in `renderPasses`, the emoji legend (`LEGEND_GROUPS`). Tab labels live in `index.html` — translate the label, never the `data-tab` id.
 

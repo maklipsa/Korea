@@ -8,6 +8,8 @@ Lot do domu **odlatuje z Taipei Taoyuan (TPE) o 19:25** — macie do dyspozycji 
 
 **Transport:** MRT + pieszo, wszystko w osi Zhongshan ⇄ Zhongzheng (płasko, przyjazne **YouBike**). Na koniec **Airport MRT Express** (Taipei Main → TPE, ~35 min, NT$160) — wyjazd z centrum do ~15:15.
 
+🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Pętla MoCA → Huashan → Railway Museum jest w centrum i pieszo, a bagaże i tak leżą w skrytkach na Taipei Main. Auto dałoby tylko bagaże pod ręką i dojazd na TPE — za cenę parkowania w Zhongshan i ryzyka w dniu z twardym deadlinem. Zestawienie wszystkich dni: [car.md](../car.md).
+
 ## Route Map
 
 [Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Chia+Te+Bakery+Taipei&destination=Taipei+Main+Station&waypoints=Museum+of+Contemporary+Art+Taipei|Miniatures+Museum+of+Taiwan+Taipei|Huashan+1914+Creative+Park+Taipei|National+Railway+Museum+Taipei&travelmode=walking)

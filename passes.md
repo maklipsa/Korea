@@ -65,6 +65,8 @@ Wykorzystanie (daty przesunięte o dzień wraz z całym Tajwanem):
 
 **Razem cena normalna: NT$2,840. Oszczędność NT$340.** Plus wygoda nielimitowanych przejazdów w te dni.
 
+⚠️ **Warunek: ten rachunek działa tylko bez wynajętego auta.** Jeśli bierzecie van na 26–28 sie, odcinek Taichung → Tainan (NT$650) jedziecie autem i zostają **dwa** przejazdy HSR: 26 sie Taipei → Taichung (NT$700) + 28 sie Zuoying → Taipei (NT$1,490) = **NT$2,190**, czyli **NT$310 mniej niż pass**. Wtedy **kupujecie bilety pojedyncze, nie pass.** Pełne porównanie: [car.md](car.md).
+
 Kup: Klook, KKday lub na stacjach THSR (z paszportem).
 
 ### KTX (koleje dużych prędkości w Korei)

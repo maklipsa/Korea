@@ -13,6 +13,12 @@ on:
       - 'passes.md'
       - 'places.md'
       - 'days/*.md'
+      # every other Markdown that generate_site_data.py reads — without these a
+      # content edit would ship a stale docs/data.js
+      - 'car.md'
+      - 'packing.md'
+      - 'dmz.md'
+      - 'cards/*.md'
       - 'annotate_places.py'
       - 'generate_site_data.py'
       # asset edits change their content hash → re-stamp index.html
@@ -42,17 +48,17 @@ jobs:
       - name: Annotate places.md with visit days
         run: python annotate_places.py --write
 
-      - name: Regenerate docs/data.js
+      - name: Regenerate docs/data.js + docs/data.json
         run: python generate_site_data.py
 
       - name: Commit if changed
         run: |
-          if [ -n "$(git status --porcelain places.md docs/data.js docs/index.html)" ]; then
+          if [ -n "$(git status --porcelain places.md docs/data.js docs/data.json docs/index.html)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add places.md docs/data.js docs/index.html
-            git commit -m "chore: annotate places.md visit days + regenerate docs/data.js"
+            git add places.md docs/data.js docs/data.json docs/index.html
+            git commit -m "chore: annotate places.md visit days + regenerate docs/data.js and data.json"
             git push
           else
-            echo "places.md and docs/data.js already up to date — nothing to commit."
+            echo "places.md, docs/data.js and docs/data.json already up to date — nothing to commit."
           fi

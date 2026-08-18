@@ -2,6 +2,8 @@
 
 **Transport (zmiana miasta):** Pociąg/HSR Tainan → Kaohsiung. Poranek w Tainan to zwarty klaster do przejścia pieszo; Kaohsiung to **MRT + LRT/tramwaj + prom na Cijin**. Bez samochodu.
 
+🚗 **Harmonogram poniżej to wariant BEZ samochodu.** Na końcu pliku jest **wariant z autem**, który odblokowuje **Fo Guang Shan** — skreślony niżej jako „osobne pół dnia" — kosztem skrócenia Cijin do ~70 min. Decyzja i koszty: [car.md](../car.md).
+
 ## Route Map
 
 **Poranek w Tainan:**
@@ -55,3 +57,44 @@
 
 ### Nocne targi w Kaohsiung
 - [★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung) — największy i najlepszy w Kaohsiung; 500+ straganów (zamknięty w pon. i śr.; dziś, w czw., otwarty — jest teraz opcją A na kolację w harmonogramie)
+
+---
+
+## Wariant z samochodem
+
+> Harmonogram powyżej to **wariant bez samochodu** (TRA + MRT + prom). Poniżej ten sam dzień vanem odebranym 26 sie w Taichung. Formalności, koszty i pułapki wynajmu: [car.md](../car.md).
+
+**Auto odblokowuje w tym dniu jedną konkretną rzecz i jest to rzecz pierwszej ligi: [★★★★☆ 🏯🏛️ Fo Guang Shan](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung).** W „Also Nearby" powyżej jest skreślone słowami „~40 min drogi do Dashu = **osobne pół dnia**; nie zmieści się w dzisiejszym napiętym planie". Autem to przestaje być prawdą, bo **leży praktycznie po drodze z Tainan do Kaohsiung**: autostrada 1 → autostrada 10 na wschód → węzeł Qishan/Dashu → droga 29. Auto pochłania cały czas, który bez niego zjadał przejazd TRA + przesiadki MRT, i zamienia go na dwie godziny w największym klasztorze buddyjskim na Tajwanie.
+
+✅ **Terminy się zgadzają:** Buddha Museum jest **bezpłatne**, otwarte pon.–pt. 9:00–18:00, a **świątynia zamyka we wt.** — 27 sie to czwartek. Parking dla samochodów przy Information Tower, dla autokarów bezpłatny.
+
+**Poranek w Tainan jest identyczny i pieszy.** Klaster Six Thousand Beef Soup → Guohua St → Chihkan → Grand Matsu → Du Hsiao Yueh → Hayashi → Tainan Art Museum to ciasne śródmieście — **van stoi na parkingu hotelowym do 13:00** i słusznie. Autem nie wjeżdża się w te uliczki.
+
+### Schedule — wariant z samochodem
+
+| Time | Activity | Price |
+|------|----------|-------|
+| 7:00 | **Poranek w Tainan bez zmian, pieszo** — [★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan) (czw. ✅ otwarte, przyjdźcie przed 7:00) → [★★★☆☆ 🍜🚶 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan) → [★★★★☆ 🏯 Chihkan Tower](https://www.google.com/maps/search/Chihkan+Tower+Tainan) → [★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) → [★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan) → [★★★☆☆ 🛍️📸 Hayashi Department Store](https://www.google.com/maps/search/Hayashi+Department+Store+Tainan). **Van zostaje na parkingu.** | jak w planie bez auta |
+| 12:00 | **[★★★★☆ 🏛️🎨 Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum)** — Building 2 Shigeru Bana z fraktalnym dachem; zamknięte w pon., dziś (czw.) otwarte. **Nie skracajcie — to jedyne muzeum poranka.** | ~NT$100 |
+| 13:00 | Odbiór vana, wyjazd z Tainan → **Fo Guang Shan** (~50 min: autostrada 1 → autostrada 10 E → węzeł Qishan/Dashu → droga 29). |  |
+| 13:50 | **[★★★★☆ 🏯🏛️ Fo Guang Shan Monastery](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung)** — ⬆️ **wchodzi do planu tylko w tym wariancie.** Największy klasztor buddyjski na Tajwanie: aleja ośmiu pagód, cztery stupy, ogromny posąg Buddy i **Buddha Museum** z kolekcją sztuki buddyjskiej. **Bezpłatnie**, pon.–pt. 9:00–18:00. Pełne 2 h — to nie jest przystanek na zdjęcie. | **Bezpłatnie** (parking bezpłatny) |
+| 15:50 | Przejazd Fo Guang Shan → **Kaohsiung** (~40 min autostradą 10 + 1). |  |
+| 16:30 | **[★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung)** — zaparkujcie w okolicy i zejdźcie do stacji na 15 min. ⚠️ **Tracicie pokaz świetlny o 15:00** — samo szkło (największe takie dzieło na świecie, 4,000+ elementów) jest oczywiście na miejscu cały czas. | Bezpłatnie |
+| 16:50 | Przejazd (~10 min) → **Pier-2**, parking przy terenie. |  |
+| 17:00 | **[★★★★☆ 🏛️🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** + **[★★★★☆ 🏛️🧒 Takao Railway Museum](https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung)** — portowe magazyny z galeriami, murale i przewrotne rzeźby, a na tych samych torach odrestaurowana stacja Takao z 1908 i 30+ lokomotyw. | Bezpłatnie (na zewnątrz) |
+| 18:00 | Przejazd (~5 min) na **Gushan Ferry Pier**, parking. ⚠️ **Zostawiacie auto i wchodzicie na prom jako piesi** — tunel podportowy przepuszcza samochody, ale prom jest częścią atrakcji i nie ma sensu go sobie odbierać. | Prom NT$20 EasyCard / NT$30 gotówką |
+| 18:15 | **[★★★☆☆ 🌳🚡 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** — o zmierzchu (zachód ~18:35): owoce morza na Cijin Old Street, Black Sand Beach, latarnia morska, Rainbow Church. ⚠️ **~70 min zamiast ~2 h** — to jest cena Fo Guang Shan. |  |
+| 19:30 | Prom z powrotem, odbiór auta. |  |
+| 19:50 | **[★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung)** — 500+ straganów, czw. ✅ otwarte (zamknięty w pon. i śr.). Autem ~15 min z portu; parking płatny w okolicy. Alternatywa na zmęczone nogi: **[★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung)** przy Formosa Boulevard. | ~NT$200–400/os. |
+
+### Co tracicie, biorąc auto
+
+**To jest realny handel, nie darmowy zysk:**
+
+| Tracicie | Zyskujecie |
+|----------|------------|
+| **Cijin skrócone z ~2 h do ~70 min** — zostaje Old Street, latarnia i plaża o zmierzchu, ale nie ma czasu na wypożyczenie rowerów i objazd wybrzeża | **Fo Guang Shan, 2 h** — największy klasztor buddyjski na Tajwanie + muzeum sztuki buddyjskiej, bezpłatnie |
+| **Pokaz świetlny w Dome of Light o 15:00** (samo szkło zostaje) | Zero przesiadek TRA/MRT z bagażami dnia |
+| Kierowca ma za sobą ~2 h jazdy przed wieczorem | Wieczorny dojazd na Ruifeng bez liczenia minut do MRT |
+
+**Jeśli nie chcecie skracać Cijin:** zamiast tego **oddajcie Cijin całkowicie** i zrobcie Fo Guang Shan spokojnie (13:00–16:30), Pier-2 z Takao Railway Museum do 18:30, a wieczór na Ruifeng bez pośpiechu. Cijin to wyspa z plażą i promem — Fo Guang Shan to rzecz, której nie zobaczycie w Polsce ani nigdzie indziej na tej trasie.

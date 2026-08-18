@@ -5,6 +5,8 @@
 
 **Transport (dzień pod znakiem metra):** Wszystko na **MRT** + krótki autobus do National Palace Museum z Shilin. Przystanki rozciągają się daleko na osi N–S (Beitou ⇄ Xinyi ⇄ Songshan), więc doliczcie czas na MRT — bez samochodu.
 
+🚗 **Brak wariantu alternatywnego — ale to jedyny dzień „na granicy".** Zygzak NPM → Beitou → Elephant Mountain → Raohe to najdłuższe przejazdy w całym Taipei (~2,5–3 h) i auto skróciłoby je o ~pół godziny — **za mało, żeby odzyskać kąpiel w Spring City albo wcisnąć Taiwan Design Museum**, czyli bez zmiany choćby jednej pozycji w planie, a parkowanie przy NPM, w Xinbeitou, pod Xiangshan i przy Raohe zjada tę oszczędność z powrotem. Kandydat tylko wtedy, gdy i tak macie auto z 24 sie i chcecie je dzień dłużej: [car.md](../car.md).
+
 ## Route Map
 [Trasa samochodem w Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Beitou+Hot+Spring+Museum+Taipei|Thermal+Valley+Beitou+Taipei|Spring+City+Resort+Beitou+Taipei|Elephant+Mountain+Xiangshan+Taipei|Taipei+101|Pokemon+Center+Taipei|Songshan+Cultural+and+Creative+Park+Taipei&travelmode=driving)
 

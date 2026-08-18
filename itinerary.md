@@ -37,7 +37,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 - [x] ~~**Discover Seoul Pass 48h** (69,000 KRW)~~ — ❌ **NIE kupujemy (decyzja 16 sie):** po skreśleniu COEX Aquarium zysk spadł do ~+5,000 KRW/dorosłego, za mało wobec presji zegara 48 h. Wszystko płacone pojedynczo.
 - [ ] **Visit Busan Pass — NIE bierzcie wersji 24 h** (55,000 KRW): przy dwóch dniach w Busan (19 + 20 sie) jej ruchome okno nie obejmie obu. Jeśli w ogóle kupujecie pass, to **BIG3 (45,000) albo BIG5 (65,000)** — nie mają zegara (180 dni), więc spinają oba dni. Rachunek w [cards/busan.md](cards/busan.md).
 - [ ] ~~**Taipei Fun Pass Unlimited 2-day**~~ — 🔻 **NIE kupujemy.** Po skreśleniu tarasu Taipei 101 (płatny punkt widokowy, kategoria N Seoul Tower 2/6) w passie zostaje właściwie samo NPM, do którego wszystkie 3 dzieci wchodzą bezpłatnie → ~NT$550–750 wartości wobec NT$1,700. **Do rozstrzygnięcia zamiast tego:** czy 24 sie jedziecie na wybrzeże sami (→ wtedy **3-day dla 3 dorosłych**, aktywacja 23 sie, bo zastępuje wycieczkę z przewodnikiem), czy z przewodnikiem (→ **żadnego passa dla nikogo**, EasyCard + kasy). Rachunek: [passes.md](passes.md), [cards/taipei.md](cards/taipei.md)
-- [ ] **Taiwan HSR Flexible 2-day Pass** (NT$2,500) — na **26 sie + 28 sie**
+- [ ] **Taiwan HSR Flexible 2-day Pass** (NT$2,500) — na **26 sie + 28 sie**. ⚠️ **Najpierw zdecydujcie o wynajmie auta na 26–28 sie** — w wariancie z autem zostają tylko dwa przejazdy HSR (NT$700 + NT$1,490 = **NT$2,190 < NT$2,500**), więc pass staje się stratą i kupujecie bilety pojedyncze. Rachunek: [car.md](car.md)
 
 ---
 
@@ -77,6 +77,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 - [Passy, karty i łączność — szczegóły](passes.md)
 - [Wszystkie miejsca według dzielnic](places.md)
 - [Lista rzeczy do pakowania — dorośli i dzieci (PL)](packing.md)
+- [Auto na Tajwanie — warianty dni z wynajętym samochodem i bez](car.md) — które 4 dni z 9 realnie się zmieniają (24, 26, 27, 28 sie), formalności (IDP), pułapka „7-osobowego" auta przy 6 osobach z bagażem, koszty i skutek dla HSR Pass
 
 ---
 

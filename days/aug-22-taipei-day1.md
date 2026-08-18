@@ -5,6 +5,8 @@
 
 **Transport (kompaktowy — przyjazny rowerom):** MRT + pieszo; odcinek Longshan → Ximending → Dadaocheng jest płaski i dobry na **YouBike** (przyłóż EasyCard).
 
+🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Cały dzień to jeden pieszy korytarz, a Wanhua i Ximending to ciasne zaułki bez parkingu — autem byłoby **wolniej**. Zestawienie wszystkich dni: [car.md](../car.md).
+
 ## Route Map
 [Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|228+Peace+Memorial+Park+Taipei|National+Center+of+Photography+and+Images+Taipei|Snow+King+Ice+Cream+Taipei|Modern+Toilet+Restaurant+Ximending+Taipei|Ximen+Red+House+Taipei|Dihua+Street+Taipei|Dadaocheng+Wharf+Taipei&travelmode=walking)
 
