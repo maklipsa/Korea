@@ -2,7 +2,7 @@
 
 **Cel tego pliku:** ustalić, czy przy naszym planie warto kupować w Taichung jakąkolwiek kartę zniżkową (tylko rano 26 sie, w drodze Taipei → Tainan).
 
-> **TL;DR — żadnej karty. Wszystkie nasze przystanki w Taichung są bezpłatne. Koszt biletów na osobę: NT$0.** Do autobusu czy krótkiej taksówki wystarczy przyłożyć EasyCard/iPASS.
+> **TL;DR — żadnej karty.** Po przebudowie poranka 26 sie mamy w Taichung **jedną biletowaną atrakcję** (National Museum of Natural Science, ~NT$100 dorosły + NT$20 za szklarnię/centrum nauki, dzieci ulgowo) — za mało, żeby jakikolwiek pass się zwrócił, bo lokalne passy i tak jej nie obejmują. **Koszt biletów: ~NT$100–120 na dorosłego.** Do autobusu czy krótkiej taksówki wystarczy przyłożyć EasyCard/iPASS.
 
 ---
 
@@ -19,7 +19,8 @@ Istnieją dzienne passy na Taichung MRT oraz passy „Taichung MRT" na Klooku, a
 
 | Atrakcja | Cena w kasie (dorosły) | Cena w kasie (dziecko) | Karta obejmuje? | Nasz dzień |
 |------------|--------------|--------------|--------------|---------|
-| Rainbow Village | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie, rano |
+| **National Museum of Natural Science** | ~100 (+20 szklarnia / centrum nauki) | ulgowo, ~70 (+20) | ❌ nie | **26 sie, rano** |
+| ~~Rainbow Village~~ | BEZPŁATNIE | BEZPŁATNIE | n/d | ❌ skreślone — patrz `days/aug-26-taichung-tainan.md` |
 | Miyahara Ice Cream (sklep) | wstęp wolny | BEZPŁATNIE | n/d | 26 sie, rano |
 | National Taichung Theater | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie, rano |
 | Taichung Second Market (jedzenie) | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie, rano |

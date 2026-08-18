@@ -36,7 +36,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 ### Passy do kupienia (szczegóły w [passes.md](passes.md))
 - [x] ~~**Discover Seoul Pass 48h** (69,000 KRW)~~ — ❌ **NIE kupujemy (decyzja 16 sie):** po skreśleniu COEX Aquarium zysk spadł do ~+5,000 KRW/dorosłego, za mało wobec presji zegara 48 h. Wszystko płacone pojedynczo.
 - [ ] **Visit Busan Pass — NIE bierzcie wersji 24 h** (55,000 KRW): przy dwóch dniach w Busan (19 + 20 sie) jej ruchome okno nie obejmie obu. Jeśli w ogóle kupujecie pass, to **BIG3 (45,000) albo BIG5 (65,000)** — nie mają zegara (180 dni), więc spinają oba dni. Rachunek w [cards/busan.md](cards/busan.md).
-- [ ] **Taipei Fun Pass Unlimited 2-day** (~NT$1,700) — aktywuj **22 sie** (nie 21 sie: 21 sie to dzień przelotu, w miasto wchodzicie ~12:15 i nie wchodzicie do żadnej płatnej atrakcji, więc odbicie passu spaliłoby połowę jego ważności)
+- [ ] ~~**Taipei Fun Pass Unlimited 2-day**~~ — 🔻 **NIE kupujemy.** Po skreśleniu tarasu Taipei 101 (płatny punkt widokowy, kategoria N Seoul Tower 2/6) w passie zostaje właściwie samo NPM, do którego wszystkie 3 dzieci wchodzą bezpłatnie → ~NT$550–750 wartości wobec NT$1,700. **Do rozstrzygnięcia zamiast tego:** czy 24 sie jedziecie na wybrzeże sami (→ wtedy **3-day dla 3 dorosłych**, aktywacja 23 sie, bo zastępuje wycieczkę z przewodnikiem), czy z przewodnikiem (→ **żadnego passa dla nikogo**, EasyCard + kasy). Rachunek: [passes.md](passes.md), [cards/taipei.md](cards/taipei.md)
 - [ ] **Taiwan HSR Flexible 2-day Pass** (NT$2,500) — na **26 sie + 28 sie**
 
 ---
@@ -61,13 +61,13 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 | Dzień | Data | Podsumowanie | Link |
 |-----|------|---------|------|
 | 11 | 21 sie (pt) | Lot Busan → Taipei (odlot 9:00) + popołudnie w Taipei | [aug-21-busan-to-taipei.md](days/aug-21-busan-to-taipei.md) |
-| 12 | 22 sie (sob) | Taipei Dzień 1: stare Taipei + dziwne lody + Ximending + Ningxia | [aug-22-taipei-day1.md](days/aug-22-taipei-day1.md) |
-| 13 | 23 sie (niedz) | Taipei Dzień 2: NPM + gorące źródła Beitou + Elephant Mountain + Taipei 101 + Raohe | [aug-23-taipei-day2.md](days/aug-23-taipei-day2.md) |
-| 14 | 24 sie (pon) | Północno-wschodnie wybrzeże: Yehliu + Shifen (lampiony!) + Jiufen | [aug-24-northeast-coast.md](days/aug-24-northeast-coast.md) |
+| 12 | 22 sie (sob) | Taipei Dzień 1: stare Taipei + dziwne lody + Ximending + TFAM za darmo + Ningxia | [aug-22-taipei-day1.md](days/aug-22-taipei-day1.md) |
+| 13 | 23 sie (niedz) | Taipei Dzień 2: NPM + gorące źródła Beitou + Elephant Mountain (zamiast tarasu 101) + Raohe | [aug-23-taipei-day2.md](days/aug-23-taipei-day2.md) |
+| 14 | 24 sie (pon) | Północno-wschodnie wybrzeże: Yehliu + Shifen (lampiony!) + kopalnia w Jinguashi + Jiufen o zmierzchu | [aug-24-northeast-coast.md](days/aug-24-northeast-coast.md) |
 | 15 | 25 sie (wt) | Taipei Dzień 3: dzień nauki dla dzieci + Shilin Night Market | [aug-25-taipei-day3.md](days/aug-25-taipei-day3.md) |
-| 16 | 26 sie (śr) | HSR do Taichung (Rainbow Village, Miyahara) → Tainan (Anping) | [aug-26-taichung-tainan.md](days/aug-26-taichung-tainan.md) |
+| 16 | 26 sie (śr) | HSR do Taichung (muzeum przyrodnicze, teatr Toyo Ito, Miyahara) → Tainan (Anping) | [aug-26-taichung-tainan.md](days/aug-26-taichung-tainan.md) |
 | 17 | 27 sie (czw) | Tainan przed południem (kulinarny obchód + świątynie) → Kaohsiung (Pier-2, Cijin Island) | [aug-27-tainan-kaohsiung.md](days/aug-27-tainan-kaohsiung.md) |
-| 18 | 28 sie (pt) | Kaohsiung przed południem (Lotus Pond) → HSR do Taipei → Maokong Gondola | [aug-28-kaohsiung-taipei.md](days/aug-28-kaohsiung-taipei.md) |
+| 18 | 28 sie (pt) | Kaohsiung przed południem (Lotus Pond + KMFA) → HSR do Taipei → Maokong Gondola | [aug-28-kaohsiung-taipei.md](days/aug-28-kaohsiung-taipei.md) |
 | 19 | 29 sie (sob) | Ostatni dzień w Taipei (MoCA, Huashan, Railway Museum) → lot do domu (odlot 19:25) | [aug-29-fly-home.md](days/aug-29-fly-home.md) |
 
 ---

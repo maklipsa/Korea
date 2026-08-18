@@ -5,10 +5,12 @@
 
 **Transport (dwa miasta):** **HSR** Kaohsiung → Taipei (pass, dzień 2). Na obu końcach wszystko na MRT, plus LRT w Kaohsiung i **gondola Maokong**. Bez samochodu.
 
+**🔁 Poranek w Kaohsiung przebudowany.** Wypadły **British Consulate at Takow** (płatny punkt widokowy, NT$99/49 — po werdykcie N Seoul Tower 2/6 widok za bilet idzie u nas na koniec kolejki, zwłaszcza że panorama Sizihwan jest za darmo z okolicznych uliczek i ze Shoushan) oraz **spacer nad Love River** (miejski spacer nadrzeczny — kategoria, która w Korei dała najniższy wynik spośród „ładnych" punktów: Cheonggyecheon 3/6, a Love River i tak widzieliście wieczorem 27 sie). Weszło **KMFA** — bo dzień w tej wersji nie miał żadnego muzeum, a Kaohsiung ma dwie duże instytucje. Bonus: cały poranek zamyka się teraz w korytarzu Zuoying ↔ Aozihdi, czyli przy stacji HSR, więc odpada bieg przez miasto z bagażami przed pociągiem o 12:30.
+
 ## Route Map
 
 **Kaohsiung, poranek:**
-[Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotus+Pond+Kaohsiung&destination=Love+River+Kaohsiung&waypoints=British+Consulate+Takow+Kaohsiung&travelmode=driving)
+[Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotus+Pond+Kaohsiung&destination=Kaohsiung+Museum+of+Fine+Arts&travelmode=driving)
 
 **Taipei, wieczór:**
 [Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Tonghua+Night+Market+Taipei&waypoints=Taipei+Zoo|Yongkang+Street+Taipei|Yongkang+Beef+Noodles+Taipei|Din+Tai+Fung+Yongkang+Taipei|Dongmen+Dumplings+Taipei&travelmode=driving)
@@ -17,10 +19,10 @@
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 7:30 | **[★★★★☆ 🌳🏯 Lotus Pond](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung)** — jezioro o obwodzie 1,4 km. Wejdź do **Dragon & Tiger Pagodas** (wejście paszczą smoka, wyjście przez tygrysa = szczęście; ponownie otwarte w kwietniu 2025 po 5-letnim remoncie, w pełni dostępne). Spring & Autumn Pavilions. Otwarte od 6:00. | Bezpłatnie |
-| 10:00 | **[★★★☆☆ 📸🗼 British Consulate at Takow](https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung)** — czerwona cegła z 1865 r. Zapierające dech widoki na Sizihwan Bay. Otwarcie **10:00** w dni powszednie (zamknięte w śr. i 3. pon. miesiąca); ostatnie wejście 18:30. | NT$99 dorosły / NT$49 dziecko (w tym bon na pamiątki NT$50) |
-| 10:30 | Spacer w okolicy **[★★★☆☆ 🚶🌳 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung)**. |  |
-| 11:30 | Lunch w Kaohsiung (papaya milk — specjalność Kaohsiung!). |  |
+| 7:30 | **[★★★★☆ 🌳🏯 Lotus Pond](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung)** — jezioro o obwodzie 1,4 km. Wejdź do **Dragon & Tiger Pagodas** (wejście paszczą smoka, wyjście przez tygrysa = szczęście; ponownie otwarte w kwietniu 2025 po 5-letnim remoncie, w pełni dostępne). Spring & Autumn Pavilions. Otwarte od 6:00, bez biletów, najchłodniejsza godzina dnia — i **leży przy Zuoying, czyli przy waszej stacji HSR**, więc cały poranek trzyma się jednego końca miasta. | Bezpłatnie |
+| 9:30 | Taksówka/MRT wzdłuż czerwonej linii (~15 min) — **nowy punkt poranka, w miejsce płatnego tarasu w konsulacie i spaceru nad Love River.** |  |
+| 9:45 | **[★★★★☆ 🏛️🧒 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts)** — Muzeum sztuki w wielkim parku nad jeziorem, z **osobnym skrzydłem Children's Museum of Art** (własne godziny) obok głównych galerii. Naprawdę zrobione pod dzieci, nie „muzeum sztuki, do którego można wejść z dzieckiem". Wt.–niedz. 9:30–17:30, zamknięte w pon. (pt. = otwarte). **Dotąd 28 sie nie miało ANI JEDNEGO muzeum** — to była największa dziura w tajwańskiej części planu. | ⚠️ do potwierdzenia: ~NT$100 dorosły, dzieci ulgowo/bezpłatnie |
+| 11:30 | Lunch w Kaohsiung (papaya milk — specjalność Kaohsiung!) — w okolicy Zuoying, blisko HSR. |  |
 | 12:30 | **HSR Zuoying (Kaohsiung) → Taipei** (1 h 35 min). | HSR Pass |
 | 14:30 | Przyjazd do Taipei. Zostaw bagaże w hotelu lub w skrytkach. |  |
 | 15:00 | **[★★★★☆ 🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei)** — 30-minutowy przejazd nad plantacjami herbaty. Weź **Crystal Cabin ze szklaną podłogą** (NT$50 dopłaty). Dzieci to uwielbiają. W pt. otwarte i dłużej niż w tygodniu — pt./sob. kolejka jeździ do ~22:00 (zamknięte w pon.), więc na herbatę w Maokong po zmierzchu jest teraz więcej czasu. | NT$180/przejazd lub NT$300 pass dzienny |
@@ -39,9 +41,11 @@
 ## Also Nearby
 
 ### Więcej w Kaohsiung
+- [★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — **Ambitniejsza zamiana za KMFA.** Ogromne interaktywne muzeum STEM + kopuła IMAX (Sanmin), punkt wprost wskazany w naszej liście priorytetów. Wt.–niedz. 9:00–17:00 (latem do 18:00), zamknięte w pon.; NT$100 dorosły / ~NT$70 uczeń i dziecko. ⚠️ To obiekt na **pół dnia** — wchodzi tylko wtedy, gdy odpuścicie Lotus Pond i pojedziecie tam prosto od 9:00, a i tak trzeba wyjść ok. 11:45 do HSR. ⚠️ Był remont do 31 maja 2026 — potwierdźcie otwarcie
+- ⏭️ [★★★☆☆ 📸🗼 British Consulate at Takow](https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung) — **Wypadł z harmonogramu** (płatny punkt widokowy, patrz notka na górze dnia). Czerwona cegła z 1865 r., widoki na Sizihwan Bay; w dni powszednie od 10:00, zamknięte w śr.; NT$99 dorosły / NT$49 dziecko, z czego NT$50 wraca bonem na pamiątki
+- ⏭️ [★★★☆☆ 🚶🌳 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — **Wypadła z harmonogramu**; podświetlona nocą, ale to zwykły spacer nadrzeczny, a widzieliście ją już wieczorem 27 sie
 - [★★★☆☆ 🎭🎨 Weiwuying](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — Największe na świecie centrum sztuk scenicznych; warsztaty rodzinne
 - ☕ Papaya milk od ulicznych sprzedawców — specjalność Kaohsiung!
-- [★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — Ogromna interaktywna wystawa STEM + kopuła IMAX (Sanmin). Zamknięte w pon.; NT$100 dorosły / dzieci ze zniżką. ⚠️ Pół dnia — ciasno przed HSR na północ
 - [★★★☆☆ 🐾🧒 Shoushan Zoo](https://www.google.com/maps/search/Shoushan+Zoo+Kaohsiung) — Odnowione zoo o swobodnym układzie z podwyższonymi pomostami, Shoushan Park. Zamknięte w pon.; NT$40 / NT$20 dzieci
 - [★★★☆☆ 🏛️🚶 Zuoying Military Dependents' Village](https://www.google.com/maps/search/Zuoying+Military+Dependents+Village+Kaohsiung) — Odrestaurowany park kulturalny w dawnym osiedlu marynarki juancun przy Lotus Pond / Old City. Zamknięte w pon.; bezpłatnie/tanio
 - [★★★☆☆ 🛍️🍜 Neiwei Afternoon Market](https://www.google.com/maps/search/Neiwei+Market+Kaohsiung) — Rzadki dzienny targ z jedzeniem na chodzie, jeden przystanek MRT od Zuoying/HSR. Bezpłatnie

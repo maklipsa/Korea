@@ -2,7 +2,9 @@
 
 **Cel tego pliku:** ustalić, czy w Kaohsiung warto kupić jakąkolwiek kartę zniżkową pod nasz plan (27 sie po południu → 28 sie w południe).
 
-> **TL;DR — bez karty.** Nasze punkty programu w Kaohsiung są niemal wszystkie bezpłatne, a dwa płatne to drobiazgi. Przykładaj **EasyCard/iPASS** w MRT + LRT + na promie na Cijin, a wstęp do British Consulate zapłać w kasie. Koszt biletów na osobę: **~NT$139 tak samo dla dorosłych i dzieci** (brak udokumentowanej stawki dziecięcej w Consulate) (+ trochę na transport).
+> **TL;DR — bez karty.** Nasze punkty programu w Kaohsiung są niemal wszystkie bezpłatne, a płatne to drobiazgi. Przykładaj **EasyCard/iPASS** w MRT + LRT + na promie na Cijin, a wstęp do KMFA zapłać w kasie. Koszt biletów na osobę: **dorosły ~NT$140, dziecko ~NT$40–90** (prom w obie strony + KMFA) (+ trochę na transport).
+>
+> 🔻 **Aktualizacja 28 sie:** **British Consulate at Takow wypadł z planu** (płatny punkt widokowy — po werdykcie N Seoul Tower 2/6 nie wchodzimy na widoki za bilet), a w jego miejsce wchodzi **Kaohsiung Museum of Fine Arts**. Żaden lokalny pass nadal się nie zwraca, ale pozycja „Consulate NT$99" znika z rachunku, a pojawia się „KMFA ~NT$100 dorosły, dzieci ulgowo".
 
 ---
 
@@ -23,16 +25,17 @@
 | Lotus Pond i Dragon-Tiger Pagodas | BEZPŁATNIE | BEZPŁATNIE | n/d | 28 sie przed poł. |
 | Spacer nad Love River | BEZPŁATNIE | BEZPŁATNIE | n/d | 27 sie po poł. |
 | Prom na Cijin (w jedną stronę) | 30 gotówką / **20 EasyCard** | ~10–15 (EasyCard) | przyłóż EasyCard | 27/28 sie |
-| British Consulate at Takao | **99** (częściowo do odzyskania) | ~99 (brak udokumentowanej stawki dziecięcej) | pomiń pass, płać w kasie | 28 sie |
+| **Kaohsiung Museum of Fine Arts (KMFA)** | ~100 | ulgowo / dzieci bezpłatnie (potwierdź w kasie) | ❌ nie | **28 sie przed poł.** |
+| ~~British Consulate at Takao~~ | 99 (częściowo do odzyskania) | ~99 (brak udokumentowanej stawki dziecięcej) | — | ❌ skreślone z planu |
 | Kaohsiung MRT (za przejazd) | 20–35 | 20–35 (brak zniżki dla nierezydentów) | przyłóż EasyCard | oba dni |
 
 ---
 
 ## Rekomendacja
 
-**Nie kupuj żadnej karty.** Przykładaj **EasyCard/iPASS** przy wszystkich przejazdach MRT/LRT i na promie na Cijin (przy pół dnia PAYG bije pass dobowy za NT$150), a wstęp do **British Consulate** zapłać w kasie — bilet jest częściowo do odzyskania na miejscu (kupon ≈NT$30; część źródeł podaje pełną kwotę), więc to nie czysty koszt.
+**Nie kupuj żadnej karty.** Przykładaj **EasyCard/iPASS** przy wszystkich przejazdach MRT/LRT i na promie na Cijin (przy pół dnia PAYG bije pass dobowy za NT$150), a wstęp do **KMFA** zapłać w kasie.
 
-Na osobę, bez transportu: **dorosły ≈ NT$139** (prom w obie strony 40 + Consulate 99); **dzieci ≈ tyle samo, ~NT$139** (brak udokumentowanej stawki dziecięcej w Consulate). Dolicz po ~NT$80–140 na przejazdy MRT (dzieci płacą jak dorośli).
+Na osobę, bez transportu: **dorosły ≈ NT$140** (prom w obie strony 40 + KMFA ~100); **dzieci ≈ NT$40–90** (prom taniej, wstęp ulgowy lub bezpłatny — potwierdźcie w kasie). Dolicz po ~NT$80–140 na przejazdy MRT (dzieci płacą jak dorośli).
 
 ## Źródła i pewność
 

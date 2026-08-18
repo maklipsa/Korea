@@ -35,21 +35,22 @@ Pula wartości, którą realnie wykorzystamy przez oba dni (dorosły):
 
 Kup: visitbusanpass.com, Klook, KKday, Trazy lub Creatrip — **tylko mobilny pass QR** (fizyczna karta wycofana ~października 2024).
 
-### Taipei Fun Pass Unlimited (2 dni) — ~NT$1,700
-**Aktywacja: 22 sie rano** (obejmuje 22-23 sie). ⚠️ **Nie 21 sie** — po przesunięciu lotu 21 sie jest dniem przelotu: w miasto wchodzicie ~12:15 i nie odwiedzacie żadnej płatnej atrakcji, więc odbicie passu tego dnia spaliłoby połowę jego ważności. 21 sie jeździcie na EasyCard. Wersja dziecięca = 6–11 lat; od 12 lat płaci się jak dorosły, więc 15-latek potrzebuje passu dla dorosłego, a 9- i 11-latek passów dziecięcych.
+### Taipei Fun Pass Unlimited — 2 dni ~NT$1,700 / 3 dni ~NT$2,000 (dorosły)
+🔻 **Rekomendacja zmieniona: wariantu 2-dniowego NIE kupujemy.** Cała jego opłacalność stała na tarasie Taipei 101 (NT$600), a taras **wypada z planu** 23 sie — po werdykcie N Seoul Tower (2/6) płatne tarasy widokowe schodzą u nas z listy, tym bardziej że ikoniczny widok na 101 macie za darmo z Elephant Mountain tego samego popołudnia. Ta sama zasada pozwoliła 17 sie odpuścić Seoul Sky i zaoszczędzić ~174,000 KRW.
 
-Obejmuje:
-- Taipei 101 Observatory (wartość NT$600) — 23 sie
-- National Palace Museum (wartość NT$350) — 23 sie
-- 30+ atrakcji
-- Nielimitowane przejazdy MRT + autobusami (oszczędność ~NT$100-200/dzień)
-- Część atrakcji: lampion w Pingxi, herbata w Maokong, własne ciastka ananasowe
+**Aktywacja: nie dotyczy w wariancie 2-dniowym** (nie kupujemy). Gdybyście brali 3-dniowy — aktywacja **rano 23 sie**, obejmuje 23–25 sie. Wersja dziecięca = 6–11 lat; od 12 lat płaci się jak dorosły, więc 15-latek potrzebowałby passu dla dorosłego, a 9- i 11-latek passów dziecięcych.
 
-**Wartość: NT$950+ już z samego Taipei 101 + NPM + transportu. Zdecydowanie warto.**
+Co zostaje w passie po skreśleniu 101 (na dorosłego):
+- National Palace Museum (NT$350) — 23 sie · ⚠️ dla wszystkich trojga dzieci **wstęp wolny do 18 lat**, więc dziecięcy pass nie odzyskuje tu nic
+- Yehliu (NT$120) + lampion w Shifen (~NT$150) + pociąg linią Pingxi — 24 sie
+- Wejście do Children's Amusement Park (NT$30, bez karuzel) + Science Education Center (NT$100) + Astronomical Museum (NT$40) — 25 sie
+- Nielimitowane przejazdy MRT + autobusami (~NT$150-250/dzień przy intensywnym dniu)
 
-**Uwaga — [cards/taipei.md](cards/taipei.md) rekomenduje inny wariant:** pass **3-dniowy z aktywacją 23 sie** (obejmuje 23–25 sie = NPM/Taipei 101 + wybrzeże NE + dzień nauki dla dzieci), bo Yehliu, lampion w Shifen i pociąg linią Pingxi też są w passie, więc 3-dniowy potrafi **zastąpić płatną wycieczkę na wybrzeże** (~NT$1,500–2,000/os.). Ta rozbieżność istniała w planie już wcześniej i **nie wynika z przesunięcia terminów** — rozstrzygnijcie ją po decyzji, czy 24 sie jedziecie na wybrzeże sami czy z przewodnikiem. Wersja 2-dniowa powyżej jest wariantem „z przewodnikiem".
+**Wartość: ~NT$550-750/dorosły w oknie 22–23 sie wobec NT$1,700 za pass 2-dniowy → wyraźna strata. Nie kupujemy.** NPM kupujemy pojedynczo w kasie (NT$350 × 3 dorosłych, dzieci bezpłatnie), resztę jeździmy na EasyCard.
 
-Kup: Klook, KKday lub strona Taipei Fun Pass.
+**Uwaga — jedyny wariant, który nadal się broni,** to **3-dniowy (23–25 sie) i tylko dla 3 dorosłych, i tylko jeśli 24 sie jedziecie na wybrzeże SAMI**: bilety zbierają się wtedy na ~NT$790 + ~NT$480 transportu = ~NT$1,270 wobec NT$2,000, czyli **−730 kasowo** — ale pass obejmuje Yehliu, lampion i pociąg Pingxi, więc **zastępuje wycieczkę z przewodnikiem po ~NT$1,500–2,000/os.** i tym się spina. ⚠️ Skreślenie 101 zabrało z tego rachunku NT$600, więc margines jest teraz cienki i cała decyzja wisi na tym jednym argumencie. Bierzecie wycieczkę z przewodnikiem 24 sie? → **pomijamy pass dla wszystkich.** Pełne wyliczenie: [cards/taipei.md](cards/taipei.md).
+
+Kup: Klook, KKday lub strona Taipei Fun Pass (tylko jeśli wybierzecie wariant 3-dniowy dla dorosłych).
 
 ---
 
