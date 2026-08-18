@@ -37,7 +37,6 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 
 **Rezerwuj 2-4 tygodnie wcześniej**
 
-- [ ] 🔴 **PILNE (zostało 8 dni)** Wycieczka do DMZ (13 sie) — **standardowa, pół dnia, bez sesji Q&A z uciekinierem z Korei Północnej**. **Rekomendacja po researchu: VIP Travel „No Forced Shopping", ~80,000 KRW/dorosły** — darmowy odbiór z hotelu, darmowe anulowanie do 24 h (nasz hedge na monsun). Alternatywy: Trazy (ma Dorasan Station), Klook (Q&A jako opcjonalna dopłata), prywatna OnedayKorea (~780,000 KRW za 6 os.). Realne widełki rynkowe to **55,000-95,000 KRW/osoba (pół dnia)**. W dniu wycieczki weź fizyczne paszporty. **Rezerwuj natychmiast** — okienko rezerwacyjne (~1 tydzień) już się domyka (przy rezerwacji potrzebne numery wszystkich 6 paszportów; standardowa wycieczka wymaga ich ~5-7 dni przed, ale przy grupie 6 osób rezerwuj wcześniej — sprawdź, czy 6 osób może siedzieć razem). Wybierz operatora z **polityką zwrotu/przeniesienia terminu przy złej pogodzie** (szczyt monsunu; widoki z Dory mogą zniknąć we mgle). Zobacz [stronę z opcjami wycieczek do DMZ](#dmz) (decyzja + minimalny wiek + rzeczy, które trzeba wiedzieć).
 - [ ] **Nocleg w Busan: 3 noce, nie 2** (18/19/20 sie) — po przesunięciu lotu dochodzi noc z 20 na 21 sie. Sprawdźcie, czy rezerwacja to obejmuje.
 - [ ] **Nocleg w Taipei: 8 nocy** (21–28 sie) zamiast 9 — pierwsza noc przesunięta z 20 na 21 sie.
 - [ ] Warsztat lepienia eomuk w **Samjin Amook** (20 sie, Yeongdo) — wymaga rezerwacji z wyprzedzeniem; bez niej zostaje samo muzeum + sklep.
