@@ -52,7 +52,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 | 5 | 15 sie (sob) | Dzień Wyzwolenia: Nami Island + Gapyeong (zip-line, prom do świątyni nad jeziorem Soyang) | [aug-15-nami-island.md](days/aug-15-nami-island.md) |
 | 6 | 16 sie (niedz) | **Photo SeMA (Martin Parr) o 10:00** → Jongno nadrobione z 12 sie (Jongmyo + Changdeokgung + Kukje + Museum Hanmi + Insadong) → Myeongdong i N Seoul Tower po ciemku | [aug-16-myeongdong-namsan.md](days/aug-16-myeongdong-namsan.md) |
 | 7 | 17 sie (pon) | Lotte World + Seoul Sky + Songnidan-gil | [aug-17-lotte-world.md](days/aug-17-lotte-world.md) |
-| 8 | 18 sie (wt) | **Trzy muzea: D Museum + Kukje + Museum Hanmi** → **KTX 16:00** do Busan (wieczór w Busan krótszy) | [aug-18-seoul-to-busan.md](days/aug-18-seoul-to-busan.md) |
+| 8 | 18 sie (wt) | **D Museum 5/6** + COEX (Bongeunsa, Starfield Library) → **KTX ~17:30** do Busan; Kukje bez wystawy, Hanmi znów zamknięte | [aug-18-seoul-to-busan.md](days/aug-18-seoul-to-busan.md) |
 | 9 | 19 sie (śr) | Cały dzień w Busan (świątynia, Gamcheon, Jagalchi, targi) | [aug-19-busan.md](days/aug-19-busan.md) |
 | 10 | 20 sie (czw) | Busan dzień 2: Yeongdo + oś sztuki (GoEun, BMA) + Songdo/Gwangalli | [aug-20-busan-day2.md](days/aug-20-busan-day2.md) |
 
