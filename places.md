@@ -726,7 +726,7 @@ Pogrupowane według dzielnic.
 
 ### Gamcheon Culture Village
 
-- [★★★★★ 🚶📸 Gamcheon Culture Village](https://www.google.com/maps/search/Gamcheon+Culture+Village+Busan) [N](https://map.naver.com/p/search/감천문화마을) — „Machu Picchu Korei"; kolorowe domy na zboczu z muralami, rzeźbami, instalacjami 📅 **Dzień 9 (19 sie)**
+- [★★★★★ 🚶📸 Gamcheon Culture Village](https://www.google.com/maps/search/Gamcheon+Culture+Village+Busan) [N](https://map.naver.com/p/search/감천문화마을) — „Machu Picchu Korei"; kolorowe domy na zboczu z muralami, rzeźbami, instalacjami ✅ **Widziane: Dzień 9 (19 sie) — 4/6** („tak sobie"). **Piąty z rzędu punkt ★★★★★ z zestawu „sławny + tłoczny + fotogeniczny", który nie przebił 4/6** — po N Seoul Tower 2/6, Bukchon 3/6, Lotte World 3,5/6 i Gwangjang 4/6. Wzorzec jest już bezdyskusyjny. 📅 **Dzień 9 (19 sie)**
 - ★★★☆☆ 📸 Rzeźba Małego Księcia i Lisa — najczęściej fotografowane miejsce
 - ★★☆☆☆ 📸 Mural BTS (Jungkook i Jimin)
 - 🎨🧒 **Stamp Tour** — weź mapkę na pieczątki przy wejściu; zbieraj pieczątki po zaułkach; świetne dla dzieci (podchody!); nagrodą jest pocztówka
@@ -1568,12 +1568,12 @@ Luki wychwycone przy przeglądzie Lonely Planet wobec (już gęstego) katalogu �
 Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 
 ### Shifen
-- [★★★★☆ 🚶📸 Shifen Old Street](https://www.google.com/maps/search/Shifen+Old+Street+Taiwan) — Tory kolejowe biegną środkiem targowej ulicy; pociągi przejeżdżają centymetry od stoisk 📅 **Dzień 14 (24 sie)**
+- [★★★☆☆ 🚶📸 Shifen Old Street](https://www.google.com/maps/search/Shifen+Old+Street+Taiwan) — Tory kolejowe biegną środkiem targowej ulicy; pociągi przejeżdżają centymetry od stoisk ⬇️ **Obniżone o oczko po kalibracji z 19 sie** (Gamcheon 4/6 — piąty z rzędu punkt „sławny + tłoczny + fotogeniczny", który nie przebił 4/6, i to mimo że bezpłatny). Cała kategoria „miejsc do popatrzenia" idzie u nas domyślnie na ★★★☆☆: ~1 h zamiast 2–3, najlepiej o świcie albo o zmierzchu. 📅 **Dzień 14 (24 sie)**
 - ★★★★★ 🎨🧒 Wypuszczanie lampionów — Napisz życzenia na lampionie i wypuść go w niebo; magia dla dzieci
 - [★★★☆☆ 🌊 Shifen Waterfall](https://www.google.com/maps/search/Shifen+Waterfall+Taiwan) — Najszerszy na Tajwanie; „mała Niagara"; krótki spacer od starej ulicy 📅 **Dzień 14 (24 sie)**
 
 ### Jiufen
-- [★★★★☆ 🚶📸 Jiufen Old Street](https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan) — Dawne górnicze miasteczko złota na szczycie góry; wąskie zaułki, czerwone lampiony, klimat rodem ze „Spirited Away". Zeszło z ★★★★★: to podręcznikowy sławny-tłoczny-fotogeniczny punkt, a jego najbliższy odpowiednik z Korei (Bukchon) dostał 3/6. Zostaje w planie, ale **o zmierzchu, po Jinguashi** — nie jako kotwica popołudnia 📅 **Dzień 14 (24 sie)**
+- [★★★☆☆ 🚶📸 Jiufen Old Street](https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan) — Dawne górnicze miasteczko złota na szczycie góry; wąskie zaułki, czerwone lampiony, klimat rodem ze „Spirited Away". Zeszło z ★★★★★: to podręcznikowy sławny-tłoczny-fotogeniczny punkt, a jego najbliższy odpowiednik z Korei (Bukchon) dostał 3/6. Zostaje w planie, ale **o zmierzchu, po Jinguashi** — nie jako kotwica popołudnia ⬇️ **Obniżone o oczko po kalibracji z 19 sie** (Gamcheon 4/6 — piąty z rzędu punkt „sławny + tłoczny + fotogeniczny", który nie przebił 4/6, i to mimo że bezpłatny). Cała kategoria „miejsc do popatrzenia" idzie u nas domyślnie na ★★★☆☆: ~1 h zamiast 2–3, najlepiej o świcie albo o zmierzchu. 📅 **Dzień 14 (24 sie)**
 - [★★★★☆ 🍵📸 A-Mei Tea House](https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen) — Najbardziej ikoniczna herbaciarnia; 3 kondygnacje; rozległe widoki na zatokę Keelung; czerwone lampiony o zmierzchu 📅 **Dzień 14 (24 sie)**
 - ★★★☆☆ ☕ Lai Ah Po Taro Balls — Pierwotny sklep z kulkami taro
 - ★★☆☆☆ ☕ Ah Zhu Peanut Ice Cream Roll — Strugany cukier orzechowy, kolendra i lody w cienkim naleśniku; dziwne i pyszne
@@ -1613,7 +1613,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 - [★★★☆☆ 🍜 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan) — Główna arteria jedzeniowa; stoisko za stoiskiem 📅 **Dzień 17 (27 sie)**
 
 ### Historyczne ulice
-- [★★★★☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan) — Z czasów dynastii Qing; modne kawiarnie w starych kamienicach; doroczny festiwal lampionów; piękna dniem i nocą 📅 **Dzień 16 (26 sie)**
+- [★★★☆☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan) — Z czasów dynastii Qing; modne kawiarnie w starych kamienicach; doroczny festiwal lampionów; piękna dniem i nocą ⬇️ **Obniżone o oczko po kalibracji z 19 sie** (Gamcheon 4/6 — piąty z rzędu punkt „sławny + tłoczny + fotogeniczny", który nie przebił 4/6, i to mimo że bezpłatny). Cała kategoria „miejsc do popatrzenia" idzie u nas domyślnie na ★★★☆☆: ~1 h zamiast 2–3, najlepiej o świcie albo o zmierzchu. 📅 **Dzień 16 (26 sie)**
 - ★★☆☆☆ 🚶🤪 Snail Alley — Ukryta okolica; figurki ślimaków wszędzie; zamień to w podchody z dziećmi
 - [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — Blisko Fort Zeelandia; stoiska z jedzeniem, krakersy krewetkowe 📅 **Dzień 16 (26 sie)** · *blisko: Dzień 17 (27 sie)*
 

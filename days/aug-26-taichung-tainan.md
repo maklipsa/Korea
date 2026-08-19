@@ -42,7 +42,7 @@
 | 17:00 | Spacer historyczną **[★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan)** — krewetkowe krakersy, pamiątki z suszonych owoców morza. |  |
 |  | Przystanek na przekąskę przy tej ulicy: **[★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan)**. |  |
 |  | Przystanek na deser przy tej samej ulicy: **[★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan)**. |  |
-| 18:00 | **[★★★★☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan)** — Z czasów dynastii Qing. Piękna w dzień i w nocy. Kawiarnie w stuletnich budynkach. |  |
+| 18:00 | **[★★★☆☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan)** — Z czasów dynastii Qing. Piękna w dzień i w nocy. Kawiarnie w stuletnich budynkach. ⬇️ **Obniżone po kalibracji z 19 sie** (Gamcheon 4/6, piąty punkt tej kategorii z rzędu poniżej oczekiwań): **~40 min o zmierzchu wystarczy**, a po ciasnym dniu przeprowadzkowym to pierwszy kandydat do skrócenia na rzecz spokojnej kolacji na nocnym targu. |  |
 | 19:00 | **[★★★☆☆ 🏮 Wusheng Night Market](https://www.google.com/maps/search/Wusheng+Night+Market+Tainan)** — ⚠️ **Zmiana wymuszona przesunięciem planu:** nocne targi w Tainan działają rotacyjnie („大大武花大武花" — pon./wt./pt. Dadong, **śr./sob. Wusheng**, czw./niedz. Garden). Ten dzień był wcześniej wtorkiem z **Dadong**; dziś jest **śr., więc Dadong jest ZAMKNIĘTY**, a czynny jest Wusheng (Ximen Rd Sec. 3, ~18:00–24:00) — mniejszy niż Dadong, ale kompletny zestaw tainańskich klasyków. Potwierdźcie rotację tego samego dnia (bywają zmiany świąteczne). | ~NT$200-400/osoba |
 
 ---
@@ -106,7 +106,7 @@
 | 16:00 | **[★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan)** — magazyn pochłonięty przez korzenie banianu. **Zamknięcie 17:30.** | NT$70 / połowa |
 | 16:45 | **[★★★★☆ 🏯📸 Eternal Golden Castle](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan)** — gwiaździsty fort z 1874 z armatami i fosą, 5 min pieszo od Treehouse. Zamknięcie ~17:30. | ~NT$50 / połowa |
 | 17:30 | **[★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan)** — krewetkowe krakersy, **[★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan)**, **[★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan)**. |  |
-| 18:15 | **[★★★★☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan)** — ⚠️ **zaparkujcie na parkingu i idźcie pieszo.** To zabytkowy zaułek z czasów Qing, w który nie wjeżdża się autem. |  |
+| 18:15 | **[★★★☆☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan)** — ⚠️ **zaparkujcie na parkingu i idźcie pieszo.** To zabytkowy zaułek z czasów Qing, w który nie wjeżdża się autem. |  |
 | 19:15 | **[★★★☆☆ 🏮 Wusheng Night Market](https://www.google.com/maps/search/Wusheng+Night+Market+Tainan)** — śr. = Wusheng (rotacja „大大武花大武花"). Parking płatny w okolicy — nie liczcie na miejsce przy samym targu. | ~NT$200–400/os. |
 
 ### Wariant z autem, ale bez Changhua
