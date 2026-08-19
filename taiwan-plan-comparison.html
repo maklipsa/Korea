@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Plan znajomego vs. nasz plan Tajwanu</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --taiwan:#059669; --taiwan-bg:#ecfdf5; --taiwan-light:#d1fae5;
+  --korea:#2563eb; --korea-bg:#eff6ff;
+  --g50:#f9fafb;--g100:#f3f4f6;--g200:#e5e7eb;--g300:#d1d5db;--g400:#9ca3af;
+  --g500:#6b7280;--g600:#4b5563;--g700:#374151;--g800:#1f2937;--g900:#111827;
+  --amber-bg:#fef3c7;--amber:#b45309;--amber-line:#d97706;
+  --red-bg:#fee2e2;--red:#dc2626;
+  --radius:12px;--radius-sm:8px;
+  --shadow:0 1px 3px rgba(0,0,0,.08),0 1px 2px rgba(0,0,0,.06);
+}
+body{font-family:"Inter",-apple-system,BlinkMacSystemFont,sans-serif;background:var(--g50);
+  color:var(--g800);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:var(--taiwan);text-decoration:none}
+a:hover{text-decoration:underline}
+code{background:var(--g100);padding:.05rem .3rem;border-radius:4px;font-size:.9em;color:var(--g700);
+  font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+header{background:linear-gradient(135deg,#1e3a5f 0%,#2563eb 45%,#059669 100%);color:#fff;
+  padding:2.25rem 1.5rem 1.75rem;text-align:center}
+header h1{font-size:1.75rem;font-weight:700;letter-spacing:-.02em}
+header p{opacity:.92;font-size:.95rem;margin-top:.35rem}
+header code{background:rgba(255,255,255,.18);color:#fff}
+main{max-width:960px;margin:0 auto;padding:1.5rem 1rem 4rem}
+
+.verdict{background:#fff;border-radius:var(--radius);box-shadow:var(--shadow);
+  padding:1.25rem 1.5rem;margin-bottom:1.5rem;border-left:5px solid var(--taiwan)}
+.verdict h2{font-size:1.15rem;margin-bottom:.4rem}
+.verdict p{color:var(--g600);font-size:.95rem}
+
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.75rem;margin-bottom:.5rem}
+.stat{background:#fff;border-radius:var(--radius);box-shadow:var(--shadow);padding:1rem;text-align:center}
+.stat .n{font-size:1.9rem;font-weight:700;line-height:1.1}
+.stat .l{font-size:.78rem;color:var(--g500);text-transform:uppercase;letter-spacing:.04em;margin-top:.2rem}
+.stat.ok .n{color:var(--taiwan)} .stat.warn .n{color:var(--amber-line)}
+.stat.bad .n{color:var(--red)} .stat.neutral .n{color:var(--korea)}
+
+h2.sec{font-size:1.3rem;margin:2.25rem 0 .35rem;letter-spacing:-.01em}
+p.sub{color:var(--g500);font-size:.9rem;margin-bottom:1rem}
+
+.legend{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1.25rem}
+.badge{display:inline-flex;align-items:center;gap:.3rem;font-size:.75rem;font-weight:600;
+  padding:.2rem .55rem;border-radius:999px;white-space:nowrap}
+.b-ok{background:var(--taiwan-light);color:#065f46}
+.b-warn{background:var(--amber-bg);color:var(--amber)}
+.b-bad{background:var(--red-bg);color:#991b1b}
+.b-part{background:var(--korea-bg);color:#1d4ed8}
+
+.day{background:#fff;border-radius:var(--radius);box-shadow:var(--shadow);margin-bottom:1.1rem;overflow:hidden}
+.day > h3{background:var(--g100);padding:.8rem 1.1rem;font-size:1rem;display:flex;
+  align-items:baseline;gap:.6rem;flex-wrap:wrap;border-bottom:1px solid var(--g200)}
+.day > h3 .tag{font-size:.72rem;font-weight:600;color:var(--g500);text-transform:uppercase;letter-spacing:.05em}
+ul.items{list-style:none}
+ul.items li{display:grid;grid-template-columns:1fr auto;gap:.4rem 1rem;align-items:start;
+  padding:.7rem 1.1rem;border-bottom:1px solid var(--g100)}
+ul.items li:last-child{border-bottom:none}
+.name{font-weight:600;font-size:.95rem}
+.where{display:block;font-weight:400;font-size:.83rem;color:var(--g500);margin-top:.1rem}
+.i{font-style:normal;color:var(--g600)}
+
+.gap{background:#fff;border-radius:var(--radius);box-shadow:var(--shadow);padding:1.25rem 1.5rem;
+  border-left:5px solid var(--amber-line);margin-bottom:1.5rem}
+.gap h3{font-size:1.05rem;margin-bottom:.5rem}
+.gap p{font-size:.92rem;color:var(--g600);margin-bottom:.85rem}
+table{width:100%;border-collapse:collapse;font-size:.9rem}
+th,td{text-align:left;padding:.45rem .5rem;border-bottom:1px solid var(--g200)}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--g500);font-weight:600}
+td:last-child,th:last-child{text-align:right;white-space:nowrap}
+tbody tr:last-child td{border-bottom:none}
+
+ul.loose{list-style:none;display:grid;gap:.6rem}
+ul.loose li{background:#fff;border-radius:var(--radius-sm);box-shadow:var(--shadow);
+  padding:.8rem 1rem;font-size:.92rem;border-left:3px solid var(--g300)}
+ul.loose li strong{font-weight:600}
+ul.loose li.w{border-left-color:var(--amber-line)}
+ul.loose li.b{border-left-color:var(--red)}
+ul.loose li.p{border-left-color:var(--korea)}
+ul.loose li .note{color:var(--g500);display:block;font-size:.85rem;margin-top:.15rem}
+
+.plus{background:var(--taiwan-bg);border-radius:var(--radius);padding:1.1rem 1.4rem;
+  border-left:5px solid var(--taiwan);font-size:.92rem;color:var(--g700)}
+.plus h3{font-size:1.05rem;margin-bottom:.5rem;color:#065f46}
+.plus ul{margin:.4rem 0 0 1.1rem}
+.plus li{margin-bottom:.25rem}
+
+footer{text-align:center;color:var(--g400);font-size:.8rem;margin-top:2.5rem;padding-top:1.25rem;
+  border-top:1px solid var(--g200)}
+@media(max-width:520px){
+  ul.items li{grid-template-columns:1fr}
+  td:last-child,th:last-child{text-align:left}
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Plan znajomego vs. nasz plan Tajwanu</h1>
+  <p>4-dniowy plan Taipei z maila &nbsp;·&nbsp; zderzony z <code>days/aug-21 … aug-29</code> i <code>places.md</code></p>
+</header>
+
+<main>
+
+<div class="verdict">
+  <h2>Werdykt: 24 z 26 punktów z maila już są w repo</h2>
+  <p>Nasz blok tajwański jest znacznie większy — 9 dni z Taichung, Tainan i Kaohsiung, których
+  mail w ogóle nie rusza. Wartość tego planu to <strong>kontrola luk w samym Taipei</strong> —
+  i wychodzi z niej jedna prawdziwa dziura oraz kilka drobiazgów do decyzji.</p>
+</div>
+
+<div class="stats">
+  <div class="stat ok"><div class="n">16</div><div class="l">w planie dnia</div></div>
+  <div class="stat warn"><div class="n">6</div><div class="l">tylko w katalogu</div></div>
+  <div class="stat bad"><div class="n">2</div><div class="l">brak w ogóle</div></div>
+  <div class="stat neutral"><div class="n">2</div><div class="l">warunkowo</div></div>
+</div>
+
+<h2 class="sec">Punkt po punkcie</h2>
+<p class="sub">Cztery dni z maila, każdy punkt ze statusem w naszym repo.</p>
+
+<div class="legend">
+  <span class="badge b-ok">✓ w planie dnia</span>
+  <span class="badge b-warn">◐ tylko w places.md</span>
+  <span class="badge b-bad">✕ brak</span>
+  <span class="badge b-part">! warunkowo</span>
+</div>
+
+<div class="day">
+  <h3>1 dzień — Tajpej (centrum) <span class="tag">6 / 8 zaplanowane</span></h3>
+  <ul class="items">
+    <li><div><span class="name">Chiang Kai-shek Memorial Hall</span>
+      <span class="where">Aug 21 po południu, opcja A — ze zmianą warty co godzinę</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Taipei 101</span>
+      <span class="where">Aug 23 wieczorem, w parze z Xiangshan</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Din Tai Fung restaurant</span>
+      <span class="where">Aug 23 (filia Yongkang), także Aug 28</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Dongmen smoothie house</span>
+      <span class="where">Brak wpisu. Tylko ogólna linia „lokale z kruszonym lodem z mango przy Yongkang Street” — <code>places.md:1331</code></span></div>
+      <span class="badge b-bad">✕ brak</span></li>
+    <li><div><span class="name">Guanghua digital plaza</span>
+      <span class="where">Jest jako <span class="i">Syntrend Technology Mall / Guang Hua Digital Plaza</span> — <code>places.md:1462</code>, w żadnym dniu</span></div>
+      <span class="badge b-warn">◐ katalog · ★★☆☆☆</span></li>
+    <li><div><span class="name">Huashan creative park</span>
+      <span class="where">Aug 29, 13:00 — z teamLab Future Park</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Ciyou temple</span>
+      <span class="where">Aug 23 — Songshan Ciyou, przy Raohe</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Raohe night market</span>
+      <span class="where">Aug 23 wieczorem</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+  </ul>
+</div>
+
+<div class="day">
+  <h3>2 dzień — Tajpej (północ) <span class="tag">3 / 7 zaplanowane — najsłabszy punkt</span></h3>
+  <ul class="items">
+    <li><div><span class="name">Beitou hot springs</span>
+      <span class="where">Aug 23 rano — Spring City Resort</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Hot springs historical path</span>
+      <span class="where">Aug 23 — Beitou Park + Thermal Valley + Hot Spring Museum <span class="i">to właśnie jest ta ścieżka</span></span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Tamsui harbour</span>
+      <span class="where">Żaden dzień nie jedzie na północ od Beitou</span></div>
+      <span class="badge b-warn">◐ katalog</span></li>
+    <li><div><span class="name">Fort San Domingo</span>
+      <span class="where"><code>places.md:1410</code> — razem z Little White House i Hobe Fort</span></div>
+      <span class="badge b-warn">◐ katalog · ★★★★☆</span></li>
+    <li><div><span class="name">Tamsui old street</span>
+      <span class="where"><code>places.md:1431</code> — wspólny wpis z Fisherman’s Wharf</span></div>
+      <span class="badge b-warn">◐ katalog · ★★★★☆</span></li>
+    <li><div><span class="name">Fisherman’s Wharf</span>
+      <span class="where">Jedyne „Tamsui” w dniach to <span class="i">rzeka</span> widziana z Dadaocheng Wharf (Aug 22)</span></div>
+      <span class="badge b-warn">◐ katalog</span></li>
+    <li><div><span class="name">Shilin night market</span>
+      <span class="where">Aug 25 wieczorem</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+  </ul>
+</div>
+
+<div class="day">
+  <h3>3 dzień — Tajpej (południe) <span class="tag">4 / 6 zaplanowane</span></h3>
+  <ul class="items">
+    <li><div><span class="name">Maokong gondola</span>
+      <span class="where">Aug 28, 15:00 — Crystal Cabin, potem herbaciarnie</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Zhangu trail</span>
+      <span class="where">Brak dopasowania. Najbliżej: <strong>Zhinan Temple</strong> — <code>places.md:1433</code>, stacja na linii Maokong, nigdzie nie wpisana</span></div>
+      <span class="badge b-bad">✕ brak</span></li>
+    <li><div><span class="name">Taipei Zoo</span>
+      <span class="where">Aug 28 tylko jako <span class="i">opcja</span> przy dolnej stacji — ale to piątek: zamknięcie 17:00, ostatnie wejście 16:00, a gondola startuje 15:00</span></div>
+      <span class="badge b-part">! nierealne czasowo</span></li>
+    <li><div><span class="name">Xiangshan hike</span>
+      <span class="where">Aug 23 — Elephant Mountain na zachód słońca</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Dihua old street</span>
+      <span class="where">Aug 22 — Dadaocheng, z Chifeng Street</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Ximenting</span>
+      <span class="where">Aug 22 — Ximen Red House, Wanhua</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+  </ul>
+</div>
+
+<div class="day">
+  <h3>4 dzień — poza Tajpej <span class="tag">3 / 5 zaplanowane + 1 warunkowo</span></h3>
+  <ul class="items">
+    <li><div><span class="name">Houtong cat village</span>
+      <span class="where">Aug 24, ale <strong>tylko w wariancie z autem</strong> — <code>aug-24:65</code>. Bez auta wypada z planu</span></div>
+      <span class="badge b-part">! zależy od auta</span></li>
+    <li><div><span class="name">Monkey cave old mine</span>
+      <span class="where">Aug 24, 14:45 — to <strong>tunel kopalni Benshan nr 5</strong> wewnątrz Gold Museum w Jinguashi</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Jioufen old street</span>
+      <span class="where">Aug 24 o zmierzchu — świadomie <span class="i">po</span> Jinguashi</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">A-mei tea house</span>
+      <span class="where">Aug 24, w Jiufen</span></div>
+      <span class="badge b-ok">✓ w planie</span></li>
+    <li><div><span class="name">Xiahai temple</span>
+      <span class="where"><code>places.md:1477</code>, nigdzie nie wpisana. Mail wrzuca ją do dnia 4 — <strong>geograficznie błędnie</strong>: leży przy Dihua Street, czyli na trasie Aug 22</span></div>
+      <span class="badge b-warn">◐ katalog · ★★★★☆</span></li>
+  </ul>
+</div>
+
+<h2 class="sec">Jedna prawdziwa luka: cały dzień Tamsui / Danshui</h2>
+<p class="sub">Dzień 2 z maila to pół Beitou, pół Tamsui. Beitou mamy w całości — Tamsui nie ma nigdzie w dniach.</p>
+
+<div class="gap">
+  <h3>Leży w <code>places.md</code>, nie leży w żadnym dniu</h3>
+  <p>Dwie pozycje ★★★★ plus dość obudowy na <strong>realny pół-dzień</strong>. Do rozstrzygnięcia:
+  doklejamy do Beitou (Aug 23 jest już ciasny) czy wchodzimy w luz Aug 25?</p>
+  <table>
+    <thead><tr><th>Miejsce</th><th>Linia</th><th>Ocena</th></tr></thead>
+    <tbody>
+      <tr><td>Tamsui Old Street &amp; Fisherman’s Wharf</td><td><code>:1431</code></td><td>★★★★☆</td></tr>
+      <tr><td>Fort San Domingo, Little White House &amp; Hobe Fort</td><td><code>:1410</code></td><td>★★★★☆</td></tr>
+      <tr><td>Guandu Temple</td><td><code>:1507</code></td><td>★★★★☆</td></tr>
+      <tr><td>Bali Left Bank Bike Path + Shihsanhang Museum</td><td><code>:1518</code></td><td>★★★★☆</td></tr>
+      <tr><td>Aletheia University Oxford College</td><td><code>:1409</code></td><td>★★★☆☆</td></tr>
+      <tr><td>Cloud Gate Theater</td><td><code>:1511</code></td><td>★★★☆☆</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 class="sec">Drobiazgi do decyzji</h2>
+<p class="sub">Każdy to jedna linijka zmiany albo jedno „nie, odpuszczamy”.</p>
+<ul class="loose">
+  <li class="w"><strong>Xiahai City God Temple</strong> — ★★★★, nigdzie nie wpisana, a stoi <span class="i">na</span> Dihua Street, czyli dokładnie na trasie Aug 22.
+    <span class="note">Najtańsza wygrana z całego zestawienia.</span></li>
+  <li class="b"><strong>Mango shaved ice przy Yongkang / Dongmen</strong> — brak wpisu, tylko ogólna wzmianka. Aug 23 i Aug 28 i tak jedzą w tej okolicy.
+    <span class="note">Jedna linijka w places.md plus slot w dniu.</span></li>
+  <li class="b"><strong>Zhinan Temple</strong> — ★★★, stacja na linii gondoli, a Aug 28 przejeżdża obok i pomija.
+    <span class="note">Zamiennik dla „Zhangu trail” z maila.</span></li>
+  <li class="p"><strong>Taipei Zoo</strong> — w Aug 28 tylko jako opcja, i to w piątek z ostatnim wejściem 16:00 przy gondoli od 15:00.
+    <span class="note">Albo osobny slot, albo wykreślić i nie udawać, że jest.</span></li>
+  <li class="p"><strong>Houtong Cat Village</strong> — wisi wyłącznie na wariancie z autem.
+    <span class="note">Jeśli auta nie bierzemy, dzień 4 traci ten punkt.</span></li>
+  <li><strong>Guanghua / Syntrend</strong> — ★★ i to celowo: kategoria „to samo zobaczymy w Polsce”.
+    <span class="note">Świadomie nisko, nie luka.</span></li>
+</ul>
+
+<h2 class="sec">Co nasz plan ma ponad mail</h2>
+<div class="plus">
+  <h3>Mail obejmuje tylko Taipei i tylko 4 dni</h3>
+  <ul>
+    <li><strong>Aug 26–28:</strong> Taichung, Tainan, Kaohsiung — u znajomego nie istnieją.</li>
+    <li><strong>Dzień północno-wschodni (Aug 24)</strong> dodaje Yehliu Geopark, Shifen Waterfall i Shifen Old Street,
+      i celowo odwraca kolejność: <strong>Jinguashi przed Jiufen</strong>, żeby Jiufen wypadło o zmierzchu.</li>
+    <li><strong>Aug 22</strong> nadbudowuje centrum: National Taiwan Museum, NCPI, Bopiliao, Longshan i świątynie Wanhua.</li>
+    <li><strong>Aug 23</strong> dokłada National Palace Museum i Songshan Cultural &amp; Creative Park.</li>
+    <li><strong>Aug 25</strong> to cały kompleks naukowy w Shilin (NTSEC, planetarium, park rozrywki) — dla dzieci.</li>
+  </ul>
+</div>
+
+<footer>
+  Zestawienie wygenerowane 19 sie 2026 &nbsp;·&nbsp; źródła: <code>days/aug-21 … aug-29</code>, <code>places.md</code>
+</footer>
+
+</main>
+</body>
+</html>
