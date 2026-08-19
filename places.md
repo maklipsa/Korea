@@ -801,7 +801,7 @@ Pogrupowane według kategorii. **Realia:** okno na Busan jest krótkie (18 sie w
 - [★★★★☆ 🏛️🎨 Busan Museum of Art (BMA) / Lee Ufan Space](https://www.google.com/maps/search/Busan+Museum+of+Art+Busan) [N](https://map.naver.com/p/search/부산시립미술관) — Miejskie muzeum sztuki (5 pięter, park rzeźby) plus przylegająca minimalistyczna przestrzeń Lee Ufana. Zamknięte w pon. Dobra opcja wewnątrz, z AC. 📅 **Dni 9, 10 (19, 20 sie)**
 
 #### D. Zabytki i widoki
-- [★★★☆☆ 🗼🧒 Songdo Beach & Cloud Trails Skywalk](https://www.google.com/maps/search/Songdo+Skywalk+Cloud+Trails+Busan) [N](https://map.naver.com/p/search/송도구름산책로) — Pierwsza publiczna plaża w Korei (1913) z podniesionym skywalkiem o długości ~365–396m (odcinki ze szklaną podłogą nad wodą) i sztucznym wodospadem. Latem ok. 9:00–18:00 (zweryfikuj). To nie to samo co Songdo Marine Cable Car — zrób jedno i drugie razem. 📅 **Dni 9, 10 (19, 20 sie)**
+- [★★★☆☆ 🗼🧒 Songdo Beach & Cloud Trails Skywalk](https://www.google.com/maps/search/Songdo+Skywalk+Cloud+Trails+Busan) [N](https://map.naver.com/p/search/송도구름산책로) — Pierwsza publiczna plaża w Korei (1913) z podniesionym skywalkiem o długości ~365–396m (odcinki ze szklaną podłogą nad wodą) i sztucznym wodospadem. Latem ok. 9:00–18:00 (zweryfikuj). To nie to samo co Songdo Marine Cable Car — zrób jedno i drugie razem. 📅 **Dzień 10 (20 sie)**
 - [★★★☆☆ 🗼🍺 The Bay 101 (Marine City)](https://www.google.com/maps/search/The+Bay+101+Busan) [N](https://map.naver.com/p/search/더베이101) — Nadwodny kompleks gastronomiczno-handlowy z widokiem na panoramę Haeundae i Gwangan Bridge; punkt startu publicznych rejsów jachtem (~30–50 min) po zatoce Suyeong. Najlepiej o zachodzie słońca lub nocą; w weekendowe wieczory tłoczno.
 
 #### E. Przyroda i parki
