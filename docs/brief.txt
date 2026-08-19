@@ -1,7 +1,7 @@
 # Plan wyjazdu — Korea i Tajwan (od dziś do końca)
 
-> **Wygenerowano: 2026-08-19.** Dziś jest **Dzień 9 — 19 sie (śr)**.
-> Ten plik zawiera **tylko dzisiejszy dzień i dni pozostałe** (11 z 19). Dni już minione, lista pakowania, DMZ, karty zniżkowe i pełny katalog miejsc są pominięte celowo.
+> **Wygenerowano: 2026-08-20.** Dziś jest **Dzień 10 — 20 sie (czw)**.
+> Ten plik zawiera **tylko dzisiejszy dzień i dni pozostałe** (10 z 19). Dni już minione, lista pakowania, DMZ, karty zniżkowe i pełny katalog miejsc są pominięte celowo.
 > Pełny plan: https://indexoutofrange.com/Korea · pełny eksport danych: https://indexoutofrange.com/Korea/data.json
 
 ## Jak zwracać się do właściciela tego pliku
@@ -63,84 +63,6 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 ---
 
 ## Dni — od dziś do końca
-
-> **Dzień 9 · 19 sie (śr) · Korea** — Cały dzień w Busan (świątynia, Gamcheon, Jagalchi, targi)
-
-# Aug 19 (Wed) — Busan — cały dzień
-> Badges: pass:Busan Pass BIG3/BIG5 — bez zegara, obejmuje 19 i 20 sie
-
-Środa: Jagalchi otwarte (zamknięte w 1./3. wt. → 4 i 18 sie; nie 19.). Gukje otwarte (zamknięte w 1./3. niedz. → 2 i 16 sie). Oryukdo zamknięte tylko w 1. pon. miesiąca. W śr. 19 sie wszystko otwarte. (Zweryfikowano 2026-07.)
-
-**Lot z Busan przesunął się z 20 na 21 sie, co odciąża ten dzień.** Wybrzeże SE (Igidae · Oryukdo · Gwangalli) **nie jest już alternatywą dla popołudnia w Nampo** — przeniosło się do nowego [aug-20-busan-day2.md](aug-20-busan-day2.md) razem z Yeongdo, Songdo i osią sztuki w Haeundae. Dziś robicie **cały ciąg Gamcheon → Nampo bez wyboru „albo-albo"**. Jutro też nie ma pośpiechu na lotnisko — **lecicie dopiero 21 sie** — ale start jutro jest o 6:30, więc kolacja i tak nie powinna przeciągnąć się po ~21:00.
-
-**Bardzo napięty, rozciągnięty dzień:** świątynia (daleki NE, Gijang) → Haeundae/Mipo (E) → Gamcheon (daleki W) → skupisko Nampo (centrum). Odcinek Haeundae→Gamcheon to ~1 h z górą komunikacją — wyjedź z Haeundae ok. 9:45, żeby być w Gamcheon na 11:00.
-
-**Busan Pass — zmiana rekomendacji przy dwóch dniach w Busan:** nie kupujcie **24 h** (55,000) — jego ruchome okno nie obejmie i 19, i 20 sie. Jeśli w ogóle bierzecie pass, weźcie **BIG3 (45,000) albo BIG5 (65,000)**: nie mają zegara (ważność 180 dni), więc jedno kupno spina oba dni, a jutro dochodzą **Songdo Cable Car (17,000)** i **Taejongdae Danubi Train (~4,000)**. Pełny rachunek w [cards/busan.md](../cards/busan.md).
-
-**Transport (rozciągnięty dzień — taksówki mają sens, bez wynajmu auta):** ✅ **Decyzja na dziś: taksówka do Yonggungsa, a ze świątyni pieszo (~4 km, 50–70 min) do Beach Trainu w Songjeong.** Dalej metro + autobusy (odcinek Haeundae → Gamcheon jest wolny, ~1 h) — doliczcie tam kolejną taksówkę, jeśli poranny marsz zje zapas czasu.
-
-## Route Map
-
-**Główna pętla:**
-[Trasa w Naver Map](https://map.naver.com/p/directions/129.2231,35.1884,Haedong+Yonggungsa+Temple/129.0261,35.1016,Bupyeong+Kkangtong+Market/129.17283,35.15817,Haeundae+Blueline+Park:129.00879,35.09634,Gamcheon+Culture+Village:129.03069,35.09663,Jagalchi+Market:129.02802,35.10062,Gukje+Market/car)
-[Wszystkie punkty w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Haedong+Yonggungsa+Temple+Busan&destination=Bupyeong+Kkangtong+Night+Market+Busan&waypoints=Haeundae+Blueline+Park+Busan|Gamcheon+Culture+Village+Busan|Jagalchi+Fish+Market+Busan|Gukje+Market+Busan&travelmode=transit)
-
-**Wybrzeże SE (Gwangalli · Igidae · Oryukdo) — przeniesione na 20 sie.** Trasa jest teraz w [aug-20-busan-day2.md](aug-20-busan-day2.md) (Opcja B); dziś już nie konkuruje z popołudniem w Nampo.
-
-## Schedule
-
-| Time | Activity | Price |
-|------|----------|-------|
-| 7:00 | **[★★★★★ 🏯📸 Haedong Yonggungsa Temple](https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan) [N](https://map.naver.com/p/search/해동용궁사)** — Świątynia nad oceanem, 108 kamiennych stopni, spektakularna o świcie. Przyjedźcie wcześnie, przed autokarami! Autobus #181 z Haeundae. | Bezpłatnie |
-|  | ⏭️ **Sky Capsule pominięty — brak wolnych kapsuł.** Rezerwacje na godziny wyprzedały się, zanim doszliśmy do tej daty (sierpień, okno otwierane ~2 tyg. wcześniej — dokładnie to, przed czym ostrzegał plan). **Zamiast tego jedziemy Beach Trainem, który jest w Busan Pass**, więc dzisiejszy przejazd nic nie kosztuje ponad pass. | Pass (bez dopłaty) |
-| 8:15 | 🚶 **Ze świątyni pieszo do Songjeong** (dojazd do Yonggungsa: taksówka z Haeundae, ~20–25 min). ~4 km wybrzeżem, realnie 50–70 min, częściowo drogą bez porządnego chodnika, przez teren Osirii. **Nie ma pośpiechu — pociąg macie dopiero o 11:30**, więc idźcie wolno, weźcie wodę i czapki. Skrót w razie czego: ~15–20 min pieszo do **stacji Osiria (linia Donghae)** → jeden przystanek do **Songjeong**. |  |
-| ~10:15 | **Zapas czasu w Songjeong (~1 h) — wykorzystajcie go, zamiast siedzieć na peronie.** [★★★☆☆ 🌳 Songjeong Beach](https://www.google.com/maps/search/Songjeong+Beach+Busan) [N](https://map.naver.com/p/search/송정해수욕장) — spokojniejsza, surferska plaża tuż przy stacji, plus **Jukdo Park** (mały sosnowy cypel z pawilonem na jej wschodnim krańcu) i śniadanie/kawa. Albo po prostu wyjdźcie ze świątyni później — zapas jest wasz. |  |
-| **11:20** | ⏰ **BĄDŹCIE NA STACJI SONGJEONG** — [N: 송정정거장](https://map.naver.com/p/search/해운대블루라인파크%20송정정거장) (wschodni kraniec plaży Songjeong). Na bilecie: **odprawa kończy się 10 minut przed odjazdem** (출발 시간 10분 전 탑승 마감). Spóźnienie = bilet przepada, a pierwszeństwo wsiadania mają pasażerowie z rezerwacją na daną godzinę. |  |
-| **11:30** | ✅ **Widziane — 3,5/6.** **[★★★★☆ 🚡🧒 Haeundae Blueline Park — Beach Train](https://www.google.com/maps/search/Haeundae+Blueline+Park+Busan) [N](https://map.naver.com/p/search/해운대블루라인파크)** — kurs 8회차, **wsiadamy w SONGJEONG**, jedziemy Songjeong → Cheongsapo → **Mipo**, ~30 min nad samą wodą. ⚠️ **Bilet to „Pass for a ride", czyli JEDEN przejazd — nie hop-on-hop-off**, więc **nie wysiadamy w Cheongsapo** (wyjście z pociągu kończy przejazd). ⚠️ **Zapłacone osobno: 60,000 KRW za szóstkę** (3 × 12,000 dorosły + 3 × 8,000 dziecko) — **Busan Pass tego nie pokrywa, bo bilety są już kupione.** Rezerwacja RS26014544898. | **Zapłacone: 60,000 KRW / 6 os.** |
-| ~12:00 | Przyjazd do **Mipo**. Stąd wszystko idzie na południowy zachód: Dalmaji jest wprost nad wami, Haeundae 10 min, Gamcheon ~1 h. |  |
-|  | 🚫 **ZAMKNIĘTE — montaż nowej wystawy.** **[★★★★☆ 🎨 Johyun Gallery](https://www.google.com/maps/search/Johyun+Gallery+Busan) [N](https://map.naver.com/p/search/조현화랑)** (miało być 12:15–13:00) — Dalmaji-gil, 5–10 min taksówką wprost spod stacji Mipo. Flagowa galeria sztuki współczesnej w Busan — Nam June Paik, Julian Opie, Georges Rousse. Wstęp wolny, wt.–niedz. 10:00–19:00. Po drodze bezpłatny **Haewol Observatory** (szklany pomost przy Mipo/Dalmaji). | Bezpłatnie |
-|  | ✅ **Widziane — 4,5/6.** **[★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) [N](https://map.naver.com/p/search/고은사진미술관)** — z Dalmaji w dół do Haeundae (~10 min); przy samym GoEun: 12:20–13:10. Jedyne w Busan **muzeum fotografii artystycznej**. Wstęp wolny, 10:00–18:00. | Bezpłatnie |
-| ~13:15 | 🍜 **Lunch w Haeundae** (przy GoEun). W Gamcheon jedzenia praktycznie nie ma, więc to jest posiłek na resztę popołudnia. |  |
-|  | 🌡️ **ZASADA DNIA (wasza decyzja z 19 sie): najgorętsze godziny — do ~15:00–16:00 — spędzamy W MUZEACH, plener dopiero potem.** Odwraca to kolejność, którą plan zakładał wcześniej. Gamcheon (odsłonięte zbocze), plaża i targi lądują po 16:00, a klimatyzowane instytucje wchodzą w środek upału. |  |
-|  | 🏖️ **Plaża przeniesiona na 20 sie (decyzja 19 sie).** Songdo o 18:00 wypadałoby już po godzinach ratowniczych (sezon zwykle do 18:00), czyli brodzenie, a nie kąpiel — a potem mokre dzieci i torby szłyby jeszcze na Jagalchi i Bupyeong, po dniu zaczętym o 7:00. Jutro Gwangalli daje **pełne 75 min z ratownikami, zachód o 19:15 i kolację na Millak tuż obok**. Zysk uboczny: **Gukje wraca do dzisiejszego planu**. |  |
-| 14:00 | 🚫 **ZAMKNIĘTE — REMONT. Otwarta tylko Lee Ufan Space, ~30 min.** Główny gmach niedostępny, więc z zaplanowanych 1,5 h robi się pół godziny. ➡️ Przeniesione z 20 sie: **[★★★★☆ 🏛️🎨 Busan Museum of Art (BMA) / Lee Ufan Space](https://www.google.com/maps/search/Busan+Museum+of+Art+Busan) [N](https://map.naver.com/p/search/부산시립미술관)** — 5 pięter, klimatyzacja, osobna Lee Ufan Space; linia 2, stacja 시립미술관, ~15 min z Haeundae i **dokładnie po drodze na zachód**. Wt.–niedz. 10:00–18:00. To jest wasze okno upalne. ⚠️ Zmiana względem wczorajszej rekomendacji: pisałem „BMA zostaw na jutro, bo jest w obu wariantach" — to było prawdą, **póki wąskim gardłem był jutrzejszy wybór. Teraz wąskim gardłem jest upał**, a jutro i tak wybór już odpadł (Johyun zamknięty). | ~5,000 / dzieci taniej |
-| 15:30 | Przejazd Centum → **Gamcheon** (~40–50 min: linia 2 → przesiadka → autobus pod górę, albo taksówka). |  |
-| 16:20 | ✅ **Widziane — 4/6.** **[★★★★★ 🚶📸 Gamcheon Culture Village](https://www.google.com/maps/search/Gamcheon+Culture+Village+Busan) [N](https://map.naver.com/p/search/감천문화마을)** — „Machu Picchu Korei". Weźcie **mapę Stamp Tour** (2,000 KRW) = poszukiwanie skarbów po kolorowych zaułkach dla dzieci. Pomnik Małego Księcia, mural BTS. Zaplanujcie 2-3 godziny. | Bezpłatnie (mapa 2,000 KRW) |
-| 17:00 | Kawiarnia: [★★☆☆☆ ☕ Coffee It House](https://www.google.com/maps/search/Coffee+It+House+Gamcheon+Busan) [N](https://map.naver.com/p/search/커피잇집) na dachu (najlepszy widok panoramiczny). |  |
-| 17:45 | Przejazd **Gamcheon → Nampo** (~30 min, metro albo taksówka). |  |
-| 18:15 | **[★★★★☆ 🍜🧒 Jagalchi Fish Market](https://www.google.com/maps/search/Jagalchi+Fish+Market+Busan) [N](https://map.naver.com/p/search/자갈치시장)** — Największy targ rybny w Korei. Kupcie rybę na parterze, każcie ją przyrządzić na górze (~3,000-5,000 KRW za przygotowanie). Żywe ośmiornice, kraby, uchowce — dzieci będą zachwycone. |  |
-| 19:00 | **★★★☆☆ BIFF Square** — Ssiat Hotteok (sztandarowy przysmak Busan: smażone placki z nasionami, orzechami i cynamonem, ~1,000-2,000 KRW). Odciski dłoni gwiazd. |  |
-| 19:20 | ✅ **Gukje wraca do gry** — bez plaży zdążacie przed zamknięciem (~20:00). **[★★★☆☆ 🛍️ Gukje Market](https://www.google.com/maps/search/Gukje+Market+Busan) [N](https://map.naver.com/p/search/국제시장)** — Ogromny targ. Pamiątki, jedzenie, koreańskie towary. |  |
-|  | ⏭️ **Pominięte — Busan Tower wypada z dzisiejszego planu (decyzja własna).** Zostaje **Yongdusan Park** jako bezpłatne przejście między Gukje a Bupyeong, jeśli i tak będziecie tamtędy szli — ale na wieżę nie wchodzimy. Zwolniona godzina wchłania przesunięcie z porannej osi sztuki: przy opcji B z 10:15 dzień znów domyka się bez pośpiechu, a o 19:30 jesteście pod Bupyeong dokładnie na otwarcie. |  |
-| 19:45 | *Opcjonalnie, jeśli zostanie kwadrans:* **[★★★☆☆ 🚶📸 Bosu-dong Book Street](https://www.google.com/maps/search/Bosu-dong+Book+Street+Busan) [N](https://map.naver.com/p/search/보수동책방골목)** — 200-metrowy zaułek antykwariatów, 10 min pieszo od Gukje, po drodze na Bupyeong. |  |
-| 19:50 | Kolacja: **[★★★☆☆ 🏮 Bupyeong Kkangtong Night Market](https://www.google.com/maps/search/Bupyeong+Kkangtong+Night+Market+Busan) [N](https://map.naver.com/p/search/부평깡통야시장)** — Otwarcie 19:30. Pierwszy stały nocny targ w Korei. Bibim dangmyeon, egg hotteok, grillowany boczek. | ~10,000-20,000 KRW |
-
----
-
-## Also Nearby
-
-### Haeundae — fotografia / kultura
-- [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) [N](https://map.naver.com/p/search/고은사진미술관) — Jedyne w Busan **muzeum fotografii artystycznej**, w Haeundae (16 Haeundae-ro 452beon-gil, blisko plaży). Prawdziwa galeria fotografii; **bezpłatnie**, 10:00–18:00, **zamknięte w pon.** ✅ **Ma już pełny slot 20 sie** (Opcja A, oś sztuki) — nie musicie go dziś wciskać ani oddawać za niego **Sky Capsule**. Zostaje tu jako awaryjna wymiana, gdyby jutrzejszy plan poszedł w stronę Songdo.
-
-### Gamcheon — dodatki
-- [★★☆☆☆ ☕🏛️ Cafe Avant Garde](https://www.google.com/maps/search/Cafe+Avant+Garde+Gamcheon+Busan) [N](https://map.naver.com/p/search/카페아방가르드) — Retro/vintage płyty i radia; również galeria
-- ★★☆☆☆ 📸 BTS Mural (Jungkook i Jimin) — Popularne miejsce na zdjęcia
-- ★★★☆☆ 📸 Pomnik Małego Księcia i Lisa — Najczęściej fotografowane miejsce
-
-### Nampo — dodatki
-- [★★☆☆☆ 🎁 K-POP FRIENDS Nampo](https://www.google.com/maps/search/KPOP+FRIENDS+Nampo+Busan) [N](https://map.naver.com/p/search/케이팝프렌즈%20비프광장점) — Gadżety K-pop, albumy, photo cards
-
-### Gwangalli (przeniesione na 20 sie)
-- [★★☆☆☆ 🍜 Millak Raw Fish Center](https://www.google.com/maps/search/Millak+Raw+Fish+Center+Busan) [N](https://map.naver.com/p/search/민락회센터) — Kupujecie świeżą rybę na dole, jecie na górze (blisko Gwangalli — teraz w Opcji B dnia 20 sie)
-
-### Seomyeon (jeśli będziecie przejeżdżać)
-- [★★☆☆☆ ☕ Jeonpo Cafe Street](https://www.google.com/maps/search/Jeonpo+Cafe+Street+Busan) [N](https://map.naver.com/p/search/전포카페거리) — Dzielnica niezależnych kawiarni
-- [★★☆☆☆ 🛍️🤪 ARTBOX Seomyeon](https://www.google.com/maps/search/ARTBOX+Seomyeon+Busan) [N](https://map.naver.com/p/search/아트박스%20서면) — Koreańskie artykuły papiernicze, upominki, dziwaczne gadżety
-
-### Desery
-- [★★☆☆☆ ☕ Yonghodong Halme Patbingsu](https://www.google.com/maps/search/Yonghodong+Halme+Patbingsu+Busan) [N](https://map.naver.com/p/search/용호동할매팥빙수) — Działa od 1983 r.; tradycyjny deser z kruszonego lodu
-
----
 
 > **Dzień 10 · 20 sie (czw) · Korea** — Busan dzień 2: Yeongdo + oś sztuki (GoEun, BMA) + Songdo/Gwangalli
 
