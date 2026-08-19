@@ -672,11 +672,11 @@ Pogrupowane według dzielnic.
 - [★★★★★ 🏯 Haedong Yonggungsa Temple](https://www.google.com/maps/search/Haedong+Yonggungsa+Temple+Busan) [N](https://map.naver.com/p/search/해동용궁사) — Świątynia nad oceanem zbudowana w 1376 r.; dojście po 108 kamiennych stopniach w dół; najlepiej o wschodzie słońca; wstęp wolny 📅 **Dzień 9 (19 sie)**
 - [★★★☆☆ 🌳 Dongbaekseom (Dongbaek Island)](https://www.google.com/maps/search/Dongbaekseom+Busan) [N](https://map.naver.com/p/search/동백섬) — Nadmorska ścieżka od Haeundae Beach; APEC Nurimaru House; wstęp wolny
 - [★★★★☆ 🗼 Busan X the Sky](https://www.google.com/maps/search/Busan+X+the+Sky) [N](https://map.naver.com/p/search/부산엑스더스카이) — Taras widokowy na 98.–100. piętrze LCT Tower; także najwyższy Starbucks na świecie 📅 *blisko: Dni 10, 11 (20, 21 sie)*
-- [★★★☆☆ 🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan) [N](https://map.naver.com/p/search/달맞이고개) — „Wzgórze Księżycowe"; galerie sztuki, kawiarnie, wiśnie; świetne widoki na zachód słońca 📅 **Dzień 10 (20 sie)**
+- [★★★☆☆ 🗼 Dalmaji Hill](https://www.google.com/maps/search/Dalmaji+Hill+Busan) [N](https://map.naver.com/p/search/달맞이고개) — „Wzgórze Księżycowe"; galerie sztuki, kawiarnie, wiśnie; świetne widoki na zachód słońca
 
 #### Sztuka i fotografia
 - [★★★★☆ 📷🏛️ GoEun Museum of Photography](https://www.google.com/maps/search/GoEun+Museum+of+Photography+Busan) [N](https://map.naver.com/p/search/고은사진미술관) — Jedyne w Busan **muzeum fotografii artystycznej** (Haeundae, blisko plaży); prawdziwa galeria fotografii. **Wstęp wolny**; 10:00–18:00, **zamknięte w pon.** ⏰ Otwiera o 10:00 — w napiętym dniu 19 sie konkuruje z porankiem w Haeundae; naturalna wymiana to odpuszczenie płatnego przejazdu Sky Capsule na rzecz muzeum. ✅ **Widziane: Dzień 9 (19 sie) — 4,5/6** 📅 **Dzień 9 (19 sie)**
-- [★★★★☆ 🎨 Johyun Gallery](https://www.google.com/maps/search/Johyun+Gallery+Busan) [N](https://map.naver.com/p/search/조현화랑) — Flagowa galeria sztuki współczesnej w Busan, przy Dalmaji-gil (Haeundae); reprezentuje Nam June Paika, Juliana Opie, Georges'a Rousse'a; malarstwo/rzeźba/instalacja. Wstęp wolny; wt.–niedz. 10:00–19:00, zamknięte w pon. **Łączy się z Dalmaji Hill + GoEun** w jedną oś sztuki w Haeundae. 🚫 **ZAMKNIĘTE: Dzień 9 (19 sie)** — galeria montowała nową wystawę. ⚠️ Godziny „wt.–niedz. 10:00–19:00" są prawdziwe, ale **niewystarczające**: to prywatna galeria, więc między wystawami po prostu nie działa, a przerw nie widać w godzinach otwarcia. Przed pójściem sprawdzać AKTUALNĄ wystawę na stronie/IG galerii, nie sam grafik. Zakładać, że **20 sie też jest zamknięte** — montaż trwa dniami, nie godzinami. 📅 **Dni 9, 10 (19, 20 sie)**
+- [★★★★☆ 🎨 Johyun Gallery](https://www.google.com/maps/search/Johyun+Gallery+Busan) [N](https://map.naver.com/p/search/조현화랑) — Flagowa galeria sztuki współczesnej w Busan, przy Dalmaji-gil (Haeundae); reprezentuje Nam June Paika, Juliana Opie, Georges'a Rousse'a; malarstwo/rzeźba/instalacja. Wstęp wolny; wt.–niedz. 10:00–19:00, zamknięte w pon. **Łączy się z Dalmaji Hill + GoEun** w jedną oś sztuki w Haeundae. 🚫 **ZAMKNIĘTE: Dzień 9 (19 sie)** — galeria montowała nową wystawę. ⚠️ Godziny „wt.–niedz. 10:00–19:00" są prawdziwe, ale **niewystarczające**: to prywatna galeria, więc między wystawami po prostu nie działa, a przerw nie widać w godzinach otwarcia. Przed pójściem sprawdzać AKTUALNĄ wystawę na stronie/IG galerii, nie sam grafik. Zakładać, że **20 sie też jest zamknięte** — montaż trwa dniami, nie godzinami. 📅 **Dzień 9 (19 sie)**
 - [★★★★☆ 🎨 Gallery Woo](https://www.google.com/maps/search/Gallery+Woo+Haeundae+Busan) [N](https://map.naver.com/p/search/갤러리우) — Uznana galeria komercyjna w Busan (koreańskie współczesne malarstwo/rzeźba/ceramika) w hotelowym pasie Haeundae. Wstęp wolny; godziny zależą od wystawy — sprawdź.
 
 #### Nadmorskie spacery i aktywności
@@ -738,7 +738,7 @@ Pogrupowane według dzielnic.
 
 ### Dzielnica Seomyeon
 
-- [★★★☆☆ 🍜 Seomyeon Dwaeji Gukbap Street](https://www.google.com/maps/search/Seomyeon+Dwaeji+Gukbap+Busan) [N](https://map.naver.com/p/search/서면돼지국밥골목) — Cała ulica dwaeji gukbap (zupa z kości wieprzowych z ryżem); comfort food z Busan; 24 h 📅 **Dzień 9 (19 sie)**
+- [★★★☆☆ 🍜 Seomyeon Dwaeji Gukbap Street](https://www.google.com/maps/search/Seomyeon+Dwaeji+Gukbap+Busan) [N](https://map.naver.com/p/search/서면돼지국밥골목) — Cała ulica dwaeji gukbap (zupa z kości wieprzowych z ryżem); comfort food z Busan; 24 h
 - [★★☆☆☆ ☕ Jeonpo Cafe Street](https://www.google.com/maps/search/Jeonpo+Cafe+Street+Busan) [N](https://map.naver.com/p/search/전포카페거리) — Kwartał niezależnych kawiarni 📅 *blisko: Dzień 9 (19 sie)*
 - [★★☆☆☆ 🛍️ ARTBOX Busan Seomyeon](https://www.google.com/maps/search/ARTBOX+Seomyeon+Busan) [N](https://map.naver.com/p/search/아트박스%20서면) — Koreańskie artykuły papiernicze, upominki, dziwaczne gadżety 📅 *blisko: Dzień 9 (19 sie)*
 - [★★☆☆☆ 🛍️ Seomyeon Underground Shopping Center](https://www.google.com/maps/search/Seomyeon+Underground+Shopping+Busan) [N](https://map.naver.com/p/search/서면지하상가) — Modne ciuchy, gadżety K-pop, kosmetyki; niedrogo
@@ -752,12 +752,12 @@ Pogrupowane według dzielnic.
 
 #### Nadmorskie spacery
 - [★★★☆☆ 🌳 Taejongdae Resort Park](https://www.google.com/maps/search/Taejongdae+Busan) [N](https://map.naver.com/p/search/태종대) — Klify nadmorskie, Yeongdo Lighthouse, kolejka Danubi Train po parku; szlak 3,5 km 📅 **Dzień 10 (20 sie)** · *blisko: Dzień 11 (21 sie)*
-- [★★★☆☆ 🚡 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan) [N](https://map.naver.com/p/search/송도해상케이블카) — 1,62 km nad oceanem na wysokości 86 m; wybierz Crystal Cabin (przezroczysta podłoga); przejazd 15-20 min 📅 **Dzień 10 (20 sie)** · *blisko: Dzień 11 (21 sie)*
+- [★★★☆☆ 🚡 Songdo Marine Cable Car](https://www.google.com/maps/search/Songdo+Marine+Cable+Car+Busan) [N](https://map.naver.com/p/search/송도해상케이블카) — 1,62 km nad oceanem na wysokości 86 m; wybierz Crystal Cabin (przezroczysta podłoga); przejazd 15-20 min 📅 *blisko: Dzień 11 (21 sie)*
 - [★★★☆☆ 🌳 Igidae Coastal Walk](https://www.google.com/maps/search/Igidae+Coastal+Walk+Busan) [N](https://map.naver.com/p/search/이기대) — Szlak 4,7 km; skały wulkaniczne, groty morskie; zaplanuj 2,5 godziny; do przejścia od 9 lat 📅 *blisko: Dzień 10 (20 sie)*
 - [★★★☆☆ 🗼 Oryukdo Skywalk](https://www.google.com/maps/search/Oryukdo+Skywalk+Busan) [N](https://map.naver.com/p/search/오륙도스카이워크) — Szklany pomost wysunięty 35 m nad klifem; wstęp wolny 📅 **Dzień 10 (20 sie)**
 
 #### Świątynie
-- [★★★☆☆ 🏯 Beomeosa Temple](https://www.google.com/maps/search/Beomeosa+Temple+Busan) [N](https://map.naver.com/p/search/범어사) — „Świątynia Ryby Nirwany"; zbudowana w 678 r. n.e.; stare lasy; znacznie mniej turystyczna niż Haedong Yonggungsa 📅 **Dzień 9 (19 sie)**
+- [★★★☆☆ 🏯 Beomeosa Temple](https://www.google.com/maps/search/Beomeosa+Temple+Busan) [N](https://map.naver.com/p/search/범어사) — „Świątynia Ryby Nirwany"; zbudowana w 678 r. n.e.; stare lasy; znacznie mniej turystyczna niż Haedong Yonggungsa
 
 #### Dla dzieci
 - [★★★☆☆ 🐾🧒 SEA LIFE Busan Aquarium](https://www.google.com/maps/search/SEA+LIFE+Busan+Aquarium) [N](https://map.naver.com/p/search/씨라이프%20부산아쿠아리움) — 250 gatunków; łódź ze szklanym dnem, tunel oceaniczny, karmienie rekinów/pingwinów; jest też Brickman Cities (zabytki z LEGO) 📅 *blisko: Dni 10, 11 (20, 21 sie)*
@@ -768,7 +768,7 @@ Pogrupowane według dzielnic.
 
 #### Desery w Busan
 - [★★☆☆☆ ☕ Yonghodong Halme Patbingsu](https://www.google.com/maps/search/Yonghodong+Halme+Patbingsu+Busan) [N](https://map.naver.com/p/search/용호동할매팥빙수) — Od 1983 r.; tradycyjny kruszony lód, czerwona fasola, mleko skondensowane 📅 *blisko: Dzień 9 (19 sie)*
-- [★★★☆☆ 🍜 Dongnae Halmae Pajeon](https://www.google.com/maps/search/Dongnae+Halmae+Pajeon+Busan) [N](https://map.naver.com/p/search/동래할매파전) — Restauracja ludowa nr 1 w Busan; cztery pokolenia; chrupiący placek z zieloną cebulką i kalmarem 📅 **Dzień 9 (19 sie)**
+- [★★★☆☆ 🍜 Dongnae Halmae Pajeon](https://www.google.com/maps/search/Dongnae+Halmae+Pajeon+Busan) [N](https://map.naver.com/p/search/동래할매파전) — Restauracja ludowa nr 1 w Busan; cztery pokolenia; chrupiący placek z zieloną cebulką i kalmarem
 
 ---
 
@@ -798,10 +798,10 @@ Pogrupowane według kategorii. **Realia:** okno na Busan jest krótkie (18 sie w
 - [★★☆☆☆ 🏯 Dongnae Hyanggyo (Confucian School)](https://www.google.com/maps/search/Dongnae+Hyanggyo+Busan) [N](https://map.naver.com/p/search/동래향교) — Jedna z najstarszych lokalnych szkół konfucjańskich w Korei (zał. 1413, obecne budynki 1813): hala wykładowa Myeongnyundang, akademiki i chram Daeseongjeon, gdzie dwa razy w roku wciąż odprawiane są obrzędy Hyangsa. Bezpłatnie. Dongnae-gu — dodatek do skupiska kultury ludowej razem z Chungnyeolsa, niski priorytet.
 - [★★★★☆ 📸🎭 Busan Cinema Center](https://www.google.com/maps/search/Busan+Cinema+Center+Busan) [N](https://map.naver.com/p/search/영화의전당) — Siedziba Busan Int'l Film Festival w Centum City; jego „Big Roof" ma rekord Guinnessa w najdłuższym wsporniku (163m), nocą podświetlany LED-ami, z efektownym wejściem Double Cone. Oglądanie i fotografowanie placu bezpłatne. Łatwy dodatek blisko Shinsegae Centum / Spa Land. 📅 *blisko: Dzień 10 (20 sie)*
 - [★★★★☆ 🏛️🎨 Museum of Contemporary Art Busan (MOCA Busan)](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Busan) [N](https://map.naver.com/p/search/부산현대미술관) — Sztuka współczesna nad wodą, w estuarium Nakdong/Eulsukdo; zmieniające się wystawy przez 2026–27. Niewysoki wstęp, prawdopodobnie zamknięte w pon. Łączy się z Nakdong Eco Center.
-- [★★★★☆ 🏛️🎨 Busan Museum of Art (BMA) / Lee Ufan Space](https://www.google.com/maps/search/Busan+Museum+of+Art+Busan) [N](https://map.naver.com/p/search/부산시립미술관) — Miejskie muzeum sztuki (5 pięter, park rzeźby) plus przylegająca minimalistyczna przestrzeń Lee Ufana. Zamknięte w pon. Dobra opcja wewnątrz, z AC. 📅 **Dni 9, 10 (19, 20 sie)**
+- [★★★★☆ 🏛️🎨 Busan Museum of Art (BMA) / Lee Ufan Space](https://www.google.com/maps/search/Busan+Museum+of+Art+Busan) [N](https://map.naver.com/p/search/부산시립미술관) — Miejskie muzeum sztuki (5 pięter, park rzeźby) plus przylegająca minimalistyczna przestrzeń Lee Ufana. Zamknięte w pon. Dobra opcja wewnątrz, z AC. 🚫 **ZAMKNIĘTE: Dzień 9 (19 sie)** — **remont; czynna wyłącznie Lee Ufan Space** (osobny budynek), na ~30 min. ⚠️ Korekta danych: katalog podawał „5 pięter + park rzeźby, dobra opcja wewnątrz z AC" i nic o remoncie — główny gmach jest niedostępny. **Nie planować BMA na resztę pobytu w Busan** i sprawdzić stan remontu, zanim wróci do jakiegokolwiek planu. 📅 **Dzień 9 (19 sie)**
 
 #### D. Zabytki i widoki
-- [★★★☆☆ 🗼🧒 Songdo Beach & Cloud Trails Skywalk](https://www.google.com/maps/search/Songdo+Skywalk+Cloud+Trails+Busan) [N](https://map.naver.com/p/search/송도구름산책로) — Pierwsza publiczna plaża w Korei (1913) z podniesionym skywalkiem o długości ~365–396m (odcinki ze szklaną podłogą nad wodą) i sztucznym wodospadem. Latem ok. 9:00–18:00 (zweryfikuj). To nie to samo co Songdo Marine Cable Car — zrób jedno i drugie razem. 📅 **Dzień 10 (20 sie)**
+- [★★★☆☆ 🗼🧒 Songdo Beach & Cloud Trails Skywalk](https://www.google.com/maps/search/Songdo+Skywalk+Cloud+Trails+Busan) [N](https://map.naver.com/p/search/송도구름산책로) — Pierwsza publiczna plaża w Korei (1913) z podniesionym skywalkiem o długości ~365–396m (odcinki ze szklaną podłogą nad wodą) i sztucznym wodospadem. Latem ok. 9:00–18:00 (zweryfikuj). To nie to samo co Songdo Marine Cable Car — zrób jedno i drugie razem.
 - [★★★☆☆ 🗼🍺 The Bay 101 (Marine City)](https://www.google.com/maps/search/The+Bay+101+Busan) [N](https://map.naver.com/p/search/더베이101) — Nadwodny kompleks gastronomiczno-handlowy z widokiem na panoramę Haeundae i Gwangan Bridge; punkt startu publicznych rejsów jachtem (~30–50 min) po zatoce Suyeong. Najlepiej o zachodzie słońca lub nocą; w weekendowe wieczory tłoczno.
 
 #### E. Przyroda i parki
