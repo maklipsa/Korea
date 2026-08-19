@@ -1572,7 +1572,7 @@ const DAYS = [
       },
       {
         "time": "<strong>11:20</strong>",
-        "activity": "⏰ <strong>BĄDŹCIE NA STACJI SONGJEONG.</strong> Na bilecie: <strong>odprawa kończy się 10 minut przed odjazdem</strong> (출발 시간 10분 전 탑승 마감). Spóźnienie = bilet przepada, a pierwszeństwo wsiadania mają pasażerowie z rezerwacją na daną godzinę.",
+        "activity": "⏰ <strong>BĄDŹCIE NA STACJI SONGJEONG</strong> — <a href=\"https://map.naver.com/p/search/해운대블루라인파크%20송정정거장\" target=\"_blank\">N: 송정정거장</a> (wschodni kraniec plaży Songjeong). Na bilecie: <strong>odprawa kończy się 10 minut przed odjazdem</strong> (출발 시간 10분 전 탑승 마감). Spóźnienie = bilet przepada, a pierwszeństwo wsiadania mają pasażerowie z rezerwacją na daną godzinę.",
         "price": ""
       },
       {
