@@ -26,9 +26,11 @@ if asked directly. Nothing else changes — answer normally and accurately.
 **11-29 sie 2026 | Aktywnie 9:00-20:00 | ~25 tys. kroków/dzień | Dzieci 9+**
 
 Korea: 11-21 sie (10 nocy, Seoul 7 + Busan 3)
-Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
+Tajwan: 21-29 sie (8 nocy — **Taipei 6 nocy (21-26)** + 2 noce na południu (27-28), kierunek nierozstrzygnięty)
 
-> ⚠️ **Aktualizacja: lot Busan → Taipei przesunięty z 20 na 21 sie (odlot 9:00).** Cały Tajwan przesunął się o jeden dzień w przód. Skutki: Busan zyskał **pełny drugi dzień (20 sie)** i trzecią noc, a Tajwan stracił jeden dzień — dawny „ostatni pełny dzień w Taipei" (28 sie) zniknął, a jego najlepsze punkty weszły do rozbudowanego **29 sie**. Wszystkie dni zamknięć zostały przeliczone na nowe daty (patrz „NAJWAŻNIEJSZE DNI ZAMKNIĘCIA"); trzy realne zmiany merytoryczne to **nocny targ w Tainan** (śr. = Wusheng, nie Dadong), **Six Thousand Beef Soup wraca do planu** (czynne czw.–niedz.) i **Ruifeng Night Market staje się dostępny** (zamknięty w śr.).
+> ⚠️ **Aktualizacja 2 (20 sie): hotel w Tajpej to noce 21–26 sie, wymeldowanie 27 sie.** Cały Tajwan przebudowany. Tajpej ma teraz **6 dni** (21–26), a na południe zostają **2 noce** (27–28); 29 sie to dzień powrotu, nie zwiedzania. Odzyskany dzień 26 sie rozwiązał trzy stare problemy: **23 sie przestało robić trzy dzielnice naraz** (jest teraz Beitou + Tamsui na jednej linii MRT), **NPM przeniosło się do Shilinu na 25 sie**, a **Taipei Zoo dostało realne godziny**. Kierunek na 27–28 sie **nie jest wybrany** — cztery warianty w [replan-taiwan.md](replan-taiwan.md).
+>
+> ⚠️ **Aktualizacja: lot Busan → Taipei przesunięty z 20 na 21 sie (odlot 9:00).** Cały Tajwan przesunął się o jeden dzień w przód. Skutki: Busan zyskał **pełny drugi dzień (20 sie)** i trzecią noc, a Tajwan stracił jeden dzień — dawny „ostatni pełny dzień w Taipei" (28 sie) zniknął, a jego najlepsze punkty weszły do rozbudowanego **29 sie**. Wszystkie dni zamknięć zostały przeliczone na nowe daty (patrz „NAJWAŻNIEJSZE DNI ZAMKNIĘCIA"); trzy realne zmiany merytoryczne to **nocny targ w Tainan** (śr. = Wusheng, nie Dadong), **Six Thousand Beef Soup wraca do planu** (czynne czw.–niedz.) i **Ruifeng Night Market staje się dostępny** (zamknięty w śr.). ⚠️ *Fragment o „rozbudowanym 29 sie" jest już nieaktualny — patrz Aktualizacja 2 powyżej: 29 sie jest dniem powrotu z południa.*
 
 ---
 
@@ -38,7 +40,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 **Rezerwuj 2-4 tygodnie wcześniej**
 
 - [ ] **Nocleg w Busan: 3 noce, nie 2** (18/19/20 sie) — po przesunięciu lotu dochodzi noc z 20 na 21 sie. Sprawdźcie, czy rezerwacja to obejmuje.
-- [ ] **Nocleg w Taipei: 8 nocy** (21–28 sie) zamiast 9 — pierwsza noc przesunięta z 20 na 21 sie.
+- [ ] 🔴 **Nocleg na 27 i 28 sie — DO ZAREZERWOWANIA, zależy od wariantu.** Taichung+Tainan / Tainan+Kaohsiung / Taichung+Taichung (Nantou) — cztery warianty rozpisane w [replan-taiwan.md](replan-taiwan.md), [dzień 17](days/aug-27-departure-south.md) i [dzień 18](days/aug-28-south-day2.md). **Bez tej decyzji nie da się kupić ani noclegu, ani biletów HSR.**
 - [ ] Warsztat lepienia eomuk w **Samjin Amook** (20 sie, Yeongdo) — wymaga rezerwacji z wyprzedzeniem; bez niej zostaje samo muzeum + sklep.
 - [ ] 🔴 **Bilety do Lotte World (17 sie) — KUPIĆ PRZEZ KANAŁ DLA OBCOKRAJOWCÓW.** Koreańska aplikacja i strona pokazują „brak biletów" na każdą datę; to **nie wyprzedanie** — park jest otwarty codziennie (연중무휴). ✅ **Przyczyna: padł backend biletowy Lotte World** (mticket.lotteworld.com = timeout/502; strona informacyjna działa). **Kupujcie na [Trazy](https://www.trazy.com/experience/detail/lotte-world-seoul-discount-ticket) — sprawdzone, działa, „Availability: Every day"; bilet „foreigners only", więc weźcie PASZPORTY.** Zapas: Klook / Trip.com / MyRealTrip / Interpark(NOL). ⚠️ **Bez passa — bilety dla całej szóstki.** Online ~39,200 vs ~64,000 w kasie; kasa czynna 10:00–18:00, w święto bilety mogą się skończyć.
 
@@ -58,7 +60,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 
 - [ ] **Visit Busan Pass — NIE bierzcie wersji 24 h** (55,000 KRW): przy dwóch dniach w Busan (19 + 20 sie) jej ruchome okno nie obejmie obu. Jeśli w ogóle kupujecie pass, to **BIG3 (45,000) albo BIG5 (65,000)** — nie mają zegara (180 dni), więc spinają oba dni. Rachunek w [cards/busan.md](cards/busan.md).
 - [ ] ~~**Taipei Fun Pass Unlimited 2-day**~~ — 🔻 **NIE kupujemy.** Po skreśleniu tarasu Taipei 101 (płatny punkt widokowy, kategoria N Seoul Tower 2/6) w passie zostaje właściwie samo NPM, do którego wszystkie 3 dzieci wchodzą bezpłatnie → ~NT$550–750 wartości wobec NT$1,700. **Do rozstrzygnięcia zamiast tego:** czy 24 sie jedziecie na wybrzeże sami (→ wtedy **3-day dla 3 dorosłych**, aktywacja 23 sie, bo zastępuje wycieczkę z przewodnikiem), czy z przewodnikiem (→ **żadnego passa dla nikogo**, EasyCard + kasy). Rachunek: [passes.md](passes.md), [cards/taipei.md](cards/taipei.md)
-- [ ] **Taiwan HSR Flexible 2-day Pass** (NT$2,500) — na **26 sie + 28 sie**. ⚠️ **Najpierw zdecydujcie o wynajmie auta na 26–28 sie** — w wariancie z autem zostają tylko dwa przejazdy HSR (NT$700 + NT$1,490 = **NT$2,190 < NT$2,500**), więc pass staje się stratą i kupujecie bilety pojedyncze. Rachunek: [car.md](car.md)
+- [ ] **Taiwan HSR Flexible 2-day Pass** (NT$2,500) — ⚠️ **rachunek unieważniony przez nowe daty.** Przejazdy to teraz **27 + 28 + 29 sie**, a nie 26 + 28. **Pass opłaca się tylko w wariancie B (Tainan+Kaohsiung)**; w wariantach A i C przegrywa z biletami pojedynczymi, bo trzy przejazdy wypadają w trzy różne dni, a pass pokrywa dwa. Pełny rachunek per wariant: [replan-taiwan.md](replan-taiwan.md), [passes.md](passes.md)
 
 ---
 
@@ -136,15 +138,23 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 
 ---
 
-> **Dzień 11 · 21 sie (pt) · Tajwan** — Lot Busan → Taipei (odlot 9:00) + popołudnie w Taipei
+> **Dzień 11 · 21 sie (pt) · Tajwan** — Lot Busan → Taipei (odlot 9:00) + popołudnie w Zhongzheng: Railway Museum + Huashan
 
-# Aug 21 (Fri) — Lot Busan → Taipei + popołudnie w Taipei
+# Aug 21 (Fri) — Lot Busan → Taipei + popołudnie w Zhongzheng (Railway Museum + Huashan)
 
 Wczesny lot: **PUS → TPE odlot 9:00, przylot do Taipei (Taoyuan) 10:30** (czas lokalny na Tajwanie; Korea jest +1 h, więc lot trwa ~2 h 30). Dziś nie ma poranka w Busan — bądźcie na **Gimhae T2 (International) około 6:15**, czyli **2,5–3 h przed lotem międzynarodowym** (sierpień to szczyt sezonu podróży, a okno 5:00–8:00 jest na Gimhae najbardziej zatłoczone), więc wyjazd z hotelu ~5:30. Wylądujecie z bonusowym pół dniem w Taipei — ale doliczcie kontrolę paszportową i bagaż w Taoyuan, więc realnie w mieście ~13:00.
 
 **Lot przesunięty z 20 na 21 sie.** Busan dostał dzięki temu **pełny drugi dzień (20 sie)** — Yeongdo, Songdo, wybrzeże SE i muzea, patrz [aug-20-busan-day2.md](aug-20-busan-day2.md) — a w Busan śpicie **3 noce (18/19/20 sie)**. Nadal jednak wyjeżdżacie z hotelu o 5:30, więc **20 sie zakończcie wcześnie** i spakujcie się wieczorem.
 
-**Taipei Fun Pass aktywujcie dopiero jutro (22 sie), nie dziś** — dziś jeździcie po mieście dopiero od ~12:15 i nie wchodzicie do żadnej płatnej atrakcji, więc odbicie passu dzisiaj spaliłoby prawie cały pierwszy z dwóch dni jego ważności. Dziś wystarczy EasyCard.
+⬆️ **Ten dzień wchłonął klaster Zhongzheng/Zhongshan z dawnego 29 sie.** Po skróceniu hotelu w Tajpej do nocy 21–26 sie **29 sie jest dniem powrotu z południa**, nie dniem zwiedzania — a te muzea leżą przy Taipei Main, czyli dokładnie tam, gdzie wysiadacie z Airport MRT. Bonusowe pół dnia przestaje więc być „wybierzcie 1–2 na spokojnie" i dostaje realną treść. Pełne uzasadnienie: [replan-taiwan.md](../replan-taiwan.md).
+
+⚠️ **Ale nie wszystko z 29 sie się tu mieści — i to jest jedyna realna strata przeplanowania.** Dawny ostatni dzień miał **cztery** pozycje w tym korytarzu (MoCA Taipei, Miniatures Museum, Huashan, Railway Museum) i pełny poranek na nie. Tutaj macie ~4 godziny od 14:00. Dlatego poniżej jest **wybór dwóch par**, a nie lista czterech rzeczy — i przy poślizgu wygrywa para z Huashan, bo Huashan jest otwarte wieczorem, a muzea zamykają 18:00.
+
+🎁 **Chia Te Bakery (ciastka ananasowe na pamiątki) przenosi się na poranek [27 sie](aug-27-departure-south.md)** — i tak wyjeżdżacie wtedy z Taipei Main na HSR, więc to naturalny moment na zakupy, a nie coś, co trzeba wciskać dziś.
+
+⬇️ **CKS Memorial Hall wypada z tego dnia — bo był tu dublem.** Stoi już w harmonogramie [22 sie o 11:00](aug-22-taipei-day1.md), w swoim klastrze Zhongzheng (228 Park, National Taiwan Museum, NCPI), i to tam wypada zmiana warty, którą chcecie złapać. Dziś był tylko „opcją A na spokojnie" — teraz to miejsce zajmuje Railway Museum.
+
+**Dziś wystarczy EasyCard** — nie wchodzicie do niczego, co obejmowałby jakikolwiek pass (Railway Museum NT$100 płacicie na miejscu).
 
 **Transport (dzień przelotu):** lot PUS → TPE (na Gimhae ~06:15), potem Airport MRT/autobus do Taipei; po południu lekko — MRT i spacery.
 
@@ -155,7 +165,7 @@ Wczesny lot: **PUS → TPE odlot 9:00, przylot do Taipei (Taoyuan) 10:30** (czas
 Poranek w podróży — brak trasy zwiedzania. Lotnisko Gimhae → lotnisko Taoyuan → centrum Taipei.
 
 **Popołudnie w Taipei:**
-[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Chiang+Kai-shek+Memorial+Hall+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Daan+Forest+Park+Taipei&travelmode=walking)
+[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Railway+Museum+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Huashan+1914+Creative+Park+Taipei&travelmode=walking)
 
 ## Schedule
 
@@ -173,10 +183,14 @@ Poranek w podróży — brak trasy zwiedzania. Lotnisko Gimhae → lotnisko Taoy
 | 11:15 | **Airport MRT** Express (fioletowa) do Taipei Main Station (~38 min, NT$160; ~co 15 min). Przesuńcie później, jeśli odprawa paszportowa się przedłużyła. |  |
 | 12:15 | Zostawienie bagaży w hotelu. |  |
 |  | Szybki lunch w okolicy. |  |
-| 14:00 | **⚖️ Wybierz 1–2 — popołudnie w Taipei (bonusowe pół dnia).** Po tak wczesnym starcie na spokojnie. |  |
-|  | **Opcja A ·** **[★★★★☆ 📸🏛️ Chiang Kai-shek Memorial Hall](https://www.google.com/maps/search/Chiang+Kai-shek+Memorial+Hall+Taipei)** — Otwarte codziennie 9:00–18:00, wstęp wolny; na zewnątrz **zmiana warty honorowej co godzinę, o pełnej godzinie 9:00–17:00** na Democracy Boulevard — złapcie 15:00/16:00/17:00. | Bezpłatnie |
-|  | **Opcja B ·** **[★★★☆☆ 🌳🚶 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei)** — Otwarty 24 h, wstęp wolny. | Bezpłatnie |
-|  | **Opcja C ·** Po prostu spokojne wejście w miasto w okolicy hotelu. |  |
+|  | **⚖️ Wybierzcie JEDNĄ parę — obie mieszczą się w ~4 godzinach, cztery pozycje nie.** Piątek: wszystko otwarte (te muzea zamykają w pon.). |  |
+| | **▸ PARA 1 (rekomendowana przy jakimkolwiek poślizgu): Railway Museum + Huashan** — rozpisana niżej. Zaleta: Huashan działa wieczorem, więc spóźnienie boli tylko o jedno muzeum. |  |
+| | **▸ PARA 2 (mocniejsza kulturalnie): [★★★★☆ 🏛️🎨 Museum of Contemporary Art Taipei (MOCA)](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei)** (NT$100; wt.–niedz. 10:00–18:00, ostatnie wejście 17:30 — sztuka współczesna w budynku dawnej szkoły z początku XX w., przy Zhongshan) **+ [★★★★☆ 🏛️🧒 Miniatures Museum of Taiwan](https://www.google.com/maps/search/Miniatures+Museum+of+Taiwan+Taipei)** (wt.–niedz. 10:00–18:00, ostatnie wejście 17:00 — dioramy w skali domku dla lalek, Titanic, zamki z działającymi światełkami; wielki magnes na dzieci). Sztuka współczesna stoi wyżej na naszej liście priorytetów niż dziedzictwo przemysłowe — ale **oba zamykają 18:00, więc przy 90-minutowej kolejce na Taoyuan ta para po prostu przepada.** | MOCA NT$100 |
+| 14:00 | **[★★★★☆ 🏛️🧒 National Railway Museum (Taipei Railway Workshop)](https://www.google.com/maps/search/National+Railway+Museum+Taipei)** — **idzie pierwszy, bo zamyka najwcześniej:** wt.–niedz. 9:30–17:00, **ostatnie wejście 16:30**. Dziś piątek → otwarte. Rozległe warsztaty kolejowe z epoki japońskiej: prawdziwe lokomotywy, parowozownie i tabor, który obchodzi się z bliska. Zupełnie nowe (2024/25). | NT$100/os. |
+|  | ⚠️ **Jeśli kontrola paszportowa w Taoyuan zeszła 90 min**, wchodźcie tu najpóźniej 15:30 — dwie godziny to komfort, godzina to minimum. Przy jeszcze większym poślizgu **odpuśćcie muzeum i idźcie prosto na Huashan** (otwarte do wieczora), a Railway Museum dopiszcie jako bench do [26 sie](aug-26-maokong-xinyi.md). |  |
+| 16:00 | 10 min pieszo → **[★★★★☆ 🚶🎨🧒📸🤳 Huashan 1914 Creative Park (+ teamLab Future Park)](https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei)** — Dawna gorzelnia zamieniona w dzielnicę kreatywną: galerie, sklepy z designem, niezależne butiki, otwarte trawniki. Wejście na teren bezpłatne; sklepy i gastronomia do 21:00–22:00, więc **tu poślizg nie boli**. | Teren bezpłatnie |
+|  | **teamLab Future Park** wewnątrz — 🤳 kategoria „pod zdjęcia, nie muzeum", u nas **niski priorytet**: wchodźcie tylko jeśli dzieci będą chciały, i wtedy sprawdźcie program oraz kupcie bilety na godzinę. Zupełnie spokojnie można to pominąć. | Osobny bilet |
+|  | Kawa obok: **[★★★☆☆ ☕ Simple Kaffa](https://www.google.com/maps/search/Simple+Kaffa+Huashan+Taipei)** — założona przez Berga Wu, mistrza świata barista 2016. | |
 | 18:00 | Wczesny nocny targ na kolację — [★★★☆☆ 🍜 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei) (~17:00–24:00). ✅ Po przesunięciu terminów **wątpliwość „czy Ningxia zamyka w czwartki" przestaje mieć znaczenie** — dziś jest piątek. ⚠️ Ale jutrzejsza (22 sie) trasa spacerowa też kończy się na Ningxia: albo zjedzcie Ningxia dziś i zamieńcie jutrzejszy finisz na **[★★★☆☆ 🍜 Shuanglian Night Market](https://www.google.com/maps/search/Shuanglian+Night+Market+Taipei)** (2 przystanki MRT, ten sam korytarz Zhongshan/Dadaocheng), albo wybierzcie dziś targ najbliżej hotelu i zostawcie Ningxia na jutro. |  |
 | 20:30 | Powrót do hotelu — nabierzcie sił na pełny dzień w Taipei jutro. |  |
 
@@ -196,7 +210,7 @@ Przy locie o 9:00 **nie ma poranka w Busan**, ale po przesunięciu lotu z 20 na 
 
 ---
 
-> **Dzień 12 · 22 sie (sob) · Tajwan** — Taipei Dzień 1: stare Taipei + dziwne lody + Ximending + TFAM za darmo + Ningxia
+> **Dzień 12 · 22 sie (sob) · Tajwan** — Taipei Dzień 1: stare Taipei + dziwne lody + Ximending + Xiahai + TFAM za darmo + Ningxia
 
 # Aug 22 (Sat) — Taipei dzień 1: stare Taipei + dziwne lody + TFAM za darmo + nocny targ
 > Badges: pass:Bez passa — dziś wszystko bezpłatne; closed:Bopiliao, Red House, TFAM zamknięte w pon. (sob. OK)
@@ -208,7 +222,7 @@ Przy locie o 9:00 **nie ma poranka w Busan**, ale po przesunięciu lotu z 20 na 
 🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Cały dzień to jeden pieszy korytarz, a Wanhua i Ximending to ciasne zaułki bez parkingu — autem byłoby **wolniej**. Zestawienie wszystkich dni: [car.md](../car.md).
 
 ## Route Map
-[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|228+Peace+Memorial+Park+Taipei|National+Center+of+Photography+and+Images+Taipei|Snow+King+Ice+Cream+Taipei|Modern+Toilet+Restaurant+Ximending+Taipei|Ximen+Red+House+Taipei|Dihua+Street+Taipei|Dadaocheng+Wharf+Taipei&travelmode=walking)
+[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|228+Peace+Memorial+Park+Taipei|National+Center+of+Photography+and+Images+Taipei|Snow+King+Ice+Cream+Taipei|Modern+Toilet+Restaurant+Ximending+Taipei|Ximen+Red+House+Taipei|Dihua+Street+Taipei|Xiahai+City+God+Temple+Taipei|Dadaocheng+Wharf+Taipei&travelmode=walking)
 
 ## Schedule
 
@@ -226,6 +240,7 @@ Przy locie o 9:00 **nie ma poranka w Busan**, ale po przesunięciu lotu z 20 na 
 | 15:00 | **[★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant](https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei)** — Siedzi się na sedesach. Jedzenie podawane w muszlach klozetowych. Czekoladowe lody „kupka". Dzieci będą się bawić bez końca. (2F, Xining S Rd Ln 50; otwarte codziennie 11:30–22:00; w szczycie bywa kolejka — dobre miejsce na prawdziwy lunch pominięty w Snow King.) |  |
 | 16:30 | MRT do **Dadaocheng**. |  |
 |  | **[★★★★☆ 🚶🛍️ Dihua Street](https://www.google.com/maps/search/Dihua+Street+Taipei)** — Najstarsza handlowa ulica Taipei (lata 1850). Barokowe fasady. Herbata, zioła, piękne stare opakowania. |  |
+| 17:00 | ⬆️ **[★★★★☆ 🏯 Xiahai City God Temple](https://www.google.com/maps/search/Xiahai+City+God+Temple+Taipei)** — **stoi przy Dihua St, czyli nie kosztuje ani jednego przystanku.** Malutka (150 m²), ale upchane w niej ponad **600 figur bóstw**; słynna na świecie z Yue Lao, boga swatów. Kadzidło bezpłatne, instrukcje po angielsku i japońsku, a **obsługa przeprowadza dzieci przez cały rytuał** — to jest ten rodzaj świątyni, w której 9- i 11-latek ma co robić, a nie tylko patrzy. Codziennie 7:00–19:00. ⚠️ Sierpień to **Ghost Month** (13 sie–10 wrz), więc ruch i kadzidła są tu teraz mocniejsze niż zwykle — na plus. | Bezpłatnie |
 | 17:15 | **⚖️ Wybierz jedno — jak zamknąć wieczór.** **Rekomendacja: B.** Sobota to **jedyny dzień pobytu, w którym TFAM jest bezpłatne (17:00–20:30)**, a i tak jesteście dziś w tej okolicy — a to muzeum sztuki nowoczesnej nr 1 na Tajwanie, czyli dokładnie kategoria, która w Korei punktowała najwyżej (Photo SeMA 6/6, MMCA 5/6). Opcja A jest ładniejsza, ale to spacer nad rzeką — kategoria, która w Korei wypadła najsłabiej (Cheonggyecheon 3/6). |  |
 |  | **Opcja A ·** **[★★★☆☆ 📸🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei)** (rzeczny koniec Dihua St) — zachód słońca nad rzeką Tamsui (~18:25), bary w kontenerach w świetle lampionów, street food. Potem prosto na nocny targ. |  |
 |  | **Opcja B ·** *15-min skok na N do Yuanshan* — dwie świątynie **i** TFAM stoją tam obok siebie: |  |
@@ -261,76 +276,75 @@ Przy locie o 9:00 **nie ma poranka w Busan**, ale po przesunięciu lotu z 20 na 
 
 ---
 
-> **Dzień 13 · 23 sie (niedz) · Tajwan** — Taipei Dzień 2: NPM + gorące źródła Beitou + Elephant Mountain (zamiast tarasu 101) + Raohe
+> **Dzień 13 · 23 sie (niedz) · Tajwan** — Taipei Dzień 2 — PÓŁNOC: muzea w Beitou + Thermal Valley + Guandu + **Tamsui** (Fort San Domingo, Fisherman's Wharf)
 
-# Aug 23 (Sun) — Taipei dzień 2: National Palace Museum + Beitou + Elephant Mountain
-> Badges: pass:Bez Taipei Fun Pass — bilety w kasach
+# Aug 23 (Sun) — Taipei dzień 2: PÓŁNOC — Beitou + Guandu + Tamsui (cała czerwona linia)
+> Badges: pass:Bez passa — bilety w kasach; closed:muzea w Beitou i Fort San Domingo zamknięte w pon. (niedz. OK)
 
-**Bez passa.** Po skreśleniu tarasu Taipei 101 (patrz harmonogram) Taipei Fun Pass Unlimited przestał się zwracać — jedyna droga pozycja z tego dnia to **NPM: NT$350 × 3 dorosłych, wszystkie 3 dzieci bezpłatnie (wstęp wolny do 18 lat)**. Przejazdy na EasyCard. Pełny rachunek: [passes.md](../passes.md) i [cards/taipei.md](../cards/taipei.md).
+🔁 **Dzień przebudowany od zera.** Wcześniej robił NPM (Shilin) **+** Beitou (daleki NW) **+** Xinyi/Songshan (SE) — trzy klastry i ~2,5–3 h w metrze. Teraz jest **jednym korytarzem czerwonej linii MRT**: Xinbeitou → Guandu → Tamsui, wszystko po kolei, bez zawracania.
 
-**Transport (dzień pod znakiem metra):** Wszystko na **MRT** + krótki autobus do National Palace Museum z Shilin. Przystanki rozciągają się daleko na osi N–S (Beitou ⇄ Xinyi ⇄ Songshan), więc doliczcie czas na MRT — bez samochodu.
+- ⬇️ **National Palace Museum + Shung Ye** → [25 sie](aug-25-taipei-day3.md), gdzie leżą w tym samym Shilinie co kompleks naukowy.
+- ⬇️ **Elephant Mountain, Taipei 101, Raohe, Songshan** → [26 sie](aug-26-maokong-xinyi.md).
+- ⬆️ **Wchodzi cały blok Tamsui** (Fort San Domingo, Old Street, Fisherman's Wharf) — sześć pozycji, które leżały w [places.md](../places.md) i nie miały żadnego dnia. Plus **Guandu Temple** ★★★★, która stoi *na linii* między Beitou a Tamsui.
+- ⬆️ Po odejściu NPM zwolnił się poranek — wchodzą **Ketagalan Culture Center** i **Beitou Museum**, dwie pozycje ★★★★ z katalogu, dotąd nieprzypisane.
 
-🚗 **Brak wariantu alternatywnego — ale to jedyny dzień „na granicy".** Zygzak NPM → Beitou → Elephant Mountain → Raohe to najdłuższe przejazdy w całym Taipei (~2,5–3 h) i auto skróciłoby je o ~pół godziny — **za mało, żeby odzyskać kąpiel w Spring City albo wcisnąć Taiwan Design Museum**, czyli bez zmiany choćby jednej pozycji w planie, a parkowanie przy NPM, w Xinbeitou, pod Xiangshan i przy Raohe zjada tę oszczędność z powrotem. Kandydat tylko wtedy, gdy i tak macie auto z 24 sie i chcecie je dzień dłużej: [car.md](../car.md).
+Uzasadnienie i pełny kontekst przeplanowania: [replan-taiwan.md](../replan-taiwan.md).
+
+**Bez passa.** Dziś nie ma ani jednej drogiej pozycji: Ketagalan i Guandu bezpłatnie, Beitou Museum ~NT$120, wspólny bilet na trzy zabytki Tamsui NT$80. Przejazdy na EasyCard.
+
+**Niedziela = wszystko otwarte.** To ważne, bo ten dzień jest gęsty od muzeów, a **wszystkie zamykają w poniedziałek**: Ketagalan, Beitou Museum, Beitou Hot Spring Museum, Fort San Domingo. Gdyby dzień kiedykolwiek miał się przesunąć — nigdy na poniedziałek.
+
+**Transport (jedna linia, cały dzień):** MRT czerwona linia. Xinbeitou ⇄ Beitou (1 przystanek odnogą), Beitou → Guandu (3 przystanki, ~6 min), Guandu → Tamsui (~12 min). Z Xinbeitou do Tamsui liczcie **~25 min** łącznie, nie godzinę.
+
+🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Dzień, który wcześniej był „na granicy" i kandydował do auta, przestał nim być: cała trasa leży na jednej linii MRT, a Tamsui Old Street i Xinbeitou to ciasne zaułki, gdzie parkowanie zjada każdą oszczędność. Zestawienie wszystkich dni: [car.md](../car.md).
 
 ## Route Map
-[Trasa samochodem w Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Beitou+Hot+Spring+Museum+Taipei|Thermal+Valley+Beitou+Taipei|Spring+City+Resort+Beitou+Taipei|Elephant+Mountain+Xiangshan+Taipei|Taipei+101|Pokemon+Center+Taipei|Songshan+Cultural+and+Creative+Park+Taipei&travelmode=driving)
+[Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Ketagalan+Culture+Center+Beitou+Taipei&destination=Tamsui+Fishermans+Wharf&waypoints=Thermal+Valley+Beitou+Taipei|Beitou+Hot+Spring+Museum+Taipei|Guandu+Temple+Taipei|Fort+San+Domingo+Tamsui|Tamsui+Old+Street&travelmode=transit)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:00 | **[★★★★★ 🏛️ National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei)** — Najwspanialsza kolekcja sztuki chińskiej na świecie. Children's Gallery. Wstęp wolny do 18 lat (**wszystkie 3 dzieci bezpłatnie**; dorośli NT$350). Otwarte wt.–niedz. 9:00–17:00 (zamknięte w pon.). **Przyjdźcie na 9:00 — w niedz. bywa bardzo tłoczno.** ⚠️ 2026: trwa remont NPM; część galerii może być ograniczona/przeniesiona (sprawdźcie na miejscu). | NT$350 × 3 dorosłych; **wszystkie 3 dzieci bezpłatnie** |
-|  | **[★★★☆☆ 🏛️ Shung Ye Museum of Formosan Aborigines](https://www.google.com/maps/search/Shung+Ye+Museum+Formosan+Aborigines+Taipei)** — małe muzeum dokładnie po drugiej stronie ulicy od NPM (sztuka i kultura ludów rdzennych, zamknięte w pon.); dodatek praktycznie bez nadkładania drogi. |  |
-| 11:15 | MRT do **Beitou** (~45 min: czerwona linia do Beitou, przesiadka na różową linię do Xinbeitou). |  |
-| 12:00 | **[★★★☆☆ 🏛️♨️ Beitou Hot Spring Museum](https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei)** — Odrestaurowana japońska łaźnia z 1913 r. (klimatyzowana!). Otwarte wt.–niedz. 10:00–18:00, zamknięte w pon. (w niedz. otwarte, bez kolizji). | Bezpłatnie |
-| 12:30 | **[★★★★☆ 🌊♨️ Thermal Valley (Hell Valley)](https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei)** — Parujące, intensywnie zielone jezioro siarkowe (80–100°C). Nie z tego świata. 20–30 min — jest gorąco. | Bezpłatnie |
-| 13:00 | Kąpiel w gorących źródłach: **[★★★☆☆ ♨️🧒 Spring City Resort](https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei)** — Najlepsze publiczne gorące źródła dla rodzin; koedukacyjne baseny na zewnątrz, w tym wanny z zimną wodą. **⚠️ Stroje kąpielowe + czepki OBOWIĄZKOWE** (weźcie własne). Dzieci <110 cm bezpłatnie; 110–140 cm stawka dziecięca. Otwarte 9:00–22:00. **Wbrew intuicji w 35°C w sierpniu**, ale zimne baseny + klimatyzowany salon to prawdziwa ulga. ~90 min. | ~NT$800/dorosły (≈50% taniej na Klook) |
-| 14:30 | Lunch w Xinbeitou. |  |
-| 15:30 | **⚖️ Wybierzcie jedno — jak spożytkować popołudnie uwolnione po skreśleniu tarasu Taipei 101.** |  |
-|  | **Opcja A · spokojniejsza (domyślna)** — MRT powrót do stacji **Xiangshan** (~45 min), bez pośpiechu. |  |
-|  | **Opcja B · gęstsza, dla kultury** — odpuśćcie kąpiel w **Spring City** (dzień i tak jest najbardziej napięty w tym miejscu), wracajcie z Beitou ~14:30 i wciśnijcie **[★★★★☆ 🏛️🎨 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei)** w Songshan Cultural & Creative Park (**15:30–17:30; ostatni bilet 17:30, zamknięte w pon.**) — narodowe muzeum designu, kategoria „design/architektura" z górnej półki naszej listy. Stamtąd MRT na Xiangshan (~25 min) na zachód słońca, a Raohe jest **tuż obok Songshan**, więc wieczór i tak się domyka. | NT$50 |
-| 17:30 | **[★★★★☆ 🌳🗼 Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei)** — Krótkie, strome podejście (10–20 min). TO ikoniczne zdjęcie Taipei 101 z punktu widokowego „Six Boulders". 9-latki radzą sobie bez problemu. Weźcie wodę — w popołudniowym upale to katorga. **To jest dziś wasz punkt widokowy, w miejsce tarasu 101** — nie skracajcie go: wchodźcie ~17:30–18:00 (późno = chłodniej), zostańcie na zachód słońca (~18:25) i na zapalenie świateł miasta. Jeśli dotrzecie pod górę wcześniej, przeczekajcie upał w kawiarni przy stacji Xiangshan. | Bezpłatnie |
-| ~18:45 | **⏭️ Taras widokowy Taipei 101 — świadomie NIE planujemy.** ★★★☆☆ 🗼📸 Taipei 101 zostaje jako budynek do obejrzenia z dołu i jako galeria handlowa (opcje A/B o 19:00 są u jego stóp), ale **na taras nie wchodzimy**. Powód: to dokładnie ten sam produkt co N Seoul Tower, który dostał **2/6** z werdyktem „widok jest lepszy spod wieży, wjazd na górę nie jest wart czasu ani pieniędzy" — a tu jest jeszcze mocniejszy argument, bo **z tarasu 101 nie widać 101**; ikoniczny kadr macie za darmo z Elephant Mountain, godzinę wcześniej. Ta sama zasada pozwoliła 17 sie odpuścić Seoul Sky i zaoszczędzić ~174,000 KRW. **Jeśli i tak zechcecie wjechać** (pogoda idealna, dzieci naciskają): NT$600 dorosły / NT$540 dziecko ≥115 cm — ⚠️ zniżka może wymagać tajwańskiego ID, więc realnie do **~NT$3,600 za szóstkę**; w niedz. otwarte do ~21:00–22:00, rezerwujcie online, żeby ominąć kolejkę do kas na 5. piętrze. | *nie planowane (~NT$3,400–3,600 za szóstkę, jeśli jednak)* |
-| 19:00 | **⚖️ Wybierzcie jedno — opcjonalny przystanek przed Raohe; pomińcie go w całości, jeśli jesteście spóźnieni.** Opcje A i B to wybór dzieci i mieszczą się w jednym budynku (Shin Kong Mitsukoshi Xinyi, u stóp Taipei 101), więc w praktyce są jednym przystankiem; opcja C to alternatywa kulturalna. |  |
-|  | **Opcja A ·** **[★★★☆☆ 🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei)** — Największe na Tajwanie. |  |
-|  | **Opcja B ·** **[★★★☆☆ 🎁🧒 Donguri Republic](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei)** — Sklep Studio Ghibli, wielki Kotobus z Totoro; ta sama galeria co Pokémon Center. |  |
-|  | **Opcja C ·** **[★★★☆☆ 🎨🛍️ Songshan Cultural & Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei)** — po drodze do Raohe; dawna fabryka tytoniu pełna galerii i sklepów z designem. ⚠️ O tej porze to już **tylko teren i sklepy** — Taiwan Design Museum w środku zamyka o 18:00 (ostatni bilet 17:30). Chcecie muzeum, a nie spacer? To jest opcja B z bloku 15:30. |  |
-| 19:30 | MRT do Songshan. |  |
-|  | **[★★★★☆ 🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei)** — Najlepszy w Taipei dla smakoszy. 6 stoisk wyróżnionych przez Michelin. **Fuzhou Black Pepper Buns** przy wejściu (zawsze kolejka — warto). | ~NT$200–400/osoba |
+| 9:00 | MRT do **Xinbeitou** (czerwona linia do Beitou, przesiadka na odnogę). |  |
+| 9:30 | **[★★★★☆ 🏛️ Ketagalan Culture Center](https://www.google.com/maps/search/Ketagalan+Culture+Center+Beitou+Taipei)** — ⬆️ **nowe w planie.** Miejskie muzeum kultury ludów rdzennych, 5 min od stacji: stała wystawa o wszystkich **16 uznanych ludach** oraz o zaginionych nizinnych plemionach Ketagalan/Pingpu — struktura społeczna, stroje, przedmioty kultu. Zwiedzanie z przewodnikiem w kilku językach. Wt.–niedz. 9:00–17:00. **Idzie pierwsze, bo to najpoważniejsza rzecz dnia, a rano jesteście najbardziej cierpliwi.** | Bezpłatnie |
+| 10:30 | W górę zbocza → **[★★★★☆ 🏛️🎨 Beitou Museum (Taiwan Folk Arts Museum)](https://www.google.com/maps/search/Beitou+Museum+Taipei)** — ⬆️ **nowe w planie.** Zajazd przy gorących źródłach z 1921 r. (epoka japońska) zamieniony w muzeum sztuki ludowej: ~5 000 obiektów tajwańskiej kultury materialnej (Qing → epoka japońska → lata 70.) + ponad 1 000 przedmiotów ludów rdzennych. **Bezpłatny audioprzewodnik EN/ZH/JP** — weźcie, bardzo poprawia zwiedzanie z dziećmi. Wt.–niedz. 10:00–18:00. | ~NT$120 dorosły / NT$50 dziecko (sprawdź) |
+| 11:30 | **[★★★☆☆ 🏛️♨️ Beitou Hot Spring Museum](https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei)** — Odrestaurowana japońska łaźnia publiczna z 1913 r., klimatyzowana. Wt.–niedz. 10:00–18:00. | Bezpłatnie |
+|  | 5–10 min pieszo obok: **[★★★☆☆ 📸🌳 Beitou Public Library](https://www.google.com/maps/search/Taipei+Public+Library+Beitou+Branch)** — pierwsza „zielona" biblioteka na Tajwanie: dach z panelami, zbieranie deszczówki, drewniany taras opasający budynek nad stawem. Wejście na 10 min, dla samej architektury. | Bezpłatnie |
+| 12:15 | **[★★★★☆ 🌊♨️ Thermal Valley (Hell Valley)](https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei)** — Parujące, intensywnie zielone jezioro siarkowe (80–100 °C). Nie z tego świata. 20–30 min — jest **gorąco**, nie planujcie dłużej. | Bezpłatnie |
+| 12:45 | Lunch w Xinbeitou. |  |
+| 13:30 | **⚖️ Wybierzcie jedno — kąpiel albo więcej Tamsui.** |  |
+|  | **Opcja A · kąpiel (domyślna dla dzieci)** — **[★★★☆☆ ♨️🧒 Spring City Resort](https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei)**: koedukacyjne baseny zewnętrzne, w tym **wanny z zimną wodą**. ⚠️ **Stroje kąpielowe + czepki OBOWIĄZKOWE** — weźcie własne. Dzieci <110 cm bezpłatnie, 110–140 cm stawka dziecięca. Otwarte 9:00–22:00. **Wbrew intuicji w sierpniowe 35 °C**, ale zimne baseny to prawdziwa ulga. ~90 min. | ~NT$800/dorosły (≈50% taniej na Klook) |
+|  | **Opcja B · bez kąpieli** — jedźcie dalej od razu i dajcie Tamsui pełne 4 godziny zamiast 2,5. Wtedy realnie wchodzą **Cloud Gate Theater** albo prom na **Bali Left Bank** (patrz Also Nearby). |  |
+| 15:15 | MRT Beitou → **Guandu** (3 przystanki, ~6 min). |  |
+| 15:30 | **[★★★★☆ 🏯 Guandu Temple](https://www.google.com/maps/search/Guandu+Temple+Taipei)** — ⬆️ **nowe w planie, a leży dokładnie na trasie.** Jedna z największych i najstarszych (**1712**) świątyń Mazu w Tajpej, wbudowana w zbocze. Za nią **80-metrowa jaskinia Buddy** obstawiona 28 figurami dewów, kończąca się gigantyczną tysiącramienną Guanyin — to jest ta część, która działa na dzieci. Widok na rzekę Tamsui i górę Guanyin. | Bezpłatnie |
+| 16:30 | MRT Guandu → **Tamsui** (~12 min). |  |
+| 16:45 | **[★★★★☆ 🏯📸 Fort San Domingo, Little White House & Hobe Fort](https://www.google.com/maps/search/Fort+San+Domingo+Tamsui)** — Fort postawiony przez **Holendrów w 1629 r.**, potem przebudowywany przez Hiszpanów i Brytyjczyków; dawna rezydencja konsula brytyjskiego obok. **Wspólny bilet NT$80 obejmuje wszystkie trzy zabytki.** Widok na estuarium ze wzgórza. Zamknięte w pon. (dziś niedz. ✓). | NT$80 (wspólny, 3 obiekty) |
+|  | 5 min pieszo: **[★★★☆☆ ⛪📸 Aletheia University Oxford College](https://www.google.com/maps/search/Aletheia+University+Oxford+College+Tamsui)** — ceglany gmach z 1882 r., gotyk zmieszany z chińskim stylem; **najstarszy budynek uczelni w stylu zachodnim na Tajwanie**. Oglądanie z zewnątrz bezpłatne. | Bezpłatnie |
+| 17:45 | **[★★★★☆ 🚶🗼📸 Tamsui Old Street](https://www.google.com/maps/search/Tamsui+Fishermans+Wharf)** — Nadrzeczna stara ulica. **Kolacja tutaj i to jest cel:** *a-gei* (tofu faszerowane makaronem — specjalność wyłącznie Tamsui), kulki rybne, *iron eggs*. To nie jest nocny targ „jeszcze jeden z listy" — a-gei nie zjecie nigdzie indziej. | ~NT$200–350/os. |
+| 18:25 | **Fisherman's Wharf + Lover's Bridge** — zachód słońca (~18:25) nad estuarium, jeden z klasycznych tajwańskich widoków. Spacer bezpłatny; z Old Street promem (frajda, ~10 min) albo autobusem. **Zostańcie na zapalenie świateł na moście.** | Prom ~NT$60 |
+| 19:45 | Powrót MRT Tamsui → centrum (~40 min do Taipei Main). Dzień długi, ale cały czas na jednej linii. |  |
 
-**⚠️ Dzień jest napięty i rozciągnięty geograficznie** — NPM (północ/Shilin) → Beitou (daleki NW) → Elephant Mtn (SE/Xinyi) → Raohe (E/Songshan) to duży zygzak przez całą czerwoną linię. Realny czas przejazdów to **~2,5–3 h**, nie 2 h. **Skreślenie tarasu Taipei 101 zdejmuje z dnia ~1,5–2 h** (wjazd + kolejka) i to właśnie ono ratuje tu harmonogram — wcześniej wychodziło ~11 aktywnych godzin. Zostaje: NPM + muzeum w Beitou + Thermal Valley + kąpiel + Elephant Mountain + Raohe. Przy zatłoczonym w niedz. NPM i 90-minutowej kąpieli i tak spodziewajcie się poślizgu. **Najlepsze cięcie na czas: odpuśćcie kąpiel w Spring City** (największy pożeracz czasu + wymaga strojów — i to jest właśnie opcja B z bloku 15:30, która w zamian daje muzeum designu) — albo odpuśćcie Beitou Hot Spring Museum (samo Thermal Valley załatwia geotermalne „wow").
+**⚠️ Gęstość i co ciąć.** Trzy muzea przed lunchem to dużo, ale wszystkie są małe (30–60 min każde) i stoją w promieniu 10 min pieszo — to nie jest ten sam koszt co trzy muzea rozrzucone po mieście. **Naturalne cięcia, w tej kolejności:** (1) Beitou Public Library — to 10-minutowa ciekawostka architektoniczna, (2) kąpiel w Spring City (opcja B wyżej), (3) Beitou Hot Spring Museum — samo Thermal Valley załatwia geotermalne „wow", a Beitou Museum jest mocniejsze jako muzeum.
 
-**⏱️ NPM: trzymajcie się ~2 h.** To jedyny dziś punkt z pełnego zestawu „sławne + tłoczne + biletowane", a ta kategoria w Korei regularnie nie dowoziła (National Museum of Korea, ten sam typ, dostało 4/6). Wejdźcie o 9:00, zróbcie brąz + jadeit + Children's Gallery i wychodźcie — nie pozwólcie mu zjeść Beitou.
+**⏱️ Nie spóźnijcie się do Tamsui.** Fort San Domingo zamyka (sprawdźcie godzinę na miejscu, zwykle 17:00–18:00 w weekend) i to on jest tu twardym terminem, nie zachód słońca. Jeśli poranek się rozjedzie, **odpuśćcie kąpiel, nie fort** — kąpiel powtórzycie w Tajpej gdzie indziej, holenderskiego fortu z 1629 r. nie.
+
+**🌡️ Sierpień.** Thermal Valley i podejście do Guandu Temple są w pełnym słońcu. Muzea rano są klimatyzowane i to jest dodatkowy argument za tą kolejnością — nie odwracajcie jej.
 
 ---
 
 ## Also Nearby
 
-### Więcej w Beitou
-- [★★☆☆☆ 🌳♨️🧒 Beitou Park](https://www.google.com/maps/search/Beitou+Park+Taipei) — Centrum edukacji o gorących źródłach, wodna strefa zabaw dla dzieci
+### Więcej w Tamsui
+- [★★★☆☆ 🎭🌳📸 Cloud Gate Theater (雲門劇場)](https://www.google.com/maps/search/Cloud+Gate+Theater+Tamsui) — Teatr Huanga Sheng-yuana z zieloną ścianą kurtynową, w lesie nad estuarium (2015); siedziba zespołu Cloud Gate Dance. Teren bezpłatnie; łączy się z Fort San Domingo. ⬆️ **Realne tylko w opcji B (bez kąpieli).**
+- [★★★★☆ 🌳🚡 Bali Left Bank Bike Path + Shihsanhang Museum](https://www.google.com/maps/search/Bali+Left+Bank+Bike+Path+New+Taipei) — Płaska, 15-kilometrowa ścieżka rowerowa po drugiej stronie rzeki (rowery przy Bali Ferry Pier), obok rezerwatu, do Shihsanhang Museum of Archaeology. Prom z Tamsui, 10 min. ⬆️ **Realne tylko w opcji B** — i to najlepsze wykorzystanie tych zwolnionych godzin, jeśli lubicie rowery.
+- [★★★☆☆ 🚡🌊 Blue Highway Tamsui River Cruise (Dadaocheng)](https://www.google.com/maps/search/Blue+Highway+Tamsui+River+Cruise+Dadaocheng+Taipei) — Rejs o zachodzie słońca ~60–70 min, ale **wypływa z Dadaocheng** (czyli z okolicy 22 sie), w stronę Guandu/Tamsui. ⚠️ Dni i godziny bywają różne (część tylko w sob.), ~NT$400–600 — sprawdźcie rozkład.
 
-### Blisko Taipei 101
-- [★★★☆☆ 🗼📸 Taipei 101](https://www.google.com/maps/search/Taipei+101) — ⏭️ **Taras skreślony z harmonogramu** (patrz wiersz ~18:45). Sam budynek, plac u jego stóp i galeria Shin Kong Mitsukoshi zostają w planie. Gdybyście jednak zmienili zdanie: piętra 88–89 + odkryty taras na 91., w niedz. do ~21:00–22:00, NT$600 dorosły / NT$540 dziecko ≥115 cm, rezerwacja online omija kolejkę na 5. piętrze
-- [★★☆☆☆ 🚶 44 South Military Village](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Wioska w stylu retro; kawiarnie, rękodzieło
-- [★★★☆☆ 🌳🧒 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) — „Central Park" Taipei; 26 hektarów, staw, place zabaw
-- [★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Wielka, kolorowa świątynia Mazu obok Raohe
-- [★★★★☆ 🏛️🎨 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei) — Narodowe muzeum designu w Songshan Cultural & Creative Park; wystawy współczesnego designu. Wt.–niedz. 10–18 (ostatni bilet 17:30), zamknięte w pon.; NT$50. ⬆️ **Wciągnięte do harmonogramu jako opcja B o 15:30** — design/architektura to górna półka naszej listy, a dzień ma miejsce po skreśleniu tarasu 101.
-- ⏭️ **Discovery Center of Taipei — skreślone.** Muzeum historii miasta, czyli kategoria dwukrotnie sprawdzona i dwukrotnie odrzucona w Korei (National Museum of Korean Contemporary History 14 sie, Seoul Museum of History 16 sie). Nie proponujemy ponownie.
+### Więcej w Beitou / Guandu
+- [★★☆☆☆ 🌳♨️ Beitou Park](https://www.google.com/maps/search/Beitou+Park+Taipei) — Centrum edukacyjne o gorących źródłach, strefa zabaw w gorącej wodzie dla dzieci. Leży po drodze między stacją a Thermal Valley — mijacie go i tak.
+- [★★★☆☆ 🌳🐾 Guandu Nature Park](https://www.google.com/maps/search/Guandu+Nature+Park+Taipei) — Ostoja ptaków na terenach podmokłych (~230 gatunków), czatownie i taras z lunetami. ~NT$50; 9:00–17:00, zamknięte w **trzeci pon.** miesiąca (niedz. OK). ⚠️ Zamyka 17:00, więc realnie zamiast świątyni, nie obok niej.
 
-### Dodatki przy Yongkang Street
-- [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Od 1963 r.; słynne smażone pierożki
-- [★★★★☆ 🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Pierwszy lokal sieci (tylko na wynos); weźcie xiao long bao
-- ☕ Lodziarnie z mango shaved ice przy Yongkang Street (sezonowo)
-
-### Zakupy
-- [★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — Mieszkania z lat 60. zamienione w niezależne butiki
-- [★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Dzielnica odzieżowa; ciuchy dla nastolatków w cenach hurtowych
-
-### Więcej nocnych targów
-- [★★★☆☆ 🏮🧋 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei) — Najbardziej „wyrafinowany" nocny targ; nowatorska bubble tea
-
-### Bubble Tea
-- [★★★☆☆ 🧋 50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — Jedna z najbardziej ikonicznych lokalnych sieci boba na Tajwanie
+### Gorące źródła — alternatywy
+- [★★★☆☆ ♨️ Jinshan Hot Spring + Jinshan Duck](https://www.google.com/maps/search/Jinshan+Hot+Spring+New+Taipei) — Miasteczko gorących źródeł inne niż Beitou/Wulai (źródła węglanowe, siarkowe, morskie i żelaziste); bezpłatne lub tanie kąpiele dla stóp. ⚠️ Leży na trasie wybrzeża z [24 sie](aug-24-northeast-coast.md), nie tutaj — wspomniane, żeby nie dublować kąpieli dwa dni z rzędu.
 
 ---
 
@@ -423,30 +437,42 @@ Poniedziałek — **duży plus po przesunięciu planu**: autokary na północno-
 
 ---
 
-> **Dzień 15 · 25 sie (wt) · Tajwan** — Taipei Dzień 3: dzień nauki dla dzieci + Shilin Night Market
+> **Dzień 15 · 25 sie (wt) · Tajwan** — Taipei Dzień 3 — SHILIN: **NPM** + Shung Ye + centrum nauki + planetarium + Shilin Night Market
 
-# Aug 25 (Tue) — Taipei dzień 3: dzień nauki dla dzieci + Shilin Night Market
+# Aug 25 (Tue) — Taipei dzień 3: SHILIN — National Palace Museum + kompleks naukowy + Shilin Night Market
+> Badges: pass:Bez passa — NPM: 3 dorosłych płatnie, 3 dzieci bezpłatnie; closed:NPM, Shung Ye, planetarium zamknięte w pon. (wt. OK)
+
+⬆️ **Ten dzień przejął National Palace Museum + Shung Ye z 23 sie** — i to jest ich właściwe miejsce, bo **oba leżą w Shilinie**, jedną jazdę autobusem od kompleksu naukowego. Wcześniej NPM otwierało dzień, który potem jechał do Beitou i do Xinyi; teraz nie musi. Wtorek: NPM i Shung Ye otwarte ✓ (zamknięte tylko w pon.). Kontekst: [replan-taiwan.md](../replan-taiwan.md).
+
 Wtorek — po przesunięciu planu ten dzień **nie jest już dniem „awaryjnym na poniedziałek"**. Cały kompleks naukowy w Shilin (Children's Amusement Park, Science Education Center / NTSEC, Astronomical Museum) jest we wtorek otwarty w normalnych godzinach — nie musicie już liczyć na wakacyjny wyjątek „otwarte w pon.". Poniedziałek 24 sie zajmuje teraz wycieczka na północno-wschodnie wybrzeże (wszystko tam otwarte codziennie), więc nic nie wypada.
 
-⚠️ **Jedna strata względem poniedziałku:** Children's Amusement Park nie ma we wtorek wieczornego wydłużenia (pt./sob. do 20:00–22:00) — zamyka o **17:00**, tak jak muzea. Dzień nie sięga już karuzelami w wieczór, więc albo trzymajcie się kolejności „muzea rano, park po lunchu" (poniżej), albo odwróćcie ją — patrz uwaga przy parku.
+⚠️ **Jedna strata względem poniedziałku:** Children's Amusement Park nie ma we wtorek wieczornego wydłużenia (pt./sob. do 20:00–22:00) — zamyka o **17:00**, tak jak muzea.
 
-**Transport (zwarty — przyjazny rowerom):** Park rozrywki / centrum nauki / planetarium leżą ~1–2 km od siebie w Shilin — pieszo albo **YouBike** — potem metrem do Shilin Night Market.
+⚖️ **I to jest dziś jedyna prawdziwa kolizja: NPM + trzy pozycje kompleksu naukowego + park nie zmieszczą się przed 17:00.** Trzeba wybrać jeden z dwóch kształtów dnia — harmonogram poniżej rozpisuje **wariant 1**.
+
+- **Wariant 1 (rekomendowany) — cztery muzea, park wypada.** NPM + Shung Ye + NTSEC + planetarium. Park schodzi do rezerwy. Uzasadnienie nie jest „bo za dużo muzeów" (reguła dnia mówi wprost, że 4–7 muzeów to norma), a **priorytet z [CLAUDE.md](../CLAUDE.md): skupiamy się na tym, czego nie zobaczycie w Polsce.** Wieża swobodnego spadania, statek piracki i autka zderzaki to dokładnie ta kategoria, którą mamy świadomie odpuszczać — a NPM jest jedyną taką kolekcją na świecie.
+- **Wariant 2 — park zostaje, planetarium wypada.** Jeśli dzieci naciskają na karuzele: park **o 9:00** (chłodniej i pusto), NTSEC w największy upał (AC, otwarte do 18:00), NPM po południu 14:00–16:15, Shung Ye odpada. Tracicie planetarium i seans w kopule.
+
+**Transport (zwarty — przyjazny rowerom):** Park rozrywki / centrum nauki / planetarium leżą ~1–2 km od siebie w Shilin — pieszo albo **YouBike** — potem metrem do Shilin Night Market. **NPM dokłada jedną jazdę autobusem** ze stacji Shilin (~15–20 min, autobusy R30 / 255 / 304 / minibus 18–19); to jedyny przejazd dnia poza pieszym klastrem.
 
 🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Trzy punkty dnia stoją 1–2 km od siebie w jednej dzielnicy, a wieczór to nocny targ; auto stałoby zaparkowane. Zestawienie wszystkich dni: [car.md](../car.md).
 
 ## Route Map
-[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Taipei+Childrens+Amusement+Park&destination=Shilin+Night+Market+Taipei&waypoints=National+Taiwan+Science+Education+Center+Taipei|Taipei+Astronomical+Museum&travelmode=walking)
+[Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Shilin+Night+Market+Taipei&waypoints=Shung+Ye+Museum+Formosan+Aborigines+Taipei|National+Taiwan+Science+Education+Center+Taipei|Taipei+Astronomical+Museum&travelmode=transit)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 9:00 | **[★★★★☆ 🏛️🧒 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei)** — Interaktywne ekspozycje (nauki o życiu, fizyczne, o Ziemi), piętra 3–6. Świetne dla 9-latka. **Przesunięte na przód dnia** (otwarcie 9:00, zamknięcie 18:00), żeby muzea wypadły, gdy wszyscy są najświeżsi, przed karuzelami. Ekspozycja stała NT$120 (uczniowie/studenci z legitymacją NT$90; do 6 lat wstęp wolny). | NT$120 |
-| 11:00 | **[★★★☆☆ 🏛️🧒 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum)** — Ekspozycje o kosmosie, planetarium/Cosmic Theater (kopuła) + kino 3D. Tuż obok centrum nauki. Otwarte 9:00–17:00; zamknięte w pon., a dziś jest wt. — czyli normalne godziny, bez polegania na wakacyjnym wyjątku. Ekspozycja NT$40 (dzieci 6–12 / uczniowie NT$20); kopuła lub kino 3D NT$100 (do 12 lat / uczniowie NT$50) — miejsca na seanse zarezerwuj na miejscu. | NT$40 + kino NT$100 |
-| 12:30 | Lunch w okolicy. |  |
-| 13:30 | **[★★★☆☆ 🎡🧒 Taipei Children's Amusement Park](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park)** — Wieża swobodnego spadania, rollercoaster, statek piracki, autka zderzaki, salony gier. Niesamowicie tanio! Bez opłaty za wejście (płatność za każdą atrakcję): duże atrakcje NT$30, pozostałe NT$20, albo pass całodniowy NT$200 (bez limitu na atrakcje #1–13). Dosłownie obok centrum nauki. ⚠️ We **wt. zamknięcie o 17:00** — wieczorne wydłużenie do 20:00 jest tylko w pt./sob. (po przesunięciu planu tracimy tamten bonus), więc na park zostaje ~3,5 h i trzeba ruszyć z lunchu punktualnie. Do 6 lat wstęp wolny. **Atrakcje są kotwicą popołudnia** — ale są głównie na zewnątrz, a 13:30–17:00 to najgorętsze okno dnia, więc **teraz jeszcze mocniej warto rozważyć odwrócenie kolejności**: park o 9:00 (chłodniej i pusto), a klimatyzowane NTSEC + planetarium w największy upał (NTSEC otwarte do 18:00, więc domyka dzień). | pass całodniowy NT$200 |
+| 9:00 | ⬆️ **[★★★★★ 🏛️ National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei)** — Największa kolekcja sztuki chińskiej na świecie. Children's Gallery. Wstęp wolny do 18 lat (**wszystkie 3 dzieci bezpłatnie**; dorośli NT$350). Wt.–niedz. 9:00–17:00. **Przyjdźcie na 9:00** — najspokojniejsza godzina, a we wt. jest tu wyraźnie luźniej niż w niedzielę, na którą to było wcześniej zaplanowane. ⚠️ 2026: trwa remont, część galerii może być ograniczona lub przeniesiona — sprawdźcie na miejscu. | NT$350 × 3 dorosłych; **3 dzieci bezpłatnie** |
+|  | **⏱️ Trzymajcie się ~2 h.** To jedyny dziś punkt z pełnego zestawu „sławne + tłoczne + biletowane", a ta kategoria w Korei regularnie nie dowoziła (National Museum of Korea, ten sam typ, dostało 4/6). Zróbcie **brąz + jadeit + Children's Gallery** i wychodźcie — nie pozwólcie mu zjeść całego kompleksu naukowego. |  |
+| 11:00 | **[★★★☆☆ 🏛️ Shung Ye Museum of Formosan Aborigines](https://www.google.com/maps/search/Shung+Ye+Museum+Formosan+Aborigines+Taipei)** — Dosłownie po drugiej stronie ulicy od NPM: sztuka i kultura ludów rdzennych. Dodatek praktycznie bez kosztu logistycznego, 30–45 min. Zamknięte w pon. | ~NT$150 (sprawdź) |
+| 11:45 | Autobus NPM → **Shilin** (~15–20 min), lunch w okolicy stacji. |  |
+| 13:00 | **[★★★★☆ 🏛️🧒 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei)** — Interaktywne ekspozycje (nauki o życiu, fizyczne, o Ziemi), piętra 3–6. Świetne dla 9-latka. **Teraz wypada w najgorętsze okno dnia i to jest zaleta** — cztery piętra klimatyzacji, otwarte do 18:00, więc jako jedyne nie goni was zegarem. Ekspozycja stała NT$120 (uczniowie NT$90; do 6 lat wstęp wolny). | NT$120 |
+| 15:00 | **[★★★☆☆ 🏛️🧒 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum)** — Ekspozycje o kosmosie, planetarium/Cosmic Theater (kopuła) + kino 3D. Tuż obok centrum nauki. Otwarte 9:00–17:00, zamknięte w pon. ⚠️ **Miejsca na seans w kopule rezerwujcie od razu przy wejściu** — to jest tu wąskie gardło, nie ekspozycja. Ekspozycja NT$40 (dzieci 6–12 / uczniowie NT$20); kopuła lub 3D NT$100 (do 12 lat / uczniowie NT$50). | NT$40 + kino NT$100 |
+|  | ⏭️ **Children's Amusement Park — w wariancie 1 NIE wchodzi** (zamknięcie 17:00; patrz uwaga na górze pliku). Zostaje w „Also Nearby" jako zamiana za planetarium, jeśli dzieci naciskają. |  |
 | 16:30 | **⏭️ Diabelski młyn Miramar — skreślony z planu.** Płatny punkt widokowy (~NT$150/os.) wymagający osobnego skoku metrem na wschód do Dazhi/Jiannan Rd, a po werdykcie N Seoul Tower (2/6) płatne tarasy i „widoki za bilet" schodzą u nas na koniec kolejki — zwłaszcza gdy kosztują dodatkowy przejazd w bok. Zostaje w „Also Nearby", gdyby dzień poszedł szybciej, niż zakładamy. |  |
-| 17:00 | Zwiedzanie okolicy Shilin / spacer w stronę nocnego targu. (Pokémon Center i Donguri Republic przeniesione na dzień Xinyi/Taipei 101 z 23 sie — są w Shin Kong Mitsukoshi Xinyi, nie w Shilin.) |  |
+| 17:00 | Zwiedzanie okolicy Shilin / spacer w stronę nocnego targu. (Pokémon Center i Donguri Republic są w Shin Kong Mitsukoshi Xinyi, nie w Shilin — czyli w dniu [26 sie](aug-26-maokong-xinyi.md).) |  |
 | 18:30 | **[★★★★☆ 🏮🍜 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei)** — Największy na Tajwanie (od 1909). Ponad 500 stoisk. Wielkie kiełbaski, kotlety z kurczaka, chrupiący kurczak solony z bazylią. Gigantyczne porcje. | ~NT$200–400/osoba |
 
 ---
@@ -455,6 +481,9 @@ Wtorek — po przesunięciu planu ten dzień **nie jest już dniem „awaryjnym 
 
 ### Więcej atrakcji w Taipei
 - ★★★☆☆ 📸🧒 Airport Alley (Songshan Airport) — Samoloty lądujące kilka metrów od ciebie; bezpłatnie, dla dzieci przeżycie
+
+### Zamiana za planetarium (wariant 2)
+- [★★★☆☆ 🎡🧒 Taipei Children's Amusement Park](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park) — Wieża swobodnego spadania, rollercoaster, statek piracki, autka zderzaki, salony gier. Bez opłaty za wejście (płatność za atrakcję): duże NT$30, pozostałe NT$20, albo **pass całodniowy NT$200**. Dosłownie obok centrum nauki, do 6 lat wstęp wolny. ⚠️ We wt. **zamknięcie 17:00** (wydłużenie do 20:00 jest tylko w pt./sob.). ⬇️ **Zszedł z harmonogramu przy wejściu NPM** — jeśli jednak wchodzi, to **o 9:00** (chłodniej i pusto), NPM po południu 14:00–16:15, a planetarium i Shung Ye wypadają.
 
 ### Skreślone z harmonogramu (zostaje jako rezerwa)
 - [★★★☆☆ 🎡🗼 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — Diabelski młyn na dachu (70 m konstrukcji, ~100 m nad ziemią), widok na miasto o zachodzie, plus centrum handlowe z AC i food courtem. ~NT$150. Wypadł z planu jako płatny punkt widokowy z osobnym objazdem — wróćcie do niego tylko, jeśli muzea pójdą szybciej i zostanie wam wolna godzina przed Shilin.
@@ -470,387 +499,300 @@ Wtorek — po przesunięciu planu ten dzień **nie jest już dniem „awaryjnym 
 
 ---
 
-> **Dzień 16 · 26 sie (śr) · Tajwan** — HSR do Taichung (muzeum przyrodnicze, teatr Toyo Ito, Miyahara) → Tainan (Anping)
+> **Dzień 16 · 26 sie (śr) · Tajwan** — Taipei Dzień 4: Maokong Gondola + Zhinan Temple + **Taipei Zoo** → wieczór Xinyi (Elephant Mtn, Raohe)
 
-# Aug 26 (Wed) — HSR do Taichung → Tainan
-> Badges: pass:HSR Pass dzień 1 z 2
+# Aug 26 (Wed) — Taipei dzień 4: Maokong + Taipei Zoo → wieczór w Xinyi/Songshan
+> Badges: pass:Bez passa — gondola i zoo w kasie; closed:Maokong Gondola i Taiwan Design Museum zamknięte w pon. (śr. OK)
 
-**Wykorzystaj Taiwan HSR Flexible 2-day Pass (dzień 1 z 2).**
+🆕 **To jest dzień odzyskany przez skrócenie hotelu.** Wcześniej 26 sie było dniem wyjazdu (HSR do Taichung, potem Tainan). Po zmianie rezerwacji śpicie w Tajpej **do 26 sie włącznie**, a na południe ruszacie **27 sie** — więc ten dzień wraca do Tajpej i przejmuje dwa klastry, które dotąd wisiały na doklejkach:
 
-**⚠️ Ambitny dzień przeprowadzki bazy (Taipei → Tainan z bagażem) — oparty na taksówkach.** Obie stacje HSR leżą daleko od atrakcji, więc autobusy zjadają harmonogram; planuj taksówki (2 samochody na 6 osób). Zostaw bagaż w **skrytkach na HSR Taichung** na czas pętli po Taichung, a potem podrzuć torby do hotelu w Tainan przed Anping. Forty w Anping zamykają się ~17:10–17:30, więc jedź tam od razu. Jeśli tempo wyda się zbyt szalone, skorzystaj z zamiany z planu „pomiń Taichung, HSR prosto do Tainan", żeby uwolnić poranek.
+- ⬆️ **Maokong Gondola** z dawnego 28 sie, gdzie startowała o 15:00 **po** przyjeździe HSR z Kaohsiungu. Teraz ma cały poranek.
+- ⬆️ **Cały blok Xinyi/Songshan** (Elephant Mountain, Taipei 101, Raohe, Songshan) z przeładowanego [23 sie](aug-23-taipei-day2.md), który robił jednocześnie Beitou i Xinyi.
+- ⬆️ **Zhinan Temple** ★★★ z katalogu — przystanek na linii gondoli, dotąd nigdzie nie wpisany.
+- ✅ **Taipei Zoo przestaje być fikcją.** W starym planie wisiało jako „opcjonalnie" po zjeździe gondolą w piątek, przy ostatnim wejściu 16:00 — czyli nie dało się tam wejść. Dziś ma realne 3 godziny.
 
-**Transport (dwa miasta, oparty na taksówkach):** **HSR** między miastami na Flexible Pass; obie stacje HSR leżą daleko od atrakcji, więc planuj **taksówki (2 samochody na 6 osób)** — w Taichung trzy krótkie kursy (HSR → muzeum przyrodnicze → teatr → centrum), w Tainan jeden dłuższy do Anping. Bez wynajętego samochodu.
+Kontekst: [replan-taiwan.md](../replan-taiwan.md).
 
-🚗 **Harmonogram poniżej to wariant BEZ samochodu.** Na końcu pliku jest **wariant z vanem odebranym na HSR Taichung** — likwiduje skrytki na bagaż i osiem podjazdów taksówką, otwiera parowozownię w Changhua, ale **unieważnia HSR Flexible Pass** (wtedy bilety pojedyncze). Rachunek i formalności: [car.md](../car.md).
+⚠️ **To najgęstszy dzień w Tajpej i ma dwa możliwe kształty — trzeba wybrać.** Harmonogram rozpisuje **26a**; 26b jest pod nim.
 
-**🔁 Poranek w Taichung przebudowany.** Wypadł **Rainbow Village**, weszło **National Museum of Natural Science**. Powód: Rainbow Village to 20 minut fotografowania muralu, w dodatku w dużej części przemalowanego po sporze o zarządzanie z lat 2022–23 — a po Korei wiemy, że najsłabiej wypadają u nas właśnie sławne, tłoczne, fotogeniczne punkty (Bukchon 3/6, N Seoul Tower 2/6), a najlepiej muzea. Tak zbudowany poranek miał **zero muzeów** w mieście, w którym stoją dwie instytucje rangi narodowej. Bonus: nowa trasa to jeden korytarz na zachód (muzeum → teatr → centrum), zamiast skoku na południe pod HSR i z powrotem.
+🧳 **Ostatnia noc w hotelu w Tajpej.** Wymeldowanie rano [27 sie](aug-27-departure-south.md) — **spakujcie się dziś wieczorem**, bo wracacie z Raohe późno.
+
+**Transport:** MRT brązowa linia (Wenshan–Neihu) na całą pierwszą połowę dnia — Taipei Zoo to jej południowy koniec, gondola startuje przy stacji. Wieczorem MRT Wenshan → Xinyi, ~25 min.
+
+🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Gondola i tak wymaga zostawienia auta przy dolnej stacji, a Xinyi wieczorem to najgorsze parkowanie w mieście. Zestawienie wszystkich dni: [car.md](../car.md).
 
 ## Route Map
-
-**Taichung:**
-[Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Museum+of+Natural+Science+Taichung&destination=Taichung+Second+Market&waypoints=National+Taichung+Theater|Miyahara+Ice+Cream+Taichung&travelmode=driving)
-
-**Tainan (okolice Anping):**
-[Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Fort+Zeelandia+Tainan&destination=Wusheng+Night+Market+Tainan&waypoints=Anping+Treehouse+Tainan|Eternal+Golden+Castle+Tainan|Zhous+Shrimp+Rolls+Anping+Tainan|Tongji+Tofu+Pudding+Anping+Tainan|Shennong+Street+Tainan&travelmode=driving)
+[Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Zhinan+Temple+Taipei|Taipei+Zoo|Elephant+Mountain+Xiangshan+Taipei|Taipei+101&travelmode=transit)
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 8:00 | **HSR Taipei → Taichung** (~50 min; tylko szybkie pociągi z ograniczoną liczbą przystanków — sprawdź rozkład). | HSR Pass |
-|  | Zostaw bagaż w **skrytkach na HSR Taichung**. |  |
-| 9:00 | Taksówka HSR Taichung → **National Museum of Natural Science** (~20 min). |  |
-| 9:20 | **[★★★★★ 🏛️🧒 National Museum of Natural Science](https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung)** — **nowy punkt otwierający dzień, wchodzi za Rainbow Village.** Flagowe muzeum przyrodnicze Tajwanu: ruchome dinozaury naturalnej wielkości, hala nauki chińskiej, szklarnia botaniczna, centrum nauki. Wt.–niedz. 9:00–17:00 (śr. = otwarte). ⏱️ **Macie tu 1,5 h zamiast pół dnia — wybierzcie 2–3 hale (dinozaury + szklarnia albo centrum nauki) i odpuśćcie IMAX**, bo seans zabiłby resztę dnia. Bilety osobne na strefy: hala wystawowa NT$100, szklarnia / centrum nauki NT$20, kina NT$70–100. | ~NT$100 + 20 |
-| 10:50 | Taksówka (~10 min) na zachód do dzielnicy Xitun. |  |
-| 11:30 | **[★★★★☆ 📸🎭 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater)** — Toyo Ito, architekt z Nagrodą Pritzkera. Zachwycający, falujący beton. Zwiedzanie bezpłatne + ogród na dachu. **Otwarcie 11:30; zamknięte w pon. (śr. = otwarte).** Architektura to u nas ta sama górna półka co sztuka współczesna — razem z muzeum przyrodniczym daje to Taichung wreszcie kulturalny poranek, a nie samą fotogeniczną przerwę w podróży. | Bezpłatnie |
-| 12:15 | Taksówka (~15 min) do centrum: **[★★★★☆ ☕📸 Miyahara Ice Cream](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung)** — Dawna klinika okulistyczna z lat 40. z wnętrzem jak z „Harry'ego Pottera". Niesamowite gelato, piękne opakowania ciastek i czekolady (świetne pamiątki). Sam budynek JEST atrakcją. **Jeśli dzień się sypie — to jest przystanek na wynos** (gelato do ręki, 10 min). |  |
-| 12:45 | Obiad: **[★★★☆☆ 🍜🛍️ Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market)** — Historyczny targ, 5 min pieszo od Miyahary. Stuletnie stragany z ryżem z duszoną wieprzowiną. |  |
-| 13:25 | Odbierz bagaż ze **skrytek na HSR Taichung**. |  |
-|  | **HSR Taichung → Tainan** (~40 min). | HSR Pass |
-| ~14:15 | Przyjazd na **Tainan HSR** — stacja leży ~17 km na wschód od miasta. |  |
-|  | Taksówka z Tainan HSR w stronę Anping (~30–40 min; autobusy znacznie wolniejsze). |  |
-|  | Po drodze zostaw bagaż w hotelu, a potem prosto do Anping. |  |
-| 15:15 | **[★★★☆☆ 🏯 Fort Zeelandia](https://www.google.com/maps/search/Fort+Zeelandia+Tainan)** — pierwszy przystanek w **okolicy Anping**: forty NAJPIERW (wszystkie zamykają się ~17:10–17:30), przekąski potem. Holenderski, 1624; **zamknięcie 17:10** (najciaśniej — idź tu pierwszy). | NT$70 / dzieci i uczniowie połowa |
-| 15:50 | **[★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan)** — magazyn pochłonięty przez korzenie banianu; przejście między splecionymi drzewami. **Zamknięcie 17:30!** | NT$70 / połowa |
-| 16:30 | **[★★★★☆ 🏯📸 Eternal Golden Castle](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan)** — gwiaździsty fort z czasów Qing (1874) z armatami, fosą i mostem zwodzonym; *inny* fort, ~5 min pieszo od Anping Treehouse. Zamknięcie ~17:30. | ~NT$50 / połowa |
-| 17:00 | Spacer historyczną **[★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan)** — krewetkowe krakersy, pamiątki z suszonych owoców morza. |  |
-|  | Przystanek na przekąskę przy tej ulicy: **[★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan)**. |  |
-|  | Przystanek na deser przy tej samej ulicy: **[★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan)**. |  |
-| 18:00 | **[★★★☆☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan)** — Z czasów dynastii Qing. Piękna w dzień i w nocy. Kawiarnie w stuletnich budynkach. ⬇️ **Obniżone po kalibracji z 19 sie** (Gamcheon 4/6, piąty punkt tej kategorii z rzędu poniżej oczekiwań): **~40 min o zmierzchu wystarczy**, a po ciasnym dniu przeprowadzkowym to pierwszy kandydat do skrócenia na rzecz spokojnej kolacji na nocnym targu. |  |
-| 19:00 | **[★★★☆☆ 🏮 Wusheng Night Market](https://www.google.com/maps/search/Wusheng+Night+Market+Tainan)** — ⚠️ **Zmiana wymuszona przesunięciem planu:** nocne targi w Tainan działają rotacyjnie („大大武花大武花" — pon./wt./pt. Dadong, **śr./sob. Wusheng**, czw./niedz. Garden). Ten dzień był wcześniej wtorkiem z **Dadong**; dziś jest **śr., więc Dadong jest ZAMKNIĘTY**, a czynny jest Wusheng (Ximen Rd Sec. 3, ~18:00–24:00) — mniejszy niż Dadong, ale kompletny zestaw tainańskich klasyków. Potwierdźcie rotację tego samego dnia (bywają zmiany świąteczne). | ~NT$200-400/osoba |
+| 9:00 | **[★★★★☆ 🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei)** — 30-minutowy przejazd nad plantacjami herbaty. Weźcie **Crystal Cabin ze szklaną podłogą** (+NT$50) — dzieci to uwielbiają. **Środa: otwarte** (zamknięte tylko w pon.), ale w tygodniu kolejka jeździ krócej niż w pt./sob. — sprawdźcie godzinę ostatniego zjazdu przy kasie. **Rano to najlepszy moment:** chłodniej, mniejsza kolejka i lepsza widoczność niż po południu. | NT$180/przejazd lub NT$300 pass dzienny |
+| 9:45 | ⬆️ **[★★★☆☆ 🏯🗼 Zhinan Temple](https://www.google.com/maps/search/Zhinan+Temple+Taipei)** — **nowe w planie, a to po prostu przystanek gondoli** (wysiadacie i wsiadacie dalej tym samym biletem dziennym). Okazała taoistyczna świątynia na zboczu z panoramą Tajpej. To jest odpowiednik „Zhangu trail" z planu znajomego — u nas realniejszy, bo bez podejścia w upale. | Bezpłatnie |
+| 10:45 | **Herbaciarnie w Maokong** — Mountain Tea House, Found Your Tea albo The Big Tea Pot. Herbata z widokiem na dolinę; **to jest ta część, po którą się tu jedzie** — nie skracajcie jej do 20 minut. Część lokali robi też lunch. | ~NT$300–500 za dzbanek |
+| 12:30 | Gondolą w dół do stacji **Taipei Zoo**, lunch przy dolnej stacji. |  |
+| 13:30 | ✅ **[★★★☆☆ 🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo)** — Jedno z największych w Azji. **Otwarte 9:00–17:00, ostatnie wejście 16:00** — dziś macie realne 3 godziny, po raz pierwszy w tym planie. Pandy, dom pingwinów i szlak formozańskich zwierząt to część, która działa na dzieci. | NT$100 dorosły / NT$60 dziecko 6–12 i uczniowie |
+| 16:45 | MRT Taipei Zoo → **Xiangshan** (~25 min, brązowa → czerwona). |  |
+| 17:30 | **[★★★★☆ 🌳🗼 Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei)** — Krótkie, strome podejście (10–20 min). **TO** ikoniczne zdjęcie Taipei 101, z punktu „Six Boulders". 9-latki radzą sobie bez problemu. **Weźcie wodę** — w popołudniowym upale to katorga. **To jest wasz punkt widokowy dnia, w miejsce tarasu 101**: wchodźcie 17:30–18:00, zostańcie na zachód słońca (~18:25) i na zapalenie świateł miasta. | Bezpłatnie |
+| ~18:45 | **⏭️ Taras widokowy Taipei 101 — świadomie NIE planujemy.** ★★★☆☆ 🗼📸 Taipei 101 zostaje jako budynek do obejrzenia z dołu i jako galeria handlowa, ale **na taras nie wchodzimy**. Powód: to ten sam produkt co N Seoul Tower, który dostał **2/6** z werdyktem „widok jest lepszy spod wieży" — a tu argument jest jeszcze mocniejszy, bo **z tarasu 101 nie widać 101**; ikoniczny kadr macie za darmo z Elephant Mountain, godzinę wcześniej. Ta sama zasada pozwoliła 17 sie odpuścić Seoul Sky i zaoszczędzić ~174 000 KRW. **Jeśli i tak zechcecie wjechać:** NT$600 dorosły / NT$540 dziecko ≥115 cm — ⚠️ zniżka może wymagać tajwańskiego ID, więc realnie do **~NT$3 600 za szóstkę**; rezerwujcie online, żeby ominąć kolejkę na 5. piętrze. | *nie planowane* |
+| 19:00 | **⚖️ Wybierzcie jedno — przystanek przed Raohe. Pomińcie w całości, jeśli jesteście spóźnieni.** Opcje A i B są w jednym budynku (Shin Kong Mitsukoshi Xinyi, u stóp 101), więc w praktyce są jednym przystankiem. |  |
+|  | **Opcja A ·** **[★★★☆☆ 🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei)** — Największe na Tajwanie. |  |
+|  | **Opcja B ·** **[★★★☆☆ 🎁🧒 Donguri Republic](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei)** — Sklep Studio Ghibli, wielki Kotobus z Totoro; ta sama galeria. |  |
+|  | **Opcja C ·** **[★★★☆☆ 🎨🛍️ Songshan Cultural & Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei)** — po drodze do Raohe; dawna fabryka tytoniu pełna galerii i sklepów z designem. ⚠️ O tej porze to **tylko teren i sklepy** — Taiwan Design Museum w środku zamyka o 18:00 (ostatni bilet 17:30). Chcecie muzeum? To jest wariant **26b** poniżej. |  |
+| 19:45 | MRT do Songshan. **[★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei)** — Wielka, kolorowa świątynia Mazu **przy samym wejściu na Raohe**; zaliczacie ją po drodze, nie osobno. | Bezpłatnie |
+| 20:00 | **[★★★★☆ 🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei)** — Najlepszy w Tajpej dla smakoszy. 6 stoisk wyróżnionych przez Michelin. **Fuzhou Black Pepper Buns** przy wejściu (zawsze kolejka — warta). | ~NT$200–400/os. |
+| 21:30 | Powrót do hotelu — **pakowanie**, jutro wymeldowanie. |  |
+| | **▸▸ WARIANT 26b · z designem zamiast zoo** — dla dorosłych, mocniejszy kulturalnie | |
+|  | **Taiwan Design Museum to górna półka naszej listy** (design/architektura), a zoo jest kategorią, którą można zobaczyć wszędzie. Poranek (gondola + Zhinan + herbaciarnie do ~12:30) **bez zmian**; wieczór od 17:30 (Elephant Mountain → 101 → Ciyou → Raohe) też **bez zmian**. Różni się tylko popołudnie: |  |
+|  | **13:30 ·** MRT Wenshan → **Songshan** (~30 min). **[★★★★☆ 🏛️🎨 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei)** w Songshan Cultural & Creative Park — narodowe muzeum designu. **Wt.–niedz. 10:00–18:00, ostatni bilet 17:30**, zamknięte w pon. (śr. OK). | NT$50 |
+|  | **15:30 ·** **Songshan Cultural & Creative Park** — teren dawnej fabryki tytoniu za dnia, kiedy galerie jeszcze działają; obok **[★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei)** (mieszkania z lat 60. zamienione w butiki) i **[★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei)** (ciuchy dla nastolatka w cenach hurtowych — pozycja dla 15-latka). |  |
+|  | ⬇️ **Wypada: Taipei Zoo.** |  |
+
+**⚠️ Gęstość.** 26a to ~12 godzin aktywnie i najdłuższy dzień w Tajpej. Kolejność łamie regułę „poważne rano, dziecięce wieczorem" — bo tu wygrywają godziny otwarcia: zoo **musi** być przed 16:00, a Elephant Mountain **musi** być o zachodzie słońca. **Naturalne cięcia:** blok 19:00 (Pokémon/Donguri) w całości, potem godzina w zoo.
 
 ---
 
 ## Also Nearby
 
-### Więcej w Taichung
-- [★★★★☆ 🏛️ National Taiwan Museum of Fine Arts (NTMoFA)](https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung) — **Najlepsza zamiana za muzeum przyrodnicze, jeśli wolicie sztukę od dinozaurów.** Jedyne muzeum sztuk pięknych rangi narodowej na Tajwanie (24 sale), duże, **bezpłatne** i klimatyzowane; połączone z muzeum przyrodniczym Calligraphy Greenway, więc leży dokładnie w tym samym korytarzu i nie zmienia logistyki poranka. Zamknięte w pon. (śr. = otwarte)
-- [★★★☆☆ 📸🎨 Rainbow Village](https://www.google.com/maps/search/Rainbow+Village+Taichung) — ⏭️ **Wypadło z harmonogramu** (patrz notka na górze dnia). Ręcznie pomalowana osada „Grandpy Rainbow" (Huang Yung-fu, zm. 2024), wt.–niedz. 9:00–17:00, bezpłatnie, ~6–12 min od HSR Taichung. Duża część przemalowana w latach 2022–23, więc wygląda inaczej niż na starych zdjęciach. Wraca do gry tylko wtedy, gdy odpuścicie muzeum — jest po drodze z HSR, więc jako 20-minutowy przystanek przed wjazdem do miasta kosztuje najmniej.
-- [★★★☆☆ 🚂📸🧒 Fan-Shaped Train Garage](https://www.google.com/maps/search/Fan+Shaped+Train+Garage+Taichung) — Ostatnia zachowana wachlarzowa parowozownia na Tajwanie (Changhua, ~20 min pociągiem); kolej i maszyny to nasza kategoria. Realna tylko przy rezygnacji z teatru albo z obiadu na targu
-- [★★★☆☆ 🌳🗼 Gaomei Wetlands](https://www.google.com/maps/search/Gaomei+Wetlands+Taichung) — Rozległe równiny pływowe; najlepiej o zachodzie słońca; drewniana promenada; bezpłatnie
-- [★★☆☆☆ 🌳🚶 Calligraphy Greenway](https://www.google.com/maps/search/Calligraphy+Greenway+Taichung) — Ścieżka 3,6 km; rzeźby, weekendowe stragany z rękodziełem
-- [★★★★☆ 🏮 Fengjia Night Market](https://www.google.com/maps/search/Fengjia+Night+Market+Taichung) — Największy na Tajwanie pod względem powierzchni; setki straganów do ~2:00
-- [★★★☆☆ 🏯🧒 Paochueh Temple](https://www.google.com/maps/search/Paochueh+Temple+Taichung) — Świątynia z 1927 r. z 27-metrowym złotym śmiejącym się Buddą; zabytek, który przyciąga dzieci, dzielnica North. Codziennie 9–17; bezpłatnie
-
-### Więcej w Tainan
-- [★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple) — Zbudowana w 1665 r.; najstarsza na Tajwanie; 15 budynków (centrum Tainan — patrz poranna trasa po świątyniach 27 sie)
-- [★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) — Pierwotnie pałac księcia z dynastii Południowej Ming (1664)
-- [★★★☆☆ 🏯 Koxinga Shrine](https://www.google.com/maps/search/Koxinga+Shrine+Tainan) — Czerwono-złoty chram bohatera, który wypędził Holendrów
-- [★★☆☆☆ 🎨🚶 Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Dawny akademik dla pracowników sądu; instalacje artystyczne
-- [★★★☆☆ 🍜 Yi Wei Pin at Yongle Market](https://www.google.com/maps/search/Yi+Wei+Pin+Yongle+Market+Tainan) — Michelin Bib Gourmand; ryżowe ciastko w miseczce + gęsta zupa z milkfisha
-- 🍜 Coffin Bread (Guan Cai Ban) — Gruby tost wydrążony w środku, wypełniony zupą z owoców morza, smażony w głębokim tłuszczu
-
-### Kawiarnie w Tainan
-- [★★☆☆☆ ☕ Kokoni Cafe](https://www.google.com/maps/search/Kokoni+Cafe+Tainan) — Blisko Chihkan Tower; naleśniki boba milk, kruszony lód z mango sticky rice
-- [★★☆☆☆ ☕🍺 Swallow Tainan](https://www.google.com/maps/search/Swallow+Tainan) — Industrialny chic; rzemieślnicza kawa w ciągu dnia, bar koktajlowy wieczorem
-
----
-
-## Wariant z samochodem
-
-> Harmonogram powyżej to **wariant bez samochodu** (HSR + taksówki + skrytki na bagaż). Poniżej ten sam dzień z **vanem odebranym na dworcu HSR Taichung**. Formalności, koszty i pułapki wynajmu: [car.md](../car.md).
-
-⚠️ **Nie jedziecie autem z Taipei.** Taipei → Taichung to ~2,5 h za kierownicą wobec **50 min HSR**, więc stracilibyście cały poranek w muzeum. Wariant z autem wygląda tak: **HSR do Taichung jak dotąd, van odbierany na dworcu HSR Taichung, dalej autem na południe.**
-
-🔻 **Skutek dla passów: HSR Flexible 2-day Pass przestaje się opłacać.** W tym wariancie robicie tylko **dwa** przejazdy HSR — dziś Taipei → Taichung (NT$700) i 28 sie Zuoying → Taipei (NT$1,490), razem **NT$2,190 < NT$2,500** za pass. **Kupcie bilety pojedyncze.** Rachunek w [car.md](../car.md).
-
-**Co auto daje w tym dniu:**
-
-1. **Bagaże zostają w vanie.** Odpada cała choreografia „skrytki na HSR Taichung → odbiór o 13:25 → hotel w Tainan po drodze". To najbardziej kruchy element dnia bez auta.
-2. **Zero taksówek.** Bez auta ten dzień to **8 podjazdów** (2 samochody × 3 kursy w Taichung + 2 × 1 długi kurs w Tainan), każdy z ryzykiem, że dla szóstki nie ma dwóch wolnych taksówek naraz.
-3. **Otwiera [★★★☆☆ 🚂📸🧒 Fan-Shaped Train Garage](https://www.google.com/maps/search/Fan+Shaped+Train+Garage+Taichung)** — dziś opisany jako „realny tylko przy rezygnacji z teatru albo z obiadu na targu". Leży w Changhua, **dokładnie po drodze z Taichung do Tainan**, a kolej i maszyny to nasza pierwsza liga. ⚠️ Otwarte **wt.–pt. tylko 13:00–16:00** (śr. 26 sie ✅), bezpłatnie, **wymagana rejestracja na nazwisko** w portierni.
-
-### Schedule — wariant z samochodem
-
-| Time | Activity | Price |
-|------|----------|-------|
-| 8:00 | **HSR Taipei → Taichung** (~50 min). **Bilet pojedynczy, nie pass** (patrz wyżej). | NT$700/dorosły |
-| 8:50 | Przyjazd na HSR Taichung. **Odbiór vana w oddziale na dworcu** — liczcie ~20 min na formalności. Bagaże ładujecie do auta i **nie ruszacie ich do Tainan**. | ~NT$3,000–3,500/dzień (van) |
-| 9:25 | Przejazd na **National Museum of Natural Science** (~20 min). |  |
-| 9:45 | **[★★★★★ 🏛️🧒 National Museum of Natural Science](https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung)** — ruchome dinozaury, hala nauki chińskiej, szklarnia botaniczna. Wt.–niedz. 9:00–17:00 (śr. OK). ⏱️ 1,5 h — wybierzcie 2–3 hale, **odpuśćcie IMAX**. | ~NT$100 + 20 |
-| 11:15 | Przejazd (~10 min) → **National Taichung Theater**. |  |
-| 11:30 | **[★★★★☆ 📸🎭 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater)** — Toyo Ito, falujący beton, ogród na dachu. **Otwarcie 11:30**, zamknięte w pon. (śr. OK). | Bezpłatnie |
-| 12:15 | Przejazd (~15 min) do centrum. **[★★★★☆ ☕📸 Miyahara Ice Cream](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung)** — dawna klinika okulistyczna, wnętrze jak z „Harry'ego Pottera". |  |
-| 12:35 | Obiad: **[★★★☆☆ 🍜🛍️ Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market)** — 5 min pieszo od Miyahary. **Jedzcie sprawnie — dziś wyjeżdżacie o 13:10, nie o 13:25.** |  |
-| 13:10 | Przejazd Taichung → **Changhua** (~35 min). |  |
-| 13:45 | **[★★★☆☆ 🚂📸🧒 Fan-Shaped Train Garage](https://www.google.com/maps/search/Fan+Shaped+Train+Garage+Taichung)** — ⬆️ **wchodzi do planu tylko w tym wariancie.** Jedyna czynna wachlarzowa parowozownia na Tajwanie: obrotnica i wachlarz stanowisk z prawdziwymi lokomotywami. **Wt.–pt. 13:00–16:00**, bezpłatnie, **rejestracja na nazwisko w portierni**. ~40 min. | Bezpłatnie |
-| 14:25 | Przejazd Changhua → **Tainan** (~1 h 15 autostradą nr 1). |  |
-| 15:45 | Bagaże do hotelu w Tainan — **jednym podjazdem, bez taksówek**. |  |
-| 16:00 | ⚖️ **Anping: przy Changhua musicie oddać jeden fort.** Docieracie o 16:00, a wszystkie trzy zamykają się 17:10–17:30. **Rekomendacja: odpuśćcie Fort Zeelandia** (zamyka najwcześniej, 17:10, i jest najbardziej „zwykły" z trójki) i zróbcie dwa pozostałe. |  |
-| 16:00 | **[★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan)** — magazyn pochłonięty przez korzenie banianu. **Zamknięcie 17:30.** | NT$70 / połowa |
-| 16:45 | **[★★★★☆ 🏯📸 Eternal Golden Castle](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan)** — gwiaździsty fort z 1874 z armatami i fosą, 5 min pieszo od Treehouse. Zamknięcie ~17:30. | ~NT$50 / połowa |
-| 17:30 | **[★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan)** — krewetkowe krakersy, **[★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan)**, **[★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan)**. |  |
-| 18:15 | **[★★★☆☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan)** — ⚠️ **zaparkujcie na parkingu i idźcie pieszo.** To zabytkowy zaułek z czasów Qing, w który nie wjeżdża się autem. |  |
-| 19:15 | **[★★★☆☆ 🏮 Wusheng Night Market](https://www.google.com/maps/search/Wusheng+Night+Market+Tainan)** — śr. = Wusheng (rotacja „大大武花大武花"). Parking płatny w okolicy — nie liczcie na miejsce przy samym targu. | ~NT$200–400/os. |
-
-### Wariant z autem, ale bez Changhua
-
-Jeśli nie chcecie oddawać żadnego fortu: **pomińcie parowozownię**, wyjedźcie z Taichung o 13:10, bądźcie w Tainan o 15:00 i w Anping o 15:15 — czyli tak jak w planie bez auta, tylko **bez skrytek i bez ośmiu taksówek**, z pełnym Fort Zeelandia + Treehouse + Eternal Golden Castle. To najbezpieczniejsza wersja dnia.
-
-### Dodatkowa opcja, którą auto ułatwia
-
-**[★★★★☆ 🏛️ National Taiwan Museum of Fine Arts (NTMoFA)](https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung)** — jedyne muzeum sztuk pięknych rangi narodowej na Tajwanie, **bezpłatne**, klimatyzowane, w tym samym korytarzu Calligraphy Greenway co muzeum przyrodnicze. Autem to 5 min od muzeum przyrodniczego, więc realnie możecie **zamienić** jedno na drugie (sztuka zamiast dinozaurów) albo zrobić szybkie wejście do obu, jeśli skrócicie muzeum przyrodnicze do godziny.
-
----
-
-> **Dzień 17 · 27 sie (czw) · Tajwan** — Tainan przed południem (kulinarny obchód + świątynie) → Kaohsiung (Pier-2, Cijin Island)
-
-# Aug 27 (Thu) — Poranek w Tainan → Kaohsiung
-
-**Transport (zmiana miasta):** Pociąg/HSR Tainan → Kaohsiung. Poranek w Tainan to zwarty klaster do przejścia pieszo; Kaohsiung to **MRT + LRT/tramwaj + prom na Cijin**. Bez samochodu.
-
-🚗 **Harmonogram poniżej to wariant BEZ samochodu.** Na końcu pliku jest **wariant z autem**, który odblokowuje **Fo Guang Shan** — skreślony niżej jako „osobne pół dnia" — kosztem skrócenia Cijin do ~70 min. Decyzja i koszty: [car.md](../car.md).
-
-## Route Map
-
-**Poranek w Tainan:**
-[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Six+Thousand+Beef+Soup+Tainan&destination=Hayashi+Department+Store+Tainan&waypoints=Guohua+Street+Tainan|Chihkan+Tower+Tainan|Grand+Matsu+Temple+Tainan|Du+Hsiao+Yueh+Tainan|Tainan+Art+Museum&travelmode=walking)
-
-**Kaohsiung, popołudnie/wieczór:**
-[Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Formosa+Boulevard+MRT+Kaohsiung&destination=Ruifeng+Night+Market+Kaohsiung&waypoints=Pier-2+Art+Center+Kaohsiung|Takao+Railway+Museum+Kaohsiung|Cijin+Island+Kaohsiung&travelmode=driving)
-
-## Schedule
-
-| Time | Activity | Price |
-|------|----------|-------|
-| 7:00 | **[★★★☆☆ 🍜 Six Thousand Beef Soup 六千牛肉湯](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan)** — ✅ **Wraca do planu dzięki przesunięciu terminów:** najsłynniejsza śniadaniowa zupa wołowa w Tainan jest **ZAMKNIĘTA pon.–śr.** (czynna tylko czw.–niedz.), a ten dzień był wcześniej środą, więc trzeba było ją odpuścić. **27 sie to czwartek — jest otwarte.** Czynne od ~4:00 do wyczerpania wołowiny (często ~11:00), kolejka jest legendarna, więc przyjdźcie przed 7:00. |  |
-|  | **Alternatywa (jeśli kolejka jest absurdalna albo wolicie spokojniej):** **[★★★☆☆ 🍜 A Cun Beef Soup 阿村牛肉湯](https://www.google.com/maps/search/A+Cun+Beef+Soup+Tainan)** — również wyróżniona w Michelin, świeża wołowina z ciepłego uboju, otwarte od ~4:00 (Guohua St / Bao'an Rd) — czyli dokładnie tam, gdzie i tak idziecie o 8:30. Zapasowo: Kangle St Beef Soup. |  |
-| 8:30 | **[★★★☆☆ 🍜🚶 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan)** obchód kulinarny — główna arteria jedzeniowa Tainan. Stragan za straganem. Spróbujcie minced pork rice. |  |
-| 9:30 | **[★★★★☆ 🏯 Chihkan Tower](https://www.google.com/maps/search/Chihkan+Tower+Tainan)** — zbudowana przez Holendrów w 1653. Otwarte codziennie 8:30–21:30. Część w remoncie (2024–25) — nadal warto. | Dorosły NT$70–75; uczeń NT$35 (wszystkie 3 dzieci się kwalifikują) → ~NT$315 razem |
-| 10:00 | **[★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan)** — 2 min pieszo od Chihkan; pierwotnie pałac księcia dynastii Południowej Ming (1664), został pierwszą oficjalną świątynią Matsu na Tajwanie i ma największą kolekcję zabytkowych cesarskich tablic inskrypcyjnych. | Bezpłatnie |
-| 10:30 | **[★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan)** — danzai noodles od 1895. Garnek z bulionem podobno nigdy nie był do końca umyty przez 130+ lat. Otwarcie o 11:00. | ~NT$100 |
-| 11:30 | **[★★★☆☆ 🛍️📸 Hayashi Department Store](https://www.google.com/maps/search/Hayashi+Department+Store+Tainan)** — budynek z 1932 przywrócony do blasku lat 30. Herbaty, pamiątki vintage. Chram shintoistyczny na dachu (jedyny na Tajwanie). | Wstęp wolny |
-| 12:00 | **[★★★★☆ 🏛️🎨 Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum)** — muzeum sztuki współczesnej w dwóch centralnych lokalizacjach: dawnym posterunku policji z 1931 (Building 1) i efektownym **Building 2** Shigeru Bana z fraktalnym dachem. Świetna przerwa na sztukę nowoczesną w kulinarnym maratonie — zamknięte w pon., dziś (czw.) otwarte. | ~NT$100 |
-| 12:30 | **★★☆☆☆ Snail Alley** — ukryta okolica z rzeźbami ślimaków na każdym kroku. Poszukiwanie skarbów dla dzieci! |  |
-| 13:30 | **TRA Tainan → Kaohsiung** (~30–40 min) — z centrum do centrum, przyjazd na Kaohsiung Main Station (1 przystanek MRT od Formosa Blvd); najprostsze w tym całkowicie śródmiejskim dniu. HSR jest szybszy na torach (~15 min), ale korzysta z Tainan HSR (Shalun, ~20–25 min od centrum) → przyjazd na Zuoying (północ), potem czerwona linia MRT ~15 min do Formosa Blvd. |  |
-| 15:00 | **[★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung)** — największe dzieło ze szkła na świecie. 4,000+ elementów. Pokaz świetlny o 15:00. | Bezpłatnie |
-| 15:30 | **[★★★★☆ 🏛️🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** — portowe magazyny zamienione w galerie. Murale na zewnątrz, przewrotne rzeźby. | Bezpłatnie (na zewnątrz) |
-|  | **[★★★★☆ 🏛️🧒 Takao Railway Museum](https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung)** — na tych samych oryginalnych torach, zero nadkładania drogi: odrestaurowana stacja Takao z 1908, 30+ historycznych lokomotyw, między którymi można chodzić — magnes dla dzieci na punkcie pociągów. |  |
-| 17:00 | Prom z Gushan Ferry Pier na Cijin Island (5 min); kursuje ~5:00–2:00, co ~10 min. | Prom NT$30 gotówką / NT$20 EasyCard, za przejazd |
-| 17:05 | **[★★★☆☆ 🌳🚡 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** — owoce morza na Cijin Old Street, Black Sand Beach, latarnia morska, Rainbow Church. Wypożyczcie rowery i przejedźcie wybrzeże. |  |
-| 19:00 | Prom z powrotem. |  |
-| 19:30 | **⚖️ Wybierz jedno — nocny targ w Kaohsiung.** ✅ **Nowa opcja dzięki przesunięciu terminów:** ten dzień był wcześniej środą, a **Ruifeng jest zamknięty w pon. i śr.** — 27 sie to czwartek, więc największy i najlepszy targ w Kaohsiung jest wreszcie dostępny. | ~NT$200-400/os. |
-|  | **Opcja A ·** **[★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung)** — 500+ straganów, wybór lokalsów, bardziej „prawdziwy". ⚠️ Leży przy MRT Kaohsiung Arena (czerwona linia, ~15 min od portu) — dalej niż Liuhe, więc doliczcie przejazd po powrocie promem. **Rekomendowane.** |  |
-|  | **Opcja B ·** **[★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung)** — przyjazny turystom, mocny w owocach morza; tuż przy Formosa Boulevard, czyli bez nadkładania drogi — wybór na zmęczone nogi. |  |
-
----
-
-## Also Nearby
-
-### Więcej w Tainan
-- [★★☆☆☆ 🚶📸 Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — instalacje artystyczne w dawnym akademiku
-- [★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan) — stragany z jedzeniem, krewetkowe krakersy przy Fort Zeelandia — ujęte w **bloku Anping 26 sie** (to ta strona miasta, nie centralny poranny klaster)
-- [★★★★☆ 🏯 Official God of War Temple](https://www.google.com/maps/search/Official+God+of+War+Temple+Tainan) — najstarsza świątynia Guandi na Tajwanie, naprzeciw Chihkan Tower; praktycznie zero nadkładania drogi na porannej pętli. Codziennie; wstęp wolny
-- [★★★☆☆ 🏯 Altar of Heaven (Tiantan)](https://www.google.com/maps/search/Altar+of+Heaven+Tiantan+Tainan) — pierwszy Ołtarz Nieba na Tajwanie (1854); żywa świątynia ludowa, inskrypcja „Jeden" (一). Codziennie; wstęp wolny
-- [★★★☆☆ 🏯🤪 Dongyue Temple](https://www.google.com/maps/search/Dongyue+Temple+Tainan) — hala „zaświatów" z 1693 z drastycznymi malowidłami piekła — zapadnie w pamięć 11- i 15-latkowi. Codziennie; wstęp wolny
-- [★★★☆☆ 🏯🧒 Great South Gate](https://www.google.com/maps/search/Great+South+Gate+Tainan) — jedyna zachowana brama miejska Tainan: armaty + wał, na który można wejść + stele z czasów Qing, park na południe od Confucius Temple. 9–17; wstęp wolny
-
-### Więcej w Kaohsiung
-- [★★★★☆ 🏯🏛️ Fo Guang Shan Monastery](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — największy klasztor buddyjski na Tajwanie + gigantyczny Budda, BEZPŁATNIE (zamknięte we wt.). ⚠️ ~40 min drogi do Dashu = **osobne pół dnia**; nie zmieści się w dzisiejszym napiętym planie poranek w Tainan → popołudnie na Cijin. Żeby to zobaczyć, wymieńcie popołudnie na Cijin albo dodajcie dzień w Kaohsiung.
-- [★★★☆☆ 🎭 Weiwuying](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — największe centrum sztuk scenicznych na świecie pod jednym dachem; uderzająca architektura dostępna bezpłatnie, warsztaty dla rodzin. Objazd na południowy wschód od pętli port/Cijin (blisko też poranka 28 sie).
-- [★★★☆☆ 🌳🚡 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — podświetlona nocą; już w spacerze **poranka 28 sie** (dzisiejsza kolacja to nocny targ — Ruifeng albo Liuhe).
-- [★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung) — najstarsza świątynia Mazu na Cijin (1673) przy Old Street; zero nadkładania drogi przy wizycie z promem. Bezpłatnie
-- [★★☆☆☆ 🏛️ Kaohsiung Film Archive](https://www.google.com/maps/search/Kaohsiung+Film+Archive) — bezpłatne archiwum kina tajwańskiego na zachodnim brzegu Love River. Zamknięte w pon.
-
-### Nocne targi w Kaohsiung
-- [★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung) — największy i najlepszy w Kaohsiung; 500+ straganów (zamknięty w pon. i śr.; dziś, w czw., otwarty — jest teraz opcją A na kolację w harmonogramie)
-
----
-
-## Wariant z samochodem
-
-> Harmonogram powyżej to **wariant bez samochodu** (TRA + MRT + prom). Poniżej ten sam dzień vanem odebranym 26 sie w Taichung. Formalności, koszty i pułapki wynajmu: [car.md](../car.md).
-
-**Auto odblokowuje w tym dniu jedną konkretną rzecz i jest to rzecz pierwszej ligi: [★★★★☆ 🏯🏛️ Fo Guang Shan](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung).** W „Also Nearby" powyżej jest skreślone słowami „~40 min drogi do Dashu = **osobne pół dnia**; nie zmieści się w dzisiejszym napiętym planie". Autem to przestaje być prawdą, bo **leży praktycznie po drodze z Tainan do Kaohsiung**: autostrada 1 → autostrada 10 na wschód → węzeł Qishan/Dashu → droga 29. Auto pochłania cały czas, który bez niego zjadał przejazd TRA + przesiadki MRT, i zamienia go na dwie godziny w największym klasztorze buddyjskim na Tajwanie.
-
-✅ **Terminy się zgadzają:** Buddha Museum jest **bezpłatne**, otwarte pon.–pt. 9:00–18:00, a **świątynia zamyka we wt.** — 27 sie to czwartek. Parking dla samochodów przy Information Tower, dla autokarów bezpłatny.
-
-**Poranek w Tainan jest identyczny i pieszy.** Klaster Six Thousand Beef Soup → Guohua St → Chihkan → Grand Matsu → Du Hsiao Yueh → Hayashi → Tainan Art Museum to ciasne śródmieście — **van stoi na parkingu hotelowym do 13:00** i słusznie. Autem nie wjeżdża się w te uliczki.
-
-### Schedule — wariant z samochodem
-
-| Time | Activity | Price |
-|------|----------|-------|
-| 7:00 | **Poranek w Tainan bez zmian, pieszo** — [★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan) (czw. ✅ otwarte, przyjdźcie przed 7:00) → [★★★☆☆ 🍜🚶 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan) → [★★★★☆ 🏯 Chihkan Tower](https://www.google.com/maps/search/Chihkan+Tower+Tainan) → [★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan) → [★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan) → [★★★☆☆ 🛍️📸 Hayashi Department Store](https://www.google.com/maps/search/Hayashi+Department+Store+Tainan). **Van zostaje na parkingu.** | jak w planie bez auta |
-| 12:00 | **[★★★★☆ 🏛️🎨 Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum)** — Building 2 Shigeru Bana z fraktalnym dachem; zamknięte w pon., dziś (czw.) otwarte. **Nie skracajcie — to jedyne muzeum poranka.** | ~NT$100 |
-| 13:00 | Odbiór vana, wyjazd z Tainan → **Fo Guang Shan** (~50 min: autostrada 1 → autostrada 10 E → węzeł Qishan/Dashu → droga 29). |  |
-| 13:50 | **[★★★★☆ 🏯🏛️ Fo Guang Shan Monastery](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung)** — ⬆️ **wchodzi do planu tylko w tym wariancie.** Największy klasztor buddyjski na Tajwanie: aleja ośmiu pagód, cztery stupy, ogromny posąg Buddy i **Buddha Museum** z kolekcją sztuki buddyjskiej. **Bezpłatnie**, pon.–pt. 9:00–18:00. Pełne 2 h — to nie jest przystanek na zdjęcie. | **Bezpłatnie** (parking bezpłatny) |
-| 15:50 | Przejazd Fo Guang Shan → **Kaohsiung** (~40 min autostradą 10 + 1). |  |
-| 16:30 | **[★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung)** — zaparkujcie w okolicy i zejdźcie do stacji na 15 min. ⚠️ **Tracicie pokaz świetlny o 15:00** — samo szkło (największe takie dzieło na świecie, 4,000+ elementów) jest oczywiście na miejscu cały czas. | Bezpłatnie |
-| 16:50 | Przejazd (~10 min) → **Pier-2**, parking przy terenie. |  |
-| 17:00 | **[★★★★☆ 🏛️🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** + **[★★★★☆ 🏛️🧒 Takao Railway Museum](https://www.google.com/maps/search/Takao+Railway+Museum+Kaohsiung)** — portowe magazyny z galeriami, murale i przewrotne rzeźby, a na tych samych torach odrestaurowana stacja Takao z 1908 i 30+ lokomotyw. | Bezpłatnie (na zewnątrz) |
-| 18:00 | Przejazd (~5 min) na **Gushan Ferry Pier**, parking. ⚠️ **Zostawiacie auto i wchodzicie na prom jako piesi** — tunel podportowy przepuszcza samochody, ale prom jest częścią atrakcji i nie ma sensu go sobie odbierać. | Prom NT$20 EasyCard / NT$30 gotówką |
-| 18:15 | **[★★★☆☆ 🌳🚡 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** — o zmierzchu (zachód ~18:35): owoce morza na Cijin Old Street, Black Sand Beach, latarnia morska, Rainbow Church. ⚠️ **~70 min zamiast ~2 h** — to jest cena Fo Guang Shan. |  |
-| 19:30 | Prom z powrotem, odbiór auta. |  |
-| 19:50 | **[★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung)** — 500+ straganów, czw. ✅ otwarte (zamknięty w pon. i śr.). Autem ~15 min z portu; parking płatny w okolicy. Alternatywa na zmęczone nogi: **[★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung)** przy Formosa Boulevard. | ~NT$200–400/os. |
-
-### Co tracicie, biorąc auto
-
-**To jest realny handel, nie darmowy zysk:**
-
-| Tracicie | Zyskujecie |
-|----------|------------|
-| **Cijin skrócone z ~2 h do ~70 min** — zostaje Old Street, latarnia i plaża o zmierzchu, ale nie ma czasu na wypożyczenie rowerów i objazd wybrzeża | **Fo Guang Shan, 2 h** — największy klasztor buddyjski na Tajwanie + muzeum sztuki buddyjskiej, bezpłatnie |
-| **Pokaz świetlny w Dome of Light o 15:00** (samo szkło zostaje) | Zero przesiadek TRA/MRT z bagażami dnia |
-| Kierowca ma za sobą ~2 h jazdy przed wieczorem | Wieczorny dojazd na Ruifeng bez liczenia minut do MRT |
-
-**Jeśli nie chcecie skracać Cijin:** zamiast tego **oddajcie Cijin całkowicie** i zrobcie Fo Guang Shan spokojnie (13:00–16:30), Pier-2 z Takao Railway Museum do 18:30, a wieczór na Ruifeng bez pośpiechu. Cijin to wyspa z plażą i promem — Fo Guang Shan to rzecz, której nie zobaczycie w Polsce ani nigdzie indziej na tej trasie.
-
----
-
-> **Dzień 18 · 28 sie (pt) · Tajwan** — Kaohsiung przed południem (Lotus Pond + KMFA) → HSR do Taipei → Maokong Gondola
-
-# Aug 28 (Fri) — Kaohsiung rano → HSR do Taipei → Maokong
-> Badges: pass:HSR Pass dzień 2 z 2
-
-**Wykorzystaj Taiwan HSR Flexible 2-day Pass (dzień 2 z 2).**
-
-**Transport (dwa miasta):** **HSR** Kaohsiung → Taipei (pass, dzień 2). Na obu końcach wszystko na MRT, plus LRT w Kaohsiung i **gondola Maokong**. Bez samochodu.
-
-🚗 **Harmonogram poniżej to wariant BEZ samochodu.** Na końcu pliku jest **wariant z autem na sam poranek** — odblokowuje National Science & Technology Museum bez oddawania Lotus Pond, ale van **oddajecie o 11:40 w Zuoying** i do Taipei jedziecie HSR (autem to ~4 h zamiast 1 h 35 i koniec Maokong). Szczegóły: [car.md](../car.md).
-
-**🔁 Poranek w Kaohsiung przebudowany.** Wypadły **British Consulate at Takow** (płatny punkt widokowy, NT$99/49 — po werdykcie N Seoul Tower 2/6 widok za bilet idzie u nas na koniec kolejki, zwłaszcza że panorama Sizihwan jest za darmo z okolicznych uliczek i ze Shoushan) oraz **spacer nad Love River** (miejski spacer nadrzeczny — kategoria, która w Korei dała najniższy wynik spośród „ładnych" punktów: Cheonggyecheon 3/6, a Love River i tak widzieliście wieczorem 27 sie). Weszło **KMFA** — bo dzień w tej wersji nie miał żadnego muzeum, a Kaohsiung ma dwie duże instytucje. Bonus: cały poranek zamyka się teraz w korytarzu Zuoying ↔ Aozihdi, czyli przy stacji HSR, więc odpada bieg przez miasto z bagażami przed pociągiem o 12:30.
-
-## Route Map
-
-**Kaohsiung, poranek:**
-[Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Lotus+Pond+Kaohsiung&destination=Kaohsiung+Museum+of+Fine+Arts&travelmode=driving)
-
-**Taipei, wieczór:**
-[Trasa samochodowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Tonghua+Night+Market+Taipei&waypoints=Taipei+Zoo|Yongkang+Street+Taipei|Yongkang+Beef+Noodles+Taipei|Din+Tai+Fung+Yongkang+Taipei|Dongmen+Dumplings+Taipei&travelmode=driving)
-
-## Schedule
-
-| Time | Activity | Price |
-|------|----------|-------|
-| 7:30 | **[★★★★☆ 🌳🏯 Lotus Pond](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung)** — jezioro o obwodzie 1,4 km. Wejdź do **Dragon & Tiger Pagodas** (wejście paszczą smoka, wyjście przez tygrysa = szczęście; ponownie otwarte w kwietniu 2025 po 5-letnim remoncie, w pełni dostępne). Spring & Autumn Pavilions. Otwarte od 6:00, bez biletów, najchłodniejsza godzina dnia — i **leży przy Zuoying, czyli przy waszej stacji HSR**, więc cały poranek trzyma się jednego końca miasta. | Bezpłatnie |
-| 9:30 | Taksówka/MRT wzdłuż czerwonej linii (~15 min) — **nowy punkt poranka, w miejsce płatnego tarasu w konsulacie i spaceru nad Love River.** |  |
-| 9:45 | **[★★★★☆ 🏛️🧒 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts)** — Muzeum sztuki w wielkim parku nad jeziorem, z **osobnym skrzydłem Children's Museum of Art** (własne godziny) obok głównych galerii. Naprawdę zrobione pod dzieci, nie „muzeum sztuki, do którego można wejść z dzieckiem". Wt.–niedz. 9:30–17:30, zamknięte w pon. (pt. = otwarte). **Dotąd 28 sie nie miało ANI JEDNEGO muzeum** — to była największa dziura w tajwańskiej części planu. | ⚠️ do potwierdzenia: ~NT$100 dorosły, dzieci ulgowo/bezpłatnie |
-| 11:30 | Lunch w Kaohsiung (papaya milk — specjalność Kaohsiung!) — w okolicy Zuoying, blisko HSR. |  |
-| 12:30 | **HSR Zuoying (Kaohsiung) → Taipei** (1 h 35 min). | HSR Pass |
-| 14:30 | Przyjazd do Taipei. Zostaw bagaże w hotelu lub w skrytkach. |  |
-| 15:00 | **[★★★★☆ 🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei)** — 30-minutowy przejazd nad plantacjami herbaty. Weź **Crystal Cabin ze szklaną podłogą** (NT$50 dopłaty). Dzieci to uwielbiają. W pt. otwarte i dłużej niż w tygodniu — pt./sob. kolejka jeździ do ~22:00 (zamknięte w pon.), więc na herbatę w Maokong po zmierzchu jest teraz więcej czasu. | NT$180/przejazd lub NT$300 pass dzienny |
-| 16:00 | **Herbaciarnie w Maokong** — Mountain Tea House lub The Big Tea Pot. Herbata z widokiem na dolinę. |  |
-| 17:30 | Gondolą w dół. |  |
-|  | Opcjonalnie: **[★★★☆☆ 🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo)** u dolnej stacji — ostatnie wejście 16:00, ale dziś jest pt., zamykają o 17:00, więc pomiń. | NT$100 dorosły / NT$60 dziecko 6–12 i uczniowie |
-| 18:30 | MRT w okolice Da'an. |  |
-| 19:00 | **⚖️ Wybierz jedno — pożegnalna kolacja na [★★★★☆ 🍜🚶 Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei).** Trzy klasyki na tej samej ulicy jedzenia; wybierz tę kolejkę, którą zniesiesz. |  |
-|  | **Opcja A ·** **[★★★★☆ 🍜 Din Tai Fung](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei)** — miejsce narodzin sieci (pierwotny flagowy lokal na Xinyi Rd; oryginał działa dziś tylko na wynos, na miejscu je się w filii na 330 miejsc po przeciwnej stronie — xiao long bao warte kolejki). |  |
-|  | **Opcja B ·** **[★★★☆☆ 🍜 Yongkang Beef Noodles](https://www.google.com/maps/search/Yongkang+Beef+Noodles+Taipei)** — od 1963 r. |  |
-|  | **Opcja C ·** **[★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei)** — smażone pierożki pot-stickers. |  |
-| 20:30 | **[★★★☆☆ 🏮 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei)** — Najbardziej „wyrafinowany” nocny targ. Ostatni nocny targ tej podróży! |  |
-
----
-
-## Also Nearby
-
-### Więcej w Kaohsiung
-- [★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — **Ambitniejsza zamiana za KMFA.** Ogromne interaktywne muzeum STEM + kopuła IMAX (Sanmin), punkt wprost wskazany w naszej liście priorytetów. Wt.–niedz. 9:00–17:00 (latem do 18:00), zamknięte w pon.; NT$100 dorosły / ~NT$70 uczeń i dziecko. ⚠️ To obiekt na **pół dnia** — wchodzi tylko wtedy, gdy odpuścicie Lotus Pond i pojedziecie tam prosto od 9:00, a i tak trzeba wyjść ok. 11:45 do HSR. ⚠️ Był remont do 31 maja 2026 — potwierdźcie otwarcie
-- ⏭️ [★★★☆☆ 📸🗼 British Consulate at Takow](https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung) — **Wypadł z harmonogramu** (płatny punkt widokowy, patrz notka na górze dnia). Czerwona cegła z 1865 r., widoki na Sizihwan Bay; w dni powszednie od 10:00, zamknięte w śr.; NT$99 dorosły / NT$49 dziecko, z czego NT$50 wraca bonem na pamiątki
-- ⏭️ [★★★☆☆ 🚶🌳 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — **Wypadła z harmonogramu**; podświetlona nocą, ale to zwykły spacer nadrzeczny, a widzieliście ją już wieczorem 27 sie
-- [★★★☆☆ 🎭🎨 Weiwuying](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — Największe na świecie centrum sztuk scenicznych; warsztaty rodzinne
-- ☕ Papaya milk od ulicznych sprzedawców — specjalność Kaohsiung!
-- [★★★☆☆ 🐾🧒 Shoushan Zoo](https://www.google.com/maps/search/Shoushan+Zoo+Kaohsiung) — Odnowione zoo o swobodnym układzie z podwyższonymi pomostami, Shoushan Park. Zamknięte w pon.; NT$40 / NT$20 dzieci
-- [★★★☆☆ 🏛️🚶 Zuoying Military Dependents' Village](https://www.google.com/maps/search/Zuoying+Military+Dependents+Village+Kaohsiung) — Odrestaurowany park kulturalny w dawnym osiedlu marynarki juancun przy Lotus Pond / Old City. Zamknięte w pon.; bezpłatnie/tanio
-- [★★★☆☆ 🛍️🍜 Neiwei Afternoon Market](https://www.google.com/maps/search/Neiwei+Market+Kaohsiung) — Rzadki dzienny targ z jedzeniem na chodzie, jeden przystanek MRT od Zuoying/HSR. Bezpłatnie
+### Xinyi / Songshan — bench
+- [★★★☆☆ 🗼📸 Taipei 101](https://www.google.com/maps/search/Taipei+101) — ⏭️ **Taras skreślony z harmonogramu** (patrz wiersz ~18:45). Sam budynek, plac u jego stóp i galeria Shin Kong Mitsukoshi zostają w planie.
+- [★★★★☆ 🏛️🎨 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei) — Narodowe muzeum designu w Songshan Cultural & Creative Park. Wt.–niedz. 10–18 (ostatni bilet 17:30), zamknięte w pon.; NT$50. ⬆️ **Rdzeń wariantu 26b.**
+- [★★☆☆☆ 🚶 44 South Military Village](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Wioska w stylu retro u stóp 101; kawiarnie, rękodzieło. Mijacie ją idąc na Xiangshan.
+- [★★★☆☆ 🌳🧒 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) — „Central Park" Tajpej; 26 ha, staw, place zabaw. Otwarty 24 h, więc pasuje też jako rezerwa na dowolny wieczór.
+- [★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — Mieszkania z lat 60. zamienione w niezależne butiki.
+- [★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Dzielnica odzieżowa; ciuchy dla nastolatków w cenach hurtowych.
+- ⏭️ **Discovery Center of Taipei — skreślone.** Muzeum historii miasta, czyli kategoria dwukrotnie sprawdzona i dwukrotnie odrzucona w Korei (National Museum of Korean Contemporary History 14 sie, Seoul Museum of History 16 sie). Nie proponujemy ponownie.
 
 ### Maokong — dodatki
-- [★★★☆☆ 🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) — U dolnej stacji gondoli; jedno z największych w Azji (NT$100 dorosły / NT$60 dziecko 6–12 i uczniowie; 9:00–17:00, ostatnie wejście 16:00)
-- 🍵 Konkretne herbaciarnie: Mountain Tea House, Found Your Tea, The Big Tea Pot
+- 🍵 Konkretne herbaciarnie: **Mountain Tea House**, **Found Your Tea**, **The Big Tea Pot**.
+- ⬆️ **Railway Museum jako rezerwa:** jeśli 21 sie kontrola paszportowa zjadła popołudnie i [Railway Museum](aug-21-busan-to-taipei.md) wypadło, to jest dzień, w którym da się je odzyskać — ale tylko w wariancie 26b i tylko rezygnując z Songshan.
 
-### Yongkang Street — dodatki
-- [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Od 1963 r.; słynne smażone pierożki pot-stickers
-- ☕ Lodziarnie z mango shaved ice (sezonowo)
+### Dodatki przy Yongkang Street
+- [★★★★☆ 🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Pierwszy lokal sieci (oryginał tylko na wynos; na miejscu je się w filii na 330 miejsc po przeciwnej stronie). Xiao long bao warte kolejki.
+- [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Od 1963 r.; słynne smażone pierożki.
+- ☕ **Mango shaved ice przy Yongkang Street** (sezonowo — sierpień to szczyt sezonu na mango). To jest odpowiednik „Dongmen smoothie house" z planu znajomego; konkretnego lokalu nie mamy w katalogu, wybierzcie na miejscu ten z kolejką.
 
----
-
-## Wariant z samochodem
-
-> Harmonogram powyżej to **wariant bez samochodu** (MRT + HSR + gondola). Poniżej ten sam dzień z vanem, który **oddajecie przed południem**. Formalności, koszty i pułapki wynajmu: [car.md](../car.md).
-
-⚠️ **Nie jedziecie autem do Taipei — to jest najważniejsze zdanie tego wariantu.** Kaohsiung → Taipei to ~350 km i **~4 h za kierownicą** wobec **1 h 35 min HSR**. Przejazd autem zabiłby gondolę Maokong, herbaciarnie i pożegnalną kolację na Yongkang Street, czyli cały wieczór. **Auto obsługuje wyłącznie poranek, potem wsiadacie w HSR.**
-
-**Co auto daje rano:** odblokowuje **[★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung)** — w „Also Nearby" powyżej opisane jako „wchodzi **tylko wtedy, gdy odpuścicie Lotus Pond**". Autem nie musicie wybierać: Lotus Pond leży przy Zuoying, NSTM w Sanmin, a między nimi jest ~20 min jazdy zamiast objazdu MRT z przesiadką. **Mieścicie oba i zdążacie na pociąg o 12:30.**
-
-### Schedule — wariant z samochodem
-
-| Time | Activity | Price |
-|------|----------|-------|
-| 7:00 | **[★★★★☆ 🌳🏯 Lotus Pond](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung)** — otwarte od 6:00, bez biletów, najchłodniejsza godzina dnia. **Dragon & Tiger Pagodas** (wejście paszczą smoka, wyjście przez tygrysa), Spring & Autumn Pavilions. Autem parkujecie przy samym jeziorze, więc start jest o pół godziny wcześniejszy niż bez auta. | Bezpłatnie |
-| 8:45 | Przejazd Lotus Pond → **Sanmin** (~20 min). |  |
-| 9:05 | **[★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung)** — ⬆️ **wchodzi do planu tylko w tym wariancie.** Ogromne interaktywne muzeum STEM z kopułą IMAX; punkt wprost wskazany w naszej liście priorytetów. Wt.–niedz. 9:00–17:00 (latem do 18:00), zamknięte w pon. (pt. OK). ⏱️ **~2 h — wybierzcie 2–3 działy, IMAX odpuśćcie**, bo seans nie zmieści się przed pociągiem. ⚠️ **Był remont do 31 maja 2026 — potwierdźcie otwarcie przed wyjazdem.** | NT$100 dorosły / ~NT$70 uczeń i dziecko |
-| 11:15 | Przejazd Sanmin → **Zuoying** (~20 min). Po drodze **zatankujcie do pełna** — wypożyczalnie liczą dopełnienie paliwa z narzutem. |  |
-| 11:40 | **Zwrot vana w oddziale przy HSR Zuoying / na lotnisku Kaohsiung.** ⚠️ **Zwrot w innym mieście niż odbiór (Taichung → Kaohsiung) musi być zgłoszony w rezerwacji** — u dużych operatorów bywa wtedy bezpłatny, zgłoszony po odbiorze auta kosztuje **NT$1,000** (inny powiat). | patrz [car.md](../car.md) |
-| 11:55 | Lunch przy Zuoying — **papaya milk**, specjalność Kaohsiung. |  |
-| 12:30 | **HSR Zuoying → Taipei** (1 h 35 min). **Bilet pojedynczy, nie pass** — patrz rachunek w [car.md](../car.md). | NT$1,490/dorosły |
-| 14:30 | Przyjazd do Taipei. Bagaże do hotelu albo do skrytek. **Od tego momentu dzień jest identyczny jak w wariancie bez auta** — dalej MRT. |  |
-| 15:00 | **[★★★★☆ 🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei)** — Crystal Cabin ze szklaną podłogą (+NT$50). W pt. kolejka jeździ do ~22:00. | NT$180 / NT$300 pass dzienny |
-| 16:00 | **Herbaciarnie w Maokong** — Mountain Tea House lub The Big Tea Pot. |  |
-| 17:30 | Gondolą w dół. |  |
-| 19:00 | Pożegnalna kolacja na **[★★★★☆ 🍜🚶 Yongkang Street](https://www.google.com/maps/search/Yongkang+Street+Taipei)** — Din Tai Fung / Yongkang Beef Noodles / Dongmen Dumplings. |  |
-| 20:30 | **[★★★☆☆ 🏮 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei)** — ostatni nocny targ tej podróży. |  |
-
-### Czym płacicie za NSTM
-
-**Wypada [★★★★☆ 🏛️🧒 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts)** — muzeum sztuki z osobnym skrzydłem **Children's Museum of Art**, dziś kotwica poranka. Zamiana jest ★★★★☆ za ★★★★☆, więc to nie awans, tylko wybór kategorii:
-
-- **KMFA (bez auta)** = sztuka + skrzydło zrobione pod dzieci, w parku nad jeziorem, 15 min od HSR.
-- **NSTM (z autem)** = duży, interaktywny STEM, którego bez auta po prostu nie da się pogodzić z Lotus Pond.
-
-**Jeśli wolicie sztukę:** weźcie auto tylko dla wygody i zrobcie **Lotus Pond + KMFA** jak w planie bez auta — auto skraca poranne przejazdy i pozwala oddać van dopiero o 11:40, ale nic w harmonogramie nie zmienia. Wtedy ten dzień wraca do kategorii „auto nie zmienia dnia".
+### Więcej nocnych targów
+- [★★★☆☆ 🏮🧋 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei) — Najbardziej „wyrafinowany" nocny targ; nowatorska bubble tea. Alternatywa dla Raohe, bliżej Da'an.
+- [★★★☆☆ 🧋 50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — Kultowa lokalna sieć boba.
 
 ---
 
-> **Dzień 19 · 29 sie (sob) · Tajwan** — Ostatni dzień w Taipei (MoCA, Huashan, Railway Museum) → lot do domu (odlot 19:25)
+> **Dzień 17 · 27 sie (czw) · Tajwan** — ⚠️ **4 WARIANTY** — wymeldowanie z Tajpej + Chia Te → Taichung / Tainan / Hualien
 
-# Aug 29 (Sat) — Ostatni dzień w Taipei (Zhongshan + Huashan) + lot do domu
+# Aug 27 (Thu) — Wymeldowanie z Tajpej → wyjazd na 2 noce (4 WARIANTY)
+> Badges: pass:HSR — zależy od wariantu, patrz passes.md; closed:czwartek — nic z poniższych nie zamyka
 
-Lot do domu **odlatuje z Taipei Taoyuan (TPE) o 19:25** — macie do dyspozycji większość dnia. Bądźcie na **TPE do ~16:00–16:30** (~3 h przed lotem międzynarodowym; oddanie bagażu/odprawa u linii zwykle zamyka się ~60 min przed odlotem), czyli wyjazd z centrum Taipei do ~15:15–15:30 (Airport MRT ~35–40 min + dojście i bufor). Uwaga: przyjazd o 16:30 to tylko ~2 h 55 min przed odlotem — wyjazd do 15:15 daje pełne 3 h zapasu.
+⚠️ **DZIEŃ NIEROZSTRZYGNIĘTY.** Hotel w Tajpej kończy się **dziś rano** (noce 21–26 sie), a na **27 i 28 sie** macie dwie noce poza miastem. Kierunek nie jest wybrany — harmonogram niżej zawiera **wspólny poranek + cztery warianty w jednej tabeli**. Porównanie z rachunkiem HSR i tym, co każdy wariant oddaje: **[replan-taiwan.md](../replan-taiwan.md)**.
 
-⚠️ **Ten dzień wchłonął dawny „ostatni pełny dzień w Taipei" (28 sie).** Przesunięcie lotu z Busan z 20 na 21 sie zabrało Tajwanowi jeden dzień, a **28 sie przejął teraz Kaohsiung → HSR → Maokong**. Dlatego dziś nie ma już spokojnego poranka na pamiątki — to **prawdziwy dzień zwiedzania z twardym deadlinem 15:15**. Zwycięzcy z dawnego 28 sie, które tu weszły: **MoCA Taipei, Miniatures Museum, Huashan 1914 i National Railway Museum** — wszystkie w centrum, blisko Taipei Main, czyli bez ryzyka dla lotu. Ofiary cięcia (nie mieszczą się w żaden sposób): **Houtong Cat Village** (~1 h w jedną stronę pociągiem), **Capybara Knight** (Tucheng, ~40 min MRT) i **warsztaty ciastek ananasowych Kuo Yuan Ye** (~2 h w Shilin) — patrz „Also Nearby", jeśli chcecie coś z tego wymienić.
+**Gdy wybierzecie wariant, ten plik zostanie przepisany na jeden pełny dzień** (harmonogram co pół godziny, ceny, trasa, sekcja z autem) — dziś to szkielety decyzyjne, nie gotowy dzień.
 
-**Sobota = wszystko otwarte.** MoCA Taipei, Miniatures Museum, National Railway Museum i Treasure Hill zamykają w **pon.** — 29 sie to sobota, więc żadnej kolizji. Chia Te w sob. otwiera ~8:00.
+**Rekomendacja, jeśli pytacie o jedną:** **wariant B** (Tainan + Kaohsiung) — dwa pełne dni w dwóch miastach, tylko dwie zmiany bazy i jedyny wariant, w którym HSR Pass się zwraca. **Wariant C** jest najspokojniejszy, ale oddaje całe południe. **Wariant D odpada** — patrz [28 sie](aug-28-south-day2.md).
 
-**Transport:** MRT + pieszo, wszystko w osi Zhongshan ⇄ Zhongzheng (płasko, przyjazne **YouBike**). Na koniec **Airport MRT Express** (Taipei Main → TPE, ~35 min, NT$160) — wyjazd z centrum do ~15:15.
-
-🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Pętla MoCA → Huashan → Railway Museum jest w centrum i pieszo, a bagaże i tak leżą w skrytkach na Taipei Main. Auto dałoby tylko bagaże pod ręką i dojazd na TPE — za cenę parkowania w Zhongshan i ryzyka w dniu z twardym deadlinem. Zestawienie wszystkich dni: [car.md](../car.md).
+🚗 **Auto:** stary rozdział „van na 26–28 sie" w [car.md](../car.md) dotyczy dat, których już nie ma. Do przeliczenia po wyborze wariantu.
 
 ## Route Map
 
-[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Chia+Te+Bakery+Taipei&destination=Taipei+Main+Station&waypoints=Museum+of+Contemporary+Art+Taipei|Miniatures+Museum+of+Taiwan+Taipei|Huashan+1914+Creative+Park+Taipei|National+Railway+Museum+Taipei&travelmode=walking)
+Zależna od wariantu — do uzupełnienia po decyzji. Wspólny początek: hotel → **Chia Te Bakery** (Nanjing E Rd) → Taipei Main / Nangang.
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| 8:30 | Śniadanie, pakowanie, wymeldowanie. **Bagaże zostawcie w hotelu** albo w schowkach na poziomie **B1 Taipei Main Station** (EasyCard lub monety NT$50) — cała dzisiejsza pętla wraca pod Taipei Main, więc schowki są tu wygodniejsze niż hotel. |  |
-| 9:15 | **⚖️ Wybierz jedno — ciastka ananasowe na pamiątkę.** Obowiązkowa pamiątka z Tajwanu; zrobcie to **na początku dnia**, nie na końcu, bo o 14:30 będziecie już biegli po bagaże. |  |
-|  | **Opcja A ·** **[★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei)** — Songshan, Nanjing E Rd; **sob. ~8:00–21:30**, otwierają wcześnie, ale spodziewajcie się kolejki. Najpopularniejsze w Taipei. |  |
-|  | **Opcja B ·** **[★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei)** — flagowy sklep w Minsheng, otwarcie ~10:00; sadzają was z **bezpłatnym ciastkiem + oolongiem**. Przyjemniejsze, ale otwiera godzinę później — wtedy przestawcie MoCA na 11:00. |  |
-| 10:00 | **[★★★★☆ 🏛️🎨 MoCA Taipei](https://www.google.com/maps/search/Museum+of+Contemporary+Art+Taipei)** — Sztuka współczesna w urokliwej dawnej szkole z początku XX w. przy Zhongshan. Otwarcie 10:00, **zamknięte w pon.** (sob. OK). Muzeum #1 dnia i najmocniejszy punkt kulturalny — nie skracajcie go na rzecz zakupów. | NT$100 |
-| 11:15 | **[★★★★☆ 🏛️🧒 Miniatures Museum of Taiwan](https://www.google.com/maps/search/Miniatures+Museum+of+Taiwan+Taipei)** — Magnes na dzieci: zapierające dech dioramy w skali domku dla lalek — Titanic, zamki, malutkie działające światełka. ~10 min od MoCA. **Zamknięte w pon.** (sob. OK). | ~NT$250 |
-| 12:15 | Ostatni lunch w Taipei — w okolicy Zhongshan albo już po drodze do Huashan. |  |
-| 13:00 | **[★★★★☆ 🚶🎨🧒📸🤳 Huashan 1914 Creative Park](https://www.google.com/maps/search/Huashan+1914+Creative+Park+Taipei)** — Dawna destylarnia zamieniona w **dzielnicę** sztuki: galerie, sklepy z designem, niezależne butiki, otwarte trawniki. Teren bezpłatny, otwarte codziennie. **2 przystanki MRT od Taipei Main**, więc bagaże są cały czas pod ręką. | Teren bezpłatnie |
-| 13:45 | 10 min pieszo z Huashan → **[★★★★☆ 🏛️🧒🚂 National Railway Museum](https://www.google.com/maps/search/National+Railway+Museum+Taipei)** — Zupełnie nowe: wielkie warsztaty lokomotyw z czasów japońskich z prawdziwymi parowozami i rotundami. **Zamknięte w pon.** (sob. OK). Idealne domknięcie wyjazdu dla fanów STEM/transportu — i 5 min od dworca, więc to najbezpieczniejszy ostatni przystanek dnia. |  |
-| 14:30 | **Odbiór bagaży** (hotel albo schowki B1 Taipei Main). Nie przeciągajcie — to jest twardy punkt. |  |
-| 15:15 | **Airport MRT** z Taipei Main Station → TPE. Wsiądźcie w **Express (直達車, fioletowy)** — ~35–38 min, NT$160, ~co 15 min. Unikajcie pociągu Commuter/na wszystkie stacje (niebieski) (~50 min). ⚠️ Airport MRT **nie jest objęty** Taipei Fun Pass — płacicie EasyCard. |  |
-| 16:00 | Przyjazd na **TPE** (terminal zależnie od linii). Odprawa, oddanie bagażu, kontrola bezpieczeństwa, kontrola paszportowa. Zostaje czas na ostatnie zakupy w strefie wolnocłowej. |  |
-| **19:25** | **Odlot — lecimy do domu.** |  |
+| | **▸▸ WSPÓLNY PORANEK — każdy wariant** | |
+| 7:30 | Śniadanie, **wymeldowanie z hotelu w Tajpej**. Bagaże ze sobą — dziś nie wracacie. |  |
+| 8:15 | 🎁 **[★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei)** — ⬆️ **przeniesione z dawnego 29 sie, bo 29 sie już nie ma poranka w Tajpej.** Najpopularniejsza cukiernia z ciastkami ananasowymi (Nanjing E Rd, Songshan), codziennie ~8:30–20:30. **Idźcie wcześnie — kolejki są realne.** Dziś jest ostatnia sensowna okazja na pamiątki. | ~NT$400–600/pudełko |
+|  | Obok: **[★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei)** — nadzienie w 100% z ananasa (nie z dyni), inny styl ciastka; dają całe ciastko + herbatę do próbowania. |  |
+| 9:00 | Taipei Main (albo Nangang, jeśli wygodniej z hotelu) → peron HSR/TRA. ⚠️ **Sprawdźcie, czy wasz pociąg to szybki skład z ograniczoną liczbą przystanków** — różnica na trasie do Taichung to 50 min vs ~1 h 15. |  |
+| | **▸▸ WARIANT A · Taichung** — HSR ~50 min, NT$700 · nocleg: **Taichung** | |
+| 10:00 | Przyjazd **HSR Taichung**. Bagaż do **skrytek na stacji** albo od razu do hotelu. |  |
+| 10:30 | Taksówka ~20 min (**2 samochody na 6 osób** — autobusy w Taichung zjadają harmonogram) → **[★★★★★ 🏛️🧒 National Museum of Natural Science](https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung)** — flagowe muzeum przyrodnicze Tajwanu, bardzo przyjazne dzieciom. |  |
+| 12:30 | Taksówka ~10 min → **[★★★★☆ 🎭📸 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater)** — Toyo Ito, laureat Pritzkera; falujący beton, foyer i ogród na dachu bezpłatnie. ⚠️ Zamknięte w pon. — czw. OK. | Bezpłatnie |
+| 13:30 | Taksówka ~15 min do centrum. Lunch: **[★★★☆☆ 🛍️🍜 Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market)** — stuletnie stragany, ryż z duszoną wieprzowiną. |  |
+| 14:30 | **[★★★★☆ ☕📸 Miyahara Ice Cream](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung)** — dawna klinika okulistyczna z lat 40., wnętrze jak z „Harry'ego Pottera". 5 min pieszo od targu. |  |
+| 15:30 | ⬆️ **[★★★★☆ 🏛️ National Taiwan Museum of Fine Arts (NTMoFA)](https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung)** — **to jest zysk tego wariantu.** W starym planie Taichung miał tylko tranzytowe przedpołudnie i NTMoFA nie miało szans; teraz wchodzi w całości. Obok **Calligraphy Greenway**. |  |
+| 18:00 | Kolacja + **[★★★★☆ 🏮 Fengjia Night Market](https://www.google.com/maps/search/Fengjia+Night+Market+Taichung)** — największy nocny targ na Tajwanie (studencki, tani, ogromny). | ~NT$200–400/os. |
+| | **▸▸ WARIANT B · Tainan** — HSR ~1 h 45, ~NT$1 350 · nocleg: **Tainan** · ⭐ rekomendowany | |
+| 11:00 | Przyjazd **Tainan HSR** — ⚠️ **stacja leży ~17 km na wschód od miasta.** Taksówka do centrum ~30–40 min (autobusy znacznie wolniejsze). Bagaż do hotelu. |  |
+| 12:30 | Lunch: obchód **[★★★☆☆ 🍜 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan)**. Tainan jest kulinarną stolicą Tajwanu — tu jedzenie **jest** atrakcją, nie dodatkiem. |  |
+| 13:30 | Klaster świątynny, wszystko pieszo: **[★★★★☆ 🏯 Chihkan Tower](https://www.google.com/maps/search/Chihkan+Tower+Tainan)** (Fort Provintia, holenderski 1653) → **[★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan)** → **[★★★★☆ 🏯 Official God of War Temple](https://www.google.com/maps/search/Official+God+of+War+Temple+Tainan)** → **[★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple)** (1665, najstarsza na Tajwanie). | Bezpłatnie / drobne |
+| 15:30 | **[★★★★☆ 🏛️ Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum)** — budynek 2 projektu Shigeru Bana (Pritzker). ⚠️ Zamknięte w pon. — czw. OK. |  |
+| 17:00 | **[★★★☆☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan)** — z czasów Qing, kawiarnie w stuletnich kamienicach. ⬇️ Obniżone po kalibracji z 19 sie (kategoria „fotogeniczna stara ulica" u nas nie dowozi). |  |
+| 18:30 | **Garden Night Market** — ⚠️ **rotacja „大大武花": czw. = Garden.** Dadong (pon./wt./pt.) i Wusheng (śr./sob.) **dziś nie działają**. | ~NT$200–400/os. |
+|  | ⚠️ **W tym wariancie Anping przechodzi na poranek [28 sie](aug-28-south-day2.md)** — forty zamykają ~17:10–17:30, więc po tak długim przejeździe dziś się nie zmieszczą. To zaleta, nie wada: Anping dostaje poranek zamiast resztek dnia. |  |
+| | **▸▸ WARIANT C · Taichung** (dzień identyczny z wariantem A) | |
+| 10:00 | **Dzień taki sam jak wariant A.** Różnica pojawia się dopiero [28 sie](aug-28-south-day2.md): zamiast jechać do Tainanu, zostajecie w regionie i robicie **Nantou — Chung Tai + Sun Moon Lake**. |  |
+|  | 🔴 **Do zrobienia z góry:** zwiedzanie **Chung Tai Chan Temple** z mniszką po angielsku wymaga rezerwacji **~3 dni wcześniej**, czyli najpóźniej **24 sie**. Jeśli ta data minie bez rezerwacji, wariant C traci połowę sensu. |  |
+| | **▸▸ WARIANT D · Hualien** — TRA ~2 h 05, ~NT$440 · ❌ nie polecam | |
+| 10:00 | **TRA Tajpej → Hualien** pociągiem Puyuma/Taroko. ⚠️ **Te bilety wyprzedają się** — sprzedaż otwiera się 28 dni wcześniej, czyli dla 27 sie: **30 lipca**. |  |
+| 13:00 | Popołudnie w samym Hualien: **Pine Garden**, Qingxiu Temple, nocny targ **Dongdamen**. Liyu Lake i Qingshui Cliffs wymagają auta. |  |
+|  | ❌ **Powód odrzucenia leży w [28 sie](aug-28-south-day2.md):** Taroko po trzęsieniu z kwietnia 2024 jest otwarte tylko częściowo i **nie te części, po które się tam jedzie**. Plus wyprzedający się pociąg między wami a lotem 29 sie. |  |
 
 ---
 
 ## Also Nearby
 
-### Zamiany na dziś (jeśli wolicie inny finał)
-- [★★★★☆ 🏛️🎨 Taipei Fine Arts Museum (TFAM)](https://www.google.com/maps/search/Taipei+Fine+Arts+Museum+Taipei) — Najważniejsze muzeum sztuki nowoczesnej na Tajwanie (Yuanshan, 1 przystanek MRT na północ od Zhongshan); w 2026 m.in. wystawa dźwiękowo-medialna Ryuichiego Sakamoto. **Zamknięte w pon.**, w sob. otwarte dłużej. ⭐ **Najlepsza możliwa zamiana** — wchodzi zamiast Miniatures Museum, jeśli chcecie zakończyć wyjazd mocną sztuką współczesną, a nie atrakcją dla dzieci.
-- [★★★☆☆ 🏛️🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei) — Kolonia artystów nad rzeką (Gongguan): instalacje neonowe, rzeźby, murale. Galerie **wt.–niedz. 11:00–22:00, zamknięte w pon.** (sob. OK). ~15 min MRT od centrum — zmieści się zamiast Huashan + Railway Museum, ale wraca się dalej po bagaże.
-- [★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum — warsztaty ciastek ananasowych](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei) — Zajęcia ~2 h w **Shilin**: robicie ikoniczne ciastka od zera. **Wymagana rezerwacja (Klook/KKday)**. ⚠️ Zjada całe przedpołudnie i leży poza centrum — możliwe tylko wtedy, gdy odpuścicie oba muzea i pamiątki kupicie na lotnisku.
-- [★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) — Setki przyjaznych kotów, mostki w kształcie kotów. ⚠️ **~1 h pociągiem w każdą stronę — w dniu lotu to zbyt duże ryzyko.** Trafiłoby tu tylko wtedy, gdyby ktoś zamienił za to poranek 24 sie (wybrzeże NE) — tamten dzień i tak jest w tej okolicy (Ruifang).
-- [★★★☆☆ ☕🐾🧒 Capybara Knight](https://www.google.com/maps/search/Capybara+Knight+Tucheng+Taipei) — Pierwsza w Taipei kawiarnia z kapibarami (plus króliki i kaczki), ~20 min kontaktu ze zwierzętami. **Wymagana rezerwacja.** ⚠️ Tucheng, ~40 min MRT w jedną stronę — nie mieści się w dniu lotu.
+### Taichung — bench (warianty A/C)
+- [★★★☆☆ 📸🎨 Rainbow Village](https://www.google.com/maps/search/Rainbow+Village+Taichung) — ⬇️ **świadomie poza harmonogramem.** 20 minut fotografowania muralu, w dużej części **przemalowanego** po sporze o zarządzanie z lat 2022–23. Po Korei wiemy, że najsłabiej wypadają u nas sławne, tłoczne, fotogeniczne punkty (Bukchon 3/6, N Seoul Tower 2/6), a najlepiej muzea — dlatego dzień otwiera **Natural Science**, a nie to.
+- [★★★☆☆ 📸🧒 Fan-Shaped Train Garage](https://www.google.com/maps/search/Fan+Shaped+Train+Garage+Taichung) — Ostatnia wachlarzowa parowozownia na Tajwanie, w Changhua (~30 min na południe). Świetna dla dzieci, ale realna tylko z autem.
+- [★★★☆☆ 🌳 Gaomei Wetlands](https://www.google.com/maps/search/Gaomei+Wetlands+Taichung) — Płycizny pływowe z pomostem, najlepiej o zachodzie słońca; ~1 h w bok od miasta.
+- [★★★☆☆ 🏯🧒 Paochueh Temple](https://www.google.com/maps/search/Paochueh+Temple+Taichung) — Świątynia z 1927 r. z 27-metrowym siedzącym złotym Buddą.
+- Karta miasta: [cards/taichung.md](../cards/taichung.md)
 
-### Ostatnie zakupy (po drodze, po 5–15 min)
-- [★★☆☆☆ 🛍️🚶 Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei) — Second-handy i małe pracownie, 5 min od MoCA Taipei — najtańszy dodatek do dzisiejszej trasy.
-- [★★☆☆☆ 🛍️ Zhongshan Underground Book Street (Eslite R79)](https://www.google.com/maps/search/Eslite+R79+Taipei) — Podziemny pasaż z papeterią i pamiątkami łączący Zhongshan z Taipei Main — dosłownie po drodze do bagaży, w klimatyzacji.
+### Tainan — bench (warianty A/B)
+- [★★★☆☆ 🛍️📸 Hayashi Department Store](https://www.google.com/maps/search/Hayashi+Department+Store+Tainan) — Dom towarowy z 1932 r. przywrócony do blasku lat 30.
+- [★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan) — Danzai noodles od 1895 r.
+- [★★★☆☆ 🏯 Altar of Heaven (天壇)](https://www.google.com/maps/search/Altar+of+Heaven+Tiantan+Tainan) · [★★★☆☆ 🏯🤪 Dongyue Temple](https://www.google.com/maps/search/Dongyue+Temple+Tainan) (hala „zaświatów" z 1693 r. z boschowskimi malowidłami) · [★★★☆☆ 🏯🧒 Great South Gate](https://www.google.com/maps/search/Great+South+Gate+Tainan)
+- Karta miasta: [cards/tainan.md](../cards/tainan.md)
+
+### Zostaje w Tajpej — nie mieści się w żadnym wariancie
+- [★★★☆☆ 🎨🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei) — Kolonia artystów nad rzeką; warsztaty robotów, neonowe instalacje. ⬇️ Wypadła razem z dawnym 29 sie i **nie ma dla niej dnia**. Jedyna droga: zamiana za coś w [26 sie](aug-26-maokong-xinyi.md).
+- [★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum of Cake and Pastry](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Pastry+Taipei) — Warsztaty ciastek ananasowych w Shilin (~2 h). Kandydat do wymiany w [25 sie](aug-25-taipei-day3.md), jeśli odpuścicie planetarium.
+
+---
+
+> **Dzień 18 · 28 sie (pt) · Tajwan** — ⚠️ **4 WARIANTY** — drugi dzień na południu: Tainan / Kaohsiung / Nantou / Taroko
+
+# Aug 28 (Fri) — Drugi dzień na południu (4 WARIANTY)
+> Badges: pass:HSR — zależy od wariantu; closed:piątek — Ruifeng i Dadong działają
+
+⚠️ **DZIEŃ NIEROZSTRZYGNIĘTY** — ciąg dalszy wariantu wybranego [27 sie](aug-27-departure-south.md). Wszystkie cztery warianty są w jednej tabeli niżej. Porównanie: **[replan-taiwan.md](../replan-taiwan.md)**.
+
+**Piątek pracuje na waszą korzyść:** **Ruifeng Night Market** (Kaohsiung) jest zamknięty w pon. i śr. → dziś działa ✓. **Six Thousand Beef Soup** (Tainan) działa czw.–niedz. → ✓. W Tainanie rotacja targów daje dziś **Dadong** (pon./wt./pt.).
+
+🧳 **W wariantach A i B dziś zmieniacie bazę z bagażem** — wymeldowanie rano, bagaż do hotelu w nowym mieście przed zwiedzaniem. W wariancie C nocujecie drugą noc w tym samym miejscu, co jest jego największą praktyczną zaletą.
+
+## Route Map
+
+Zależna od wariantu — do uzupełnienia po decyzji.
+
+## Schedule
+
+| Time | Activity | Price |
+|------|----------|-------|
+| | **▸▸ WARIANT A · Taichung → Tainan** — HSR/TRA ~40–50 min, NT$650 · nocleg: **Tainan** | |
+| 8:00 | Śniadanie, wymeldowanie w Taichung. |  |
+| 8:45 | Dokończenie Taichung, jeśli 27 sie coś nie weszło — **Rainbow Village** albo **Blueprint Cultural & Creative Park**. |  |
+| 10:30 | **HSR Taichung → Tainan.** Bagaż do hotelu w Tainanie. | NT$650 |
+| 12:30 | Lunch: obchód **[★★★☆☆ 🍜 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan)** — kulinarna stolica Tajwanu. |  |
+| 13:30 | Klaster świątynny pieszo: **[★★★★☆ 🏯 Chihkan Tower](https://www.google.com/maps/search/Chihkan+Tower+Tainan)** → **[★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan)** → **[★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple)** (1665, najstarsza na Tajwanie). |  |
+| 15:00 | **[★★★★☆ 🏛️ Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum)** — Shigeru Ban (Pritzker). Zamknięte w pon. — pt. OK. |  |
+| 16:00 | Taksówka do **Anping** — ⚠️ **forty NAJPIERW, przekąski potem: wszystkie zamykają ~17:10–17:30.** **[★★★☆☆ 🏯 Fort Zeelandia](https://www.google.com/maps/search/Fort+Zeelandia+Tainan)** (holenderski, 1624) → **[★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan)** (magazyn pochłonięty przez korzenie banianu — **zamknięcie 17:30!**). | NT$70 / połowa |
+| 17:30 | **[★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan)** — krakersy krewetkowe; **[★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan)** i **[★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan)** na deser. |  |
+| 19:00 | **Dadong Night Market** — ⚠️ **rotacja: pt. = Dadong** ✓ (Wusheng śr./sob., Garden czw./niedz. — dziś nie działają). | ~NT$200–400/os. |
+|  | ⚠️ **Eternal Golden Castle wypada** w tym wariancie — dzień z przeprowadzką bazy nie zmieści trzeciego fortu. |  |
+| | **▸▸ WARIANT B · Tainan → Kaohsiung** — HSR ~30 min (~NT$140) lub TRA ~40 min · nocleg: **Kaohsiung** · ⭐ | |
+| 7:30 | 🍜 **[★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan)** — ⚠️ **tylko czw.–niedz. i tylko rano**, kończy gdy skończy się mięso (bywa przed 9:00). Dziś piątek ✓. Świeża wołowina zalewana wrzącym rosołem przy stoliku — **tego nie zjecie nigdzie indziej. Wstańcie na to.** | ~NT$150/os. |
+| 9:00 | **Anping rano, bez presji zamknięcia:** **Fort Zeelandia**, **[★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan)**, **[★★★★☆ 🏯📸 Eternal Golden Castle](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan)** (gwiaździsty fort Qing z 1874, armaty, fosa, most zwodzony). ✅ **To jest przewaga tego wariantu — Anping dostaje poranek i wchodzi trzeci fort.** | NT$70 / połowa |
+| 12:00 | Wymeldowanie, **HSR/TRA → Kaohsiung**. Bagaż do hotelu. | ~NT$140 |
+| 13:30 | **[★★★★☆ 🎨🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** — portowe magazyny zamienione w największy kompleks sztuki współczesnej na południu: galerie, instalacje plenerowe, murale, tor kolejki. Wysoko na naszej liście (sztuka współczesna = górna półka). |  |
+| 15:30 | Prom na **[★★★☆☆ 🌳🚶 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** — 5 min promem; Cijin Old Street (owoce morza), Black Sand Beach, latarnia, **[★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung)** (najstarsza świątynia Mazu na wyspie, 1673). Sam prom jest atrakcją. | Prom ~NT$40 |
+| 17:30 | Powrót; **[★★★★☆ 📸 Formosa Boulevard MRT / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung)** — największa szklana instalacja witrażowa na świecie, w stacji metra. 5 minut, zero kosztu, mocne zdjęcie. | Bezpłatnie |
+| 19:00 | **[★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung)** — ⚠️ **zamknięty pon. i śr.; dziś piątek ✓.** Największy i najbardziej lokalny w Kaohsiungu, 500+ stoisk. | ~NT$200–400/os. |
+| | **▸▸ WARIANT C · Nantou: Chung Tai + Sun Moon Lake** — autobusy · nocleg: **Taichung / Puli** | |
+| 8:30 | Autobus **Nantou Bus / Taiwan Tourist Shuttle**, Taichung → **Puli** (~60–75 min). |  |
+| 10:00 | **Chung Tai Chan Temple** — 43-piętrowa świątynia-wieżowiec; architektura buddyjska w skali, jakiej nie ma nigdzie indziej. ⚠️ **Zwiedzanie z mniszką po angielsku = rezerwacja ~3 dni wcześniej (do 24 sie).** |  |
+| 11:00 | **Chung Tai World Museum** obok — sztuka buddyjska, zabytki sięgające **386 r. n.e.** ⚠️ Zamknięte w pon. (pt. OK). ✅ **BEZPŁATNIE maj–sie 2026** — 28 sie mieści się w okienku. | Bezpłatnie |
+| 12:30 | Autobus Puli → **Sun Moon Lake** (~30–40 min). Lunch nad jeziorem w **Ita Thao**. |  |
+| 13:30 | **Sun Moon Lake** — kolejka linowa (do Formosan Aboriginal Culture Village), rejs statkiem (Shuishe ↔ Ita Thao ↔ Xuanguang), **Wenwu Temple**. |  |
+|  | *Alternatywa dla fanów zabytkowej kolei:* zamiast jeziora — linia **Jiji Line** do **CheCheng Wood Museum**. |  |
+| 17:30 | Powrót do Taichung (~1 h 15). Kolacja: **[★★★★☆ 🏮 Fengjia Night Market](https://www.google.com/maps/search/Fengjia+Night+Market+Taichung)**, jeśli nie było go 27 sie. | ~NT$200–400/os. |
+| | **▸▸ WARIANT D · Taroko** — ❌ nie polecam, i to jest wniosek ze sprawdzenia stanu parku | |
+| 8:00 | **Stan wąwozu na 2026 — sedno odrzucenia.** ✅ **Otwarte:** centrum informacyjne parku, szlaki przy **Tianxiang**, **Lushui** częściowo (od lut. 2026 pierwszy odcinek Lushui Trail + początek Lushui–Wenshan). |  |
+|  | ❌ **Zamknięte: Shakadang Trail i Zhuilu Old Road** — dwa najsłynniejsze szlaki, **bez perspektywy otwarcia**. **Swallow's Grotto** — mowa o latach. |  |
+|  | ⚠️ **Droga przez wąwóz** na Hehuanshan: **tylko własnym samochodem, 5 wjazdów dziennie, wyjazd z parku do 17:30.** |  |
+|  | ❓ **Tunnel of Nine Turns** i **Eternal Spring Shrine** — *spodziewane* w 2026, na sierpień **niepotwierdzone**. |  |
+|  | **Czyli:** żeby zobaczyć ułamek wąwozu, trzeba wynająć auto w Hualien, wpasować się w jedno z pięciu okien wjazdowych i wyjechać przed 17:30 — dzień przed międzynarodowym lotem, do którego trzeba wrócić wyprzedającym się pociągiem. Patrz [29 sie](aug-29-return-fly-home.md). |  |
+
+---
+
+## Also Nearby
+
+### Kaohsiung — bench (wariant B)
+- [★★★★☆ 🏛️🧒 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts) — Główne muzeum sztuki miasta, w parku; mocny dział dla dzieci.
+- [★★★★☆ 🎭 Weiwuying (National Kaohsiung Center for the Arts)](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — Największe centrum sztuk scenicznych pod jednym dachem na świecie; falujący dach do zwiedzania z zewnątrz bezpłatnie.
+- [★★★★☆ 🌳🏯 Lotus Pond](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung) — Smoczo-tygrysie pagody, świątynie nad wodą. **Blisko Zuoying**, więc naturalnie wchodzi w poranek [29 sie](aug-29-return-fly-home.md).
+- [★★★★☆ 🏯🏛️ Fo Guang Shan Monastery & Buddha Museum](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — Największy klasztor buddyjski na Tajwanie. ⚠️ Buddha Museum **zamknięte we wt.** (pt./sob. OK), ~40 min za miastem.
+- [★★★☆☆ 🌳🚶 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) wieczorem · [★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung) (bardziej turystyczny niż Ruifeng)
+- Karta miasta: [cards/kaohsiung.md](../cards/kaohsiung.md)
+
+### Tainan — bench (warianty A/B)
+- [★★★☆☆ 🍜 A Cun Beef Soup 阿村牛肉湯](https://www.google.com/maps/search/A+Cun+Beef+Soup+Tainan) — Druga wielka zupa wołowa Tainanu, wyróżniona w Michelin; zapas, jeśli w Six Thousand skończy się mięso.
+- [★★★☆☆ 🍜 Yi Wei Pin at Yongle Market](https://www.google.com/maps/search/Yi+Wei+Pin+Yongle+Market+Tainan) — Michelin Bib Gourmand; bowl rice cake + zupa z ryby mlecznej.
+- [★★★☆☆ 🏯 Koxinga Shrine](https://www.google.com/maps/search/Koxinga+Shrine+Tainan) — Chram bohatera, który wypędził Holendrów.
+
+### Źródła stanu Taroko (sprawdzone 20 sie 2026)
+- [Taiwan Obsessed — Is Taroko Gorge Open?](https://www.taiwanobsessed.com/is-taroko-gorge-open/)
+- [Round Taiwan Round — status wąwozu](https://www.rtaiwanr.com/blog/taiwan-hualien-taroko-gorge-status)
+- [MyTaiwanTour — Is Taroko Gorge Open in 2026?](https://www.mytaiwantour.com/news/detail/140-is-taroko-gorge-open-in-2026-yes-here-s-what-you-need-to-know-before-you-go)
+
+---
+
+> **Dzień 19 · 29 sie (sob) · Tajwan** — Powrót z południa (wysiadka **Taoyuan HSR**, nie Tajpej) → lot do domu (odlot 19:25)
+
+# Aug 29 (Sat) — Powrót z południa → lot do domu (odlot 19:25)
+> Badges: pass:HSR — dzień powrotu; closed:sobota — wszystko otwarte
+
+**Lot do domu odlatuje z Taipei Taoyuan (TPE) o 19:25.** To jest dziś jedyna twarda liczba w całym planie.
+
+🔁 **Ten dzień zmienił rolę.** Wcześniej był „ostatnim dniem w Tajpej" (MoCA, Huashan, Railway Museum) z wyjazdem na lotnisko o 15:15. Po skróceniu hotelu w Tajpej do nocy 21–26 sie **nocujecie 28 sie na południu**, więc dziś rano **wracacie**, a nie zwiedzacie Tajpej. Zawartość dawnego 29 sie przeniosła się na [21 sie](aug-21-busan-to-taipei.md) (Railway Museum + Huashan **albo** MOCA + Miniatures — wybór pary) i na poranek [27 sie](aug-27-departure-south.md) (Chia Te, SunnyHills). Kontekst: [replan-taiwan.md](../replan-taiwan.md).
+
+⚠️ **Wysiadacie w Taoyuan HSR, NIE w Tajpej.** Bagaże macie przy sobie od wymeldowania na południu, więc nie ma po co wjeżdżać do miasta. Stacja Taoyuan HSR jest w tym samym kompleksie co **Airport MRT A18**, więc to ~15–20 min do terminala — zamiast Taipei Main + Airport MRT Express (~38 min) plus przesiadka. Oszczędność ~40 min.
+
+🎫 **Rezerwujcie miejsca w pociągu z wyprzedzeniem.** Sobota + koniec sierpnia = szczyt. To jedyny odcinek całego wyjazdu, którego opóźnienie kosztuje lot.
+
+**⏰ Rachunek czasu — liczony wstecz od 19:25:**
+- **19:25** odlot (międzynarodowy) → **~18:25** zamknięcie odprawy i bagażu (u większości linii 60 min przed)
+- **16:00–16:30 być na TPE** — ~3 h przed to 16:25; ⚠️ **16:30 to już tylko 2 h 55**
+- **~15:45 najpóźniej wysiadka na Taoyuan HSR** → A18 → terminal A12/A13 to ~15–20 min
+- **Stąd liczcie pociąg wstecz** — każdy wariant niżej ma już policzoną godzinę odjazdu
+
+## Route Map
+
+Zależna od wariantu. Wspólny koniec: **Taoyuan HSR → Airport MRT → TPE**.
+
+## Schedule
+
+| Time | Activity | Price |
+|------|----------|-------|
+| | **▸▸ WARIANT A · z Tainanu** — HSR ~1 h 20, ~NT$1 270 (szac.) | |
+| 7:30 | 🍜 **[★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan)** — czw.–niedz., tylko rano, kończy gdy skończy się mięso. **Dziś sobota ✓. Wstańcie na to** — to jedna z tych rzeczy, których nie zjecie nigdzie indziej. | ~NT$150/os. |
+| 8:30 | Ostatni obchód **[★★★☆☆ 🍜 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan)** albo **[★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan)** (danzai noodles od 1895 r.). |  |
+| 10:00 | Wymeldowanie. Jeśli 28 sie coś nie weszło: **Hayashi Department Store**, **Altar of Heaven**, **Great South Gate**, **Eternal Golden Castle**. |  |
+| 13:30 | Taksówka do **Tainan HSR** (~30–40 min od centrum — ⚠️ **nie tnijcie tego buforu**, stacja jest 17 km za miastem). |  |
+| 14:20 | **HSR Tainan → Taoyuan.** | ~NT$1 270 |
+| 15:45 | Taoyuan HSR → Airport MRT → **TPE ~16:05.** ✅ Najspokojniejszy z wariantów z pełnym porankiem. |  |
+| | **▸▸ WARIANT B · z Kaohsiungu** — HSR ~1 h 30, ~NT$1 410 (szac.) | |
+| 8:00 | Śniadanie, wymeldowanie. |  |
+| 8:45 | **⚖️ Wybierzcie JEDNO — na dwa nie ma czasu.** Najkrótszy poranek ze wszystkich wariantów. |  |
+|  | **Opcja A ·** **[★★★★☆ 🌳🏯 Lotus Pond](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung)** — Smoczo-tygrysie pagody, świątynie nad wodą. **Leży przy Zuoying**, czyli praktycznie po drodze na pociąg → **najbezpieczniejsza opcja**. | Bezpłatnie |
+|  | **Opcja B ·** **[★★★★☆ 🏛️🧒 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts)** — otwiera 9:30, ~1,5 h, potem MRT do Zuoying. |  |
+|  | **Opcja C ·** **[★★★★☆ 🏯🏛️ Fo Guang Shan](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung)** — ⚠️ **~40 min za miastem.** Buddha Museum zamknięte wt. (sob. OK), ale ta opcja **wyklucza spokojny wyjazd** — realna tylko, jeśli ruszacie 8:00 i wracacie prosto na pociąg. |  |
+| 12:30 | Obiad przy Zuoying albo **[★★★☆☆ 🛍️🍜 Neiwei Afternoon Market](https://www.google.com/maps/search/Neiwei+Market+Kaohsiung)**, jeśli zostaje czas. |  |
+| 13:45 | **HSR Zuoying → Taoyuan.** | ~NT$1 410 |
+| 15:15 | Taoyuan HSR → Airport MRT → **TPE ~15:35.** |  |
+| | **▸▸ WARIANT C · z Taichung** — HSR ~35 min, ~NT$540 (szac.) · ✅ najluźniejszy | |
+| 9:00 | Wymeldowanie; bagaż do skrytek na HSR Taichung albo zostaje w hotelu. |  |
+| 9:30 | **Realnie macie pół dnia** — dobitka Taichung: **NTMoFA**, **Rainbow Village**, **Paochueh Temple**, **Blueprint Cultural & Creative Park**, **Calligraphy Greenway**, **Taichung Second Market**. |  |
+| 13:30 | Lunch, odbiór bagażu. |  |
+| 15:00 | **HSR Taichung → Taoyuan** (~35 min). | ~NT$540 |
+| 15:45 | Taoyuan HSR → Airport MRT → **TPE ~16:05.** |  |
+| | **▸▸ WARIANT D · z Hualien** — TRA ~2 h 05 · ❌ najwęższy margines | |
+| 8:00 | Wymeldowanie w Hualien. |  |
+| 12:30 | **TRA Hualien → Tajpej** (~2 h 05), potem jeszcze Airport MRT z Taipei Main (~38 min). ⚠️ **Bez zarezerwowanego miejsca w Puyuma/Taroko ten wariant zagraża lotowi** — a te pociągi wyprzedają się. To najwęższy margines z czterech wariantów i główny powód, dla którego wariant D nie jest rekomendowany. | ~NT$440 |
+| 15:15 | Taipei Main → **TPE ~15:55.** |  |
+
+---
+
+## Also Nearby
+
+### Ostatnie zakupy
+- 🎁 **Ciastka ananasowe kupujecie 27 sie rano** ([Chia Te](aug-27-departure-south.md) + SunnyHills) — **nie zostawiajcie tego na dziś**, bo dziś nie ma poranka w Tajpej. To jedna z realnych konsekwencji przeplanowania.
+- 🛍️ Na TPE jest strefa bezcłowa, ale ceny ciastek są tam wyraźnie wyższe niż w mieście.
+
+### Gdyby lot był opóźniony albo odwołany
+- Taoyuan HSR → Taipei Main to ~20 min, więc powrót do miasta jest łatwy. Otwarte wieczorem w centrum: [Huashan 1914](aug-21-busan-to-taipei.md) (sklepy do 21:00–22:00) i nocne targi **Ningxia** / **Raohe**.
 
 ---
 
