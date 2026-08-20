@@ -4,6 +4,14 @@ Tajwańska część planu (21–29 sie) była budowana **bez samochodu** — na 
 
 **Zasada czytania:** harmonogram w każdym pliku dnia (`## Schedule`) **to jest wariant bez samochodu**. Dni, które auto realnie przebudowuje, mają na końcu dodatkową sekcję **`## Wariant z samochodem`** z własnym rozkładem godzinowym. Dni bez takiej sekcji wyglądają tak samo w obie strony — i to nie jest przeoczenie, tylko wniosek.
 
+> 🔴 **NIEAKTUALNE OD 20 sie — przeczytaj przed użyciem tej strony.** Hotel w Tajpej to noce **21–26 sie**, więc cały blok „26–28 sie" opisany niżej **dotyczy dat, których już nie ma**. Nowy układ: **21–26 sie = Tajpej** (6 dni), **27–28 sie = 2 noce na południu, kierunek nierozstrzygnięty** (cztery warianty), **29 sie = powrót i lot**. Co z tego wynika dla auta:
+>
+> - **24 sie (wybrzeże NE) — bez zmian.** To nadal najmocniejszy dzień na auto i jedyny, którego przeplanowanie nie dotknęło.
+> - **23 sie — argument za autem zniknął.** Dzień nie robi już zygzaka NPM → Beitou → Xinyi; jest teraz jedną linią MRT (Beitou → Guandu → Tamsui). Auto **nic tu nie daje**.
+> - **26 sie — to nie jest już dzień przeprowadzki.** Jest dniem w Tajpej (Maokong + Zoo + Xinyi), więc auto jest bezużyteczne.
+> - **27–28 sie — do przeliczenia od zera** po wyborze wariantu. Rachunek HSR też się zmienił: [passes.md](passes.md).
+> - Tabela i sekcje poniżej opisują **stary** podział dni 16–19 — zostawione jako ślad decyzji, nie jako plan. Nowy: [replan-taiwan.md](replan-taiwan.md).
+>
 > ⚠️ **Nie ma jednego „auta na cały Tajwan".** Sensowne są **dwa osobne, krótkie wynajmy** (24 sie oraz 26–28 sie), a nie jedno auto na 21–29 sie. W Taipei, w centrum Tainan i w śródmieściu Kaohsiung auto jest wolniejsze i droższe od metra, a przez 22, 23, 25 i 29 sie stałoby zaparkowane za wasze pieniądze.
 
 ---
@@ -17,9 +25,9 @@ Tajwańska część planu (21–29 sie) była budowana **bez samochodu** — na 
 | 13 | 23 sie (niedz) | **NIE** (patrz uwaga niżej) | Duży zygzak N–S (NPM → Beitou → Elephant Mtn → Raohe), ale MRT obsługuje go w całości. Auto oszczędza ~20–30 min i traci je na szukanie parkingu w Xinyi/Songshan. **Za mało, żeby odblokować cokolwiek nowego.** |
 | 14 | 24 sie (pon) | **TAK — największa różnica** | Wybrzeże NE. Auto jest **tańsze niż wycieczka grupowa**, wymusza właściwą kolejność (Gold Museum 2 h, Jiufen o zmierzchu) i dorzuca **Houtong Cat Village** prawie bez nadkładania drogi. → [Dzień 14 — 24 sie](days/aug-24-northeast-coast.md) |
 | 15 | 25 sie (wt) | **NIE** | Kompleks w Shilin (NTSEC, planetarium, park rozrywki) to 1–2 km pieszo, potem nocny targ. Auto bezużyteczne. |
-| 16 | 26 sie (śr) | **TAK** | Przeprowadzka bazy z bagażem. Auto likwiduje **skrytki na HSR i 8 podjazdów taksówką**, i otwiera **Changhua Fan-Shaped Train Garage** po drodze. → [Dzień 16 — 26 sie](days/aug-26-taichung-tainan.md) |
-| 17 | 27 sie (czw) | **TAK** | Odblokowuje **Fo Guang Shan** — dziś skreślony jako „osobne pół dnia". → [Dzień 17 — 27 sie](days/aug-27-tainan-kaohsiung.md) |
-| 18 | 28 sie (pt) | **TAK, ale tylko rano** | Rano auto odblokowuje **National Science & Technology Museum** bez oddawania Lotus Pond. Po południu **NIE jedziecie autem do Taipei** — oddajecie je i wsiadacie w HSR. → [Dzień 18 — 28 sie](days/aug-28-kaohsiung-taipei.md) |
+| 16 | 26 sie (śr) | **TAK** | Przeprowadzka bazy z bagażem. Auto likwiduje **skrytki na HSR i 8 podjazdów taksówką**, i otwiera **Changhua Fan-Shaped Train Garage** po drodze. → [Dzień 16 — 26 sie](days/aug-27-departure-south.md) |
+| 17 | 27 sie (czw) | **TAK** | Odblokowuje **Fo Guang Shan** — dziś skreślony jako „osobne pół dnia". → [Dzień 17 — 27 sie](days/aug-28-south-day2.md) |
+| 18 | 28 sie (pt) | **TAK, ale tylko rano** | Rano auto odblokowuje **National Science & Technology Museum** bez oddawania Lotus Pond. Po południu **NIE jedziecie autem do Taipei** — oddajecie je i wsiadacie w HSR. → [Dzień 18 — 28 sie](days/aug-28-south-day2.md) |
 | 19 | 29 sie (sob) | **NIE** | Pętla MoCA → Huashan → Railway Museum jest w centrum i pieszo, a bagaże i tak zostają w skrytkach na Taipei Main. Jedyny plus (bagaże w aucie + dojazd na TPE) nie równoważy parkowania w Zhongshan. |
 
 **Podsumowanie: realnie zmieniają się 4 dni z 9 — 24, 26, 27 i 28 sie.**

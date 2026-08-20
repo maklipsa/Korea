@@ -59,13 +59,24 @@ Kup: Klook, KKday lub strona Taipei Fun Pass (tylko jeśli wybierzecie wariant 3
 ### Taiwan HSR Flexible 2-day Pass — NT$2,500
 **Tylko dla obcokrajowców** (okaż paszport). Dowolne 2 dni w ciągu 7 dni.
 
-Wykorzystanie (daty przesunięte o dzień wraz z całym Tajwanem):
-- 26 sie: Taipei → Taichung (NT$700) + Taichung → Tainan (NT$650) = NT$1,350
-- 28 sie: Kaohsiung → Taipei (NT$1,490) = NT$1,490
+🔴 **RACHUNEK PRZELICZONY 20 sie — stary był oparty na nieistniejących już datach.** Hotel w Tajpej to noce **21–26 sie**, więc przejazdy wypadają teraz **27, 28 i 29 sie**, a nie 26 + 28. Kluczowa zmiana: **trzy przejazdy w trzy różne dni, a pass pokrywa tylko dwa.**
 
-**Razem cena normalna: NT$2,840. Oszczędność NT$340.** Plus wygoda nielimitowanych przejazdów w te dni.
+~~Wykorzystanie (daty przesunięte o dzień wraz z całym Tajwanem): 26 sie Taipei → Taichung + Taichung → Tainan; 28 sie Kaohsiung → Taipei~~
 
-⚠️ **Warunek: ten rachunek działa tylko bez wynajętego auta.** Jeśli bierzecie van na 26–28 sie, odcinek Taichung → Tainan (NT$650) jedziecie autem i zostają **dwa** przejazdy HSR: 26 sie Taipei → Taichung (NT$700) + 28 sie Zuoying → Taipei (NT$1,490) = **NT$2,190**, czyli **NT$310 mniej niż pass**. Wtedy **kupujecie bilety pojedyncze, nie pass.** Pełne porównanie: [car.md](car.md).
+**Nowy rachunek — zależy od wariantu** (warianty: [replan-taiwan.md](replan-taiwan.md)). Taryfy do/z **Taoyuan** to szacunki (odjęty jeden przystanek od taryf poniżej) — sprawdźcie na thsrc.com.tw:
+
+| Wariant | Przejazdy | Single razem | Pass pokrywa 2 najlepsze dni | Werdykt |
+|---|---|---|---|---|
+| **A** Taichung + Tainan | 27: Tajpej→Taichung 700 · 28: Taichung→Tainan 650 · 29: Tainan→Taoyuan ~1 270 | **~2 620** | ~1 970 | ❌ **single** — pass traci ~530 |
+| **B** Tainan + Kaohsiung | 27: Tajpej→Tainan ~1 350 · 28: Tainan→Zuoying ~140 · 29: Zuoying→Taoyuan ~1 410 | **~2 900** | ~2 760 | ✅ **PASS** — oszczędność ~260 + nielimitowane przejazdy |
+| **C** Taichung + Nantou | 27: Tajpej→Taichung 700 · 29: Taichung→Taoyuan ~540 | **~1 240** | — | ❌ **single** — pass traci ~1 260 |
+| **D** Hualien | TRA, nie HSR (~440 w każdą stronę) | ~880 | — | ❌ pass nie dotyczy |
+
+**Czyli: pass kupujecie TYLKO w wariancie B.** W wariancie B odcinek 28 sie (Tainan → Zuoying) jest tak tani, że można go zrobić TRA i wykorzystać oba dni passa na 27 i 29 sie.
+
+Taryfy bazowe (potwierdzone, pełne odcinki do Tajpej): Tajpej ↔ Taichung NT$700 · Taichung ↔ Tainan NT$650 · Kaohsiung (Zuoying) ↔ Tajpej NT$1,490.
+
+⚠️ **Auto:** dawny warunek „bez wynajętego auta" dotyczył vana na 26–28 sie, czyli dat, których już nie ma. Jeśli wracacie do pomysłu auta, przelicz od nowa: [car.md](car.md).
 
 Kup: Klook, KKday lub na stacjach THSR (z paszportem).
 

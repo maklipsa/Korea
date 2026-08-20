@@ -8,7 +8,7 @@
 🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Cały dzień to jeden pieszy korytarz, a Wanhua i Ximending to ciasne zaułki bez parkingu — autem byłoby **wolniej**. Zestawienie wszystkich dni: [car.md](../car.md).
 
 ## Route Map
-[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|228+Peace+Memorial+Park+Taipei|National+Center+of+Photography+and+Images+Taipei|Snow+King+Ice+Cream+Taipei|Modern+Toilet+Restaurant+Ximending+Taipei|Ximen+Red+House+Taipei|Dihua+Street+Taipei|Dadaocheng+Wharf+Taipei&travelmode=walking)
+[Trasa spacerowa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Longshan+Temple+Taipei&destination=Ningxia+Night+Market+Taipei&waypoints=Bopiliao+Historic+Block+Taipei|Chiang+Kai-shek+Memorial+Hall+Taipei|228+Peace+Memorial+Park+Taipei|National+Center+of+Photography+and+Images+Taipei|Snow+King+Ice+Cream+Taipei|Modern+Toilet+Restaurant+Ximending+Taipei|Ximen+Red+House+Taipei|Dihua+Street+Taipei|Xiahai+City+God+Temple+Taipei|Dadaocheng+Wharf+Taipei&travelmode=walking)
 
 ## Schedule
 
@@ -26,6 +26,7 @@
 | 15:00 | **[★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant](https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei)** — Siedzi się na sedesach. Jedzenie podawane w muszlach klozetowych. Czekoladowe lody „kupka". Dzieci będą się bawić bez końca. (2F, Xining S Rd Ln 50; otwarte codziennie 11:30–22:00; w szczycie bywa kolejka — dobre miejsce na prawdziwy lunch pominięty w Snow King.) |  |
 | 16:30 | MRT do **Dadaocheng**. |  |
 |  | **[★★★★☆ 🚶🛍️ Dihua Street](https://www.google.com/maps/search/Dihua+Street+Taipei)** — Najstarsza handlowa ulica Taipei (lata 1850). Barokowe fasady. Herbata, zioła, piękne stare opakowania. |  |
+| 17:00 | ⬆️ **[★★★★☆ 🏯 Xiahai City God Temple](https://www.google.com/maps/search/Xiahai+City+God+Temple+Taipei)** — **stoi przy Dihua St, czyli nie kosztuje ani jednego przystanku.** Malutka (150 m²), ale upchane w niej ponad **600 figur bóstw**; słynna na świecie z Yue Lao, boga swatów. Kadzidło bezpłatne, instrukcje po angielsku i japońsku, a **obsługa przeprowadza dzieci przez cały rytuał** — to jest ten rodzaj świątyni, w której 9- i 11-latek ma co robić, a nie tylko patrzy. Codziennie 7:00–19:00. ⚠️ Sierpień to **Ghost Month** (13 sie–10 wrz), więc ruch i kadzidła są tu teraz mocniejsze niż zwykle — na plus. | Bezpłatnie |
 | 17:15 | **⚖️ Wybierz jedno — jak zamknąć wieczór.** **Rekomendacja: B.** Sobota to **jedyny dzień pobytu, w którym TFAM jest bezpłatne (17:00–20:30)**, a i tak jesteście dziś w tej okolicy — a to muzeum sztuki nowoczesnej nr 1 na Tajwanie, czyli dokładnie kategoria, która w Korei punktowała najwyżej (Photo SeMA 6/6, MMCA 5/6). Opcja A jest ładniejsza, ale to spacer nad rzeką — kategoria, która w Korei wypadła najsłabiej (Cheonggyecheon 3/6). |  |
 |  | **Opcja A ·** **[★★★☆☆ 📸🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei)** (rzeczny koniec Dihua St) — zachód słońca nad rzeką Tamsui (~18:25), bary w kontenerach w świetle lampionów, street food. Potem prosto na nocny targ. |  |
 |  | **Opcja B ·** *15-min skok na N do Yuanshan* — dwie świątynie **i** TFAM stoją tam obok siebie: |  |

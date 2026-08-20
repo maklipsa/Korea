@@ -3,9 +3,11 @@
 **11-29 sie 2026 | Aktywnie 9:00-20:00 | ~25 tys. kroków/dzień | Dzieci 9+**
 
 Korea: 11-21 sie (10 nocy, Seoul 7 + Busan 3)
-Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
+Tajwan: 21-29 sie (8 nocy — **Taipei 6 nocy (21-26)** + 2 noce na południu (27-28), kierunek nierozstrzygnięty)
 
-> ⚠️ **Aktualizacja: lot Busan → Taipei przesunięty z 20 na 21 sie (odlot 9:00).** Cały Tajwan przesunął się o jeden dzień w przód. Skutki: Busan zyskał **pełny drugi dzień (20 sie)** i trzecią noc, a Tajwan stracił jeden dzień — dawny „ostatni pełny dzień w Taipei" (28 sie) zniknął, a jego najlepsze punkty weszły do rozbudowanego **29 sie**. Wszystkie dni zamknięć zostały przeliczone na nowe daty (patrz „NAJWAŻNIEJSZE DNI ZAMKNIĘCIA"); trzy realne zmiany merytoryczne to **nocny targ w Tainan** (śr. = Wusheng, nie Dadong), **Six Thousand Beef Soup wraca do planu** (czynne czw.–niedz.) i **Ruifeng Night Market staje się dostępny** (zamknięty w śr.).
+> ⚠️ **Aktualizacja 2 (20 sie): hotel w Tajpej to noce 21–26 sie, wymeldowanie 27 sie.** Cały Tajwan przebudowany. Tajpej ma teraz **6 dni** (21–26), a na południe zostają **2 noce** (27–28); 29 sie to dzień powrotu, nie zwiedzania. Odzyskany dzień 26 sie rozwiązał trzy stare problemy: **23 sie przestało robić trzy dzielnice naraz** (jest teraz Beitou + Tamsui na jednej linii MRT), **NPM przeniosło się do Shilinu na 25 sie**, a **Taipei Zoo dostało realne godziny**. Kierunek na 27–28 sie **nie jest wybrany** — cztery warianty w [replan-taiwan.md](replan-taiwan.md).
+>
+> ⚠️ **Aktualizacja: lot Busan → Taipei przesunięty z 20 na 21 sie (odlot 9:00).** Cały Tajwan przesunął się o jeden dzień w przód. Skutki: Busan zyskał **pełny drugi dzień (20 sie)** i trzecią noc, a Tajwan stracił jeden dzień — dawny „ostatni pełny dzień w Taipei" (28 sie) zniknął, a jego najlepsze punkty weszły do rozbudowanego **29 sie**. Wszystkie dni zamknięć zostały przeliczone na nowe daty (patrz „NAJWAŻNIEJSZE DNI ZAMKNIĘCIA"); trzy realne zmiany merytoryczne to **nocny targ w Tainan** (śr. = Wusheng, nie Dadong), **Six Thousand Beef Soup wraca do planu** (czynne czw.–niedz.) i **Ruifeng Night Market staje się dostępny** (zamknięty w śr.). ⚠️ *Fragment o „rozbudowanym 29 sie" jest już nieaktualny — patrz Aktualizacja 2 powyżej: 29 sie jest dniem powrotu z południa.*
 
 ---
 
@@ -15,7 +17,8 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 - [x] ✅ **ZROBIONE — byliśmy 13 sie.** Wycieczka do DMZ — **standardowa, pół dnia, bez sesji Q&A z uciekinierem z Korei Północnej**. *Zapis z etapu rezerwacji (zostaje jako ślad decyzji):* **rekomendacja po researchu: VIP Travel „No Forced Shopping", ~80,000 KRW/dorosły** — darmowy odbiór z hotelu, darmowe anulowanie do 24 h (nasz hedge na monsun). Alternatywy: Trazy (ma Dorasan Station), Klook (Q&A jako opcjonalna dopłata), prywatna OnedayKorea (~780,000 KRW za 6 os.). Realne widełki rynkowe to **55,000-95,000 KRW/osoba (pół dnia)**. Okienko rezerwacyjne domykało się ~1 tydzień przed terminem (potrzebne numery wszystkich 6 paszportów; standardowa wycieczka wymaga ich ~5-7 dni przed, przy grupie 6 osób warto było wcześniej). Zobacz [stronę z opcjami wycieczek do DMZ](#dmz).
 - [x] Lot Busan (PUS) → Taipei (TPE) — **21 sie** (przesunięty z 20 sie), rano: odlot 9:00, przylot do Taipei ~10:30. Na Gimhae T2 na 6:15, wyjazd z hotelu 5:30.
 - [ ] **Nocleg w Busan: 3 noce, nie 2** (18/19/20 sie) — po przesunięciu lotu dochodzi noc z 20 na 21 sie. Sprawdźcie, czy rezerwacja to obejmuje.
-- [ ] **Nocleg w Taipei: 8 nocy** (21–28 sie) zamiast 9 — pierwsza noc przesunięta z 20 na 21 sie.
+- [x] **Nocleg w Taipei: 6 nocy (21–26 sie), wymeldowanie rano 27 sie** — hotel zarezerwowany. ⚠️ To **zmieniło cały układ Tajwanu**: 26 sie wróciło do Tajpej, a na południe zostają **2 noce (27 i 28 sie)**. Patrz [replan-taiwan.md](replan-taiwan.md).
+- [ ] 🔴 **Nocleg na 27 i 28 sie — DO ZAREZERWOWANIA, zależy od wariantu.** Taichung+Tainan / Tainan+Kaohsiung / Taichung+Taichung (Nantou) — cztery warianty rozpisane w [replan-taiwan.md](replan-taiwan.md), [dzień 17](days/aug-27-departure-south.md) i [dzień 18](days/aug-28-south-day2.md). **Bez tej decyzji nie da się kupić ani noclegu, ani biletów HSR.**
 - [ ] Warsztat lepienia eomuk w **Samjin Amook** (20 sie, Yeongdo) — wymaga rezerwacji z wyprzedzeniem; bez niej zostaje samo muzeum + sklep.
 - [ ] 🔴 **Bilety do Lotte World (17 sie) — KUPIĆ PRZEZ KANAŁ DLA OBCOKRAJOWCÓW.** Koreańska aplikacja i strona pokazują „brak biletów" na każdą datę; to **nie wyprzedanie** — park jest otwarty codziennie (연중무휴). ✅ **Przyczyna: padł backend biletowy Lotte World** (mticket.lotteworld.com = timeout/502; strona informacyjna działa). **Kupujcie na [Trazy](https://www.trazy.com/experience/detail/lotte-world-seoul-discount-ticket) — sprawdzone, działa, „Availability: Every day"; bilet „foreigners only", więc weźcie PASZPORTY.** Zapas: Klook / Trip.com / MyRealTrip / Interpark(NOL). ⚠️ **Bez passa — bilety dla całej szóstki.** Online ~39,200 vs ~64,000 w kasie; kasa czynna 10:00–18:00, w święto bilety mogą się skończyć.
 
@@ -37,7 +40,7 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 - [x] ~~**Discover Seoul Pass 48h** (69,000 KRW)~~ — ❌ **NIE kupujemy (decyzja 16 sie):** po skreśleniu COEX Aquarium zysk spadł do ~+5,000 KRW/dorosłego, za mało wobec presji zegara 48 h. Wszystko płacone pojedynczo.
 - [ ] **Visit Busan Pass — NIE bierzcie wersji 24 h** (55,000 KRW): przy dwóch dniach w Busan (19 + 20 sie) jej ruchome okno nie obejmie obu. Jeśli w ogóle kupujecie pass, to **BIG3 (45,000) albo BIG5 (65,000)** — nie mają zegara (180 dni), więc spinają oba dni. Rachunek w [cards/busan.md](cards/busan.md).
 - [ ] ~~**Taipei Fun Pass Unlimited 2-day**~~ — 🔻 **NIE kupujemy.** Po skreśleniu tarasu Taipei 101 (płatny punkt widokowy, kategoria N Seoul Tower 2/6) w passie zostaje właściwie samo NPM, do którego wszystkie 3 dzieci wchodzą bezpłatnie → ~NT$550–750 wartości wobec NT$1,700. **Do rozstrzygnięcia zamiast tego:** czy 24 sie jedziecie na wybrzeże sami (→ wtedy **3-day dla 3 dorosłych**, aktywacja 23 sie, bo zastępuje wycieczkę z przewodnikiem), czy z przewodnikiem (→ **żadnego passa dla nikogo**, EasyCard + kasy). Rachunek: [passes.md](passes.md), [cards/taipei.md](cards/taipei.md)
-- [ ] **Taiwan HSR Flexible 2-day Pass** (NT$2,500) — na **26 sie + 28 sie**. ⚠️ **Najpierw zdecydujcie o wynajmie auta na 26–28 sie** — w wariancie z autem zostają tylko dwa przejazdy HSR (NT$700 + NT$1,490 = **NT$2,190 < NT$2,500**), więc pass staje się stratą i kupujecie bilety pojedyncze. Rachunek: [car.md](car.md)
+- [ ] **Taiwan HSR Flexible 2-day Pass** (NT$2,500) — ⚠️ **rachunek unieważniony przez nowe daty.** Przejazdy to teraz **27 + 28 + 29 sie**, a nie 26 + 28. **Pass opłaca się tylko w wariancie B (Tainan+Kaohsiung)**; w wariantach A i C przegrywa z biletami pojedynczymi, bo trzy przejazdy wypadają w trzy różne dni, a pass pokrywa dwa. Pełny rachunek per wariant: [replan-taiwan.md](replan-taiwan.md), [passes.md](passes.md)
 
 ---
 
@@ -60,15 +63,15 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 
 | Dzień | Data | Podsumowanie | Link |
 |-----|------|---------|------|
-| 11 | 21 sie (pt) | Lot Busan → Taipei (odlot 9:00) + popołudnie w Taipei | [aug-21-busan-to-taipei.md](days/aug-21-busan-to-taipei.md) |
-| 12 | 22 sie (sob) | Taipei Dzień 1: stare Taipei + dziwne lody + Ximending + TFAM za darmo + Ningxia | [aug-22-taipei-day1.md](days/aug-22-taipei-day1.md) |
-| 13 | 23 sie (niedz) | Taipei Dzień 2: NPM + gorące źródła Beitou + Elephant Mountain (zamiast tarasu 101) + Raohe | [aug-23-taipei-day2.md](days/aug-23-taipei-day2.md) |
+| 11 | 21 sie (pt) | Lot Busan → Taipei (odlot 9:00) + popołudnie w Zhongzheng: Railway Museum + Huashan | [aug-21-busan-to-taipei.md](days/aug-21-busan-to-taipei.md) |
+| 12 | 22 sie (sob) | Taipei Dzień 1: stare Taipei + dziwne lody + Ximending + Xiahai + TFAM za darmo + Ningxia | [aug-22-taipei-day1.md](days/aug-22-taipei-day1.md) |
+| 13 | 23 sie (niedz) | Taipei Dzień 2 — PÓŁNOC: muzea w Beitou + Thermal Valley + Guandu + **Tamsui** (Fort San Domingo, Fisherman's Wharf) | [aug-23-taipei-day2.md](days/aug-23-taipei-day2.md) |
 | 14 | 24 sie (pon) | Północno-wschodnie wybrzeże: Yehliu + Shifen (lampiony!) + kopalnia w Jinguashi + Jiufen o zmierzchu | [aug-24-northeast-coast.md](days/aug-24-northeast-coast.md) |
-| 15 | 25 sie (wt) | Taipei Dzień 3: dzień nauki dla dzieci + Shilin Night Market | [aug-25-taipei-day3.md](days/aug-25-taipei-day3.md) |
-| 16 | 26 sie (śr) | HSR do Taichung (muzeum przyrodnicze, teatr Toyo Ito, Miyahara) → Tainan (Anping) | [aug-26-taichung-tainan.md](days/aug-26-taichung-tainan.md) |
-| 17 | 27 sie (czw) | Tainan przed południem (kulinarny obchód + świątynie) → Kaohsiung (Pier-2, Cijin Island) | [aug-27-tainan-kaohsiung.md](days/aug-27-tainan-kaohsiung.md) |
-| 18 | 28 sie (pt) | Kaohsiung przed południem (Lotus Pond + KMFA) → HSR do Taipei → Maokong Gondola | [aug-28-kaohsiung-taipei.md](days/aug-28-kaohsiung-taipei.md) |
-| 19 | 29 sie (sob) | Ostatni dzień w Taipei (MoCA, Huashan, Railway Museum) → lot do domu (odlot 19:25) | [aug-29-fly-home.md](days/aug-29-fly-home.md) |
+| 15 | 25 sie (wt) | Taipei Dzień 3 — SHILIN: **NPM** + Shung Ye + centrum nauki + planetarium + Shilin Night Market | [aug-25-taipei-day3.md](days/aug-25-taipei-day3.md) |
+| 16 | 26 sie (śr) | Taipei Dzień 4: Maokong Gondola + Zhinan Temple + **Taipei Zoo** → wieczór Xinyi (Elephant Mtn, Raohe) | [aug-26-maokong-xinyi.md](days/aug-26-maokong-xinyi.md) |
+| 17 | 27 sie (czw) | ⚠️ **4 WARIANTY** — wymeldowanie z Tajpej + Chia Te → Taichung / Tainan / Hualien | [aug-27-departure-south.md](days/aug-27-departure-south.md) |
+| 18 | 28 sie (pt) | ⚠️ **4 WARIANTY** — drugi dzień na południu: Tainan / Kaohsiung / Nantou / Taroko | [aug-28-south-day2.md](days/aug-28-south-day2.md) |
+| 19 | 29 sie (sob) | Powrót z południa (wysiadka **Taoyuan HSR**, nie Tajpej) → lot do domu (odlot 19:25) | [aug-29-return-fly-home.md](days/aug-29-return-fly-home.md) |
 
 ---
 
@@ -127,12 +130,12 @@ Tajwan: 21-29 sie (8 nocy, Taipei + Taichung + Tainan + Kaohsiung)
 ### Tajwan
 | Dzień | Co ZAMKNIĘTE |
 |-----|---------------|
-| **Poniedziałek** | National Palace Museum, Maokong Gondola, Beitou Hot Spring Museum, Tainan Art Museum, National Taichung Theater, Taipei Children's Amusement Park (w wakacje otwarty w pon.) |
+| **Poniedziałek** | National Palace Museum, Maokong Gondola, Beitou Hot Spring Museum, Tainan Art Museum, National Taichung Theater, Taipei Children's Amusement Park (w wakacje otwarty w pon.), Ketagalan Culture Center, Beitou Museum, Fort San Domingo, MOCA Taipei, Miniatures Museum, National Railway Museum, Taiwan Design Museum, Chung Tai World Museum — ✅ **po przeplanowaniu żaden z nich nie wypada w pon.:** NPM → wt. 25 sie, Maokong → śr. 26 sie, muzea w Beitou i Fort San Domingo → niedz. 23 sie, Railway Museum/MOCA → pt. 21 sie. Jedyny poniedziałek (24 sie) jest w całości plenerowy. |
 | **Wtorek** | Fo Guang Shan Buddha Museum |
-| **Poniedziałek + środa** | Ruifeng Night Market (Kaohsiung) — ✅ nasz wieczór w Kaohsiung to teraz **czw. 27 sie**, więc Ruifeng jest dostępny |
+| **Poniedziałek + środa** | Ruifeng Night Market (Kaohsiung) — ✅ Kaohsiung wchodzi tylko w **wariancie B**, a tam wieczór wypada w **pt. 28 sie** → Ruifeng dostępny |
 | **1. pon. miesiąca** | Gold Museum (Jinguashi) — ✅ jedziemy tam **pon. 24 sie**, czyli 4. poniedziałek → otwarte (ale w dzień powszedni tylko do 17:00) |
-| **Rotacja nocnych targów w Tainan** | „大大武花大武花": pon./wt./pt. = **Dadong**, śr./sob. = **Wusheng**, czw./niedz. = **Garden**. ⚠️ Nasz wieczór w Tainan to **śr. 26 sie** → **Dadong ZAMKNIĘTY**, idziemy na **Wusheng** |
-| **Czw.–niedz. tylko** | Six Thousand Beef Soup (Tainan) — ✅ nasz poranek w Tainan to **czw. 27 sie** → otwarte |
+| **Rotacja nocnych targów w Tainan** | „大大武花大武花": pon./wt./pt. = **Dadong**, śr./sob. = **Wusheng**, czw./niedz. = **Garden**. ⚠️ **Zależy od wariantu:** wieczór w Tainanie to **czw. 27 sie → Garden** (wariant B) albo **pt. 28 sie → Dadong** (wariant A). Wusheng (śr./sob.) nie wypada w żadnym wariancie |
+| **Czw.–niedz. tylko** | Six Thousand Beef Soup (Tainan) — ✅ **wszystkie możliwe poranki w Tainanie mieszczą się w okienku:** czw. 27, pt. 28 i sob. 29 sie → otwarte w każdym wariancie |
 
 ---
 

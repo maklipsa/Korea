@@ -20,7 +20,7 @@ Istnieją dzienne passy na Taichung MRT oraz passy „Taichung MRT" na Klooku, a
 | Atrakcja | Cena w kasie (dorosły) | Cena w kasie (dziecko) | Karta obejmuje? | Nasz dzień |
 |------------|--------------|--------------|--------------|---------|
 | **National Museum of Natural Science** | ~100 (+20 szklarnia / centrum nauki) | ulgowo, ~70 (+20) | ❌ nie | **26 sie, rano** |
-| ~~Rainbow Village~~ | BEZPŁATNIE | BEZPŁATNIE | n/d | ❌ skreślone — patrz `days/aug-26-taichung-tainan.md` |
+| ~~Rainbow Village~~ | BEZPŁATNIE | BEZPŁATNIE | n/d | ❌ skreślone — patrz `days/aug-27-departure-south.md` |
 | Miyahara Ice Cream (sklep) | wstęp wolny | BEZPŁATNIE | n/d | 26 sie, rano |
 | National Taichung Theater | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie, rano |
 | Taichung Second Market (jedzenie) | BEZPŁATNIE | BEZPŁATNIE | n/d | 26 sie, rano |
