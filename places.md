@@ -8,7 +8,7 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 
 **Typ miejsca:** 🍜 jedzenie i restauracje · ☕ kawiarnie, deserty i piekarnie · 🏯 pałace, świątynie i zabytki · 🏛️ muzea i galerie · 🌳 parki, ogrody i przyroda · 🛍️ zakupy, targi i centra handlowe · 🏮 nocne targi · 🎡 parki rozrywki · 🚶 spacery i stare uliczki · 🗼 punkty widokowe, tarasy i wieże · 📸 zabytki i miejsca na zdjęcia · 🎨 warsztaty i doświadczenia kulturalne
 
-**Znacznik osobisty:** 🐞 **życzenie Jadzi** — miejsce, które Jadzia sama wskazała jako ważne dla siebie („Zależy mi” / „JA BARDZO BARDZO CHCĘ”). ⚠️ **Przy przekładaniu planu tych miejsc nie wyrzucamy** — jeśli dzień pęka, cięcia szukamy wśród punktów bez 🐞; przeniesienie na inny dzień jest OK, usunięcie nie.
+**Znaczniki osobiste (życzenia dzieci):** 🐞 **życzenie Jadzi** · 🏗️ **wybór Olafa** — miejsca, które dziecko samo wskazało jako ważne dla siebie (odpowiedzi na `brief.txt`: „Zależy mi” / „JA BARDZO BARDZO CHCĘ” u Jadzi, lista wysłana przez Olafa). Idą **na końcu grupy emoji**, w kolejności 🐞 → 🏗️; jedno miejsce może mieć oba. ⚠️ **Przy przekładaniu planu tych miejsc nie wyrzucamy** — jeśli dzień pęka, cięcia szukamy wśród punktów bez 🐞/🏗️; przeniesienie na inny dzień jest OK, usunięcie nie.
 
 **Dodatkowe znaczniki:** 🧒 hit u dzieci · 🐾 zwierzęta (zoo, akwarium, kawiarnia ze zwierzętami) · ♨️ gorące źródła i spa · 🚡 widokowe przejazdy (kolejka linowa, gondola, prom) · 🍺 nocne życie i bary
 
@@ -1266,14 +1266,14 @@ Stare Taipei — najstarsza świątynia, historyczne kwartały, dziwaczne lody, 
 - ★★★☆☆ 🚶 Strefa piesza Ximending — Centrum kultury młodzieżowej; artyści uliczni, graffiti, całodobowe Don Don Donki
 
 #### Desery i lody (DZIWNE RZECZY!)
-- [★★★☆☆ ☕🤪 Snow King Ice Cream](https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei) — Od 1947 r.; smaki: SUSZONA WATA MIĘSNA, golonka, kurczak w oleju sezamowym, wasabi, curry, piwo, papryczka chili, fasola; dzieci będą oszalałe z zachwytu 📅 **Dzień 12 (22 sie)**
+- [★★★☆☆ ☕🤪🏗️ Snow King Ice Cream](https://www.google.com/maps/search/Snow+King+Ice+Cream+Taipei) — Od 1947 r.; smaki: SUSZONA WATA MIĘSNA, golonka, kurczak w oleju sezamowym, wasabi, curry, piwo, papryczka chili, fasola; dzieci będą oszalałe z zachwytu 📅 **Dzień 12 (22 sie)**
 - ★★☆☆☆ ☕ Star Fruit Ice (Chengdu Yangto Bing) w Ximending — Kruszony lód z karamboli posypany orzechowym cukierkiem i kolendrą
 
 #### Nocny targ
 - [★★★☆☆ 🏮 Huaxi Street Night Market (Snake Alley)](https://www.google.com/maps/search/Huaxi+Street+Night+Market+Taipei) — Najstarszy nocny targ; zupy na ziołach, potrawy z węgorza; klimatyczny, mniej zatłoczony 📅 **Dzień 12 (22 sie)**
 
 #### Restauracje tematyczne
-- [★★★☆☆ 🍜🤪🧒 Modern Toilet Restaurant](https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei) — Siedzi się na deskach sedesowych; jedzenie w muszlach klozetowych; czekoladowe lody „kupka"; dzieci będą się bawić bez końca 📅 **Dzień 12 (22 sie)**
+- [★★★☆☆ 🍜🤪🧒🏗️ Modern Toilet Restaurant](https://www.google.com/maps/search/Modern+Toilet+Restaurant+Ximending+Taipei) — Siedzi się na deskach sedesowych; jedzenie w muszlach klozetowych; czekoladowe lody „kupka"; dzieci będą się bawić bez końca 📅 **Dzień 12 (22 sie)**
 
 ---
 
@@ -1290,7 +1290,7 @@ Najstarsze ulice Taipei, najlepszy lokalny nocny targ, zakupy w second-handach.
 - [★★★☆☆ 🚶🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei) — Bary w kontenerach, street food, widoki na zachód słońca 📅 **Dzień 12 (22 sie)**
 - [★★☆☆☆ 🛍️ Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei) — Second-handy, oryginalne kawiarnie, niezależne akcesoria 📅 *blisko: Dzień 12 (22 sie)*
 - [★★☆☆☆ 🛍️ Zhongshan Underground Book Street (Eslite R79)](https://www.google.com/maps/search/Eslite+R79+Taipei) — Podziemna galeria z księgarniami, winylami, papeterią i pamiątkami 📅 *blisko: Dzień 12 (22 sie)*
-- [★★★☆☆ 🎡🗼 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — Diabelski młyn o wysokości 95 m; świetne widoki na zachód słońca 📅 *blisko: Dzień 15 (25 sie)*
+- [★★★☆☆ 🎡🗼🏗️ Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — Diabelski młyn o wysokości 95 m; świetne widoki na zachód słońca 📅 *blisko: Dzień 15 (25 sie)*
 
 #### Kawiarnie
 - [★★☆☆☆ ☕ ABCD (A Better Coffee & Doughnuts)](https://www.google.com/maps/search/ABCD+cafe+Taipei) — Wejście w kształcie wielkiego pączka; kreatywne pączki 📅 *blisko: Dzień 12 (22 sie)*
@@ -1310,7 +1310,7 @@ Najstarsze ulice Taipei, najlepszy lokalny nocny targ, zakupy w second-handach.
 Nowoczesne Taipei, ikoniczna wieża, najlepsza ulica jedzenia w Azji, nocne targi.
 
 #### Zabytki
-- [★★★☆☆ 🗼📸 Taipei 101](https://www.google.com/maps/search/Taipei+101) — Taras widokowy na 88-89. piętrze; odkryty taras na 91. piętrze (NT$600 dorosły / NT$540 dziecko ≥115 cm). ⏭️ **Na taras nie wchodzimy** — ta sama decyzja i ten sam powód co przy N Seoul Tower (2/6: „widok jest lepszy spod wieży"), wzmocniona tym, że **z tarasu 101 nie widać 101**, a ikoniczny kadr jest za darmo z Elephant Mountain tego samego popołudnia. Zeszło z ★★★★★ na ★★★☆☆ — dokładnie tak, jak N Seoul Tower po werdykcie. Sam budynek i galeria u jego stóp zostają w planie 📅 *blisko: Dzień 16 (26 sie)*
+- [★★★☆☆ 🗼📸🏗️ Taipei 101](https://www.google.com/maps/search/Taipei+101) — Taras widokowy na 88-89. piętrze; odkryty taras na 91. piętrze (NT$600 dorosły / NT$540 dziecko ≥115 cm). ⚠️ **KONFLIKT — Olaf poprosił wprost o taras (🏗️), a plan go skreślił.** Znacznik 🏗️ zostaje, bo to jego wybór, ale decyzji ⏭️ nie odwracamy sami — to do ustalenia w rodzinie. ⏭️ **Na taras nie wchodzimy** — ta sama decyzja i ten sam powód co przy N Seoul Tower (2/6: „widok jest lepszy spod wieży"), wzmocniona tym, że **z tarasu 101 nie widać 101**, a ikoniczny kadr jest za darmo z Elephant Mountain tego samego popołudnia. Zeszło z ★★★★★ na ★★★☆☆ — dokładnie tak, jak N Seoul Tower po werdykcie. Sam budynek i galeria u jego stóp zostają w planie 📅 *blisko: Dzień 16 (26 sie)*
 - [★★★☆☆ 🎨🛍️ Songshan Cultural and Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei) — Dawna fabryka tytoniu; galerie pop-up, butiki 📅 **Dzień 16 (26 sie)**
 - [★★☆☆☆ 🚶🛍️ 44 South Military Village (Si Si Nan Cun)](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Retro osiedle; kawiarnie, rękodzieło, wystawy 📅 *blisko: Dzień 16 (26 sie)*
 - [★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Okazała, barwna świątynia Mazu przy Raohe Night Market 📅 **Dzień 16 (26 sie)**
@@ -1346,8 +1346,8 @@ Najlepszy dzień dla dzieci w Taipei — nauka, kosmos, karuzele, a potem nocny 
 
 #### Muzea (dla dzieci)
 - [★★★★★ 🏛️ National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei) — Największa kolekcja sztuki chińskiej na świecie; galeria dla dzieci; wstęp wolny do 17 lat; otwarte wt.-niedz. 9:00-17:00 (zamknięte w pon.) 📅 **Dzień 15 (25 sie)**
-- [★★★★☆ 🏛️🧒🐞 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei) — Interaktywne wystawy; świetne dla 9-latków 📅 **Dzień 15 (25 sie)**
-- [★★★☆☆ 🏛️🧒 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum) — Planetarium, IMAX, wystawy o kosmosie; obok Science Center 📅 **Dzień 15 (25 sie)**
+- [★★★★☆ 🏛️🧒🐞🏗️ National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei) — Interaktywne wystawy; świetne dla 9-latków 📅 **Dzień 15 (25 sie)**
+- [★★★☆☆ 🏛️🧒🏗️ Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum) — Planetarium, IMAX, wystawy o kosmosie; obok Science Center 📅 **Dzień 15 (25 sie)**
 
 #### Dla dzieci
 - [★★★☆☆ 🎡🧒 Taipei Children's Amusement Park](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park) — Wieża swobodnego spadania, rollercoaster, statek piracki, samochodziki; wstęp NT$30; atrakcje NT$20-100; otwarte 9:00-17:00 (w sob. do 20:00); zamknięte w pon. 📅 *blisko: Dzień 15 (25 sie)*
@@ -1368,9 +1368,9 @@ Naturalne gorące źródła rano, plantacje herbaty i gondola po południu.
 - [★★☆☆☆ 🌳♨️ Beitou Park](https://www.google.com/maps/search/Beitou+Park+Taipei) — Centrum edukacyjne o gorących źródłach, strefa zabaw w gorącej wodzie dla dzieci 📅 *blisko: Dzień 13 (23 sie)*
 
 #### Maokong
-- [★★★★☆ 🚡🧒 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei) — 30-minutowa przejażdżka nad plantacjami herbaty i dolinami; dostępna kabina ze szklaną podłogą (NT$50 dopłaty); dzieci to uwielbiają; NT$180 za przejazd lub NT$300 za pass na dzień 📅 **Dzień 16 (26 sie)**
+- [★★★★☆ 🚡🧒🏗️ Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei) — 30-minutowa przejażdżka nad plantacjami herbaty i dolinami; dostępna kabina ze szklaną podłogą (NT$50 dopłaty); dzieci to uwielbiają; NT$180 za przejazd lub NT$300 za pass na dzień 📅 **Dzień 16 (26 sie)**
 - 🍵 Herbaciarnie na szczycie — Mountain Tea House, Found Your Tea, The Big Tea Pot
-- ★★★☆☆ Połącz z [🐾🧒 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) przy dolnej stacji gondoli — Jedno z największych w Azji 📅 **Dzień 16 (26 sie)**
+- ★★★☆☆ Połącz z [🐾🧒🏗️ Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) przy dolnej stacji gondoli — Jedno z największych w Azji 📅 **Dzień 16 (26 sie)**
 
 ---
 
@@ -1380,8 +1380,8 @@ Naturalne gorące źródła rano, plantacje herbaty i gondola po południu.
 - [★★★☆☆ 🎨🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei) — Opuszczona osada zamieniona w kolonię artystów; warsztaty robotów, neonowe instalacje, rzeźby na wolnym powietrzu 📅 *blisko: Dzień 17 (27 sie)*
 - [★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) — Dawne miasteczko górnicze; setki przyjaznych kotów; mostki w kształcie kotów; łatwy dojazd pociągiem z Taipei 📅 **Dzień 14 (24 sie)**
 - ★★★☆☆ 📸🧒 Airport Alley (lotnisko Songshan) — Samoloty lądują kilka metrów od ciebie; bezpłatnie, dla dzieci wielkie przeżycie
-- [★★★☆☆ 🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) — Największy na Tajwanie; gadżety dostępne tylko tutaj 📅 **Dzień 16 (26 sie)**
-- [★★★☆☆ 🎁🧒🐞 Donguri Republic (Studio Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Najwyższe piętro Shin Kong Mitsukoshi A8; wielki kotobus Totoro, do którego dzieci mogą wejść 📅 **Dzień 16 (26 sie)**
+- [★★★☆☆ 🎁🧒🏗️ Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) — Największy na Tajwanie; gadżety dostępne tylko tutaj 📅 **Dzień 16 (26 sie)**
+- [★★★☆☆ 🎁🧒🐞🏗️ Donguri Republic (Studio Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Najwyższe piętro Shin Kong Mitsukoshi A8; wielki kotobus Totoro, do którego dzieci mogą wejść 📅 **Dzień 16 (26 sie)**
 - [★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum of Cake and Pastry](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei) — 2-godzinne warsztaty pieczenia ciastek ananasowych; ikoniczne tajwańskie ciastka ananasowe robione od podstaw
 
 #### Kawiarnie tematyczne
@@ -1431,7 +1431,7 @@ Pogrupowane według kategorii; część układa się blisko istniejących planó
 - [★★★★☆ 📸🏛️ National Dr. Sun Yat-sen Memorial Hall](https://www.google.com/maps/search/National+Dr+Sun+Yat-sen+Memorial+Hall+Taipei) — Ogromny plac i gmach ze zmianą warty co godzinę (dzieci uwielbiają tupanie i kręcenie karabinami); bezpłatne sale wystawowe; staw z lotosami i jedno z najlepszych miejsc na zdjęcie Taipei 101 z dołu. Bezpłatnie.
 - [★★★★☆ 🎭📸 Taipei Performing Arts Center](https://www.google.com/maps/search/Taipei+Performing+Arts+Center+Taipei) — Surrealistyczny szklany sześcian OMA/Rema Koolhaasa zespolony z kulistą i klinową salą teatralną, dokładnie przy placu Shilin Night Market; bezpłatna publiczna trasa „Loop" pozwala zajrzeć do sal bez biletu.
 - [★★★★☆ 🚶🗼📸 Tamsui Old Street & Fisherman's Wharf](https://www.google.com/maps/search/Tamsui+Fishermans+Wharf) — Nadrzeczna stara ulica (A-gei, kulki rybne) prowadząca do „Lover's Bridge" i jednego z klasycznych tajwańskich miejsc na zachód słońca. Spacer bezpłatny; najlepiej późnym popołudniem i wieczorem; MRT plus autobus lub prom. 📅 **Dzień 13 (23 sie)**
-- [★★★☆☆ 📸🌳🐞 Beitou Public Library](https://www.google.com/maps/search/Taipei+Public+Library+Beitou+Branch) — Pierwsza „zielona" biblioteka na Tajwanie (dach z panelami słonecznymi, zbieranie deszczówki, opasający budynek drewniany taras nad stawem); bezpłatnie, 5–10 min pieszo od Beitou Hot Spring Museum. 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ 📸🌳🐞🏗️ Beitou Public Library](https://www.google.com/maps/search/Taipei+Public+Library+Beitou+Branch) — Pierwsza „zielona" biblioteka na Tajwanie (dach z panelami słonecznymi, zbieranie deszczówki, opasający budynek drewniany taras nad stawem); bezpłatnie, 5–10 min pieszo od Beitou Hot Spring Museum. 📅 **Dzień 13 (23 sie)**
 - [★★★☆☆ 🏯🗼 Zhinan Temple](https://www.google.com/maps/search/Zhinan+Temple+Taipei) — Okazała taoistyczna świątynia na zboczu z panoramą Taipei — to jedna ze stacji Maokong Gondola, więc dodatek niemal bez kosztu przy wizycie w Maokong. Bezpłatnie. 📅 **Dzień 16 (26 sie)**
 
 #### E. Przyroda i parki
@@ -1571,7 +1571,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 
 ### Shifen
 - [★★★☆☆ 🚶📸 Shifen Old Street](https://www.google.com/maps/search/Shifen+Old+Street+Taiwan) — Tory kolejowe biegną środkiem targowej ulicy; pociągi przejeżdżają centymetry od stoisk ⬇️ **Obniżone o oczko po kalibracji z 19 sie** (Gamcheon 4/6 — piąty z rzędu punkt „sławny + tłoczny + fotogeniczny", który nie przebił 4/6, i to mimo że bezpłatny). Cała kategoria „miejsc do popatrzenia" idzie u nas domyślnie na ★★★☆☆: ~1 h zamiast 2–3, najlepiej o świcie albo o zmierzchu. 📅 **Dzień 14 (24 sie)**
-- ★★★★★ 🎨🧒 Wypuszczanie lampionów — Napisz życzenia na lampionie i wypuść go w niebo; magia dla dzieci
+- ★★★★★ 🎨🧒🏗️ Wypuszczanie lampionów — Napisz życzenia na lampionie i wypuść go w niebo; magia dla dzieci
 - [★★★☆☆ 🌊 Shifen Waterfall](https://www.google.com/maps/search/Shifen+Waterfall+Taiwan) — Najszerszy na Tajwanie; „mała Niagara"; krótki spacer od starej ulicy 📅 **Dzień 14 (24 sie)**
 
 ### Jiufen

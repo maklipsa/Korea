@@ -276,8 +276,9 @@ const LEGEND_GROUPS = [
     ['\ud83d\udcf8', 'Zabytki i miejsca na zdj\u0119cia'],
     ['\ud83c\udfa8', 'Warsztaty i do\u015bwiadczenia kulturalne'],
   ]},
-  { title: 'Znacznik osobisty', items: [
-    ['\ud83d\udc1e', '\u017byczenie Jadzi \u2014 nie wyrzucamy przy przek\u0142adaniu planu'],
+  { title: 'Znaczniki osobiste (nie wyrzucamy przy przek\u0142adaniu planu)', items: [
+    ['\ud83d\udc1e', '\u017byczenie Jadzi'],
+    ['\ud83c\udfd7\ufe0f', 'Wyb\u00f3r Olafa'],
   ]},
   { title: 'Dodatkowe tagi (dok\u0142adane do typu)', items: [
     ['\ud83e\uddd2', 'Hit u dzieci'],
