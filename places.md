@@ -8,6 +8,8 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 
 **Typ miejsca:** 🍜 jedzenie i restauracje · ☕ kawiarnie, deserty i piekarnie · 🏯 pałace, świątynie i zabytki · 🏛️ muzea i galerie · 🌳 parki, ogrody i przyroda · 🛍️ zakupy, targi i centra handlowe · 🏮 nocne targi · 🎡 parki rozrywki · 🚶 spacery i stare uliczki · 🗼 punkty widokowe, tarasy i wieże · 📸 zabytki i miejsca na zdjęcia · 🎨 warsztaty i doświadczenia kulturalne
 
+**Znacznik osobisty:** 🐞 **życzenie Jadzi** — miejsce, które Jadzia sama wskazała jako ważne dla siebie („Zależy mi” / „JA BARDZO BARDZO CHCĘ”). ⚠️ **Przy przekładaniu planu tych miejsc nie wyrzucamy** — jeśli dzień pęka, cięcia szukamy wśród punktów bez 🐞; przeniesienie na inny dzień jest OK, usunięcie nie.
+
 **Dodatkowe znaczniki:** 🧒 hit u dzieci · 🐾 zwierzęta (zoo, akwarium, kawiarnia ze zwierzętami) · ♨️ gorące źródła i spa · 🚡 widokowe przejazdy (kolejka linowa, gondola, prom) · 🍺 nocne życie i bary
 
 **Znaczniki szczegółowe:** 🍵 tradycyjna herbaciarnia · 🧋 bubble tea · 🌊 wodospady i cuda natury · ⛪ kościoły · 🎭 sceny i teatry · 🤪 dziwaczne / nietypowe miejsca · 🎁 sklepy z postaciami i gadżetami fanowskimi · 🤳 immersyjne / projekcyjne light show lub instagramowe atrakcje fotograficzne (niski priorytet — to nie prawdziwe muzeum ani galeria)
@@ -1344,7 +1346,7 @@ Najlepszy dzień dla dzieci w Taipei — nauka, kosmos, karuzele, a potem nocny 
 
 #### Muzea (dla dzieci)
 - [★★★★★ 🏛️ National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei) — Największa kolekcja sztuki chińskiej na świecie; galeria dla dzieci; wstęp wolny do 17 lat; otwarte wt.-niedz. 9:00-17:00 (zamknięte w pon.) 📅 **Dzień 15 (25 sie)**
-- [★★★★☆ 🏛️🧒 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei) — Interaktywne wystawy; świetne dla 9-latków 📅 **Dzień 15 (25 sie)**
+- [★★★★☆ 🏛️🧒🐞 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei) — Interaktywne wystawy; świetne dla 9-latków 📅 **Dzień 15 (25 sie)**
 - [★★★☆☆ 🏛️🧒 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum) — Planetarium, IMAX, wystawy o kosmosie; obok Science Center 📅 **Dzień 15 (25 sie)**
 
 #### Dla dzieci
@@ -1361,8 +1363,8 @@ Naturalne gorące źródła rano, plantacje herbaty i gondola po południu.
 
 #### Beitou
 - [★★★☆☆ 🏛️♨️ Beitou Hot Spring Museum](https://www.google.com/maps/search/Beitou+Hot+Spring+Museum+Taipei) — Odrestaurowana japońska łaźnia z 1913 r.; BEZPŁATNIE 📅 **Dzień 13 (23 sie)**
-- [★★★★☆ 🌊♨️ Thermal Valley (Hell Valley)](https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei) — Parujące, intensywnie zielone jezioro siarkowe (80-100°C); BEZPŁATNIE; nie z tego świata 📅 **Dzień 13 (23 sie)**
-- [★★★☆☆ ♨️🧒 Spring City Resort](https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei) — Najlepsze publiczne gorące źródła dla dzieci; kilka basenów, przyjazne rodzinom 📅 **Dzień 13 (23 sie)**
+- [★★★★☆ 🌊♨️🐞 Thermal Valley (Hell Valley)](https://www.google.com/maps/search/Thermal+Valley+Beitou+Taipei) — Parujące, intensywnie zielone jezioro siarkowe (80-100°C); BEZPŁATNIE; nie z tego świata 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ ♨️🧒🐞 Spring City Resort](https://www.google.com/maps/search/Spring+City+Resort+Beitou+Taipei) — Najlepsze publiczne gorące źródła dla dzieci; kilka basenów, przyjazne rodzinom 📅 **Dzień 13 (23 sie)**
 - [★★☆☆☆ 🌳♨️ Beitou Park](https://www.google.com/maps/search/Beitou+Park+Taipei) — Centrum edukacyjne o gorących źródłach, strefa zabaw w gorącej wodzie dla dzieci 📅 *blisko: Dzień 13 (23 sie)*
 
 #### Maokong
@@ -1379,7 +1381,7 @@ Naturalne gorące źródła rano, plantacje herbaty i gondola po południu.
 - [★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) — Dawne miasteczko górnicze; setki przyjaznych kotów; mostki w kształcie kotów; łatwy dojazd pociągiem z Taipei 📅 **Dzień 14 (24 sie)**
 - ★★★☆☆ 📸🧒 Airport Alley (lotnisko Songshan) — Samoloty lądują kilka metrów od ciebie; bezpłatnie, dla dzieci wielkie przeżycie
 - [★★★☆☆ 🎁🧒 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) — Największy na Tajwanie; gadżety dostępne tylko tutaj 📅 **Dzień 16 (26 sie)**
-- [★★★☆☆ 🎁🧒 Donguri Republic (Studio Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Najwyższe piętro Shin Kong Mitsukoshi A8; wielki kotobus Totoro, do którego dzieci mogą wejść 📅 **Dzień 16 (26 sie)**
+- [★★★☆☆ 🎁🧒🐞 Donguri Republic (Studio Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Najwyższe piętro Shin Kong Mitsukoshi A8; wielki kotobus Totoro, do którego dzieci mogą wejść 📅 **Dzień 16 (26 sie)**
 - [★★★☆☆ 🎨🧒 Kuo Yuan Ye Museum of Cake and Pastry](https://www.google.com/maps/search/Kuo+Yuan+Ye+Museum+Cake+Taipei) — 2-godzinne warsztaty pieczenia ciastek ananasowych; ikoniczne tajwańskie ciastka ananasowe robione od podstaw
 
 #### Kawiarnie tematyczne
@@ -1429,7 +1431,7 @@ Pogrupowane według kategorii; część układa się blisko istniejących planó
 - [★★★★☆ 📸🏛️ National Dr. Sun Yat-sen Memorial Hall](https://www.google.com/maps/search/National+Dr+Sun+Yat-sen+Memorial+Hall+Taipei) — Ogromny plac i gmach ze zmianą warty co godzinę (dzieci uwielbiają tupanie i kręcenie karabinami); bezpłatne sale wystawowe; staw z lotosami i jedno z najlepszych miejsc na zdjęcie Taipei 101 z dołu. Bezpłatnie.
 - [★★★★☆ 🎭📸 Taipei Performing Arts Center](https://www.google.com/maps/search/Taipei+Performing+Arts+Center+Taipei) — Surrealistyczny szklany sześcian OMA/Rema Koolhaasa zespolony z kulistą i klinową salą teatralną, dokładnie przy placu Shilin Night Market; bezpłatna publiczna trasa „Loop" pozwala zajrzeć do sal bez biletu.
 - [★★★★☆ 🚶🗼📸 Tamsui Old Street & Fisherman's Wharf](https://www.google.com/maps/search/Tamsui+Fishermans+Wharf) — Nadrzeczna stara ulica (A-gei, kulki rybne) prowadząca do „Lover's Bridge" i jednego z klasycznych tajwańskich miejsc na zachód słońca. Spacer bezpłatny; najlepiej późnym popołudniem i wieczorem; MRT plus autobus lub prom. 📅 **Dzień 13 (23 sie)**
-- [★★★☆☆ 📸🌳 Beitou Public Library](https://www.google.com/maps/search/Taipei+Public+Library+Beitou+Branch) — Pierwsza „zielona" biblioteka na Tajwanie (dach z panelami słonecznymi, zbieranie deszczówki, opasający budynek drewniany taras nad stawem); bezpłatnie, 5–10 min pieszo od Beitou Hot Spring Museum. 📅 **Dzień 13 (23 sie)**
+- [★★★☆☆ 📸🌳🐞 Beitou Public Library](https://www.google.com/maps/search/Taipei+Public+Library+Beitou+Branch) — Pierwsza „zielona" biblioteka na Tajwanie (dach z panelami słonecznymi, zbieranie deszczówki, opasający budynek drewniany taras nad stawem); bezpłatnie, 5–10 min pieszo od Beitou Hot Spring Museum. 📅 **Dzień 13 (23 sie)**
 - [★★★☆☆ 🏯🗼 Zhinan Temple](https://www.google.com/maps/search/Zhinan+Temple+Taipei) — Okazała taoistyczna świątynia na zboczu z panoramą Taipei — to jedna ze stacji Maokong Gondola, więc dodatek niemal bez kosztu przy wizycie w Maokong. Bezpłatnie. 📅 **Dzień 16 (26 sie)**
 
 #### E. Przyroda i parki
@@ -1556,7 +1558,7 @@ Drugie, bardziej niszowe przeszukanie — świątynie bez dymu kadzidła, sala z
 Luki wychwycone przy przeglądzie Lonely Planet wobec (już gęstego) katalogu — w większości drobne dodatki; Design Museum to jedyne poważne przeoczenie.
 
 #### Muzea
-- [★★★★☆ 🏛️🎨 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei) — Narodowe muzeum designu Tajwanu (TDRI) w Songshan Cultural & Creative Park; współczesne wystawy designu tajwańskiego i światowego — wysoko na osi nowoczesność/design. Wt.–niedz. 10:00–18:00 (ostatni bilet 17:30), zamknięte w pon.; NT$50 (sprawdź progi dla dzieci i młodzieży). Łączy się z Songshan Park / Not Just Library. 📅 **Dzień 16 (26 sie)**
+- [★★★★☆ 🏛️🎨🐞 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei) — Narodowe muzeum designu Tajwanu (TDRI) w Songshan Cultural & Creative Park; współczesne wystawy designu tajwańskiego i światowego — wysoko na osi nowoczesność/design. Wt.–niedz. 10:00–18:00 (ostatni bilet 17:30), zamknięte w pon.; NT$50 (sprawdź progi dla dzieci i młodzieży). Łączy się z Songshan Park / Not Just Library. 📅 **Dzień 16 (26 sie)**
 - [★★★☆☆ 🏛️ Discovery Center of Taipei](https://www.google.com/maps/search/Discovery+Center+of+Taipei) — Bezpłatne muzeum historii miasta na kondygnacjach 1–4 ratusza Taipei: makiety pokazujące Taipei od miasta w murach do metropolii + film historyczny 360°. Wt.–niedz. 9:00–17:00, zamknięte w pon. i święta; BEZPŁATNIE. Kilka minut od Taipei 101 / Sun Yat-sen Memorial Hall. ⏭️ **Nie interesuje nas** — muzeum historii miasta, czyli kategoria dwukrotnie sprawdzona i dwukrotnie odrzucona (14 i 16 sie). Nie proponować ponownie.
 - [★★★☆☆ 🏛️🚶 Museum 207](https://www.google.com/maps/search/Museum+207+Dihua+Street+Taipei) — Malutkie, bezpłatne muzeum w kamienicy przy Dihua St 207 (dawny sklep z medycyną chińską z 1962); rotacyjne wystawy o tajwańskiej kulturze materialnej + dach z widokiem na tradycyjne dachy Minnan. Wpisuje się w spacer po Dihua St. ~10:00–17:00, zamknięte we **wtorek** (nie w pon.); wstęp wolny. 📅 *blisko: Dzień 12 (22 sie)*
 
@@ -1573,7 +1575,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 - [★★★☆☆ 🌊 Shifen Waterfall](https://www.google.com/maps/search/Shifen+Waterfall+Taiwan) — Najszerszy na Tajwanie; „mała Niagara"; krótki spacer od starej ulicy 📅 **Dzień 14 (24 sie)**
 
 ### Jiufen
-- [★★★☆☆ 🚶📸 Jiufen Old Street](https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan) — Dawne górnicze miasteczko złota na szczycie góry; wąskie zaułki, czerwone lampiony, klimat rodem ze „Spirited Away". Zeszło z ★★★★★: to podręcznikowy sławny-tłoczny-fotogeniczny punkt, a jego najbliższy odpowiednik z Korei (Bukchon) dostał 3/6. Zostaje w planie, ale **o zmierzchu, po Jinguashi** — nie jako kotwica popołudnia ⬇️ **Obniżone o oczko po kalibracji z 19 sie** (Gamcheon 4/6 — piąty z rzędu punkt „sławny + tłoczny + fotogeniczny", który nie przebił 4/6, i to mimo że bezpłatny). Cała kategoria „miejsc do popatrzenia" idzie u nas domyślnie na ★★★☆☆: ~1 h zamiast 2–3, najlepiej o świcie albo o zmierzchu. 📅 **Dzień 14 (24 sie)**
+- [★★★☆☆ 🚶📸🐞 Jiufen Old Street](https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan) — Dawne górnicze miasteczko złota na szczycie góry; wąskie zaułki, czerwone lampiony, klimat rodem ze „Spirited Away". Zeszło z ★★★★★: to podręcznikowy sławny-tłoczny-fotogeniczny punkt, a jego najbliższy odpowiednik z Korei (Bukchon) dostał 3/6. Zostaje w planie, ale **o zmierzchu, po Jinguashi** — nie jako kotwica popołudnia ⬇️ **Obniżone o oczko po kalibracji z 19 sie** (Gamcheon 4/6 — piąty z rzędu punkt „sławny + tłoczny + fotogeniczny", który nie przebił 4/6, i to mimo że bezpłatny). Cała kategoria „miejsc do popatrzenia" idzie u nas domyślnie na ★★★☆☆: ~1 h zamiast 2–3, najlepiej o świcie albo o zmierzchu. 📅 **Dzień 14 (24 sie)**
 - [★★★★☆ 🍵📸 A-Mei Tea House](https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen) — Najbardziej ikoniczna herbaciarnia; 3 kondygnacje; rozległe widoki na zatokę Keelung; czerwone lampiony o zmierzchu 📅 **Dzień 14 (24 sie)**
 - ★★★☆☆ ☕ Lai Ah Po Taro Balls — Pierwotny sklep z kulkami taro
 - ★★☆☆☆ ☕ Ah Zhu Peanut Ice Cream Roll — Strugany cukier orzechowy, kolendra i lody w cienkim naleśniku; dziwne i pyszne
@@ -1584,7 +1586,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 - ★★★☆☆ 🌳 Szlak na Teapot Mountain — 2-3 godziny; widoki 360 stopni; do przejścia dla aktywnych 9-latków
 
 ### Yehliu
-- [★★★★☆ 🌊🧒 Yehliu Geopark](https://www.google.com/maps/search/Yehliu+Geopark+Taiwan) — Nieziemskie formacje skalne; Głowa Królowej; dzieci kochają ten kosmiczny krajobraz; 1-2 godziny 📅 **Dzień 14 (24 sie)**
+- [★★★★☆ 🌊🧒🐞 Yehliu Geopark](https://www.google.com/maps/search/Yehliu+Geopark+Taiwan) — Nieziemskie formacje skalne; Głowa Królowej; dzieci kochają ten kosmiczny krajobraz; 1-2 godziny 📅 **Dzień 14 (24 sie)**
 - [★★★★☆ 🏛️🎨🧒 Juming Museum (朱銘美術館)](https://www.google.com/maps/search/Juming+Museum+Jinshan) — Rozległy **park rzeźby nowoczesnej** rzeźbiarza Ju Minga na zboczu (seria Taichi, Living World) + galerie wewnętrzne w Jinshan, ~15 min od Yehliu. Maj–paź 10:00–18:00 (ostatnie wejście 17:00), zamknięte w pon.; dorosły NT$280, uczeń/student i senior NT$250, do 6 lat bezpłatnie (**North Coast Art Festival 17.07–27.09.2026 = NT$200 taniej**, obejmuje wasze daty). ⚠️ Łączy się z Yehliu, ale wymaga ~2–3 h — konkuruje o czas z osią Shifen/Jiufen.
 
 ### Inne
@@ -1632,7 +1634,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 - [★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan) — ~300-350 stoisk; pon., wt., pt. od 18:00 do 1:30; food truck Ancient Scallion Pancake (najpopularniejsze stoisko)
 
 ### Muzeum
-- [★★★★☆ 🏛️ Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum) 📅 **Dni 17, 18 (27, 28 sie)**
+- [★★★★☆ 🏛️🐞 Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum) 📅 **Dni 17, 18 (27, 28 sie)**
 - [★★★★☆ 📷🏛️ Fotoaura Institute of Photography (海馬迴光畫館)](https://www.google.com/maps/search/Fotoaura+Institute+of+Photography+Tainan) — Mała niezależna przestrzeń sztuki fotograficznej (od 2009), Chenggong Rd 83, 2. kondygnacja; prawdziwa galeria fotografii. Śr.–niedz. ~13:00–20:00 (⚠️ sprawdź — dane o godzinach są stare). ⚠️ Otwarcie o 13:00, a Tainan to tylko *poranny* przystanek 26 sie → raczej się nie zmieści; skatalogowane dla porządku.
 - [★★★★☆ 🎨📷 B.B.ART](https://www.google.com/maps/search/B.B.ART+Tainan) — Galeria sztuki współczesnej w dawnym domu towarowym z lat 30. przy Minquan Rd (Zhongxi): rotacyjne wystawy na 1. i 3. kondygnacji, kawiarnia na 2.; wstęp wolny. Wt.–niedz. 11:30–19:00 (w niedz. do 18:00), zamknięte w pon. ⚠️ Otwarcie 11:30 — ciasno przy tylko porannym Tainanie 26 sie.
 - [★★★★☆ 🎨📷🧒 Soulangh Cultural Park (蕭壠文化園區)](https://www.google.com/maps/search/Soulangh+Cultural+Park+Tainan) — Kompleks cukrowni z epoki japońskiej przemieniony w kampus sztuki współczesnej i rezydencji artystycznych, z rotacyjnymi wystawami i halami o kulturze Siraya; wstęp wolny. ~Wt.–niedz. 09:00–17:00, zamknięte w pon. (część hal także we wt. — sprawdź). ⚠️ Jiali, ~30–40 min na północ od Tainanu — za daleko na przejazdowo napięty poranek 26 sie; tylko do wiadomości.
@@ -1757,7 +1759,7 @@ Skupisko świątyń w centrum starego miasta plus dwie galerie z przeglądu Lone
   - [★★★★☆ 🏯📸 Dragon and Tiger Pagodas](https://www.google.com/maps/search/Dragon+Tiger+Pagodas+Kaohsiung) — Wejdź przez paszczę smoka, wyjdź przez tygrysią — na szczęście
   - ★★★☆☆ 🏯 Spring and Autumn Pavilions — Posąg smoka, przez którego się przechodzi
 - [★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung) — Największa na świecie szklana instalacja artystyczna; 4,000+ elementów ze szkła; pokazy świetlne o 10:00, 11:00, 13:00, 15:00, 18:00, 19:00, 20:00, 21:00; BEZPŁATNIE 📅 **Dzień 18 (28 sie)**
-- [★★★★☆ 🎨🚶 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung) — Portowe magazyny zamienione w galerie; murale na zewnątrz, dziwaczne rzeźby (bezpłatnie). **Wewnętrzne sale sztuki współczesnej i wystaw zmiennych** (fotografia, nowe media, design) to część biletowana — combo ~NT$99. 📅 **Dzień 18 (28 sie)**
+- [★★★★☆ 🎨🚶🐞 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung) — Portowe magazyny zamienione w galerie; murale na zewnątrz, dziwaczne rzeźby (bezpłatnie). **Wewnętrzne sale sztuki współczesnej i wystaw zmiennych** (fotografia, nowe media, design) to część biletowana — combo ~NT$99. 📅 **Dzień 18 (28 sie)**
 - [★★★★☆ 🏛️🎨📷 ALIEN Art Centre (金馬賓館當代美術館)](https://www.google.com/maps/search/Alien+Art+Centre+Kaohsiung) — Hostel wojskowy z 1967 r. przekształcony w poważne muzeum sztuki współczesnej z kuratorowanymi wystawami międzynarodowymi (rzeźba, instalacje immersyjne, fotografia); przy Silks Club w Gushan — pieszo od skupiska Pier-2 i promu na Cijin. wt.–niedz. 10:00–18:00, zamknięte w pon.; dorosły NT$250 / ulgowy NT$150 (bilet działa też jako kredyt w kawiarni).
 - [★★★☆☆ 🌳🚶 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung) — 5 min promem; Cijin Old Street (owoce morza!), Black Sand Beach, latarnia morska, Rainbow Church; wypożyczcie rowery i pojedźcie wzdłuż wyspy 📅 **Dzień 18 (28 sie)**
 - [★★★☆☆ 🏯🗼 British Consulate at Takow](https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung) — Czerwona cegła z 1865 r.; zachwycające widoki na zatokę Sizihwan
@@ -1781,7 +1783,7 @@ Kilka pozycji łatwo wpasować w istniejącą trasę Lotus Pond/Pier-2/Cijin (Zu
 - [★★★☆☆ 🏯📸 Cihou Fort (Qihou Fort)](https://www.google.com/maps/search/Cihou+Fort+Kaohsiung) — Wzgórzowy fort Qing z 1875 r. na wyspie Cijin z rozległymi widokami na port i cieśninę; wstęp wolny, codziennie ~9:00–17:00. Łatwy dodatek do zaplanowanego przystanku na Cijin.
 
 #### C. Sztuka
-- [★★★★☆ 🏛️🧒 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts) — W dużym parku nad jeziorem, z osobnym skrzydłem Children's Museum of Art (własne godziny) obok głównych galerii (wt.–niedz. 9:30–17:30, zamknięte w pon.). Naprawdę nastawione na dzieci, nie tylko standardowe muzeum sztuki. 📅 **Dzień 19 (29 sie)** · *blisko: Dzień 18 (28 sie)*
+- [★★★★☆ 🏛️🧒🐞 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts) — W dużym parku nad jeziorem, z osobnym skrzydłem Children's Museum of Art (własne godziny) obok głównych galerii (wt.–niedz. 9:30–17:30, zamknięte w pon.). Naprawdę nastawione na dzieci, nie tylko standardowe muzeum sztuki. 📅 **Dzień 19 (29 sie)** · *blisko: Dzień 18 (28 sie)*
 - [★★★☆☆ 🎭📸 Kaohsiung Music Center](https://www.google.com/maps/search/Kaohsiung+Music+Center) — Efektowny falowany budynek nad portem (2021), pięknie podświetlony nocą; przez cały 2026 r. koncerty pop/K-pop/jazz. Wart spaceru ze zdjęciami nawet bez koncertu — naturalne przedłużenie wieczoru przy Love River/Pier-2.
 - [★★☆☆☆ 📸 Kaohsiung Exhibition Center (KEC)](https://www.google.com/maps/search/Kaohsiung+Exhibition+Center) — Centrum kongresowe projektu Philipa Coxa blisko 85 Sky Tower; nowoczesna ikona architektury, efektowna w nocnej iluminacji. Przystanek na zdjęcie, chyba że trwają targi.
 
@@ -1899,12 +1901,12 @@ Pogrupowane według kategorii; Lukang/Baguashan (Changhua) i Janfusun (Yunlin) l
 - [★★★☆☆ 🌳🚶 Taichung Park](https://www.google.com/maps/search/Taichung+Park+Taichung) — Najstarszy park w centrum miasta; pawilon Lake Heart Pavilion z czasów japońskich na stawie to fotogeniczny symbol. Bezpłatnie, blisko dworca kolejowego.
 
 #### B. Muzea
-- [★★★★★ 🏛️🧒 National Museum of Natural Science](https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung) — Flagowy, przyjazny dzieciom punkt na cały dzień: ruchome dinozaury naturalnej wielkości, sale IMAX/3D, szklarnia botaniczna, centrum nauki. Wt.–niedz. 9:00–17:00, zamknięte w pon. Osobne opłaty (hala wystawowa NT$100, kina NT$70–100, szklarnia / centrum nauki NT$20). Wstęp do strefy wystaw bezpłatny w pt. 14:00–17:00 przez cały rok (promocja na 40-lecie). 📅 **Dzień 17 (27 sie)**
+- [★★★★★ 🏛️🧒🐞 National Museum of Natural Science](https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung) — Flagowy, przyjazny dzieciom punkt na cały dzień: ruchome dinozaury naturalnej wielkości, sale IMAX/3D, szklarnia botaniczna, centrum nauki. Wt.–niedz. 9:00–17:00, zamknięte w pon. Osobne opłaty (hala wystawowa NT$100, kina NT$70–100, szklarnia / centrum nauki NT$20). Wstęp do strefy wystaw bezpłatny w pt. 14:00–17:00 przez cały rok (promocja na 40-lecie). 📅 **Dzień 17 (27 sie)**
 - [★★★★☆ 🏛️ 921 Earthquake Museum of Taiwan (Wufeng)](https://www.google.com/maps/search/921+Earthquake+Museum+Wufeng+Taichung) — Zbudowane nad uskokiem Chelungpu; zachowuje zawaloną szkołę, rozerwaną linię uskoku i przesuniętą bieżnię po trzęsieniu Chi-Chi z 1999 r., plus symulator trzęsienia ziemi. Codziennie oprócz pon. 9:00–17:00; ~NT$50 (dodatki płatne osobno). Poruszające, zapamiętywane na długo, dobrze łączy się ze zniszczeniami po trzęsieniu 2024 w Taroko.
 - [★★★★☆ 🏛️🎨 National Taiwan Museum of Comics](https://www.google.com/maps/search/National+Taiwan+Museum+of+Comics+Taichung) — Historia tajwańskiego komiksu w odrestaurowanych budynkach z czasów japońskich (m.in. dawna sala sztuk walki z ogrodami); bezpłatnie. Dobry szybki przystanek dla dzieci lubiących komiksy.
 
 #### C. Sztuka
-- [★★★★☆ 🏛️ National Taiwan Museum of Fine Arts (NTMoFA)](https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung) — Jedyne muzeum sztuk pięknych rangi narodowej na Tajwanie (24 sale), połączone z muzeum przyrodniczym przez Calligraphy Greenway. Duże, bezpłatne, klimatyzowane — dobra opcja na upalny dzień. 📅 **Dzień 17 (27 sie)**
+- [★★★★☆ 🏛️🐞 National Taiwan Museum of Fine Arts (NTMoFA)](https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung) — Jedyne muzeum sztuk pięknych rangi narodowej na Tajwanie (24 sale), połączone z muzeum przyrodniczym przez Calligraphy Greenway. Duże, bezpłatne, klimatyzowane — dobra opcja na upalny dzień. 📅 **Dzień 17 (27 sie)**
 - [★★★★★ 🏛️🎨📷 Asia University Museum of Modern Art (亞洲大學現代美術館)](https://www.google.com/maps/search/Asia+University+Museum+of+Modern+Art+Taichung) — Pierwszy budynek Tadao Ando na Tajwanie: trzy nałożone na siebie betonowe kondygnacje w kształcie trójkąta równobocznego, zalane światłem atrium i tarasy z rzeźbami, z prawdziwym programem sztuki nowoczesnej i współczesnej. Dzielnica Wufeng (~20 min na SE od Taichung HSR, taksówką). Wt.–niedz. 09:30–17:00, zamknięte w pon.; dorosły NT$250, uczniowie/studenci i do 12 lat NT$220, do 3 lat bezpłatnie. ⚠️ Nadkładanie drogi na SE od linii Rainbow Village/HSR — ciasno w krótkim dniu 25 sie.
 - [★★★★★ 🏛️🎨 Taichung Art Museum / Green Museumbrary (台中市立美術館)](https://www.google.com/maps/search/Taichung+Art+Museum+Taichung) — Muzeum sztuki współczesnej projektu SANAA (Pritzker: Sejima/Nishizawa), zespolone z nową biblioteką miejską i zielenią w Central Park; otwarte w grudniu 2025. No. 2201 Zhongke Rd, Xitun. Niedz. i wt.–pt. 9:00–17:00, sob. 9:00–20:00, zamknięte w pon.; część wystaw biletowana (sprawdź ceny do 18 lat). ⚠️ Nadkładanie drogi do Xitun z klastra Rainbow Village, a 25 sie kończy się przejazdem HSR do Tainan — oprzyj na tym poranek albo przyjedź 24 sie.
 - [★★★☆☆ 🌳🎨 Fengle Sculpture Park (豐樂雕塑公園)](https://www.google.com/maps/search/Fengle+Sculpture+Park+Taichung) — Pierwszy publiczny park rzeźby na Tajwanie: 52 nagradzane rzeźby pod otwartym niebem, ustawione bez cokołów na trawie i nad wodą wokół stawu pełnego żółwi, 6 ha, Nantun. Bezpłatnie, otwarte 24 h. Blisko Rainbow Village — łatwe połączenie.

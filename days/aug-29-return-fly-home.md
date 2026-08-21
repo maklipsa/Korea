@@ -34,7 +34,7 @@ Zależna od wariantu. Wspólny koniec: **Taoyuan HSR → Airport MRT → TPE**.
 | 8:00 | Śniadanie, wymeldowanie. |  |
 | 8:45 | **⚖️ Wybierzcie JEDNO — na dwa nie ma czasu.** Najkrótszy poranek ze wszystkich wariantów. |  |
 |  | **Opcja A ·** **[★★★★☆ 🌳🏯 Lotus Pond](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung)** — Smoczo-tygrysie pagody, świątynie nad wodą. **Leży przy Zuoying**, czyli praktycznie po drodze na pociąg → **najbezpieczniejsza opcja**. | Bezpłatnie |
-|  | **Opcja B ·** **[★★★★☆ 🏛️🧒 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts)** — otwiera 9:30, ~1,5 h, potem MRT do Zuoying. |  |
+|  | **Opcja B ·** **[★★★★☆ 🏛️🧒🐞 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts)** — otwiera 9:30, ~1,5 h, potem MRT do Zuoying. |  |
 |  | **Opcja C ·** **[★★★★☆ 🏯🏛️ Fo Guang Shan](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung)** — ⚠️ **~40 min za miastem.** Buddha Museum zamknięte wt. (sob. OK), ale ta opcja **wyklucza spokojny wyjazd** — realna tylko, jeśli ruszacie 8:00 i wracacie prosto na pociąg. |  |
 | 12:30 | Obiad przy Zuoying albo **[★★★☆☆ 🛍️🍜 Neiwei Afternoon Market](https://www.google.com/maps/search/Neiwei+Market+Kaohsiung)**, jeśli zostaje czas. |  |
 | 13:45 | **HSR Zuoying → Taoyuan.** | ~NT$1 410 |
