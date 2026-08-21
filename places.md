@@ -1963,6 +1963,11 @@ Luki wychwycone po przeglądzie Lonely Planet. Dzień 15 (25 sie) to tylko przej
 
 ## TAIWAN — Inne kierunki
 
+### Hsinchu (pierwszy przystanek HSR na południe od Tajpej — ~30 min)
+
+- [★★★★☆ 🔬🏭 TSMC Museum of Innovation](https://www.google.com/maps/search/TSMC+Museum+of+Innovation+Hsinchu) — **Własne muzeum TSMC** w Hsinchu Science Park (Li Hsin Rd 7, nr 1): historia i technologia produkcji półprzewodników u największej odlewni chipów na świecie. ⚠️ **Nie jest to zwiedzanie fabryki** — same fab-y (także te w Taichung i Tainan, obok których przejeżdżamy) są dla zwiedzających zamknięte. **Wstęp bezpłatny, ale WYŁĄCZNIE z rezerwacją** — bez wejść z ulicy i bez listy rezerwowej, a rezerwację trzeba domknąć **do południa dnia poprzedzającego**. Pon.–pt. 9:00–12:00 i 13:00–17:00, sob. 9:30–12:00 i 13:00–17:00, **zamknięte w niedziele** i święta. **Wyłącznie od 7 lat** (nasza trójka 9/11/15 się kwalifikuje). Wizyta ~90 min: film → oprowadzanie → czas na własne oglądanie; **oprowadzanie po angielsku dostępne**, audioguide EN/JP. Z **Hsinchu HSR ~25 min** (taksówka). ⚠️ Sierpniowe terminy poszły do rezerwacji 1 lipca, więc **sprawdźcie dostępność od razu** — zwolnione miejsca wracają do puli po anulacjach. Idealnie jako **poranek 27 sie po drodze na południe** (warianty zachodnie); do wariantu z Hualien nie pasuje — inny kierunek.
+- [★★★☆☆ 🔬🧒 Hsinchu Science Park Exploration Museum](https://www.google.com/maps/search/Hsinchu+Science+Park+Exploration+Museum) — Muzeum o samym parku naukowym i tajwańskim przemyśle hi-tech, kilka minut od TSMC MOI — sensowny dodatek, jeśli i tak jedziecie do Hsinchu i chcecie z tego zrobić pół dnia zamiast 90 minut. ⚠️ Godziny i zasady wejścia do potwierdzenia.
+
 ### Hualien i Taroko Gorge (wschodnie wybrzeże)
 - [★★★★★ 🌳🌊 Taroko Gorge National Park](https://www.google.com/maps/search/Taroko+Gorge+Taiwan) — Kanion o marmurowych ścianach; częściowo otwarty ponownie po trzęsieniu ziemi z 2024 r.; zalecane zwiedzanie z przewodnikiem (grupy maks. 8 osób)
 - [★★★☆☆ 🌳 Qixingtan Beach](https://www.google.com/maps/search/Qixingtan+Beach+Hualien) — Zachwycająca kamienista plaża z widokiem na góry; rowerem z Hualien
