@@ -278,7 +278,8 @@ const LEGEND_GROUPS = [
   ]},
   { title: 'Znaczniki osobiste (nie wyrzucamy przy przek\u0142adaniu planu)', items: [
     ['\ud83d\udc1e', '\u017byczenie Jadzi'],
-    ['\ud83c\udfd7\ufe0f', 'Wyb\u00f3r Olafa'],
+    ['\ud83e\udd90', 'Wyb\u00f3r Olafa'],
+    ['\ud83e\udd91', 'Wyb\u00f3r Szymona'],
   ]},
   { title: 'Dodatkowe tagi (dok\u0142adane do typu)', items: [
     ['\ud83e\uddd2', 'Hit u dzieci'],
