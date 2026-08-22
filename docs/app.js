@@ -280,6 +280,7 @@ const LEGEND_GROUPS = [
     ['\ud83d\udc1e', '\u017byczenie Jadzi'],
     ['\ud83e\udd90', 'Wyb\u00f3r Olafa'],
     ['\ud83e\udd91', 'Wyb\u00f3r Szymona'],
+    ['\u2708\ufe0f', 'Wyb\u00f3r Piotra'],
   ]},
   { title: 'Dodatkowe tagi (dok\u0142adane do typu)', items: [
     ['\ud83e\uddd2', 'Hit u dzieci'],

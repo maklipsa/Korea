@@ -8,7 +8,7 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 
 **Typ miejsca:** 🍜 jedzenie i restauracje · ☕ kawiarnie, deserty i piekarnie · 🏯 pałace, świątynie i zabytki · 🏛️ muzea i galerie · 🌳 parki, ogrody i przyroda · 🛍️ zakupy, targi i centra handlowe · 🏮 nocne targi · 🎡 parki rozrywki · 🚶 spacery i stare uliczki · 🗼 punkty widokowe, tarasy i wieże · 📸 zabytki i miejsca na zdjęcia · 🎨 warsztaty i doświadczenia kulturalne
 
-**Znaczniki osobiste (czyj to wybór):** 🐞 **życzenie Jadzi** · 🦐 **wybór Olafa** · 🦑 **wybór Szymona** — miejsca, które ta osoba sama wskazała jako ważne dla siebie (dzieci: odpowiedzi na `brief.txt` — „Zależy mi” / „JA BARDZO BARDZO CHCĘ” u Jadzi, lista wysłana przez Olafa). Idą **na końcu grupy emoji**, w stałej kolejności 🐞 → 🦐 → 🦑; jedno miejsce może mieć kilka (Donguri Republic ma wszystkie trzy). ⚠️ **Przy przekładaniu planu tych miejsc nie wyrzucamy** — jeśli dzień pęka, cięcia szukamy wśród punktów bez znacznika osobistego; przeniesienie na inny dzień jest OK, usunięcie nie.
+**Znaczniki osobiste (czyj to wybór):** 🐞 **życzenie Jadzi** · 🦐 **wybór Olafa** · 🦑 **wybór Szymona** · ✈️ **wybór Piotra** — miejsca, które ta osoba sama wskazała jako ważne dla siebie (dzieci: odpowiedzi na `brief.txt` — „Zależy mi” / „JA BARDZO BARDZO CHCĘ” u Jadzi, lista wysłana przez Olafa). Idą **na końcu grupy emoji**, w stałej kolejności 🐞 → 🦐 → 🦑 → ✈️; jedno miejsce może mieć kilka (Donguri Republic ma 🐞🦐🦑). ⚠️ **Przy przekładaniu planu tych miejsc nie wyrzucamy** — jeśli dzień pęka, cięcia szukamy wśród punktów bez znacznika osobistego; przeniesienie na inny dzień jest OK, usunięcie nie. ⚠️ **Uwaga: ✈️ ma podwójne znaczenie** — w kluczu STEM niżej to „lotnictwo i kosmonautyka”. Na razie żaden wpis nie używa go jako typu miejsca, więc każde ✈️ w katalogu = wybór Piotra; przy dodawaniu muzeum lotnictwa trzeba to rozstrzygnąć (osobna ikona dla typu albo dla Piotra).
 
 **Dodatkowe znaczniki:** 🧒 hit u dzieci · 🐾 zwierzęta (zoo, akwarium, kawiarnia ze zwierzętami) · ♨️ gorące źródła i spa · 🚡 widokowe przejazdy (kolejka linowa, gondola, prom) · 🍺 nocne życie i bary
 
@@ -1347,7 +1347,7 @@ Najlepszy dzień dla dzieci w Taipei — nauka, kosmos, karuzele, a potem nocny 
 #### Muzea (dla dzieci)
 - [★★★★★ 🏛️🦑 National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei) — Największa kolekcja sztuki chińskiej na świecie; galeria dla dzieci; wstęp wolny do 17 lat; otwarte wt.-niedz. 9:00-17:00 (zamknięte w pon.) 📅 **Dzień 15 (25 sie)**
 - [★★★★☆ 🏛️🧒🐞🦐 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei) — Interaktywne wystawy; świetne dla 9-latków 📅 **Dzień 15 (25 sie)**
-- [★★★☆☆ 🏛️🧒🦐 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum) — Planetarium, IMAX, wystawy o kosmosie; obok Science Center 📅 **Dzień 15 (25 sie)**
+- [★★★☆☆ 🏛️🧒🦐✈️ Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum) — Planetarium, IMAX, wystawy o kosmosie; obok Science Center 📅 **Dzień 15 (25 sie)**
 
 #### Dla dzieci
 - [★★★☆☆ 🎡🧒 Taipei Children's Amusement Park](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park) — Wieża swobodnego spadania, rollercoaster, statek piracki, samochodziki; wstęp NT$30; atrakcje NT$20-100; otwarte 9:00-17:00 (w sob. do 20:00); zamknięte w pon. 📅 *blisko: Dzień 15 (25 sie)*
@@ -1572,7 +1572,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 ### Shifen
 - [★★★☆☆ 🚶📸 Shifen Old Street](https://www.google.com/maps/search/Shifen+Old+Street+Taiwan) — Tory kolejowe biegną środkiem targowej ulicy; pociągi przejeżdżają centymetry od stoisk ⬇️ **Obniżone o oczko po kalibracji z 19 sie** (Gamcheon 4/6 — piąty z rzędu punkt „sławny + tłoczny + fotogeniczny", który nie przebił 4/6, i to mimo że bezpłatny). Cała kategoria „miejsc do popatrzenia" idzie u nas domyślnie na ★★★☆☆: ~1 h zamiast 2–3, najlepiej o świcie albo o zmierzchu. 📅 **Dzień 14 (24 sie)**
 - ★★★★★ 🎨🧒🦐 Wypuszczanie lampionów — Napisz życzenia na lampionie i wypuść go w niebo; magia dla dzieci
-- [★★★☆☆ 🌊 Shifen Waterfall](https://www.google.com/maps/search/Shifen+Waterfall+Taiwan) — Najszerszy na Tajwanie; „mała Niagara"; krótki spacer od starej ulicy 📅 **Dzień 14 (24 sie)**
+- [★★★☆☆ 🌊✈️ Shifen Waterfall](https://www.google.com/maps/search/Shifen+Waterfall+Taiwan) — Najszerszy na Tajwanie; „mała Niagara"; krótki spacer od starej ulicy 📅 **Dzień 14 (24 sie)**
 
 ### Jiufen
 - [★★★☆☆ 🚶📸🐞 Jiufen Old Street](https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan) — Dawne górnicze miasteczko złota na szczycie góry; wąskie zaułki, czerwone lampiony, klimat rodem ze „Spirited Away". Zeszło z ★★★★★: to podręcznikowy sławny-tłoczny-fotogeniczny punkt, a jego najbliższy odpowiednik z Korei (Bukchon) dostał 3/6. Zostaje w planie, ale **o zmierzchu, po Jinguashi** — nie jako kotwica popołudnia ⬇️ **Obniżone o oczko po kalibracji z 19 sie** (Gamcheon 4/6 — piąty z rzędu punkt „sławny + tłoczny + fotogeniczny", który nie przebił 4/6, i to mimo że bezpłatny). Cała kategoria „miejsc do popatrzenia" idzie u nas domyślnie na ★★★☆☆: ~1 h zamiast 2–3, najlepiej o świcie albo o zmierzchu. 📅 **Dzień 14 (24 sie)**
@@ -1586,7 +1586,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 - ★★★☆☆ 🌳 Szlak na Teapot Mountain — 2-3 godziny; widoki 360 stopni; do przejścia dla aktywnych 9-latków
 
 ### Yehliu
-- [★★★★☆ 🌊🧒🐞 Yehliu Geopark](https://www.google.com/maps/search/Yehliu+Geopark+Taiwan) — Nieziemskie formacje skalne; Głowa Królowej; dzieci kochają ten kosmiczny krajobraz; 1-2 godziny 📅 **Dzień 14 (24 sie)**
+- [★★★★☆ 🌊🧒🐞✈️ Yehliu Geopark](https://www.google.com/maps/search/Yehliu+Geopark+Taiwan) — Nieziemskie formacje skalne; Głowa Królowej; dzieci kochają ten kosmiczny krajobraz; 1-2 godziny 📅 **Dzień 14 (24 sie)**
 - [★★★★☆ 🏛️🎨🧒 Juming Museum (朱銘美術館)](https://www.google.com/maps/search/Juming+Museum+Jinshan) — Rozległy **park rzeźby nowoczesnej** rzeźbiarza Ju Minga na zboczu (seria Taichi, Living World) + galerie wewnętrzne w Jinshan, ~15 min od Yehliu. Maj–paź 10:00–18:00 (ostatnie wejście 17:00), zamknięte w pon.; dorosły NT$280, uczeń/student i senior NT$250, do 6 lat bezpłatnie (**North Coast Art Festival 17.07–27.09.2026 = NT$200 taniej**, obejmuje wasze daty). ⚠️ Łączy się z Yehliu, ale wymaga ~2–3 h — konkuruje o czas z osią Shifen/Jiufen.
 
 ### Inne
