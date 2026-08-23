@@ -2534,7 +2534,7 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>Kto jedzie zmienia, co jest nietykalne.</strong> Bez Piotra (👶) z dnia wypada jego jedyny punkt — <strong>Shifen Waterfall</strong> — a <strong>Jinguashi (Gold Museum + Golden Waterfall) nie ma znacznika nikogo z tej trójki</strong>. To te dwa cięcia (~2,5–3 h) sprawiają, że Yehliu + Shifen + Jiufen wychodzi transportem publicznym po straconym poranku. Nietykalne zostają: <strong>Yehliu (🐞 Jadzia)</strong>, <strong>wypuszczanie lampionów w Shifen (🦐 Olaf)</strong>, <strong>Jiufen (🐞 Jadzia)</strong>. Szymon (🦑) nie ma dziś żadnego swojego punktu — jego lista to muzea, więc cięcia go nie dotykają.",
+        "activity": "<strong>Kto jedzie zmienia, co jest nietykalne.</strong> Bez Piotra (👶) z dnia wypada jego jedyny punkt — <strong><a href=\"https://www.google.com/maps/search/Shifen+Waterfall+Taiwan\" target=\"_blank\">★★★☆☆ 🌊👶 Shifen Waterfall</a></strong> — a <strong>Jinguashi (<a href=\"https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan\" target=\"_blank\">★★★★☆ 🏭🏛️ Gold Museum (Jinguashi)</a> + <a href=\"https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan\" target=\"_blank\">★★★☆☆ 🌊 Golden Waterfall</a>) nie ma znacznika nikogo z tej trójki</strong>. To te dwa cięcia (~2,5–3 h) sprawiają, że Yehliu + Shifen + Jiufen wychodzi transportem publicznym po straconym poranku. Nietykalne zostają: <strong>Yehliu (🐞 Jadzia)</strong>, <strong>wypuszczanie lampionów w Shifen (🦐 Olaf)</strong>, <strong>Jiufen (🐞 Jadzia)</strong>. Szymon (🦑) nie ma dziś żadnego swojego punktu — jego lista to muzea, więc cięcia go nie dotykają.",
         "price": ""
       },
       {
@@ -2544,7 +2544,7 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>Yehliu:</strong> MRT (czerwona linia od hotelu) → <strong>Tamsui</strong>, potem <strong><a href=\"https://www.taiwantrip.com.tw/Frontend/Route/Select_p?RouteID=R0018\" target=\"_blank\">台灣好行 716 皇冠北海岸線</a></strong> z przystanku przy Tamsui MRT do <strong>Yehliu Geopark</strong>. Linia jeździe <strong>codziennie V–X</strong>, więc dziś kursuje. Razem ~1 h 45 min. ⚠️ Geopark zamyka <strong>17:00</strong> — to jedyny twardy limit poranka. 1–1,5 h na miejscu.",
+        "activity": "<strong>Yehliu:</strong> MRT (czerwona linia od hotelu) → <strong>Tamsui</strong>, potem <strong><a href=\"https://www.taiwantrip.com.tw/Frontend/Route/Select_p?RouteID=R0018\" target=\"_blank\">台灣好行 716 皇冠北海岸線</a></strong> z przystanku przy Tamsui MRT do <strong><a href=\"https://www.google.com/maps/search/Yehliu+Geopark+Taiwan\" target=\"_blank\">★★★★☆ 🌊🧒🐞👶 Yehliu Geopark</a></strong>. Linia jeździe <strong>codziennie V–X</strong>, więc dziś kursuje. Razem ~1 h 45 min. ⚠️ Geopark zamyka <strong>17:00</strong> — to jedyny twardy limit poranka. 1–1,5 h na miejscu.",
         "price": "NT$120 dorosły / NT$60 wiek 6–12 lub uczeń"
       },
       {
@@ -2554,7 +2554,7 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>Shifen — to jest cel Olafa.</strong> Stara ulica z torami + <strong>wypuszczanie lampionów (🦐)</strong>. Bez wodospadu zostaje ~1–1,5 h, czyli spokojnie na lampion i przejście ulicy.",
+        "activity": "<strong>Shifen — to jest cel Olafa.</strong> <strong><a href=\"https://www.google.com/maps/search/Shifen+Old+Street+Taiwan\" target=\"_blank\">★★★☆☆ 🚶🧒 Shifen Old Street</a></strong> — stara ulica z torami + <strong>wypuszczanie lampionów (🦐)</strong>. Bez wodospadu zostaje ~1–1,5 h, czyli spokojnie na lampion i przejście ulicy.",
         "price": "Lampion ~NT$200 (1 kolor) / ~NT$250 (4 kolory)"
       },
       {
@@ -2564,7 +2564,7 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>Jiufen o zmierzchu (🐞) — zachód ~18:25.</strong> Ta godzina zostaje z pierwotnego planu i nadal jest najlepsza: autokary zjeżdżają ~16:30–17:00, lampiony się zapalają. <strong>Lai Ah Po Taro Balls</strong>, <strong>Ah Zhu Peanut Ice Cream Roll</strong>. A-Mei Tea House (★★★★☆, bez znacznika) — tylko jeśli wyrobicie się przed zmrokiem, inaczej odpuśćcie.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan\" target=\"_blank\">★★★☆☆ 🚶🍜🐞 Jiufen Old Street</a> o zmierzchu (🐞) — zachód ~18:25.</strong> Ta godzina zostaje z pierwotnego planu i nadal jest najlepsza: autokary zjeżdżają ~16:30–17:00, lampiony się zapalają. <strong>Lai Ah Po Taro Balls</strong>, <strong>Ah Zhu Peanut Ice Cream Roll</strong>. <strong><a href=\"https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen\" target=\"_blank\">★★★★☆ 🍵🗼 A-Mei Tea House</a></strong> (bez znacznika) — tylko jeśli wyrobicie się przed zmrokiem, inaczej odpuśćcie.",
         "price": ""
       },
       {
@@ -2574,7 +2574,7 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "⏭️ <strong>Wypada dziś:</strong> Shifen Waterfall (punkt Piotra, nie jedzie), <strong>Gold Museum + Golden Waterfall</strong> (cały Jinguashi — ★★★★☆, ale bez znacznika nikogo z trójki i to osobna noga geograficzna), A-Mei warunkowo. ⚠️ Gold Museum zostaje <strong>nieodwiedzone na tym wyjeździe</strong> — to realna strata, nie tylko przesunięcie.",
+        "activity": "⏭️ <strong>Wypada dziś:</strong> <strong><a href=\"https://www.google.com/maps/search/Shifen+Waterfall+Taiwan\" target=\"_blank\">★★★☆☆ 🌊👶 Shifen Waterfall</a></strong> (punkt Piotra, nie jedzie), <strong><a href=\"https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan\" target=\"_blank\">★★★★☆ 🏭🏛️ Gold Museum (Jinguashi)</a></strong> + <strong><a href=\"https://www.google.com/maps/search/Golden+Waterfall+Jinguashi+Taiwan\" target=\"_blank\">★★★☆☆ 🌊 Golden Waterfall</a></strong> (cały Jinguashi — ★★★★☆, ale bez znacznika nikogo z trójki i to osobna noga geograficzna), A-Mei warunkowo. ⚠️ Gold Museum zostaje <strong>nieodwiedzone na tym wyjeździe</strong> — to realna strata, nie tylko przesunięcie.",
         "price": ""
       },
       {
@@ -2589,7 +2589,7 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "⚖️ <strong>Cała decyzja to: Yehliu (🐞 Jadzia) ↔ Gold Museum (★★★★☆, bez znacznika).</strong> Wypada <strong>Yehliu</strong> — i to nie przesunięcie, a <strong>strata na cały wyjazd</strong>: żaden z pozostałych dni (25 sie Shilin, 26 sie Maokong, potem południe) nie ma 1 h 45 min w każdą stronę na północne wybrzeże. ⚠️ <strong>To punkt Jadzi i Jadzia jedzie — zapytajcie ją wprost, a nie decydujcie za nią.</strong> Zostaje jej Jiufen (🐞), Olafowi lampiony (🦐) — czyli każde z dzieci nadal ma dziś swój punkt.",
+        "activity": "⚖️ <strong>Cała decyzja to: <a href=\"https://www.google.com/maps/search/Yehliu+Geopark+Taiwan\" target=\"_blank\">★★★★☆ 🌊🧒🐞👶 Yehliu Geopark</a> (🐞 Jadzia) ↔ <a href=\"https://www.google.com/maps/search/Gold+Museum+Jinguashi+Taiwan\" target=\"_blank\">★★★★☆ 🏭🏛️ Gold Museum (Jinguashi)</a> (bez znacznika).</strong> Wypada <strong>Yehliu</strong> — i to nie przesunięcie, a <strong>strata na cały wyjazd</strong>: żaden z pozostałych dni (25 sie Shilin, 26 sie Maokong, potem południe) nie ma 1 h 45 min w każdą stronę na północne wybrzeże. ⚠️ <strong>To punkt Jadzi i Jadzia jedzie — zapytajcie ją wprost, a nie decydujcie za nią.</strong> Zostaje jej <strong><a href=\"https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan\" target=\"_blank\">★★★☆☆ 🚶🍜🐞 Jiufen Old Street</a></strong> (🐞), Olafowi lampiony (🦐) — czyli każde z dzieci nadal ma dziś swój punkt.",
         "price": ""
       },
       {
@@ -2604,7 +2604,7 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>~12:40 ·</strong> linia <strong>Pingxi → Shifen</strong> (~30 min, ~1 pociąg/h). Stara ulica na torach + <strong>wypuszczanie lampionów (🦐 Olaf)</strong>. ~1,5 h. Wodospad odpuszczony (punkt Piotra).",
+        "activity": "<strong>~12:40 ·</strong> linia <strong>Pingxi → Shifen</strong> (~30 min, ~1 pociąg/h). <strong><a href=\"https://www.google.com/maps/search/Shifen+Old+Street+Taiwan\" target=\"_blank\">★★★☆☆ 🚶🧒 Shifen Old Street</a></strong> — stara ulica na torach + <strong>wypuszczanie lampionów (🦐 Olaf)</strong>. ~1,5 h. <strong><a href=\"https://www.google.com/maps/search/Shifen+Waterfall+Taiwan\" target=\"_blank\">★★★☆☆ 🌊👶 Shifen Waterfall</a></strong> odpuszczony (punkt Piotra).",
         "price": "Lampion ~NT$200/250"
       },
       {
@@ -2619,7 +2619,7 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>~17:15 ·</strong> Jinguashi → <strong>Jiufen</strong> (10 min autobusem). <strong>Jiufen o zmierzchu (🐞 Jadzia)</strong>, zachód ~18:25 — trafiacie idealnie, a tłum jednodniowy właśnie zjechał. Zostaje czas i na <strong>A-Mei Tea House</strong> (★★★★☆), której wariant 3A nie gwarantował.",
+        "activity": "<strong>~17:15 ·</strong> Jinguashi → <strong>Jiufen</strong> (10 min autobusem). <strong><a href=\"https://www.google.com/maps/search/Jiufen+Old+Street+Taiwan\" target=\"_blank\">★★★☆☆ 🚶🍜🐞 Jiufen Old Street</a> o zmierzchu (🐞 Jadzia)</strong>, zachód ~18:25 — trafiacie idealnie, a tłum jednodniowy właśnie zjechał. Zostaje czas i na <strong><a href=\"https://www.google.com/maps/search/A-Mei+Tea+House+Jiufen\" target=\"_blank\">★★★★☆ 🍵🗼 A-Mei Tea House</a></strong>, której wariant 3A nie gwarantował.",
         "price": ""
       },
       {
@@ -2629,7 +2629,7 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "⏭️ <strong>Wypada w 3B:</strong> <strong>Yehliu Geopark (🐞)</strong> — na cały wyjazd — oraz Shifen Waterfall (👶, nie jedzie). ⚠️ Gdyby ktoś wolał odwrotnie (zostawić Yehliu, oddać Gold Museum) — to jest <strong>wariant 3A</strong> wyżej. Trzeci wariant, bez Shifen, celowo nie jest rozpisany: lampiony mają ★★★★★, czyli <strong>najwyższą ocenę w całym dniu</strong>, i są jedynym punktem Olafa.",
+        "activity": "⏭️ <strong>Wypada w 3B:</strong> <strong><a href=\"https://www.google.com/maps/search/Yehliu+Geopark+Taiwan\" target=\"_blank\">★★★★☆ 🌊🧒🐞👶 Yehliu Geopark</a></strong> (🐞) — na cały wyjazd — oraz <strong><a href=\"https://www.google.com/maps/search/Shifen+Waterfall+Taiwan\" target=\"_blank\">★★★☆☆ 🌊👶 Shifen Waterfall</a></strong> (👶, nie jedzie). ⚠️ Gdyby ktoś wolał odwrotnie (zostawić Yehliu, oddać Gold Museum) — to jest <strong>wariant 3A</strong> wyżej. Trzeci wariant, bez Shifen, celowo nie jest rozpisany: lampiony mają ★★★★★, czyli <strong>najwyższą ocenę w całym dniu</strong>, i są jedynym punktem Olafa.",
         "price": ""
       }
     ],
