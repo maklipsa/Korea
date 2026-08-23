@@ -1346,7 +1346,7 @@ Najlepszy dzień dla dzieci w Taipei — nauka, kosmos, karuzele, a potem nocny 
 
 #### Muzea (dla dzieci)
 - [★★★★★ 🏛️🦑 National Palace Museum](https://www.google.com/maps/search/National+Palace+Museum+Taipei) — Największa kolekcja sztuki chińskiej na świecie; galeria dla dzieci; wstęp wolny do 17 lat; otwarte wt.-niedz. 9:00-17:00 (zamknięte w pon.) 📅 **Dzień 15 (25 sie)**
-- [★★★★☆ 🏛️🧒🐞🦐 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei) — Interaktywne wystawy; świetne dla 9-latków 📅 **Dzień 15 (25 sie)**
+- [★★★★☆ 🏛️🧒🐞🦐 National Taiwan Science Education Center](https://www.google.com/maps/search/National+Taiwan+Science+Education+Center+Taipei) — Interaktywne wystawy; świetne dla 9-latków. ⏭️ **Pominięte: Dzień 15 (25 sie) — to samo co Centrum Nauki Kopernik w Warszawie** (reguła „nie wydajemy dnia wyjazdu na to, co mamy w domu”). ⚠️ Było to życzenie **Jadzi (🐞) i Olafa (🦐)** — znaczniki zostają. 📅 **Dzień 15 (25 sie)**
 - [★★★☆☆ 🏛️🧒🦐👶 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum) — Planetarium, IMAX, wystawy o kosmosie; obok Science Center 📅 **Dzień 15 (25 sie)**
 
 #### Dla dzieci
@@ -1370,7 +1370,7 @@ Naturalne gorące źródła rano, plantacje herbaty i gondola po południu.
 #### Maokong
 - [★★★★☆ 🚡🧒🦐 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei) — 30-minutowa przejażdżka nad plantacjami herbaty i dolinami; dostępna kabina ze szklaną podłogą (NT$50 dopłaty); dzieci to uwielbiają; NT$180 za przejazd lub NT$300 za pass na dzień 📅 **Dzień 16 (26 sie)**
 - 🍵 Herbaciarnie na szczycie — Mountain Tea House, Found Your Tea, The Big Tea Pot
-- ★★★☆☆ Połącz z [🐾🧒🦐 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) przy dolnej stacji gondoli — Jedno z największych w Azji 📅 **Dzień 16 (26 sie)**
+- ★★★☆☆ Połącz z [🐾🧒🦐 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo) przy dolnej stacji gondoli — Jedno z największych w Azji. ⏭️ **Pominięte: Dzień 16 (26 sie)** — zoo to kategoria, którą mamy w Warszawie; popołudnie 26 sie idzie na **Taiwan Design Museum** (dawny wariant 26b awansował na plan główny). ⚠️ Był to wybór **Olafa (🦐)** — znacznik zostaje. 📅 **Dzień 16 (26 sie)**
 
 ---
 
@@ -1409,7 +1409,7 @@ Pogrupowane według kategorii; część układa się blisko istniejących planó
 - [★★★☆☆ 🏯 National Revolutionary Martyrs' Shrine](https://www.google.com/maps/search/National+Revolutionary+Martyrs+Shrine+Taipei) — Gmach w stylu Zakazanego Miasta przy Grand Hotel, ze zmianą warty co godzinę (mniej zatłoczony bliźniak ceremonii z CKS Hall). Bezpłatnie; ~9:00–17:00.
 - [★★★☆☆ 🏛️📸 Presidential Office Building](https://www.google.com/maps/search/Presidential+Office+Building+Taipei) — Ceglany gmach z 1919 r. z czasów japońskiej kolonii. Zwiedzanie indywidualne tylko w dni powszednie 9:00–12:00 (ostatnie wejście 11:30), bez rezerwacji, kontrola bezpieczeństwa; w weekendy zamknięte. Pasuje do poranka w Zhongzheng przy CKS Hall.
 - [★★★☆☆ ⛪📸 Aletheia University Oxford College (Tamsui)](https://www.google.com/maps/search/Aletheia+University+Oxford+College+Tamsui) — Ceglany gmach z 1882 r., gotyk zmieszany z chińskim stylem, najstarszy budynek uczelni w stylu zachodnim na Tajwanie; oglądanie bezpłatne, 5 min pieszo od Fort San Domingo. 📅 **Dzień 13 (23 sie)**
-- [★★★★☆ 🏯📸 Fort San Domingo, Little White House & Hobe Fort (Tamsui)](https://www.google.com/maps/search/Fort+San+Domingo+Tamsui) — Fort zbudowany przez Holendrów w 1629 r., przebudowany przez Hiszpanów i Brytyjczyków; wspólny bilet NT$80 obejmuje wszystkie trzy zabytki Tamsui; widoki na rzekę ze wzgórza. Zamknięte w pon. 📅 **Dzień 13 (23 sie)**
+- [★★★★☆ 🏯📸👶 Fort San Domingo, Little White House & Hobe Fort (Tamsui)](https://www.google.com/maps/search/Fort+San+Domingo+Tamsui) — Fort zbudowany przez Holendrów w 1629 r., przebudowany przez Hiszpanów i Brytyjczyków; wspólny bilet NT$80 obejmuje wszystkie trzy zabytki Tamsui; widoki na rzekę ze wzgórza. Zamknięte w pon. 📅 **Dzień 13 (23 sie)**
 - [★★☆☆☆ 🏯📸 Zhongshan Hall](https://www.google.com/maps/search/Zhongshan+Hall+Taipei) — Gmach zgromadzeń z 1936 r., w którym Japonia formalnie przekazała Tajwan (1945); blisko Ximending/CKS Hall; ogród na dachu. ⚠️ Sprawdź, czy jest otwarty i czy nie trwa remont; godziny mogą być nieregularne.
 
 #### B. Muzea

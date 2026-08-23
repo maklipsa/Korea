@@ -1,12 +1,13 @@
-# Aug 26 (Wed) — Taipei dzień 4: Maokong + Taipei Zoo → wieczór w Xinyi/Songshan
-> Badges: pass:Bez passa — gondola i zoo w kasie; closed:Maokong Gondola i Taiwan Design Museum zamknięte w pon. (śr. OK)
+# Aug 26 (Wed) — Taipei dzień 4: Maokong + Taiwan Design Museum → wieczór w Xinyi/Songshan
+> Badges: pass:Bez passa — gondola i Taiwan Design Museum w kasie; closed:Maokong Gondola i Taiwan Design Museum zamknięte w pon. (śr. OK)
 
 🆕 **To jest dzień odzyskany przez skrócenie hotelu.** Wcześniej 26 sie było dniem wyjazdu (HSR do Taichung, potem Tainan). Po zmianie rezerwacji śpicie w Tajpej **do 26 sie włącznie**, a na południe ruszacie **27 sie** — więc ten dzień wraca do Tajpej i przejmuje dwa klastry, które dotąd wisiały na doklejkach:
 
 - ⬆️ **Maokong Gondola** z dawnego 28 sie, gdzie startowała o 15:00 **po** przyjeździe HSR z Kaohsiungu. Teraz ma cały poranek.
 - ⬆️ **Cały blok Xinyi/Songshan** (Elephant Mountain, Taipei 101, Raohe, Songshan) z przeładowanego [23 sie](aug-23-taipei-day2.md), który robił jednocześnie Beitou i Xinyi.
 - ⬆️ **Zhinan Temple** ★★★ z katalogu — przystanek na linii gondoli, dotąd nigdzie nie wpisany.
-- ✅ **Taipei Zoo przestaje być fikcją.** W starym planie wisiało jako „opcjonalnie" po zjeździe gondolą w piątek, przy ostatnim wejściu 16:00 — czyli nie dało się tam wejść. Dziś ma realne 3 godziny.
+- ⛔ **Taipei Zoo WYPADŁO Z PLANU (23 sie)** — zoo to kategoria, którą mamy w Warszawie, a wyjazd idzie na to, czego w domu nie ma. Popołudnie przechodzi na **Taiwan Design Museum**: dawny **wariant 26b awansował na plan główny**, bo jego uzasadnienie było dokładnie tym argumentem. ⚠️ Był to wybór **Olafa (🦐)** — i to jego druga strata tego samego dnia po tarasie 101; powiedzcie mu to wprost. Znacznik w katalogu zostaje. *(Poprzednia treść tego punktu: zoo zyskało realne 3 godziny po skróceniu hotelu — nieaktualne.)*
+- ~~✅ **Taipei Zoo przestaje być fikcją.**~~ W starym planie wisiało jako „opcjonalnie" po zjeździe gondolą w piątek, przy ostatnim wejściu 16:00 — czyli nie dało się tam wejść. Dziś ma realne 3 godziny.
 
 Kontekst: [replan-taiwan.md](../replan-taiwan.md).
 
@@ -14,12 +15,12 @@ Kontekst: [replan-taiwan.md](../replan-taiwan.md).
 
 🧳 **Ostatnia noc w hotelu w Tajpej.** Wymeldowanie rano [27 sie](aug-27-departure-south.md) — **spakujcie się dziś wieczorem**, bo wracacie z Raohe późno.
 
-**Transport:** MRT brązowa linia (Wenshan–Neihu) na całą pierwszą połowę dnia — Taipei Zoo to jej południowy koniec, gondola startuje przy stacji. Wieczorem MRT Wenshan → Xinyi, ~25 min.
+**Transport:** MRT brązowa linia (Wenshan–Neihu) na całą pierwszą połowę dnia — stacja **Taipei Zoo** to jej południowy koniec i tam startuje gondola (sama stacja zostaje w trasie, samo zoo nie). Po południu brązowa linia dalej na **Songshan**, wieczorem → Xinyi.
 
 🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Gondola i tak wymaga zostawienia auta przy dolnej stacji, a Xinyi wieczorem to najgorsze parkowanie w mieście. Zestawienie wszystkich dni: [car.md](../car.md).
 
 ## Route Map
-[Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Zhinan+Temple+Taipei|Taipei+Zoo|Elephant+Mountain+Xiangshan+Taipei|Taipei+101&travelmode=transit)
+[Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Zhinan+Temple+Taipei|Taiwan+Design+Museum+Songshan+Taipei|Elephant+Mountain+Xiangshan+Taipei|Taipei+101&travelmode=transit)
 
 ## Schedule
 
@@ -29,24 +30,25 @@ Kontekst: [replan-taiwan.md](../replan-taiwan.md).
 | 9:45 | ⬆️ **[★★★☆☆ 🏯🗼 Zhinan Temple](https://www.google.com/maps/search/Zhinan+Temple+Taipei)** — **nowe w planie, a to po prostu przystanek gondoli** (wysiadacie i wsiadacie dalej tym samym biletem dziennym). Okazała taoistyczna świątynia na zboczu z panoramą Tajpej. To jest odpowiednik „Zhangu trail" z planu znajomego — u nas realniejszy, bo bez podejścia w upale. | Bezpłatnie |
 | 10:45 | **Herbaciarnie w Maokong** — Mountain Tea House, Found Your Tea albo The Big Tea Pot. Herbata z widokiem na dolinę; **to jest ta część, po którą się tu jedzie** — nie skracajcie jej do 20 minut. Część lokali robi też lunch. | ~NT$300–500 za dzbanek |
 | 12:30 | Gondolą w dół do stacji **Taipei Zoo**, lunch przy dolnej stacji. |  |
-| 13:30 | ✅ **[★★★☆☆ 🐾🧒🦐 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo)** — Jedno z największych w Azji. **Otwarte 9:00–17:00, ostatnie wejście 16:00** — dziś macie realne 3 godziny, po raz pierwszy w tym planie. Pandy, dom pingwinów i szlak formozańskich zwierząt to część, która działa na dzieci. | NT$100 dorosły / NT$60 dziecko 6–12 i uczniowie |
-| 16:45 | MRT Taipei Zoo → **Xiangshan** (~25 min, brązowa → czerwona). |  |
+|  | ⏭️ **Pominięte — [★★★☆☆ 🐾🧒🦐 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo).** Zoo mamy w Warszawie; popołudnie idzie na muzeum designu (dawny wariant 26b). ⚠️ Wybór **Olafa (🦐)**, drugi tego dnia po tarasie 101 — powiedzcie mu sami. |  |
+| 13:30 | ⬆️ MRT Wenshan → **Songshan** (~30 min). **[★★★★☆ 🏛️🎨🐞🦑 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei)** w Songshan Cultural & Creative Park — narodowe muzeum designu, **górna półka naszej listy**. **Wt.–niedz. 10:00–18:00, ostatni bilet 17:30**, zamknięte w pon. (śr. OK). ⬆️ **Awans z wariantu 26b na plan główny.** | NT$50 |
+| 15:30 | **Songshan Cultural & Creative Park** — teren dawnej fabryki tytoniu za dnia, kiedy galerie jeszcze działają; obok **[★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei)** (mieszkania z lat 60. zamienione w butiki) i **[★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei)** (ciuchy dla nastolatka w cenach hurtowych — pozycja dla 15-latka). |  |
+| 16:45 | MRT Songshan → **Xiangshan** (~20 min). ⚠️ Songshan leży **bliżej** Xiangshan niż zoo, więc ten przesiadkowy odcinek jest krótszy niż w starym planie — macie ~15 min zapasu przed podejściem na Elephant Mountain. |  |
 | 17:30 | **[★★★★☆ 🌳🗼 Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei)** — Krótkie, strome podejście (10–20 min). **TO** ikoniczne zdjęcie Taipei 101, z punktu „Six Boulders". 9-latki radzą sobie bez problemu. **Weźcie wodę** — w popołudniowym upale to katorga. **To jest wasz punkt widokowy dnia, w miejsce tarasu 101**: wchodźcie 17:30–18:00, zostańcie na zachód słońca (~18:25) i na zapalenie świateł miasta. | Bezpłatnie |
 | ~18:45 | **⏭️ Taras widokowy Taipei 101 — świadomie NIE planujemy.** ⚠️ **KONFLIKT — Olaf poprosił wprost o taras (🦐), a plan go skreślił.** Znacznik 🦐 zostaje, bo to jego wybór, ale decyzji ⏭️ nie odwracamy sami — to do ustalenia w rodzinie. ★★★☆☆ 🗼📸🦐 Taipei 101 zostaje jako budynek do obejrzenia z dołu i jako galeria handlowa, ale **na taras nie wchodzimy**. Powód: to ten sam produkt co N Seoul Tower, który dostał **2/6** z werdyktem „widok jest lepszy spod wieży" — a tu argument jest jeszcze mocniejszy, bo **z tarasu 101 nie widać 101**; ikoniczny kadr macie za darmo z Elephant Mountain, godzinę wcześniej. Ta sama zasada pozwoliła 17 sie odpuścić Seoul Sky i zaoszczędzić ~174 000 KRW. **Jeśli i tak zechcecie wjechać:** NT$600 dorosły / NT$540 dziecko ≥115 cm — ⚠️ zniżka może wymagać tajwańskiego ID, więc realnie do **~NT$3 600 za szóstkę**; rezerwujcie online, żeby ominąć kolejkę na 5. piętrze. | *nie planowane* |
 | 19:00 | **⚖️ Wybierzcie jedno — przystanek przed Raohe. Pomińcie w całości, jeśli jesteście spóźnieni.** Opcje A i B są w jednym budynku (Shin Kong Mitsukoshi Xinyi, u stóp 101), więc w praktyce są jednym przystankiem. |  |
 |  | **Opcja A ·** **[★★★☆☆ 🎁🧒🦐 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei)** — Największe na Tajwanie. |  |
 |  | **Opcja B ·** **[★★★☆☆ 🎁🧒🐞🦐🦑 Donguri Republic](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei)** — Sklep Studio Ghibli, wielki Kotobus z Totoro; ta sama galeria. |  |
-|  | **Opcja C ·** **[★★★☆☆ 🎨🛍️ Songshan Cultural & Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei)** — po drodze do Raohe; dawna fabryka tytoniu pełna galerii i sklepów z designem. ⚠️ O tej porze to **tylko teren i sklepy** — Taiwan Design Museum w środku zamyka o 18:00 (ostatni bilet 17:30). Chcecie muzeum? To jest wariant **26b** poniżej. |  |
+|  | ~~**Opcja C ·** Songshan Cultural & Creative Park~~ — **nieaktualne: Songshan zwiedzacie już o 15:30** w bloku po muzeum designu. Zostają realnie tylko opcje A i B. |  |
 | 19:45 | MRT do Songshan. **[★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei)** — Wielka, kolorowa świątynia Mazu **przy samym wejściu na Raohe**; zaliczacie ją po drodze, nie osobno. | Bezpłatnie |
 | 20:00 | **[★★★★☆ 🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei)** — Najlepszy w Tajpej dla smakoszy. 6 stoisk wyróżnionych przez Michelin. **Fuzhou Black Pepper Buns** przy wejściu (zawsze kolejka — warta). | ~NT$200–400/os. |
 | 21:30 | Powrót do hotelu — **pakowanie**, jutro wymeldowanie. |  |
-| | **▸▸ WARIANT 26b · z designem zamiast zoo** — dla dorosłych, mocniejszy kulturalnie | |
-|  | **Taiwan Design Museum to górna półka naszej listy** (design/architektura), a zoo jest kategorią, którą można zobaczyć wszędzie. Poranek (gondola + Zhinan + herbaciarnie do ~12:30) **bez zmian**; wieczór od 17:30 (Elephant Mountain → 101 → Ciyou → Raohe) też **bez zmian**. Różni się tylko popołudnie: |  |
-|  | **13:30 ·** MRT Wenshan → **Songshan** (~30 min). **[★★★★☆ 🏛️🎨🐞🦑 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei)** w Songshan Cultural & Creative Park — narodowe muzeum designu. **Wt.–niedz. 10:00–18:00, ostatni bilet 17:30**, zamknięte w pon. (śr. OK). | NT$50 |
-|  | **15:30 ·** **Songshan Cultural & Creative Park** — teren dawnej fabryki tytoniu za dnia, kiedy galerie jeszcze działają; obok **[★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei)** (mieszkania z lat 60. zamienione w butiki) i **[★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei)** (ciuchy dla nastolatka w cenach hurtowych — pozycja dla 15-latka). |  |
-|  | ⬇️ **Wypada: Taipei Zoo.** |  |
+| | **▸▸ WARIANT 26z · z zoo zamiast designu** — *(dawny plan główny; zoo skreślone 23 sie, zostaje tylko jako awaryjny powrót)* | |
+|  | Ten wariant był planem głównym do 23 sie. **Muzeum designu wygrało** — argument „zoo można zobaczyć wszędzie” był tu zapisany od początku i to on przesądził o cięciu. Wracacie do niego tylko, jeśli muzeum designu okaże się zamknięte. |  |
+|  | **13:30 ·** Gondolą w dół, **[★★★☆☆ 🐾🧒🦐 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo)** — otwarte 9:00–17:00, **ostatnie wejście 16:00**, realne ~3 h. |  |
+|  | ⬇️ **Wypada: Taiwan Design Museum** (i cały blok Songshan po południu). |  |
 
-**⚠️ Gęstość.** 26a to ~12 godzin aktywnie i najdłuższy dzień w Tajpej. Kolejność łamie regułę „poważne rano, dziecięce wieczorem" — bo tu wygrywają godziny otwarcia: zoo **musi** być przed 16:00, a Elephant Mountain **musi** być o zachodzie słońca. **Naturalne cięcia:** blok 19:00 (Pokémon/Donguri) w całości, potem godzina w zoo.
+**⚠️ Gęstość.** Ten dzień to ~11 godzin aktywnie i nadal najdłuższy dzień w Tajpej. Godziny otwarcia dyktują kolejność: muzeum designu **musi** być przed 17:30 (ostatni bilet), a Elephant Mountain **musi** być o zachodzie słońca. ✅ Po wypadnięciu zoo dzień jest **krótszy o ~1 h** i mniej biegany. **Naturalne cięcia:** blok 19:00 (Pokémon/Donguri) w całości, potem blok Songshan po muzeum (15:30).
 
 ---
 
