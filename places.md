@@ -1316,7 +1316,7 @@ Najstarsze ulice Taipei, najlepszy lokalny nocny targ, zakupy w second-handach.
 Nowoczesne Taipei, ikoniczna wieża, najlepsza ulica jedzenia w Azji, nocne targi.
 
 #### Zabytki
-- [★★★☆☆ 🗼📸🦐 Taipei 101](https://www.google.com/maps/search/Taipei+101) — Taras widokowy na 88-89. piętrze; odkryty taras na 91. piętrze (NT$600 dorosły / NT$540 dziecko ≥115 cm). ⚠️ **KONFLIKT — Olaf poprosił wprost o taras (🦐), a plan go skreślił.** Znacznik 🦐 zostaje, bo to jego wybór, ale decyzji ⏭️ nie odwracamy sami — to do ustalenia w rodzinie. ⏭️ **Na taras nie wchodzimy** — ta sama decyzja i ten sam powód co przy N Seoul Tower (2/6: „widok jest lepszy spod wieży"), wzmocniona tym, że **z tarasu 101 nie widać 101**, a ikoniczny kadr jest za darmo z Elephant Mountain tego samego popołudnia. Zeszło z ★★★★★ na ★★★☆☆ — dokładnie tak, jak N Seoul Tower po werdykcie. Sam budynek i galeria u jego stóp zostają w planie 📅 *blisko: Dzień 16 (26 sie)*
+- [★★★☆☆ 🗼📸🦐 Taipei 101](https://www.google.com/maps/search/Taipei+101) — Taras widokowy na 88-89. piętrze; odkryty taras na 91. piętrze (NT$600 dorosły / NT$540 dziecko ≥115 cm). ⬆️ **TARAS WRACA DO PLANU (25 sie)** — konflikt rozstrzygnięty na korzyść Olafa (🦐). Wchodzimy **26 sie po zachodzie**, na widok nocny; ikoniczny kadr samej wieży i tak macie z Elephant Mountain. Czynne 10:00–21:00, **ostatnie wejście ~20:00**. Zeszło z ★★★★★ na ★★★☆☆ — dokładnie tak, jak N Seoul Tower po werdykcie. Sam budynek i galeria u jego stóp zostają w planie 📅 *blisko: Dzień 16 (26 sie)*
 - [★★★☆☆ 🎨🛍️ Songshan Cultural and Creative Park](https://www.google.com/maps/search/Songshan+Cultural+and+Creative+Park+Taipei) — Dawna fabryka tytoniu; galerie pop-up, butiki
 - [★★☆☆☆ 🚶🛍️ 44 South Military Village (Si Si Nan Cun)](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Retro osiedle; kawiarnie, rękodzieło, wystawy 📅 *blisko: Dzień 16 (26 sie)*
 - [★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei) — Okazała, barwna świątynia Mazu przy Raohe Night Market 📅 **Dzień 16 (26 sie)**
@@ -1356,7 +1356,7 @@ Najlepszy dzień dla dzieci w Taipei — nauka, kosmos, karuzele, a potem nocny 
 - [★★★☆☆ 🏛️🧒🦐👶 Taipei Astronomical Museum](https://www.google.com/maps/search/Taipei+Astronomical+Museum) — Planetarium, IMAX, wystawy o kosmosie; obok Science Center 📅 **Dzień 15 (25 sie)**
 
 #### Dla dzieci
-- [★★★☆☆ 🎡🧒 Taipei Children's Amusement Park](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park) — Wieża swobodnego spadania, rollercoaster, statek piracki, samochodziki; wstęp NT$30; atrakcje NT$20-100; otwarte 9:00-17:00 (w sob. do 20:00); zamknięte w pon. 📅 **Dzień 15 (25 sie)**
+- [~~★★★☆☆ 🎡🧒 Taipei Children's Amusement Park (臺北市立兒童新樂園)~~](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park) — Wieża swobodnego spadania, rollercoaster, statek piracki, samochodziki; wstęp NT$30; atrakcje NT$20-100; otwarte 9:00-17:00 (w sob. do 20:00); zamknięte w pon. ⏭️ **SKREŚLONE (25 sie)** — ta sama kategoria co NTSEC: park rozrywki dla dzieci mamy w Warszawie, a wyjazd idzie na to, czego w domu nie ma. Spójność z cięciem NTSEC z 23 sie. 📅 **Dzień 15 (25 sie)**
 
 #### Nocny targ
 - [★★★★☆ 🏮 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei) — Największy na Tajwanie (od 1909 r.); ponad 500 stoisk; wielkie kiełbaski, kotlety z kurczaka, smażone bułeczki 📅 **Dzień 15 (25 sie)**
