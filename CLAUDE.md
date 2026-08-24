@@ -16,7 +16,6 @@ Personal family trip planner for a **Korea + Taiwan trip, Aug 11–29, 2026** (S
 | `passes.md` | City/transport/transit passes, transit cards, eSIM/connectivity. |
 | `places.md` | Master place catalog (region → district → category). Parsed by the Python tool. |
 | `packing.md` | Packing list (adults + kids), in Polish. Source of the site's **Pakowanie** tab — each `##` becomes one section, every `- [ ]` a tickable item. |
-| `car.md` | Rental-car decision layer for the **Taiwan** leg → site's **Auto** tab. Which days a car changes (24, 26, 27, 28 sie) vs. which it doesn't, IDP rules, the 6-people-with-luggage vehicle trap, costs, and the knock-on effect on the HSR pass. The hour-by-hour car variants live in the day files as a trailing `## Wariant z samochodem` section — placed **after `## Also Nearby`** so `parse_table` still picks the no-car `## Schedule` as the first table. |
 | *(trip-planner plugin)* | The taste/planning tooling lives in the **`trip-planner`** Claude Code plugin (marketplace `trip-tools`, checked out at **`~/.claude/plugins/marketplaces/trip-tools/`** — skills live under `plugins/trip-planner/skills/<name>/SKILL.md`. It is its own git repo, **github.com/maklipsa/trip-planner**, branch **`master`** not `main`, and it has **no git identity configured** — set `user.name`/`user.email` locally before committing. ⚠️ An earlier note in this file gave `c:\src\trip-planner`; that path does not exist), not in this repo: skills `find-places`, `add-place`, `split-into-days`, plus the rules skills **`priorities`** (priority ladder + 1–5 ★ rubric) and **`day-planning`** (day-shape & clustering). Enable via `.claude/settings.local.json`. |
 | `gmaps_saver.py` / `maps_automator.py` / `markdown_parser.py` | Maps saver: CLI / Playwright automation / Markdown→`Place` parser. |
 | `generate_site_data.py` | Generates `docs/data.js` **and `docs/data.json`** from the Markdown (stdlib only) — one payload, two artifacts. |
@@ -101,7 +100,7 @@ python gmaps_saver.py places.md --list-name "Korea 2026"
 
 Vanilla-JS SPA, no framework/bundler. Open `docs/index.html` directly to preview; push to `main` to deploy.
 
-**Markdown is the single source of truth.** `docs/data.js` holds the `DAYS`, `CHECKLIST`, `PASSES`, `PACKING`, `CARDS`, `PLACES`, `DMZ`, `CAR` globals and is **generated — never hand-edit it.** After editing any Markdown, regenerate:
+**Markdown is the single source of truth.** `docs/data.js` holds the `DAYS`, `CHECKLIST`, `PASSES`, `PACKING`, `CARDS`, `PLACES`, `DMZ` globals and is **generated — never hand-edit it.** After editing any Markdown, regenerate:
 
 ```bash
 python generate_site_data.py    # rewrites docs/data.js AND docs/data.json
@@ -132,7 +131,7 @@ The workflows keep both files in sync on push, but run it locally anyway so prev
 
 ⚠️ **A `GITHUB_TOKEN` push does not trigger other workflows**, so the cron's commit would never reach Pages on its own — `refresh-brief.yml` therefore ends by dispatching `deploy-pages.yml` explicitly (needs `actions: write`). Any future workflow that commits generated files has the same trap.
 
-⚠️ Adding a new top-level Markdown source means touching **three** places: a `build_*` + `payload` entry in `generate_site_data.py`, the `paths:` trigger list in `regen-data.yml` (otherwise a content edit ships stale data), and — if it gets its own tab — `FIXED_TABS` + a render branch in `app.js` plus a `data-tab` button in `index.html`. `car.md` is the worked example.
+⚠️ Adding a new top-level Markdown source means touching **three** places: a `build_*` + `payload` entry in `generate_site_data.py`, the `paths:` trigger list in `regen-data.yml` (otherwise a content edit ships stale data), and — if it gets its own tab — `FIXED_TABS` + a render branch in `app.js` plus a `data-tab` button in `index.html`. `dmz.md` is the worked example. *(`car.md` was the previous example — deleted 24 sie together with its tab, `build_car`, the `CAR` payload key, the summary-line counter and the `regen-data.yml` trigger. Git has the wiring pattern if it's ever needed again.)*
 
 Hand-written HTML in `app.js` (**not** generated, edit directly, and it is in **Polish**): the weather/strategy grid + Closed-Day rule tables + "Optional Swaps" cards on the Packing tab, eSIM/transit notes in `renderPasses`, the emoji legend (`LEGEND_GROUPS`). Tab labels live in `index.html` — translate the label, never the `data-tab` id.
 

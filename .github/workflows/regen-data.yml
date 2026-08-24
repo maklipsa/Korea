@@ -15,7 +15,6 @@ on:
       - 'days/*.md'
       # every other Markdown that generate_site_data.py reads — without these a
       # content edit would ship a stale docs/data.js
-      - 'car.md'
       - 'packing.md'
       - 'dmz.md'
       - 'cards/*.md'

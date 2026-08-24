@@ -66,7 +66,7 @@ Tajwan: 21-29 sie (8 nocy — **Taipei 6 nocy (21-26)** + 2 noce na południu (2
 | 11 | 21 sie (pt) | Lot Busan → Taipei (odlot 9:00) + popołudnie w Zhongzheng: Railway Museum + Huashan | [aug-21-busan-to-taipei.md](days/aug-21-busan-to-taipei.md) |
 | 12 | 22 sie (sob) | Taipei Dzień 1: stare Taipei + dziwne lody + Ximending + Xiahai + TFAM za darmo + Ningxia | [aug-22-taipei-day1.md](days/aug-22-taipei-day1.md) |
 | 13 | 23 sie (niedz) | Taipei Dzień 2 — PÓŁNOC: muzea w Beitou + Thermal Valley + Guandu + **Tamsui** (Fort San Domingo, Fisherman's Wharf) | [aug-23-taipei-day2.md](days/aug-23-taipei-day2.md) |
-| 14 | 24 sie (pon) | ✅ Północno-wschodnie wybrzeże: Shifen (wodospad **5/6**) + kopalnia w Jinguashi (**5/6**) + Jiufen o zmierzchu (4/6) — ⏭️ bez Yehliu i bez lampionów | [aug-24-northeast-coast.md](days/aug-24-northeast-coast.md) |
+| 14 | 24 sie (pon) | ✅ Północno-wschodnie wybrzeże **w komplecie dzięki Uberom**: Yehliu (4,5/6) + Shifen (wodospad **5/6**) + kopalnia w Jinguashi (**5/6**) + Jiufen o zmierzchu (4/6) — ⏭️ bez lampionów | [aug-24-northeast-coast.md](days/aug-24-northeast-coast.md) |
 | 15 | 25 sie (wt) | Taipei Dzień 3 — SHILIN: **NPM** + Shung Ye + planetarium + Shilin Night Market (⏭️ centrum nauki odpadło — Kopernik) | [aug-25-taipei-day3.md](days/aug-25-taipei-day3.md) |
 | 16 | 26 sie (śr) | Taipei Dzień 4: Maokong Gondola + Zhinan Temple + **Taiwan Design Museum** → wieczór Xinyi (Elephant Mtn, Raohe) (⏭️ zoo odpadło) | [aug-26-maokong-xinyi.md](days/aug-26-maokong-xinyi.md) |
 | 17 | 27 sie (czw) | ⚠️ **4 WARIANTY** — wymeldowanie z Tajpej + Chia Te → Taichung / Tainan / Hualien | [aug-27-departure-south.md](days/aug-27-departure-south.md) |
@@ -80,7 +80,7 @@ Tajwan: 21-29 sie (8 nocy — **Taipei 6 nocy (21-26)** + 2 noce na południu (2
 - [Passy, karty i łączność — szczegóły](passes.md)
 - [Wszystkie miejsca według dzielnic](places.md)
 - [Lista rzeczy do pakowania — dorośli i dzieci (PL)](packing.md)
-- [Auto na Tajwanie — warianty dni z wynajętym samochodem i bez](car.md) — które 4 dni z 9 realnie się zmieniają (24, 26, 27, 28 sie), formalności (IDP), pułapka „7-osobowego" auta przy 6 osobach z bagażem, koszty i skutek dla HSR Pass
+- ~~Auto na Tajwanie~~ — **usunięte 24 sie: jedziemy bez auta** — które 4 dni z 9 realnie się zmieniają (24, 26, 27, 28 sie), formalności (IDP), pułapka „7-osobowego" auta przy 6 osobach z bagażem, koszty i skutek dla HSR Pass
 
 ---
 

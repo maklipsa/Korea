@@ -16,7 +16,6 @@ Wczesny lot: **PUS → TPE odlot 9:00, przylot do Taipei (Taoyuan) 10:30** (czas
 
 **Transport (dzień przelotu):** lot PUS → TPE (na Gimhae ~06:15), potem Airport MRT/autobus do Taipei; po południu lekko — MRT i spacery.
 
-🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** W mieście jesteście ~13:00, a wieczór to MRT i spacer; auto trzeba by odebrać na TPE i całą noc opłacać parking pod hotelem. Zestawienie wszystkich dni: [car.md](../car.md).
 
 ## Route Map
 

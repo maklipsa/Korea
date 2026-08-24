@@ -18,7 +18,6 @@ Wtorek — po przesunięciu planu ten dzień **nie jest już dniem „awaryjnym 
 
 **Transport (zwarty — przyjazny rowerom):** Park rozrywki / centrum nauki / planetarium leżą ~1–2 km od siebie w Shilin — pieszo albo **YouBike** — potem metrem do Shilin Night Market. **NPM dokłada jedną jazdę autobusem** ze stacji Shilin (~15–20 min, autobusy R30 / 255 / 304 / minibus 18–19); to jedyny przejazd dnia poza pieszym klastrem.
 
-🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Trzy punkty dnia stoją 1–2 km od siebie w jednej dzielnicy, a wieczór to nocny targ; auto stałoby zaparkowane. Zestawienie wszystkich dni: [car.md](../car.md).
 
 ## Route Map
 [Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Shilin+Night+Market+Taipei&waypoints=Shung+Ye+Museum+Formosan+Aborigines+Taipei|Taipei+Astronomical+Museum&travelmode=transit)

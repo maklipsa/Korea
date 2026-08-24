@@ -16,7 +16,6 @@ Uzasadnienie i pełny kontekst przeplanowania: [replan-taiwan.md](../replan-taiw
 
 **Transport (jedna linia, cały dzień):** MRT czerwona linia. Xinbeitou ⇄ Beitou (1 przystanek odnogą), Beitou → Guandu (3 przystanki, ~6 min), Guandu → Tamsui (~12 min). Z Xinbeitou do Tamsui liczcie **~25 min** łącznie, nie godzinę.
 
-🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Dzień, który wcześniej był „na granicy" i kandydował do auta, przestał nim być: cała trasa leży na jednej linii MRT, a Tamsui Old Street i Xinbeitou to ciasne zaułki, gdzie parkowanie zjada każdą oszczędność. Zestawienie wszystkich dni: [car.md](../car.md).
 
 ## Route Map
 [Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Ketagalan+Culture+Center+Beitou+Taipei&destination=Tamsui+Fishermans+Wharf&waypoints=Thermal+Valley+Beitou+Taipei|Beitou+Hot+Spring+Museum+Taipei|Guandu+Temple+Taipei|Fort+San+Domingo+Tamsui|Tamsui+Old+Street&travelmode=transit)

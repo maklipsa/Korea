@@ -22,7 +22,6 @@ PASSES_MD = ROOT / "passes.md"
 PLACES_MD = ROOT / "places.md"
 PACKING_MD = ROOT / "packing.md"
 DMZ_MD = ROOT / "dmz.md"
-CAR_MD = ROOT / "car.md"
 DAYS_DIR = ROOT / "days"
 OUT = ROOT / "docs" / "data.js"
 OUT_JSON = ROOT / "docs" / "data.json"
@@ -684,14 +683,6 @@ def build_dmz():
     return {"title": title, "html": render_card_markdown(text, {})}
 
 
-def build_car():
-    if not CAR_MD.exists():
-        return None
-    text = CAR_MD.read_text(encoding="utf-8")
-    title = next((md_plain(ln[2:]) for ln in text.splitlines() if ln.startswith("# ")), "Auto")
-    return {"title": title, "html": render_card_markdown(text, {})}
-
-
 # --- emit -------------------------------------------------------------------
 
 def js_block(name, data):
@@ -733,7 +724,6 @@ def main():
     cards = build_cards()
     places = build_places()
     dmz = build_dmz()
-    car = build_car()
     packing = build_packing()
 
     header = (
@@ -757,7 +747,6 @@ def main():
         "CARDS": cards,
         "PLACES": places,
         "DMZ": dmz,
-        "CAR": car,
         "PACKING": packing,
     }
     OUT.write_text(
@@ -771,7 +760,7 @@ def main():
     print(f"Wrote {OUT.relative_to(ROOT)} and {OUT_JSON.relative_to(ROOT)}")
     print(f"  {len(days)} days, {len(checklist)} checklist items, "
           f"{len(passes)} passes, {len(cards)} cards, {len(places)} place regions, "
-          f"dmz={'yes' if dmz else 'no'}, car={'yes' if car else 'no'}, "
+          f"dmz={'yes' if dmz else 'no'}, "
           f"packing={len(packing['sections']) if packing else 0} sections")
     stamp_asset_versions()
 

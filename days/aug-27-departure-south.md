@@ -7,7 +7,6 @@
 
 **Rekomendacja, jeśli pytacie o jedną:** **wariant B** (Tainan + Kaohsiung) — dwa pełne dni w dwóch miastach, tylko dwie zmiany bazy i jedyny wariant, w którym HSR Pass się zwraca. **Wariant C** jest najspokojniejszy, ale oddaje całe południe. **Wariant D odpada** — patrz [28 sie](aug-28-south-day2.md).
 
-🚗 **Auto:** stary rozdział „van na 26–28 sie" w [car.md](../car.md) dotyczy dat, których już nie ma. Do przeliczenia po wyborze wariantu.
 
 ## Route Map
 

@@ -76,7 +76,7 @@ Kup: Klook, KKday lub strona Taipei Fun Pass (tylko jeśli wybierzecie wariant 3
 
 Taryfy bazowe (potwierdzone, pełne odcinki do Tajpej): Tajpej ↔ Taichung NT$700 · Taichung ↔ Tainan NT$650 · Kaohsiung (Zuoying) ↔ Tajpej NT$1,490.
 
-⚠️ **Auto:** dawny warunek „bez wynajętego auta" dotyczył vana na 26–28 sie, czyli dat, których już nie ma. Jeśli wracacie do pomysłu auta, przelicz od nowa: [car.md](car.md).
+✅ **Auto: jedziemy BEZ auta** (decyzja 24 sie) — warunek „bez wynajętego auta" jest spełniony, więc HSR Flexible 2-day Pass wchodzi w grę bez zastrzeżeń. 🚕 **Zamiast auta: Uber.** Sprawdzony 24 sie na wybrzeżu — dwa kursy skleiły dzień, którego transport publiczny nie sklejał (Yehliu→Shifen, Shifen→Jinguashi). Na 27–28 sie (Tainan, Kaohsiung) to domyślny sposób na punkty poza centrum.
 
 Kup: Klook, KKday lub na stacjach THSR (z paszportem).
 

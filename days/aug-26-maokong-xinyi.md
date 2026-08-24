@@ -17,7 +17,6 @@ Kontekst: [replan-taiwan.md](../replan-taiwan.md).
 
 **Transport:** MRT brązowa linia (Wenshan–Neihu) na całą pierwszą połowę dnia — stacja **Taipei Zoo** to jej południowy koniec i tam startuje gondola (sama stacja zostaje w trasie, samo zoo nie). Po południu brązowa linia dalej na **Songshan**, wieczorem → Xinyi.
 
-🚗 **Wynajęte auto nic tu nie zmienia — brak wariantu alternatywnego.** Gondola i tak wymaga zostawienia auta przy dolnej stacji, a Xinyi wieczorem to najgorsze parkowanie w mieście. Zestawienie wszystkich dni: [car.md](../car.md).
 
 ## Route Map
 [Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Zhinan+Temple+Taipei|Taiwan+Design+Museum+Songshan+Taipei|Elephant+Mountain+Xiangshan+Taipei|Taipei+101&travelmode=transit)
