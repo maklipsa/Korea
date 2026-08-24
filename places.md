@@ -1380,7 +1380,7 @@ Naturalne gorące źródła rano, plantacje herbaty i gondola po południu.
 
 #### Wyjątkowe doświadczenia
 - [★★★☆☆ 🎨🚶 Treasure Hill Artist Village](https://www.google.com/maps/search/Treasure+Hill+Artist+Village+Taipei) — Opuszczona osada zamieniona w kolonię artystów; warsztaty robotów, neonowe instalacje, rzeźby na wolnym powietrzu 📅 *blisko: Dzień 17 (27 sie)*
-- [★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) — Dawne miasteczko górnicze; setki przyjaznych kotów; mostki w kształcie kotów; łatwy dojazd pociągiem z Taipei 📅 **Dzień 14 (24 sie)**
+- [★★★☆☆ 🐾🧒 Houtong Cat Village](https://www.google.com/maps/search/Houtong+Cat+Village+Taiwan) — Dawne miasteczko górnicze; setki przyjaznych kotów; mostki w kształcie kotów; łatwy dojazd pociągiem z Taipei
 - ★★★☆☆ 📸🧒 Airport Alley (lotnisko Songshan) — Samoloty lądują kilka metrów od ciebie; bezpłatnie, dla dzieci wielkie przeżycie
 - [★★★☆☆ 🎁🧒🦐 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei) — Największy na Tajwanie; gadżety dostępne tylko tutaj 📅 **Dzień 16 (26 sie)**
 - [★★★☆☆ 🎁🧒🐞🦐🦑 Donguri Republic (Studio Ghibli Store)](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei) — Najwyższe piętro Shin Kong Mitsukoshi A8; wielki kotobus Totoro, do którego dzieci mogą wejść 📅 **Dzień 16 (26 sie)**
