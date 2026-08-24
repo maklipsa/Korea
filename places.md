@@ -1296,7 +1296,7 @@ Najstarsze ulice Taipei, najlepszy lokalny nocny targ, zakupy w second-handach.
 - [★★★☆☆ 🚶🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei) — Bary w kontenerach, street food, widoki na zachód słońca 📅 **Dzień 12 (22 sie)**
 - [★★☆☆☆ 🛍️ Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei) — Second-handy, oryginalne kawiarnie, niezależne akcesoria 📅 *blisko: Dzień 12 (22 sie)*
 - [★★☆☆☆ 🛍️ Zhongshan Underground Book Street (Eslite R79)](https://www.google.com/maps/search/Eslite+R79+Taipei) — Podziemna galeria z księgarniami, winylami, papeterią i pamiątkami 📅 *blisko: Dzień 12 (22 sie)*
-- [★★★☆☆ 🎡🗼🦐 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — Diabelski młyn o wysokości 95 m; świetne widoki na zachód słońca 📅 *blisko: Dzień 15 (25 sie)*
+- [★★★☆☆ 🎡🗼🦐 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — Diabelski młyn o wysokości 95 m; świetne widoki na zachód słońca 📅 **Dzień 15 (25 sie)**
 
 #### Kawiarnie
 - [★★☆☆☆ ☕ ABCD (A Better Coffee & Doughnuts)](https://www.google.com/maps/search/ABCD+cafe+Taipei) — Wejście w kształcie wielkiego pączka; kreatywne pączki 📅 *blisko: Dzień 12 (22 sie)*
