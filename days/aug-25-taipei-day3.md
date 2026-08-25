@@ -7,6 +7,8 @@
 
 ⏱️ **Jedyny twardy limit: ostatni bilet do muzeum designu o 17:30** (zamyka 18:00). Reszta dnia się nie goni — młyn i nocny targ chodzą do późna.
 
+➕ **Poza planem (25 sie):** przy okazji Songshanu doskoczyliście do Xinyi i zaliczyliście **Pokémon Center Taipei ✅ 4/6** oraz **Donguri Republic ✅ 4/6** — oba miały być dopiero 26 sie wieczorem.
+
 ## Route Map
 [Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Shilin+Night+Market+Taipei&waypoints=Shung+Ye+Museum+Formosan+Aborigines+Taipei|Taipei+Astronomical+Museum&travelmode=transit)
 

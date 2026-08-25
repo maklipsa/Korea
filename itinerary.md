@@ -11,6 +11,29 @@ Tajwan: 21-29 sie (8 nocy — **Taipei 6 nocy (21-26)** + 2 noce na południu (2
 
 ---
 
+## 🌀 TAJFUN SAUDEL (沙德爾) — stan na 25 sie, sprawdzajcie codziennie
+
+**To nie jest teoretyczne ostrzeżenie — południe już zostało zalane, jeszcze przed tajfunem.**
+
+**Co się już wydarzyło (23–25 sie):** 23 sie stacja Kaohsiung zanotowała **531,5 mm w jedną dobę**, Tainan i Pingtung ponad 400 mm. **~271 podtopień w kraju: Kaohsiung ~154, Tainan ~77, Pingtung ~40.** W Tainanie, Kaohsiungu i Pingtung **odwołano pracę i szkoły 23 sie**, w Kaohsiungu także 24 sie, a **25 sie Kaohsiung i część Pingtung miały „豪雨假”** (wolne z powodu ulewy). Meteorolodzy porównują to do powodzi z 23 sierpnia 2018 — najcięższy epizod od Morakota (2009).
+
+**Sam tajfun:** osłabł do **średniego** (43 m/s, 25 sie rano). **海警 — środa 26 sie rano, 陸警 — środa 26 sie wieczorem.** Najbliżej Taiwanu **w nocy z 27 na 28 sie**; centrum wchodzi na morze **na północ** od wyspy, **krawędź pola wiatru muska północ Taiwanu**, lądowanie w piątek wieczorem koło **Matsu → Fujian**. Bezpośrednie wejście na Taiwan mało prawdopodobne, ale nie wykluczone.
+
+| Dzień | Co to znaczy dla nas |
+|---|---|
+| **26 sie (śr) — Tajpej** | Rano OK. ⚠️ **陸警 wieczorem** + burze popołudniowe. Ryzykowny jest **wieczór**: Elephant Mountain, odkryty taras 101 (91F i Skyline 460 zamykają przy wietrze) i Raohe. **Gondola Maokong o 9:00 powinna zdążyć — ale sprawdźcie, czy kursuje, ZANIM pojedziecie do Wenshan** (zawiesza się przy silnym wietrze). |
+| **27 sie (czw) — wyjazd na południe** | ✅ **Timing wychodzi na plus: wyjeżdżacie z północy dokładnie wtedy, gdy północ dostaje.** Sprawdźcie status HSR rano. Wieczorem na północy ulewy. |
+| **28 sie (pt) — południe** | Najbliższe podejście nad ranem, potem tajfun odchodzi ku Fujian. Pole wiatru jest **nad północą**, więc na południu problemem jest **nasiąknięty grunt i deszcz**, nie wichura. ⚠️ **Prom na Cijin może nie pływać.** Miejcie plan wewnętrzny. |
+| **29 sie (sob) — lot 19:25** | ✅ Poprawa, przelotne opady. Ryzyko dla lotu **niskie**, ale sprawdźcie status lotu i HSR rano. |
+
+⚠️ **Wariant C (Nantou / Sun Moon Lake) jest pod tę pogodę najgorszy** — prognoza wskazuje **lokalne ulewy w górach środkowych**, a to drogi górskie, ryzyko osuwisk i kolejka linowa, która staje przy wietrze. Warianty A i B trzymają się nizin.
+
+🔴 **Rezerwując nocleg na 27–28 sie, bierzcie darmowe anulowanie.**
+
+Źródła: [CNA](https://www.cna.com.tw/news/ahel/202608240202.aspx) · [Focus Taiwan](https://focustaiwan.tw/society/202608250005) · [Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863110) · [CWA](https://www.cwa.gov.tw/eng/)
+
+---
+
 ## PRZED WYJAZDEM — Lista rezerwacji
 
 ### Rezerwuj 2-4 tygodnie wcześniej
