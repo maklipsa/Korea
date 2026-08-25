@@ -67,8 +67,8 @@ Tajwan: 21-29 sie (8 nocy — **Taipei 6 nocy (21-26)** + 2 noce na południu (2
 | 12 | 22 sie (sob) | Taipei Dzień 1: stare Taipei + dziwne lody + Ximending + Xiahai + TFAM za darmo + Ningxia | [aug-22-taipei-day1.md](days/aug-22-taipei-day1.md) |
 | 13 | 23 sie (niedz) | Taipei Dzień 2 — PÓŁNOC: muzea w Beitou + Thermal Valley + Guandu + **Tamsui** (Fort San Domingo, Fisherman's Wharf) | [aug-23-taipei-day2.md](days/aug-23-taipei-day2.md) |
 | 14 | 24 sie (pon) | ✅ Północno-wschodnie wybrzeże **w komplecie dzięki Uberom**: Yehliu (4,5/6) + Shifen (wodospad **5/6**) + kopalnia w Jinguashi (**5/6**) + Jiufen o zmierzchu (4/6) — ⏭️ bez lampionów | [aug-24-northeast-coast.md](days/aug-24-northeast-coast.md) |
-| 15 | 25 sie (wt) | Taipei Dzień 3 — SHILIN: **NPM** + Shung Ye + planetarium + Shilin Night Market (⏭️ centrum nauki odpadło — Kopernik) | [aug-25-taipei-day3.md](days/aug-25-taipei-day3.md) |
-| 16 | 26 sie (śr) | Taipei Dzień 4: Maokong Gondola + Zhinan Temple + **Taiwan Design Museum** → wieczór Xinyi (Elephant Mtn, Raohe) (⏭️ zoo odpadło) | [aug-26-maokong-xinyi.md](days/aug-26-maokong-xinyi.md) |
+| 15 | 25 sie (wt) | Taipei Dzień 3 — **NPM** + Shung Ye → Taiwan Design Museum + Songshan → diabelski młyn o zachodzie → Shilin Night Market (⏭️ planetarium odpadło) | [aug-25-taipei-day3.md](days/aug-25-taipei-day3.md) |
+| 16 | 26 sie (śr) | Taipei Dzień 4: Maokong Gondola + Zhinan Temple → **Fubon Art Museum** → Elephant Mountain → **taras Taipei 101** → Raohe | [aug-26-maokong-xinyi.md](days/aug-26-maokong-xinyi.md) |
 | 17 | 27 sie (czw) | ⚠️ **4 WARIANTY** — wymeldowanie z Tajpej + Chia Te → Taichung / Tainan / Hualien | [aug-27-departure-south.md](days/aug-27-departure-south.md) |
 | 18 | 28 sie (pt) | ⚠️ **4 WARIANTY** — drugi dzień na południu: Tainan / Kaohsiung / Nantou / Taroko | [aug-28-south-day2.md](days/aug-28-south-day2.md) |
 | 19 | 29 sie (sob) | Powrót z południa (wysiadka **Taoyuan HSR**, nie Tajpej) → lot do domu (odlot 19:25) | [aug-29-return-fly-home.md](days/aug-29-return-fly-home.md) |
