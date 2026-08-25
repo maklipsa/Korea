@@ -1,16 +1,19 @@
 # Aug 27 (Thu) — Wymeldowanie z Tajpej → wyjazd na 2 noce (4 WARIANTY)
-> Badges: pass:HSR — zależy od wariantu, patrz passes.md; closed:czwartek — nic z poniższych nie zamyka
+> Badges: pass:HSR Flexible 2-day Pass NT$2,500 — opłaca się TYLKO w wariancie B; closed:czwartek — nic z poniższych nie zamyka
 
-⚠️ **DZIEŃ NIEROZSTRZYGNIĘTY.** Hotel w Tajpej kończy się **dziś rano** (noce 21–26 sie), a na **27 i 28 sie** macie dwie noce poza miastem. Kierunek nie jest wybrany — harmonogram niżej zawiera **wspólny poranek + cztery warianty w jednej tabeli**. Porównanie z rachunkiem HSR i tym, co każdy wariant oddaje: **[replan-taiwan.md](../replan-taiwan.md)**.
+⭐⭐ **PLAN GŁÓWNY: WARIANT B — Tainan (27 sie) → Kaohsiung (28 sie).** Rozpisany jako pierwszy w harmonogramie; A i C zostają jako zapasowe, D jest odrzucony.
 
-**Gdy wybierzecie wariant, ten plik zostanie przepisany na jeden pełny dzień** (harmonogram co pół godziny, ceny, trasa, sekcja z autem) — dziś to szkielety decyzyjne, nie gotowy dzień.
+**Dlaczego B:** daje **3 z 4 południowych punktów Szymona (🦑)** — Tainan Art Museum, Pier-2, KMFA — wobec 2 w A i 1 w C. Trafia też w dwie kategorie, które na tym wyjeździe realnie punktują: **dziedzictwo przemysłowe i sztuka współczesna** (Pier-2 to jedno i drugie naraz — portowe magazyny z galeriami; Gold Museum dostało 5/6, a jedyne 6/6 całego wyjazdu poszło na fotografię współczesną). Ma **największy zapas na dzień lotu** (Zuoying leży w mieście, TPE ~15:35) i jest **jedynym wariantem, w którym HSR Pass się zwraca** — [passes.md](../passes.md).
 
-**Rekomendacja, jeśli pytacie o jedną:** **wariant B** (Tainan + Kaohsiung) — dwa pełne dni w dwóch miastach, tylko dwie zmiany bazy i jedyny wariant, w którym HSR Pass się zwraca. **Wariant C** jest najspokojniejszy, ale oddaje całe południe. **Wariant D odpada** — patrz [28 sie](aug-28-south-day2.md).
+⚠️ **Słabe punkty B są do odpuszczenia na miejscu:** Anping Old Street i Shennong Street to kategoria „sławne + tłoczne + fotogeniczne”, która ma **6 nietrafień na 6** — żaden z nich nie jest nośny.
 
+🔴 **NOCLEG NA 27 I 28 SIE NADAL NIEZAREZERWOWANY** — a to pojutrze. Wariant *jest* rezerwacją: B = jedna noc w **Tainanie**, druga w **Kaohsiungu**.
+
+⏳ **Uwaga do wariantu C:** zwiedzanie Chung Tai z mniszką po angielsku wymagało rezerwacji do **24 sie** — ten termin minął, więc C stracił swój sztandarowy punkt (świątynia i muzeum nadal są otwarte z ulicy, a muzeum jest bezpłatne maj–sie 2026).
 
 ## Route Map
 
-Zależna od wariantu — do uzupełnienia po decyzji. Wspólny początek: hotel → **Chia Te Bakery** (Nanjing E Rd) → Taipei Main / Nangang.
+**Trasa wariantu B (plan główny):** hotel → **Chia Te Bakery** (Nanjing E Rd) → Taipei Main → HSR → **Tainan HSR** → taksówka do centrum → Guohua St → Chihkan Tower → Grand Matsu → Tainan Art Museum → Shennong St → Garden Night Market. Trasy wariantów zapasowych — po decyzji.
 
 ## Schedule
 
@@ -21,15 +24,7 @@ Zależna od wariantu — do uzupełnienia po decyzji. Wspólny początek: hotel 
 | 8:15 | 🎁 **[★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei)** — ⬆️ **przeniesione z dawnego 29 sie, bo 29 sie już nie ma poranka w Tajpej.** Najpopularniejsza cukiernia z ciastkami ananasowymi (Nanjing E Rd, Songshan), codziennie ~8:30–20:30. **Idźcie wcześnie — kolejki są realne.** Dziś jest ostatnia sensowna okazja na pamiątki. | ~NT$400–600/pudełko |
 |  | Obok: **[★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei)** — nadzienie w 100% z ananasa (nie z dyni), inny styl ciastka; dają całe ciastko + herbatę do próbowania. |  |
 | 9:00 | Taipei Main (albo Nangang, jeśli wygodniej z hotelu) → peron HSR/TRA. ⚠️ **Sprawdźcie, czy wasz pociąg to szybki skład z ograniczoną liczbą przystanków** — różnica na trasie do Taichung to 50 min vs ~1 h 15. |  |
-| | **▸▸ WARIANT A · Taichung** — HSR ~50 min, NT$700 · nocleg: **Taichung** | |
-| 10:00 | Przyjazd **HSR Taichung**. Bagaż do **skrytek na stacji** albo od razu do hotelu. |  |
-| 10:30 | Taksówka ~20 min (**2 samochody na 6 osób** — autobusy w Taichung zjadają harmonogram) → **[★★★★★ 🏛️🧒🐞 National Museum of Natural Science](https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung)** — flagowe muzeum przyrodnicze Tajwanu, bardzo przyjazne dzieciom. |  |
-| 12:30 | Taksówka ~10 min → **[★★★★☆ 🎭📸 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater)** — Toyo Ito, laureat Pritzkera; falujący beton, foyer i ogród na dachu bezpłatnie. ⚠️ Zamknięte w pon. — czw. OK. | Bezpłatnie |
-| 13:30 | Taksówka ~15 min do centrum. Lunch: **[★★★☆☆ 🛍️🍜 Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market)** — stuletnie stragany, ryż z duszoną wieprzowiną. |  |
-| 14:30 | **[★★★★☆ ☕📸 Miyahara Ice Cream](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung)** — dawna klinika okulistyczna z lat 40., wnętrze jak z „Harry'ego Pottera". 5 min pieszo od targu. |  |
-| 15:30 | ⬆️ **[★★★★☆ 🏛️🐞🦑 National Taiwan Museum of Fine Arts (NTMoFA)](https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung)** — **to jest zysk tego wariantu.** W starym planie Taichung miał tylko tranzytowe przedpołudnie i NTMoFA nie miało szans; teraz wchodzi w całości. Obok **Calligraphy Greenway**. |  |
-| 18:00 | Kolacja + **[★★★★☆ 🏮 Fengjia Night Market](https://www.google.com/maps/search/Fengjia+Night+Market+Taichung)** — największy nocny targ na Tajwanie (studencki, tani, ogromny). | ~NT$200–400/os. |
-| | **▸▸ WARIANT B · Tainan** — HSR ~1 h 45, ~NT$1 350 · nocleg: **Tainan** · ⭐ rekomendowany | |
+| | **▸▸ WARIANT B · Tainan → (28 sie) Kaohsiung** — HSR ~1 h 45, ~NT$1 350 · nocleg: **Tainan** · ⭐⭐ **PLAN GŁÓWNY — ten wariant rozpisujemy jako pierwszy** | |
 | 11:00 | Przyjazd **Tainan HSR** — ⚠️ **stacja leży ~17 km na wschód od miasta.** Taksówka do centrum ~30–40 min (autobusy znacznie wolniejsze). Bagaż do hotelu. |  |
 | 12:30 | Lunch: obchód **[★★★☆☆ 🍜 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan)**. Tainan jest kulinarną stolicą Tajwanu — tu jedzenie **jest** atrakcją, nie dodatkiem. |  |
 | 13:30 | Klaster świątynny, wszystko pieszo: **[★★★★☆ 🏯 Chihkan Tower](https://www.google.com/maps/search/Chihkan+Tower+Tainan)** (Fort Provintia, holenderski 1653) → **[★★★☆☆ 🏯 Grand Matsu Temple](https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan)** → **[★★★★☆ 🏯 Official God of War Temple](https://www.google.com/maps/search/Official+God+of+War+Temple+Tainan)** → **[★★★★☆ 🏯 Tainan Confucius Temple](https://www.google.com/maps/search/Tainan+Confucius+Temple)** (1665, najstarsza na Tajwanie). | Bezpłatnie / drobne |
@@ -37,10 +32,18 @@ Zależna od wariantu — do uzupełnienia po decyzji. Wspólny początek: hotel 
 | 17:00 | **[★★★☆☆ 🚶📸 Shennong Street](https://www.google.com/maps/search/Shennong+Street+Tainan)** — z czasów Qing, kawiarnie w stuletnich kamienicach. ⬇️ Obniżone po kalibracji z 19 sie (kategoria „fotogeniczna stara ulica" u nas nie dowozi). |  |
 | 18:30 | **Garden Night Market** — ⚠️ **rotacja „大大武花": czw. = Garden.** Dadong (pon./wt./pt.) i Wusheng (śr./sob.) **dziś nie działają**. | ~NT$200–400/os. |
 |  | ⚠️ **W tym wariancie Anping przechodzi na poranek [28 sie](aug-28-south-day2.md)** — forty zamykają ~17:10–17:30, więc po tak długim przejeździe dziś się nie zmieszczą. To zaleta, nie wada: Anping dostaje poranek zamiast resztek dnia. |  |
-| | **▸▸ WARIANT C · Taichung** (dzień identyczny z wariantem A) | |
+| | **▸▸ *(wariant zapasowy)* WARIANT A · Taichung** — HSR ~50 min, NT$700 · nocleg: **Taichung** | |
+| 10:00 | Przyjazd **HSR Taichung**. Bagaż do **skrytek na stacji** albo od razu do hotelu. |  |
+| 10:30 | Taksówka ~20 min (**2 samochody na 6 osób** — autobusy w Taichung zjadają harmonogram) → **[★★★★★ 🏛️🧒🐞 National Museum of Natural Science](https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung)** — flagowe muzeum przyrodnicze Tajwanu, bardzo przyjazne dzieciom. |  |
+| 12:30 | Taksówka ~10 min → **[★★★★☆ 🎭📸 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater)** — Toyo Ito, laureat Pritzkera; falujący beton, foyer i ogród na dachu bezpłatnie. ⚠️ Zamknięte w pon. — czw. OK. | Bezpłatnie |
+| 13:30 | Taksówka ~15 min do centrum. Lunch: **[★★★☆☆ 🛍️🍜 Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market)** — stuletnie stragany, ryż z duszoną wieprzowiną. |  |
+| 14:30 | **[★★★★☆ ☕📸 Miyahara Ice Cream](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung)** — dawna klinika okulistyczna z lat 40., wnętrze jak z „Harry'ego Pottera". 5 min pieszo od targu. |  |
+| 15:30 | ⬆️ **[★★★★☆ 🏛️🐞🦑 National Taiwan Museum of Fine Arts (NTMoFA)](https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung)** — **to jest zysk tego wariantu.** W starym planie Taichung miał tylko tranzytowe przedpołudnie i NTMoFA nie miało szans; teraz wchodzi w całości. Obok **Calligraphy Greenway**. |  |
+| 18:00 | Kolacja + **[★★★★☆ 🏮 Fengjia Night Market](https://www.google.com/maps/search/Fengjia+Night+Market+Taichung)** — największy nocny targ na Tajwanie (studencki, tani, ogromny). | ~NT$200–400/os. |
+| | **▸▸ *(wariant zapasowy)* WARIANT C · Taichung** (dzień identyczny z wariantem A) | |
 | 10:00 | **Dzień taki sam jak wariant A.** Różnica pojawia się dopiero [28 sie](aug-28-south-day2.md): zamiast jechać do Tainanu, zostajecie w regionie i robicie **Nantou — Chung Tai + Sun Moon Lake**. |  |
 |  | 🔴 **Do zrobienia z góry:** zwiedzanie **Chung Tai Chan Temple** z mniszką po angielsku wymaga rezerwacji **~3 dni wcześniej**, czyli najpóźniej **24 sie**. Jeśli ta data minie bez rezerwacji, wariant C traci połowę sensu. |  |
-| | **▸▸ WARIANT D · Hualien** — TRA ~2 h 05, ~NT$440 · ❌ nie polecam | |
+| | **▸▸ *(odrzucony)* WARIANT D · Hualien** — TRA ~2 h 05, ~NT$440 · ❌ nie polecam | |
 | 10:00 | **TRA Tajpej → Hualien** pociągiem Puyuma/Taroko. ⚠️ **Te bilety wyprzedają się** — sprzedaż otwiera się 28 dni wcześniej, czyli dla 27 sie: **30 lipca**. |  |
 | 13:00 | Popołudnie w samym Hualien: **Pine Garden**, Qingxiu Temple, nocny targ **Dongdamen**. Liyu Lake i Qingshui Cliffs wymagają auta. |  |
 |  | ❌ **Powód odrzucenia leży w [28 sie](aug-28-south-day2.md):** Taroko po trzęsieniu z kwietnia 2024 jest otwarte tylko częściowo i **nie te części, po które się tam jedzie**. Plus wyprzedający się pociąg między wami a lotem 29 sie. |  |

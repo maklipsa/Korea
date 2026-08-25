@@ -2923,11 +2923,11 @@
       "title": "Wymeldowanie z Tajpej → wyjazd na 2 noce (4 Warianty)",
       "country": "taiwan",
       "summary": "⚠️ <strong>4 WARIANTY</strong> — wymeldowanie z Tajpej + Chia Te → Taichung / Tainan / Hualien",
-      "notes": "⚠️ <strong>DZIEŃ NIEROZSTRZYGNIĘTY.</strong> Hotel w Tajpej kończy się <strong>dziś rano</strong> (noce 21–26 sie), a na <strong>27 i 28 sie</strong> macie dwie noce poza miastem. Kierunek nie jest wybrany — harmonogram niżej zawiera <strong>wspólny poranek + cztery warianty w jednej tabeli</strong>. Porównanie z rachunkiem HSR i tym, co każdy wariant oddaje: <strong><a href=\"../replan-taiwan.md\" target=\"_blank\">replan-taiwan.md</a></strong>. <strong>Gdy wybierzecie wariant, ten plik zostanie przepisany na jeden pełny dzień</strong> (harmonogram co pół godziny, ceny, trasa, sekcja z autem) — dziś to szkielety decyzyjne, nie gotowy dzień. <strong>Rekomendacja, jeśli pytacie o jedną:</strong> <strong>wariant B</strong> (Tainan + Kaohsiung) — dwa pełne dni w dwóch miastach, tylko dwie zmiany bazy i jedyny wariant, w którym HSR Pass się zwraca. <strong>Wariant C</strong> jest najspokojniejszy, ale oddaje całe południe. <strong>Wariant D odpada</strong> — patrz <a href=\"aug-28-south-day2.md\" target=\"_blank\">28 sie</a>.",
+      "notes": "⭐⭐ <strong>PLAN GŁÓWNY: WARIANT B — Tainan (27 sie) → Kaohsiung (28 sie).</strong> Rozpisany jako pierwszy w harmonogramie; A i C zostają jako zapasowe, D jest odrzucony. <strong>Dlaczego B:</strong> daje <strong>3 z 4 południowych punktów Szymona (🦑)</strong> — Tainan Art Museum, Pier-2, KMFA — wobec 2 w A i 1 w C. Trafia też w dwie kategorie, które na tym wyjeździe realnie punktują: <strong>dziedzictwo przemysłowe i sztuka współczesna</strong> (Pier-2 to jedno i drugie naraz — portowe magazyny z galeriami; Gold Museum dostało 5/6, a jedyne 6/6 całego wyjazdu poszło na fotografię współczesną). Ma <strong>największy zapas na dzień lotu</strong> (Zuoying leży w mieście, TPE ~15:35) i jest <strong>jedynym wariantem, w którym HSR Pass się zwraca</strong> — <a href=\"../passes.md\" target=\"_blank\">passes.md</a>. ⚠️ <strong>Słabe punkty B są do odpuszczenia na miejscu:</strong> Anping Old Street i Shennong Street to kategoria „sławne + tłoczne + fotogeniczne”, która ma <strong>6 nietrafień na 6</strong> — żaden z nich nie jest nośny. 🔴 <strong>NOCLEG NA 27 I 28 SIE NADAL NIEZAREZERWOWANY</strong> — a to pojutrze. Wariant <em>jest</em> rezerwacją: B = jedna noc w <strong>Tainanie</strong>, druga w <strong>Kaohsiungu</strong>. ⏳ <strong>Uwaga do wariantu C:</strong> zwiedzanie Chung Tai z mniszką po angielsku wymagało rezerwacji do <strong>24 sie</strong> — ten termin minął, więc C stracił swój sztandarowy punkt (świątynia i muzeum nadal są otwarte z ulicy, a muzeum jest bezpłatne maj–sie 2026).",
       "badges": [
         {
           "type": "pass",
-          "text": "HSR — zależy od wariantu, patrz passes.md"
+          "text": "HSR Flexible 2-day Pass NT$2,500 — opłaca się TYLKO w wariancie B"
         },
         {
           "type": "closed",
@@ -2963,47 +2963,7 @@
         },
         {
           "time": "",
-          "activity": "<strong>▸▸ WARIANT A · Taichung</strong> — HSR ~50 min, NT$700 · nocleg: <strong>Taichung</strong>",
-          "price": ""
-        },
-        {
-          "time": "10:00",
-          "activity": "Przyjazd <strong>HSR Taichung</strong>. Bagaż do <strong>skrytek na stacji</strong> albo od razu do hotelu.",
-          "price": ""
-        },
-        {
-          "time": "10:30",
-          "activity": "Taksówka ~20 min (<strong>2 samochody na 6 osób</strong> — autobusy w Taichung zjadają harmonogram) → <strong><a href=\"https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung\" target=\"_blank\">★★★★★ 🏛️🧒🐞 National Museum of Natural Science</a></strong> — flagowe muzeum przyrodnicze Tajwanu, bardzo przyjazne dzieciom.",
-          "price": ""
-        },
-        {
-          "time": "12:30",
-          "activity": "Taksówka ~10 min → <strong><a href=\"https://www.google.com/maps/search/National+Taichung+Theater\" target=\"_blank\">★★★★☆ 🎭📸 National Taichung Theater</a></strong> — Toyo Ito, laureat Pritzkera; falujący beton, foyer i ogród na dachu bezpłatnie. ⚠️ Zamknięte w pon. — czw. OK.",
-          "price": "Bezpłatnie"
-        },
-        {
-          "time": "13:30",
-          "activity": "Taksówka ~15 min do centrum. Lunch: <strong><a href=\"https://www.google.com/maps/search/Taichung+Second+Market\" target=\"_blank\">★★★☆☆ 🛍️🍜 Taichung Second Market</a></strong> — stuletnie stragany, ryż z duszoną wieprzowiną.",
-          "price": ""
-        },
-        {
-          "time": "14:30",
-          "activity": "<strong><a href=\"https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung\" target=\"_blank\">★★★★☆ ☕📸 Miyahara Ice Cream</a></strong> — dawna klinika okulistyczna z lat 40., wnętrze jak z „Harry'ego Pottera\". 5 min pieszo od targu.",
-          "price": ""
-        },
-        {
-          "time": "15:30",
-          "activity": "⬆️ <strong><a href=\"https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung\" target=\"_blank\">★★★★☆ 🏛️🐞🦑 National Taiwan Museum of Fine Arts (NTMoFA)</a></strong> — <strong>to jest zysk tego wariantu.</strong> W starym planie Taichung miał tylko tranzytowe przedpołudnie i NTMoFA nie miało szans; teraz wchodzi w całości. Obok <strong>Calligraphy Greenway</strong>.",
-          "price": ""
-        },
-        {
-          "time": "18:00",
-          "activity": "Kolacja + <strong><a href=\"https://www.google.com/maps/search/Fengjia+Night+Market+Taichung\" target=\"_blank\">★★★★☆ 🏮 Fengjia Night Market</a></strong> — największy nocny targ na Tajwanie (studencki, tani, ogromny).",
-          "price": "~NT$200–400/os."
-        },
-        {
-          "time": "",
-          "activity": "<strong>▸▸ WARIANT B · Tainan</strong> — HSR ~1 h 45, ~NT$1 350 · nocleg: <strong>Tainan</strong> · ⭐ rekomendowany",
+          "activity": "<strong>▸▸ WARIANT B · Tainan → (28 sie) Kaohsiung</strong> — HSR ~1 h 45, ~NT$1 350 · nocleg: <strong>Tainan</strong> · ⭐⭐ <strong>PLAN GŁÓWNY — ten wariant rozpisujemy jako pierwszy</strong>",
           "price": ""
         },
         {
@@ -3043,7 +3003,47 @@
         },
         {
           "time": "",
-          "activity": "<strong>▸▸ WARIANT C · Taichung</strong> (dzień identyczny z wariantem A)",
+          "activity": "<strong>▸▸ <em>(wariant zapasowy)</em> WARIANT A · Taichung</strong> — HSR ~50 min, NT$700 · nocleg: <strong>Taichung</strong>",
+          "price": ""
+        },
+        {
+          "time": "10:00",
+          "activity": "Przyjazd <strong>HSR Taichung</strong>. Bagaż do <strong>skrytek na stacji</strong> albo od razu do hotelu.",
+          "price": ""
+        },
+        {
+          "time": "10:30",
+          "activity": "Taksówka ~20 min (<strong>2 samochody na 6 osób</strong> — autobusy w Taichung zjadają harmonogram) → <strong><a href=\"https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung\" target=\"_blank\">★★★★★ 🏛️🧒🐞 National Museum of Natural Science</a></strong> — flagowe muzeum przyrodnicze Tajwanu, bardzo przyjazne dzieciom.",
+          "price": ""
+        },
+        {
+          "time": "12:30",
+          "activity": "Taksówka ~10 min → <strong><a href=\"https://www.google.com/maps/search/National+Taichung+Theater\" target=\"_blank\">★★★★☆ 🎭📸 National Taichung Theater</a></strong> — Toyo Ito, laureat Pritzkera; falujący beton, foyer i ogród na dachu bezpłatnie. ⚠️ Zamknięte w pon. — czw. OK.",
+          "price": "Bezpłatnie"
+        },
+        {
+          "time": "13:30",
+          "activity": "Taksówka ~15 min do centrum. Lunch: <strong><a href=\"https://www.google.com/maps/search/Taichung+Second+Market\" target=\"_blank\">★★★☆☆ 🛍️🍜 Taichung Second Market</a></strong> — stuletnie stragany, ryż z duszoną wieprzowiną.",
+          "price": ""
+        },
+        {
+          "time": "14:30",
+          "activity": "<strong><a href=\"https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung\" target=\"_blank\">★★★★☆ ☕📸 Miyahara Ice Cream</a></strong> — dawna klinika okulistyczna z lat 40., wnętrze jak z „Harry'ego Pottera\". 5 min pieszo od targu.",
+          "price": ""
+        },
+        {
+          "time": "15:30",
+          "activity": "⬆️ <strong><a href=\"https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung\" target=\"_blank\">★★★★☆ 🏛️🐞🦑 National Taiwan Museum of Fine Arts (NTMoFA)</a></strong> — <strong>to jest zysk tego wariantu.</strong> W starym planie Taichung miał tylko tranzytowe przedpołudnie i NTMoFA nie miało szans; teraz wchodzi w całości. Obok <strong>Calligraphy Greenway</strong>.",
+          "price": ""
+        },
+        {
+          "time": "18:00",
+          "activity": "Kolacja + <strong><a href=\"https://www.google.com/maps/search/Fengjia+Night+Market+Taichung\" target=\"_blank\">★★★★☆ 🏮 Fengjia Night Market</a></strong> — największy nocny targ na Tajwanie (studencki, tani, ogromny).",
+          "price": "~NT$200–400/os."
+        },
+        {
+          "time": "",
+          "activity": "<strong>▸▸ <em>(wariant zapasowy)</em> WARIANT C · Taichung</strong> (dzień identyczny z wariantem A)",
           "price": ""
         },
         {
@@ -3058,7 +3058,7 @@
         },
         {
           "time": "",
-          "activity": "<strong>▸▸ WARIANT D · Hualien</strong> — TRA ~2 h 05, ~NT$440 · ❌ nie polecam",
+          "activity": "<strong>▸▸ <em>(odrzucony)</em> WARIANT D · Hualien</strong> — TRA ~2 h 05, ~NT$440 · ❌ nie polecam",
           "price": ""
         },
         {
