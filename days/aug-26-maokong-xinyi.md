@@ -1,22 +1,11 @@
 # Aug 26 (Wed) — Taipei dzień 4: Maokong rano → Xinyi (Fubon, 101) → Raohe
-> Badges: pass:Bez passa — gondola i Taiwan Design Museum w kasie; closed:Maokong Gondola i Taiwan Design Museum zamknięte w pon. (śr. OK)
+> Badges: pass:Bez passa — gondola i Fubon w kasie; closed:Maokong Gondola i Fubon Art Museum zamknięte w pon. (śr. OK)
 
-🆕 **To jest dzień odzyskany przez skrócenie hotelu.** Wcześniej 26 sie było dniem wyjazdu (HSR do Taichung, potem Tainan). Po zmianie rezerwacji śpicie w Tajpej **do 26 sie włącznie**, a na południe ruszacie **27 sie** — więc ten dzień wraca do Tajpej i przejmuje dwa klastry, które dotąd wisiały na doklejkach:
+**Dwa skupiska: Maokong rano, Xinyi po południu i wieczorem.** Gondola → Zhinan Temple → herbaciarnie na szczycie (to jest ta część, po którą się tu jedzie — nie skracajcie jej), potem MRT ~30 min na drugą stronę miasta i już nigdzie nie jedziecie: Fubon, Elephant Mountain, taras 101 i sklepy pod wieżą leżą obok siebie, a Raohe to jeden przystanek dalej.
 
-- ⬆️ **Maokong Gondola** z dawnego 28 sie, gdzie startowała o 15:00 **po** przyjeździe HSR z Kaohsiungu. Teraz ma cały poranek.
-- ⬆️ **Cały blok Xinyi/Songshan** (Elephant Mountain, Taipei 101, Raohe, Songshan) z przeładowanego [23 sie](aug-23-taipei-day2.md), który robił jednocześnie Beitou i Xinyi.
-- ⬆️ **Zhinan Temple** ★★★ z katalogu — przystanek na linii gondoli, dotąd nigdzie nie wpisany.
-- ⛔ **Taipei Zoo WYPADŁO Z PLANU (23 sie)** — zoo to kategoria, którą mamy w Warszawie, a wyjazd idzie na to, czego w domu nie ma. Popołudnie przechodzi na **Taiwan Design Museum**: dawny **wariant 26b awansował na plan główny**, bo jego uzasadnienie było dokładnie tym argumentem. ⚠️ Był to wybór **Olafa (🦐)** — i to jego druga strata tego samego dnia po tarasie 101; powiedzcie mu to wprost. Znacznik w katalogu zostaje. *(Poprzednia treść tego punktu: zoo zyskało realne 3 godziny po skróceniu hotelu — nieaktualne.)*
-- ~~✅ **Taipei Zoo przestaje być fikcją.**~~ W starym planie wisiało jako „opcjonalnie" po zjeździe gondolą w piątek, przy ostatnim wejściu 16:00 — czyli nie dało się tam wejść. Dziś ma realne 3 godziny.
+🎟️ **Weźcie legitymacje szkolne trojga dzieci.** Fubon kosztuje **NT$1,200 normalnie, ale NT$200 dla uczniów** — to ~NT$3,000 różnicy dla szóstki. Jedyna rzecz z dzisiejszego dnia, o której trzeba pamiętać **przed** wyjściem z hotelu.
 
-Kontekst: [replan-taiwan.md](../replan-taiwan.md).
-
-⚠️ **To najgęstszy dzień w Tajpej i ma dwa możliwe kształty — trzeba wybrać.** Harmonogram rozpisuje **26a**; 26b jest pod nim.
-
-🧳 **Ostatnia noc w hotelu w Tajpej.** Wymeldowanie rano [27 sie](aug-27-departure-south.md) — **spakujcie się dziś wieczorem**, bo wracacie z Raohe późno.
-
-**Transport:** MRT brązowa linia (Wenshan–Neihu) na całą pierwszą połowę dnia — stacja **Taipei Zoo** to jej południowy koniec i tam startuje gondola (sama stacja zostaje w trasie, samo zoo nie). Po południu brązowa linia dalej na **Songshan**, wieczorem → Xinyi.
-
+🧳 **Ostatnia noc w Tajpej — spakujcie się dziś wieczorem**, bo wracacie z Raohe późno, a jutro rano [wymeldowanie i wyjazd na południe](aug-27-departure-south.md).
 
 ## Route Map
 [Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Zhinan+Temple+Taipei|Taiwan+Design+Museum+Songshan+Taipei|Elephant+Mountain+Xiangshan+Taipei|Taipei+101&travelmode=transit)
@@ -32,7 +21,8 @@ Kontekst: [replan-taiwan.md](../replan-taiwan.md).
 |  | ⏭️ **Pominięte — [★★★☆☆ 🐾🧒🦐 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo).** Zoo mamy w Warszawie; popołudnie idzie na muzeum designu (dawny wariant 26b). ⚠️ Wybór **Olafa (🦐)**, drugi tego dnia po tarasie 101 — powiedzcie mu sami. |  |
 | 13:30 | MRT Wenshan → **Taipei 101 / Xinyi** (~30 min). ⬇️ **Blok Songshan (muzeum designu + park) przeniesiony na 25 sie**, żeby wyrównać oba dni — ten był najdłuższy w Tajpej (~12 h) i wypada w dzień pakowania. |  |
 | 14:00 | ⬆️ **[★★★★★ 🏛️🎨📷 Fubon Art Museum (富邦美術館)](https://www.google.com/maps/search/Fubon+Art+Museum+Taipei)** — **nowe w planie.** Pierwszy budynek **Renza Piano** na Tajwanie (2024): szklany pawilon, kolekcja Sanyu i Yun Gee + **zestaw 70 rzeźb Rodina**. 8 min pieszo od MRT Taipei 101, czyli **zero dojazdu do wieczoru**. **Wt.–niedz. 11:00–18:00, zamknięte w pon. — śr. OK.** 💡 **Bilety: NT$1,200 normalny, ale NT$200 dla uczniów** — weźcie legitymacje szkolne wszystkich trojga dzieci, to różnica NT$3,000 dla szóstki. | NT$1,200 / NT$200 uczeń |
-| ~16:15 | **[★★★★☆ 📸🏛️ National Dr. Sun Yat-sen Memorial Hall](https://www.google.com/maps/search/National+Dr+Sun+Yat-sen+Memorial+Hall+Taipei)** — **opcjonalnie, po drodze na Elephant Mountain.** Zmiana warty **co godzinę** (tupanie i kręcenie karabinami — działa na dzieci), bezpłatne sale wystawowe, staw z lotosami i jedno z najlepszych ujęć 101 z dołu. Bezpłatnie. **To jest naturalne cięcie, jeśli Fubon się przeciągnie.** | Bezpłatnie |
+|  | 🚫 **ZAMKNIĘTE — [~~★★★★☆ 📸🏛️ National Dr. Sun Yat-sen Memorial Hall (國立國父紀念館)~~](https://www.google.com/maps/search/National+Dr+Sun+Yat-sen+Memorial+Hall+Taipei)** wypada z planu. Remont gmachu trwa **od lutego 2024, otwarcie IV kw. 2026** — czyli po naszym powrocie; zmiana warty odbywa się w środku, więc jej też nie ma. *(Sam plac i Zhongshan Park są otwarte — przechodząc, ujęcie 101 z placu nadal działa.)* |  |
+| ~16:15 | **Opcjonalnie po drodze na Xiangshan:** **[★★★☆☆ 📸🏛️ Tao Zhu Yin Yuan (陶朱隱園)](https://www.google.com/maps/search/Tao+Zhu+Yin+Yuan+Taipei)** — skręcona wieża „las wertykalny” Vincenta Callebauta: 21 kondygnacji obróconych łącznie o 90°, forma helisy DNA, ~23 000 roślin. Apartamenty prywatne, więc **oglądacie z zewnątrz — 10 min, bezpłatnie**, i leży między 101 a Xiangshan. **To nie jest zamiennik godzinnego punktu** — popołudnie jest po prostu luźniejsze, co przy wieczornym pakowaniu nie szkodzi. | Bezpłatnie |
 | 17:00 | MRT jeden przystanek Taipei 101 → **Xiangshan** (~5 min). ✅ **Cały dzień siedzi teraz w dwóch skupiskach — Maokong rano, Xinyi po południu i wieczorem** — zamiast dawnego zygzaka Maokong → Songshan → Xinyi → Songshan. |  |
 | 17:30 | **[★★★★☆ 🌳🗼 Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei)** — Krótkie, strome podejście (10–20 min). **TO** ikoniczne zdjęcie Taipei 101, z punktu „Six Boulders". 9-latki radzą sobie bez problemu. **Weźcie wodę** — w popołudniowym upale to katorga. **To jest wasz punkt widokowy dnia, w miejsce tarasu 101**: wchodźcie 17:30–18:00, zostańcie na zachód słońca (~18:25) i na zapalenie świateł miasta. | Bezpłatnie |
 | ~18:45 | ⬆️ **[★★★☆☆ 🗼📸🦐 Taipei 101 — taras widokowy](https://www.google.com/maps/search/Taipei+101)** (🦐 **Olaf**) — **WRACA DO PLANU (25 sie).** Bilet standardowy obejmuje piętra **88–89 (wewnątrz) + odkryty taras na 91.** ⚠️ **Czynne 10:00–21:00, ostatnie wejście ~20:00** — wchodzicie po zachodzie, czyli dostajecie **widok nocny**, a ikoniczne zdjęcie samej wieży macie już z Elephant Mountain godzinę wcześniej. *(Skyline 460 — otwarte 101. piętro — dopłata ~NT$380, bywa zamykane przy wietrze.)* | ~NT$600/os. (dzieci <115 cm bezpłatnie; **potwierdźcie próg dziecięcy w kasie**) |

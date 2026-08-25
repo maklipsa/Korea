@@ -1,22 +1,11 @@
 # Aug 25 (Tue) — Taipei dzień 3: Shilin (NPM) → Songshan (design) → diabelski młyn → Shilin Night Market
-> Badges: pass:Bez passa — NPM: 3 dorosłych płatnie, 3 dzieci bezpłatnie; closed:NPM, Shung Ye, planetarium zamknięte w pon. (wt. OK)
+> Badges: pass:Bez passa — NPM: 3 dorosłych płatnie, 3 dzieci bezpłatnie; closed:NPM, Shung Ye i Taiwan Design Museum zamknięte w pon. (wt. OK)
 
-⬆️ **Ten dzień przejął National Palace Museum + Shung Ye z 23 sie** — i to jest ich właściwe miejsce, bo **oba leżą w Shilinie**, jedną jazdę autobusem od kompleksu naukowego. Wcześniej NPM otwierało dzień, który potem jechał do Beitou i do Xinyi; teraz nie musi. Wtorek: NPM i Shung Ye otwarte ✓ (zamknięte tylko w pon.). Kontekst: [replan-taiwan.md](../replan-taiwan.md).
+**Trzy skupiska, dwa przeskoki.** Rano **Shilin** (NPM + Shung Ye, oba po jednej jeździe autobusem ze stacji Shilin — R30 / 255 / 304 / minibus 18–19, ~15–20 min). Po południu **Songshan** (muzeum designu + park pofabryczny), MRT ~30 min. Wieczorem **Dazhi** na diabelski młyn o zachodzie, Uberem ~15 min — i powrót na **Shilin Night Market**.
 
-Wtorek — po przesunięciu planu ten dzień **nie jest już dniem „awaryjnym na poniedziałek"**. Astronomical Museum jest we wtorek otwarte w normalnych godzinach — nie musicie już liczyć na wakacyjny wyjątek „otwarte w pon.". Poniedziałek 24 sie zajmuje teraz wycieczka na północno-wschodnie wybrzeże (wszystko tam otwarte codziennie), więc nic nie wypada.
+⬆️ **Blok Songshan przyszedł tu z 26 sie**, żeby wyrównać oba dni: jutro było ~12 godzin w dzień pakowania, a dziś były dwie dziury po wypadnięciu NTSEC i planetarium.
 
-
-⚖️ **I to jest dziś jedyna prawdziwa kolizja: NPM + trzy pozycje kompleksu naukowego + park nie zmieszczą się przed 17:00.** Trzeba wybrać jeden z dwóch kształtów dnia — harmonogram poniżej rozpisuje **wariant 1**.
-
-⛔ **NTSEC WYPADŁO Z PLANU (23 sie).** National Taiwan Science Education Center to ten sam produkt co **Centrum Nauki Kopernik** w Warszawie — interaktywne centrum nauki, które dzieci mają w domu. Reguła „koncentrujemy się na tym, czego nie ma w Polsce” wygrywa. ⚠️ Było to życzenie **Jadzi (🐞) i Olafa (🦐)** — dwa z trzech dzieci tracą tu swój punkt, warto im to powiedzieć wprost, a nie odkryć na miejscu. Znaczniki w katalogu zostają.
-
-✅ **Efekt uboczny: kolizja dnia znika.** Bez NTSEC **planetarium i park rozrywki mieszczą się oba** przed 17:00, więc nie trzeba już wybierać między wariantem 1 i 2 — poniżej jest jeden harmonogram. Zapis obu wariantów zostaje na wypadek powrotu do tematu:
-
-- **~~Wariant 1 (rekomendowany) — cztery muzea, park wypada.~~** *(nieaktualne — NTSEC wypadło)* NPM + Shung Ye + NTSEC + planetarium. Park schodzi do rezerwy. Uzasadnienie nie jest „bo za dużo muzeów" (reguła dnia mówi wprost, że 4–7 muzeów to norma), a **priorytet z [CLAUDE.md](../CLAUDE.md): skupiamy się na tym, czego nie zobaczycie w Polsce.** Wieża swobodnego spadania, statek piracki i autka zderzaki to dokładnie ta kategoria, którą mamy świadomie odpuszczać — a NPM jest jedyną taką kolekcją na świecie.
-- **~~Wariant 2 — park zostaje, planetarium wypada.~~** *(nieaktualne — oba się mieszczą)* Jeśli dzieci naciskają na karuzele: park **o 9:00** (chłodniej i pusto), NTSEC w największy upał (AC, otwarte do 18:00), NPM po południu 14:00–16:15, Shung Ye odpada. Tracicie planetarium i seans w kopule.
-
-**Transport (zwarty — przyjazny rowerom):** Park rozrywki / centrum nauki / planetarium leżą ~1–2 km od siebie w Shilin — pieszo albo **YouBike** — potem metrem do Shilin Night Market. **NPM dokłada jedną jazdę autobusem** ze stacji Shilin (~15–20 min, autobusy R30 / 255 / 304 / minibus 18–19); to jedyny przejazd dnia poza pieszym klastrem.
-
+⏱️ **Jedyny twardy limit: ostatni bilet do muzeum designu o 17:30** (zamyka 18:00). Reszta dnia się nie goni — młyn i nocny targ chodzą do późna.
 
 ## Route Map
 [Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Shilin+Night+Market+Taipei&waypoints=Shung+Ye+Museum+Formosan+Aborigines+Taipei|Taipei+Astronomical+Museum&travelmode=transit)
