@@ -7,10 +7,8 @@
 
 ⏱️ **Jedyny twardy limit: ostatni bilet do muzeum designu o 17:30** (zamyka 18:00). Reszta dnia się nie goni — młyn i nocny targ chodzą do późna.
 
-➕ **Poza planem (25 sie):** przy okazji Songshanu doskoczyliście do Xinyi i zaliczyliście **Pokémon Center Taipei ✅ 4/6** oraz **Donguri Republic ✅ 4/6** — oba miały być dopiero 26 sie wieczorem.
-
 ## Route Map
-[Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Shilin+Night+Market+Taipei&waypoints=Shung+Ye+Museum+Formosan+Aborigines+Taipei|Taipei+Astronomical+Museum&travelmode=transit)
+[Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=National+Palace+Museum+Taipei&destination=Shilin+Night+Market+Taipei&waypoints=Shung+Ye+Museum+Formosan+Aborigines+Taipei|Donguri+Republic+Shin+Kong+Taipei|Taipei+Astronomical+Museum&travelmode=transit)
 
 ## Schedule
 
@@ -25,7 +23,10 @@
 | 12:45 | MRT **Shilin → Songshan** (~30 min). ⬆️ **Blok Songshan przeniesiony tu z 26 sie**, żeby wyrównać oba dni. |  |
 | 13:30 | ✅ **Widziane — 1/6. NAJNIŻSZA OCENA WYJAZDU.** Piękny budynek, bardzo słabe wystawy, w praktyce lejek do sklepu. **[★★★★☆ 🏛️🎨🐞🦑 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei)** (🐞 Jadzia, 🦑 Szymon) — narodowe muzeum designu w Songshan Cultural & Creative Park, **górna półka naszej listy**. **Wt.–niedz. 10:00–18:00, ostatni bilet 17:30**, zamknięte w pon. — **dziś wtorek, otwarte.** | NT$50 |
 | 15:30 | **Songshan Cultural & Creative Park** — dawna fabryka tytoniu **za dnia, kiedy galerie jeszcze działają**; obok **[★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei)** i **[★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei)** (ciuchy dla 15-latka w cenach hurtowych). |  |
-| 17:15 | 🚕 **Uber Songshan → Dazhi** (~15 min). ⬆️ **Wraca do planu (25 sie).** Powód cięcia — „osobny skok metrem na wschód” — przestał obowiązywać po 24 sie, gdzie Uber skleił dwa znacznie gorsze odcinki. |  |
+| ~16:15 | Pieszo / MRT Songshan → **Xinyi** (~15 min) do **Shin Kong Mitsukoshi u stóp 101** — oba sklepy są w jednym budynku, więc to jeden przystanek. ⬅️ **Przeniesione tu z 26 sie.** |  |
+|  | ✅ **Widziane — 4/6.** **[★★★☆☆ 🎁🧒🦐 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei)** (🦐 **Olaf**) — największy na Tajwanie, gadżety tylko tutaj. |  |
+|  | ✅ **Widziane — 4/6.** **[★★★☆☆ 🎁🧒🐞🦐🦑 Donguri Republic](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei)** (🐞 Jadzia, 🦐 Olaf, 🦑 Szymon — **jedyne miejsce w katalogu ze wszystkimi trzema znacznikami**) — sklep Studio Ghibli, wielki Kotobus z Totoro. |  |
+| 17:15 | 🚕 **Uber Xinyi → Dazhi** (~15 min). ⬆️ **Wraca do planu (25 sie).** Powód cięcia — „osobny skok metrem na wschód” — przestał obowiązywać po 24 sie, gdzie Uber skleił dwa znacznie gorsze odcinki. |  |
 | ~17:45 | ⬆️ **[★★★☆☆ 🎡🗼🦐 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei)** (🦐 **Olaf**) — diabelski młyn 95 m na dachu galerii. **Wjazd na zachód słońca (~18:20)** — to jest ta godzina, po którą się tu jedzie. W środku klimatyzowana galeria i food court. | ~NT$150/os. |
 | ~19:15 | Powrót do **Shilin** (Uber ~15 min albo MRT). |  |
 | 19:30 | **[★★★★☆ 🏮🍜 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei)** — Największy na Tajwanie (od 1909). Ponad 500 stoisk. Wielkie kiełbaski, kotlety z kurczaka, chrupiący kurczak solony z bazylią. Gigantyczne porcje. | ~NT$200–400/osoba |

@@ -2543,7 +2543,7 @@ const DAYS = [
     "title": "Taipei dzień 3: Shilin (NPM) → Songshan (design) → diabelski młyn → Shilin Night Market",
     "country": "taiwan",
     "summary": "Taipei Dzień 3 — <strong>NPM</strong> + Shung Ye → Taiwan Design Museum + Songshan → diabelski młyn o zachodzie → Shilin Night Market (⏭️ planetarium odpadło)",
-    "notes": "<strong>Trzy skupiska, dwa przeskoki.</strong> Rano <strong>Shilin</strong> (NPM + Shung Ye, oba po jednej jeździe autobusem ze stacji Shilin — R30 / 255 / 304 / minibus 18–19, ~15–20 min). Po południu <strong>Songshan</strong> (muzeum designu + park pofabryczny), MRT ~30 min. Wieczorem <strong>Dazhi</strong> na diabelski młyn o zachodzie, Uberem ~15 min — i powrót na <strong>Shilin Night Market</strong>. ⬆️ <strong>Blok Songshan przyszedł tu z 26 sie</strong>, żeby wyrównać oba dni: jutro było ~12 godzin w dzień pakowania, a dziś były dwie dziury po wypadnięciu NTSEC i planetarium. ⏱️ <strong>Jedyny twardy limit: ostatni bilet do muzeum designu o 17:30</strong> (zamyka 18:00). Reszta dnia się nie goni — młyn i nocny targ chodzą do późna. ➕ <strong>Poza planem (25 sie):</strong> przy okazji Songshanu doskoczyliście do Xinyi i zaliczyliście <strong>Pokémon Center Taipei ✅ 4/6</strong> oraz <strong>Donguri Republic ✅ 4/6</strong> — oba miały być dopiero 26 sie wieczorem.",
+    "notes": "<strong>Trzy skupiska, dwa przeskoki.</strong> Rano <strong>Shilin</strong> (NPM + Shung Ye, oba po jednej jeździe autobusem ze stacji Shilin — R30 / 255 / 304 / minibus 18–19, ~15–20 min). Po południu <strong>Songshan</strong> (muzeum designu + park pofabryczny), MRT ~30 min. Wieczorem <strong>Dazhi</strong> na diabelski młyn o zachodzie, Uberem ~15 min — i powrót na <strong>Shilin Night Market</strong>. ⬆️ <strong>Blok Songshan przyszedł tu z 26 sie</strong>, żeby wyrównać oba dni: jutro było ~12 godzin w dzień pakowania, a dziś były dwie dziury po wypadnięciu NTSEC i planetarium. ⏱️ <strong>Jedyny twardy limit: ostatni bilet do muzeum designu o 17:30</strong> (zamyka 18:00). Reszta dnia się nie goni — młyn i nocny targ chodzą do późna.",
     "badges": [
       {
         "type": "pass",
@@ -2602,8 +2602,23 @@ const DAYS = [
         "price": ""
       },
       {
+        "time": "~16:15",
+        "activity": "Pieszo / MRT Songshan → <strong>Xinyi</strong> (~15 min) do <strong>Shin Kong Mitsukoshi u stóp 101</strong> — oba sklepy są w jednym budynku, więc to jeden przystanek. ⬅️ <strong>Przeniesione tu z 26 sie.</strong>",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "✅ <strong>Widziane — 4/6.</strong> <strong><a href=\"https://www.google.com/maps/search/Pokemon+Center+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒🦐 Pokémon Center Taipei</a></strong> (🦐 <strong>Olaf</strong>) — największy na Tajwanie, gadżety tylko tutaj.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "✅ <strong>Widziane — 4/6.</strong> <strong><a href=\"https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒🐞🦐🦑 Donguri Republic</a></strong> (🐞 Jadzia, 🦐 Olaf, 🦑 Szymon — <strong>jedyne miejsce w katalogu ze wszystkimi trzema znacznikami</strong>) — sklep Studio Ghibli, wielki Kotobus z Totoro.",
+        "price": ""
+      },
+      {
         "time": "17:15",
-        "activity": "🚕 <strong>Uber Songshan → Dazhi</strong> (~15 min). ⬆️ <strong>Wraca do planu (25 sie).</strong> Powód cięcia — „osobny skok metrem na wschód” — przestał obowiązywać po 24 sie, gdzie Uber skleił dwa znacznie gorsze odcinki.",
+        "activity": "🚕 <strong>Uber Xinyi → Dazhi</strong> (~15 min). ⬆️ <strong>Wraca do planu (25 sie).</strong> Powód cięcia — „osobny skok metrem na wschód” — przestał obowiązywać po 24 sie, gdzie Uber skleił dwa znacznie gorsze odcinki.",
         "price": ""
       },
       {
@@ -2772,37 +2787,17 @@ const DAYS = [
       },
       {
         "time": "~20:10",
-        "activity": "✅ <strong>ZROBIONE 25 SIE — ten blok wypada.</strong> Pokémon Center <strong>4/6</strong> i Donguri Republic <strong>4/6</strong> zaliczone dzień wcześniej. 🌀 <strong>Wychodzi to na plus:</strong> znika godzina na zewnątrz dokładnie w okienku, w którym jutro wieczorem ma być wydane <strong>陸警</strong> — po tarasie 101 możecie iść prosto na Raohe albo od razu do hotelu pakować się. <em>(Poniżej dawne opcje — nieaktualne.)</em> <del>⚖️ Wybierzcie jedno — sklepy u stóp 101.</del>  ⚠️ Galeria zamyka ~21:30. *(Poprzednio: Pomińcie w całości, jeśli jesteście spóźnieni.** Opcje A i B są w jednym budynku (Shin Kong Mitsukoshi Xinyi, u stóp 101), więc w praktyce są jednym przystankiem.",
-        "price": ""
-      },
-      {
-        "time": "",
-        "activity": "<strong>Opcja A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Pokemon+Center+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒🦐 Pokémon Center Taipei</a></strong> — Największe na Tajwanie.",
-        "price": ""
-      },
-      {
-        "time": "",
-        "activity": "<strong>Opcja B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei\" target=\"_blank\">★★★☆☆ 🎁🧒🐞🦐🦑 Donguri Republic</a></strong> — Sklep Studio Ghibli, wielki Kotobus z Totoro; ta sama galeria.",
-        "price": ""
-      },
-      {
-        "time": "",
-        "activity": "<del><strong>Opcja C ·</strong> Songshan Cultural & Creative Park</del> — <strong>nieaktualne: Songshan i muzeum designu zwiedzacie 25 sie.</strong> Zostają realnie tylko opcje A i B.",
-        "price": ""
-      },
-      {
-        "time": "~20:50",
-        "activity": "MRT do Songshan. <strong><a href=\"https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei\" target=\"_blank\">★★☆☆☆ 🏯 Songshan Ciyou Temple</a></strong> — Wielka, kolorowa świątynia Mazu <strong>przy samym wejściu na Raohe</strong>; zaliczacie ją po drodze, nie osobno.",
+        "activity": "MRT do Songshan. ⬇️ <strong>Blok sklepów pod 101 (Pokémon + Donguri) przeniesiony na 25 sie — zrobiony.</strong> 🌀 <strong>I dobrze:</strong> znika godzina na zewnątrz dokładnie w okienku, w którym ma być wydane <strong>陸警</strong>, więc wieczór kończy się ~40 min wcześniej. <strong><a href=\"https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei\" target=\"_blank\">★★☆☆☆ 🏯 Songshan Ciyou Temple</a></strong> — Wielka, kolorowa świątynia Mazu <strong>przy samym wejściu na Raohe</strong>; zaliczacie ją po drodze, nie osobno.",
         "price": "Bezpłatnie"
       },
       {
-        "time": "~21:00",
+        "time": "~20:20",
         "activity": "<strong><a href=\"https://www.google.com/maps/search/Raohe+Night+Market+Taipei\" target=\"_blank\">★★★★☆ 🏮 Raohe Night Market</a></strong> — Najlepszy w Tajpej dla smakoszy. 6 stoisk wyróżnionych przez Michelin. <strong>Fuzhou Black Pepper Buns</strong> przy wejściu (zawsze kolejka — warta).",
         "price": "~NT$200–400/os."
       },
       {
-        "time": "21:30",
-        "activity": "Powrót do hotelu — <strong>pakowanie</strong>, jutro wymeldowanie.",
+        "time": "~21:00",
+        "activity": "Powrót do hotelu — <strong>pakowanie</strong>, jutro wymeldowanie i wyjazd na południe.",
         "price": ""
       },
       {
