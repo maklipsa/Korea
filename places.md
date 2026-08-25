@@ -1514,7 +1514,7 @@ Drugie, bardziej niszowe przeszukanie — świątynie bez dymu kadzidła, sala z
 #### D. Zabytki i widoki
 - [★★★★☆ 🏯 Guandu Temple](https://www.google.com/maps/search/Guandu+Temple+Taipei) — Jedna z największych i najstarszych (1712) świątyń Mazu w Taipei, wbudowana w zbocze, ze świetnym widokiem na zachód słońca nad rzeką Tamsui i górą Guanyin; za nią 80-metrowa jaskinia Buddy obstawiona 28 figurami dewów, kończąca się gigantyczną tysiącramienną Guanyin. Wstęp wolny, przy MRT Guandu / Nature Park — dobre połączenie na złotą godzinę. 📅 **Dzień 13 (23 sie)**
 - [★★★☆☆ 🗼 Rainbow Bridge (Songshan/Neihu)](https://www.google.com/maps/search/Rainbow+Bridge+Taipei) — Kładka dla pieszych w kształcie litery S nad rzeką Keelung, po zmroku podświetlona zmieniającymi kolory LED-ami — bezpłatny punkt na zdjęcie tuż obok Raohe Night Market. (Nie mylić z pokazem tańczącej wody na Dazhi Bridge, który trwa od połowy września do października, już po wyjeździe.)
-- [★★★☆☆ 📸🏛️ Tao Zhu Yin Yuan (陶朱隱園)](https://www.google.com/maps/search/Tao+Zhu+Yin+Yuan+Taipei) — Skręcona wieża „las wertykalny" Vincenta Callebauta — 21 kondygnacji obróconych łącznie o 90°, forma helisy DNA obwieszona ~23,000 roślin. Apartamenty prywatne (widok tylko z zewnątrz); bezpłatny przystanek na zdjęcie po drodze, blisko Taipei 101.
+- [★★★☆☆ 📸🏛️ Tao Zhu Yin Yuan (陶朱隱園)](https://www.google.com/maps/search/Tao+Zhu+Yin+Yuan+Taipei) — Skręcona wieża „las wertykalny" Vincenta Callebauta — 21 kondygnacji obróconych łącznie o 90°, forma helisy DNA obwieszona ~23,000 roślin. Apartamenty prywatne (widok tylko z zewnątrz); bezpłatny przystanek na zdjęcie po drodze, blisko Taipei 101. 📅 **Dzień 16 (26 sie)**
 - [★★★☆☆ 🎭📸 Taipei Music Center (臺北流行音樂中心)](https://www.google.com/maps/search/Taipei+Music+Center+Nangang) — Fasetowany, krystaliczny kompleks muzyki popularnej według Reiser+Umemoto (RUR) (2020), zaprojektowany jako punkt orientacyjny Taipei. Nangang, MRT Kunyang; plac i otoczenie bezpłatnie, wnętrza tylko przy okazji wydarzeń.
 - [★★★☆☆ 🎭🌳📸 Cloud Gate Theater (雲門劇場)](https://www.google.com/maps/search/Cloud+Gate+Theater+Tamsui) — Teatr Huanga Sheng-yuana z zieloną ścianą kurtynową, w lesie nad estuarium Tamsui (2015); siedziba zespołu Cloud Gate Dance. Teren i otoczenie bezpłatnie; łączy się z Fort San Domingo. Tamsui (MRT + autobus). 📅 *blisko: Dzień 13 (23 sie)*
 - [★★★★☆ 🏛️📸 Lanyang Museum (蘭陽博物館)](https://www.google.com/maps/search/Lanyang+Museum+Yilan) — Dramatyczny klin Krisa Yao/Artech wynurzający się z terenów podmokłych, formą nawiązujący do nadmorskich skał typu kuesta; w środku historia naturalna i ludzka Yilan. Toucheng, Yilan. Czw.–wt. 9:00–17:00, zamknięte w śr. ⚠️ Poza pętlą Yehliu–Shifen–Jiufen; pasuje tylko do dnia nad wybrzeżem w stronę Yilan.
@@ -1629,7 +1629,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 ### Zabytki
 - [★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan) — Magazyn pochłonięty przez korzenie figowca banyan; przejście wśród splecionych drzew; codziennie 8:30–17:30; na miejscu lody Ninao 📅 **Dzień 18 (28 sie)**
 - [★★★☆☆ 🛍️📸 Hayashi Department Store](https://www.google.com/maps/search/Hayashi+Department+Store+Tainan) — Budynek z 1932 przywrócony do blasku lat 30.; herbaty, pamiątki w stylu vintage; chram shintō na dachu (jedyny na Tajwanie) 📅 *blisko: Dzień 17 (27 sie)*
-- [★★☆☆☆ 🎨🛍️ Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Dawne mieszkania służbowe sądownictwa; sklepy z rękodziełem, instalacje artystyczne
+- [★★☆☆☆ 🎨🛍️ Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan) — Dawne mieszkania służbowe sądownictwa; sklepy z rękodziełem, instalacje artystyczne 📅 **Dzień 18 (28 sie)**
 - [★★★☆☆ 🏯 Fort Zeelandia (Anping Old Fort)](https://www.google.com/maps/search/Fort+Zeelandia+Tainan) — Zbudowany przez Holendrów w 1624 📅 **Dzień 18 (28 sie)**
 
 ### Kawiarnie
@@ -1638,7 +1638,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 
 ### Nocne targi
 - [★★★★☆ 🏮 Garden Night Market (Hua Yuan)](https://www.google.com/maps/search/Garden+Night+Market+Tainan) — Największy w Tainanie; ~400 stoisk; wieczory czw.–niedz.
-- [★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan) — ~300-350 stoisk; pon., wt., pt. od 18:00 do 1:30; food truck Ancient Scallion Pancake (najpopularniejsze stoisko)
+- [★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan) — ~300-350 stoisk; pon., wt., pt. od 18:00 do 1:30; food truck Ancient Scallion Pancake (najpopularniejsze stoisko) 📅 **Dzień 18 (28 sie)**
 
 ### Muzeum
 - [★★★★☆ 🏛️🐞🦑 Tainan Art Museum](https://www.google.com/maps/search/Tainan+Art+Museum) 📅 **Dni 17, 18 (27, 28 sie)**
@@ -1883,7 +1883,7 @@ Luki wychwycone po przeglądzie Lonely Planet — na czele z National Science & 
 ## TAIWAN — TAICHUNG (47 min od Taipei pociągiem HSR)
 
 ### Trzeba zobaczyć
-- [★★★☆☆ 📸🎨 Rainbow Village](https://www.google.com/maps/search/Rainbow+Village+Taichung) — Każda powierzchnia pomalowana ręcznie przez emerytowanego żołnierza „Grandpa Rainbow"; przyjdź na 8:00, żeby wyprzedzić tłumy; bezpłatnie. ⏭️ **Wypadło z poranka 26 sie** na rzecz National Museum of Natural Science: to ~20 min fotografowania, w dużej części przemalowane po sporze o zarządzanie w latach 2022–23, a Taichung miał w tej wersji zero muzeów. Zeszło z ★★★★☆ 📅 *blisko: Dzień 17 (27 sie)*
+- [★★★☆☆ 📸🎨 Rainbow Village](https://www.google.com/maps/search/Rainbow+Village+Taichung) — Każda powierzchnia pomalowana ręcznie przez emerytowanego żołnierza „Grandpa Rainbow"; przyjdź na 8:00, żeby wyprzedzić tłumy; bezpłatnie. ⏭️ **Wypadło z poranka 26 sie** na rzecz National Museum of Natural Science: to ~20 min fotografowania, w dużej części przemalowane po sporze o zarządzanie w latach 2022–23, a Taichung miał w tej wersji zero muzeów. Zeszło z ★★★★☆ 📅 **Dzień 18 (28 sie)** · *blisko: Dzień 17 (27 sie)*
 - [★★★★☆ ☕📸 Miyahara Ice Cream Shop](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung) — Dawna klinika okulistyczna z lat 40.; wnętrze jak z „Harry'ego Pottera"; niesamowite gelato, piękne ciastka i czekoladki w ozdobnych opakowaniach; sam budynek JEST atrakcją 📅 **Dzień 17 (27 sie)**
 - [★★★★☆ 🎭📸 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater) — Projekt Toyo Ito, laureata Nagrody Pritzkera; zachwycający falujący beton; zwiedzanie bezpłatne; ogród na dachu 📅 **Dzień 17 (27 sie)**
 - [★★★☆☆ 🌳 Gaomei Wetlands](https://www.google.com/maps/search/Gaomei+Wetlands+Taichung) — Rozległe płycizny pływowe; najlepiej o zachodzie słońca; drewniany pomost nad mulistym dnem; bezpłatnie 📅 *blisko: Dzień 17 (27 sie)*
@@ -1984,8 +1984,8 @@ Luki wychwycone po przeglądzie Lonely Planet. Dzień 15 (25 sie) to tylko przej
 - [★★★☆☆ 🏮 Dongdamen Night Market](https://www.google.com/maps/search/Dongdamen+Night+Market+Hualien) — Długi, doskonały nocny targ
 
 ### Sun Moon Lake (powiat Nantou)
-- [★★★★☆ 🌳🚡 Sun Moon Lake](https://www.google.com/maps/search/Sun+Moon+Lake+Taiwan) — Największe jezioro Tajwanu; ścieżka rowerowa światowej klasy; kolejka linowa do Formosan Aboriginal Culture Village (park rozrywki + kultura rdzennych mieszkańców)
-- [★★★☆☆ 🏯 Wenwu Temple](https://www.google.com/maps/search/Wenwu+Temple+Sun+Moon+Lake) — Okazała świątynia nad jeziorem
+- [★★★★☆ 🌳🚡 Sun Moon Lake](https://www.google.com/maps/search/Sun+Moon+Lake+Taiwan) — Największe jezioro Tajwanu; ścieżka rowerowa światowej klasy; kolejka linowa do Formosan Aboriginal Culture Village (park rozrywki + kultura rdzennych mieszkańców) 📅 **Dzień 18 (28 sie)**
+- [★★★☆☆ 🏯 Wenwu Temple](https://www.google.com/maps/search/Wenwu+Temple+Sun+Moon+Lake) — Okazała świątynia nad jeziorem 📅 **Dzień 18 (28 sie)**
 - ☕ Lokalna czarna herbata — specjalność Sun Moon Lake
 
 ### Alishan (powiat Chiayi)
@@ -1997,7 +1997,7 @@ Luki wychwycone po przeglądzie Lonely Planet. Dzień 15 (25 sie) to tylko przej
 ### Parki rozrywki
 - [★★★☆☆ 🎡🧒 Lihpao Discovery Land (Taichung)](https://www.google.com/maps/search/Lihpao+Discovery+Land+Taichung) — Ostra kolejka górska, największy diabelski młyn na Tajwanie
 - [★★★☆☆ 🎡🐾🧒 Leofoo Village (Hsinchu)](https://www.google.com/maps/search/Leofoo+Village+Hsinchu) — Park rozrywki + zoo w formie safari
-- [★★★☆☆ 🎡🎨 Formosan Aboriginal Culture Village](https://www.google.com/maps/search/Formosan+Aboriginal+Culture+Village+Taiwan) — Park rozrywki przy Sun Moon Lake; atrakcje + kultura rdzennych mieszkańców
+- [★★★☆☆ 🎡🎨 Formosan Aboriginal Culture Village](https://www.google.com/maps/search/Formosan+Aboriginal+Culture+Village+Taiwan) — Park rozrywki przy Sun Moon Lake; atrakcje + kultura rdzennych mieszkańców 📅 **Dzień 18 (28 sie)**
 
 ---
 
@@ -2005,22 +2005,22 @@ Luki wychwycone po przeglądzie Lonely Planet. Dzień 15 (25 sie) to tylko przej
 
 Dodatki wokół skatalogowanego Sun Moon Lake. **⚠️ Ryzyko drogowe w sezonie tajfunów (lip.–wrz.):** górski korytarz Puli/Cingjing/Hehuanshan/Wuling zamykany jest z krótkim wyprzedzeniem podczas burz — trzymaj zapasowy plan na nizinach i sprawdź stan dróg rano w dniu wyjazdu.
 - [★★★★☆ 🐾🧒 Cingjing Farm](https://www.google.com/maps/search/Cingjing+Farm+Nantou) — Wysoko położona farma wypoczynkowa w stylu europejskim; pokazy strzyżenia owiec i mongolskiej jazdy konnej, Skywalk, Swiss Garden. Najlepiej z nocowaniem; autobus 6801 z Taichung. Mocny wybór dla rodziny i chłodna ucieczka od sierpniowego upału na nizinach.
-- [★★★☆☆ 🌊 Sun Moon Lake Boat Cruise (Shuishe pier)](https://www.google.com/maps/search/Shuishe+Pier+Sun+Moon+Lake+Nantou) — Klasyczna pętla promowa przez 3 przystanie (Shuishe – Xuanguang – Ita Thao), sposób, by zobaczyć jezioro poza skatalogowaną ścieżką rowerową i kolejką linową.
+- [★★★☆☆ 🌊 Sun Moon Lake Boat Cruise (Shuishe pier)](https://www.google.com/maps/search/Shuishe+Pier+Sun+Moon+Lake+Nantou) — Klasyczna pętla promowa przez 3 przystanie (Shuishe – Xuanguang – Ita Thao), sposób, by zobaczyć jezioro poza skatalogowaną ścieżką rowerową i kolejką linową. 📅 **Dzień 18 (28 sie)**
 - [★★★☆☆ 🏯📸 Chung Tai Chan Monastery (Puli)](https://www.google.com/maps/search/Chung+Tai+Chan+Monastery+Puli+Nantou) — 136-metrowy ultranowoczesny klasztor buddyjski (architekt C.Y. Lee), najwyższy budynek świątyni buddyjskiej na świecie; robi wrażenie nawet z zewnątrz. ⚠️ Sprawdź aktualne zasady wstępu i zwiedzania.
 - [★★★☆☆ 🏯📸 Paper Dome (紙教堂, Puli)](https://www.google.com/maps/search/Paper+Dome+Puli+Nantou) — Kościół z tub kartonowych projektu Shigeru Bana, zbudowany po trzęsieniu ziemi w Kobe w 1995 r. i przeniesiony tutaj jako pomnik trzęsienia 921 — nietypowa architektura z prawdziwym przesłaniem (łączy się z muzeum 921 + Taroko).
 - [★★★☆☆ 🗼📸 Ci En Pagoda](https://www.google.com/maps/search/Ci+En+Pagoda+Sun+Moon+Lake+Nantou) — Wieża na wzgórzu (1971) nad jeziorem z panoramicznymi widokami; krótkie wejście pieszo lub prom plus spacer od przystani Xuanguang.
-- [★★★☆☆ 🌳🚶 Jiji Green Tunnel](https://www.google.com/maps/search/Jiji+Green+Tunnel+Nantou) — Aleja o długości 4,5 km wysadzana drzewami kamforowymi (z epoki japońskiej); płaska, zacieniona trasa rowerowa i spacerowa, łączy się z linią małych pociągów Jiji.
-- [★★★☆☆ 🏮🍜 Ita Thao Old Street](https://www.google.com/maps/search/Ita+Thao+Old+Street+Sun+Moon+Lake+Nantou) — Wioska rdzennego ludu Thao i nadjeziorna uliczka jedzeniowa (wędzony dzik, potrawy z prosa, kiełbasa z pieprzem górskim) z przystanią promową.
+- [★★★☆☆ 🌳🚶 Jiji Green Tunnel](https://www.google.com/maps/search/Jiji+Green+Tunnel+Nantou) — Aleja o długości 4,5 km wysadzana drzewami kamforowymi (z epoki japońskiej); płaska, zacieniona trasa rowerowa i spacerowa, łączy się z linią małych pociągów Jiji. 📅 **Dzień 18 (28 sie)**
+- [★★★☆☆ 🏮🍜 Ita Thao Old Street](https://www.google.com/maps/search/Ita+Thao+Old+Street+Sun+Moon+Lake+Nantou) — Wioska rdzennego ludu Thao i nadjeziorna uliczka jedzeniowa (wędzony dzik, potrawy z prosa, kiełbasa z pieprzem górskim) z przystanią promową. 📅 **Dzień 18 (28 sie)**
 - [★★★☆☆ 🌳🧒 Taomi Eco-Village (Puli)](https://www.google.com/maps/search/Taomi+Eco+Village+Puli+Nantou) — Prowadzona przez lokalną społeczność wioska ekologiczna świetlików i żab (codziennie 9:00–17:00) z praktyczną edukacją przyrodniczą; dobre dla dzieci zainteresowanych ekologią.
 
 ### Puli & Chung Tai (Nantou) — Lonely Planet
 
 Główne punkty opcjonalnej wycieczki jednodniowej Puli / Sun Moon Lake (patrz szkic dnia w `itinerary.md`). ~1 h na SE od Taichung; można połączyć z Sun Moon Lake.
 
-- [★★★★☆ 🏛️🎨 Chung Tai World Museum](https://www.google.com/maps/search/Chung+Tai+World+Museum+Puli+Nantou) — Poważne muzeum sztuki buddyjskiej obok świątyni Chung Tai: posągi i artefakty sięgające 386 r. n.e., dotykowe panele z ikonografią; jeden bilet obejmuje też Wood Sculpture Gallery. Wt.–niedz. 09:00–17:00, zamknięte w pon.; **BEZPŁATNIE 1 maja–31 sierpnia 2026** (obejmuje termin wyjazdu). Muzeum najwyższej klasy dla tej rodziny.
-- [★★★★☆ 🏯 Chung Tai Chan Temple](https://www.google.com/maps/search/Chung+Tai+Chan+Temple+Puli+Nantou) — 43-kondygnacyjny nowoczesny klasztor (otwarty w 2001), jeden z najbardziej uderzających budynków Tajwanu i światowy ośrodek badań i sztuki buddyjskiej; anglojęzyczne mniszki oprowadzają (rezerwacja 3 dni wcześniej). Codziennie 09:00–19:00; bezpłatnie. 6 km od miasta Puli, obok World Museum — jeden przystanek.
+- [★★★★☆ 🏛️🎨 Chung Tai World Museum](https://www.google.com/maps/search/Chung+Tai+World+Museum+Puli+Nantou) — Poważne muzeum sztuki buddyjskiej obok świątyni Chung Tai: posągi i artefakty sięgające 386 r. n.e., dotykowe panele z ikonografią; jeden bilet obejmuje też Wood Sculpture Gallery. Wt.–niedz. 09:00–17:00, zamknięte w pon.; **BEZPŁATNIE 1 maja–31 sierpnia 2026** (obejmuje termin wyjazdu). Muzeum najwyższej klasy dla tej rodziny. 📅 **Dzień 18 (28 sie)**
+- [★★★★☆ 🏯 Chung Tai Chan Temple](https://www.google.com/maps/search/Chung+Tai+Chan+Temple+Puli+Nantou) — 43-kondygnacyjny nowoczesny klasztor (otwarty w 2001), jeden z najbardziej uderzających budynków Tajwanu i światowy ośrodek badań i sztuki buddyjskiej; anglojęzyczne mniszki oprowadzają (rezerwacja 3 dni wcześniej). Codziennie 09:00–19:00; bezpłatnie. 6 km od miasta Puli, obok World Museum — jeden przystanek. 📅 **Dzień 18 (28 sie)**
 - [★★★☆☆ 🏭 Puli Winery (Wine Culture Museum & Factory)](https://www.google.com/maps/search/Puli+Winery+Nantou) — Pierwsze na Tajwanie muzeum kultury wina, dom wina ryżowego Shaoxing: ekspozycje produkcji, sala degustacji i sprzedaży, przekąski w motywie wina (lody z winem, jajka w winie). Pon.–pt. 08:30–17:00, weekendy i święta do 18:00; bezpłatnie. Krótki skok od pary obiektów Chung Tai.
-- [★★★★☆ 🏭🚂🎨 CheCheng Wood Museum](https://www.google.com/maps/search/CheCheng+Wood+Museum+Nantou) — Dawny tartak z czasów japońskich w malowniczej osadzie drwali na końcu linii Jiji (zabytkowa kolej, którą można jechać): historia leśnictwa i drewna, narzędzia stolarskie, samodzielne warsztaty rękodzieła z drewna pod uderzającym dachem łączącym stare i nowe drewno. W dni powszednie 09:30–17:00, weekendy i święta do 17:30; bezpłatnie (parking NT$100). Mocne połączenie STEM + kolej na dzień Sun Moon Lake / linii Jiji.
+- [★★★★☆ 🏭🚂🎨 CheCheng Wood Museum](https://www.google.com/maps/search/CheCheng+Wood+Museum+Nantou) — Dawny tartak z czasów japońskich w malowniczej osadzie drwali na końcu linii Jiji (zabytkowa kolej, którą można jechać): historia leśnictwa i drewna, narzędzia stolarskie, samodzielne warsztaty rękodzieła z drewna pod uderzającym dachem łączącym stare i nowe drewno. W dni powszednie 09:30–17:00, weekendy i święta do 17:30; bezpłatnie (parking NT$100). Mocne połączenie STEM + kolej na dzień Sun Moon Lake / linii Jiji. 📅 **Dzień 18 (28 sie)**
 
 ### Chiayi / Alishan — więcej (uzupełnienia z researchu 2026)
 
