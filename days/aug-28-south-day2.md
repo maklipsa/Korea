@@ -4,6 +4,7 @@
 ⚠️ **DZIEŃ NIEROZSTRZYGNIĘTY** — ciąg dalszy wariantu wybranego [27 sie](aug-27-departure-south.md). Wszystkie cztery warianty są w jednej tabeli niżej. Porównanie: **[replan-taiwan.md](../replan-taiwan.md)**.
 
 **Piątek pracuje na waszą korzyść:** **Ruifeng Night Market** (Kaohsiung) jest zamknięty w pon. i śr. → dziś działa ✓. **Six Thousand Beef Soup** (Tainan) działa czw.–niedz. → ✓. W Tainanie rotacja targów daje dziś **Dadong** (pon./wt./pt.).
+|  | 🏮 **Po werdykcie Raohe (3/6, 26 sie): wybierzcie targ NAJBLIŻSZY noclegowi, nie najsłynniejszy.** Ningxia obok hotelu w Tajpej wyszło taniej i lepiej niż Raohe przez pół miasta. I **idźcie 18:00–19:00, nie po 20:00** — najlepsze budki się wyprzedają. |  |
 
 🧳 **W wariantach A i B dziś zmieniacie bazę z bagażem** — wymeldowanie rano, bagaż do hotelu w nowym mieście przed zwiedzaniem. W wariancie C nocujecie drugą noc w tym samym miejscu, co jest jego największą praktyczną zaletą.
 

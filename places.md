@@ -26,6 +26,12 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 
 **Werdykt zapisujcie tego samego wieczoru, nie na koniec wyjazdu.** To nie jest porządkowa uwaga, tylko najbardziej dochodowa zasada tego wyjazdu: werdykt N Seoul Tower (2/6, 16 sie) zapisany od razu pozwolił **następnego dnia** odpuścić Seoul Sky — ten sam produkt kompleks obok — i zaoszczędzić **~174,000 KRW** za szóstkę. Zasada działa tylko wtedy, gdy ocena jest na papierze, zanim pojawi się kolejny punkt tego samego typu. **Tajwan jest pod tym względem wyjątkowo powtarzalny:** 6 nocnych targów (Ningxia, Raohe, Shilin, Wusheng, Ruifeng, Tonghua), 5 starych uliczek (Dihua, Shifen, Jiufen, Anping, Shennong), 2 forty w Anping, kilka przejazdów widokowych. Gwangjang — nasz punkt odniesienia dla targów — dostał tylko 4/6. **Oceńcie pierwszy z każdej serii tego samego wieczoru i jeśli wypadnie słabo, wymieńcie kolejne na muzea albo świątynie**, zamiast odkrywać to 28 sie.
 
+🏮 **WNIOSEK Z 26 SIE — targ obok łóżka bije targ ze sławą.** **Raohe dostało 3/6** i to nie była kwestia gustu, a wartości: **drożej niż na targu przy hotelu, mniejsze porcje, słabsza jakość, najlepsze budki już zamknięte.** Seria „sławne + tłoczne” ma teraz **7 nietrafień na 7**, a Raohe jest **poniżej** pułapu 4/6, na którym trzymała się reszta.
+
+**Dwie rzeczy do zabrania na południe:**
+- **Wybierajcie targ najbliżej noclegu, nie najsłynniejszy w mieście.** Ningxia leży 300 m od hotelu i wyszło taniej i lepiej niż Raohe przez pół miasta. Na 27–28 sie znaczy to: **targ przy hotelu w Tainanie i w Kaohsiungu**, a nie ten z przewodnika.
+- ⏰ **Na słynnym targu najlepsze budki się WYPRZEDAJĄ.** Doszliśmy ~20:20, w szczycie tłumu — i to było za późno. **Szczyt tłumu to nie szczyt dostępności.** Następny raz **18:00–19:00**, zaraz po rozkręceniu się targu.
+
 💸 **WNIOSEK Z 26 SIE — cena nie kupuje oceny, a nasze gwiazdki systematycznie źle typują.** Tabela po 16 dniach mówi to jednoznacznie:
 
 | Ocena | Punkt | Cena | Nasz rating |
@@ -1359,7 +1365,7 @@ Nowoczesne Taipei, ikoniczna wieża, najlepsza ulica jedzenia w Azji, nocne targ
   - [★★★★☆ 🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Pierwotna lokalizacja (od 2025 r. tylko na wynos); weź xiao long bao i zjedz w parku 📅 *blisko: Dzień 16 (26 sie)*
 
 #### Nocne targi
-- [★★★★☆ 🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei) — Uznawany za najlepszy w Taipei dla foodies; 6 straganów z wyróżnieniem Michelin; Fuzhou Black Pepper Buns przy wejściu (wieczna kolejka) 📅 **Dzień 16 (26 sie)**
+- [★★★★☆ 🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei) — Uznawany za najlepszy w Taipei dla foodies; 6 straganów z wyróżnieniem Michelin; Fuzhou Black Pepper Buns przy wejściu (wieczna kolejka) ✅ **Widziane: Dzień 16 (26 sie) — 3/6. Najgorszy werdykt targowy wyjazdu.** Konkretnie: **wyraźnie drożej niż na targu obok naszego hotelu**, **najlepsze budki już zamknięte**, tłok, **jedzenie słabsze i porcje mniejsze** — miejsca, które **obiecują dużo za uczciwą cenę i dowożą znacznie mniej**. ⚠️ Potwierdza to, co dopisaliśmy tego samego dnia: **kolejka i sława to sygnał ostrzegawczy.** 📅 **Dzień 16 (26 sie)**
 - [★★★☆☆ 🏮 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei) — Najbardziej „wyrafinowany" nocny targ; nowatorskie bubble tea, kiełbaski gourmet 📅 *blisko: Dzień 16 (26 sie)*
 
 #### Desery

@@ -14,6 +14,7 @@
 ## Route Map
 
 **Trasa wariantu B (plan główny):** hotel → **Chia Te Bakery** (Nanjing E Rd) → Taipei Main → HSR → **Tainan HSR** → taksówka do centrum → Guohua St → Chihkan Tower → Grand Matsu → Tainan Art Museum → Shennong St → Garden Night Market. Trasy wariantów zapasowych — po decyzji.
+|  | 🏮 **Po werdykcie Raohe (3/6, 26 sie): wybierzcie targ NAJBLIŻSZY noclegowi, nie najsłynniejszy.** Ningxia obok hotelu w Tajpej wyszło taniej i lepiej niż Raohe przez pół miasta. I **idźcie 18:00–19:00, nie po 20:00** — najlepsze budki się wyprzedają. |  |
 
 ## Schedule
 
