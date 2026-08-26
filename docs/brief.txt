@@ -1,7 +1,7 @@
 # Plan wyjazdu — Korea i Tajwan (od dziś do końca)
 
-> **Wygenerowano: 2026-08-26.** Dziś jest **Dzień 16 — 26 sie (śr)**.
-> Ten plik zawiera **tylko dzisiejszy dzień i dni pozostałe** (4 z 19). Dni już minione, lista pakowania, DMZ, karty zniżkowe i pełny katalog miejsc są pominięte celowo.
+> **Wygenerowano: 2026-08-27.** Dziś jest **Dzień 17 — 27 sie (czw)**.
+> Ten plik zawiera **tylko dzisiejszy dzień i dni pozostałe** (3 z 19). Dni już minione, lista pakowania, DMZ, karty zniżkowe i pełny katalog miejsc są pominięte celowo.
 > Pełny plan: https://indexoutofrange.com/Korea · pełny eksport danych: https://indexoutofrange.com/Korea/data.json
 
 ## Jak zwracać się do właściciela tego pliku
@@ -65,81 +65,6 @@ Tajwan: 21-29 sie (8 nocy — **Taipei 6 nocy (21-26)** + 2 noce na południu (2
 ---
 
 ## Dni — od dziś do końca
-
-> **Dzień 16 · 26 sie (śr) · Tajwan** — Taipei Dzień 4: Maokong Gondola + Zhinan Temple → **Fubon Art Museum** → Elephant Mountain → **taras Taipei 101** → Raohe
-
-# Aug 26 (Wed) — Taipei dzień 4: Maokong rano → Xinyi (Fubon, 101) → Raohe
-> Badges: pass:Bez passa — gondola i Fubon w kasie; closed:Maokong Gondola i Fubon Art Museum zamknięte w pon. (śr. OK)
-
-**Dwa skupiska: Maokong rano, Xinyi po południu i wieczorem.** Gondola → Zhinan Temple → herbaciarnie na szczycie (to jest ta część, po którą się tu jedzie — nie skracajcie jej), potem MRT ~30 min na drugą stronę miasta i już nigdzie nie jedziecie: Fubon, Elephant Mountain, taras 101 i sklepy pod wieżą leżą obok siebie, a Raohe to jeden przystanek dalej.
-
-🎟️ **Weźcie legitymacje szkolne trojga dzieci.** Fubon kosztuje **NT$1,200 normalnie, ale NT$200 dla uczniów** — to ~NT$3,000 różnicy dla szóstki. Jedyna rzecz z dzisiejszego dnia, o której trzeba pamiętać **przed** wyjściem z hotelu.
-
-🧳 **Ostatnia noc w Tajpej — spakujcie się dziś wieczorem**, bo wracacie z Raohe późno, a jutro rano [wymeldowanie i wyjazd na południe](aug-27-departure-south.md).
-
-## Route Map
-[Trasa w Google Maps](https://www.google.com/maps/dir/?api=1&origin=Maokong+Gondola+Taipei&destination=Raohe+Night+Market+Taipei&waypoints=Zhinan+Temple+Taipei|Taiwan+Design+Museum+Songshan+Taipei|Elephant+Mountain+Xiangshan+Taipei|Taipei+101&travelmode=transit)
-
-## Schedule
-
-| Time | Activity | Price |
-|------|----------|-------|
-| 9:00 | ✅ **Widziane — 5/6.** **[★★★★☆ 🚡🧒🦐 Maokong Gondola](https://www.google.com/maps/search/Maokong+Gondola+Taipei)** — 30-minutowy przejazd nad plantacjami herbaty. Weźcie **Crystal Cabin ze szklaną podłogą** (+NT$50) — dzieci to uwielbiają. **Środa: otwarte** (zamknięte tylko w pon.), ale w tygodniu kolejka jeździ krócej niż w pt./sob. — sprawdźcie godzinę ostatniego zjazdu przy kasie. **Rano to najlepszy moment:** chłodniej, mniejsza kolejka i lepsza widoczność niż po południu. | NT$180/przejazd lub NT$300 pass dzienny |
-| 9:45 | ✅ **Widziane — 5/6. Na równi z gondolą, a wpisane jako sam przystanek.** **[★★★☆☆ 🏯🗼 Zhinan Temple](https://www.google.com/maps/search/Zhinan+Temple+Taipei)** — **nowe w planie, a to po prostu przystanek gondoli** (wysiadacie i wsiadacie dalej tym samym biletem dziennym). Okazała taoistyczna świątynia na zboczu z panoramą Tajpej. To jest odpowiednik „Zhangu trail" z planu znajomego — u nas realniejszy, bo bez podejścia w upale. | Bezpłatnie |
-| ~10:45 | ⏭️ **ZAWRÓCILIŚMY — wielkie pająki w poprzek ścieżki.** **[★★★★☆ 🌳🍵📸 Plantacje herbaty — szlak Zhangshu (樟樹步道) → 貓空水土保持茶園](https://www.google.com/maps/search/Zhangshu+Trail+Maokong+Taipei)** — **nowe w planie (26 sie).** Maokong to **działający rejon herbaciany**, ale **z herbaciarni tarasów nie widać** — okna patrzą na dolinę. **Dedykowany szlak pieszy, nie droga.** 樟樹步道 to **pierwszy w Tajpej szlak w standardzie „dla każdego wieku”** — ~**1,5 km, płasko** (tylko lekkie nachylenie), **~30 min** w jedną stronę, odcinkami **drewniany pomost (木棧道)**. Po drodze wiejskie instalacje: piec do wypału węgla drzewnego, chlewik, wóz zaprzężny, spichlerz. Kończy się **otwartymi tarasami herbacianymi**; sam **貓空水土保持茶園 leży przy 田寮橋**, a pomost biegnie wzdłuż doliny i tarasów. ⚠️ Nazwa poprawiona 26 sie — wcześniej było tu „szlak Tuobanling”, wzięte z pojedynczego bloga; udokumentowaną trasą do tego ogrodu jest 樟樹步道. **Idźcie PRZED herbatą** — rano stabilnie, po południu burze i 陸警. | Bezpłatnie, ~30 min |
-|  | *Dłuższa opcja (~1 h):* **[★★★☆☆ 🌳🚶🧒 szlak Huxue (壺穴步道)](https://www.google.com/maps/search/Huxue+Trail+Maokong+Taipei)** — plantacje, formacje „kotłów” i **most wiszący na pojedynczej linie**; po drodze Centrum Promocji Herbaty (oprowadzanie tylko w weekendy). |  |
-| ~11:30 | ⚠️ **Widziane — 3,5/6. Najsłabszy punkt dnia.** **Herbaciarnie w Maokong** — Mountain Tea House, Found Your Tea, The Big Tea Pot; albo **威叔茶莊** (stary trzykondygnacyjny dom, prawie każde miejsce ma własne okno z widokiem na góry) i **四哥的店** (~6 min od stacji, wyborowe 鐵觀音, NT$350–450 za czajnik). Herbata z widokiem na dolinę. ⚠️ **Plan twierdził, że „to jest ta część, po którą się tu jedzie” — nieprawda (3,5/6).** W Maokong dowiozły gondola i Zhinan Temple. Część lokali robi też lunch. | ~NT$300–500 za dzbanek |
-| 12:30 | Gondolą w dół do stacji **Taipei Zoo**, lunch przy dolnej stacji. |  |
-|  | ⏭️ **Pominięte — [★★★☆☆ 🐾🧒🦐 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo).** Zoo mamy w Warszawie; popołudnie idzie na muzeum designu (dawny wariant 26b). ⚠️ Wybór **Olafa (🦐)**, drugi tego dnia po tarasie 101 — powiedzcie mu sami. |  |
-| 13:30 | MRT Wenshan → **Taipei 101 / Xinyi** (~30 min). ⬇️ **Blok Songshan (muzeum designu + park) przeniesiony na 25 sie**, żeby wyrównać oba dni — ten był najdłuższy w Tajpej (~12 h) i wypada w dzień pakowania. |  |
-| 14:00 | ✅ **Widziane — 4/6. Dobre, ale za małe na tę cenę.** **[★★★★★ 🏛️🎨📷 Fubon Art Museum (富邦美術館)](https://www.google.com/maps/search/Fubon+Art+Museum+Taipei)** — **nowe w planie.** Pierwszy budynek **Renza Piano** na Tajwanie (2024): szklany pawilon, kolekcja Sanyu i Yun Gee + **zestaw 70 rzeźb Rodina**. 8 min pieszo od MRT Taipei 101, czyli **zero dojazdu do wieczoru**. **Wt.–niedz. 11:00–18:00, zamknięte w pon. — śr. OK.** 💡 **Bilety: NT$1,200 normalny, ale NT$200 dla uczniów** — weźcie legitymacje szkolne wszystkich trojga dzieci, to różnica NT$3,000 dla szóstki. | NT$1,200 / NT$200 uczeń |
-|  | 🚫 **ZAMKNIĘTE — [~~★★★★☆ 📸🏛️ National Dr. Sun Yat-sen Memorial Hall (國立國父紀念館)~~](https://www.google.com/maps/search/National+Dr+Sun+Yat-sen+Memorial+Hall+Taipei)** wypada z planu. Remont gmachu trwa **od lutego 2024, otwarcie IV kw. 2026** — czyli po naszym powrocie; zmiana warty odbywa się w środku, więc jej też nie ma. *(Sam plac i Zhongshan Park są otwarte — przechodząc, ujęcie 101 z placu nadal działa.)* |  |
-| ~16:15 | ✅ **Widziane — 6/6. DRUGA SZÓSTKA WYJAZDU, bezpłatna, 10 minut.** **[★★★☆☆ 📸🏛️ Tao Zhu Yin Yuan (陶朱隱園)](https://www.google.com/maps/search/Tao+Zhu+Yin+Yuan+Taipei)** — skręcona wieża „las wertykalny” Vincenta Callebauta: 21 kondygnacji obróconych łącznie o 90°, forma helisy DNA, ~23 000 roślin. Apartamenty prywatne, więc **oglądacie z zewnątrz — 10 min, bezpłatnie**, i leży między 101 a Xiangshan. **To nie jest zamiennik godzinnego punktu** — popołudnie jest po prostu luźniejsze, co przy wieczornym pakowaniu nie szkodzi. | Bezpłatnie |
-| 17:00 | MRT jeden przystanek Taipei 101 → **Xiangshan** (~5 min). ✅ **Cały dzień siedzi teraz w dwóch skupiskach — Maokong rano, Xinyi po południu i wieczorem** — zamiast dawnego zygzaka Maokong → Songshan → Xinyi → Songshan. |  |
-|  | 🕷️ **UWAGA po porannym zawróceniu:** na **象山步道 też odnotowuje się 人面蜘蛛**. Różnica: Elephant Mountain to **szeroka, betonowa klatka schodowa z dużym ruchem**, więc sieci nad samymi stopniami są stale rozrywane — pająki siedzą raczej **z boku, w krzakach**, nie nad ścieżką. Nie jest to ten sam warunek co pusty leśny szlak w Maokong. **Jeśli mimo to odpada:** darujcie sobie Elephant Mountain i idźcie **wcześniej na taras 101** — dziś wieczorem i tak ma być wydane 陸警, więc bycie wcześniej pod dachem jest wygraną. Ikoniczne zdjęcie wieży z dołu macie też z placu przy Sun Yat-sen. |  |
-| 17:30 | ✅ **Widziane — 5/6, mimo pająków.** **[★★★★☆ 🌳🗼 Elephant Mountain (Xiangshan)](https://www.google.com/maps/search/Elephant+Mountain+Xiangshan+Taipei)** — Krótkie, strome podejście (10–20 min). **TO** ikoniczne zdjęcie Taipei 101, z punktu „Six Boulders". 9-latki radzą sobie bez problemu. **Weźcie wodę** — w popołudniowym upale to katorga. **To jest wasz punkt widokowy dnia, w miejsce tarasu 101**: wchodźcie 17:30–18:00, zostańcie na zachód słońca (~18:25) i na zapalenie świateł miasta. | Bezpłatnie |
-| ~18:45 | ✅ **Widziane — 5/6. ⏰ Kluczem było wejście TUŻ PRZED zachodem** — jeden bilet, trzy widoki: za dnia, zachód i zmierzch. Plus bardzo czyste szyby. **[★★★☆☆ 🗼📸🦐 Taipei 101 — taras widokowy](https://www.google.com/maps/search/Taipei+101)** (🦐 **Olaf**) — **WRACA DO PLANU (25 sie).** Bilet standardowy obejmuje piętra **88–89 (wewnątrz) + odkryty taras na 91.** ⚠️ **Czynne 10:00–21:00, ostatnie wejście ~20:00** — wchodzicie po zachodzie, czyli dostajecie **widok nocny**, a ikoniczne zdjęcie samej wieży macie już z Elephant Mountain godzinę wcześniej. *(Skyline 460 — otwarte 101. piętro — dopłata ~NT$380, bywa zamykane przy wietrze.)* | ~NT$600/os. (dzieci <115 cm bezpłatnie; **potwierdźcie próg dziecięcy w kasie**) |
-| ~20:10 | MRT do Songshan. ⬇️ **Blok sklepów pod 101 (Pokémon + Donguri) przeniesiony na 25 sie — zrobiony.** 🌀 **I dobrze:** znika godzina na zewnątrz dokładnie w okienku, w którym ma być wydane **陸警**, więc wieczór kończy się ~40 min wcześniej. **[★★☆☆☆ 🏯 Songshan Ciyou Temple](https://www.google.com/maps/search/Songshan+Ciyou+Temple+Taipei)** — Wielka, kolorowa świątynia Mazu **przy samym wejściu na Raohe**; zaliczacie ją po drodze, nie osobno. | Bezpłatnie |
-| ~20:20 | ✅ **Widziane — 3/6. Najgorszy targ wyjazdu.** Drożej niż przy hotelu, mniejsze porcje, słabsza jakość, najlepsze budki zamknięte. ⏰ **~20:20 było ZA PÓŹNO** — szczyt tłumu to nie szczyt dostępności; trzeba było 18:00–19:00. **[★★★★☆ 🏮 Raohe Night Market](https://www.google.com/maps/search/Raohe+Night+Market+Taipei)** — Najlepszy w Tajpej dla smakoszy. 6 stoisk wyróżnionych przez Michelin. **Fuzhou Black Pepper Buns** przy wejściu (zawsze kolejka — warta). | ~NT$200–400/os. |
-|  | ⚠️ **KOREKTA — te wyróżnienia Michelin są NIEAKTUALNE, a oceny Google są niskie.** 陳董藥燉排骨 miało Bib Gourmand **2018–2022**, 阿國滷味 **2019–2023** — czyli **żadne z nich nie jest obecnie na liście**, a blogi cytują stare roczniki w czasie teraźniejszym. Do tego **to jest dokładnie kategoria „sławne + tłoczne”, która na tym wyjeździe ma 6 nietrafień na 6** — a Gwangjang, nasz punkt odniesienia dla targów, dostał 4/6. **Długa kolejka jest tu sygnałem ostrzegawczym, nie rekomendacją.** Nazwy zostawione do orientacji w terenie: |  |
-|  | 🍜 **Stragany-punkty orientacyjne (dawne Bib Gourmand):** **[福州世祖胡椒餅](https://www.google.com/maps/search/Fuzhou+Shizu+Pepper+Bun+Raohe+Taipei)** (Fuzhou Shizu — pieczone bułki z wieprzowiną i pieprzem, **przy samym wejściu od strony świątyni Ciyou**; skórka ma trzy tekstury naraz, największa kolejka targu) · **[陳董藥燉排骨](https://www.google.com/maps/search/Chen+Dong+Herbal+Pork+Ribs+Raohe+Taipei)** (Chen Dong — **pierwsza buda z żeberkami w wywarze z kilkunastu ziół** na tej ulicy; to zupa jest tu gwiazdą) · **[阿國滷味](https://www.google.com/maps/search/A+Guo+Lu+Wei+Raohe+Taipei)** (A-Guo — wybierasz składniki, oni duszą w sosie) · **[施老闆麻辣臭豆腐](https://www.google.com/maps/search/Shi+Laoban+Stinky+Tofu+Raohe+Taipei)** (ostre mala tofu) · **無名紅燒牛肉麵牛雜湯** (bezimienna buda z wołowiną po syczuańsku i zupą z podrobów). |  |
-|  | ➕ **Poza Michelinem, klasyk stulecia:** **[東發號](https://www.google.com/maps/search/Dong+Fa+Hao+Raohe+Taipei)** — **油飯** (kleisty ryż), **蚵仔麵線** (makaron z ostrygami) i **肉羹湯**; ponad 100 lat, otwarte też za dnia. ⚠️ **Nie ustawiajcie się w najdłuższej kolejce tylko dlatego, że jest najdłuższa.** 福州世祖 i 陳董 mają dwie najdłuższe kolejki targu i **najbardziej mieszane opinie** — miejscowi otwarcie kwestionują, czy popularność jest zasłużona. **Rozsądniejszy plan: 東發號 po 蚵仔麵線 (inna kategoria — stuletnia instytucja, nie viralowa buda), a poza tym po prostu jedzcie tam, gdzie nie ma kolejki.** |  |
-|  | ⏰ **Rytm targu:** stragany otwierają się 16:00–17:00, **pełnia od ~18:00**, większość działa do 23:00–24:00 — więc wejście ~20:20 trafia w szczyt i nic wam nie ucieknie. |  |
-| ~21:00 | Powrót do hotelu — **pakowanie**, jutro wymeldowanie i wyjazd na południe. |  |
-| | **▸▸ WARIANT 26z · z zoo zamiast designu** — *(dawny plan główny; zoo skreślone 23 sie, zostaje tylko jako awaryjny powrót)* | |
-|  | Ten wariant był planem głównym do 23 sie. **Muzeum designu wygrało** — argument „zoo można zobaczyć wszędzie” był tu zapisany od początku i to on przesądził o cięciu. Wracacie do niego tylko, jeśli muzeum designu okaże się zamknięte. |  |
-|  | **13:30 ·** Gondolą w dół, **[★★★☆☆ 🐾🧒🦐 Taipei Zoo](https://www.google.com/maps/search/Taipei+Zoo)** — otwarte 9:00–17:00, **ostatnie wejście 16:00**, realne ~3 h. |  |
-|  | ⬇️ *(Nieaktualne od 25 sie: muzeum designu i Songshan przeniesione na 25 sie, więc ten wariant zamieniałby dziś Fubon na zoo.)* |  |
-
-**⚠️ Gęstość.** Ten dzień to ~11 godzin aktywnie i nadal najdłuższy dzień w Tajpej. Godziny otwarcia dyktują kolejność: muzeum designu **musi** być przed 17:30 (ostatni bilet), a Elephant Mountain **musi** być o zachodzie słońca. ✅ Po wypadnięciu zoo dzień jest **krótszy o ~1 h** i mniej biegany. **Naturalne cięcia:** blok 19:00 (Pokémon/Donguri) w całości, potem blok Songshan po muzeum (15:30).
-
----
-
-## Also Nearby
-
-### Xinyi / Songshan — bench
-- [★★★☆☆ 🗼📸🦐 Taipei 101](https://www.google.com/maps/search/Taipei+101) — ⬆️ **Taras WRÓCIŁ do harmonogramu** (patrz wiersz ~18:45) — konflikt rozstrzygnięty na korzyść Olafa (🦐). Sam budynek, plac u jego stóp i galeria Shin Kong Mitsukoshi zostają w planie.
-- [★★★★☆ 🏛️🎨🐞🦑 Taiwan Design Museum](https://www.google.com/maps/search/Taiwan+Design+Museum+Songshan+Taipei) — Narodowe muzeum designu w Songshan Cultural & Creative Park. Wt.–niedz. 10–18 (ostatni bilet 17:30), zamknięte w pon.; NT$50. ⬆️ **Rdzeń wariantu 26b.**
-- [★★☆☆☆ 🚶 44 South Military Village](https://www.google.com/maps/search/44+South+Military+Village+Taipei) — Wioska w stylu retro u stóp 101; kawiarnie, rękodzieło. Mijacie ją idąc na Xiangshan.
-- [★★★☆☆ 🌳🧒 Da'an Forest Park](https://www.google.com/maps/search/Daan+Forest+Park+Taipei) — „Central Park" Tajpej; 26 ha, staw, place zabaw. Otwarty 24 h, więc pasuje też jako rezerwa na dowolny wieczór.
-- [★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — Mieszkania z lat 60. zamienione w niezależne butiki.
-- [★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Dzielnica odzieżowa; ciuchy dla nastolatków w cenach hurtowych.
-- ⏭️ **Discovery Center of Taipei — skreślone.** Muzeum historii miasta, czyli kategoria dwukrotnie sprawdzona i dwukrotnie odrzucona w Korei (National Museum of Korean Contemporary History 14 sie, Seoul Museum of History 16 sie). Nie proponujemy ponownie.
-
-### Maokong — dodatki
-- 🍵 Konkretne herbaciarnie: **Mountain Tea House**, **Found Your Tea**, **The Big Tea Pot**.
-- ⬆️ **Railway Museum jako rezerwa:** jeśli 21 sie kontrola paszportowa zjadła popołudnie i [Railway Museum](aug-21-busan-to-taipei.md) wypadło, to jest dzień, w którym da się je odzyskać — ale tylko w wariancie 26b i tylko rezygnując z Songshan.
-
-### Dodatki przy Yongkang Street
-- [★★★★☆ 🍜 Din Tai Fung Yongkang](https://www.google.com/maps/search/Din+Tai+Fung+Yongkang+Taipei) — Pierwszy lokal sieci (oryginał tylko na wynos; na miejscu je się w filii na 330 miejsc po przeciwnej stronie). Xiao long bao warte kolejki.
-- [★★★☆☆ 🍜 Dongmen Dumplings](https://www.google.com/maps/search/Dongmen+Dumplings+Taipei) — Od 1963 r.; słynne smażone pierożki.
-- ☕ **Mango shaved ice przy Yongkang Street** (sezonowo — sierpień to szczyt sezonu na mango). To jest odpowiednik „Dongmen smoothie house" z planu znajomego; konkretnego lokalu nie mamy w katalogu, wybierzcie na miejscu ten z kolejką.
-
-### Więcej nocnych targów
-- [★★★☆☆ 🏮🧋 Tonghua (Linjiang) Night Market](https://www.google.com/maps/search/Tonghua+Night+Market+Taipei) — Najbardziej „wyrafinowany" nocny targ; nowatorska bubble tea. Alternatywa dla Raohe, bliżej Da'an.
-- [★★★☆☆ 🧋 50 Lan](https://www.google.com/maps/search/50+Lan+bubble+tea+Taipei) — Kultowa lokalna sieć boba.
-
----
 
 > **Dzień 17 · 27 sie (czw) · Tajwan** — ⚠️ **4 WARIANTY** — wymeldowanie z Tajpej + Chia Te → Taichung / Tainan / Hualien
 
