@@ -29,7 +29,7 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 🏮 **WNIOSEK Z 26 SIE — targ obok łóżka bije targ ze sławą.** **Raohe dostało 3/6** i to nie była kwestia gustu, a wartości: **drożej niż na targu przy hotelu, mniejsze porcje, słabsza jakość, najlepsze budki już zamknięte.** Seria „sławne + tłoczne” ma teraz **7 nietrafień na 7**, a Raohe jest **poniżej** pułapu 4/6, na którym trzymała się reszta.
 
 **Dwie rzeczy do zabrania na południe:**
-- **Wybierajcie targ najbliżej noclegu, nie najsłynniejszy w mieście.** Ningxia leży 300 m od hotelu i wyszło taniej i lepiej niż Raohe przez pół miasta. Na 27–28 sie znaczy to: **targ przy hotelu w Tainanie i w Kaohsiungu**, a nie ten z przewodnika.
+- **Wybierajcie targ najbliżej noclegu, nie najsłynniejszy w mieście.** Liczby są brutalne: **Ningxia (300 m od hotelu) 5,5/6 wobec Raohe (przez pół miasta) 3/6** — różnica **2,5 punktu** na tym samym produkcie, i jeszcze taniej. Na 27–28 sie znaczy to: **targ przy hotelu w Tainanie i w Kaohsiungu**, a nie ten z przewodnika.
 - ⏰ **Na słynnym targu najlepsze budki się WYPRZEDAJĄ.** Doszliśmy ~20:20, w szczycie tłumu — i to było za późno. **Szczyt tłumu to nie szczyt dostępności.** Następny raz **18:00–19:00**, zaraz po rozkręceniu się targu.
 
 💸 **WNIOSEK Z 26 SIE — cena nie kupuje oceny, a nasze gwiazdki systematycznie źle typują.** Tabela po 16 dniach mówi to jednoznacznie:
@@ -1336,7 +1336,7 @@ Najstarsze ulice Taipei, najlepszy lokalny nocny targ, zakupy w second-handach.
 - [★★☆☆☆ ☕🐾 Kitten Coffee Garden](https://www.google.com/maps/search/Kitten+Coffee+Garden+Taipei) — 13 kotów i 2 psy, od 1998 r. 📅 *blisko: Dzień 12 (22 sie)*
 
 #### Nocny targ
-- [★★★☆☆ 🏮 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei) — Najbardziej lokalny klimat; konkretne stragany: Piaoxiang Beef Noodle, Liu Yu Zi (smażone kulki taro), Yuen Huan Pien (omlet z ostrygami), Fang Chia Shredded Chicken Rice 📅 **Dni 11, 12 (21, 22 sie)**
+- [★★★☆☆ 🏮 Ningxia Night Market](https://www.google.com/maps/search/Ningxia+Night+Market+Taipei) — Najbardziej lokalny klimat; konkretne stragany: Piaoxiang Beef Noodle, Liu Yu Zi (smażone kulki taro), Yuen Huan Pien (omlet z ostrygami), Fang Chia Shredded Chicken Rice ✅ **Widziane: Dzień 11 (21 sie) i wielokrotnie potem — 5,5/6.** **Trzeci najwyższy werdykt całego wyjazdu**, po dwóch szóstkach. **300 m od hotelu**, więc stało się domyślnym targiem całego pobytu w Tajpej. ⚖️ **Bezpośrednie porównanie: 5,5/6 tutaj wobec 3/6 na Raohe** — ten sam produkt, ten sam tydzień, targ dzielnicowy wygrywa o **2,5 punktu**, i to taniej. Rating ★★★☆☆ był zaniżony — **to wpis na ★★★★★.** 📅 **Dni 11, 12 (21, 22 sie)**
 - [★★★☆☆ 🏮 Shuanglian Night Market](https://www.google.com/maps/search/Shuanglian+Night+Market+Taipei) — Wąski, podłużny targ wzdłuż dawnego torowiska przy stacji MRT Shuanglian, 2 przystanki od Ningxia i w tym samym korytarzu Zhongshan/Dadaocheng: mniej turystyczny, mocny w owoce, tofu i zupy. Przydaje się, bo **21 i 22 sie oba wieczory wypadają koło Ningxia** — to naturalna zamiana na jeden z nich. 📅 **Dzień 11 (21 sie)**
 
 #### Zakupy
