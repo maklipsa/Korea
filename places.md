@@ -1323,7 +1323,7 @@ Najstarsze ulice Taipei, najlepszy lokalny nocny targ, zakupy w second-handach.
 - [★★★☆☆ 🚶🍺 Dadaocheng Wharf](https://www.google.com/maps/search/Dadaocheng+Wharf+Taipei) — Bary w kontenerach, street food, widoki na zachód słońca 📅 **Dzień 12 (22 sie)**
 - [★★☆☆☆ 🛍️ Chifeng Street](https://www.google.com/maps/search/Chifeng+Street+Taipei) — Second-handy, oryginalne kawiarnie, niezależne akcesoria 📅 *blisko: Dzień 12 (22 sie)*
 - [★★☆☆☆ 🛍️ Zhongshan Underground Book Street (Eslite R79)](https://www.google.com/maps/search/Eslite+R79+Taipei) — Podziemna galeria z księgarniami, winylami, papeterią i pamiątkami 📅 *blisko: Dzień 12 (22 sie)*
-- [★★★☆☆ 🎡🗼🦐 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — Diabelski młyn o wysokości 95 m; świetne widoki na zachód słońca 📅 **Dzień 15 (25 sie)**
+- [★★★☆☆ 🎡🗼🦐 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei) — Diabelski młyn o wysokości 95 m; świetne widoki na zachód słońca ⏭️ **Pominięte: Dzień 15 (25 sie) — decyzją samego Olafa (🦐).** Oba płatne punkty widokowe zostały mu przywrócone 25 sie; **wybrał taras Taipei 101** i poszedł tam następnego wieczoru (5/6). Konfliktu nie rozstrzygnął planista, tylko właściciel znacznika — i wybrał dobrze. 📅 **Dzień 15 (25 sie)**
 
 #### Kawiarnie
 - [★★☆☆☆ ☕ ABCD (A Better Coffee & Doughnuts)](https://www.google.com/maps/search/ABCD+cafe+Taipei) — Wejście w kształcie wielkiego pączka; kreatywne pączki 📅 *blisko: Dzień 12 (22 sie)*
@@ -1386,7 +1386,7 @@ Najlepszy dzień dla dzieci w Taipei — nauka, kosmos, karuzele, a potem nocny 
 - [~~★★★☆☆ 🎡🧒 Taipei Children's Amusement Park (臺北市立兒童新樂園)~~](https://www.google.com/maps/search/Taipei+Childrens+Amusement+Park) — Wieża swobodnego spadania, rollercoaster, statek piracki, samochodziki; wstęp NT$30; atrakcje NT$20-100; otwarte 9:00-17:00 (w sob. do 20:00); zamknięte w pon. ⏭️ **SKREŚLONE (25 sie)** — ta sama kategoria co NTSEC: park rozrywki dla dzieci mamy w Warszawie, a wyjazd idzie na to, czego w domu nie ma. Spójność z cięciem NTSEC z 23 sie. 📅 *blisko: Dzień 15 (25 sie)*
 
 #### Nocny targ
-- [★★★★☆ 🏮 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei) — Największy na Tajwanie (od 1909 r.); ponad 500 stoisk; wielkie kiełbaski, kotlety z kurczaka, smażone bułeczki 📅 **Dzień 15 (25 sie)**
+- [★★★★☆ 🏮 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei) — Największy na Tajwanie (od 1909 r.); ponad 500 stoisk; wielkie kiełbaski, kotlety z kurczaka, smażone bułeczki ⏭️ **Pominięte: Dzień 15 (25 sie)** — po sklepach w Xinyi wieczór się skończył; nie wracaliśmy na północ. ⚠️ Tagi rozjechane z plikiem dnia (tu 🏮, w aug-25 🏮🍜) — do uzgodnienia razem z Jiufen, A-Mei, Shifen Old Street i Snow King. 📅 **Dzień 15 (25 sie)**
 
 ---
 

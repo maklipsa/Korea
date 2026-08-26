@@ -27,9 +27,9 @@
 |  | ✅ **Widziane — 4/6.** **[★★★☆☆ 🎁🧒🦐 Pokémon Center Taipei](https://www.google.com/maps/search/Pokemon+Center+Taipei)** (🦐 **Olaf**) — największy na Tajwanie, gadżety tylko tutaj. |  |
 |  | ✅ **Widziane — 4/6.** **[★★★☆☆ 🎁🧒🐞🦐🦑 Donguri Republic](https://www.google.com/maps/search/Donguri+Republic+Shin+Kong+Taipei)** (🐞 Jadzia, 🦐 Olaf, 🦑 Szymon — **jedyne miejsce w katalogu ze wszystkimi trzema znacznikami**) — sklep Studio Ghibli, wielki Kotobus z Totoro. |  |
 | 17:15 | 🚕 **Uber Xinyi → Dazhi** (~15 min). ⬆️ **Wraca do planu (25 sie).** Powód cięcia — „osobny skok metrem na wschód” — przestał obowiązywać po 24 sie, gdzie Uber skleił dwa znacznie gorsze odcinki. |  |
-| ~17:45 | ⬆️ **[★★★☆☆ 🎡🗼🦐 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei)** (🦐 **Olaf**) — diabelski młyn 95 m na dachu galerii. **Wjazd na zachód słońca (~18:20)** — to jest ta godzina, po którą się tu jedzie. W środku klimatyzowana galeria i food court. | ~NT$150/os. |
+| ~17:45 | ⏭️ **Pominięte — Olaf (🦐) wybrał zamiast tego taras Taipei 101** (26 sie, 5/6). **[★★★☆☆ 🎡🗼🦐 Miramar Entertainment Park](https://www.google.com/maps/search/Miramar+Entertainment+Park+Taipei)** (🦐 **Olaf**) — diabelski młyn 95 m na dachu galerii. **Wjazd na zachód słońca (~18:20)** — to jest ta godzina, po którą się tu jedzie. W środku klimatyzowana galeria i food court. | ~NT$150/os. |
 | ~19:15 | Powrót do **Shilin** (Uber ~15 min albo MRT). |  |
-| 19:30 | **[★★★★☆ 🏮🍜 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei)** — Największy na Tajwanie (od 1909). Ponad 500 stoisk. Wielkie kiełbaski, kotlety z kurczaka, chrupiący kurczak solony z bazylią. Gigantyczne porcje. | ~NT$200–400/osoba |
+| 19:30 | ⏭️ **Pominięte — wieczór skończył się na sklepach w Xinyi.** **[★★★★☆ 🏮🍜 Shilin Night Market](https://www.google.com/maps/search/Shilin+Night+Market+Taipei)** — Największy na Tajwanie (od 1909). Ponad 500 stoisk. Wielkie kiełbaski, kotlety z kurczaka, chrupiący kurczak solony z bazylią. Gigantyczne porcje. | ~NT$200–400/osoba |
 
 ---
 
