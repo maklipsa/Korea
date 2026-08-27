@@ -36,7 +36,7 @@
 |  | ⚠️ **W tym wariancie Anping przechodzi na poranek [28 sie](aug-28-south-day2.md)** — forty zamykają ~17:10–17:30, więc po tak długim przejeździe dziś się nie zmieszczą. To zaleta, nie wada: Anping dostaje poranek zamiast resztek dnia. |  |
 | | **▸▸ *(wariant zapasowy)* WARIANT A · Taichung** — HSR ~50 min, NT$700 · nocleg: **Taichung** | |
 | 10:00 | Przyjazd **HSR Taichung**. Bagaż do **skrytek na stacji** albo od razu do hotelu. |  |
-| 10:30 | Taksówka ~20 min (**2 samochody na 6 osób** — autobusy w Taichung zjadają harmonogram) → **[★★★★★ 🏛️🧒🐞 National Museum of Natural Science](https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung)** — flagowe muzeum przyrodnicze Tajwanu, bardzo przyjazne dzieciom. |  |
+| 10:30 | Taksówka ~20 min (**2 samochody na 6 osób** — autobusy w Taichung zjadają harmonogram) → **[★★★★★ 🏛️🧒 National Museum of Natural Science](https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung)** — flagowe muzeum przyrodnicze Tajwanu, bardzo przyjazne dzieciom. |  |
 | 12:30 | Taksówka ~10 min → **[★★★★☆ 🎭📸 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater)** — Toyo Ito, laureat Pritzkera; falujący beton, foyer i ogród na dachu bezpłatnie. ⚠️ Zamknięte w pon. — czw. OK. | Bezpłatnie |
 | 13:30 | Taksówka ~15 min do centrum. Lunch: **[★★★☆☆ 🛍️🍜 Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market)** — stuletnie stragany, ryż z duszoną wieprzowiną. |  |
 | 14:30 | **[★★★★☆ ☕📸 Miyahara Ice Cream](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung)** — dawna klinika okulistyczna z lat 40., wnętrze jak z „Harry'ego Pottera". 5 min pieszo od targu. |  |
