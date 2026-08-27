@@ -1374,8 +1374,8 @@ Nowoczesne Taipei, ikoniczna wieża, najlepsza ulica jedzenia w Azji, nocne targ
 #### Zakupy
 - [★★☆☆☆ 🛍️ Fujin Street](https://www.google.com/maps/search/Fujin+Street+Taipei) — Kamienice z lat 60. dziś z niezależnymi butikami i kawiarniami z własną paloną kawą 📅 **Dzień 15 (25 sie)** · *blisko: Dzień 16 (26 sie)*
 - [★★☆☆☆ 🛍️ Wufenpu](https://www.google.com/maps/search/Wufenpu+Taipei) — Dzielnica odzieżowa; ciuchy dla nastolatków w cenach hurtowych 📅 **Dzień 15 (25 sie)** · *blisko: Dzień 16 (26 sie)*
-- [★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) — Najpopularniejsza w Taipei cukiernia z ciastkami ananasowymi (Nanjing E Rd, Songshan); codziennie ~08:30–20:30, spodziewaj się kolejek — idź wcześnie. Obowiązkowy przystanek na pamiątki. 📅 **Dzień 17 (27 sie)**
-- [★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei) — Nadzienie w 100% z ananasa; bezpłatna degustacja z filiżanką oolongu (flagowy sklep Minsheng, Songshan); codziennie ~10:00–20:00 📅 **Dzień 17 (27 sie)**
+- [★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) — Najpopularniejsza w Taipei cukiernia z ciastkami ananasowymi (Nanjing E Rd, Songshan); codziennie ~08:30–20:30, spodziewaj się kolejek — idź wcześnie. Obowiązkowy przystanek na pamiątki. 📅 **Dzień 19 (29 sie)**
+- [★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei) — Nadzienie w 100% z ananasa; bezpłatna degustacja z filiżanką oolongu (flagowy sklep Minsheng, Songshan); codziennie ~10:00–20:00
 
 ---
 
@@ -1789,7 +1789,7 @@ Skupisko świątyń w centrum starego miasta plus dwie galerie z przeglądu Lone
 - [★★☆☆☆ 🏯 Fahua Temple (法華寺)](https://www.google.com/maps/search/Fahua+Temple+Tainan) — Jedna z dwóch najstarszych świątyń buddyjskich w Tainan, powściągliwa, z malowidłami Pan Lishui na murach skrzydłowych; typ dla kompletystów, trochę na południe od głównej pętli. Codziennie ~06:00–21:00; wstęp wolny.
 
 #### Sztuka
-- [★★★★☆ 📷🏛️ 182 Art Space (182artspace)](https://www.google.com/maps/search/182+Art+Space+Tainan) — Prawdziwa niezależna galeria sztuki współczesnej na 3,5 kondygnacji odrestaurowanego ~50-letniego budynku, dobrze kuratorowane wystawy zmienne (realna galeria, nie tło do zdjęć), blisko Tainan Art Museum. Wstęp wolny. ⚠️ Otwiera **codziennie 14:00** (–00:00; potwierdź pon.) → tylko po południu, słabo pasuje do wyłącznie porannego okienka w Tainan 26 sie; w katalogu dla porządku / jeśli czas w Tainan się wydłuży.
+- [★★★★☆ 📷🏛️ 182 Art Space (182artspace)](https://www.google.com/maps/search/182+Art+Space+Tainan) — Prawdziwa niezależna galeria sztuki współczesnej na 3,5 kondygnacji odrestaurowanego ~50-letniego budynku, dobrze kuratorowane wystawy zmienne (realna galeria, nie tło do zdjęć), blisko Tainan Art Museum. Wstęp wolny. ⚠️ Otwiera **codziennie 14:00** (–00:00; potwierdź pon.) → tylko po południu, słabo pasuje do wyłącznie porannego okienka w Tainan 26 sie; w katalogu dla porządku / jeśli czas w Tainan się wydłuży. 📅 **Dzień 18 (28 sie)**
 - [★★★☆☆ 🏛️🌳🧒 Thousand Fields Seed Museum (千畦種子館)](https://www.google.com/maps/search/Thousand+Fields+Seed+Museum+Tainan) — Prywatny dom z ogrodem wypełniony ~500 gatunkami nasion w słojach i na belkach; każda wizyta to zwiedzanie z przewodnikiem z rodziny założyciela — przyrodnicza ciekawostka z potencjałem dla dzieci, 15 min od dworca Tainan. ⚠️ **Tylko po umówieniu** (dzwoń kilka dni wcześniej; zwiedzanie po angielsku ~10 dni wcześniej, ~NT$6,000 za grupę 5 osób); inaczej NT$100 za osobę. Tylko dla porządku, chyba że zarezerwowane z góry.
 
 ## TAIWAN — KAOHSIUNG
