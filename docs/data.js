@@ -3021,7 +3021,7 @@ const DAYS = [
       },
       {
         "time": "18:30",
-        "activity": "<strong>Garden Night Market</strong> — ⚠️ <strong>rotacja „大大武花\": czw. = Garden.</strong> Dadong (pon./wt./pt.) i Wusheng (śr./sob.) <strong>dziś nie działają</strong>.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Garden+Night+Market+Tainan\" target=\"_blank\">★★★★☆ 🏮 Garden Night Market (Hua Yuan)</a></strong> — ⚠️ <strong>rotacja „大大武花\": czw. = Garden.</strong> Dadong (pon./wt./pt.) i Wusheng (śr./sob.) <strong>dziś nie działają</strong>.",
         "price": "~NT$200–400/os."
       },
       {
