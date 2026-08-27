@@ -15,6 +15,16 @@
 - **~15:45 najpóźniej wysiadka na Taoyuan HSR** → A18 → terminal A12/A13 to ~15–20 min
 - **Stąd liczcie pociąg wstecz** — każdy wariant niżej ma już policzoną godzinę odjazdu
 
+🎁 **CIASTKA ANANASOWE — odbiór NA LOTNISKU, bez wjazdu do Tajpej.** Przeniesione tu z 27 sie, żeby mieć większy bufor przed odlotem. **Nie jedźcie po nie do miasta** — [Chia Te](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei) prowadzi **odbiór z przedzamówienia na Taoyuan**:
+
+- **Terminal 1 — parter (1F), stanowisko 宅配通**
+- **Terminal 2 — 3. piętro (3F), stanowisko 宅配通**
+- **Codziennie 07:00–23:00**, **bez kolejki** (odbiór zamówienia, nie sprzedaż z lady)
+
+⚠️ **Trzeba zamówić z wyprzedzeniem przez ich stronę** — to odbiór, nie sklep. Zróbcie to **dziś wieczorem z hotelu**, wybierając terminal zgodny z waszym odlotem. To zamienia „godzinny objazd przez Nanjing E Rd” w **pięć minut po drodze do bramki** — czyli dokładnie ten większy bufor, o który chodziło.
+
+*(SunnyHills — obecności na lotnisku **nie udało się potwierdzić**. Jeśli zależy wam na obu, to jedyny powód, żeby rozważyć wjazd do miasta; Taoyuan HSR → Taipei Main to ~20 min w jedną stronę.)*
+
 ## Route Map
 
 Zależna od wariantu. Wspólny koniec: **Taoyuan HSR → Airport MRT → TPE**.

@@ -2980,18 +2980,13 @@ const DAYS = [
         "price": ""
       },
       {
-        "time": "8:15",
-        "activity": "🎁 <strong><a href=\"https://www.google.com/maps/search/Chia+Te+Bakery+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ Chia Te Bakery</a></strong> — ⬆️ <strong>przeniesione z dawnego 29 sie, bo 29 sie już nie ma poranka w Tajpej.</strong> Najpopularniejsza cukiernia z ciastkami ananasowymi (Nanjing E Rd, Songshan), codziennie ~8:30–20:30. <strong>Idźcie wcześnie — kolejki są realne.</strong> Dziś jest ostatnia sensowna okazja na pamiątki.",
-        "price": "~NT$400–600/pudełko"
-      },
-      {
         "time": "",
-        "activity": "Obok: <strong><a href=\"https://www.google.com/maps/search/SunnyHills+Taipei\" target=\"_blank\">★★★☆☆ ☕🛍️ SunnyHills</a></strong> — nadzienie w 100% z ananasa (nie z dyni), inny styl ciastka; dają całe ciastko + herbatę do próbowania.",
+        "activity": "⏭️ <strong>Chia Te Bakery i SunnyHills — PRZENIESIONE NA 29 SIE (decyzja 27 sie).</strong> Wyjeżdżamy do Tainanu wcześniej, a ciastka ananasowe i tak lepiej kupić na końcu: świeższe i nie wozi się ich przez pół wyspa. 🎁 <strong>Nie trzeba w tym celu wjeżdżać do Tajpej</strong> — Chia Te robi <strong>odbiór z przedzamówienia na lotnisku Taoyuan</strong>, patrz <a href=\"aug-29-return-fly-home.md\" target=\"_blank\">29 sie</a>.",
         "price": ""
       },
       {
-        "time": "9:00",
-        "activity": "Taipei Main (albo Nangang, jeśli wygodniej z hotelu) → peron HSR/TRA. ⚠️ <strong>Sprawdźcie, czy wasz pociąg to szybki skład z ograniczoną liczbą przystanków</strong> — różnica na trasie do Taichung to 50 min vs ~1 h 15.",
+        "time": "<strong>wcześniej</strong>",
+        "activity": "Taipei Main (albo Nangang, jeśli wygodniej z hotelu) → peron HSR/TRA. ⬆️ <strong>Bez porannego bloku z ciastkami wyjeżdżacie wcześniej niż 9:00</strong> — cały dzień w Tainanie przesuwa się do przodu, a to znaczy <strong>więcej zapasu przed zamknięciem Tainan Art Museum (ostatni bilet 17:30)</strong>. ⚠️ <strong>Sprawdźcie, czy wasz pociąg to szybki skład z ograniczoną liczbą przystanków</strong> — różnica na trasie do Taichung to 50 min vs ~1 h 15.",
         "price": ""
       },
       {
@@ -3187,25 +3182,90 @@ const DAYS = [
     "id": "day-18",
     "day": 18,
     "date": "28 sie (pt)",
-    "title": "Drugi dzień na południu (3 Warianty)",
+    "title": "Tainan (Anping) → Kaohsiung",
     "country": "taiwan",
     "summary": "⚠️ <strong>3 WARIANTY</strong> — drugi dzień na południu: Tainan / Kaohsiung / Nantou (⏭️ Taroko odrzucone)",
-    "notes": "⚠️ <strong>DZIEŃ NIEROZSTRZYGNIĘTY</strong> — ciąg dalszy wariantu wybranego <a href=\"aug-27-departure-south.md\" target=\"_blank\">27 sie</a>. Wszystkie cztery warianty są w jednej tabeli niżej. Porównanie: <strong><a href=\"../replan-taiwan.md\" target=\"_blank\">replan-taiwan.md</a></strong>. <strong>Piątek pracuje na waszą korzyść:</strong> <strong>Ruifeng Night Market</strong> (Kaohsiung) jest zamknięty w pon. i śr. → dziś działa ✓. <strong>Six Thousand Beef Soup</strong> (Tainan) działa czw.–niedz. → ✓. W Tainanie rotacja targów daje dziś <strong>Dadong</strong> (pon./wt./pt.).",
+    "notes": "⭐⭐ <strong>PLAN GŁÓWNY: WARIANT B — Tainan (rano, Anping) → Kaohsiung (po południu).</strong> 27 sie poszliście wariantem B, więc <strong>A i C są dziś niemożliwe</strong> — obie wymagają bazy w Taichung. Jedyna realna alternatywa to <strong>zostać w Tainanie (wariant B-T niżej)</strong>. 🔴 <strong>Decyzja do podjęcia RANO, nie z góry: czy Kaohsiung jest dostępny.</strong> Miasto odwoływało pracę i szkoły <strong>23, 24, 25 i 26 sie</strong> po powodzi (~154 podtopienia), a <strong>dzielnica 美術館/內惟, w której stoi KMFA, zalała się 25 sie</strong> (podobno zeszło w pół godziny). Dwa telefony rozstrzygają dzień: - <strong>Pier-2</strong> ☎ <strong>(07) 521-4899</strong> — pt. <strong>10:00–20:00</strong> ✓ zweryfikowane na stronie; <strong>program NIEzweryfikowany</strong> (strona renderowana JS-em) — spytajcie, co aktualnie wisi. Po lekcji z Taiwan Design Museum (1/6) to jest to pytanie. - <strong>KMFA</strong> — strona nie oddała ani godzin, ani komunikatów. <strong>Zadzwońcie, zanim zbudujecie wokół tego poranek 29 sie.</strong> 🧳 <strong>Zmiana bazy z bagażem:</strong> wymeldowanie w Tainanie rano, bagaż do hotelu w Kaohsiungu <strong>przed</strong> zwiedzaniem. 🌀 <strong>Pogoda:</strong> deszcz idzie dziś na <strong>północ i góry środkowe</strong>, nie na południowy zachód — jesteście po dobrej stronie. ⚠️ Ale grunt jest nasiąknięty, a <strong>prom na Cijin może nie pływać</strong> przy wzburzonym morzu. Plan wewnętrzny: Pier-2 (sale biletowane), KMFA, Dome of Light.",
     "badges": [
       {
         "type": "pass",
-        "text": "HSR — zależy od wariantu"
+        "text": "HSR Zuoying ~NT$140 — krótki odcinek, oba dni passa idą na 27 i 29 sie"
       },
       {
         "type": "closed",
-        "text": "piątek — Ruifeng i Dadong działają"
+        "text": "piątek — Ruifeng i Dadong działają, Tainan Art Museum otwarte"
       }
     ],
     "maps": [],
     "schedule": [
       {
         "time": "",
-        "activity": "<strong>▸▸ WARIANT A · Taichung → Tainan</strong> — HSR/TRA ~40–50 min, NT$650 · nocleg: <strong>Tainan</strong>",
+        "activity": "<strong>▸▸ WARIANT B · Tainan → Kaohsiung</strong> — HSR ~30 min (~NT$140) lub TRA ~40 min · nocleg: <strong>Kaohsiung</strong> · ⭐⭐ <strong>PLAN GŁÓWNY — 27 sie poszliście wariantem B, więc dziś to jedyna kontynuacja</strong>",
+        "price": ""
+      },
+      {
+        "time": "7:30",
+        "activity": "🍜 <strong><a href=\"https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan\" target=\"_blank\">★★★☆☆ 🍜 Six Thousand Beef Soup</a></strong> — ⚠️ <strong>tylko czw.–niedz. i tylko rano</strong>, kończy gdy skończy się mięso (bywa przed 9:00). Dziś piątek ✓. Świeża wołowina zalewana wrzącym rosołem przy stoliku — <strong>tego nie zjecie nigdzie indziej. Wstańcie na to.</strong>",
+        "price": "~NT$150/os."
+      },
+      {
+        "time": "9:00",
+        "activity": "<strong>Anping rano, bez presji zamknięcia:</strong> <strong><a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia (Anping Old Fort)</a></strong>, <strong><a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">★★★★☆ 📸🌳 Anping Treehouse</a></strong>, <strong><a href=\"https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan\" target=\"_blank\">★★★★☆ 🏯📸 Eternal Golden Castle</a></strong> (gwiaździsty fort Qing z 1874, armaty, fosa, most zwodzony). ✅ <strong>To jest przewaga tego wariantu — Anping dostaje poranek i wchodzi trzeci fort.</strong>",
+        "price": "NT$70 / połowa"
+      },
+      {
+        "time": "12:00",
+        "activity": "Wymeldowanie, <strong>HSR/TRA → Kaohsiung</strong>. Bagaż do hotelu.",
+        "price": "~NT$140"
+      },
+      {
+        "time": "13:30",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung\" target=\"_blank\">★★★★☆ 🎨🚶🐞🦑 Pier-2 Art Center</a></strong> — portowe magazyny zamienione w największy kompleks sztuki współczesnej na południu: galerie, instalacje plenerowe, murale, tor kolejki. Wysoko na naszej liście (sztuka współczesna = górna półka).",
+        "price": ""
+      },
+      {
+        "time": "15:30",
+        "activity": "Prom na <strong><a href=\"https://www.google.com/maps/search/Cijin+Island+Kaohsiung\" target=\"_blank\">★★★☆☆ 🌳🚶 Cijin Island</a></strong> — 5 min promem; Cijin Old Street (owoce morza), Black Sand Beach, latarnia, <strong><a href=\"https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung\" target=\"_blank\">★★★☆☆ 🏯 Cijin Tianhou Temple</a></strong> (najstarsza świątynia Mazu na wyspie, 1673). Sam prom jest atrakcją.",
+        "price": "Prom ~NT$40"
+      },
+      {
+        "time": "17:30",
+        "activity": "Powrót; <strong><a href=\"https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung\" target=\"_blank\">★★★★☆ 📸 Formosa Boulevard MRT / Dome of Light</a></strong> — największa szklana instalacja witrażowa na świecie, w stacji metra. 5 minut, zero kosztu, mocne zdjęcie.",
+        "price": "Bezpłatnie"
+      },
+      {
+        "time": "19:00",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung\" target=\"_blank\">★★★★☆ 🏮 Ruifeng Night Market</a></strong> — ⚠️ <strong>zamknięty pon. i śr.; dziś piątek ✓.</strong> Największy i najbardziej lokalny w Kaohsiungu, 500+ stoisk.",
+        "price": "~NT$200–400/os."
+      },
+      {
+        "time": "",
+        "activity": "<strong>▸▸ WARIANT B-T · zostajemy w Tainanie</strong> — realny plan awaryjny, jeśli Kaohsiung dziś odpadnie",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>To jest jedyna prawdziwa alternatywa na dziś</strong> — warianty A i C wymagają bazy w Taichung, a wy jesteście w Tainanie. Jeśli <strong>Kaohsiung nadal odwołuje pracę i szkoły</strong> (robił to 23, 24, 25 i 26 sie po powodzi), zostajecie na drugą noc w Tainanie i nic nie tracicie poza Kaohsiungiem.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>Czym wypełnić dzień w Tainanie:</strong> cały poranek Anping jak wyżej (<strong><a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia</a></strong>, <strong><a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">★★★★☆ 📸🌳 Anping Treehouse</a></strong>, <strong><a href=\"https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan\" target=\"_blank\">★★★★☆ 🏯📸 Eternal Golden Castle</a></strong>), po południu <strong><a href=\"https://www.google.com/maps/search/182+Art+Space+Tainan\" target=\"_blank\">★★★★☆ 📷🏛️ 182 Art Space</a></strong> (otwiera <strong>14:00</strong>, blisko Tainan Art Museum), <strong>Hayashi Department Store</strong>, <strong>Altar of Heaven</strong>, <strong>Great South Gate</strong>. Wieczorem targ <strong>najbliżej hotelu</strong>, nie ten z przewodnika.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "✅ <strong>Powrót 29 sie jest już rozpisany:</strong> <a href=\"aug-29-return-fly-home.md\" target=\"_blank\">aug-29</a> ma wariant <strong>„z Tainanu”</strong> — HSR Tainan → Taoyuan ~1 h 20, ~NT$1 270, na TPE ~16:05. ⚠️ Taksówka na Tainan HSR to <strong>30–40 min</strong>, stacja leży 17 km za miastem — nie tnijcie tego buforu.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "⬇️ <strong>Tracicie:</strong> Pier-2 (🐞🦑), KMFA (🐞🦑), Cijin, Dome of Light, Ruifeng. To realna strata — <strong>ale tylko wtedy, gdy Kaohsiung faktycznie jest niedostępny.</strong> Sprawdźcie rano.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "<strong>▸▸ <del>NIEMOŻLIWY — wymaga bazy w Taichung</del> WARIANT A · Taichung → Tainan</strong> — HSR/TRA ~40–50 min, NT$650 · nocleg: <strong>Tainan</strong>",
         "price": ""
       },
       {
@@ -3260,47 +3320,7 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>▸▸ WARIANT B · Tainan → Kaohsiung</strong> — HSR ~30 min (~NT$140) lub TRA ~40 min · nocleg: <strong>Kaohsiung</strong> · ⭐",
-        "price": ""
-      },
-      {
-        "time": "7:30",
-        "activity": "🍜 <strong><a href=\"https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan\" target=\"_blank\">★★★☆☆ 🍜 Six Thousand Beef Soup</a></strong> — ⚠️ <strong>tylko czw.–niedz. i tylko rano</strong>, kończy gdy skończy się mięso (bywa przed 9:00). Dziś piątek ✓. Świeża wołowina zalewana wrzącym rosołem przy stoliku — <strong>tego nie zjecie nigdzie indziej. Wstańcie na to.</strong>",
-        "price": "~NT$150/os."
-      },
-      {
-        "time": "9:00",
-        "activity": "<strong>Anping rano, bez presji zamknięcia:</strong> <strong><a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia (Anping Old Fort)</a></strong>, <strong><a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">★★★★☆ 📸🌳 Anping Treehouse</a></strong>, <strong><a href=\"https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan\" target=\"_blank\">★★★★☆ 🏯📸 Eternal Golden Castle</a></strong> (gwiaździsty fort Qing z 1874, armaty, fosa, most zwodzony). ✅ <strong>To jest przewaga tego wariantu — Anping dostaje poranek i wchodzi trzeci fort.</strong>",
-        "price": "NT$70 / połowa"
-      },
-      {
-        "time": "12:00",
-        "activity": "Wymeldowanie, <strong>HSR/TRA → Kaohsiung</strong>. Bagaż do hotelu.",
-        "price": "~NT$140"
-      },
-      {
-        "time": "13:30",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung\" target=\"_blank\">★★★★☆ 🎨🚶🐞🦑 Pier-2 Art Center</a></strong> — portowe magazyny zamienione w największy kompleks sztuki współczesnej na południu: galerie, instalacje plenerowe, murale, tor kolejki. Wysoko na naszej liście (sztuka współczesna = górna półka).",
-        "price": ""
-      },
-      {
-        "time": "15:30",
-        "activity": "Prom na <strong><a href=\"https://www.google.com/maps/search/Cijin+Island+Kaohsiung\" target=\"_blank\">★★★☆☆ 🌳🚶 Cijin Island</a></strong> — 5 min promem; Cijin Old Street (owoce morza), Black Sand Beach, latarnia, <strong><a href=\"https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung\" target=\"_blank\">★★★☆☆ 🏯 Cijin Tianhou Temple</a></strong> (najstarsza świątynia Mazu na wyspie, 1673). Sam prom jest atrakcją.",
-        "price": "Prom ~NT$40"
-      },
-      {
-        "time": "17:30",
-        "activity": "Powrót; <strong><a href=\"https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung\" target=\"_blank\">★★★★☆ 📸 Formosa Boulevard MRT / Dome of Light</a></strong> — największa szklana instalacja witrażowa na świecie, w stacji metra. 5 minut, zero kosztu, mocne zdjęcie.",
-        "price": "Bezpłatnie"
-      },
-      {
-        "time": "19:00",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung\" target=\"_blank\">★★★★☆ 🏮 Ruifeng Night Market</a></strong> — ⚠️ <strong>zamknięty pon. i śr.; dziś piątek ✓.</strong> Największy i najbardziej lokalny w Kaohsiungu, 500+ stoisk.",
-        "price": "~NT$200–400/os."
-      },
-      {
-        "time": "",
-        "activity": "<strong>▸▸ WARIANT C · Nantou: Chung Tai + Sun Moon Lake</strong> — autobusy · nocleg: <strong>Taichung / Puli</strong>",
+        "activity": "<strong>▸▸ <del>NIEMOŻLIWY — wymaga bazy w Taichung</del> WARIANT C · Nantou: Chung Tai + Sun Moon Lake</strong> — autobusy · nocleg: <strong>Taichung / Puli</strong>",
         "price": ""
       },
       {
@@ -3424,7 +3444,7 @@ const DAYS = [
     "title": "Powrót z południa → lot do domu (odlot 19:25)",
     "country": "taiwan",
     "summary": "Powrót z południa (wysiadka <strong>Taoyuan HSR</strong>, nie Tajpej) → lot do domu (odlot 19:25)",
-    "notes": "<strong>Lot do domu odlatuje z Taipei Taoyuan (TPE) o 19:25.</strong> To jest dziś jedyna twarda liczba w całym planie. 🔁 <strong>Ten dzień zmienił rolę.</strong> Wcześniej był „ostatnim dniem w Tajpej\" (MoCA, Huashan, Railway Museum) z wyjazdem na lotnisko o 15:15. Po skróceniu hotelu w Tajpej do nocy 21–26 sie <strong>nocujecie 28 sie na południu</strong>, więc dziś rano <strong>wracacie</strong>, a nie zwiedzacie Tajpej. Zawartość dawnego 29 sie przeniosła się na <a href=\"aug-21-busan-to-taipei.md\" target=\"_blank\">21 sie</a> (Railway Museum + Huashan <strong>albo</strong> MOCA + Miniatures — wybór pary) i na poranek <a href=\"aug-27-departure-south.md\" target=\"_blank\">27 sie</a> (Chia Te, SunnyHills). Kontekst: <a href=\"../replan-taiwan.md\" target=\"_blank\">replan-taiwan.md</a>. ⚠️ <strong>Wysiadacie w Taoyuan HSR, NIE w Tajpej.</strong> Bagaże macie przy sobie od wymeldowania na południu, więc nie ma po co wjeżdżać do miasta. Stacja Taoyuan HSR jest w tym samym kompleksie co <strong>Airport MRT A18</strong>, więc to ~15–20 min do terminala — zamiast Taipei Main + Airport MRT Express (~38 min) plus przesiadka. Oszczędność ~40 min. 🎫 <strong>Rezerwujcie miejsca w pociągu z wyprzedzeniem.</strong> Sobota + koniec sierpnia = szczyt. To jedyny odcinek całego wyjazdu, którego opóźnienie kosztuje lot. <strong>⏰ Rachunek czasu — liczony wstecz od 19:25:</strong> - <strong>19:25</strong> odlot (międzynarodowy) → <strong>~18:25</strong> zamknięcie odprawy i bagażu (u większości linii 60 min przed) - <strong>16:00–16:30 być na TPE</strong> — ~3 h przed to 16:25; ⚠️ <strong>16:30 to już tylko 2 h 55</strong> - <strong>~15:45 najpóźniej wysiadka na Taoyuan HSR</strong> → A18 → terminal A12/A13 to ~15–20 min - <strong>Stąd liczcie pociąg wstecz</strong> — każdy wariant niżej ma już policzoną godzinę odjazdu",
+    "notes": "<strong>Lot do domu odlatuje z Taipei Taoyuan (TPE) o 19:25.</strong> To jest dziś jedyna twarda liczba w całym planie. 🔁 <strong>Ten dzień zmienił rolę.</strong> Wcześniej był „ostatnim dniem w Tajpej\" (MoCA, Huashan, Railway Museum) z wyjazdem na lotnisko o 15:15. Po skróceniu hotelu w Tajpej do nocy 21–26 sie <strong>nocujecie 28 sie na południu</strong>, więc dziś rano <strong>wracacie</strong>, a nie zwiedzacie Tajpej. Zawartość dawnego 29 sie przeniosła się na <a href=\"aug-21-busan-to-taipei.md\" target=\"_blank\">21 sie</a> (Railway Museum + Huashan <strong>albo</strong> MOCA + Miniatures — wybór pary) i na poranek <a href=\"aug-27-departure-south.md\" target=\"_blank\">27 sie</a> (Chia Te, SunnyHills). Kontekst: <a href=\"../replan-taiwan.md\" target=\"_blank\">replan-taiwan.md</a>. ⚠️ <strong>Wysiadacie w Taoyuan HSR, NIE w Tajpej.</strong> Bagaże macie przy sobie od wymeldowania na południu, więc nie ma po co wjeżdżać do miasta. Stacja Taoyuan HSR jest w tym samym kompleksie co <strong>Airport MRT A18</strong>, więc to ~15–20 min do terminala — zamiast Taipei Main + Airport MRT Express (~38 min) plus przesiadka. Oszczędność ~40 min. 🎫 <strong>Rezerwujcie miejsca w pociągu z wyprzedzeniem.</strong> Sobota + koniec sierpnia = szczyt. To jedyny odcinek całego wyjazdu, którego opóźnienie kosztuje lot. <strong>⏰ Rachunek czasu — liczony wstecz od 19:25:</strong> - <strong>19:25</strong> odlot (międzynarodowy) → <strong>~18:25</strong> zamknięcie odprawy i bagażu (u większości linii 60 min przed) - <strong>16:00–16:30 być na TPE</strong> — ~3 h przed to 16:25; ⚠️ <strong>16:30 to już tylko 2 h 55</strong> - <strong>~15:45 najpóźniej wysiadka na Taoyuan HSR</strong> → A18 → terminal A12/A13 to ~15–20 min - <strong>Stąd liczcie pociąg wstecz</strong> — każdy wariant niżej ma już policzoną godzinę odjazdu 🎁 <strong>CIASTKA ANANASOWE — odbiór NA LOTNISKU, bez wjazdu do Tajpej.</strong> Przeniesione tu z 27 sie, żeby mieć większy bufor przed odlotem. <strong>Nie jedźcie po nie do miasta</strong> — <a href=\"https://www.google.com/maps/search/Chia+Te+Bakery+Taipei\" target=\"_blank\">Chia Te</a> prowadzi <strong>odbiór z przedzamówienia na Taoyuan</strong>: - <strong>Terminal 1 — parter (1F), stanowisko 宅配通</strong> - <strong>Terminal 2 — 3. piętro (3F), stanowisko 宅配通</strong> - <strong>Codziennie 07:00–23:00</strong>, <strong>bez kolejki</strong> (odbiór zamówienia, nie sprzedaż z lady) ⚠️ <strong>Trzeba zamówić z wyprzedzeniem przez ich stronę</strong> — to odbiór, nie sklep. Zróbcie to <strong>dziś wieczorem z hotelu</strong>, wybierając terminal zgodny z waszym odlotem. To zamienia „godzinny objazd przez Nanjing E Rd” w <strong>pięć minut po drodze do bramki</strong> — czyli dokładnie ten większy bufor, o który chodziło. *(SunnyHills — obecności na lotnisku <strong>nie udało się potwierdzić</strong>. Jeśli zależy wam na obu, to jedyny powód, żeby rozważyć wjazd do miasta; Taoyuan HSR → Taipei Main to ~20 min w jedną stronę.)*",
     "badges": [
       {
         "type": "pass",

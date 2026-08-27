@@ -13,7 +13,7 @@
 
 ## Route Map
 
-**Trasa wariantu B (plan główny):** hotel → **Chia Te Bakery** (Nanjing E Rd) → Taipei Main → HSR → **Tainan HSR** → taksówka do centrum → Guohua St → Chihkan Tower → Grand Matsu → Tainan Art Museum → Shennong St → Garden Night Market. Trasy wariantów zapasowych — po decyzji.
+**Trasa wariantu B (plan główny):** hotel → Taipei Main → HSR → **Tainan HSR** → taksówka do centrum → Guohua St → Chihkan Tower → Grand Matsu → Tainan Art Museum → Shennong St → Garden Night Market. Trasy wariantów zapasowych — po decyzji.
 |  | 🏮 **Po werdykcie Raohe (3/6, 26 sie): wybierzcie targ NAJBLIŻSZY noclegowi, nie najsłynniejszy.** Ningxia obok hotelu w Tajpej wyszło taniej i lepiej niż Raohe przez pół miasta. I **idźcie 18:00–19:00, nie po 20:00** — najlepsze budki się wyprzedają. |  |
 
 ## Schedule
@@ -22,9 +22,8 @@
 |------|----------|-------|
 | | **▸▸ WSPÓLNY PORANEK — każdy wariant** | |
 | 7:30 | Śniadanie, **wymeldowanie z hotelu w Tajpej**. Bagaże ze sobą — dziś nie wracacie. |  |
-| 8:15 | 🎁 **[★★★☆☆ ☕🛍️ Chia Te Bakery](https://www.google.com/maps/search/Chia+Te+Bakery+Taipei)** — ⬆️ **przeniesione z dawnego 29 sie, bo 29 sie już nie ma poranka w Tajpej.** Najpopularniejsza cukiernia z ciastkami ananasowymi (Nanjing E Rd, Songshan), codziennie ~8:30–20:30. **Idźcie wcześnie — kolejki są realne.** Dziś jest ostatnia sensowna okazja na pamiątki. | ~NT$400–600/pudełko |
-|  | Obok: **[★★★☆☆ ☕🛍️ SunnyHills](https://www.google.com/maps/search/SunnyHills+Taipei)** — nadzienie w 100% z ananasa (nie z dyni), inny styl ciastka; dają całe ciastko + herbatę do próbowania. |  |
-| 9:00 | Taipei Main (albo Nangang, jeśli wygodniej z hotelu) → peron HSR/TRA. ⚠️ **Sprawdźcie, czy wasz pociąg to szybki skład z ograniczoną liczbą przystanków** — różnica na trasie do Taichung to 50 min vs ~1 h 15. |  |
+|  | ⏭️ **Chia Te Bakery i SunnyHills — PRZENIESIONE NA 29 SIE (decyzja 27 sie).** Wyjeżdżamy do Tainanu wcześniej, a ciastka ananasowe i tak lepiej kupić na końcu: świeższe i nie wozi się ich przez pół wyspa. 🎁 **Nie trzeba w tym celu wjeżdżać do Tajpej** — Chia Te robi **odbiór z przedzamówienia na lotnisku Taoyuan**, patrz [29 sie](aug-29-return-fly-home.md). |  |
+| **wcześniej** | Taipei Main (albo Nangang, jeśli wygodniej z hotelu) → peron HSR/TRA. ⬆️ **Bez porannego bloku z ciastkami wyjeżdżacie wcześniej niż 9:00** — cały dzień w Tainanie przesuwa się do przodu, a to znaczy **więcej zapasu przed zamknięciem Tainan Art Museum (ostatni bilet 17:30)**. ⚠️ **Sprawdźcie, czy wasz pociąg to szybki skład z ograniczoną liczbą przystanków** — różnica na trasie do Taichung to 50 min vs ~1 h 15. |  |
 | | **▸▸ WARIANT B · Tainan → (28 sie) Kaohsiung** — HSR ~1 h 45, ~NT$1 350 · nocleg: **Tainan** · ⭐⭐ **PLAN GŁÓWNY — ten wariant rozpisujemy jako pierwszy** | |
 | 11:00 | Przyjazd **Tainan HSR** — ⚠️ **stacja leży ~17 km na wschód od miasta.** Taksówka do centrum ~30–40 min (autobusy znacznie wolniejsze). Bagaż do hotelu. |  |
 | 12:30 | Lunch: obchód **[★★★☆☆ 🍜 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan)**. Tainan jest kulinarną stolicą Tajwanu — tu jedzenie **jest** atrakcją, nie dodatkiem. |  |

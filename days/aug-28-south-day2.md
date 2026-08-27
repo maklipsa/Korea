@@ -1,22 +1,38 @@
-# Aug 28 (Fri) — Drugi dzień na południu (3 WARIANTY)
-> Badges: pass:HSR — zależy od wariantu; closed:piątek — Ruifeng i Dadong działają
+# Aug 28 (Fri) — Tainan (Anping) → Kaohsiung
+> Badges: pass:HSR Zuoying ~NT$140 — krótki odcinek, oba dni passa idą na 27 i 29 sie; closed:piątek — Ruifeng i Dadong działają, Tainan Art Museum otwarte
 
-⚠️ **DZIEŃ NIEROZSTRZYGNIĘTY** — ciąg dalszy wariantu wybranego [27 sie](aug-27-departure-south.md). Wszystkie cztery warianty są w jednej tabeli niżej. Porównanie: **[replan-taiwan.md](../replan-taiwan.md)**.
+⭐⭐ **PLAN GŁÓWNY: WARIANT B — Tainan (rano, Anping) → Kaohsiung (po południu).** 27 sie poszliście wariantem B, więc **A i C są dziś niemożliwe** — obie wymagają bazy w Taichung. Jedyna realna alternatywa to **zostać w Tainanie (wariant B-T niżej)**.
 
-**Piątek pracuje na waszą korzyść:** **Ruifeng Night Market** (Kaohsiung) jest zamknięty w pon. i śr. → dziś działa ✓. **Six Thousand Beef Soup** (Tainan) działa czw.–niedz. → ✓. W Tainanie rotacja targów daje dziś **Dadong** (pon./wt./pt.).
-|  | 🏮 **Po werdykcie Raohe (3/6, 26 sie): wybierzcie targ NAJBLIŻSZY noclegowi, nie najsłynniejszy.** Ningxia obok hotelu w Tajpej wyszło taniej i lepiej niż Raohe przez pół miasta. I **idźcie 18:00–19:00, nie po 20:00** — najlepsze budki się wyprzedają. |  |
+🔴 **Decyzja do podjęcia RANO, nie z góry: czy Kaohsiung jest dostępny.** Miasto odwoływało pracę i szkoły **23, 24, 25 i 26 sie** po powodzi (~154 podtopienia), a **dzielnica 美術館/內惟, w której stoi KMFA, zalała się 25 sie** (podobno zeszło w pół godziny). Dwa telefony rozstrzygają dzień:
+- **Pier-2** ☎ **(07) 521-4899** — pt. **10:00–20:00** ✓ zweryfikowane na stronie; **program NIEzweryfikowany** (strona renderowana JS-em) — spytajcie, co aktualnie wisi. Po lekcji z Taiwan Design Museum (1/6) to jest to pytanie.
+- **KMFA** — strona nie oddała ani godzin, ani komunikatów. **Zadzwońcie, zanim zbudujecie wokół tego poranek 29 sie.**
 
-🧳 **W wariantach A i B dziś zmieniacie bazę z bagażem** — wymeldowanie rano, bagaż do hotelu w nowym mieście przed zwiedzaniem. W wariancie C nocujecie drugą noc w tym samym miejscu, co jest jego największą praktyczną zaletą.
+🧳 **Zmiana bazy z bagażem:** wymeldowanie w Tainanie rano, bagaż do hotelu w Kaohsiungu **przed** zwiedzaniem.
+
+🌀 **Pogoda:** deszcz idzie dziś na **północ i góry środkowe**, nie na południowy zachód — jesteście po dobrej stronie. ⚠️ Ale grunt jest nasiąknięty, a **prom na Cijin może nie pływać** przy wzburzonym morzu. Plan wewnętrzny: Pier-2 (sale biletowane), KMFA, Dome of Light.
 
 ## Route Map
 
-Zależna od wariantu — do uzupełnienia po decyzji.
+**Trasa wariantu B:** hotel w Tainanie → Anping (Fort Zeelandia → Treehouse → Eternal Golden Castle) → HSR/TRA → Kaohsiung → Pier-2 → prom na Cijin → Dome of Light → targ przy hotelu.
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| | **▸▸ WARIANT A · Taichung → Tainan** — HSR/TRA ~40–50 min, NT$650 · nocleg: **Tainan** | |
+| | **▸▸ WARIANT B · Tainan → Kaohsiung** — HSR ~30 min (~NT$140) lub TRA ~40 min · nocleg: **Kaohsiung** · ⭐⭐ **PLAN GŁÓWNY — 27 sie poszliście wariantem B, więc dziś to jedyna kontynuacja** | |
+| 7:30 | 🍜 **[★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan)** — ⚠️ **tylko czw.–niedz. i tylko rano**, kończy gdy skończy się mięso (bywa przed 9:00). Dziś piątek ✓. Świeża wołowina zalewana wrzącym rosołem przy stoliku — **tego nie zjecie nigdzie indziej. Wstańcie na to.** | ~NT$150/os. |
+| 9:00 | **Anping rano, bez presji zamknięcia:** **[★★★☆☆ 🏯 Fort Zeelandia (Anping Old Fort)](https://www.google.com/maps/search/Fort+Zeelandia+Tainan)**, **[★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan)**, **[★★★★☆ 🏯📸 Eternal Golden Castle](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan)** (gwiaździsty fort Qing z 1874, armaty, fosa, most zwodzony). ✅ **To jest przewaga tego wariantu — Anping dostaje poranek i wchodzi trzeci fort.** | NT$70 / połowa |
+| 12:00 | Wymeldowanie, **HSR/TRA → Kaohsiung**. Bagaż do hotelu. | ~NT$140 |
+| 13:30 | **[★★★★☆ 🎨🚶🐞🦑 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** — portowe magazyny zamienione w największy kompleks sztuki współczesnej na południu: galerie, instalacje plenerowe, murale, tor kolejki. Wysoko na naszej liście (sztuka współczesna = górna półka). |  |
+| 15:30 | Prom na **[★★★☆☆ 🌳🚶 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** — 5 min promem; Cijin Old Street (owoce morza), Black Sand Beach, latarnia, **[★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung)** (najstarsza świątynia Mazu na wyspie, 1673). Sam prom jest atrakcją. | Prom ~NT$40 |
+| 17:30 | Powrót; **[★★★★☆ 📸 Formosa Boulevard MRT / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung)** — największa szklana instalacja witrażowa na świecie, w stacji metra. 5 minut, zero kosztu, mocne zdjęcie. | Bezpłatnie |
+| 19:00 | **[★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung)** — ⚠️ **zamknięty pon. i śr.; dziś piątek ✓.** Największy i najbardziej lokalny w Kaohsiungu, 500+ stoisk. | ~NT$200–400/os. |
+| | **▸▸ WARIANT B-T · zostajemy w Tainanie** — realny plan awaryjny, jeśli Kaohsiung dziś odpadnie | |
+|  | **To jest jedyna prawdziwa alternatywa na dziś** — warianty A i C wymagają bazy w Taichung, a wy jesteście w Tainanie. Jeśli **Kaohsiung nadal odwołuje pracę i szkoły** (robił to 23, 24, 25 i 26 sie po powodzi), zostajecie na drugą noc w Tainanie i nic nie tracicie poza Kaohsiungiem. |  |
+|  | **Czym wypełnić dzień w Tainanie:** cały poranek Anping jak wyżej (**[★★★☆☆ 🏯 Fort Zeelandia](https://www.google.com/maps/search/Fort+Zeelandia+Tainan)**, **[★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan)**, **[★★★★☆ 🏯📸 Eternal Golden Castle](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan)**), po południu **[★★★★☆ 📷🏛️ 182 Art Space](https://www.google.com/maps/search/182+Art+Space+Tainan)** (otwiera **14:00**, blisko Tainan Art Museum), **Hayashi Department Store**, **Altar of Heaven**, **Great South Gate**. Wieczorem targ **najbliżej hotelu**, nie ten z przewodnika. |  |
+|  | ✅ **Powrót 29 sie jest już rozpisany:** [aug-29](aug-29-return-fly-home.md) ma wariant **„z Tainanu”** — HSR Tainan → Taoyuan ~1 h 20, ~NT$1 270, na TPE ~16:05. ⚠️ Taksówka na Tainan HSR to **30–40 min**, stacja leży 17 km za miastem — nie tnijcie tego buforu. |  |
+|  | ⬇️ **Tracicie:** Pier-2 (🐞🦑), KMFA (🐞🦑), Cijin, Dome of Light, Ruifeng. To realna strata — **ale tylko wtedy, gdy Kaohsiung faktycznie jest niedostępny.** Sprawdźcie rano. |  |
+| | **▸▸ ~~NIEMOŻLIWY — wymaga bazy w Taichung~~ WARIANT A · Taichung → Tainan** — HSR/TRA ~40–50 min, NT$650 · nocleg: **Tainan** | |
 | 8:00 | Śniadanie, wymeldowanie w Taichung. |  |
 | 8:45 | Dokończenie Taichung, jeśli 27 sie coś nie weszło — **[★★★☆☆ 📸🎨 Rainbow Village](https://www.google.com/maps/search/Rainbow+Village+Taichung)** albo **[★★☆☆☆ 🎨🛍️ Blueprint Cultural & Creative Park](https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan)**. |  |
 | 10:30 | **HSR Taichung → Tainan.** Bagaż do hotelu w Tainanie. | NT$650 |
@@ -27,15 +43,7 @@ Zależna od wariantu — do uzupełnienia po decyzji.
 | 17:30 | **[★★★☆☆ 🚶🍜 Anping Old Street](https://www.google.com/maps/search/Anping+Old+Street+Tainan)** — krakersy krewetkowe; **[★★☆☆☆ 🍜 Zhou's Shrimp Rolls](https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan)** i **[★★☆☆☆ ☕ Tongji Tofu Pudding](https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan)** na deser. |  |
 | 19:00 | **[★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan)** — ⚠️ **rotacja: pt. = Dadong** ✓ (Wusheng śr./sob., Garden czw./niedz. — dziś nie działają). | ~NT$200–400/os. |
 |  | ⚠️ **[★★★★☆ 🏯📸 Eternal Golden Castle (Erkunshen Fort)](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan) wypada** w tym wariancie — dzień z przeprowadzką bazy nie zmieści trzeciego fortu. |  |
-| | **▸▸ WARIANT B · Tainan → Kaohsiung** — HSR ~30 min (~NT$140) lub TRA ~40 min · nocleg: **Kaohsiung** · ⭐ | |
-| 7:30 | 🍜 **[★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan)** — ⚠️ **tylko czw.–niedz. i tylko rano**, kończy gdy skończy się mięso (bywa przed 9:00). Dziś piątek ✓. Świeża wołowina zalewana wrzącym rosołem przy stoliku — **tego nie zjecie nigdzie indziej. Wstańcie na to.** | ~NT$150/os. |
-| 9:00 | **Anping rano, bez presji zamknięcia:** **[★★★☆☆ 🏯 Fort Zeelandia (Anping Old Fort)](https://www.google.com/maps/search/Fort+Zeelandia+Tainan)**, **[★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan)**, **[★★★★☆ 🏯📸 Eternal Golden Castle](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan)** (gwiaździsty fort Qing z 1874, armaty, fosa, most zwodzony). ✅ **To jest przewaga tego wariantu — Anping dostaje poranek i wchodzi trzeci fort.** | NT$70 / połowa |
-| 12:00 | Wymeldowanie, **HSR/TRA → Kaohsiung**. Bagaż do hotelu. | ~NT$140 |
-| 13:30 | **[★★★★☆ 🎨🚶🐞🦑 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** — portowe magazyny zamienione w największy kompleks sztuki współczesnej na południu: galerie, instalacje plenerowe, murale, tor kolejki. Wysoko na naszej liście (sztuka współczesna = górna półka). |  |
-| 15:30 | Prom na **[★★★☆☆ 🌳🚶 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** — 5 min promem; Cijin Old Street (owoce morza), Black Sand Beach, latarnia, **[★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung)** (najstarsza świątynia Mazu na wyspie, 1673). Sam prom jest atrakcją. | Prom ~NT$40 |
-| 17:30 | Powrót; **[★★★★☆ 📸 Formosa Boulevard MRT / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung)** — największa szklana instalacja witrażowa na świecie, w stacji metra. 5 minut, zero kosztu, mocne zdjęcie. | Bezpłatnie |
-| 19:00 | **[★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung)** — ⚠️ **zamknięty pon. i śr.; dziś piątek ✓.** Największy i najbardziej lokalny w Kaohsiungu, 500+ stoisk. | ~NT$200–400/os. |
-| | **▸▸ WARIANT C · Nantou: Chung Tai + Sun Moon Lake** — autobusy · nocleg: **Taichung / Puli** | |
+| | **▸▸ ~~NIEMOŻLIWY — wymaga bazy w Taichung~~ WARIANT C · Nantou: Chung Tai + Sun Moon Lake** — autobusy · nocleg: **Taichung / Puli** | |
 | 8:30 | Autobus **Nantou Bus / Taiwan Tourist Shuttle**, Taichung → **Puli** (~60–75 min). |  |
 | 10:00 | **[★★★★☆ 🏯 Chung Tai Chan Temple](https://www.google.com/maps/search/Chung+Tai+Chan+Temple+Puli+Nantou)** — 43-piętrowa świątynia-wieżowiec; architektura buddyjska w skali, jakiej nie ma nigdzie indziej. ⚠️ **Zwiedzanie z mniszką po angielsku = rezerwacja ~3 dni wcześniej (do 24 sie).** |  |
 | 11:00 | **[★★★★☆ 🏛️🎨 Chung Tai World Museum](https://www.google.com/maps/search/Chung+Tai+World+Museum+Puli+Nantou)** obok — sztuka buddyjska, zabytki sięgające **386 r. n.e.** ⚠️ Zamknięte w pon. (pt. OK). ✅ **BEZPŁATNIE maj–sie 2026** — 28 sie mieści się w okienku. | Bezpłatnie |
