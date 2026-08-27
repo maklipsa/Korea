@@ -1672,7 +1672,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 - [★★☆☆☆ ☕🍺 Swallow Tainan](https://www.google.com/maps/search/Swallow+Tainan) — Industrialny chic; rzemieślnicza kawa w ciągu dnia, bar koktajlowy wieczorem
 
 ### Nocne targi
-- [★★★★☆ 🏮 Garden Night Market (Hua Yuan)](https://www.google.com/maps/search/Garden+Night+Market+Tainan) — Największy w Tainanie; ~400 stoisk; wieczory czw.–niedz.
+- [★★★★☆ 🏮 Garden Night Market (Hua Yuan)](https://www.google.com/maps/search/Garden+Night+Market+Tainan) — Największy w Tainanie; ~400 stoisk; wieczory czw.–niedz. 📅 **Dzień 17 (27 sie)**
 - [★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan) — ~300-350 stoisk; pon., wt., pt. od 18:00 do 1:30; food truck Ancient Scallion Pancake (najpopularniejsze stoisko)
 
 ### Muzeum
