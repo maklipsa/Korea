@@ -49,7 +49,7 @@ Zależna od wariantu. Wspólny koniec: **Taoyuan HSR → Airport MRT → TPE**.
 | 12:30 | Obiad przy Zuoying albo **[★★★☆☆ 🛍️🍜 Neiwei Afternoon Market](https://www.google.com/maps/search/Neiwei+Market+Kaohsiung)**, jeśli zostaje czas. |  |
 | 13:45 | **HSR Zuoying → Taoyuan.** | ~NT$1 410 |
 | 15:15 | Taoyuan HSR → Airport MRT → **TPE ~15:35.** |  |
-| | **▸▸ WARIANT C · z Taichung** — HSR ~35 min, ~NT$540 (szac.) · ✅ najluźniejszy | |
+| | **▸▸ z TAICHUNG** — HSR ~35 min, ~NT$540 · ✅ **NAJPRAWDOPODOBNIEJSZY** po decyzji z 27 sie (dzień 18 domyślnie kończy się w Taichung) i **najluźniejszy margines na lot** | |
 | 9:00 | Wymeldowanie; bagaż do skrytek na HSR Taichung albo zostaje w hotelu. |  |
 | 9:30 | **Realnie macie pół dnia** — dobitka Taichung: **NTMoFA**, **Rainbow Village**, **Paochueh Temple**, **Blueprint Cultural & Creative Park**, **Calligraphy Greenway**, **Taichung Second Market**. |  |
 | 13:30 | Lunch, odbiór bagażu. |  |

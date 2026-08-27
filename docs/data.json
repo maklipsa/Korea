@@ -3179,25 +3179,25 @@
       "id": "day-18",
       "day": 18,
       "date": "28 sie (pt)",
-      "title": "Tainan (Anping) → Kaohsiung",
+      "title": "Tainan (Anping) → Taichung *(albo Kaohsiung)*",
       "country": "taiwan",
-      "summary": "⚠️ <strong>3 WARIANTY</strong> — drugi dzień na południu: Tainan / Kaohsiung / Nantou (⏭️ Taroko odrzucone)",
-      "notes": "⭐⭐ <strong>PLAN GŁÓWNY: WARIANT B — Tainan (rano, Anping) → Kaohsiung (po południu).</strong> 27 sie poszliście wariantem B, więc <strong>A i C są dziś niemożliwe</strong> — obie wymagają bazy w Taichung. Jedyna realna alternatywa to <strong>zostać w Tainanie (wariant B-T niżej)</strong>. 🔴 <strong>Decyzja do podjęcia RANO, nie z góry: czy Kaohsiung jest dostępny.</strong> Miasto odwoływało pracę i szkoły <strong>23, 24, 25 i 26 sie</strong> po powodzi (~154 podtopienia), a <strong>dzielnica 美術館/內惟, w której stoi KMFA, zalała się 25 sie</strong> (podobno zeszło w pół godziny). Dwa telefony rozstrzygają dzień: - <strong>Pier-2</strong> ☎ <strong>(07) 521-4899</strong> — pt. <strong>10:00–20:00</strong> ✓ zweryfikowane na stronie; <strong>program NIEzweryfikowany</strong> (strona renderowana JS-em) — spytajcie, co aktualnie wisi. Po lekcji z Taiwan Design Museum (1/6) to jest to pytanie. - <strong>KMFA</strong> — strona nie oddała ani godzin, ani komunikatów. <strong>Zadzwońcie, zanim zbudujecie wokół tego poranek 29 sie.</strong> 🧳 <strong>Zmiana bazy z bagażem:</strong> wymeldowanie w Tainanie rano, bagaż do hotelu w Kaohsiungu <strong>przed</strong> zwiedzaniem. 🌀 <strong>Pogoda:</strong> deszcz idzie dziś na <strong>północ i góry środkowe</strong>, nie na południowy zachód — jesteście po dobrej stronie. ⚠️ Ale grunt jest nasiąknięty, a <strong>prom na Cijin może nie pływać</strong> przy wzburzonym morzu. Plan wewnętrzny: Pier-2 (sale biletowane), KMFA, Dome of Light.",
+      "summary": "Tainan rano (Anping, Six Thousand Beef Soup) → <strong>Taichung</strong> (NTMoFA 🐞🦑 + NMNS 🐞 + Toyo Ito Theater) · opcja 2: Kaohsiung (Pier-2, Cijin)",
+      "notes": "⭐⭐ <strong>DOMYŚLNIE: Tainan rano (Anping) → TAICHUNG po południu.</strong> Kaohsiung zostaje jako <strong>opcja 2</strong>, do wzięcia tylko wtedy, gdy rano okaże się normalnie czynny. <strong>Dlaczego Taichung wygrał:</strong> jutro macie samolot o 19:25 i <strong>to jedyny odcinek wyjazdu, którego opóźnienie kosztuje lot</strong>. Z Taichung do Taoyuan to <strong>~35 min i ~NT$540</strong>; z Zuoying <strong>1 h 30 i ~NT$1 410</strong>. Do tego Taichung <strong>nie miał powodzi</strong> (Kaohsiung odwoływał pracę 23, 24, 25 i 26 sie), jest <strong>tańszy w sumie</strong>, i odblokowuje <strong>NTMoFA (🐞🦑) oraz NMNS (🐞)</strong> — dwa oznaczone punkty, które inaczej przepadną na cały wyjazd. 🔴 <strong>Rano dwa telefony rozstrzygają, czy jednak Kaohsiung:</strong> <strong>Pier-2 ☎ (07) 521-4899</strong> (pt. 10:00–20:00 zweryfikowane; <strong>spytajcie, co aktualnie wisi</strong>) oraz <strong>KMFA</strong> (strona nie oddała ani godzin, ani komunikatów, a dzielnica 美術館/內惟 zalała się 25 sie). 🧳 <strong>Zmiana bazy z bagażem:</strong> wymeldowanie w Tainanie rano, bagaż do hotelu w nowym mieście <strong>przed</strong> zwiedzaniem. 🌀 <strong>Pogoda:</strong> ulewy idą dziś na <strong>północ i góry środkowe</strong>. ⚠️ Taichung to nizina, nie góry — ostrzeżenie dotyczy Nantou, nie miasta. W Kaohsiungu problemem jest nasiąknięty grunt, a <strong>prom na Cijin może nie pływać</strong>.",
       "badges": [
         {
           "type": "pass",
-          "text": "HSR Zuoying ~NT$140 — krótki odcinek, oba dni passa idą na 27 i 29 sie"
+          "text": "Przy opcji Taichung HSR Pass się NIE opłaca — kupcie pojedyncze"
         },
         {
           "type": "closed",
-          "text": "piątek — Ruifeng i Dadong działają, Tainan Art Museum otwarte"
+          "text": "piątek — NMNS, NTMoFA, Ruifeng i Fengjia otwarte"
         }
       ],
       "maps": [],
       "schedule": [
         {
           "time": "",
-          "activity": "<strong>▸▸ WARIANT B · Tainan → Kaohsiung</strong> — HSR ~30 min (~NT$140) lub TRA ~40 min · nocleg: <strong>Kaohsiung</strong> · ⭐⭐ <strong>PLAN GŁÓWNY — 27 sie poszliście wariantem B, więc dziś to jedyna kontynuacja</strong>",
+          "activity": "<strong>▸▸ WSPÓLNY PORANEK — Tainan, w obu opcjach</strong>",
           "price": ""
         },
         {
@@ -3212,8 +3212,68 @@
         },
         {
           "time": "12:00",
-          "activity": "Wymeldowanie, <strong>HSR/TRA → Kaohsiung</strong>. Bagaż do hotelu.",
-          "price": "~NT$140"
+          "activity": "Wymeldowanie w Tainanie, bagaże ze sobą. <strong>Tu dzień się rozwidla.</strong>",
+          "price": ""
+        },
+        {
+          "time": "",
+          "activity": "<strong>▸▸ OPCJA 1 · TAICHUNG</strong> — HSR ~40–50 min, ~NT$650 · nocleg: <strong>Taichung</strong> · ⭐⭐ <strong>DOMYŚLNA</strong>",
+          "price": ""
+        },
+        {
+          "time": "",
+          "activity": "<strong>Dlaczego domyślnie Taichung:</strong> ✅ <strong>najspokojniejszy dzień lotu</strong> — jutro do Taoyuan tylko <strong>~35 min (~NT$540)</strong> zamiast 1 h 30 z Zuoying; ✅ <strong>taniej w sumie</strong> (~NT$1 190/os. za oba odcinki wobec ~NT$1 550); ✅ <strong>bez powodzi</strong> — Taichung nie odwoływał pracy ani razu, Kaohsiung robił to <strong>23, 24, 25 i 26 sie</strong>; ✅ odblokowuje <strong>dwa oznaczone punkty, których inaczej nie zobaczymy w ogóle</strong> — NTMoFA (🐞🦑) i NMNS (🐞). ⚠️ Przy tej opcji <strong>HSR Pass przestaje się opłacać</strong> — kupujcie pojedyncze bilety.",
+          "price": ""
+        },
+        {
+          "time": "~13:15",
+          "activity": "Przyjazd <strong>HSR Taichung (Wuri)</strong> → dojazd do centrum, bagaż do hotelu.",
+          "price": ""
+        },
+        {
+          "time": "~14:00",
+          "activity": "⚖️ <strong>Dwa muzea, oba zamykają 17:00 — i oba stoją przy tej samej Calligraphy Greenway</strong>, więc da się je połączyć spacerem. Realnie: <strong>jedno porządnie albo dwa w biegu.</strong>",
+          "price": ""
+        },
+        {
+          "time": "",
+          "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung\" target=\"_blank\">★★★★☆ 🏛️🐞🦑 National Taiwan Museum of Fine Arts (NTMoFA)</a></strong> (🐞 Jadzia, 🦑 Szymon) — jedyne muzeum sztuk pięknych rangi narodowej na Tajwanie, 24 sale, <strong>bezpłatne i klimatyzowane</strong>. ⚠️ <strong>Zadzwońcie/sprawdźcie, co aktualnie wisi</strong> — po Taiwan Design Museum (1/6) to jest to pytanie.",
+          "price": "Bezpłatnie"
+        },
+        {
+          "time": "",
+          "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung\" target=\"_blank\">★★★★★ 🏛️🧒🐞 National Museum of Natural Science</a></strong> (🐞 Jadzia) — ruchome dinozaury, IMAX/3D, szklarnia botaniczna. <strong>Wt.–niedz. 9:00–17:00.</strong> Osobne opłaty (wystawy NT$100, kina NT$70–100, szklarnia NT$20). ⚠️ To obiekt na pół dnia — o 14:00 zdążycie na skróty. <em>(I uczciwie: to sąsiad kategorii, którą dwa razy skreśliliście — NTSEC i park rozrywki. NMNS to jednak przyroda, nie interaktywne centrum nauki.)</em>",
+          "price": "NT$100 + dodatki"
+        },
+        {
+          "time": "~17:00",
+          "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taichung+Theater\" target=\"_blank\">★★★★☆ 🎭📸 National Taichung Theater</a></strong> — Toyo Ito (Pritzker), falujący beton, <strong>zwiedzanie bezpłatne</strong>, ogród na dachu. Architektura dowozi na tym wyjeździe: Tao Zhu Yin Yuan dostało <strong>6/6</strong> jako 10-minutowy, bezpłatny przystanek.",
+          "price": "Bezpłatnie"
+        },
+        {
+          "time": "~18:00",
+          "activity": "<strong><a href=\"https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung\" target=\"_blank\">★★★★☆ ☕📸 Miyahara Ice Cream Shop</a></strong> — klinika okulistyczna z lat 40., wnętrze jak z Harry'ego Pottera, <strong>sam budynek JEST atrakcją</strong>. Kolejka długa → zapas: <strong><a href=\"https://www.google.com/maps/search/Fourth+Credit+Union+Taichung\" target=\"_blank\">★★★☆☆ ☕ Fourth Credit Union</a></strong>, te same lody, ta sama firma.",
+          "price": ""
+        },
+        {
+          "time": "",
+          "activity": "<em>Alternatywnie zamiast Miyahara:</em> <strong><a href=\"https://www.google.com/maps/search/Zhongxin+Market+Taichung\" target=\"_blank\">★★★☆☆ 🚶🎨 Zhongxin Market</a></strong> — lata 60., naprzeciw NTMoFA, dziś labirynt pracowni i niezależnych kawiarni. <strong>~14:00–22:00, bezpłatnie.</strong>",
+          "price": ""
+        },
+        {
+          "time": "~19:30",
+          "activity": "🏮 <strong>Targ NAJBLIŻSZY hotelowi, nie najsłynniejszy.</strong> Fengjia jest największy powierzchniowo i działa do ~2:00, ale po werdykcie Raohe (3/6) wobec Ningxia (5,5/6) <strong>domyślnie bierzemy ten przy noclegu</strong>, i idziemy <strong>18:00–19:00</strong>, zanim najlepsze budki się wyprzedadzą.",
+          "price": "~NT$200–400/os."
+        },
+        {
+          "time": "",
+          "activity": "<strong>▸▸ OPCJA 2 · KAOHSIUNG</strong> — HSR ~30 min (~NT$140) · nocleg: <strong>Kaohsiung</strong>",
+          "price": ""
+        },
+        {
+          "time": "",
+          "activity": "<strong>Bierzcie tę opcję, jeśli rano Kaohsiung jest normalnie czynny</strong> (nie odwołuje pracy) <strong>i Pier-2 potwierdzi sensowny program.</strong> Zyskujecie <strong>Pier-2 (🐞🦑) i KMFA (🐞🦑)</strong> — Pier-2 to dziedzictwo przemysłowe + sztuka współczesna, czyli połączenie, które dało na tym wyjeździe dwie piątki. Płacicie za to <strong>dłuższym i droższym dniem lotu</strong> (Zuoying → Taoyuan 1 h 30, ~NT$1 410) i wjazdem do miasta po czterech dniach podtopień.",
+          "price": ""
         },
         {
           "time": "13:30",
@@ -3233,126 +3293,6 @@
         {
           "time": "19:00",
           "activity": "<strong><a href=\"https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung\" target=\"_blank\">★★★★☆ 🏮 Ruifeng Night Market</a></strong> — ⚠️ <strong>zamknięty pon. i śr.; dziś piątek ✓.</strong> Największy i najbardziej lokalny w Kaohsiungu, 500+ stoisk.",
-          "price": "~NT$200–400/os."
-        },
-        {
-          "time": "",
-          "activity": "<strong>▸▸ WARIANT B-T · zostajemy w Tainanie</strong> — realny plan awaryjny, jeśli Kaohsiung dziś odpadnie",
-          "price": ""
-        },
-        {
-          "time": "",
-          "activity": "<strong>To jest jedyna prawdziwa alternatywa na dziś</strong> — warianty A i C wymagają bazy w Taichung, a wy jesteście w Tainanie. Jeśli <strong>Kaohsiung nadal odwołuje pracę i szkoły</strong> (robił to 23, 24, 25 i 26 sie po powodzi), zostajecie na drugą noc w Tainanie i nic nie tracicie poza Kaohsiungiem.",
-          "price": ""
-        },
-        {
-          "time": "",
-          "activity": "<strong>Czym wypełnić dzień w Tainanie:</strong> cały poranek Anping jak wyżej (<strong><a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia</a></strong>, <strong><a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">★★★★☆ 📸🌳 Anping Treehouse</a></strong>, <strong><a href=\"https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan\" target=\"_blank\">★★★★☆ 🏯📸 Eternal Golden Castle</a></strong>), po południu <strong><a href=\"https://www.google.com/maps/search/182+Art+Space+Tainan\" target=\"_blank\">★★★★☆ 📷🏛️ 182 Art Space</a></strong> (otwiera <strong>14:00</strong>, blisko Tainan Art Museum), <strong>Hayashi Department Store</strong>, <strong>Altar of Heaven</strong>, <strong>Great South Gate</strong>. Wieczorem targ <strong>najbliżej hotelu</strong>, nie ten z przewodnika.",
-          "price": ""
-        },
-        {
-          "time": "",
-          "activity": "✅ <strong>Powrót 29 sie jest już rozpisany:</strong> <a href=\"aug-29-return-fly-home.md\" target=\"_blank\">aug-29</a> ma wariant <strong>„z Tainanu”</strong> — HSR Tainan → Taoyuan ~1 h 20, ~NT$1 270, na TPE ~16:05. ⚠️ Taksówka na Tainan HSR to <strong>30–40 min</strong>, stacja leży 17 km za miastem — nie tnijcie tego buforu.",
-          "price": ""
-        },
-        {
-          "time": "",
-          "activity": "⬇️ <strong>Tracicie:</strong> Pier-2 (🐞🦑), KMFA (🐞🦑), Cijin, Dome of Light, Ruifeng. To realna strata — <strong>ale tylko wtedy, gdy Kaohsiung faktycznie jest niedostępny.</strong> Sprawdźcie rano.",
-          "price": ""
-        },
-        {
-          "time": "",
-          "activity": "<strong>▸▸ <del>NIEMOŻLIWY — wymaga bazy w Taichung</del> WARIANT A · Taichung → Tainan</strong> — HSR/TRA ~40–50 min, NT$650 · nocleg: <strong>Tainan</strong>",
-          "price": ""
-        },
-        {
-          "time": "8:00",
-          "activity": "Śniadanie, wymeldowanie w Taichung.",
-          "price": ""
-        },
-        {
-          "time": "8:45",
-          "activity": "Dokończenie Taichung, jeśli 27 sie coś nie weszło — <strong><a href=\"https://www.google.com/maps/search/Rainbow+Village+Taichung\" target=\"_blank\">★★★☆☆ 📸🎨 Rainbow Village</a></strong> albo <strong><a href=\"https://www.google.com/maps/search/Blueprint+Cultural+Creative+Park+Tainan\" target=\"_blank\">★★☆☆☆ 🎨🛍️ Blueprint Cultural & Creative Park</a></strong>.",
-          "price": ""
-        },
-        {
-          "time": "10:30",
-          "activity": "<strong>HSR Taichung → Tainan.</strong> Bagaż do hotelu w Tainanie.",
-          "price": "NT$650"
-        },
-        {
-          "time": "12:30",
-          "activity": "Lunch: obchód <strong><a href=\"https://www.google.com/maps/search/Guohua+Street+Tainan\" target=\"_blank\">★★★☆☆ 🍜 Guohua Street</a></strong> — kulinarna stolica Tajwanu.",
-          "price": ""
-        },
-        {
-          "time": "13:30",
-          "activity": "Klaster świątynny pieszo: <strong><a href=\"https://www.google.com/maps/search/Chihkan+Tower+Tainan\" target=\"_blank\">★★★★☆ 🏯 Chihkan Tower</a></strong> → <strong><a href=\"https://www.google.com/maps/search/Grand+Matsu+Temple+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Grand Matsu Temple</a></strong> → <strong><a href=\"https://www.google.com/maps/search/Tainan+Confucius+Temple\" target=\"_blank\">★★★★☆ 🏯 Tainan Confucius Temple</a></strong> (1665, najstarsza na Tajwanie).",
-          "price": ""
-        },
-        {
-          "time": "15:00",
-          "activity": "<strong><a href=\"https://www.google.com/maps/search/Tainan+Art+Museum\" target=\"_blank\">★★★★☆ 🏛️🐞🦑 Tainan Art Museum</a></strong> — Shigeru Ban (Pritzker). Zamknięte w pon. — pt. OK.",
-          "price": ""
-        },
-        {
-          "time": "16:00",
-          "activity": "Taksówka do <strong>Anping</strong> — ⚠️ <strong>forty NAJPIERW, przekąski potem: wszystkie zamykają ~17:10–17:30.</strong> <strong><a href=\"https://www.google.com/maps/search/Fort+Zeelandia+Tainan\" target=\"_blank\">★★★☆☆ 🏯 Fort Zeelandia</a></strong> (holenderski, 1624) → <strong><a href=\"https://www.google.com/maps/search/Anping+Treehouse+Tainan\" target=\"_blank\">★★★★☆ 📸🌳 Anping Treehouse</a></strong> (magazyn pochłonięty przez korzenie banianu — <strong>zamknięcie 17:30!</strong>).",
-          "price": "NT$70 / połowa"
-        },
-        {
-          "time": "17:30",
-          "activity": "<strong><a href=\"https://www.google.com/maps/search/Anping+Old+Street+Tainan\" target=\"_blank\">★★★☆☆ 🚶🍜 Anping Old Street</a></strong> — krakersy krewetkowe; <strong><a href=\"https://www.google.com/maps/search/Zhous+Shrimp+Rolls+Anping+Tainan\" target=\"_blank\">★★☆☆☆ 🍜 Zhou's Shrimp Rolls</a></strong> i <strong><a href=\"https://www.google.com/maps/search/Tongji+Tofu+Pudding+Anping+Tainan\" target=\"_blank\">★★☆☆☆ ☕ Tongji Tofu Pudding</a></strong> na deser.",
-          "price": ""
-        },
-        {
-          "time": "19:00",
-          "activity": "<strong><a href=\"https://www.google.com/maps/search/Dadong+Night+Market+Tainan\" target=\"_blank\">★★★☆☆ 🏮 Dadong Night Market</a></strong> — ⚠️ <strong>rotacja: pt. = Dadong</strong> ✓ (Wusheng śr./sob., Garden czw./niedz. — dziś nie działają).",
-          "price": "~NT$200–400/os."
-        },
-        {
-          "time": "",
-          "activity": "⚠️ <strong><a href=\"https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan\" target=\"_blank\">★★★★☆ 🏯📸 Eternal Golden Castle (Erkunshen Fort)</a> wypada</strong> w tym wariancie — dzień z przeprowadzką bazy nie zmieści trzeciego fortu.",
-          "price": ""
-        },
-        {
-          "time": "",
-          "activity": "<strong>▸▸ <del>NIEMOŻLIWY — wymaga bazy w Taichung</del> WARIANT C · Nantou: Chung Tai + Sun Moon Lake</strong> — autobusy · nocleg: <strong>Taichung / Puli</strong>",
-          "price": ""
-        },
-        {
-          "time": "8:30",
-          "activity": "Autobus <strong>Nantou Bus / Taiwan Tourist Shuttle</strong>, Taichung → <strong>Puli</strong> (~60–75 min).",
-          "price": ""
-        },
-        {
-          "time": "10:00",
-          "activity": "<strong><a href=\"https://www.google.com/maps/search/Chung+Tai+Chan+Temple+Puli+Nantou\" target=\"_blank\">★★★★☆ 🏯 Chung Tai Chan Temple</a></strong> — 43-piętrowa świątynia-wieżowiec; architektura buddyjska w skali, jakiej nie ma nigdzie indziej. ⚠️ <strong>Zwiedzanie z mniszką po angielsku = rezerwacja ~3 dni wcześniej (do 24 sie).</strong>",
-          "price": ""
-        },
-        {
-          "time": "11:00",
-          "activity": "<strong><a href=\"https://www.google.com/maps/search/Chung+Tai+World+Museum+Puli+Nantou\" target=\"_blank\">★★★★☆ 🏛️🎨 Chung Tai World Museum</a></strong> obok — sztuka buddyjska, zabytki sięgające <strong>386 r. n.e.</strong> ⚠️ Zamknięte w pon. (pt. OK). ✅ <strong>BEZPŁATNIE maj–sie 2026</strong> — 28 sie mieści się w okienku.",
-          "price": "Bezpłatnie"
-        },
-        {
-          "time": "12:30",
-          "activity": "Autobus Puli → <strong><a href=\"https://www.google.com/maps/search/Sun+Moon+Lake+Taiwan\" target=\"_blank\">★★★★☆ 🌳🚡 Sun Moon Lake</a></strong> (~30–40 min). Lunch nad jeziorem w <strong><a href=\"https://www.google.com/maps/search/Ita+Thao+Old+Street+Sun+Moon+Lake+Nantou\" target=\"_blank\">★★★☆☆ 🏮🍜 Ita Thao Old Street</a></strong>.",
-          "price": ""
-        },
-        {
-          "time": "13:30",
-          "activity": "<strong><a href=\"https://www.google.com/maps/search/Sun+Moon+Lake+Taiwan\" target=\"_blank\">★★★★☆ 🌳🚡 Sun Moon Lake</a></strong> — kolejka linowa (do <strong><a href=\"https://www.google.com/maps/search/Formosan+Aboriginal+Culture+Village+Taiwan\" target=\"_blank\">★★★☆☆ 🎡🎨 Formosan Aboriginal Culture Village</a></strong>), <strong><a href=\"https://www.google.com/maps/search/Shuishe+Pier+Sun+Moon+Lake+Nantou\" target=\"_blank\">★★★☆☆ 🌊 Sun Moon Lake Boat Cruise (Shuishe pier)</a></strong> (Shuishe ↔ Ita Thao ↔ Xuanguang), <strong><a href=\"https://www.google.com/maps/search/Wenwu+Temple+Sun+Moon+Lake\" target=\"_blank\">★★★☆☆ 🏯 Wenwu Temple</a></strong>.",
-          "price": ""
-        },
-        {
-          "time": "",
-          "activity": "<em>Alternatywa dla fanów zabytkowej kolei:</em> zamiast jeziora — linia Jiji (<strong><a href=\"https://www.google.com/maps/search/Jiji+Green+Tunnel+Nantou\" target=\"_blank\">★★★☆☆ 🌳🚶 Jiji Green Tunnel</a></strong>) do <strong><a href=\"https://www.google.com/maps/search/CheCheng+Wood+Museum+Nantou\" target=\"_blank\">★★★★☆ 🏭🚂🎨 CheCheng Wood Museum</a></strong>.",
-          "price": ""
-        },
-        {
-          "time": "17:30",
-          "activity": "Powrót do Taichung (~1 h 15). Kolacja: <strong><a href=\"https://www.google.com/maps/search/Fengjia+Night+Market+Taichung\" target=\"_blank\">★★★★☆ 🏮 Fengjia Night Market</a></strong>, jeśli nie było go 27 sie.",
           "price": "~NT$200–400/os."
         }
       ],
@@ -3536,7 +3476,7 @@
         },
         {
           "time": "",
-          "activity": "<strong>▸▸ WARIANT C · z Taichung</strong> — HSR ~35 min, ~NT$540 (szac.) · ✅ najluźniejszy",
+          "activity": "<strong>▸▸ z TAICHUNG</strong> — HSR ~35 min, ~NT$540 · ✅ <strong>NAJPRAWDOPODOBNIEJSZY</strong> po decyzji z 27 sie (dzień 18 domyślnie kończy się w Taichung) i <strong>najluźniejszy margines na lot</strong>",
           "price": ""
         },
         {
