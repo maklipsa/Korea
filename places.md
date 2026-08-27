@@ -26,6 +26,10 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 
 **Werdykt zapisujcie tego samego wieczoru, nie na koniec wyjazdu.** To nie jest porządkowa uwaga, tylko najbardziej dochodowa zasada tego wyjazdu: werdykt N Seoul Tower (2/6, 16 sie) zapisany od razu pozwolił **następnego dnia** odpuścić Seoul Sky — ten sam produkt kompleks obok — i zaoszczędzić **~174,000 KRW** za szóstkę. Zasada działa tylko wtedy, gdy ocena jest na papierze, zanim pojawi się kolejny punkt tego samego typu. **Tajwan jest pod tym względem wyjątkowo powtarzalny:** 6 nocnych targów (Ningxia, Raohe, Shilin, Wusheng, Ruifeng, Tonghua), 5 starych uliczek (Dihua, Shifen, Jiufen, Anping, Shennong), 2 forty w Anping, kilka przejazdów widokowych. Gwangjang — nasz punkt odniesienia dla targów — dostał tylko 4/6. **Oceńcie pierwszy z każdej serii tego samego wieczoru i jeśli wypadnie słabo, wymieńcie kolejne na muzea albo świątynie**, zamiast odkrywać to 28 sie.
 
+🍢 **WNIOSEK Z 27 SIE — „lokalny” i „tajwański” to nie to samo.** Garden Night Market wypadł **bardzo dobrze** i był pełen **miejscowych, prawie bez turystów** — reguła „targ dla swoich bije targ ze sławą” zadziałała. **Ale jedzenie było dobre, a nie bardzo tajwańskie**: duże nocne targi podryfowały w stronę uniwersalnego jedzenia festynowego (smażone, słodkie, modne), a tradycyjnych 小吃 jest tam mniej, niż sugerują przewodniki.
+
+**Wniosek na resztę wyjazdu:** **targ = atmosfera i kolacja dla wszystkich; mała knajpka = właściwe lokalne jedzenie.** Tego samego dnia nieudokumentowane 喫麵館 dostało **5/6** za dokładnie to, czego na targu brakowało. Jeśli celem jest konkretne danie regionalne (棺材板, 鱔魚意麵, 牛肉湯, 碗粿), **szukajcie sklepu, nie straganu.**
+
 ⛩️ **WNIOSEK Z 27 SIE — świątynie też podlegają regule „sławne = przeciętne”.** Klaster świątynny w Tainanie (Chihkan Tower, Grand Matsu, Official God of War, Confucius) — **3,5/6, „dobre, ale nic nadzwyczajnego”. To są **cztery podręcznikowe must-see Tainanu**, w centrum, obok siebie. Dla kontrastu **Zhinan Temple dostała 5/6** — wpisana do planu jako „po prostu przystanek gondoli” przy ★★★☆☆, bez kolejki i bez rozgłosu. **Nie chodzi o to, że świątynie są słabe** (Jogyesa, Jongmyo i Changgyeonggung dostały po 5/6) — chodzi o to, że **ta sama kategoria wypada lepiej, gdy nie jest głównym punktem przewodnika.**
 
 🏮 **WNIOSEK Z 26 SIE — targ obok łóżka bije targ ze sławą.** **Raohe dostało 3/6** i to nie była kwestia gustu, a wartości: **drożej niż na targu przy hotelu, mniejsze porcje, słabsza jakość, najlepsze budki już zamknięte.** Seria „sławne + tłoczne” ma teraz **7 nietrafień na 7**, a Raohe jest **poniżej** pułapu 4/6, na którym trzymała się reszta.
@@ -1675,7 +1679,7 @@ Typowa trasa: Shifen → Jiufen → Yehliu. 8-9 godzin w obie strony.
 - [★★☆☆☆ ☕🍺 Swallow Tainan](https://www.google.com/maps/search/Swallow+Tainan) — Industrialny chic; rzemieślnicza kawa w ciągu dnia, bar koktajlowy wieczorem
 
 ### Nocne targi
-- [★★★★☆ 🏮 Garden Night Market (Hua Yuan)](https://www.google.com/maps/search/Garden+Night+Market+Tainan) — Największy w Tainanie; ~400 stoisk; wieczory czw.–niedz. 📅 **Dzień 17 (27 sie)**
+- [★★★★☆ 🏮 Garden Night Market (Hua Yuan)](https://www.google.com/maps/search/Garden+Night+Market+Tainan) — Największy w Tainanie; ~400 stoisk; wieczory czw.–niedz. ✅ **Widziane: Dzień 17 (27 sie) — bardzo dobre.** **Dużo miejscowych, bardzo mało turystów** — czyli dokładnie odwrotnie niż Raohe (3/6). ⚠️ **Ale jedzenie: dobre, choć niewiele tam dań stricte tajwańskich** — duże targi podryfowały w stronę uniwersalnego jedzenia festynowego. **Po prawdziwe tainańskie 小吃 idźcie do małych knajpek** (喫麵館 tego samego dnia: 5/6), nie na targ. 📅 **Dzień 17 (27 sie)**
 - [★★★☆☆ 🏮 Dadong Night Market](https://www.google.com/maps/search/Dadong+Night+Market+Tainan) — ~300-350 stoisk; pon., wt., pt. od 18:00 do 1:30; food truck Ancient Scallion Pancake (najpopularniejsze stoisko)
 
 ### Muzeum
