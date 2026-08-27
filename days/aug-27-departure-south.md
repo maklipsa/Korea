@@ -11,6 +11,8 @@
 
 ⏳ **Uwaga do wariantu C:** zwiedzanie Chung Tai z mniszką po angielsku wymagało rezerwacji do **24 sie** — ten termin minął, więc C stracił swój sztandarowy punkt (świątynia i muzeum nadal są otwarte z ulicy, a muzeum jest bezpłatne maj–sie 2026).
 
+➕ **Poza planem (27 sie):** **[★★★★☆ 🍜 喫麵館 (秀英小吃店)](https://www.google.com/maps/search/%E5%96%AB%E9%9D%A2%E9%A4%A8+%E7%A7%80%E8%8B%B1%E5%B0%8F%E5%90%83%E5%BA%97+%E5%8F%B0%E5%8D%97)** — lokalna knajpka z makaronem, **✅ 5/6**. Nie było jej w katalogu ani w żadnym przewodniku.
+
 ## Route Map
 
 **Trasa wariantu B (plan główny):** hotel → Taipei Main → HSR → **Tainan HSR** → taksówka do centrum → Guohua St → Chihkan Tower → Grand Matsu → Tainan Art Museum → Shennong St → Garden Night Market. Trasy wariantów zapasowych — po decyzji.
