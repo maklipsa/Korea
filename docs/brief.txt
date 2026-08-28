@@ -128,9 +128,9 @@ Wariant D wypadł z harmonogramu. **Powód, gdyby ktoś wracał do tematu:** po 
 
 ---
 
-> **Dzień 19 · 29 sie (sob) · Tajwan** — Powrót z południa (wysiadka **Taoyuan HSR**, nie Tajpej) → lot do domu (odlot 19:25)
+> **Dzień 19 · 29 sie (sob) · Tajwan** — **Taichung → Taoyuan → lot 19:25.** Rano: śniadanie na Second Market, to z pary Luce Chapel / Taichung Theater, którego nie było 28 sie, 太陽餅 · HSR 15:00
 
-# Aug 29 (Sat) — Powrót z południa → lot do domu (odlot 19:25)
+# Aug 29 (Sat) — Taichung → Taoyuan → lot do domu (odlot 19:25)
 > Badges: pass:HSR — dzień powrotu; closed:sobota — wszystko otwarte
 
 **Lot do domu odlatuje z Taipei Taoyuan (TPE) o 19:25.** To jest dziś jedyna twarda liczba w całym planie.
@@ -159,45 +159,36 @@ Wariant D wypadł z harmonogramu. **Powód, gdyby ktoś wracał do tematu:** po 
 
 ## Route Map
 
-Zależna od wariantu. Wspólny koniec: **Taoyuan HSR → Airport MRT → TPE**.
+**Trasa:** hotel (台中市東區復興路四段158號) → 台中車站 → TRA 2 przystanki do **新烏日** → **HSR Taichung → Taoyuan** → Airport MRT (A18 → A12/A13) → **TPE**.
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| | **▸▸ WARIANT A · z Tainanu** — HSR ~1 h 20, ~NT$1 270 (szac.) | |
-| 7:30 | 🍜 **[★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan)** — czw.–niedz., tylko rano, kończy gdy skończy się mięso. **Dziś sobota ✓. Wstańcie na to** — to jedna z tych rzeczy, których nie zjecie nigdzie indziej. | ~NT$150/os. |
-| 8:30 | Ostatni obchód **[★★★☆☆ 🍜 Guohua Street](https://www.google.com/maps/search/Guohua+Street+Tainan)** albo **[★★★☆☆ 🍜 Du Hsiao Yueh](https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan)** (danzai noodles od 1895 r.). |  |
-| 10:00 | Wymeldowanie. Jeśli 28 sie coś nie weszło: **Hayashi Department Store**, **Altar of Heaven**, **Great South Gate**, **Eternal Golden Castle**. |  |
-| 13:30 | Taksówka do **Tainan HSR** (~30–40 min od centrum — ⚠️ **nie tnijcie tego buforu**, stacja jest 17 km za miastem). |  |
-| 14:20 | **HSR Tainan → Taoyuan.** | ~NT$1 270 |
-| 15:45 | Taoyuan HSR → Airport MRT → **TPE ~16:05.** ✅ Najspokojniejszy z wariantów z pełnym porankiem. |  |
-| | **▸▸ WARIANT B · z Kaohsiungu** — HSR ~1 h 30, ~NT$1 410 (szac.) | |
-| 8:00 | Śniadanie, wymeldowanie. |  |
-| 8:45 | **⚖️ Wybierzcie JEDNO — na dwa nie ma czasu.** Najkrótszy poranek ze wszystkich wariantów. |  |
-|  | **Opcja A ·** **[★★★★☆ 🌳🏯 Lotus Pond](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung)** — Smoczo-tygrysie pagody, świątynie nad wodą. **Leży przy Zuoying**, czyli praktycznie po drodze na pociąg → **najbezpieczniejsza opcja**. | Bezpłatnie |
-|  | **Opcja B ·** **[★★★★☆ 🏛️🧒🐞🦑 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts)** — otwiera 9:30, ~1,5 h, potem MRT do Zuoying. |  |
-|  | **Opcja C ·** **[★★★★☆ 🏯🏛️ Fo Guang Shan](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung)** — ⚠️ **~40 min za miastem.** Buddha Museum zamknięte wt. (sob. OK), ale ta opcja **wyklucza spokojny wyjazd** — realna tylko, jeśli ruszacie 8:00 i wracacie prosto na pociąg. |  |
-| 12:30 | Obiad przy Zuoying albo **[★★★☆☆ 🛍️🍜 Neiwei Afternoon Market](https://www.google.com/maps/search/Neiwei+Market+Kaohsiung)**, jeśli zostaje czas. |  |
-| 13:45 | **HSR Zuoying → Taoyuan.** | ~NT$1 410 |
-| 15:15 | Taoyuan HSR → Airport MRT → **TPE ~15:35.** |  |
-| | **▸▸ z TAICHUNG** — HSR ~35 min, ~NT$540 · ✅ **NAJPRAWDOPODOBNIEJSZY** po decyzji z 27 sie (dzień 18 domyślnie kończy się w Taichung) i **najluźniejszy margines na lot** | |
-| 9:00 | Wymeldowanie; bagaż do skrytek na HSR Taichung albo zostaje w hotelu. |  |
-| 9:30 | **Realnie macie pół dnia** — dobitka Taichung: **NTMoFA**, **Rainbow Village**, **Paochueh Temple**, **Blueprint Cultural & Creative Park**, **Calligraphy Greenway**, **Taichung Second Market**. |  |
-| 13:30 | Lunch, odbiór bagażu. |  |
-| 15:00 | **HSR Taichung → Taoyuan** (~35 min). | ~NT$540 |
-| 15:45 | Taoyuan HSR → Airport MRT → **TPE ~16:05.** |  |
-| | **▸▸ WARIANT D · z Hualien** — TRA ~2 h 05 · ❌ najwęższy margines | |
-| 8:00 | Wymeldowanie w Hualien. |  |
-| 12:30 | **TRA Hualien → Tajpej** (~2 h 05), potem jeszcze Airport MRT z Taipei Main (~38 min). ⚠️ **Bez zarezerwowanego miejsca w Puyuma/Taroko ten wariant zagraża lotowi** — a te pociągi wyprzedają się. To najwęższy margines z czterech wariantów i główny powód, dla którego wariant D nie jest rekomendowany. | ~NT$440 |
-| 15:15 | Taipei Main → **TPE ~15:55.** |  |
+| | **▸▸ JEDYNY WARIANT — wyjazd z TAICHUNG.** Warianty z Tainanu, Kaohsiungu i Hualien usunięte: noc 28/29 sie spędzacie w Taichung. | |
+| ~8:00 | 🏨 **Hotel: [台中市東區復興路四段158號](https://www.google.com/maps/search/%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8D%80%E5%BE%A9%E8%88%88%E8%B7%AF%E5%9B%9B%E6%AE%B5158%E8%99%9F)** — leży **kilka minut pieszo od 台中車站**, więc bagaż możecie zostawić do południa i wrócić po niego bez straty czasu. |  |
+| ~8:30 | 🍜 **Śniadanie po tajwańsku, nie hotelowe.** **[★★★☆☆ 🛍️🍜 Taichung Second Market](https://www.google.com/maps/search/Taichung+Second+Market)** — stuletnie stragany przy dworcu (中區), **爌肉飯 i 米糕 na miejscu**. To ta sama kategoria (mały lokal, danie regionalne), która dała 5/6 w Tainanie. |  |
+|  | *Albo:* **[★★★★☆ 🧋🍜 春水堂 創始店](https://www.google.com/maps/search/%E6%98%A5%E6%B0%B4%E5%A0%82+%E5%89%B5%E5%A7%8B%E5%BA%97+%E5%8F%B0%E4%B8%AD)** — otwarte **od 8:00**; jeśli nie weszło wczoraj na kolację, to jest ostatnia szansa na **miejsce, w którym wymyślono bubble tea**. |  |
+| ~10:00 | ⚖️ **To, czego NIE wybraliście wczoraj o 16:00.** Wczoraj kaplica i teatr były alternatywą — **dziś rano jest czas na tę drugą.** |  |
+|  | **[★★★★☆ 📸⛪ Luce Memorial Chapel / 路思義教堂](https://www.google.com/maps/search/Luce+Memorial+Chapel+Tunghai+University+Taichung)** — I.M. Pei, 東海大學, ~25 min taksówką. ⚠️ **W sobotę wnętrze jest ZAMKNIĘTE** — dziś zobaczycie tylko bryłę (kampus czynny 24 h). Jeśli wczoraj weszliście do środka, dziś nie ma po co wracać. | Bezpłatnie |
+|  | **[★★★★☆ 🎭📸 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater)** — Toyo Ito, 惠來路, ~15 min. **Bez ograniczeń godzinowych**, więc w sobotę to bezpieczniejszy wybór z tych dwóch. | Bezpłatnie |
+| ~12:00 | 🎁 **[★★★☆☆ ☕ Taichung Sun Cakes / 太陽餅](https://www.google.com/maps/search/Taichung+Sun+Cakes+Taiyang+Bing)** — **sygnaturowy wypiek Taichung**, kupowany na koniec, bo świeży. Sklepy są w okolicy 台中車站, czyli przy hotelu. ⚠️ **Na TPE te same rzeczy są wyraźnie droższe.** |  |
+| ~13:00 | Lunch przy dworcu, odbiór bagażu z hotelu. |  |
+| **~14:15** | 🚉 **Wyjście z hotelu → 台中車站 → TRA 2 przystanki do 新烏日** (~10 min + przejście). ⚠️ **Nie tnijcie tego** — to jedyna przesiadka dnia. |  |
+| **15:00** | 🚄 **HSR Taichung → Taoyuan** (~35 min). ⚠️ **Miejscówka zarezerwowana z wyprzedzeniem** — sobota, koniec sierpnia. | ~NT$540 |
+| **15:45** | Taoyuan HSR → **Airport MRT A18 → A12/A13** (~15–20 min) → **TPE ~16:05.** ✅ To **~3 h 20 przed odlotem** — najluźniejszy margines ze wszystkich wariantów, jakie rozważaliśmy. |  |
+| ~16:15 | 🎁 **Odbiór Chia Te na lotnisku** — stanowisko 宅配通 (T1 parter / T2 3. piętro), 07:00–23:00, bez kolejki. **Zamówione dzień wcześniej.** |  |
+| ~18:25 | Zamknięcie odprawy i bagażu (60 min przed). |  |
+| **19:25** | ✈️ **Odlot TPE.** |  |
+
+**⏱️ Zapas, gdyby coś się posypało:** HSR Taichung → Taoyuan jeżdżą **kilka razy na godzinę**, więc pociąg o 15:00 ma realne zapasowe kursy o 15:30 i 16:00 — wtedy TPE ~16:35/17:05, nadal przed zamknięciem odprawy. **Dopiero pociąg po 16:30 robi się ryzykowny.**
 
 ---
 
 ## Also Nearby
 
 ### Ostatnie zakupy
-- 🎁 **Ciastka ananasowe kupujecie 27 sie rano** ([Chia Te](aug-27-departure-south.md) + SunnyHills) — **nie zostawiajcie tego na dziś**, bo dziś nie ma poranka w Tajpej. To jedna z realnych konsekwencji przeplanowania.
+- 🎁 **Ciastka ananasowe: odbiór na lotnisku** (Chia Te, zamówione dzień wcześniej — patrz góra pliku). ⏭️ *Nieaktualne: dawniej kupowane 27 sie rano w Tajpej.* — **nie zostawiajcie tego na dziś**, bo dziś nie ma poranka w Tajpej. To jedna z realnych konsekwencji przeplanowania.
 - 🛍️ Na TPE jest strefa bezcłowa, ale ceny ciastek są tam wyraźnie wyższe niż w mieście.
 
 ### Gdyby lot był opóźniony albo odwołany

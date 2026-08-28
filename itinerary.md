@@ -94,7 +94,7 @@ Tajwan: 21-29 sie (8 nocy — **Taipei 6 nocy (21-26)** + 2 noce na południu (2
 | 16 | 26 sie (śr) | Taipei Dzień 4: Maokong Gondola + Zhinan Temple → **Fubon Art Museum** → Elephant Mountain → **taras Taipei 101** → Raohe | [aug-26-maokong-xinyi.md](days/aug-26-maokong-xinyi.md) |
 | 17 | 27 sie (czw) | ⚠️ **4 WARIANTY** — wymeldowanie z Tajpej + Chia Te → Taichung / Tainan / Hualien | [aug-27-departure-south.md](days/aug-27-departure-south.md) |
 | 18 | 28 sie (pt) | Tainan rano (zupa wołowa) → **Taichung**: NTMoFA 🐞🦑 + Toyo Ito Theater + Miyahara · ⏭️ bez Anping, bez Kaohsiungu | [aug-28-south-day2.md](days/aug-28-south-day2.md) |
-| 19 | 29 sie (sob) | Powrót z południa (wysiadka **Taoyuan HSR**, nie Tajpej) → lot do domu (odlot 19:25) | [aug-29-return-fly-home.md](days/aug-29-return-fly-home.md) |
+| 19 | 29 sie (sob) | **Taichung → Taoyuan → lot 19:25.** Rano: śniadanie na Second Market, to z pary Luce Chapel / Taichung Theater, którego nie było 28 sie, 太陽餅 · HSR 15:00 | [aug-29-return-fly-home.md](days/aug-29-return-fly-home.md) |
 
 ---
 

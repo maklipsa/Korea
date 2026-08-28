@@ -3346,9 +3346,9 @@ const DAYS = [
     "id": "day-19",
     "day": 19,
     "date": "29 sie (sob)",
-    "title": "Powrót z południa → lot do domu (odlot 19:25)",
+    "title": "Taichung → Taoyuan → lot do domu (odlot 19:25)",
     "country": "taiwan",
-    "summary": "Powrót z południa (wysiadka <strong>Taoyuan HSR</strong>, nie Tajpej) → lot do domu (odlot 19:25)",
+    "summary": "<strong>Taichung → Taoyuan → lot 19:25.</strong> Rano: śniadanie na Second Market, to z pary Luce Chapel / Taichung Theater, którego nie było 28 sie, 太陽餅 · HSR 15:00",
     "notes": "<strong>Lot do domu odlatuje z Taipei Taoyuan (TPE) o 19:25.</strong> To jest dziś jedyna twarda liczba w całym planie. 🔁 <strong>Ten dzień zmienił rolę.</strong> Wcześniej był „ostatnim dniem w Tajpej\" (MoCA, Huashan, Railway Museum) z wyjazdem na lotnisko o 15:15. Po skróceniu hotelu w Tajpej do nocy 21–26 sie <strong>nocujecie 28 sie na południu</strong>, więc dziś rano <strong>wracacie</strong>, a nie zwiedzacie Tajpej. Zawartość dawnego 29 sie przeniosła się na <a href=\"aug-21-busan-to-taipei.md\" target=\"_blank\">21 sie</a> (Railway Museum + Huashan <strong>albo</strong> MOCA + Miniatures — wybór pary) i na poranek <a href=\"aug-27-departure-south.md\" target=\"_blank\">27 sie</a> (Chia Te, SunnyHills). Kontekst: <a href=\"../replan-taiwan.md\" target=\"_blank\">replan-taiwan.md</a>. ⚠️ <strong>Wysiadacie w Taoyuan HSR, NIE w Tajpej.</strong> Bagaże macie przy sobie od wymeldowania na południu, więc nie ma po co wjeżdżać do miasta. Stacja Taoyuan HSR jest w tym samym kompleksie co <strong>Airport MRT A18</strong>, więc to ~15–20 min do terminala — zamiast Taipei Main + Airport MRT Express (~38 min) plus przesiadka. Oszczędność ~40 min. 🎫 <strong>Rezerwujcie miejsca w pociągu z wyprzedzeniem.</strong> Sobota + koniec sierpnia = szczyt. To jedyny odcinek całego wyjazdu, którego opóźnienie kosztuje lot. <strong>⏰ Rachunek czasu — liczony wstecz od 19:25:</strong> - <strong>19:25</strong> odlot (międzynarodowy) → <strong>~18:25</strong> zamknięcie odprawy i bagażu (u większości linii 60 min przed) - <strong>16:00–16:30 być na TPE</strong> — ~3 h przed to 16:25; ⚠️ <strong>16:30 to już tylko 2 h 55</strong> - <strong>~15:45 najpóźniej wysiadka na Taoyuan HSR</strong> → A18 → terminal A12/A13 to ~15–20 min - <strong>Stąd liczcie pociąg wstecz</strong> — każdy wariant niżej ma już policzoną godzinę odjazdu 🎁 <strong>CIASTKA ANANASOWE — odbiór NA LOTNISKU, bez wjazdu do Tajpej.</strong> Przeniesione tu z 27 sie, żeby mieć większy bufor przed odlotem. <strong>Nie jedźcie po nie do miasta</strong> — <a href=\"https://www.google.com/maps/search/Chia+Te+Bakery+Taipei\" target=\"_blank\">Chia Te</a> prowadzi <strong>odbiór z przedzamówienia na Taoyuan</strong>: - <strong>Terminal 1 — parter (1F), stanowisko 宅配通</strong> - <strong>Terminal 2 — 3. piętro (3F), stanowisko 宅配通</strong> - <strong>Codziennie 07:00–23:00</strong>, <strong>bez kolejki</strong> (odbiór zamówienia, nie sprzedaż z lady) ⚠️ <strong>Trzeba zamówić z wyprzedzeniem przez ich stronę</strong> — to odbiór, nie sklep. Zróbcie to <strong>dziś wieczorem z hotelu</strong>, wybierając terminal zgodny z waszym odlotem. To zamienia „godzinny objazd przez Nanjing E Rd” w <strong>pięć minut po drodze do bramki</strong> — czyli dokładnie ten większy bufor, o który chodziło. *(SunnyHills — obecności na lotnisku <strong>nie udało się potwierdzić</strong>. Jeśli zależy wam na obu, to jedyny powód, żeby rozważyć wjazd do miasta; Taoyuan HSR → Taipei Main to ~20 min w jedną stronę.)*",
     "badges": [
       {
@@ -3364,132 +3364,77 @@ const DAYS = [
     "schedule": [
       {
         "time": "",
-        "activity": "<strong>▸▸ WARIANT A · z Tainanu</strong> — HSR ~1 h 20, ~NT$1 270 (szac.)",
+        "activity": "<strong>▸▸ JEDYNY WARIANT — wyjazd z TAICHUNG.</strong> Warianty z Tainanu, Kaohsiungu i Hualien usunięte: noc 28/29 sie spędzacie w Taichung.",
         "price": ""
       },
       {
-        "time": "7:30",
-        "activity": "🍜 <strong><a href=\"https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan\" target=\"_blank\">★★★☆☆ 🍜 Six Thousand Beef Soup</a></strong> — czw.–niedz., tylko rano, kończy gdy skończy się mięso. <strong>Dziś sobota ✓. Wstańcie na to</strong> — to jedna z tych rzeczy, których nie zjecie nigdzie indziej.",
-        "price": "~NT$150/os."
-      },
-      {
-        "time": "8:30",
-        "activity": "Ostatni obchód <strong><a href=\"https://www.google.com/maps/search/Guohua+Street+Tainan\" target=\"_blank\">★★★☆☆ 🍜 Guohua Street</a></strong> albo <strong><a href=\"https://www.google.com/maps/search/Du+Hsiao+Yueh+Tainan\" target=\"_blank\">★★★☆☆ 🍜 Du Hsiao Yueh</a></strong> (danzai noodles od 1895 r.).",
+        "time": "~8:00",
+        "activity": "🏨 <strong>Hotel: <a href=\"https://www.google.com/maps/search/%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8D%80%E5%BE%A9%E8%88%88%E8%B7%AF%E5%9B%9B%E6%AE%B5158%E8%99%9F\" target=\"_blank\">台中市東區復興路四段158號</a></strong> — leży <strong>kilka minut pieszo od 台中車站</strong>, więc bagaż możecie zostawić do południa i wrócić po niego bez straty czasu.",
         "price": ""
       },
       {
-        "time": "10:00",
-        "activity": "Wymeldowanie. Jeśli 28 sie coś nie weszło: <strong>Hayashi Department Store</strong>, <strong>Altar of Heaven</strong>, <strong>Great South Gate</strong>, <strong>Eternal Golden Castle</strong>.",
-        "price": ""
-      },
-      {
-        "time": "13:30",
-        "activity": "Taksówka do <strong>Tainan HSR</strong> (~30–40 min od centrum — ⚠️ <strong>nie tnijcie tego buforu</strong>, stacja jest 17 km za miastem).",
-        "price": ""
-      },
-      {
-        "time": "14:20",
-        "activity": "<strong>HSR Tainan → Taoyuan.</strong>",
-        "price": "~NT$1 270"
-      },
-      {
-        "time": "15:45",
-        "activity": "Taoyuan HSR → Airport MRT → <strong>TPE ~16:05.</strong> ✅ Najspokojniejszy z wariantów z pełnym porankiem.",
+        "time": "~8:30",
+        "activity": "🍜 <strong>Śniadanie po tajwańsku, nie hotelowe.</strong> <strong><a href=\"https://www.google.com/maps/search/Taichung+Second+Market\" target=\"_blank\">★★★☆☆ 🛍️🍜 Taichung Second Market</a></strong> — stuletnie stragany przy dworcu (中區), <strong>爌肉飯 i 米糕 na miejscu</strong>. To ta sama kategoria (mały lokal, danie regionalne), która dała 5/6 w Tainanie.",
         "price": ""
       },
       {
         "time": "",
-        "activity": "<strong>▸▸ WARIANT B · z Kaohsiungu</strong> — HSR ~1 h 30, ~NT$1 410 (szac.)",
+        "activity": "<em>Albo:</em> <strong><a href=\"https://www.google.com/maps/search/%E6%98%A5%E6%B0%B4%E5%A0%82+%E5%89%B5%E5%A7%8B%E5%BA%97+%E5%8F%B0%E4%B8%AD\" target=\"_blank\">★★★★☆ 🧋🍜 春水堂 創始店</a></strong> — otwarte <strong>od 8:00</strong>; jeśli nie weszło wczoraj na kolację, to jest ostatnia szansa na <strong>miejsce, w którym wymyślono bubble tea</strong>.",
         "price": ""
       },
       {
-        "time": "8:00",
-        "activity": "Śniadanie, wymeldowanie.",
-        "price": ""
-      },
-      {
-        "time": "8:45",
-        "activity": "<strong>⚖️ Wybierzcie JEDNO — na dwa nie ma czasu.</strong> Najkrótszy poranek ze wszystkich wariantów.",
+        "time": "~10:00",
+        "activity": "⚖️ <strong>To, czego NIE wybraliście wczoraj o 16:00.</strong> Wczoraj kaplica i teatr były alternatywą — <strong>dziś rano jest czas na tę drugą.</strong>",
         "price": ""
       },
       {
         "time": "",
-        "activity": "<strong>Opcja A ·</strong> <strong><a href=\"https://www.google.com/maps/search/Lotus+Pond+Kaohsiung\" target=\"_blank\">★★★★☆ 🌳🏯 Lotus Pond</a></strong> — Smoczo-tygrysie pagody, świątynie nad wodą. <strong>Leży przy Zuoying</strong>, czyli praktycznie po drodze na pociąg → <strong>najbezpieczniejsza opcja</strong>.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/Luce+Memorial+Chapel+Tunghai+University+Taichung\" target=\"_blank\">★★★★☆ 📸⛪ Luce Memorial Chapel / 路思義教堂</a></strong> — I.M. Pei, 東海大學, ~25 min taksówką. ⚠️ <strong>W sobotę wnętrze jest ZAMKNIĘTE</strong> — dziś zobaczycie tylko bryłę (kampus czynny 24 h). Jeśli wczoraj weszliście do środka, dziś nie ma po co wracać.",
         "price": "Bezpłatnie"
       },
       {
         "time": "",
-        "activity": "<strong>Opcja B ·</strong> <strong><a href=\"https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts\" target=\"_blank\">★★★★☆ 🏛️🧒🐞🦑 Kaohsiung Museum of Fine Arts (KMFA)</a></strong> — otwiera 9:30, ~1,5 h, potem MRT do Zuoying.",
+        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taichung+Theater\" target=\"_blank\">★★★★☆ 🎭📸 National Taichung Theater</a></strong> — Toyo Ito, 惠來路, ~15 min. <strong>Bez ograniczeń godzinowych</strong>, więc w sobotę to bezpieczniejszy wybór z tych dwóch.",
+        "price": "Bezpłatnie"
+      },
+      {
+        "time": "~12:00",
+        "activity": "🎁 <strong><a href=\"https://www.google.com/maps/search/Taichung+Sun+Cakes+Taiyang+Bing\" target=\"_blank\">★★★☆☆ ☕ Taichung Sun Cakes / 太陽餅</a></strong> — <strong>sygnaturowy wypiek Taichung</strong>, kupowany na koniec, bo świeży. Sklepy są w okolicy 台中車站, czyli przy hotelu. ⚠️ <strong>Na TPE te same rzeczy są wyraźnie droższe.</strong>",
         "price": ""
       },
       {
-        "time": "",
-        "activity": "<strong>Opcja C ·</strong> <strong><a href=\"https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung\" target=\"_blank\">★★★★☆ 🏯🏛️ Fo Guang Shan</a></strong> — ⚠️ <strong>~40 min za miastem.</strong> Buddha Museum zamknięte wt. (sob. OK), ale ta opcja <strong>wyklucza spokojny wyjazd</strong> — realna tylko, jeśli ruszacie 8:00 i wracacie prosto na pociąg.",
+        "time": "~13:00",
+        "activity": "Lunch przy dworcu, odbiór bagażu z hotelu.",
         "price": ""
       },
       {
-        "time": "12:30",
-        "activity": "Obiad przy Zuoying albo <strong><a href=\"https://www.google.com/maps/search/Neiwei+Market+Kaohsiung\" target=\"_blank\">★★★☆☆ 🛍️🍜 Neiwei Afternoon Market</a></strong>, jeśli zostaje czas.",
+        "time": "<strong>~14:15</strong>",
+        "activity": "🚉 <strong>Wyjście z hotelu → 台中車站 → TRA 2 przystanki do 新烏日</strong> (~10 min + przejście). ⚠️ <strong>Nie tnijcie tego</strong> — to jedyna przesiadka dnia.",
         "price": ""
       },
       {
-        "time": "13:45",
-        "activity": "<strong>HSR Zuoying → Taoyuan.</strong>",
-        "price": "~NT$1 410"
-      },
-      {
-        "time": "15:15",
-        "activity": "Taoyuan HSR → Airport MRT → <strong>TPE ~15:35.</strong>",
-        "price": ""
-      },
-      {
-        "time": "",
-        "activity": "<strong>▸▸ z TAICHUNG</strong> — HSR ~35 min, ~NT$540 · ✅ <strong>NAJPRAWDOPODOBNIEJSZY</strong> po decyzji z 27 sie (dzień 18 domyślnie kończy się w Taichung) i <strong>najluźniejszy margines na lot</strong>",
-        "price": ""
-      },
-      {
-        "time": "9:00",
-        "activity": "Wymeldowanie; bagaż do skrytek na HSR Taichung albo zostaje w hotelu.",
-        "price": ""
-      },
-      {
-        "time": "9:30",
-        "activity": "<strong>Realnie macie pół dnia</strong> — dobitka Taichung: <strong>NTMoFA</strong>, <strong>Rainbow Village</strong>, <strong>Paochueh Temple</strong>, <strong>Blueprint Cultural & Creative Park</strong>, <strong>Calligraphy Greenway</strong>, <strong>Taichung Second Market</strong>.",
-        "price": ""
-      },
-      {
-        "time": "13:30",
-        "activity": "Lunch, odbiór bagażu.",
-        "price": ""
-      },
-      {
-        "time": "15:00",
-        "activity": "<strong>HSR Taichung → Taoyuan</strong> (~35 min).",
+        "time": "<strong>15:00</strong>",
+        "activity": "🚄 <strong>HSR Taichung → Taoyuan</strong> (~35 min). ⚠️ <strong>Miejscówka zarezerwowana z wyprzedzeniem</strong> — sobota, koniec sierpnia.",
         "price": "~NT$540"
       },
       {
-        "time": "15:45",
-        "activity": "Taoyuan HSR → Airport MRT → <strong>TPE ~16:05.</strong>",
+        "time": "<strong>15:45</strong>",
+        "activity": "Taoyuan HSR → <strong>Airport MRT A18 → A12/A13</strong> (~15–20 min) → <strong>TPE ~16:05.</strong> ✅ To <strong>~3 h 20 przed odlotem</strong> — najluźniejszy margines ze wszystkich wariantów, jakie rozważaliśmy.",
         "price": ""
       },
       {
-        "time": "",
-        "activity": "<strong>▸▸ WARIANT D · z Hualien</strong> — TRA ~2 h 05 · ❌ najwęższy margines",
+        "time": "~16:15",
+        "activity": "🎁 <strong>Odbiór Chia Te na lotnisku</strong> — stanowisko 宅配通 (T1 parter / T2 3. piętro), 07:00–23:00, bez kolejki. <strong>Zamówione dzień wcześniej.</strong>",
         "price": ""
       },
       {
-        "time": "8:00",
-        "activity": "Wymeldowanie w Hualien.",
+        "time": "~18:25",
+        "activity": "Zamknięcie odprawy i bagażu (60 min przed).",
         "price": ""
       },
       {
-        "time": "12:30",
-        "activity": "<strong>TRA Hualien → Tajpej</strong> (~2 h 05), potem jeszcze Airport MRT z Taipei Main (~38 min). ⚠️ <strong>Bez zarezerwowanego miejsca w Puyuma/Taroko ten wariant zagraża lotowi</strong> — a te pociągi wyprzedają się. To najwęższy margines z czterech wariantów i główny powód, dla którego wariant D nie jest rekomendowany.",
-        "price": "~NT$440"
-      },
-      {
-        "time": "15:15",
-        "activity": "Taipei Main → <strong>TPE ~15:55.</strong>",
+        "time": "<strong>19:25</strong>",
+        "activity": "✈️ <strong>Odlot TPE.</strong>",
         "price": ""
       }
     ],
@@ -3498,9 +3443,9 @@ const DAYS = [
         "category": "Ostatnie zakupy",
         "items": [
           {
-            "name": "🎁 <strong>Ciastka ananasowe kupujecie 27 sie rano</strong> (<a href=\"aug-27-departure-south.md\" target=\"_blank\">Chia Te</a> + SunnyHills)",
+            "name": "🎁 <strong>Ciastka ananasowe: odbiór na lotnisku</strong> (Chia Te, zamówione dzień wcześniej",
             "url": "",
-            "desc": "<strong>nie zostawiajcie tego na dziś</strong>, bo dziś nie ma poranka w Tajpej. To jedna z realnych konsekwencji przeplanowania."
+            "desc": "patrz góra pliku). ⏭️ <em>Nieaktualne: dawniej kupowane 27 sie rano w Tajpej.</em> — <strong>nie zostawiajcie tego na dziś</strong>, bo dziś nie ma poranka w Tajpej. To jedna z realnych konsekwencji przeplanowania."
           },
           {
             "name": "🛍️ Na TPE jest strefa bezcłowa, ale ceny ciastek są tam wyraźnie wyższe niż w mieście.",
