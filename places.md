@@ -1804,21 +1804,21 @@ Skupisko świątyń w centrum starego miasta plus dwie galerie z przeglądu Lone
 1 godz. 35 min z Taipei pociągiem HSR. Miasto portowe, subtropikalny klimat, świetna sztuka w przestrzeni publicznej.
 
 ### Zabytki
-- [★★★★☆ 🌳🏯 Lotus Pond (Lianchihtan)](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung) — Jezioro o długości 1,4 km, świątynia za świątynią 📅 **Dzień 19 (29 sie)** · *blisko: Dzień 18 (28 sie)*
+- [★★★★☆ 🌳🏯 Lotus Pond (Lianchihtan)](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung) — Jezioro o długości 1,4 km, świątynia za świątynią 📅 **Dzień 19 (29 sie)**
   - [★★★★☆ 🏯📸 Dragon and Tiger Pagodas](https://www.google.com/maps/search/Dragon+Tiger+Pagodas+Kaohsiung) — Wejdź przez paszczę smoka, wyjdź przez tygrysią — na szczęście
   - ★★★☆☆ 🏯 Spring and Autumn Pavilions — Posąg smoka, przez którego się przechodzi
-- [★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung) — Największa na świecie szklana instalacja artystyczna; 4,000+ elementów ze szkła; pokazy świetlne o 10:00, 11:00, 13:00, 15:00, 18:00, 19:00, 20:00, 21:00; BEZPŁATNIE 📅 **Dzień 18 (28 sie)**
-- [★★★★☆ 🎨🚶🐞🦑 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung) — Portowe magazyny zamienione w galerie; murale na zewnątrz, dziwaczne rzeźby (bezpłatnie). **Wewnętrzne sale sztuki współczesnej i wystaw zmiennych** (fotografia, nowe media, design) to część biletowana — combo ~NT$99. 📅 **Dzień 18 (28 sie)**
+- [★★★★☆ 📸 Formosa Boulevard MRT Station / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung) — Największa na świecie szklana instalacja artystyczna; 4,000+ elementów ze szkła; pokazy świetlne o 10:00, 11:00, 13:00, 15:00, 18:00, 19:00, 20:00, 21:00; BEZPŁATNIE
+- [★★★★☆ 🎨🚶🐞🦑 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung) — Portowe magazyny zamienione w galerie; murale na zewnątrz, dziwaczne rzeźby (bezpłatnie). **Wewnętrzne sale sztuki współczesnej i wystaw zmiennych** (fotografia, nowe media, design) to część biletowana — combo ~NT$99.
 - [★★★★☆ 🏛️🎨📷 ALIEN Art Centre (金馬賓館當代美術館)](https://www.google.com/maps/search/Alien+Art+Centre+Kaohsiung) — Hostel wojskowy z 1967 r. przekształcony w poważne muzeum sztuki współczesnej z kuratorowanymi wystawami międzynarodowymi (rzeźba, instalacje immersyjne, fotografia); przy Silks Club w Gushan — pieszo od skupiska Pier-2 i promu na Cijin. wt.–niedz. 10:00–18:00, zamknięte w pon.; dorosły NT$250 / ulgowy NT$150 (bilet działa też jako kredyt w kawiarni).
-- [★★★☆☆ 🌳🚶 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung) — 5 min promem; Cijin Old Street (owoce morza!), Black Sand Beach, latarnia morska, Rainbow Church; wypożyczcie rowery i pojedźcie wzdłuż wyspy 📅 **Dzień 18 (28 sie)**
+- [★★★☆☆ 🌳🚶 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung) — 5 min promem; Cijin Old Street (owoce morza!), Black Sand Beach, latarnia morska, Rainbow Church; wypożyczcie rowery i pojedźcie wzdłuż wyspy
 - [★★★☆☆ 🏯🗼 British Consulate at Takow](https://www.google.com/maps/search/British+Consulate+Takow+Kaohsiung) — Czerwona cegła z 1865 r.; zachwycające widoki na zatokę Sizihwan
-- [★★★☆☆ 🌳🚡 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — Wieczorny rejs; nocą podświetlona 📅 *blisko: Dzień 18 (28 sie)*
-- [★★★☆☆ 🎭📸 Weiwuying (National Kaohsiung Center for the Arts)](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — Największe na świecie centrum sztuk scenicznych pod jednym dachem; warsztaty rodzinne 📅 *blisko: Dzień 18 (28 sie)*
-- [★★★★☆ 🏯🏛️ Fo Guang Shan Monastery & Buddha Museum](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — Największy klasztor buddyjski na Tajwanie; największy posąg Buddy; BEZPŁATNIE 📅 **Dzień 19 (29 sie)** · *blisko: Dzień 18 (28 sie)*
+- [★★★☆☆ 🌳🚡 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) — Wieczorny rejs; nocą podświetlona
+- [★★★☆☆ 🎭📸 Weiwuying (National Kaohsiung Center for the Arts)](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — Największe na świecie centrum sztuk scenicznych pod jednym dachem; warsztaty rodzinne
+- [★★★★☆ 🏯🏛️ Fo Guang Shan Monastery & Buddha Museum](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — Największy klasztor buddyjski na Tajwanie; największy posąg Buddy; BEZPŁATNIE 📅 **Dzień 19 (29 sie)**
 
 ### Nocne targi
-- [★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung) — Największy i najlepszy w Kaohsiung; 500+ stoisk; zamknięte w pon. i śr. 📅 **Dzień 18 (28 sie)**
-- [★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung) — Przyjazny turystom; mocny w owocach morza 📅 *blisko: Dzień 18 (28 sie)*
+- [★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung) — Największy i najlepszy w Kaohsiung; 500+ stoisk; zamknięte w pon. i śr.
+- [★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung) — Przyjazny turystom; mocny w owocach morza
 
 ---
 
@@ -1832,7 +1832,7 @@ Kilka pozycji łatwo wpasować w istniejącą trasę Lotus Pond/Pier-2/Cijin (Zu
 - [★★★☆☆ 🏯📸 Cihou Fort (Qihou Fort)](https://www.google.com/maps/search/Cihou+Fort+Kaohsiung) — Wzgórzowy fort Qing z 1875 r. na wyspie Cijin z rozległymi widokami na port i cieśninę; wstęp wolny, codziennie ~9:00–17:00. Łatwy dodatek do zaplanowanego przystanku na Cijin.
 
 #### C. Sztuka
-- [★★★★☆ 🏛️🧒🐞🦑 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts) — W dużym parku nad jeziorem, z osobnym skrzydłem Children's Museum of Art (własne godziny) obok głównych galerii (wt.–niedz. 9:30–17:30, zamknięte w pon.). Naprawdę nastawione na dzieci, nie tylko standardowe muzeum sztuki. 📅 **Dzień 19 (29 sie)** · *blisko: Dzień 18 (28 sie)*
+- [★★★★☆ 🏛️🧒🐞🦑 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts) — W dużym parku nad jeziorem, z osobnym skrzydłem Children's Museum of Art (własne godziny) obok głównych galerii (wt.–niedz. 9:30–17:30, zamknięte w pon.). Naprawdę nastawione na dzieci, nie tylko standardowe muzeum sztuki. 📅 **Dzień 19 (29 sie)**
 - [★★★☆☆ 🎭📸 Kaohsiung Music Center](https://www.google.com/maps/search/Kaohsiung+Music+Center) — Efektowny falowany budynek nad portem (2021), pięknie podświetlony nocą; przez cały 2026 r. koncerty pop/K-pop/jazz. Wart spaceru ze zdjęciami nawet bez koncertu — naturalne przedłużenie wieczoru przy Love River/Pier-2.
 - [★★☆☆☆ 📸 Kaohsiung Exhibition Center (KEC)](https://www.google.com/maps/search/Kaohsiung+Exhibition+Center) — Centrum kongresowe projektu Philipa Coxa blisko 85 Sky Tower; nowoczesna ikona architektury, efektowna w nocnej iluminacji. Przystanek na zdjęcie, chyba że trwają targi.
 
@@ -1909,7 +1909,7 @@ Luki wychwycone po przeglądzie Lonely Planet — na czele z National Science & 
 
 #### Historia i dziedzictwo
 - [★★★☆☆ 🏛️🚶 Zuoying Military Dependents' Village (Cultural Park)](https://www.google.com/maps/search/Zuoying+Military+Dependents+Village+Kaohsiung) — Odrestaurowana osada marynarki (juancun) zamieniona w park kulturowy: domy opowiadające historię odwrotu KMT i wysiedleń, ekspozycje o obecności amerykańskiej, galeria poetów z Zuoying — warstwa historyczna, której nie pokrywa wpis o Zuoying Old City Wall. Wt.–niedz. ~10:00–18:00 (część sal 11:00–17:00), zamknięte w pon.; bezpłatnie/tanio. Spacerowy dodatek do dnia Lotus Pond / Old City.
-- [★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung) — Najstarsza świątynia Mazu na Cijin (1673), zabytek pod ochroną krajową przy Cijin Old Street; najbardziej historyczny punkt na wyspie. Bezpłatnie, codziennie w ciągu dnia. Zero nadkładania drogi w dniu promu na Cijin. 📅 **Dzień 18 (28 sie)**
+- [★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung) — Najstarsza świątynia Mazu na Cijin (1673), zabytek pod ochroną krajową przy Cijin Old Street; najbardziej historyczny punkt na wyspie. Bezpłatnie, codziennie w ciągu dnia. Zero nadkładania drogi w dniu promu na Cijin.
 
 #### Muzea
 - [★★★★☆ 🔬🧒 National Science & Technology Museum](https://www.google.com/maps/search/National+Science+and+Technology+Museum+Kaohsiung) — Ogromne interaktywne muzeum STEM z kopułą IMAX o każdej godzinie, punkt trzeciego poziomu wskazany w skillu priorities (do tej pory wspominany tylko pośrednio). Wt.–niedz. 9:00–17:00 (do 18:00 w czasie letnich wakacji szkolnych), zamknięte w pon.; dorosły NT$100 / uczeń i dziecko ulgowo ~NT$70 / do 6 lat bezpłatnie (3 dorosłych pełny bilet, 15-latek jako uczeń, 9- i 11-latek ulgowo); IMAX i wystawy czasowe dodatkowo. ⚠️ Zamknięte 14 kwietnia–31 maja 2026 z powodu remontu — otwarcie przed sierpniem; potwierdź. Sanmin — wpisuje się w pas KMFA / muzeum Hakka. ⚠️ Obiekt na pół dnia, ciasno w ~1,5-dniowym okienku w Kaohsiung.
