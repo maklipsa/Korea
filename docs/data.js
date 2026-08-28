@@ -3399,12 +3399,17 @@ const DAYS = [
       },
       {
         "time": "",
-        "activity": "<strong>Opcja C · bez dojazdów — poranek pieszo.</strong> Second Market → kawa → bagaże. <em>(太陽餅 możecie kupić w Taipei Main przy odbiorze bagaży — patrz 15:15 — albo tutaj na 自由路二段, jeśli chcecie porównać kilka piekarni.)</em> Wszystko w zasięgu spaceru od hotelu, <strong>zero ryzyka transportowego w dniu wylotu</strong>, i najwięcej luzu po 18 dniach w drodze.",
+        "activity": "<strong>Opcja C · bez dojazdów — poranek pieszo.</strong> Second Market → kawa → bagaże. <em>(太陽餅 kupujecie o 11:45 na 自由路二段 — filia w Taipei Main okazała się zamknięta na stałe.)</em> Wszystko w zasięgu spaceru od hotelu, <strong>zero ryzyka transportowego w dniu wylotu</strong>, i najwięcej luzu po 18 dniach w drodze.",
         "price": ""
       },
       {
         "time": "",
         "activity": "💡 <strong>Jak wybrać:</strong> <strong>A</strong> to jedyna opcja z realną treścią — pełne muzeum, nowe, bezpłatne, z wystawą otwieraną tego dnia; kosztuje ~1 h na dojazdy. <strong>B</strong> to ta sama kategoria co odpuszczona kaplica (architektura z zewnątrz i w środku), ale o połowę bliżej. <strong>C</strong> jeśli priorytetem jest spokój przed lotem.",
+        "price": ""
+      },
+      {
+        "time": "~11:45",
+        "activity": "🎁 <strong>太陽餅 — kupujemy w TAICHUNG, nie w Taipei.</strong> <strong><a href=\"https://www.google.com/maps/search/%E9%99%B3%E5%85%81%E5%AF%B6%E6%B3%89+%E8%87%AA%E7%94%B1%E7%B8%BD%E5%BA%97+%E5%8F%B0%E4%B8%AD%E5%B8%82%E4%B8%AD%E5%8D%80%E8%87%AA%E7%94%B1%E8%B7%AF%E4%BA%8C%E6%AE%B536%E8%99%9F\" target=\"_blank\">陳允寶泉, 自由總店, 自由路二段36號</a></strong> ☎ 04-2222-2257, <strong>9:00–21:30</strong> (zamkn. w śr., sob. OK) — stuletnia piekarnia, <strong>~10 min pieszo od 台中車站</strong>, mniejsze i mniej słodkie ciastka, ~NT$28/szt. Cała <strong><a href=\"https://www.google.com/maps/search/%E8%87%AA%E7%94%B1%E8%B7%AF%E4%BA%8C%E6%AE%B5+%E5%A4%AA%E9%99%BD%E9%A4%85%E8%A1%97+%E5%8F%B0%E4%B8%AD%E5%B8%82%E4%B8%AD%E5%8D%80\" target=\"_blank\">自由路二段</a></strong> to ulica 太陽餅 (阿明師老店 8:00–22:30, 23號 9:30–21:00), więc można porównać kilka. 💡 Wybierzcie na mapie po ocenie.",
         "price": ""
       },
       {
@@ -3428,8 +3433,8 @@ const DAYS = [
         "price": ""
       },
       {
-        "time": "~15:15",
-        "activity": "🎁 <strong>太陽餅 BEZ nadkładania drogi:</strong> <strong><a href=\"https://www.google.com/maps/search/%E9%99%B3%E5%85%81%E5%AF%B6%E6%B3%89+%E5%BE%AE%E9%A2%A8%E5%8F%B0%E5%8C%97%E8%BB%8A%E7%AB%99+%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%8C%97%E5%B9%B3%E8%A5%BF%E8%B7%AF3%E8%99%9F\" target=\"_blank\">陳允寶泉, 微風台北車站 (Breeze), 北平西路3號 1F</a></strong>, <strong>10:00–22:00</strong> — <strong>ta sama ulica co przechowalnia</strong>. ✅ <strong>Dzięki temu 太陽餅 znikają z porannego planu w Taichung</strong> i poranek robi się luźniejszy.",
+        "time": "",
+        "activity": "🚫 <strong>Filia 陳允寶泉 w 微風台北車站 ZAMKNIĘTA NA STAŁE</strong> — miała być wygodnym miejscem na 太陽餅 przy odbiorze bagaży. Wziąłem ją z listy oddziałów na stronie trzeciej; <strong>lista była nieaktualna</strong>. ⚠️ <strong>Dlatego 太陽餅 wracają do porannego planu w Taichung.</strong>",
         "price": ""
       },
       {
