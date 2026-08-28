@@ -1,57 +1,44 @@
-# Aug 28 (Fri) — Tainan (Anping) → Taichung *(albo Kaohsiung)*
-> Badges: pass:Przy opcji Taichung HSR Pass się NIE opłaca — kupcie pojedyncze; closed:piątek — NMNS, NTMoFA, Ruifeng i Fengjia otwarte
+# Aug 28 (Fri) — Tainan rano → Taichung
+> Badges: pass:Bez HSR Pass — przy tej trasie się nie opłaca, kupcie pojedyncze bilety; closed:piątek — NTMoFA i Taichung Theater otwarte
 
-⭐⭐ **DOMYŚLNIE: Tainan rano (Anping) → TAICHUNG po południu.** Kaohsiung zostaje jako **opcja 2**, do wzięcia tylko wtedy, gdy rano okaże się normalnie czynny.
+⭐ **Jeden plan: zupa wołowa w Tainanie → wcześniejszy HSR → Taichung na całe popołudnie.** Kaohsiung odpadł (28 sie) — miasto odwoływało pracę cztery dni z rzędu po powodzi, a **dzień lotu z Zuoying jest o godzinę dłuższy i ~NT$870/os. droższy** niż z Taichung.
 
-**Dlaczego Taichung wygrał:** jutro macie samolot o 19:25 i **to jedyny odcinek wyjazdu, którego opóźnienie kosztuje lot**. Z Taichung do Taoyuan to **~35 min i ~NT$540**; z Zuoying **1 h 30 i ~NT$1 410**. Do tego Taichung **nie miał powodzi** (Kaohsiung odwoływał pracę 23, 24, 25 i 26 sie), jest **tańszy w sumie**, i odblokowuje **NTMoFA (🐞🦑)** — punkt, który inaczej przepadnie na cały wyjazd.
+**Dlaczego nie robimy pełnego poranka w Anping:** forty (Zeelandia, Eternal Golden Castle) to ta sama kategoria, co wczorajszy klaster świątynny — **3,5/6, „dobre, ale nic nadzwyczajnego”** — a Anping Old Street to kategoria z **siedmioma nietrafieniami na siedem**. Cały wypad to ~2,5 h z dojazdami. **Zostaje tylko to, co naprawdę wyróżnia Tainan: zupa wołowa.**
 
-🔴 **Rano dwa telefony rozstrzygają, czy jednak Kaohsiung:** **Pier-2 ☎ (07) 521-4899** (pt. 10:00–20:00 zweryfikowane; **spytajcie, co aktualnie wisi**) oraz **KMFA** (strona nie oddała ani godzin, ani komunikatów, a dzielnica 美術館/內惟 zalała się 25 sie).
+🍜 **Po zupę warto wstać.** Tainańska zupa wołowa to danie, którego nie zjecie nigdzie indziej — świeża wołowina, tylko rano, a Six Thousand działa **czw.–niedz. i kończy, gdy skończy się mięso**. To dokładnie ta kategoria, która wczoraj dała **5/6** (mała knajpka, danie regionalne), podczas gdy nocny targ był „dobry, ale mało tajwański”.
 
-🧳 **Zmiana bazy z bagażem:** wymeldowanie w Tainanie rano, bagaż do hotelu w nowym mieście **przed** zwiedzaniem.
+🌳 **Jedyna rzecz z Anping, której szkoda: Anping Treehouse** (★★★★☆) — magazyn pochłonięty przez korzenie banianu, czyli połączenie dziedzictwa przemysłowego z przyrodą, które dało już dwie piątki (Shifen Waterfall, Gold Museum). **Jeśli rano jest sucho i wszyscy mają siłę — dobierzcie sam Treehouse, bez fortów.**
 
-🌀 **Pogoda:** ulewy idą dziś na **północ i góry środkowe**. ⚠️ Taichung to nizina, nie góry — ostrzeżenie dotyczy Nantou, nie miasta. W Kaohsiungu problemem jest nasiąknięty grunt, a **prom na Cijin może nie pływać**.
+🌀 **Pogoda popycha w tę samą stronę:** ulewy idą dziś na północ i góry środkowe. Anping jest w całości pod gołym niebem, NTMoFA pod dachem. Taichung to nizina, nie góry — ostrzeżenie dotyczy Nantou.
+
+🧳 **Wymeldowanie w Tainanie rano, bagaż do hotelu w Taichung przed zwiedzaniem.**
 
 ## Route Map
 
-**Trasa domyślna (Taichung):** hotel w Tainanie → Anping (Fort Zeelandia → Treehouse → Eternal Golden Castle) → HSR → Taichung → NTMoFA / NMNS (Calligraphy Greenway) → National Taichung Theater → Miyahara → targ przy hotelu. **Opcja 2 (Kaohsiung):** … → HSR Zuoying → Pier-2 → prom na Cijin → Dome of Light → targ.
+**Trasa:** hotel w Tainanie → Six Thousand Beef Soup → *(opcjonalnie Anping Treehouse)* → Tainan HSR *(po drodze bezpłatny teren Chimei)* → Taichung → NTMoFA → National Taichung Theater → Miyahara / Zhongxin Market → targ przy hotelu.
 
 ## Schedule
 
 | Time | Activity | Price |
 |------|----------|-------|
-| | **▸▸ WSPÓLNY PORANEK — Tainan, w obu opcjach** | |
 | 7:30 | 🍜 **[★★★☆☆ 🍜 Six Thousand Beef Soup](https://www.google.com/maps/search/Six+Thousand+Beef+Soup+Tainan)** — ⚠️ **tylko czw.–niedz. i tylko rano**, kończy gdy skończy się mięso (bywa przed 9:00). Dziś piątek ✓. Świeża wołowina zalewana wrzącym rosołem przy stoliku — **tego nie zjecie nigdzie indziej. Wstańcie na to.** | ~NT$150/os. |
-| 9:00 | **Anping rano, bez presji zamknięcia:** **[★★★☆☆ 🏯 Fort Zeelandia (Anping Old Fort)](https://www.google.com/maps/search/Fort+Zeelandia+Tainan)**, **[★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan)**, **[★★★★☆ 🏯📸 Eternal Golden Castle](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan)** (gwiaździsty fort Qing z 1874, armaty, fosa, most zwodzony). ✅ **To jest przewaga tego wariantu — Anping dostaje poranek i wchodzi trzeci fort.** | NT$70 / połowa |
-| 12:00 | Wymeldowanie w Tainanie, bagaże ze sobą. **Tu dzień się rozwidla.** |  |
-| | **▸▸ OPCJA 1 · TAICHUNG** — HSR ~40–50 min, ~NT$650 · nocleg: **Taichung** · ⭐⭐ **DOMYŚLNA** | |
-|  | **Dlaczego domyślnie Taichung:** ✅ **najspokojniejszy dzień lotu** — jutro do Taoyuan tylko **~35 min (~NT$540)** zamiast 1 h 30 z Zuoying; ✅ **taniej w sumie** (~NT$1 190/os. za oba odcinki wobec ~NT$1 550); ✅ **bez powodzi** — Taichung nie odwoływał pracy ani razu, Kaohsiung robił to **23, 24, 25 i 26 sie**; ✅ odblokowuje **NTMoFA (🐞🦑)** — punkt, którego inaczej nie zobaczymy w ogóle. ⚠️ **NMNS wypadł z planu (28 sie)** — głównie wypchane zwierzęta, Jadzia sama zdjęła swój znacznik. **Kotwicą popołudnia jest NTMoFA i ma na siebie pełne trzy godziny.** ⚠️ Przy tej opcji **HSR Pass przestaje się opłacać** — kupujcie pojedyncze bilety. |  |
-| ~13:15 | Przyjazd **HSR Taichung (Wuri)** → dojazd do centrum, bagaż do hotelu. |  |
+|  | ⏭️ **Forty w Anping odpuszczone** — **[★★★☆☆ 🏯 Fort Zeelandia (Anping Old Fort)](https://www.google.com/maps/search/Fort+Zeelandia+Tainan)** i **[★★★★☆ 🏯📸 Eternal Golden Castle (Erkunshen Fort)](https://www.google.com/maps/search/Eternal+Golden+Castle+Tainan)**: ta sama kategoria co wczorajsze świątynie (3,5/6), a kosztuje ~2,5 h z dojazdami. |  |
+| ~9:00 | *Opcjonalnie, jeśli sucho i jest siła:* **[★★★★☆ 📸🌳 Anping Treehouse](https://www.google.com/maps/search/Anping+Treehouse+Tainan)** — magazyn pochłonięty przez baniany. **Sam Treehouse, bez fortów.** | ~NT$50 |
+| ~10:30 | Wymeldowanie, taksówka na **Tainan HSR** (~30–40 min, stacja 17 km za miastem — nie tnijcie buforu). 🏛️ **Po drodze bezpłatny teren Chimei Museum** (fontanna Apolla — kopia wersalskiej, most Olimpijczyków): **shuttle H31 z HSR, ~15 min, bezpłatny za okazaniem biletu HSR**, 30–45 min. Samo muzeum odpuszczamy — wypchane zwierzęta i sztuka europejska. |  |
+| ~11:30 | **HSR Tainan → Taichung** (~40–50 min). ✅ Wcześniejszy wyjazd = całe popołudnie w Taichung zamiast wyścigu do 17:00. | ~NT$650 |
+| ~12:30 | Przyjazd **HSR Taichung (Wuri)** → dojazd do centrum, bagaż do hotelu, lunch. |  |
 | ~14:00 | **[★★★★☆ 🏛️🐞🦑 National Taiwan Museum of Fine Arts (NTMoFA)](https://www.google.com/maps/search/National+Taiwan+Museum+of+Fine+Arts+Taichung)** (🐞 Jadzia, 🦑 Szymon) — jedyne muzeum sztuk pięknych rangi narodowej na Tajwanie, 24 sale, **bezpłatne i klimatyzowane**. ⏱️ **Zamyka 17:00, więc macie pełne trzy godziny — bez biegania.** ⚠️ **Sprawdźcie, co aktualnie wisi** (po Taiwan Design Museum 1/6) **i czy nie ma osobno biletowanej wystawy specjalnej** — dziś w Tainanie właśnie taka (Mucha) okazała się najlepszą częścią muzeum. | Bezpłatnie |
 |  | ⏭️ **Pominięte — [★★★★★ 🏛️🧒 National Museum of Natural Science](https://www.google.com/maps/search/National+Museum+of+Natural+Science+Taichung)** wypada z planu (28 sie). **Głównie wypchane zwierzęta**, a tę kategorię odpuszczamy — jest w każdym europejskim mieście. Jadzia sama zdjęła stąd swój znacznik 🐞 po obejrzeniu zdjęć. ✅ **Efekt uboczny: NTMoFA dostaje pełne trzy godziny zamiast wyścigu dwóch muzeów do 17:00.** |  |
 | ~17:00 | **[★★★★☆ 🎭📸 National Taichung Theater](https://www.google.com/maps/search/National+Taichung+Theater)** — Toyo Ito (Pritzker), falujący beton, **zwiedzanie bezpłatne**, ogród na dachu. Architektura dowozi na tym wyjeździe: Tao Zhu Yin Yuan dostało **6/6** jako 10-minutowy, bezpłatny przystanek. | Bezpłatnie |
 | ~18:00 | **[★★★★☆ ☕📸 Miyahara Ice Cream Shop](https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung)** — klinika okulistyczna z lat 40., wnętrze jak z Harry'ego Pottera, **sam budynek JEST atrakcją**. Kolejka długa → zapas: **[★★★☆☆ ☕ Fourth Credit Union](https://www.google.com/maps/search/Fourth+Credit+Union+Taichung)**, te same lody, ta sama firma. |  |
 |  | *Alternatywnie zamiast Miyahara:* **[★★★☆☆ 🚶🎨 Zhongxin Market](https://www.google.com/maps/search/Zhongxin+Market+Taichung)** — lata 60., naprzeciw NTMoFA, dziś labirynt pracowni i niezależnych kawiarni. **~14:00–22:00, bezpłatnie.** |  |
 | ~19:30 | 🏮 **Targ NAJBLIŻSZY hotelowi, nie najsłynniejszy.** Fengjia jest największy powierzchniowo i działa do ~2:00, ale po werdykcie Raohe (3/6) wobec Ningxia (5,5/6) **domyślnie bierzemy ten przy noclegu**, i idziemy **18:00–19:00**, zanim najlepsze budki się wyprzedadzą. | ~NT$200–400/os. |
-| | **▸▸ OPCJA 2 · KAOHSIUNG** — HSR ~30 min (~NT$140) · nocleg: **Kaohsiung** | |
-|  | **Bierzcie tę opcję, jeśli rano Kaohsiung jest normalnie czynny** (nie odwołuje pracy) **i Pier-2 potwierdzi sensowny program.** Zyskujecie **Pier-2 (🐞🦑) i KMFA (🐞🦑)** — Pier-2 to dziedzictwo przemysłowe + sztuka współczesna, czyli połączenie, które dało na tym wyjeździe dwie piątki. Płacicie za to **dłuższym i droższym dniem lotu** (Zuoying → Taoyuan 1 h 30, ~NT$1 410) i wjazdem do miasta po czterech dniach podtopień. |  |
-| 13:30 | **[★★★★☆ 🎨🚶🐞🦑 Pier-2 Art Center](https://www.google.com/maps/search/Pier-2+Art+Center+Kaohsiung)** — portowe magazyny zamienione w największy kompleks sztuki współczesnej na południu: galerie, instalacje plenerowe, murale, tor kolejki. Wysoko na naszej liście (sztuka współczesna = górna półka). |  |
-| 15:30 | Prom na **[★★★☆☆ 🌳🚶 Cijin Island](https://www.google.com/maps/search/Cijin+Island+Kaohsiung)** — 5 min promem; Cijin Old Street (owoce morza), Black Sand Beach, latarnia, **[★★★☆☆ 🏯 Cijin Tianhou Temple](https://www.google.com/maps/search/Cijin+Tianhou+Temple+Kaohsiung)** (najstarsza świątynia Mazu na wyspie, 1673). Sam prom jest atrakcją. | Prom ~NT$40 |
-| 17:30 | Powrót; **[★★★★☆ 📸 Formosa Boulevard MRT / Dome of Light](https://www.google.com/maps/search/Formosa+Boulevard+MRT+Kaohsiung)** — największa szklana instalacja witrażowa na świecie, w stacji metra. 5 minut, zero kosztu, mocne zdjęcie. | Bezpłatnie |
-| 19:00 | **[★★★★☆ 🏮 Ruifeng Night Market](https://www.google.com/maps/search/Ruifeng+Night+Market+Kaohsiung)** — ⚠️ **zamknięty pon. i śr.; dziś piątek ✓.** Największy i najbardziej lokalny w Kaohsiungu, 500+ stoisk. | ~NT$200–400/os. |
 
 ---
 
 ## Also Nearby
 
-### Kaohsiung — bench (wariant B)
-- [★★★★☆ 🏛️🧒🐞🦑 Kaohsiung Museum of Fine Arts (KMFA)](https://www.google.com/maps/search/Kaohsiung+Museum+of+Fine+Arts) — Główne muzeum sztuki miasta, w parku; mocny dział dla dzieci.
-- [★★★★☆ 🎭 Weiwuying (National Kaohsiung Center for the Arts)](https://www.google.com/maps/search/Weiwuying+Kaohsiung) — Największe centrum sztuk scenicznych pod jednym dachem na świecie; falujący dach do zwiedzania z zewnątrz bezpłatnie.
-- [★★★★☆ 🌳🏯 Lotus Pond](https://www.google.com/maps/search/Lotus+Pond+Kaohsiung) — Smoczo-tygrysie pagody, świątynie nad wodą. **Blisko Zuoying**, więc naturalnie wchodzi w poranek [29 sie](aug-29-return-fly-home.md).
-- [★★★★☆ 🏯🏛️ Fo Guang Shan Monastery & Buddha Museum](https://www.google.com/maps/search/Fo+Guang+Shan+Buddha+Museum+Kaohsiung) — Największy klasztor buddyjski na Tajwanie. ⚠️ Buddha Museum **zamknięte we wt.** (pt./sob. OK), ~40 min za miastem.
-- [★★★☆☆ 🌳🚶 Love River](https://www.google.com/maps/search/Love+River+Kaohsiung) wieczorem · [★★★☆☆ 🏮 Liuhe Night Market](https://www.google.com/maps/search/Liuhe+Night+Market+Kaohsiung) (bardziej turystyczny niż Ruifeng)
-- Karta miasta: [cards/kaohsiung.md](../cards/kaohsiung.md)
-
-### Tainan — bench (warianty A/B)
+### Tainan — bench (gdyby poranek się wydłużył)
 - [★★★☆☆ 🍜 A Cun Beef Soup 阿村牛肉湯](https://www.google.com/maps/search/A+Cun+Beef+Soup+Tainan) — Druga wielka zupa wołowa Tainanu, wyróżniona w Michelin; zapas, jeśli w Six Thousand skończy się mięso.
 - [★★★☆☆ 🍜 Yi Wei Pin at Yongle Market](https://www.google.com/maps/search/Yi+Wei+Pin+Yongle+Market+Tainan) — Michelin Bib Gourmand; bowl rice cake + zupa z ryby mlecznej.
 - [★★★☆☆ 🏯 Koxinga Shrine](https://www.google.com/maps/search/Koxinga+Shrine+Tainan) — Chram bohatera, który wypędził Holendrów.

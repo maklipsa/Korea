@@ -93,7 +93,7 @@ Tajwan: 21-29 sie (8 nocy — **Taipei 6 nocy (21-26)** + 2 noce na południu (2
 | 15 | 25 sie (wt) | Taipei Dzień 3 — **NPM** + Shung Ye → Taiwan Design Museum + Songshan → diabelski młyn o zachodzie → Shilin Night Market (⏭️ planetarium odpadło) | [aug-25-taipei-day3.md](days/aug-25-taipei-day3.md) |
 | 16 | 26 sie (śr) | Taipei Dzień 4: Maokong Gondola + Zhinan Temple → **Fubon Art Museum** → Elephant Mountain → **taras Taipei 101** → Raohe | [aug-26-maokong-xinyi.md](days/aug-26-maokong-xinyi.md) |
 | 17 | 27 sie (czw) | ⚠️ **4 WARIANTY** — wymeldowanie z Tajpej + Chia Te → Taichung / Tainan / Hualien | [aug-27-departure-south.md](days/aug-27-departure-south.md) |
-| 18 | 28 sie (pt) | Tainan rano (Anping, Six Thousand Beef Soup) → **Taichung** (NTMoFA 🐞🦑 + NMNS 🐞 + Toyo Ito Theater) · opcja 2: Kaohsiung (Pier-2, Cijin) | [aug-28-south-day2.md](days/aug-28-south-day2.md) |
+| 18 | 28 sie (pt) | Tainan rano (zupa wołowa) → **Taichung**: NTMoFA 🐞🦑 + Toyo Ito Theater + Miyahara · ⏭️ bez Anping, bez Kaohsiungu | [aug-28-south-day2.md](days/aug-28-south-day2.md) |
 | 19 | 29 sie (sob) | Powrót z południa (wysiadka **Taoyuan HSR**, nie Tajpej) → lot do domu (odlot 19:25) | [aug-29-return-fly-home.md](days/aug-29-return-fly-home.md) |
 
 ---
