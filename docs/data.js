@@ -3383,19 +3383,29 @@ const DAYS = [
         "price": ""
       },
       {
-        "time": "~10:00",
-        "activity": "<strong>Punkt poranka — do wyboru.</strong> Kaplica odpuszczona (niżej), więc zostaje teatr albo dojazd do 綠美圖.",
+        "time": "~9:15",
+        "activity": "<strong>⚖️ PORANEK — wybierzcie jedno. Wszystkie trzy kończą się przed 13:00, więc wylot jest bezpieczny w każdym wariancie.</strong>",
         "price": ""
       },
       {
         "time": "",
-        "activity": "⏭️ <strong>Luce Memorial Chapel odpuszczona.</strong> Świetny budynek, ale <strong>w sobotę wnętrze zamknięte</strong>, a sama bryła nie jest warta ~50 min w obie strony do Tunghai w dniu wylotu.",
-        "price": ""
-      },
-      {
-        "time": "",
-        "activity": "<strong><a href=\"https://www.google.com/maps/search/National+Taichung+Theater\" target=\"_blank\">★★★★☆ 🎭📸 National Taichung Theater</a></strong> — Toyo Ito, 惠來路, ~15 min. <strong>Bez ograniczeń godzinowych</strong>, więc w sobotę to bezpieczniejszy wybór z tych dwóch.",
+        "activity": "<strong>Opcja A · <a href=\"https://www.google.com/maps/search/%E8%87%BA%E4%B8%AD%E7%B6%A0%E7%BE%8E%E5%9C%96+%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80%E4%B8%AD%E7%A7%91%E8%B7%AF2201%E8%99%9F\" target=\"_blank\">臺中綠美圖 / Taichung Green Museumbrary</a></strong> — <strong>中科路2201號</strong>, ~25–30 min taksówką w jedną stronę. <strong>SANAA</strong> (Sejima + Nishizawa), otwarte <strong>13 grudnia 2025</strong>, muzeum sztuki + biblioteka w jednym. <strong>Sobota 9:00–20:00</strong> ✓ (zweryfikowane na ich stronie), <strong>wstęp bezpłatny</strong>. <strong>Cztery potwierdzone wystawy</strong>, w tym <em>Swinging A-Go-Go</em> — <strong>otwierana dokładnie 29 sie, czyli tego dnia</strong> — i <em>Horizon Ablaze</em>, która kończy się 30 sie. ⚠️ <strong>文化之森 i kładka na 2. piętrze zamykane przy deszczu.</strong> ⏱️ Wyjście ~9:15, muzeum 9:45–11:45, powrót ~12:15.",
         "price": "Bezpłatnie"
+      },
+      {
+        "time": "",
+        "activity": "<strong>Opcja B · <a href=\"https://www.google.com/maps/search/National+Taichung+Theater\" target=\"_blank\">★★★★☆ 🎭📸 National Taichung Theater</a></strong> — <strong>Toyo Ito</strong>, 惠來路, <strong>~15 min</strong> w jedną stronę, czyli <strong>o połowę bliżej niż 綠美圖</strong>. Falujący beton, ogród na dachu, zwiedzanie bezpłatne, bez ograniczeń godzinowych. ⏱️ Wyjście ~9:45, teatr 10:15–11:30, powrót ~11:50.",
+        "price": "Bezpłatnie"
+      },
+      {
+        "time": "",
+        "activity": "<strong>Opcja C · bez dojazdów — poranek pieszo.</strong> Second Market → <strong>自由路二段 po 太陽餅</strong> → kawa → bagaże. Wszystko w zasięgu spaceru od hotelu, <strong>zero ryzyka transportowego w dniu wylotu</strong>, i najwięcej luzu po 18 dniach w drodze.",
+        "price": ""
+      },
+      {
+        "time": "",
+        "activity": "💡 <strong>Jak wybrać:</strong> <strong>A</strong> to jedyna opcja z realną treścią — pełne muzeum, nowe, bezpłatne, z wystawą otwieraną tego dnia; kosztuje ~1 h na dojazdy. <strong>B</strong> to ta sama kategoria co odpuszczona kaplica (architektura z zewnątrz i w środku), ale o połowę bliżej. <strong>C</strong> jeśli priorytetem jest spokój przed lotem.",
+        "price": ""
       },
       {
         "time": "~12:00",
