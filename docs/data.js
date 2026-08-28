@@ -3280,7 +3280,7 @@ const DAYS = [
       },
       {
         "time": "~19:00",
-        "activity": "✅ <strong>Widziane — 5/6.</strong> <strong><a href=\"https://www.google.com/maps/search/%E9%98%BF%E8%93%AE%E7%B1%B3%E7%B2%89%E6%B9%AF+%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8D%80%E5%A4%A7%E5%8B%87%E8%A1%9714%E8%99%9F\" target=\"_blank\">★★★★☆ 🍜 阿蓮米粉湯 (A-Lien Rice Noodle Soup)</a></strong> — 大勇街14號, za dworcem, <strong>kilka minut od hotelu</strong>. 60-letni rodzinny lokal. Zupa ostrygowa i ryż z duszoną wołowiną, oba bardzo dobre. <strong>Byliśmy jedynymi turystami, rachunek NT$185 łącznie.</strong> ⏭️ Zamiast polecanego 夜間部爌肉飯 — i lepiej na tym wyszliśmy.",
+        "activity": "✅ <strong>Widziane — 5/6.</strong> <strong><a href=\"https://www.google.com/maps/search/%E9%98%BF%E8%93%AE%E7%B1%B3%E7%B2%89%E6%B9%AF+%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8D%80%E5%A4%A7%E5%8B%87%E8%A1%9714%E8%99%9F\" target=\"_blank\">★★★★☆ 🍜 阿蓮米粉湯 (A-Lien Rice Noodle Soup)</a></strong> — 大勇街14號, za dworcem, <strong>kilka minut od hotelu</strong>. 60-letni rodzinny lokal. Zupa ostrygowa i ryż z duszoną wołowiną, oba bardzo dobre. <strong>Byliśmy jedynymi turystami, rachunek NT$185 łącznie.</strong> ⏭️ Zamiast polecanego 夜間部爌肉飯 — i lepiej na tym wyszliśmy. <strong>Znalezione na Google Maps</strong>, nie w przewodniku.",
         "price": "NT$185 za całość"
       },
       {

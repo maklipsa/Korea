@@ -37,7 +37,11 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 | 3,5/6 | Chun Shui Tang | „tu wymyślono bubble tea” |
 | **3/6** | Raohe | pięć budek z wygasłym Michelinem |
 
-**Wszystkie piątki to małe, tanie, lokalne knajpki. Wszystkie wyniki poniżej 4 to pozycje z przewodnika.** Reguła na przyszłe wyjazdy: **przy jedzeniu nie szukajcie rekomendacji — szukajcie lokalu blisko noclegu, pełnego miejscowych, z krótką kartą.**
+**Wszystkie piątki to małe, tanie, lokalne knajpki. Wszystkie wyniki poniżej 4 to pozycje z przewodnika albo z bloga.**
+
+⚠️ **Ale to NIE jest reguła „nie researchujcie, po prostu chodźcie” — 阿蓮米粉湯 zostało znalezione na Google Maps.** Właściwe rozróżnienie jest inne: **przegrywa research kuratorski** (blogi, listy „must eat”, wyróżnienia sprzed lat), a **wygrywa research na mapie**: filtr po odległości od noclegu + ocena tłumu. To ta sama metoda, którą 26 sie wyłapaliście moje budki z Raohe („część z nich ma 2,5 gwiazdki w Google”) — i tą samą metodą znaleźliście najlepszą kolację wyjazdu.
+
+**Reguła: przy jedzeniu szukajcie na mapie, nie w tekstach.** Blisko noclegu, wysoka ocena z dużej liczby opinii, krótka karta, miejscowi w środku.
 
 🥩 **WNIOSEK Z 28 SIE — w porannej knajpce wyprzedaje się DANIE, nie lokal.** W Six Thousand **sygnaturowa zupa wołowa była już wyprzedana**, ale lokal działał — **zjedliśmy dwie inne zupy i było bardzo dobrze (4,5/6).** To ten sam wzorzec, co przez cały wyjazd: Ningxia (5,5/6) wobec Raohe (3/6), nieudokumentowane 喫麵館 (5/6) wobec targu „dobrego, ale mało tajwańskiego”. **Planistycznie: jeśli chcecie konkretnie sygnaturę, przyjdźcie na otwarcie** — ale nie przenoście całego dnia z powodu jednego dania, bo reszta karty i tak dowozi.
 
