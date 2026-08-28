@@ -173,3 +173,4 @@ Hand-written HTML in `app.js` (**not** generated, edit directly, and it is in **
 - Seoul: DDP 중구 퇴계로66길 17-6 1, 04614 Seul, Korea Południowa
 - Busan: TBD (nie ustalone — transfery liczone approx., zakładając Haeundae)
 - Taipei: TBD (nie ustalone — plany zakładają pobyt centralnie)
+- Taichung (noc 28 sie): **台中市東區復興路四段158號** — East District, kilka minut pieszo od 台中車站; NTMoFA i kolacja w West District, ~10–15 min taksówką

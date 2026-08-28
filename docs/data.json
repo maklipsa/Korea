@@ -3222,7 +3222,17 @@
         },
         {
           "time": "~12:30",
-          "activity": "Przyjazd <strong>HSR Taichung (Wuri)</strong> → dojazd do centrum, bagaż do hotelu, lunch.",
+          "activity": "Przyjazd <strong>HSR Taichung (stacja Wuri)</strong> → przejście do <strong>TRA 新烏日</strong> (ten sam kompleks) → <strong>2 przystanki do 台中車站</strong> (~10 min).",
+          "price": ""
+        },
+        {
+          "time": "~13:00",
+          "activity": "🏨 <strong>Hotel: <a href=\"https://www.google.com/maps/search/%E5%8F%B0%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8D%80%E5%BE%A9%E8%88%88%E8%B7%AF%E5%9B%9B%E6%AE%B5158%E8%99%9F\" target=\"_blank\">台中市東區復興路四段158號</a></strong> — <strong>East District, kilka minut pieszo od 台中車站</strong>. Bagaż zostawiony, lunch w okolicy.",
+          "price": ""
+        },
+        {
+          "time": "",
+          "activity": "🗺️ <strong>Geografia dnia w skrócie:</strong> hotel i <strong>Miyahara</strong> są przy dworcu (East/Central District), a <strong>NTMoFA i kolacja</strong> w <strong>West District</strong> — ~10–15 min taksówką. <strong>National Taichung Theater leży jeszcze dalej na zachód (Xitun, ~20 min)</strong>, więc to najdroższy czasowo punkt dnia; jeśli coś ma wypaść, to on.",
           "price": ""
         },
         {
@@ -3242,7 +3252,7 @@
         },
         {
           "time": "~18:00",
-          "activity": "<strong><a href=\"https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung\" target=\"_blank\">★★★★☆ ☕📸 Miyahara Ice Cream Shop</a></strong> — klinika okulistyczna z lat 40., wnętrze jak z Harry'ego Pottera, <strong>sam budynek JEST atrakcją</strong>. Kolejka długa → zapas: <strong><a href=\"https://www.google.com/maps/search/Fourth+Credit+Union+Taichung\" target=\"_blank\">★★★☆☆ ☕ Fourth Credit Union</a></strong>, te same lody, ta sama firma.",
+          "activity": "<strong><a href=\"https://www.google.com/maps/search/Miyahara+Ice+Cream+Taichung\" target=\"_blank\">★★★★☆ ☕📸 Miyahara Ice Cream Shop</a></strong> — klinika okulistyczna z lat 40., wnętrze jak z Harry'ego Pottera, <strong>sam budynek JEST atrakcją</strong>. <strong>Leży przy 台中車站, czyli obok waszego hotelu</strong> — dobrze wypada jako ostatni punkt wieczoru albo jako deser po kolacji. Kolejka długa → zapas: <strong><a href=\"https://www.google.com/maps/search/Fourth+Credit+Union+Taichung\" target=\"_blank\">★★★☆☆ ☕ Fourth Credit Union</a></strong>, te same lody, ta sama firma.",
           "price": ""
         },
         {
