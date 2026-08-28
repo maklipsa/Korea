@@ -41,7 +41,9 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 
 ⚠️ **Ale to NIE jest reguła „nie researchujcie, po prostu chodźcie” — 阿蓮米粉湯 zostało znalezione na Google Maps.** Właściwe rozróżnienie jest inne: **przegrywa research kuratorski** (blogi, listy „must eat”, wyróżnienia sprzed lat), a **wygrywa research na mapie**: filtr po odległości od noclegu + ocena tłumu. To ta sama metoda, którą 26 sie wyłapaliście moje budki z Raohe („część z nich ma 2,5 gwiazdki w Google”) — i tą samą metodą znaleźliście najlepszą kolację wyjazdu.
 
-**Reguła: przy jedzeniu szukajcie na mapie, nie w tekstach.** Blisko noclegu, wysoka ocena z dużej liczby opinii, krótka karta, miejscowi w środku.
+**Reguła: przy jedzeniu szukajcie na mapie, nie w tekstach.** Wysoka ocena z dużej liczby opinii, krótka karta, miejscowi w środku, tanio.
+
+⚠️ **Odległość NIE jest kryterium jakości — i nie jest ograniczeniem.** Po jedzenie ta rodzina pojedzie dalej, więc „blisko noclegu” to najwyżej wygoda, nigdy powód wyboru. Wcześniej zapisałem to jako „targ obok łóżka bije targ ze sławą” — **to był błędny wniosek z przypadkowej korelacji**: Ningxia akurat leżała 300 m od hotelu, a Raohe przez pół miasta. **Prawdziwą zmienną była gęstość turystów, nie kilometry.** Raohe przegrało jako „sławne + tłoczne”, a nie jako „daleko”.
 
 🥩 **WNIOSEK Z 28 SIE — w porannej knajpce wyprzedaje się DANIE, nie lokal.** W Six Thousand **sygnaturowa zupa wołowa była już wyprzedana**, ale lokal działał — **zjedliśmy dwie inne zupy i było bardzo dobrze (4,5/6).** To ten sam wzorzec, co przez cały wyjazd: Ningxia (5,5/6) wobec Raohe (3/6), nieudokumentowane 喫麵館 (5/6) wobec targu „dobrego, ale mało tajwańskiego”. **Planistycznie: jeśli chcecie konkretnie sygnaturę, przyjdźcie na otwarcie** — ale nie przenoście całego dnia z powodu jednego dania, bo reszta karty i tak dowozi.
 
@@ -54,7 +56,7 @@ Każde miejsce ma znacznik tego, czym jest — jedno miejsce może mieć więcej
 🏮 **WNIOSEK Z 26 SIE — targ obok łóżka bije targ ze sławą.** **Raohe dostało 3/6** i to nie była kwestia gustu, a wartości: **drożej niż na targu przy hotelu, mniejsze porcje, słabsza jakość, najlepsze budki już zamknięte.** Seria „sławne + tłoczne” ma teraz **7 nietrafień na 7**, a Raohe jest **poniżej** pułapu 4/6, na którym trzymała się reszta.
 
 **Dwie rzeczy do zabrania na południe:**
-- **Wybierajcie targ najbliżej noclegu, nie najsłynniejszy w mieście.** Liczby są brutalne: **Ningxia (300 m od hotelu) 5,5/6 wobec Raohe (przez pół miasta) 3/6** — różnica **2,5 punktu** na tym samym produkcie, i jeszcze taniej. Na 27–28 sie znaczy to: **targ przy hotelu w Tainanie i w Kaohsiungu**, a nie ten z przewodnika.
+- **Wybierajcie targ LOKALNY, nie najsłynniejszy w mieście.** Liczby są brutalne: **Ningxia 5,5/6 wobec Raohe 3/6** — różnica **2,5 punktu** na tym samym produkcie, i jeszcze taniej. ⚠️ **Zmienną jest gęstość turystów, nie odległość** — Ningxia akurat leżała blisko hotelu, ale to była korelacja, nie przyczyna. Po dobre jedzenie warto dojechać. Na 27–28 sie znaczy to: **targ przy hotelu w Tainanie i w Kaohsiungu**, a nie ten z przewodnika.
 - ⏰ **Na słynnym targu najlepsze budki się WYPRZEDAJĄ.** Doszliśmy ~20:20, w szczycie tłumu — i to było za późno. **Szczyt tłumu to nie szczyt dostępności.** Następny raz **18:00–19:00**, zaraz po rozkręceniu się targu.
 
 💸 **WNIOSEK Z 26 SIE — cena nie kupuje oceny, a nasze gwiazdki systematycznie źle typują.** Tabela po 16 dniach mówi to jednoznacznie:
