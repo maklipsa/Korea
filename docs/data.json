@@ -3376,18 +3376,18 @@
         },
         {
           "time": "",
-          "activity": "<em>Albo:</em> <strong><a href=\"https://www.google.com/maps/search/%E6%98%A5%E6%B0%B4%E5%A0%82+%E5%89%B5%E5%A7%8B%E5%BA%97+%E5%8F%B0%E4%B8%AD\" target=\"_blank\">★★★★☆ 🧋🍜 春水堂 創始店</a></strong> — otwarte <strong>od 8:00</strong>; jeśli nie weszło wczoraj na kolację, to jest ostatnia szansa na <strong>miejsce, w którym wymyślono bubble tea</strong>.",
+          "activity": "⏭️ <del>春水堂 創始店</del> — <strong>zrobione 28 sie (3,5/6)</strong>, wypada z jutra.",
           "price": ""
         },
         {
           "time": "~10:00",
-          "activity": "⚖️ <strong>To, czego NIE wybraliście wczoraj o 16:00.</strong> Wczoraj kaplica i teatr były alternatywą — <strong>dziś rano jest czas na tę drugą.</strong>",
+          "activity": "<strong>Punkt poranka — do wyboru.</strong> Kaplica odpuszczona (niżej), więc zostaje teatr albo dojazd do 綠美圖.",
           "price": ""
         },
         {
           "time": "",
-          "activity": "<strong><a href=\"https://www.google.com/maps/search/Luce+Memorial+Chapel+Tunghai+University+Taichung\" target=\"_blank\">★★★★☆ 📸⛪ Luce Memorial Chapel / 路思義教堂</a></strong> — I.M. Pei, 東海大學, ~25 min taksówką. ⚠️ <strong>W sobotę wnętrze jest ZAMKNIĘTE</strong> — dziś zobaczycie tylko bryłę (kampus czynny 24 h). Jeśli wczoraj weszliście do środka, dziś nie ma po co wracać.",
-          "price": "Bezpłatnie"
+          "activity": "⏭️ <strong>Luce Memorial Chapel odpuszczona.</strong> Świetny budynek, ale <strong>w sobotę wnętrze zamknięte</strong>, a sama bryła nie jest warta ~50 min w obie strony do Tunghai w dniu wylotu.",
+          "price": ""
         },
         {
           "time": "",
@@ -3396,7 +3396,17 @@
         },
         {
           "time": "~12:00",
-          "activity": "🎁 <strong><a href=\"https://www.google.com/maps/search/Taichung+Sun+Cakes+Taiyang+Bing\" target=\"_blank\">★★★☆☆ ☕ Taichung Sun Cakes / 太陽餅</a></strong> — <strong>sygnaturowy wypiek Taichung</strong>, kupowany na koniec, bo świeży. Sklepy są w okolicy 台中車站, czyli przy hotelu. ⚠️ <strong>Na TPE te same rzeczy są wyraźnie droższe.</strong>",
+          "activity": "🎁 <strong>太陽餅 — konkretne adresy, nie ogólne szukanie.</strong> <strong><a href=\"https://www.google.com/maps/search/%E9%99%B3%E5%85%81%E5%AF%B6%E6%B3%89+%E8%87%AA%E7%94%B1%E7%B8%BD%E5%BA%97+%E5%8F%B0%E4%B8%AD%E5%B8%82%E4%B8%AD%E5%8D%80%E8%87%AA%E7%94%B1%E8%B7%AF%E4%BA%8C%E6%AE%B536%E8%99%9F\" target=\"_blank\">陳允寶泉, 自由總店, 自由路二段36號</a></strong> ☎ 04-2222-2257, <strong>9:00–21:30</strong> (zamknięte w śr., sob. OK) — stuletnia piekarnia w 中區, <strong>~10 min pieszo od 台中車站</strong>, obok zabytkowego Banku Changhua. Ich 太陽餅 są mniejsze i <strong>mniej słodkie</strong>, ~NT$28/szt.",
+          "price": ""
+        },
+        {
+          "time": "",
+          "activity": "🍥 <strong>Cała <a href=\"https://www.google.com/maps/search/%E8%87%AA%E7%94%B1%E8%B7%AF%E4%BA%8C%E6%AE%B5+%E5%A4%AA%E9%99%BD%E9%A4%85%E8%A1%97+%E5%8F%B0%E4%B8%AD%E5%B8%82%E4%B8%AD%E5%8D%80\" target=\"_blank\">自由路二段</a> to „ulica太陽餅”</strong> — obok siebie stoją jeszcze <strong>阿明師老店</strong> (8:00–22:30), <strong>23號太陽餅店</strong> (9:30–21:00) i <strong>太陽堂老店25號</strong>. Można porównać w pięć minut. 💡 Zgodnie z naszą regułą: <strong>wybierzcie na mapie po ocenie, nie po tym, co polecam.</strong>",
+          "price": ""
+        },
+        {
+          "time": "",
+          "activity": "<em>Dla koneserów, ale to nadłożenie drogi:</em> <strong><a href=\"https://www.google.com/maps/search/%E5%98%89%E5%91%B3%E8%BB%92+%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80%E6%A8%A1%E7%AF%84%E8%A1%9712%E5%B7%B75%E8%99%9F\" target=\"_blank\">嘉味軒, 模範街12巷5號</a></strong> (西區, ☎ 04-2301-2180, pon.–sob. 9:30–21:30) — 40-letni lokal, słynne <strong>鮮奶太陽餅</strong> z mlekiem, najczęściej polecane przez samych Tajwańczyków.",
           "price": ""
         },
         {
