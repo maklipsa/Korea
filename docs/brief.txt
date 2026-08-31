@@ -1,6 +1,6 @@
 # Plan wyjazdu — Korea i Tajwan (od dziś do końca)
 
-> **Wygenerowano: 2026-08-31.** Wyjazd jest już zakończony — nie ma dni przed nami.
+> **Wygenerowano: 2026-09-01.** Wyjazd jest już zakończony — nie ma dni przed nami.
 > Ten plik zawiera **tylko dzisiejszy dzień i dni pozostałe** (0 z 19). Dni już minione, lista pakowania, DMZ, karty zniżkowe i pełny katalog miejsc są pominięte celowo.
 > Pełny plan: https://indexoutofrange.com/Korea · pełny eksport danych: https://indexoutofrange.com/Korea/data.json
 
